@@ -58,6 +58,40 @@ INCLUDE_TITLE_KEYWORDS = [
     "analytics engineer",
 ]
 
+# ---- EFFICIENCY CAPS (because we poll frequently) ----
+# We only need the newest jobs each run. This keeps requests small and avoids rate limits.
+MAX_MS_JOBS_PER_RUN = int(os.getenv("MAX_MS_JOBS_PER_RUN", "300"))
+MAX_AMZ_JOBS_PER_RUN = int(os.getenv("MAX_AMZ_JOBS_PER_RUN", "300"))
+
+# Amazon supports a larger page size; using 50 reduces request count.
+AMZ_RESULT_LIMIT = int(os.getenv("AMZ_RESULT_LIMIT", "50"))
+
+
+def microsoft_key_from_pos(pos: Dict) -> str:
+    job_id = str(pos.get("id", ""))
+    if job_id:
+        return f"microsoft:{job_id}"
+    url = pos.get("applyUrl") or pos.get("positionUrl") or ""
+    return f"microsoft:url:{url}"
+
+
+def amazon_key_from_job(job: Dict) -> str:
+    job_id = (
+        job.get("id")
+        or job.get("job_id")
+        or job.get("jobId")
+        or job.get("id_icims")
+        or job.get("icims_id")
+        or job.get("requisition_id")
+        or ""
+    )
+    job_id = str(job_id)
+    if job_id:
+        return f"amazon:{job_id}"
+    url = job.get("url") or job.get("job_path") or ""
+    return f"amazon:url:{url}"
+
+
 STATE_PATH = "state/seen.json"
 
 # ---- EMAIL ENV VARS ----
@@ -90,7 +124,13 @@ def title_matches(title: str) -> bool:
     return any(k in t for k in INCLUDE_TITLE_KEYWORDS)
 
 
-def fetch_microsoft_positions() -> List[Dict]:
+def fetch_microsoft_positions(seen_keys: Set[str] | None = None, max_positions: int = MAX_MS_JOBS_PER_RUN) -> List[Dict]:
+    """Fetch only the newest Microsoft jobs.
+
+    Because we poll frequently and results are sorted newest-first, we stop early when:
+    - we hit max_positions, OR
+    - we encounter a full page where every job is already seen (meaning we're into older territory).
+    """
     headers = {
         "accept": "application/json",
         "user-agent": "Mozilla/5.0",
@@ -99,10 +139,8 @@ def fetch_microsoft_positions() -> List[Dict]:
     all_positions: List[Dict] = []
     start = 0
 
-    # Eightfold search endpoints sometimes return 10/20/25/50 per page.
-    # We avoid assuming a fixed page size. Instead, we increment by the
-    # number of results returned each time and stop only when we get 0.
-    safety_cap = 5000  # hard limit to prevent infinite loops
+    # Hard cap to prevent any accidental infinite loop.
+    safety_cap = 5000
 
     while True:
         params = dict(MS_PARAMS)
@@ -118,17 +156,35 @@ def fetch_microsoft_positions() -> List[Dict]:
 
         all_positions.extend(positions)
 
-        # Advance by how many we actually received (no fixed step)
+        # Stop if we've collected enough newest jobs.
+        if len(all_positions) >= max_positions:
+            all_positions = all_positions[:max_positions]
+            break
+
+        # Early stop: if the entire returned page is already seen, we're past the frontier.
+        if seen_keys is not None and start > 0:
+            page_keys = {microsoft_key_from_pos(p) for p in positions}
+            if page_keys and page_keys.issubset(seen_keys):
+                break
+
+        # Advance by how many we received (no fixed step)
         start += len(positions)
 
-        # Safety cap so we never loop forever
         if start >= safety_cap:
             break
 
     return all_positions
 
 
-def fetch_amazon_positions() -> List[Dict]:
+def fetch_amazon_positions(seen_keys: Set[str] | None = None, max_positions: int = MAX_AMZ_JOBS_PER_RUN) -> List[Dict]:
+    """Fetch only the newest Amazon jobs.
+
+    Amazon results are sorted newest-first when sort=recent. We stop early when:
+    - we hit max_positions, OR
+    - we see a page where every job is already seen.
+
+    We also use a larger result_limit to reduce the number of HTTP requests.
+    """
     headers = {
         "accept": "application/json",
         "user-agent": "Mozilla/5.0",
@@ -136,7 +192,7 @@ def fetch_amazon_positions() -> List[Dict]:
 
     all_jobs: List[Dict] = []
     offset = 0
-    limit = int(AMZ_PARAMS.get("result_limit", 10))
+    limit = AMZ_RESULT_LIMIT
     safety_cap = 5000
 
     while True:
@@ -154,11 +210,22 @@ def fetch_amazon_positions() -> List[Dict]:
 
         all_jobs.extend(jobs)
 
+        if len(all_jobs) >= max_positions:
+            all_jobs = all_jobs[:max_positions]
+            break
+
+        # Early stop: if this page is entirely already seen, we're into older jobs.
+        if seen_keys is not None and offset > 0:
+            page_keys = {amazon_key_from_job(j) for j in jobs}
+            if page_keys and page_keys.issubset(seen_keys):
+                break
+
         offset += len(jobs)
         if offset >= safety_cap:
             break
 
     return all_jobs
+
 
 def normalize_position(pos: Dict) -> Dict:
     # Stable key: company + id
@@ -282,11 +349,11 @@ def send_email_digest(new_jobs: List[Dict], subject_prefix: str = "[Job Alerts]"
 def main(test_email: bool = False) -> None:
     seen = load_seen_ids(STATE_PATH)
 
-    ms_positions = fetch_microsoft_positions()
+    ms_positions = fetch_microsoft_positions(seen_keys=seen)
     print(f"[DEBUG] Fetched {len(ms_positions)} positions from Microsoft endpoint.")
     ms_norm = [normalize_position(p) for p in ms_positions]
 
-    amz_positions = fetch_amazon_positions()
+    amz_positions = fetch_amazon_positions(seen_keys=seen)
     print(f"[DEBUG] Fetched {len(amz_positions)} jobs from Amazon endpoint.")
     amz_norm = [normalize_amazon_job(j) for j in amz_positions]
 
@@ -306,7 +373,6 @@ def main(test_email: bool = False) -> None:
         return
 
     latest_keys = {j["key"] for j in matched}
-    new_keys = latest_keys - seen
 
     # Per-source bootstrap: if a source has never been seen before, don't email
     # all existing matches from that source on the first run after adding it.
@@ -323,15 +389,13 @@ def main(test_email: bool = False) -> None:
         save_seen_ids(STATE_PATH, seen)
         print(f"[BOOTSTRAP] Initialized sources: {', '.join(sorted(bootstrap_sources))}. No email for these sources this run.")
 
-        # Recompute new_keys after bootstrapping
-        new_keys = latest_keys - seen
-
     # Bootstrap mode (first run): save state, do NOT email
     if not os.path.exists(STATE_PATH):
         save_seen_ids(STATE_PATH, latest_keys)
         print(f"[BOOTSTRAP] Saved {len(latest_keys)} seen_ids. No email sent.")
         return
 
+    new_keys = latest_keys - seen
     new_jobs = [j for j in matched if j["key"] in new_keys]
 
     if new_jobs:
