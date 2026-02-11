@@ -1,0 +1,46 @@
+name: Microsoft Job Watcher
+
+on:
+  schedule:
+    - cron: "*/5 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  run-watcher:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install deps
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
+
+      - name: Run watcher
+        env:
+          EMAIL_USER: ${{ secrets.EMAIL_USER }}
+          EMAIL_APP_PASSWORD: ${{ secrets.EMAIL_APP_PASSWORD }}
+          ALERT_TO_EMAIL: ${{ secrets.ALERT_TO_EMAIL }}
+        run: |
+          python watcher.py
+
+      - name: Commit updated state
+        run: |
+          if git status --porcelain | grep -q "state/seen.json"; then
+            git config user.name "job-watcher-bot"
+            git config user.email "job-watcher-bot@users.noreply.github.com"
+            git add state/seen.json
+            git commit -m "Update seen_ids"
+            git push
+          else
+            echo "No state changes."
+          fi
