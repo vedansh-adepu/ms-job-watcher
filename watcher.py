@@ -4,6 +4,7 @@ import argparse
 import ssl
 import smtplib
 import csv
+import re
 from email.mime.text import MIMEText
 from datetime import datetime, timezone
 from typing import Any, Dict, List, Set, Tuple
@@ -449,6 +450,55 @@ def load_boards_csv(path: str) -> List[Dict[str, str]]:
 def make_location(parts: List[str]) -> str:
     clean = [p.strip() for p in parts if p and str(p).strip()]
     return ", ".join(clean) if clean else "Unknown Location"
+
+
+# -----------------------------
+# Location helpers (Boards mode)
+# -----------------------------
+
+US_STATE_ABBRS = {
+    "al","ak","az","ar","ca","co","ct","de","fl","ga","hi","id","il","in","ia","ks","ky","la",
+    "me","md","ma","mi","mn","ms","mo","mt","ne","nv","nh","nj","nm","ny","nc","nd","oh","ok",
+    "or","pa","ri","sc","sd","tn","tx","ut","vt","va","wa","wv","wi","wy","dc",
+}
+
+
+def is_us_location(location: str) -> bool:
+    """Return True if a location string strongly indicates a US-based role.
+
+    This is used primarily for Greenhouse/Lever boards where postings can span many countries.
+    We intentionally require a positive US signal; ambiguous 'Remote' without 'US' is excluded.
+    """
+    loc = (location or "").strip().lower()
+    if not loc or loc == "unknown location":
+        return False
+
+    # Strong country signals
+    if "united states" in loc or "u.s." in loc:
+        return True
+
+    # USA token (avoid matching 'aus' etc.)
+    if re.search(r"\busa\b", loc):
+        return True
+
+    # Remote explicitly tied to US
+    if "remote" in loc and (
+        re.search(r"\bus\b", loc)
+        or "united states" in loc
+        or re.search(r"\busa\b", loc)
+    ):
+        return True
+
+    # DC explicit
+    if "washington, dc" in loc or "district of columbia" in loc:
+        return True
+
+    # City, ST pattern like ", CA" or ", va"
+    m = re.search(r",\s*([a-z]{2})(\b|[^a-z])", loc)
+    if m and m.group(1) in US_STATE_ABBRS:
+        return True
+
+    return False
 
 
 # -----------------------------
@@ -985,7 +1035,10 @@ def run_boards_sweep(
         except Exception as e:
             errors.append(f"{platform} {company}: {type(e).__name__}: {e}")
 
-    matched = [j for j in normalized if title_matches(j.get("title", ""))]
+    matched = [
+        j for j in normalized
+        if title_matches(j.get("title", "")) and is_us_location(j.get("location", ""))
+    ]
     latest_keys = {j["key"] for j in matched if j.get("key")}
 
     # Advance cursor
@@ -1203,6 +1256,23 @@ if __name__ == "__main__":
             save_seen_ids(STATE_PATH, latest_keys)
             save_boards_cursor(BOARDS_CURSOR_PATH, new_cursor)
             print(f"[BOOTSTRAP] Saved {len(latest_keys)} seen_ids (boards). No email sent.")
+            raise SystemExit(0)
+
+        # Boards bootstrap: if we've never stored any greenhouse/lever keys yet,
+        # don't email a massive historical dump on the first boards run.
+        has_any_boards_keys = any(
+            k.startswith("greenhouse:") or k.startswith("lever:")
+            for k in seen
+        )
+
+        if not has_any_boards_keys:
+            seen |= latest_keys
+            save_seen_ids(STATE_PATH, seen)
+            save_boards_cursor(BOARDS_CURSOR_PATH, new_cursor)
+            print(
+                f"[BOOTSTRAP] Initialized boards mode with {len(latest_keys)} seen_ids. "
+                "No email sent."
+            )
             raise SystemExit(0)
 
         new_keys = latest_keys - seen
