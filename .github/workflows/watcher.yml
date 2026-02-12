@@ -8,12 +8,18 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: job-watcher-state
+  cancel-in-progress: true
+
 jobs:
   run-watcher:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -38,9 +44,26 @@ jobs:
           if git status --porcelain | grep -q "state/seen.json"; then
             git config user.name "job-watcher-bot"
             git config user.email "job-watcher-bot@users.noreply.github.com"
+
             git add state/seen.json
             git commit -m "Update seen_ids"
-            git push
+
+            # Sync-safe push with retries (handles schedule + rerun collisions)
+            for i in 1 2 3; do
+              git fetch origin main
+              git rebase origin/main
+
+              if git push origin HEAD:main; then
+                echo "Pushed state successfully."
+                exit 0
+              fi
+
+              echo "Push failed (attempt $i). Retrying..."
+              sleep 2
+            done
+
+            echo "Push failed after 3 attempts."
+            exit 1
           else
             echo "No state changes."
           fi
