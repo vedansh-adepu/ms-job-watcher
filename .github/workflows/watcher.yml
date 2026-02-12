@@ -8,8 +8,9 @@ on:
 permissions:
   contents: write
 
+# Independent from boards sweep
 concurrency:
-  group: job-watcher-state
+  group: job-watcher-microsoft
   cancel-in-progress: true
 
 jobs:
@@ -46,7 +47,7 @@ jobs:
             git config user.email "job-watcher-bot@users.noreply.github.com"
 
             git add state/seen.json
-            git commit -m "Update seen_ids"
+            git commit -m "Update seen_ids" || echo "Nothing to commit."
 
             # Sync-safe push with retries (handles schedule + rerun collisions)
             for i in 1 2 3; do
