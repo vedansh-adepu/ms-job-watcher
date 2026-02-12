@@ -3,6 +3,7 @@ import os
 import argparse
 import ssl
 import smtplib
+import csv
 from email.mime.text import MIMEText
 from datetime import datetime, timezone
 from typing import Any, Dict, List, Set, Tuple
@@ -22,6 +23,7 @@ import requests
 #   - update state
 
 STATE_PATH = "state/seen.json"
+BOARDS_CURSOR_PATH = "state/boards_cursor.json"
 
 # ---- EMAIL ENV VARS ----
 EMAIL_USER = os.getenv("EMAIL_USER")  # sender gmail
@@ -371,6 +373,32 @@ def save_seen_ids(path: str, seen_ids: Set[str]) -> None:
         json.dump(payload, f, indent=2)
 
 
+# -----------------------------
+# Boards cursor helpers
+# -----------------------------
+
+def load_boards_cursor(path: str) -> int:
+    if not os.path.exists(path):
+        return 0
+    try:
+        with open(path, "r", encoding="utf-8") as f:
+            data = json.load(f)
+        cur = int(data.get("cursor", 0))
+        return max(cur, 0)
+    except Exception:
+        return 0
+
+
+def save_boards_cursor(path: str, cursor: int) -> None:
+    os.makedirs(os.path.dirname(path), exist_ok=True)
+    payload = {
+        "updated_utc": datetime.now(timezone.utc).isoformat(),
+        "cursor": int(max(cursor, 0)),
+    }
+    with open(path, "w", encoding="utf-8") as f:
+        json.dump(payload, f, indent=2)
+
+
 def title_matches(title: str) -> bool:
     t = (title or "").lower()
     return any(k in t for k in INCLUDE_TITLE_KEYWORDS)
@@ -379,6 +407,44 @@ def title_matches(title: str) -> bool:
 # -----------------------------
 # Normalized job shape helpers
 # -----------------------------
+
+def load_boards_csv(path: str) -> List[Dict[str, str]]:
+    if not os.path.exists(path):
+        raise FileNotFoundError(f"Boards CSV not found: {path}")
+
+    rows: List[Dict[str, str]] = []
+    with open(path, "r", encoding="utf-8") as f:
+        reader = csv.DictReader(f)
+        for r in reader:
+            company = (r.get("company_name") or r.get("company") or "").strip()
+            platform = (r.get("platform") or "").strip().lower()
+            url = (r.get("board_url") or r.get("url") or "").strip()
+            ok_val = (r.get("ok") or "").strip().lower()
+
+            # Allow either the original 3-col CSV OR the *_with_meta.csv with ok/status columns.
+            if ok_val and ok_val not in ("true", "1", "yes"):
+                continue
+
+            if not company or not platform or not url:
+                continue
+
+            if platform not in ("greenhouse", "lever"):
+                continue
+
+            rows.append({"company": company, "platform": platform, "board_url": url})
+
+    # Deduplicate by (platform, board_url)
+    seen: Set[Tuple[str, str]] = set()
+    deduped: List[Dict[str, str]] = []
+    for r in rows:
+        k = (r["platform"], r["board_url"].rstrip("/"))
+        if k in seen:
+            continue
+        seen.add(k)
+        r["board_url"] = r["board_url"].rstrip("/")
+        deduped.append(r)
+
+    return deduped
 
 def make_location(parts: List[str]) -> str:
     clean = [p.strip() for p in parts if p and str(p).strip()]
@@ -784,8 +850,148 @@ def normalize_oracle_req(req: Dict[str, Any]) -> Dict[str, str]:
 
 
 # -----------------------------
-# Email
+# Greenhouse + Lever (Boards mode)
 # -----------------------------
+
+def greenhouse_slug_from_board_url(board_url: str) -> str:
+    # supports:
+    #  - https://boards.greenhouse.io/<slug>
+    #  - https://job-boards.greenhouse.io/<slug>
+    parts = (board_url or "").split("/")
+    return parts[-1] if parts and parts[-1] else ""
+
+
+def lever_slug_from_board_url(board_url: str) -> str:
+    # supports:
+    #  - https://jobs.lever.co/<slug>
+    parts = (board_url or "").split("/")
+    return parts[-1] if parts and parts[-1] else ""
+
+
+def gh_key(company_slug: str, job_id: str) -> str:
+    return f"greenhouse:{company_slug}:{job_id}"
+
+
+def lever_key(company_slug: str, job_id: str) -> str:
+    return f"lever:{company_slug}:{job_id}"
+
+
+def fetch_greenhouse_jobs(company_slug: str, timeout: int = 30) -> List[Dict[str, Any]]:
+    # Public Greenhouse boards API
+    url = f"https://boards-api.greenhouse.io/v1/boards/{company_slug}/jobs"
+    r = requests.get(url, params={"content": "true"}, headers={"accept": "application/json", "user-agent": "Mozilla/5.0"}, timeout=timeout)
+    r.raise_for_status()
+    data = r.json()
+    jobs = data.get("jobs") or []
+    return jobs if isinstance(jobs, list) else []
+
+
+def fetch_lever_jobs(company_slug: str, timeout: int = 30) -> List[Dict[str, Any]]:
+    # Public Lever postings API
+    url = f"https://jobs.lever.co/v0/postings/{company_slug}"
+    r = requests.get(url, params={"mode": "json"}, headers={"accept": "application/json", "user-agent": "Mozilla/5.0"}, timeout=timeout)
+    r.raise_for_status()
+    data = r.json()
+    return data if isinstance(data, list) else []
+
+
+def normalize_greenhouse_job(company_name: str, company_slug: str, job: Dict[str, Any]) -> Dict[str, str]:
+    job_id = str(job.get("id") or "")
+    key = gh_key(company_slug, job_id) if job_id else f"greenhouse:{company_slug}:url:{job.get('absolute_url','')}"
+
+    title = job.get("title") or "Unknown Title"
+
+    # location: prefer first location name
+    loc = "Unknown Location"
+    loc_obj = job.get("location")
+    if isinstance(loc_obj, dict) and loc_obj.get("name"):
+        loc = str(loc_obj.get("name"))
+
+    posted_str = job.get("updated_at") or job.get("created_at") or ""
+    url = job.get("absolute_url") or job.get("url") or ""
+
+    return {
+        "key": str(key),
+        "company": str(company_name),
+        "title": str(title),
+        "location": str(loc),
+        "posted": str(posted_str),
+        "url": str(url),
+    }
+
+
+def normalize_lever_job(company_name: str, company_slug: str, job: Dict[str, Any]) -> Dict[str, str]:
+    job_id = str(job.get("id") or "")
+    key = lever_key(company_slug, job_id) if job_id else f"lever:{company_slug}:url:{job.get('hostedUrl','')}"
+
+    title = job.get("text") or job.get("title") or "Unknown Title"
+
+    loc = "Unknown Location"
+    categories = job.get("categories")
+    if isinstance(categories, dict) and categories.get("location"):
+        loc = str(categories.get("location"))
+
+    posted_str = job.get("createdAt") or ""
+    # createdAt is usually ms since epoch
+    if isinstance(posted_str, (int, float)):
+        posted_str = datetime.fromtimestamp(float(posted_str) / 1000.0, tz=timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
+
+    url = job.get("hostedUrl") or job.get("applyUrl") or ""
+
+    return {
+        "key": str(key),
+        "company": str(company_name),
+        "title": str(title),
+        "location": str(loc),
+        "posted": str(posted_str),
+        "url": str(url),
+    }
+
+
+def run_boards_sweep(
+    seen: Set[str],
+    boards_csv: str,
+    batch_size: int,
+) -> Tuple[List[Dict[str, str]], Set[str], List[str], int]:
+    boards = load_boards_csv(boards_csv)
+    if not boards:
+        return [], set(), ["Boards CSV is empty after filtering."], 0
+
+    cursor = load_boards_cursor(BOARDS_CURSOR_PATH)
+    n = len(boards)
+
+    # Process a slice [cursor, cursor+batch_size)
+    start = cursor % n
+    end = min(start + max(batch_size, 1), n)
+    batch = boards[start:end]
+
+    normalized: List[Dict[str, str]] = []
+    errors: List[str] = []
+
+    for b in batch:
+        company = b["company"]
+        platform = b["platform"]
+        board_url = b["board_url"]
+
+        try:
+            if platform == "greenhouse":
+                slug = greenhouse_slug_from_board_url(board_url)
+                jobs = fetch_greenhouse_jobs(slug)
+                normalized.extend([normalize_greenhouse_job(company, slug, j) for j in jobs])
+            elif platform == "lever":
+                slug = lever_slug_from_board_url(board_url)
+                jobs = fetch_lever_jobs(slug)
+                normalized.extend([normalize_lever_job(company, slug, j) for j in jobs])
+        except Exception as e:
+            errors.append(f"{platform} {company}: {type(e).__name__}: {e}")
+
+    matched = [j for j in normalized if title_matches(j.get("title", ""))]
+    latest_keys = {j["key"] for j in matched if j.get("key")}
+
+    # Advance cursor
+    new_cursor = end if end < n else 0
+
+    return matched, latest_keys, errors, new_cursor
 
 def send_email_digest(new_jobs: List[Dict[str, str]], subject_prefix: str = "[Job Alerts]") -> None:
     if not (EMAIL_USER and EMAIL_APP_PASSWORD and ALERT_TO_EMAIL):
@@ -950,6 +1156,72 @@ if __name__ == "__main__":
         action="store_true",
         help="Send a test email using the latest 1-3 matching jobs (does not change seen_ids).",
     )
+    parser.add_argument(
+        "--mode",
+        default="main",
+        choices=["main", "boards"],
+        help="Run mode: main (existing adapters) or boards (Greenhouse/Lever sweep).",
+    )
+    parser.add_argument(
+        "--boards-csv",
+        default="job_boards_ok_with_meta.csv",
+        help="Boards CSV path (must include company_name, platform, board_url).",
+    )
+    parser.add_argument(
+        "--boards-batch-size",
+        type=int,
+        default=50,
+        help="How many boards to process per boards run (default: 50).",
+    )
+
     args = parser.parse_args()
 
-    main(test_email=args.test_email)
+    if args.mode == "boards":
+        seen = load_seen_ids(STATE_PATH)
+        matched, latest_keys, errors, new_cursor = run_boards_sweep(
+            seen=seen,
+            boards_csv=args.boards_csv,
+            batch_size=args.boards_batch_size,
+        )
+
+        if args.test_email:
+            sample = matched[:3]
+            if not sample:
+                raise RuntimeError("No matching jobs found to send in test email.")
+            send_email_digest(sample, subject_prefix="[TEST Boards Alerts]")
+            print(f"[TEST] Sent a test boards email with {len(sample)} job(s) to {ALERT_TO_EMAIL}.")
+            if errors:
+                print("[WARN] Some boards failed:")
+                for e in errors:
+                    print("  -", e)
+            # Still save cursor so manual test walks forward
+            save_boards_cursor(BOARDS_CURSOR_PATH, new_cursor)
+            raise SystemExit(0)
+
+        # First-ever boards run: bootstrap to avoid emailing historical postings
+        if not os.path.exists(STATE_PATH):
+            save_seen_ids(STATE_PATH, latest_keys)
+            save_boards_cursor(BOARDS_CURSOR_PATH, new_cursor)
+            print(f"[BOOTSTRAP] Saved {len(latest_keys)} seen_ids (boards). No email sent.")
+            raise SystemExit(0)
+
+        new_keys = latest_keys - seen
+        new_jobs = [j for j in matched if j.get("key") in new_keys]
+
+        if new_jobs:
+            send_email_digest(new_jobs, subject_prefix="[Boards Alerts]")
+            print(f"[ALERT] Sent boards digest for {len(new_jobs)} new job(s).")
+        else:
+            print("[OK] No new boards jobs.")
+
+        seen |= latest_keys
+        save_seen_ids(STATE_PATH, seen)
+        save_boards_cursor(BOARDS_CURSOR_PATH, new_cursor)
+
+        if errors:
+            print("[WARN] Some boards failed (sweep still ran):")
+            for e in errors:
+                print("  -", e)
+
+    else:
+        main(test_email=args.test_email)
