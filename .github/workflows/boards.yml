@@ -2,9 +2,8 @@ name: Job Boards Sweep (Broad Lane)
 
 on:
   workflow_dispatch:
-  # Enable this AFTER Step 2 (code supports boards mode)
-  # schedule:
-  #   - cron: "17 * * * *"   # hourly at minute 17
+  schedule:
+    - cron: "17 * * * *"   # hourly at minute 17
 
 permissions:
   contents: write
@@ -22,7 +21,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0  # needed for rebase
+          fetch-depth: 0  # needed for pull --rebase
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -56,19 +55,6 @@ jobs:
           git add state/seen.json state/boards_cursor.json
           git commit -m "Update board sweep state" || echo "Nothing to commit."
 
-          # Sync-safe push with retries (handles schedule + rerun collisions)
-          for i in 1 2 3; do
-            git fetch origin main
-            git rebase origin/main
-
-            if git push origin HEAD:main; then
-              echo "Pushed state successfully."
-              exit 0
-            fi
-
-            echo "Push failed (attempt $i). Retrying..."
-            sleep 2
-          done
-
-          echo "Push failed after 3 attempts."
-          exit 1
+          # Rebase onto remote to avoid 'rejected (fetch first)'
+          git pull --rebase origin main
+          git push origin main
