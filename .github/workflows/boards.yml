@@ -1,0 +1,64 @@
+name: Job Boards Sweep (Broad Lane)
+
+on:
+  workflow_dispatch:
+  # Enable this AFTER Step 2 (code supports boards mode)
+  # schedule:
+  #   - cron: "17 * * * *"   # hourly at minute 17
+
+permissions:
+  contents: write
+
+# Prevent push conflicts with other workflows that also commit state
+concurrency:
+  group: job-watcher-state
+  cancel-in-progress: false
+
+jobs:
+  run-boards-sweep:
+    # For now: only manual runs until code is ready
+    if: github.event_name == 'workflow_dispatch'
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0  # needed for pull --rebase
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install deps
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
+
+      - name: Run boards sweep
+        env:
+          EMAIL_USER: ${{ secrets.EMAIL_USER }}
+          EMAIL_APP_PASSWORD: ${{ secrets.EMAIL_APP_PASSWORD }}
+          ALERT_TO_EMAIL: ${{ secrets.ALERT_TO_EMAIL }}
+        run: |
+          # Step 2 will add these CLI flags to watcher.py
+          python watcher.py --mode boards --boards-csv job_boards_ok_with_meta.csv --boards-batch-size 50
+
+      - name: Commit updated state
+        run: |
+          # If nothing changed, do nothing
+          if ! git status --porcelain | grep -E -q "state/seen.json|state/boards_cursor.json"; then
+            echo "No state changes."
+            exit 0
+          fi
+
+          git config user.name "job-watcher-bot"
+          git config user.email "job-watcher-bot@users.noreply.github.com"
+
+          git add state/seen.json state/boards_cursor.json
+          git commit -m "Update board sweep state" || echo "Nothing to commit."
+
+          # Rebase onto remote to avoid 'rejected (fetch first)'
+          git pull --rebase origin main
+          git push origin main
