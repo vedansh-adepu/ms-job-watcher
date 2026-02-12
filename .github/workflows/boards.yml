@@ -16,15 +16,13 @@ concurrency:
 
 jobs:
   run-boards-sweep:
-    # For now: only manual runs until code is ready
-    if: github.event_name == 'workflow_dispatch'
     runs-on: ubuntu-latest
 
     steps:
       - name: Checkout
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0  # needed for pull --rebase
+          fetch-depth: 0  # needed for rebase
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -42,7 +40,6 @@ jobs:
           EMAIL_APP_PASSWORD: ${{ secrets.EMAIL_APP_PASSWORD }}
           ALERT_TO_EMAIL: ${{ secrets.ALERT_TO_EMAIL }}
         run: |
-          # Step 2 will add these CLI flags to watcher.py
           python watcher.py --mode boards --boards-csv job_boards_ok_with_meta.csv --boards-batch-size 50
 
       - name: Commit updated state
@@ -59,6 +56,19 @@ jobs:
           git add state/seen.json state/boards_cursor.json
           git commit -m "Update board sweep state" || echo "Nothing to commit."
 
-          # Rebase onto remote to avoid 'rejected (fetch first)'
-          git pull --rebase origin main
-          git push origin main
+          # Sync-safe push with retries (handles schedule + rerun collisions)
+          for i in 1 2 3; do
+            git fetch origin main
+            git rebase origin/main
+
+            if git push origin HEAD:main; then
+              echo "Pushed state successfully."
+              exit 0
+            fi
+
+            echo "Push failed (attempt $i). Retrying..."
+            sleep 2
+          done
+
+          echo "Push failed after 3 attempts."
+          exit 1
