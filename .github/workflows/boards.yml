@@ -1,76 +1,73 @@
 name: Job Boards Sweep (Broad Lane)
 
 on:
-  workflow_dispatch:
   schedule:
-    - cron: "17 * * * *"   # hourly at minute 17
+    - cron: '*/30 * * * *'
+  workflow_dispatch:
 
 permissions:
   contents: write
 
-# Let boards sweep run independently (no queue behind Microsoft watcher)
 concurrency:
   group: job-watcher-boards
   cancel-in-progress: false
 
 jobs:
-  run-boards-sweep:
+  sweep:
     runs-on: ubuntu-latest
+    timeout-minutes: 15
 
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
         with:
-          fetch-depth: 0  # needed for pull --rebase
+          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: "3.11"
+          python-version: '3.11'
+          cache: 'pip'
 
       - name: Install deps
         run: |
           python -m pip install --upgrade pip
-          pip install requests
+          pip install -r requirements.txt
 
       - name: Run boards sweep
         env:
           EMAIL_USER: ${{ secrets.EMAIL_USER }}
           EMAIL_APP_PASSWORD: ${{ secrets.EMAIL_APP_PASSWORD }}
           ALERT_TO_EMAIL: ${{ secrets.ALERT_TO_EMAIL }}
+          BOARDS_CSV: data/boards/JOB_BOARDS_PURE_WORKING_SUPPORTED_round2.csv
+          HTTP_TIMEOUT: '15'
           STATE_PATH: state/seen_boards.json
         run: |
-          python watcher.py --mode boards \
-            --boards-csv data/boards/JOB_BOARDS_PURE_WORKING_SUPPORTED_round2.csv \
-            --boards-batch-size 50
+          python watcher.py --mode boards --boards-batch-size 200
 
       - name: Commit updated state
         run: |
-          # If nothing changed, do nothing
-          if ! git status --porcelain | grep -E -q "state/seen_boards.json|state/boards_cursor.json|state/boards_seen.json|state/boards_dead.json|state/boards_dead_details.json"; then
-            echo "No state changes."
+          set -e
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add state/*.json
+
+          if git diff --cached --quiet; then
+            echo "No changes"
             exit 0
           fi
 
-          git config user.name "job-watcher-bot"
-          git config user.email "job-watcher-bot@users.noreply.github.com"
+          git commit -m "Update boards state"
 
-          git add state/seen_boards.json state/boards_cursor.json state/boards_seen.json state/boards_dead.json state/boards_dead_details.json
-          git commit -m "Update board sweep state" || echo "Nothing to commit."
-
-          # Sync-safe push with retries (handles schedule + rerun collisions)
-          for i in 1 2 3; do
+          for i in 1 2 3 4 5; do
             git fetch origin main
-            git rebase origin/main
-
-            if git push origin HEAD:main; then
-              echo "Pushed state successfully."
+            git merge -X ours origin/main || true
+            if git push; then
+              echo "Push succeeded"
               exit 0
             fi
-
-            echo "Push failed (attempt $i). Retrying..."
-            sleep 2
+            echo "Push failed, retrying..."
+            sleep $((i*5))
           done
 
-          echo "Push failed after 3 attempts."
+          echo "Push failed after retries"
           exit 1
