@@ -5,6 +5,35 @@ import ssl
 import smtplib
 import csv
 import re
+from urllib.parse import urlparse
+LOCALE_RE = re.compile(r"^[a-z]{2}-[A-Z]{2}$")  # en-US, fr-CA, etc.
+
+def _parse_workday_board(board_url: str):
+    u = urlparse(board_url)
+    host = u.netloc
+    tenant = host.split(".")[0]
+    origin = f"{u.scheme}://{host}"
+
+    segs = [s for s in (u.path or "").split("/") if s]
+    if not segs:
+        raise ValueError(f"Workday board_url has no path: {board_url}")
+
+    # If /en-US/<site>, drop the locale segment
+    if len(segs) >= 2 and LOCALE_RE.match(segs[0]):
+        site = segs[1]
+    else:
+        site = segs[0]
+
+    return origin, tenant, site
+
+def _workday_cxs_endpoints(board_url: str):
+    origin, tenant, site = _parse_workday_board(board_url)
+    approot = f"{origin}/wday/cxs/{tenant}/{site}/approot"
+    jobs = f"{origin}/wday/cxs/{tenant}/{site}/jobs"
+    return approot, jobs
+
+def _is_workday_app_error(text: str) -> bool:
+    return "<wml:Application_Error" in (text or "")
 from email.mime.text import MIMEText
 from datetime import datetime, timezone
 from typing import Any, Dict, List, Set, Tuple
@@ -23,28 +52,222 @@ import requests
 #   - send one digest email per run
 #   - update state
 
+# State file paths
 STATE_PATH = "state/seen.json"
 BOARDS_CURSOR_PATH = "state/boards_cursor.json"
+BOARDS_SEEN_PATH = "state/boards_seen.json"
+BOARDS_DEAD_PATH = "state/boards_dead.json"
+BOARDS_DEAD_DETAILS_PATH = "state/boards_dead_details.json"
 
+# Default boards CSV resolution (lets workflows/CLI run without remembering paths)
+# Priority:
+#   1) explicit env var BOARDS_CSV
+#   2) round2 supported (pure + supported platforms)
+#   3) round2 pure working (may include currently-unsupported platforms)
+#   4) minus-dead round2
+#   5) production OK list
+def resolve_default_boards_csv() -> str:
+    candidates = [
+        (os.getenv("BOARDS_CSV") or "").strip(),
+        "data/boards/JOB_BOARDS_PURE_WORKING_SUPPORTED_round2.csv",
+        "data/boards/JOB_BOARDS_PURE_WORKING_round2.csv",
+        "data/boards/JOB_BOARDS_OK_PRODUCTION_MINUS_DEAD_round2.csv",
+        "data/boards/JOB_BOARDS_OK_PRODUCTION.csv",
+    ]
+    for p in candidates:
+        if p and os.path.exists(p):
+            return p
+    # Fallback: preserve prior behavior (caller will error if missing)
+    return "data/boards/JOB_BOARDS_OK_PRODUCTION.csv"
+# Boards mode currently implements adapters for these ATS platforms only.
+# NOTE: The master dataset can include other ATS platforms (jobvite, icims, phenom, taleo, talentbrew, oraclecloud, etc.).
+# Those rows are intentionally kept in the CSVs for future adapter work, but boards mode currently processes only
+# the platforms listed above.
+BOARDS_SUPPORTED_PLATFORMS = ("greenhouse", "lever", "smartrecruiters", "workday")
+SMARTRECRUITERS_API_BASE = "https://api.smartrecruiters.com/v1/companies"
 # ---- EMAIL ENV VARS ----
 EMAIL_USER = os.getenv("EMAIL_USER")  # sender gmail
 EMAIL_APP_PASSWORD = os.getenv("EMAIL_APP_PASSWORD")  # gmail app password
 ALERT_TO_EMAIL = os.getenv("ALERT_TO_EMAIL")  # receiver email
 
-# We match loosely so we don't accidentally miss roles.
-INCLUDE_TITLE_KEYWORDS = [
+# --- Title filtering (fast + "model-like") ---
+# Goal: do NOT miss roles you would apply to.
+# We classify titles into: yes / maybe / no.
+# - yes   => strong match, low-noise (send as primary)
+# - maybe => potentially relevant but noisy/ambiguous (send in a separate section)
+# - no    => ignore
+
+# Strong includes (if present and no hard-exclude): bucket = yes (unless seniority makes it maybe)
+STRONG_INCLUDE_PHRASES = [
+    # Core SWE
     "software engineer",
+    "software developer",
     "software development engineer",
     "sde",
-    "backend",
+    "backend engineer",
+    "backend developer",
     "full stack",
-    "platform",
+    "fullstack",
+    "platform engineer",
+    "application developer",
+    "applications engineer",
+
+    # Product development (explicitly OK)
+    "product developer",
+    "product development engineer",
+
+    # ML / Applied
     "machine learning engineer",
     "ml engineer",
-    "data engineer",
+    "ai engineer",
     "applied scientist",
+    "research engineer",
+    "data scientist",
+
+    # Data
+    "data engineer",
     "analytics engineer",
+    "data analyst",
+    "analytics analyst",
+    "product analyst",
+
+    # Testing (explicitly OK)
+    "sdet",
+    "software development engineer in test",
 ]
+
+# Weaker includes: typically relevant, but too broad to mark as YES by itself.
+WEAK_INCLUDE_PHRASES = [
+    "developer",          # requested
+    "software",           # catches variants like "Software Dev" but will be MAYBE
+    "engineer",           # very broad; stays MAYBE
+    "analytics",          # catches "Analytics" variants
+]
+
+# Seniority/level terms: you said you want to *exclude* these from YES.
+# We don't drop them entirely; we bucket them as MAYBE so we don't miss edge cases.
+SENIORITY_MAYBE_TOKENS = [
+    "senior",
+    "sr",
+    "staff",
+    "principal",
+    "lead",
+    "architect",
+    "distinguished",
+    "fellow",
+    "director",
+]
+
+# Hard excludes: roles you explicitly don't want.
+# NOTE: We implement a couple of exceptions below (e.g., SDET is OK even if QA is present).
+HARD_EXCLUDE_PHRASES = [
+    # QA / testing (except SDET)
+    "quality assurance",
+    "qa ",
+    " qa",
+    "tester",
+    "test engineer",
+    "quality engineer",
+    "validation engineer",
+
+    # Reliability / Ops
+    "site reliability",
+    "sre",
+    "reliability engineer",
+
+    # Reporting-heavy analyst roles
+    "reporting",
+
+    # Non-target job families
+    "product manager",
+    "program manager",
+    "project manager",
+    "scrum master",
+    "business analyst",
+    "sales",
+    "marketing",
+    "recruiter",
+    "talent acquisition",
+    "customer support",
+    "technical support",
+    "support engineer",
+]
+
+# Regex-based hard excludes (avoid substring traps like "internal")
+HARD_EXCLUDE_REGEXES = [
+    r"\bintern\b",
+    r"\binternship\b",
+    r"\bco[- ]?op\b",
+    r"\bcoop\b",
+    r"\bapprentice\b",
+]
+
+# Soft excludes: not your target, but can appear in SWE titles.
+# We treat these as MAYBE when paired with a strong include.
+SOFT_EXCLUDE_PHRASES = [
+    "devops",
+    "operations",
+    "ops",
+    "automation",
+]
+
+
+def _norm_title(title: str) -> str:
+    t = (title or "").strip().lower()
+    t = re.sub(r"\s+", " ", t)
+    return t
+
+
+def classify_title(title: str) -> str:
+    """Return one of: 'yes', 'maybe', 'no' based on the title only."""
+    t = _norm_title(title)
+    if not t:
+        return "no"
+
+    has_sdet = ("sdet" in t) or ("software development engineer in test" in t)
+
+    # Exclude internships / co-ops (you said you're not targeting intern roles)
+    for pat in HARD_EXCLUDE_REGEXES:
+        if re.search(pat, t):
+            return "no"
+
+    # Hard excludes (with SDET exception)
+    for bad in HARD_EXCLUDE_PHRASES:
+        if bad in t:
+            if has_sdet and bad in {"quality assurance", "qa ", " qa", "tester", "test engineer", "quality engineer", "validation engineer"}:
+                break  # allow SDET even if QA-ish wording exists
+            return "no"
+
+    # Soft excludes: only MAYBE if otherwise relevant
+    has_soft_excl = any(bad in t for bad in SOFT_EXCLUDE_PHRASES)
+
+    # Strong include?
+    strong = any(p in t for p in STRONG_INCLUDE_PHRASES)
+    weak = any(p in t for p in WEAK_INCLUDE_PHRASES)
+
+    if not (strong or weak):
+        return "no"
+
+    # Soft excludes: if the title only matched via weak signals (e.g., "engineer"), drop it.
+    # If it has a strong include (e.g., "Software Engineer, DevOps"), keep it as MAYBE.
+    if has_soft_excl:
+        return "maybe" if strong else "no"
+
+    # Level/seniority tokens => MAYBE
+    for tok in SENIORITY_MAYBE_TOKENS:
+        if re.search(rf"\b{re.escape(tok)}\b", t):
+            return "maybe"
+
+    # Weak-only match => MAYBE (broad)
+    if not strong:
+        return "maybe"
+
+    return "yes"
+
+
+def title_matches(title: str) -> bool:
+    """Backwards-compatible helper: True if title is yes OR maybe."""
+    return classify_title(title) in ("yes", "maybe")
 
 # ---- Polling caps (because we run frequently) ----
 MAX_EIGHTFOLD_JOBS_PER_RUN = int(os.getenv("MAX_EIGHTFOLD_JOBS_PER_RUN", "300"))
@@ -400,10 +623,133 @@ def save_boards_cursor(path: str, cursor: int) -> None:
         json.dump(payload, f, indent=2)
 
 
-def title_matches(title: str) -> bool:
-    t = (title or "").lower()
-    return any(k in t for k in INCLUDE_TITLE_KEYWORDS)
+def load_boards_seen(path: str) -> Set[str]:
+    """Tracks which boards have been processed at least once in boards mode.
 
+    This prevents a huge first-time alert when we encounter a board for the first time
+    (we bootstrap that board by marking its current jobs as seen).
+    """
+    if not os.path.exists(path):
+        return set()
+    try:
+        with open(path, "r", encoding="utf-8") as f:
+            data = json.load(f)
+        return set(data.get("boards_seen", []))
+    except Exception:
+        return set()
+
+
+def save_boards_seen(path: str, boards_seen: Set[str]) -> None:
+    os.makedirs(os.path.dirname(path), exist_ok=True)
+    payload = {
+        "updated_utc": datetime.now(timezone.utc).isoformat(),
+        "boards_seen": sorted(boards_seen),
+    }
+    with open(path, "w", encoding="utf-8") as f:
+        json.dump(payload, f, indent=2)
+
+
+# --- Dead boards helpers ---
+
+def load_boards_dead(path: str) -> Set[str]:
+    """Boards that appear to be dead/unresolvable (e.g., Greenhouse 404).
+
+    We skip these in future sweeps to avoid wasting time and spamming warnings.
+    """
+    if not os.path.exists(path):
+        return set()
+    try:
+        with open(path, "r", encoding="utf-8") as f:
+            data = json.load(f)
+        return set(data.get("boards_dead", []))
+    except Exception:
+        return set()
+
+
+def save_boards_dead(path: str, boards_dead: Set[str]) -> None:
+    os.makedirs(os.path.dirname(path), exist_ok=True)
+    payload = {
+        "updated_utc": datetime.now(timezone.utc).isoformat(),
+        "boards_dead": sorted(boards_dead),
+    }
+    with open(path, "w", encoding="utf-8") as f:
+        json.dump(payload, f, indent=2)
+
+
+def load_dead_details(path: str) -> Dict[str, Dict[str, Any]]:
+    """Richer metadata for dead boards keyed by board_id."""
+    if not os.path.exists(path):
+        return {}
+    try:
+        with open(path, "r", encoding="utf-8") as f:
+            data = json.load(f)
+        details = data.get("dead_details") or {}
+        return details if isinstance(details, dict) else {}
+    except Exception:
+        return {}
+
+
+def save_dead_details(path: str, dead_details: Dict[str, Dict[str, Any]]) -> None:
+    os.makedirs(os.path.dirname(path), exist_ok=True)
+    payload = {
+        "updated_utc": datetime.now(timezone.utc).isoformat(),
+        "dead_details": dead_details,
+    }
+    with open(path, "w", encoding="utf-8") as f:
+        json.dump(payload, f, indent=2)
+
+
+def upsert_dead_detail(
+    dead_details: Dict[str, Dict[str, Any]],
+    *,
+    board_id: str,
+    platform: str,
+    company: str,
+    board_url: str,
+    status: int | None,
+    error: str,
+) -> None:
+    """Insert/update a dead board record."""
+    now = datetime.now(timezone.utc).isoformat()
+    rec = dead_details.get(board_id) or {}
+    if not rec.get("first_seen_utc"):
+        rec["first_seen_utc"] = now
+    rec["last_seen_utc"] = now
+    rec["platform"] = platform
+    rec["company"] = company
+    rec["board_url"] = board_url
+    if status is not None:
+        rec["last_status"] = int(status)
+    rec["last_error"] = str(error)
+    dead_details[board_id] = rec
+
+
+def export_dead_boards_csv(dead_details: Dict[str, Dict[str, Any]], out_path: str) -> None:
+    """Write a CSV of dead boards so you can prune the master boards CSV."""
+    if not out_path:
+        return
+    os.makedirs(os.path.dirname(out_path) or ".", exist_ok=True)
+    fieldnames = [
+        "board_id",
+        "platform",
+        "company",
+        "board_url",
+        "last_status",
+        "last_error",
+        "first_seen_utc",
+        "last_seen_utc",
+    ]
+    rows: List[Dict[str, Any]] = []
+    for board_id, rec in sorted(dead_details.items(), key=lambda x: x[0]):
+        row = {"board_id": board_id}
+        for k in fieldnames[1:]:
+            row[k] = rec.get(k, "")
+        rows.append(row)
+
+    with open(out_path, "w", newline="", encoding="utf-8") as f:
+        w = csv.DictWriter(f, fieldnames=fieldnames)
+        w.writeheader()
+        w.writerows(rows)
 
 # -----------------------------
 # Normalized job shape helpers
@@ -429,9 +775,8 @@ def load_boards_csv(path: str) -> List[Dict[str, str]]:
             if not company or not platform or not url:
                 continue
 
-            if platform not in ("greenhouse", "lever"):
-                continue
-
+            # Keep all platforms in the CSV; unsupported ones will be skipped at runtime
+            # (so we can extend adapters later without changing the dataset format).
             rows.append({"company": company, "platform": platform, "board_url": url})
 
     # Deduplicate by (platform, board_url)
@@ -450,6 +795,7 @@ def load_boards_csv(path: str) -> List[Dict[str, str]]:
 def make_location(parts: List[str]) -> str:
     clean = [p.strip() for p in parts if p and str(p).strip()]
     return ", ".join(clean) if clean else "Unknown Location"
+
 
 
 # -----------------------------
@@ -479,6 +825,10 @@ def is_us_location(location: str) -> bool:
 
     # USA token (avoid matching 'aus' etc.)
     if re.search(r"\busa\b", loc):
+        return True
+
+    # US token (common in APIs like SmartRecruiters)
+    if re.search(r"\bus\b", loc):
         return True
 
     # Remote explicitly tied to US
@@ -898,24 +1248,303 @@ def normalize_oracle_req(req: Dict[str, Any]) -> Dict[str, str]:
         "url": str(url),
     }
 
+# -----------------------------
+# Workday (Boards mode)
+# -----------------------------
+
+WORKDAY_HEADERS_MIN = {
+    "accept": "application/json",
+    "content-type": "application/json",
+    "user-agent": "Mozilla/5.0",
+}
+
+
+def _looks_like_locale(seg: str) -> bool:
+    # common: en-US, fr-FR, etc.
+    return bool(re.fullmatch(r"[a-z]{2}-[A-Z]{2}", seg or ""))
+
+
+def workday_tenant_from_host(host: str) -> str:
+    # host like: tenant.myworkdayjobs.com OR tenant.wd5.myworkdayjobs.com
+    host = (host or "").strip().lower()
+    if not host:
+        return ""
+    return host.split(".")[0]
+
+
+def workday_site_from_board_url(board_url: str) -> str:
+    """Extract Workday 'site' from a board home URL.
+
+    Examples:
+      https://tenant.myworkdayjobs.com/Careers
+      https://tenant.myworkdayjobs.com/en-US/Careers
+      https://tenant.wd5.myworkdayjobs.com/en-US/External
+
+    We treat the first non-locale path segment as the site.
+    """
+    u = urlparse((board_url or "").strip())
+    parts = [p for p in (u.path or "").split("/") if p]
+    if not parts:
+        return ""
+
+    # drop locale segment like en-US
+    if parts and _looks_like_locale(parts[0]):
+        parts = parts[1:]
+
+    # If still empty, fail
+    return parts[0] if parts else ""
+
+
+def workday_board_id(board_url: str) -> str:
+    u = urlparse((board_url or "").strip())
+    tenant = workday_tenant_from_host(u.netloc)
+    site = workday_site_from_board_url(board_url)
+    if tenant and site:
+        return f"workday:{tenant}:{site}"  # stable id used for dead/seen tracking
+    if tenant:
+        return f"workday:{tenant}:"  # fallback
+    return "workday:"
+
+
+def workday_key_from_post(tenant: str, site: str, post: Dict[str, Any], url: str) -> str:
+    pid = str(post.get("jobPostingId") or post.get("id") or "")
+    if pid:
+        return f"workday:{tenant}:{site}:{pid}"
+    return f"workday:{tenant}:{site}:url:{url}"
+
+
+def fetch_workday_jobs(board_url: str, max_positions: int = 500, timeout: int = 30) -> List[Dict[str, Any]]:
+    """Fetch jobs from Workday's CXS endpoint.
+
+    Uses POST JSON with limit/offset.
+    """
+    try:
+        approot_url, jobs_url = _workday_cxs_endpoints(board_url)
+    except Exception:
+        return []
+
+    all_posts: List[Dict[str, Any]] = []
+    offset = 0
+    limit = 20
+    safety_cap = 5000
+
+    sess = requests.Session()
+    headers = dict(WORKDAY_HEADERS_MIN)
+
+    # Bootstrap once to establish cookies/session (many Workday tenants expect this)
+    boot = sess.get(approot_url, timeout=timeout)
+    boot.raise_for_status()
+
+    while True:
+        payload = {
+            "limit": limit,
+            "offset": offset,
+            "searchText": "",
+            "appliedFacets": {},
+        }
+        resp = sess.post(jobs_url, headers=headers, json=payload, timeout=timeout)
+        resp.raise_for_status()
+
+        # Workday sometimes returns app-errors as HTTP 200 with XML body
+        if _is_workday_app_error(resp.text):
+            err_snip = (resp.text or "")[:200].replace(chr(10), " ")
+            raise RuntimeError(f"Workday application error: {err_snip}")
+
+        ct = (resp.headers.get("content-type") or "").lower()
+        if "json" not in ct:
+            body_snip = (resp.text or "")[:200].replace(chr(10), " ")
+            raise RuntimeError(f"Workday non-JSON response (ct={ct}): {body_snip}")
+
+        data = resp.json() if resp.content else {}
+        posts = data.get("jobPostings") or data.get("items") or []
+        if not isinstance(posts, list) or not posts:
+            break
+
+        all_posts.extend(posts)
+
+        if max_positions and len(all_posts) >= max_positions:
+            all_posts = all_posts[:max_positions]
+            break
+
+        offset += len(posts)
+        if offset >= safety_cap:
+            break
+
+    return all_posts
+
+
+def normalize_workday_post(company_name: str, board_url: str, post: Dict[str, Any]) -> Dict[str, str]:
+    u = urlparse((board_url or "").strip())
+    host = (u.netloc or "").strip()
+    tenant = workday_tenant_from_host(host)
+    site = workday_site_from_board_url(board_url)
+
+    title = post.get("title") or post.get("jobTitle") or "Unknown Title"
+
+    loc = post.get("locationsText") or post.get("location") or "Unknown Location"
+    if isinstance(loc, list):
+        loc = make_location([str(x) for x in loc])
+    else:
+        loc = str(loc)
+
+    posted = post.get("postedOn") or post.get("postedDate") or post.get("timePosted") or ""
+
+    ext = post.get("externalPath") or post.get("externalUrl") or ""
+    url = ""
+    if isinstance(ext, str) and ext:
+        if ext.startswith("http"):
+            url = ext
+        elif ext.startswith("/") and host:
+            url = f"https://{host}{ext}"
+    if not url:
+        url = board_url
+
+    key = workday_key_from_post(tenant, site, post, url)
+
+    return {
+        "key": str(key),
+        "company": str(company_name),
+        "title": str(title),
+        "location": str(loc),
+        "posted": str(posted),
+        "url": str(url),
+    }
+
+# -----------------------------
+# SmartRecruiters (Boards mode)
+# -----------------------------
+
+def smartrecruiters_company_from_board_url(board_url: str) -> str:
+    """
+    Supports:
+      - https://jobs.smartrecruiters.com/<CompanySlug>
+      - https://careers.smartrecruiters.com/<CompanySlug>
+    Returns the <CompanySlug> part.
+    """
+    u = urlparse((board_url or "").strip())
+    parts = [p for p in (u.path or "").split("/") if p]
+
+    # expected: /<CompanySlug>
+    if len(parts) >= 1:
+        return parts[0].strip()
+
+    return ""
+
+
+def smartrecruiters_board_id(board_url: str) -> str:
+    slug = smartrecruiters_company_from_board_url(board_url).lower()
+    return f"smartrecruiters:{slug}" if slug else "smartrecruiters:"
+
+
+def smartrecruiters_key_from_post(company_slug: str, post: Dict[str, Any]) -> str:
+    pid = str(post.get("id") or post.get("ref") or "")
+    if pid:
+        return f"smartrecruiters:{company_slug}:{pid}"
+    # fallback: use posting URL if present
+    url = post.get("referrer") or post.get("applyUrl") or post.get("url") or ""
+    return f"smartrecruiters:{company_slug}:url:{url}"
+
+
+def fetch_smartrecruiters_jobs(board_url: str, max_positions: int = 500, timeout: int = 30) -> List[Dict[str, Any]]:
+    """
+    Fetch postings for a company via:
+      GET https://api.smartrecruiters.com/v1/companies/{company}/postings?offset=0&limit=100
+    """
+    company = smartrecruiters_company_from_board_url(board_url)
+    if not company:
+        return []
+
+    headers = {"accept": "application/json", "user-agent": "Mozilla/5.0"}
+
+    all_posts: List[Dict[str, Any]] = []
+    offset = 0
+    limit = 100
+    safety_cap = 5000
+
+    while True:
+        url = f"{SMARTRECRUITERS_API_BASE}/{company}/postings"
+        params = {"offset": offset, "limit": limit}
+
+        r = requests.get(url, params=params, headers=headers, timeout=timeout)
+
+        # Let caller handle “dead board” classification consistently
+        r.raise_for_status()
+
+        data = r.json() if r.content else {}
+        posts = data.get("content") or data.get("postings") or []
+        if not isinstance(posts, list) or not posts:
+            break
+
+        all_posts.extend(posts)
+
+        if max_positions and len(all_posts) >= max_positions:
+            all_posts = all_posts[:max_positions]
+            break
+
+        offset += len(posts)
+        if offset >= safety_cap:
+            break
+
+    return all_posts
+
+
+def normalize_smartrecruiters_post(company_name: str, board_url: str, post: Dict[str, Any]) -> Dict[str, str]:
+    company_slug = smartrecruiters_company_from_board_url(board_url) or company_name.lower().replace(" ", "")
+    key = smartrecruiters_key_from_post(company_slug, post)
+
+    title = post.get("name") or post.get("jobTitle") or "Unknown Title"
+
+    # Location shape varies; we build a robust string
+    loc_obj = post.get("location") or {}
+    if isinstance(loc_obj, dict):
+        city = loc_obj.get("city")
+        region = loc_obj.get("region") or loc_obj.get("state")
+        country = loc_obj.get("country")
+        loc_str = make_location([city, region, country])
+    else:
+        loc_str = str(loc_obj) if loc_obj else "Unknown Location"
+
+    posted = post.get("releasedDate") or post.get("publicationDate") or post.get("createdOn") or ""
+    url = post.get("referrer") or post.get("applyUrl") or post.get("url") or ""
+
+    # If API doesn’t give a URL, fall back to the board home
+    if not url:
+        url = board_url
+
+    return {
+        "key": str(key),
+        "company": str(company_name),
+        "title": str(title),
+        "location": str(loc_str),
+        "posted": str(posted),
+        "url": str(url),
+    }
 
 # -----------------------------
 # Greenhouse + Lever (Boards mode)
 # -----------------------------
 
 def greenhouse_slug_from_board_url(board_url: str) -> str:
-    # supports:
-    #  - https://boards.greenhouse.io/<slug>
-    #  - https://job-boards.greenhouse.io/<slug>
-    parts = (board_url or "").split("/")
-    return parts[-1] if parts and parts[-1] else ""
+    """Extract the Greenhouse board slug from a board home URL.
+
+    Supports:
+      - https://boards.greenhouse.io/<slug>
+      - https://job-boards.greenhouse.io/<slug>
+    """
+    u = urlparse(board_url or "")
+    parts = [p for p in (u.path or "").split("/") if p]
+    return parts[0] if parts else ""
 
 
 def lever_slug_from_board_url(board_url: str) -> str:
-    # supports:
-    #  - https://jobs.lever.co/<slug>
-    parts = (board_url or "").split("/")
-    return parts[-1] if parts and parts[-1] else ""
+    """Extract the Lever board slug from a board home URL.
+
+    Supports:
+      - https://jobs.lever.co/<slug>
+    """
+    u = urlparse(board_url or "")
+    parts = [p for p in (u.path or "").split("/") if p]
+    return parts[0] if parts else ""
 
 
 def gh_key(company_slug: str, job_id: str) -> str:
@@ -1000,12 +1629,21 @@ def normalize_lever_job(company_name: str, company_slug: str, job: Dict[str, Any
 
 def run_boards_sweep(
     seen: Set[str],
+    boards_seen: Set[str],
+    dead_boards: Set[str],
+    dead_details: Dict[str, Dict[str, Any]],
     boards_csv: str,
     batch_size: int,
-) -> Tuple[List[Dict[str, str]], Set[str], List[str], int]:
+    timeout: int = 30,
+) -> Tuple[List[Dict[str, str]], Set[str], List[str], int, Set[str], Set[str]]:
     boards = load_boards_csv(boards_csv)
+
+    # Boards mode supports a subset of ATS platforms. Keep other rows in the CSV,
+    # but skip them at runtime until adapters are implemented.
+    # Filter upfront so the cursor walks only supported boards (no wasted runs on other ATS).
+    boards = [b for b in boards if (b.get("platform") or "") in BOARDS_SUPPORTED_PLATFORMS]
     if not boards:
-        return [], set(), ["Boards CSV is empty after filtering."], 0
+        return [], set(), ["No supported boards found (need greenhouse/lever/smartrecruiters rows)."], 0, set(), set()
 
     cursor = load_boards_cursor(BOARDS_CURSOR_PATH)
     n = len(boards)
@@ -1017,22 +1655,89 @@ def run_boards_sweep(
 
     normalized: List[Dict[str, str]] = []
     errors: List[str] = []
+    bootstrap_keys: Set[str] = set()
+    bootstrap_boards: Set[str] = set()
 
     for b in batch:
         company = b["company"]
         platform = b["platform"]
         board_url = b["board_url"]
 
+        if platform not in BOARDS_SUPPORTED_PLATFORMS:
+            continue
+
         try:
             if platform == "greenhouse":
                 slug = greenhouse_slug_from_board_url(board_url)
-                jobs = fetch_greenhouse_jobs(slug)
-                normalized.extend([normalize_greenhouse_job(company, slug, j) for j in jobs])
+                board_id = f"greenhouse:{slug}"
             elif platform == "lever":
                 slug = lever_slug_from_board_url(board_url)
-                jobs = fetch_lever_jobs(slug)
-                normalized.extend([normalize_lever_job(company, slug, j) for j in jobs])
+                board_id = f"lever:{slug}"
+            elif platform == "smartrecruiters":
+                slug = smartrecruiters_company_from_board_url(board_url)
+                board_id = smartrecruiters_board_id(board_url)
+            else:
+                # workday
+                slug = ""
+                board_id = workday_board_id(board_url)
+
+            if board_id in dead_boards:
+                continue
+
+            if platform == "greenhouse":
+                jobs = fetch_greenhouse_jobs(slug, timeout=timeout)
+                norm_jobs = [normalize_greenhouse_job(company, slug, j) for j in jobs]
+            elif platform == "lever":
+                jobs = fetch_lever_jobs(slug, timeout=timeout)
+                norm_jobs = [normalize_lever_job(company, slug, j) for j in jobs]
+            elif platform == "smartrecruiters":
+                jobs = fetch_smartrecruiters_jobs(board_url, timeout=timeout)
+                norm_jobs = [normalize_smartrecruiters_post(company, board_url, j) for j in jobs]
+            else:
+                # workday
+                jobs = fetch_workday_jobs(board_url, timeout=timeout)
+                norm_jobs = [normalize_workday_post(company, board_url, j) for j in jobs]
+
+            # Per-board bootstrap: the first time we ever see a board, mark its current
+            # matching jobs as seen and do NOT alert (prevents huge "new" dumps).
+            if board_id not in boards_seen:
+                matched_on_board = [
+                    j for j in norm_jobs
+                    if title_matches(j.get("title", "")) and is_us_location(j.get("location", ""))
+                ]
+                bootstrap_keys |= {j["key"] for j in matched_on_board if j.get("key")}
+                bootstrap_boards.add(board_id)
+                continue
+
+            normalized.extend(norm_jobs)
+
         except Exception as e:
+            # If the board itself doesn't exist anymore (GH returns 404), mark it dead and skip it next time.
+            if isinstance(e, requests.HTTPError) and getattr(e, "response", None) is not None:
+                try:
+                    status = int(e.response.status_code)
+                except Exception:
+                    status = None
+                if status == 404 and "board_id" in locals() and board_id:
+                    dead_boards.add(board_id)
+                    if platform == "smartrecruiters":
+                        err_msg = "HTTP 404 (company/board not found)"
+                    elif platform == "workday":
+                        err_msg = "HTTP 404 (Workday API not found)"
+                    else:
+                        err_msg = "HTTP 404 (board not found)"
+                    upsert_dead_detail(
+                        dead_details,
+                        board_id=board_id,
+                        platform=platform,
+                        company=company,
+                        board_url=board_url,
+                        status=status,
+                        error=err_msg,
+                    )
+                    errors.append(f"DEAD {platform} {company}: {err_msg} -> {board_url}")
+                    continue
+
             errors.append(f"{platform} {company}: {type(e).__name__}: {e}")
 
     matched = [
@@ -1044,24 +1749,37 @@ def run_boards_sweep(
     # Advance cursor
     new_cursor = end if end < n else 0
 
-    return matched, latest_keys, errors, new_cursor
+    return matched, latest_keys, errors, new_cursor, bootstrap_keys, bootstrap_boards
 
-def send_email_digest(new_jobs: List[Dict[str, str]], subject_prefix: str = "[Job Alerts]") -> None:
+def send_email_digest(
+    yes_jobs: List[Dict[str, str]],
+    maybe_jobs: List[Dict[str, str]],
+    subject_prefix: str = "[Job Alerts]",
+) -> None:
     if not (EMAIL_USER and EMAIL_APP_PASSWORD and ALERT_TO_EMAIL):
         raise RuntimeError("Missing EMAIL_USER / EMAIL_APP_PASSWORD / ALERT_TO_EMAIL env vars.")
 
-    companies = sorted({j.get("company", "") for j in new_jobs if j.get("company")})
+    all_jobs = (yes_jobs or []) + (maybe_jobs or [])
+    companies = sorted({j.get("company", "") for j in all_jobs if j.get("company")})
     company_str = ", ".join(companies) if companies else "Jobs"
-    subject = f"{subject_prefix} {len(new_jobs)} new posting(s) ({company_str})"
+
+    subject = f"{subject_prefix} {len(yes_jobs)} yes + {len(maybe_jobs)} maybe ({company_str})"
 
     lines: List[str] = []
-    lines.append(f"Found {len(new_jobs)} new posting(s) ({company_str}):\n")
-
-    for j in new_jobs:
+    lines.append(f"YES bucket: {len(yes_jobs)} job(s)\n")
+    for j in yes_jobs:
         posted = f" | {j['posted']}" if j.get("posted") else ""
         lines.append(f"- [{j['company']}] {j['title']} | {j['location']}{posted}")
         lines.append(f"  {j['url']}")
         lines.append("")
+
+    if maybe_jobs:
+        lines.append("\nMAYBE bucket (review manually): " + str(len(maybe_jobs)) + " job(s)\n")
+        for j in maybe_jobs:
+            posted = f" | {j['posted']}" if j.get("posted") else ""
+            lines.append(f"- [{j['company']}] {j['title']} | {j['location']}{posted}")
+            lines.append(f"  {j['url']}")
+            lines.append("")
 
     body = "\n".join(lines)
 
@@ -1088,7 +1806,7 @@ def safe_call(label: str, fn):
         return None, f"{label}: {type(e).__name__}: {e}"
 
 
-def main(test_email: bool = False) -> None:
+def main(test_email: bool = False, no_email: bool = False, dry_run: bool = False) -> None:
     seen = load_seen_ids(STATE_PATH)
 
     normalized: List[Dict[str, str]] = []
@@ -1142,17 +1860,23 @@ def main(test_email: bool = False) -> None:
         print(f"[DEBUG] Fetched {len(oracle_reqs)} requisitions from Oracle endpoint.")
         normalized.extend([normalize_oracle_req(rq) for rq in (oracle_reqs or [])])
 
-    # Loose title match
-    matched = [j for j in normalized if title_matches(j.get("title", ""))]
+    # Title classification buckets
+    yes_matched = [j for j in normalized if classify_title(j.get("title", "")) == "yes"]
+    maybe_matched = [j for j in normalized if classify_title(j.get("title", "")) == "maybe"]
+    matched = yes_matched + maybe_matched
 
     # Test mode: send a small sample email to verify SMTP works.
     # This does NOT modify seen_ids.
     if test_email:
-        sample = matched[:3]
-        if not sample:
+        sample_yes = yes_matched[:2]
+        sample_maybe = maybe_matched[:1]
+        if not (sample_yes or sample_maybe):
             raise RuntimeError("No matching jobs found to send in test email.")
-        send_email_digest(sample, subject_prefix="[TEST Job Alerts]")
-        print(f"[TEST] Sent a test email with {len(sample)} job(s) to {ALERT_TO_EMAIL}.")
+        if no_email:
+            print(f"[TEST] no-email enabled; would have sent {len(sample_yes) + len(sample_maybe)} job(s) to {ALERT_TO_EMAIL}.")
+        else:
+            send_email_digest(sample_yes, sample_maybe, subject_prefix="[TEST Job Alerts]")
+            print(f"[TEST] Sent a test email with {len(sample_yes) + len(sample_maybe)} job(s) to {ALERT_TO_EMAIL}.")
         if errors:
             print("[WARN] Some sources failed:")
             for e in errors:
@@ -1172,7 +1896,8 @@ def main(test_email: bool = False) -> None:
         for src in bootstrap_sources:
             src_keys = {k for k in latest_keys if k.startswith(f"{src}:")}
             seen |= src_keys
-        save_seen_ids(STATE_PATH, seen)
+        if not dry_run:
+            save_seen_ids(STATE_PATH, seen)
         print(
             f"[BOOTSTRAP] Initialized sources: {', '.join(sorted(bootstrap_sources))}. "
             "No email for these sources this run."
@@ -1180,21 +1905,29 @@ def main(test_email: bool = False) -> None:
 
     # Bootstrap mode (first ever run): save state, do NOT email
     if not os.path.exists(STATE_PATH):
+        if dry_run:
+            print(f"[BOOTSTRAP] (dry-run) Would save {len(latest_keys)} seen_ids. No email sent.")
+            return
         save_seen_ids(STATE_PATH, latest_keys)
         print(f"[BOOTSTRAP] Saved {len(latest_keys)} seen_ids. No email sent.")
         return
 
     new_keys = latest_keys - seen
-    new_jobs = [j for j in matched if j.get("key") in new_keys]
+    new_yes = [j for j in yes_matched if j.get("key") in new_keys]
+    new_maybe = [j for j in maybe_matched if j.get("key") in new_keys]
 
-    if new_jobs:
-        send_email_digest(new_jobs)
-        print(f"[ALERT] Sent digest for {len(new_jobs)} new job(s).")
+    if new_yes or new_maybe:
+        if no_email:
+            print(f"[ALERT] no-email enabled; {len(new_yes)} yes + {len(new_maybe)} maybe new job(s) detected (not emailed).")
+        else:
+            send_email_digest(new_yes, new_maybe, subject_prefix="[Job Alerts]")
+            print(f"[ALERT] Sent digest for {len(new_yes)} yes + {len(new_maybe)} maybe new job(s).")
     else:
         print("[OK] No new jobs.")
 
-    seen |= latest_keys
-    save_seen_ids(STATE_PATH, seen)
+    if not dry_run:
+        seen |= latest_keys
+        save_seen_ids(STATE_PATH, seen)
 
     if errors:
         print("[WARN] Some sources failed (watcher still ran):")
@@ -1204,6 +1937,16 @@ def main(test_email: bool = False) -> None:
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Job watcher")
+    parser.add_argument(
+        "--dry-run",
+        action="store_true",
+        help="Run without saving any state/cursor/dead-board files (safe for testing).",
+    )
+    parser.add_argument(
+        "--no-email",
+        action="store_true",
+        help="Do everything except sending email (still updates state/cursor).",
+    )
     parser.add_argument(
         "--test-email",
         action="store_true",
@@ -1217,8 +1960,11 @@ if __name__ == "__main__":
     )
     parser.add_argument(
         "--boards-csv",
-        default="job_boards_ok_with_meta.csv",
-        help="Boards CSV path (must include company_name, platform, board_url).",
+        default=resolve_default_boards_csv(),
+        help=(
+            "Boards CSV path (must include company_name, platform, board_url). "
+            "Default resolves via BOARDS_CSV env var or the best-available CSV under data/boards/."
+        ),
     )
     parser.add_argument(
         "--boards-batch-size",
@@ -1226,72 +1972,165 @@ if __name__ == "__main__":
         default=50,
         help="How many boards to process per boards run (default: 50).",
     )
+    parser.add_argument(
+        "--export-dead-csv",
+        default="",
+        help="Optional: write a CSV report of dead boards (404) discovered so far.",
+    )
+
+    parser.add_argument(
+        "--boards-timeout",
+        type=int,
+        default=30,
+        help="HTTP timeout in seconds for boards adapters (default: 30).",
+    )
+    parser.add_argument(
+        "--boards-run-until-wrap",
+        action="store_true",
+        help="In boards mode, keep running batches until cursor wraps to 0 (full sweep).",
+    )
+    parser.add_argument(
+        "--boards-max-iterations",
+        type=int,
+        default=2000,
+        help="Safety cap for --boards-run-until-wrap (default: 2000 iterations).",
+    )
 
     args = parser.parse_args()
 
     if args.mode == "boards":
         seen = load_seen_ids(STATE_PATH)
-        matched, latest_keys, errors, new_cursor = run_boards_sweep(
-            seen=seen,
-            boards_csv=args.boards_csv,
-            batch_size=args.boards_batch_size,
-        )
+        boards_seen = load_boards_seen(BOARDS_SEEN_PATH)
+        dead_boards = load_boards_dead(BOARDS_DEAD_PATH)
+        dead_details = load_dead_details(BOARDS_DEAD_DETAILS_PATH)
 
-        if args.test_email:
-            sample = matched[:3]
-            if not sample:
-                raise RuntimeError("No matching jobs found to send in test email.")
-            send_email_digest(sample, subject_prefix="[TEST Boards Alerts]")
-            print(f"[TEST] Sent a test boards email with {len(sample)} job(s) to {ALERT_TO_EMAIL}.")
+        # One-time CSV summary (helps confirm you're using the intended dataset)
+        try:
+            from collections import Counter
+
+            _all_rows = load_boards_csv(args.boards_csv)
+            _all_counts = Counter((r.get("platform") or "") for r in _all_rows)
+            _supported_rows = [r for r in _all_rows if (r.get("platform") or "") in BOARDS_SUPPORTED_PLATFORMS]
+            _skipped = len(_all_rows) - len(_supported_rows)
+
+            print(
+                f"[INFO] Boards CSV: {args.boards_csv} | total_rows={len(_all_rows)} | "
+                f"supported_rows={len(_supported_rows)} | skipped_unsupported={_skipped}"
+            )
+
+            if _skipped:
+                _unsupported_counts = Counter(
+                    (r.get("platform") or "") for r in _all_rows
+                    if (r.get("platform") or "") not in BOARDS_SUPPORTED_PLATFORMS
+                )
+                top = ", ".join(f"{k}:{v}" for k, v in _unsupported_counts.most_common(10))
+                if top:
+                    print(f"[INFO] Unsupported platforms in CSV (top): {top}")
+
+        except Exception as e:
+            print(f"[WARN] Could not summarize boards CSV: {type(e).__name__}: {e}")
+
+        def run_one_boards_batch() -> int:
+
+            matched, latest_keys, errors, new_cursor, bootstrap_keys, bootstrap_boards = run_boards_sweep(
+                seen=seen,
+                boards_seen=boards_seen,
+                dead_boards=dead_boards,
+                dead_details=dead_details,
+                boards_csv=args.boards_csv,
+                batch_size=args.boards_batch_size,
+                timeout=args.boards_timeout,
+            )
+
+            if bootstrap_keys:
+                seen.update(bootstrap_keys)
+            if bootstrap_boards:
+                boards_seen.update(bootstrap_boards)
+
+            # Test email path (does not change seen_ids beyond bootstrap behavior)
+            if args.test_email:
+                sample_yes = [j for j in matched if classify_title(j.get("title", "")) == "yes"][:2]
+                sample_maybe = [j for j in matched if classify_title(j.get("title", "")) == "maybe"][:1]
+                if not (sample_yes or sample_maybe):
+                    raise RuntimeError("No matching jobs found to send in test email.")
+                if args.no_email:
+                    print(f"[TEST] no-email enabled; would have sent {len(sample_yes) + len(sample_maybe)} job(s) to {ALERT_TO_EMAIL}.")
+                else:
+                    send_email_digest(sample_yes, sample_maybe, subject_prefix="[TEST Boards Alerts]")
+                    print(f"[TEST] Sent a test boards email with {len(sample_yes) + len(sample_maybe)} job(s) to {ALERT_TO_EMAIL}.")
+                if not args.dry_run:
+                    save_boards_cursor(BOARDS_CURSOR_PATH, new_cursor)
+                    save_boards_seen(BOARDS_SEEN_PATH, boards_seen)
+                    save_boards_dead(BOARDS_DEAD_PATH, dead_boards)
+                    save_dead_details(BOARDS_DEAD_DETAILS_PATH, dead_details)
+                    export_dead_boards_csv(dead_details, args.export_dead_csv)
+
+                if errors:
+                    print("[WARN] Some boards failed:")
+                    for e in errors:
+                        print("  -", e)
+                raise SystemExit(0)
+
+            # First-ever boards run: bootstrap to avoid emailing historical postings
+            if not os.path.exists(STATE_PATH):
+                if args.dry_run:
+                    print(f"[BOOTSTRAP] (dry-run) Would save {len(latest_keys)} seen_ids (boards). No email sent.")
+                    raise SystemExit(0)
+                save_seen_ids(STATE_PATH, latest_keys)
+                save_boards_cursor(BOARDS_CURSOR_PATH, new_cursor)
+                save_boards_seen(BOARDS_SEEN_PATH, boards_seen)
+                save_boards_dead(BOARDS_DEAD_PATH, dead_boards)
+                save_dead_details(BOARDS_DEAD_DETAILS_PATH, dead_details)
+                export_dead_boards_csv(dead_details, args.export_dead_csv)
+                print(f"[BOOTSTRAP] Saved {len(latest_keys)} seen_ids (boards). No email sent.")
+                raise SystemExit(0)
+
+            new_keys = latest_keys - seen
+            new_yes = [j for j in matched if classify_title(j.get("title", "")) == "yes" and j.get("key") in new_keys]
+            new_maybe = [j for j in matched if classify_title(j.get("title", "")) == "maybe" and j.get("key") in new_keys]
+
+            if new_yes or new_maybe:
+                if args.no_email:
+                    print(f"[ALERT] no-email enabled; {len(new_yes)} yes + {len(new_maybe)} maybe new job(s) detected (not emailed).")
+                else:
+                    send_email_digest(new_yes, new_maybe, subject_prefix="[Boards Alerts]")
+                    print(f"[ALERT] Sent boards digest for {len(new_yes)} yes + {len(new_maybe)} maybe new job(s).")
+            else:
+                print("[OK] No new boards jobs.")
+
+            if not args.dry_run:
+                seen.update(latest_keys)
+                save_seen_ids(STATE_PATH, seen)
+                save_boards_cursor(BOARDS_CURSOR_PATH, new_cursor)
+                save_boards_seen(BOARDS_SEEN_PATH, boards_seen)
+                save_boards_dead(BOARDS_DEAD_PATH, dead_boards)
+                save_dead_details(BOARDS_DEAD_DETAILS_PATH, dead_details)
+                export_dead_boards_csv(dead_details, args.export_dead_csv)
+
             if errors:
-                print("[WARN] Some boards failed:")
+                print("[WARN] Some boards failed (sweep still ran):")
                 for e in errors:
                     print("  -", e)
-            # Still save cursor so manual test walks forward
-            save_boards_cursor(BOARDS_CURSOR_PATH, new_cursor)
-            raise SystemExit(0)
 
-        # First-ever boards run: bootstrap to avoid emailing historical postings
-        if not os.path.exists(STATE_PATH):
-            save_seen_ids(STATE_PATH, latest_keys)
-            save_boards_cursor(BOARDS_CURSOR_PATH, new_cursor)
-            print(f"[BOOTSTRAP] Saved {len(latest_keys)} seen_ids (boards). No email sent.")
-            raise SystemExit(0)
+            return new_cursor
 
-        # Boards bootstrap: if we've never stored any greenhouse/lever keys yet,
-        # don't email a massive historical dump on the first boards run.
-        has_any_boards_keys = any(
-            k.startswith("greenhouse:") or k.startswith("lever:")
-            for k in seen
-        )
+        if args.boards_run_until_wrap:
+            it = 0
+            try:
+                while True:
+                    it += 1
+                    cur = run_one_boards_batch()
+                    print(f"[PROGRESS] cursor_now: {cur}")
+                    if cur == 0:
+                        print("[DONE] cursor wrapped to 0 (full sweep completed).")
+                        break
+                    if it >= args.boards_max_iterations:
+                        print(f"[STOP] Reached boards_max_iterations={args.boards_max_iterations} without wrap; stopping for safety.")
+                        break
+            except KeyboardInterrupt:
+                print("\n[STOP] Interrupted by user (state saved up to last completed batch).")
 
-        if not has_any_boards_keys:
-            seen |= latest_keys
-            save_seen_ids(STATE_PATH, seen)
-            save_boards_cursor(BOARDS_CURSOR_PATH, new_cursor)
-            print(
-                f"[BOOTSTRAP] Initialized boards mode with {len(latest_keys)} seen_ids. "
-                "No email sent."
-            )
-            raise SystemExit(0)
-
-        new_keys = latest_keys - seen
-        new_jobs = [j for j in matched if j.get("key") in new_keys]
-
-        if new_jobs:
-            send_email_digest(new_jobs, subject_prefix="[Boards Alerts]")
-            print(f"[ALERT] Sent boards digest for {len(new_jobs)} new job(s).")
         else:
-            print("[OK] No new boards jobs.")
-
-        seen |= latest_keys
-        save_seen_ids(STATE_PATH, seen)
-        save_boards_cursor(BOARDS_CURSOR_PATH, new_cursor)
-
-        if errors:
-            print("[WARN] Some boards failed (sweep still ran):")
-            for e in errors:
-                print("  -", e)
-
+            _ = run_one_boards_batch()
     else:
-        main(test_email=args.test_email)
+        main(test_email=args.test_email, no_email=args.no_email, dry_run=args.dry_run)
