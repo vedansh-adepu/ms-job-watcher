@@ -19,3 +19,6 @@ job_boards_NEEDS_HUMAN.csv
 data/boards/JOB_BOARDS_OK_PRODUCTION.csv
 data/boards/JOB_BOARDS_NEEDS_HUMAN_PRODUCTION.csv
 data/boards/JOB_BOARDS_OK_PRODUCTION_MINUS_DEAD_round2.csv
+
+# local dev state
+state/local_seen_*.json
