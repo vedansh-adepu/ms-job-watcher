@@ -38,13 +38,16 @@ jobs:
           EMAIL_USER: ${{ secrets.EMAIL_USER }}
           EMAIL_APP_PASSWORD: ${{ secrets.EMAIL_APP_PASSWORD }}
           ALERT_TO_EMAIL: ${{ secrets.ALERT_TO_EMAIL }}
+          STATE_PATH: state/seen_boards.json
         run: |
-          python watcher.py --mode boards --boards-csv job_boards_ok_with_meta.csv --boards-batch-size 50
+          python watcher.py --mode boards \
+            --boards-csv data/boards/JOB_BOARDS_PURE_WORKING_SUPPORTED_round2.csv \
+            --boards-batch-size 50
 
       - name: Commit updated state
         run: |
           # If nothing changed, do nothing
-          if ! git status --porcelain | grep -E -q "state/seen.json|state/boards_cursor.json"; then
+          if ! git status --porcelain | grep -E -q "state/seen_boards.json|state/boards_cursor.json|state/boards_seen.json|state/boards_dead.json|state/boards_dead_details.json"; then
             echo "No state changes."
             exit 0
           fi
@@ -52,7 +55,7 @@ jobs:
           git config user.name "job-watcher-bot"
           git config user.email "job-watcher-bot@users.noreply.github.com"
 
-          git add state/seen.json state/boards_cursor.json
+          git add state/seen_boards.json state/boards_cursor.json state/boards_seen.json state/boards_dead.json state/boards_dead_details.json
           git commit -m "Update board sweep state" || echo "Nothing to commit."
 
           # Sync-safe push with retries (handles schedule + rerun collisions)

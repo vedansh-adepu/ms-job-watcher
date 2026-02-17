@@ -52,12 +52,12 @@ import requests
 #   - send one digest email per run
 #   - update state
 
-# State file paths
-STATE_PATH = "state/seen.json"
-BOARDS_CURSOR_PATH = "state/boards_cursor.json"
-BOARDS_SEEN_PATH = "state/boards_seen.json"
-BOARDS_DEAD_PATH = "state/boards_dead.json"
-BOARDS_DEAD_DETAILS_PATH = "state/boards_dead_details.json"
+# State file paths (overrideable via env vars so boards + main can run without git conflicts)
+STATE_PATH = os.getenv("STATE_PATH", "state/seen.json")
+BOARDS_CURSOR_PATH = os.getenv("BOARDS_CURSOR_PATH", "state/boards_cursor.json")
+BOARDS_SEEN_PATH = os.getenv("BOARDS_SEEN_PATH", "state/boards_seen.json")
+BOARDS_DEAD_PATH = os.getenv("BOARDS_DEAD_PATH", "state/boards_dead.json")
+BOARDS_DEAD_DETAILS_PATH = os.getenv("BOARDS_DEAD_DETAILS_PATH", "state/boards_dead_details.json")
 
 # Default boards CSV resolution (lets workflows/CLI run without remembering paths)
 # Priority:
@@ -2073,16 +2073,21 @@ if __name__ == "__main__":
 
             # First-ever boards run: bootstrap to avoid emailing historical postings
             if not os.path.exists(STATE_PATH):
+                # IMPORTANT: 'seen' may already include bootstrap_keys from newly discovered boards.
+                # Persist seen ∪ latest_keys so we don't "rediscover" those jobs as new on the next run.
+                initial_count = len(seen | latest_keys)
                 if args.dry_run:
-                    print(f"[BOOTSTRAP] (dry-run) Would save {len(latest_keys)} seen_ids (boards). No email sent.")
+                    print(f"[BOOTSTRAP] (dry-run) Would save {initial_count} seen_ids (boards). No email sent.")
                     raise SystemExit(0)
-                save_seen_ids(STATE_PATH, latest_keys)
+
+                seen.update(latest_keys)
+                save_seen_ids(STATE_PATH, seen)
                 save_boards_cursor(BOARDS_CURSOR_PATH, new_cursor)
                 save_boards_seen(BOARDS_SEEN_PATH, boards_seen)
                 save_boards_dead(BOARDS_DEAD_PATH, dead_boards)
                 save_dead_details(BOARDS_DEAD_DETAILS_PATH, dead_details)
                 export_dead_boards_csv(dead_details, args.export_dead_csv)
-                print(f"[BOOTSTRAP] Saved {len(latest_keys)} seen_ids (boards). No email sent.")
+                print(f"[BOOTSTRAP] Saved {initial_count} seen_ids (boards). No email sent.")
                 raise SystemExit(0)
 
             new_keys = latest_keys - seen
