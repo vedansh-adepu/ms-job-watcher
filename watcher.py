@@ -18,11 +18,24 @@ import requests
 from requests.adapters import HTTPAdapter
 from urllib3.util.retry import Retry
 
+# Path to this script's directory (for resolving relative files)
+SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 
 # -----------------------------
 # Workday URL parsing helpers (CXS)
 # -----------------------------
-LOCALE_RE = re.compile(r"^[a-z]{2}-[A-Z]{2}$")  # en-US, fr-CA, etc.
+LOCALE_RE = re.compile(r"^[a-z]{2}[-_][a-zA-Z]{2}$")  # en-US, en-us, en_US, fr-CA, etc.
+
+def _canon_locale(seg: str) -> str:
+    """Canonicalize locale segments like en-us / en_US -> en-US."""
+    s = (seg or "").strip()
+    if not s:
+        return ""
+    s = s.replace("_", "-")
+    parts = s.split("-")
+    if len(parts) != 2:
+        return s
+    return f"{parts[0].lower()}-{parts[1].upper()}"
 
 
 def _parse_workday_board(board_url: str) -> Tuple[str, str, str]:
@@ -76,10 +89,35 @@ def resolve_default_boards_csv() -> str:
         "data/boards/JOB_BOARDS_OK_PRODUCTION_MINUS_DEAD_round2.csv",
         "data/boards/JOB_BOARDS_OK_PRODUCTION.csv",
     ]
-    for p in candidates:
-        if p and os.path.exists(p):
-            return p
-    return "data/boards/JOB_BOARDS_OK_PRODUCTION.csv"
+
+    def _try_resolve(raw: str) -> Optional[str]:
+        if not raw:
+            return None
+        p = os.path.expanduser(raw)
+
+        # If absolute, just check it.
+        if os.path.isabs(p):
+            ap = os.path.abspath(p)
+            return ap if os.path.exists(ap) else None
+
+        # If relative, try CWD-relative first, then repo/script-dir relative.
+        ap_cwd = os.path.abspath(p)
+        if os.path.exists(ap_cwd):
+            return ap_cwd
+
+        ap_script = os.path.abspath(os.path.join(SCRIPT_DIR, p))
+        if os.path.exists(ap_script):
+            return ap_script
+
+        return None
+
+    for raw in candidates:
+        resolved = _try_resolve(raw)
+        if resolved:
+            return resolved
+
+    # Final fallback
+    return os.path.abspath(os.path.join(SCRIPT_DIR, "data/boards/JOB_BOARDS_OK_PRODUCTION.csv"))
 
 
 # -----------------------------
@@ -656,11 +694,23 @@ def export_dead_boards_csv(dead_details: Dict[str, Dict[str, Any]], out_path: st
 # Boards CSV loader
 # -----------------------------
 def load_boards_csv(path: str) -> List[Dict[str, str]]:
-    if not os.path.exists(path):
+    raw = (path or "").strip()
+    p = os.path.expanduser(raw)
+
+    # If a relative path is provided, allow running from any CWD by also resolving relative to this script.
+    if not os.path.isabs(p):
+        p_cwd = os.path.abspath(p)
+        p_script = os.path.abspath(os.path.join(SCRIPT_DIR, p))
+        if os.path.exists(p_cwd):
+            p = p_cwd
+        elif os.path.exists(p_script):
+            p = p_script
+
+    if not os.path.exists(p):
         raise FileNotFoundError(f"Boards CSV not found: {path}")
 
     rows: List[Dict[str, str]] = []
-    with open(path, "r", encoding="utf-8") as f:
+    with open(p, "r", encoding="utf-8") as f:
         reader = csv.DictReader(f)
         for r in reader:
             company = (r.get("company_name") or r.get("company") or "").strip()
@@ -1045,6 +1095,8 @@ def workday_tenant_from_host(host: str) -> str:
     return host.split(".")[0]
 
 
+
+
 def workday_site_from_board_url(board_url: str) -> str:
     u = urlparse((board_url or "").strip())
     parts = [p for p in (u.path or "").split("/") if p]
@@ -1054,6 +1106,82 @@ def workday_site_from_board_url(board_url: str) -> str:
         parts = parts[1:]
     return parts[0] if parts else ""
 
+# Best-effort locale segment for external Workday links.
+def workday_locale_from_board_url(board_url: str) -> str:
+    """Best-effort locale segment for external Workday links.
+
+    Many Workday external links require the locale prefix (commonly `en-US`).
+    If the board URL already includes a locale (e.g., `/en-US/<site>`), reuse it.
+    Otherwise default to `en-US`.
+    """
+    u = urlparse((board_url or "").strip())
+    parts = [p for p in (u.path or "").split("/") if p]
+    if parts and LOCALE_RE.match(parts[0]):
+        canon = _canon_locale(parts[0])
+        return canon or "en-US"
+    return "en-US"
+
+
+def workday_normalize_external_job_url(board_url: str, external: str) -> str:
+    """Normalize Workday external job URLs/paths for external users.
+
+    Fixes shapes like:
+      - https://<host>/job/...    (missing /en-US/<site>/)
+      - /job/...                 (missing /en-US/<site>/)
+      - /<site>/job/...          (missing /en-US/)
+
+    Returns a fully-qualified URL if possible.
+    """
+    ext = (external or "").strip()
+    if not ext:
+        return ""
+
+    locale = workday_locale_from_board_url(board_url)
+    site = workday_site_from_board_url(board_url)
+
+    bu = urlparse((board_url or "").strip())
+    base_host = (bu.netloc or "").strip()
+
+    if ext.startswith("http"):
+        eu = urlparse(ext)
+        host = (eu.netloc or "").strip() or base_host
+        path = eu.path or ""
+    else:
+        host = base_host
+        path = ext
+
+    if not host or not path.startswith("/"):
+        return ext
+
+    segs = [s for s in path.split("/") if s]
+
+    # Already /<locale>/<site>/...
+    if len(segs) >= 2 and LOCALE_RE.match(segs[0]) and site and segs[1] == site:
+        canon0 = _canon_locale(segs[0])
+        if canon0 and canon0 != segs[0]:
+            segs[0] = canon0
+            new_path = "/" + "/".join(segs)
+        else:
+            new_path = path
+
+    # /<locale>/job/... (locale present, missing site)
+    elif len(segs) >= 2 and LOCALE_RE.match(segs[0]) and site and segs[1] in {"job", "jobs"}:
+        canon0 = _canon_locale(segs[0]) or segs[0]
+        rest = "/".join(segs[1:])
+        new_path = f"/{canon0}/{site}/{rest}"
+
+    # /<site>/... (missing locale)
+    elif len(segs) >= 1 and site and segs[0] == site:
+        new_path = f"/{locale}{path}"
+
+    # /job/... or /jobs/... (missing locale + site)
+    elif len(segs) >= 1 and segs[0] in {"job", "jobs"} and site:
+        new_path = f"/{locale}/{site}{path}"
+
+    else:
+        new_path = path
+
+    return f"https://{host}{new_path}"
 
 def workday_board_id(board_url: str) -> str:
     u = urlparse((board_url or "").strip())
@@ -1134,13 +1262,18 @@ def normalize_workday_post(company_name: str, board_url: str, post: Dict[str, An
 
     posted = post.get("postedOn") or post.get("postedDate") or post.get("timePosted") or ""
 
+    # Workday CXS often returns external paths like `/job/...` which need `/en-US/<site>/...`.
+    # Use one normalizer for all shapes (absolute URL or path).
     ext = post.get("externalPath") or post.get("externalUrl") or ""
     url = ""
+
     if isinstance(ext, str) and ext:
-        if ext.startswith("http"):
-            url = ext
-        elif ext.startswith("/") and host:
-            url = f"https://{host}{ext}"
+        if ext.startswith("http") or ext.startswith("/"):
+            url = workday_normalize_external_job_url(board_url, ext)
+        else:
+            # rare: path without leading slash
+            url = workday_normalize_external_job_url(board_url, "/" + ext)
+
     if not url:
         url = board_url
 
@@ -1336,6 +1469,7 @@ def _process_single_board(
     boards_seen: Set[str],
     dead_boards: Set[str],
     timeout: int,
+    suppress_new_boards: bool = True,
 ) -> Tuple[
     str,                 # platform
     str,                 # board_id
@@ -1383,8 +1517,10 @@ def _process_single_board(
                 jobs = fetch_workday_jobs(board_url, timeout=timeout)
                 norm_jobs = [normalize_workday_post(company, board_url, j) for j in jobs]
 
-        # Per-board bootstrap to avoid huge first-time alerts
-        if board_id not in boards_seen:
+        # Per-board bootstrap to avoid huge first-time alerts.
+        # IMPORTANT: when running --test-email, we WANT to emit jobs even for brand-new boards,
+        # otherwise matched will be empty and test-email will fail.
+        if suppress_new_boards and (board_id not in boards_seen):
             matched_on_board = [
                 j for j in norm_jobs
                 if title_matches(j.get("title", "")) and is_us_location(j.get("location", ""))
@@ -1427,6 +1563,7 @@ def run_boards_sweep(
     batch_size: int,
     timeout: int = DEFAULT_TIMEOUT,
     workers: int = BOARDS_WORKERS,
+    suppress_new_boards: bool = True,
 ) -> Tuple[List[Dict[str, str]], Set[str], List[str], int, Set[str], Set[str]]:
     boards = load_boards_csv(boards_csv)
     boards = [b for b in boards if (b.get("platform") or "") in BOARDS_SUPPORTED_PLATFORMS]
@@ -1453,7 +1590,10 @@ def run_boards_sweep(
     t_sweep0 = time.time()
 
     with ThreadPoolExecutor(max_workers=max(1, int(workers))) as ex:
-        futures = [ex.submit(_process_single_board, b, boards_seen, dead_boards, timeout) for b in batch]
+        futures = [
+            ex.submit(_process_single_board, b, boards_seen, dead_boards, timeout, suppress_new_boards)
+            for b in batch
+        ]
         for fut in as_completed(futures):
             platform, board_id, elapsed, norm_jobs, bkeys, booted, dead_status, dead_err, err_line = fut.result()
 
@@ -1739,6 +1879,7 @@ if __name__ == "__main__":
                 batch_size=args.boards_batch_size,
                 timeout=args.boards_timeout,
                 workers=BOARDS_WORKERS,
+                suppress_new_boards=not args.test_email,
             )
 
             if bootstrap_keys:
