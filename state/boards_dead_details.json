@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-02-24T17:13:53.444698+00:00",
+  "updated_utc": "2026-02-24T18:31:11.417820+00:00",
   "dead_details": {
     "greenhouse:auth0": {
       "first_seen_utc": "2026-02-16T03:03:47.356270+00:00",
@@ -8109,6 +8109,15 @@
       "board_url": "https://ghr.wd1.myworkdayjobs.com/en-us/lateral-us",
       "last_status": 404,
       "last_error": "HTTP 404 (Workday API not found)"
+    },
+    "greenhouse:styra": {
+      "first_seen_utc": "2026-02-24T18:31:02.924124+00:00",
+      "last_seen_utc": "2026-02-24T18:31:02.924124+00:00",
+      "platform": "greenhouse",
+      "company": "",
+      "board_url": "",
+      "last_status": 404,
+      "last_error": "HTTP 404/410 (board not found)"
     }
   }
 }
