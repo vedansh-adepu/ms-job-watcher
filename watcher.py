@@ -752,6 +752,24 @@ US_STATE_ABBRS = {
     "or","pa","ri","sc","sd","tn","tx","ut","vt","va","wa","wv","wi","wy","dc",
 }
 
+# ISO 3166-1 alpha-2 country codes that are NOT the US.
+# Used to reject false-positive state-abbreviation matches in international location strings
+# like "Budapest, OR, hu" where "or" is an Hungarian region code, not Oregon.
+NON_US_COUNTRY_CODES = {
+    "af","al","dz","ad","ao","ag","ar","am","au","at","az","bs","bh","bd","bb","by","be",
+    "bz","bj","bt","bo","ba","bw","br","bn","bg","bf","bi","kh","cm","ca","cv","cf","td",
+    "cl","cn","co","km","cg","cd","cr","ci","hr","cu","cy","cz","dk","dj","dm","do","ec",
+    "eg","sv","gq","er","ee","et","fj","fi","fr","ga","gm","ge","de","gh","gr","gd","gt",
+    "gn","gw","gy","ht","hn","hu","is","in","id","ir","iq","ie","il","it","jm","jp","jo",
+    "kz","ke","ki","kp","kr","kw","kg","la","lv","lb","ls","lr","ly","li","lt","lu","mk",
+    "mg","mw","my","mv","ml","mt","mh","mr","mu","mx","fm","md","mc","mn","me","ma","mz",
+    "mm","na","nr","np","nl","nz","ni","ne","ng","no","om","pk","pw","pa","pg","py","pe",
+    "ph","pl","pt","qa","ro","ru","rw","kn","lc","vc","ws","sm","st","sa","sn","rs","sc",
+    "sl","sg","sk","si","sb","so","za","ss","es","lk","sd","sr","sz","se","ch","sy","tw",
+    "tj","tz","th","tl","tg","to","tt","tn","tr","tm","tv","ug","ua","ae","gb","uy","uz",
+    "vu","ve","vn","ye","zm","zw",
+}
+
 
 def is_us_location(location: str) -> bool:
     loc = (location or "").strip().lower()
@@ -767,6 +785,11 @@ def is_us_location(location: str) -> bool:
         return True
     if "washington, dc" in loc or "district of columbia" in loc:
         return True
+    # Reject if the location has 3+ comma-separated parts and the last is a known non-US
+    # country code — e.g. "Budapest, OR, hu": "hu" (Hungary) must block the "or" → Oregon match.
+    parts = [p.strip() for p in loc.split(",")]
+    if len(parts) >= 3 and len(parts[-1]) == 2 and parts[-1] in NON_US_COUNTRY_CODES:
+        return False
     m = re.search(r",\s*([a-z]{2})(\b|[^a-z])", loc)
     if m and m.group(1) in US_STATE_ABBRS:
         return True
@@ -1196,10 +1219,25 @@ def workday_board_id(board_url: str) -> str:
     return "workday:"
 
 
+# Matches the requisition/job number embedded in a Workday externalPath, e.g.:
+#   /job/Software-Engineer_R1234567        → R1234567
+#   /en-US/site/job/Engineer_R1234567-1   → R1234567  (variant suffix stripped)
+#   /job/Engineer_12345                    → 12345
+#   /job/Engineer_R-1234567               → R-1234567
+_WD_REQ_RE = re.compile(r"[/_]([A-Za-z]{0,3}-?\d{3,})(?:-\d+)?(?:[/?#_]|$)")
+
+
 def workday_key_from_post(tenant: str, site: str, post: Dict[str, Any], url: str) -> str:
     pid = str(post.get("jobPostingId") or post.get("id") or "")
     if pid:
         return f"workday:{tenant}:{site}:{pid}"
+    # jobPostingId absent — try to pull a stable req ID from the externalPath rather than
+    # using the full normalized URL, which can vary across calls for the same job.
+    ext_path = str(post.get("externalPath") or post.get("externalUrl") or "")
+    if ext_path:
+        m = _WD_REQ_RE.search(ext_path)
+        if m:
+            return f"workday:{tenant}:{site}:req:{m.group(1)}"
     return f"workday:{tenant}:{site}:url:{url}"
 
 
