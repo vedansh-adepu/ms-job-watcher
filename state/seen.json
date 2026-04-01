@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-04-01T14:23:57.579246+00:00",
+  "updated_utc": "2026-04-01T15:55:31.073284+00:00",
   "seen_ids": [
     "amazon:00ff7565-6796-436d-ad7c-7b6c15ac809a",
     "amazon:010cbbb8-90e0-4148-8e37-882c98c0f1fd",
@@ -80,6 +80,7 @@
     "amazon:115f038d-0351-481d-9ac5-aeb8bf05804d",
     "amazon:11636cba-3af4-4654-99f2-be72b999e4db",
     "amazon:11d0548e-9640-437a-b4db-03a3d68e8c6d",
+    "amazon:11d0c69d-8745-4ce3-b7a5-9888c0198ff0",
     "amazon:12174fd7-d75f-441f-bc62-e04151044076",
     "amazon:12609058-ab1d-494e-9f74-adb566ba8ca6",
     "amazon:12c7ef0f-b3fc-4b6a-a490-41476b48c996",
@@ -502,6 +503,7 @@
     "amazon:6bff4c35-46d6-40ea-a0ee-4fb87f5b0698",
     "amazon:6c09a3ad-d766-4cb1-a8f1-f1abe1b9c1c9",
     "amazon:6c7bbde3-1f88-46b7-8cde-d5332fd10eae",
+    "amazon:6c8d0280-bffc-4359-9ed9-4ed48efc180b",
     "amazon:6c982f78-42cb-43fa-a279-da36bf39fdeb",
     "amazon:6cc06ec7-15dc-4723-9bfc-4630111ce554",
     "amazon:6cf024f9-ef41-48cc-ba8b-46627c7f69bf",
@@ -700,6 +702,7 @@
     "amazon:9205dc99-c4e0-489d-aa02-990534961b11",
     "amazon:9219e9ec-282e-475a-a65a-c7cc266bdd0b",
     "amazon:923347fa-9a54-4716-b1a5-5f337da784bd",
+    "amazon:92453e98-92dd-42a3-9d8f-ca739d4cdad8",
     "amazon:9254e7db-5f5f-4384-b89b-6d9816635ad1",
     "amazon:92588889-3f5c-404e-aa02-f3ae45720843",
     "amazon:926bdc34-0959-4ca8-9fc9-c4e7d2412461",
@@ -1252,6 +1255,7 @@
     "amazon:f4d01ec8-4504-4f5d-9c72-60ab6ff6d689",
     "amazon:f5697965-aa34-48ca-a7f4-eec12a4f0bac",
     "amazon:f56d8aad-5dfe-462f-a334-8bbd8a68aea6",
+    "amazon:f5ab4514-4a76-48b1-bd3a-14cba43ccf96",
     "amazon:f5fa7483-536f-4022-8b96-452c094be7da",
     "amazon:f64d4c52-5915-42ad-bcd5-160b208d3fc6",
     "amazon:f66e0473-ac56-4bc2-a0e9-6e3cea3fd771",
@@ -1335,6 +1339,7 @@
     "goldman_sachs:164801_GS_MID_CAREER",
     "goldman_sachs:165511_GS_MID_CAREER",
     "goldman_sachs:165917_GS_MID_CAREER",
+    "goldman_sachs:167499_GS_MID_CAREER",
     "greenhouse:10xgenomics:7302038",
     "greenhouse:10xgenomics:7318084",
     "greenhouse:affirm:6642236003",
@@ -3799,6 +3804,7 @@
     "microsoft:1970393556620538",
     "microsoft:1970393556620569",
     "microsoft:1970393556620649",
+    "microsoft:1970393556620699",
     "microsoft:1970393556620784",
     "microsoft:1970393556620867",
     "microsoft:1970393556620906",
@@ -4753,6 +4759,7 @@
     "nvidia:893394337840",
     "nvidia:893394337989",
     "nvidia:893394348233",
-    "nvidia:893394351126"
+    "nvidia:893394351126",
+    "nvidia:893394364650"
   ]
 }
