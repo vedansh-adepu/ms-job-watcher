@@ -770,6 +770,33 @@ NON_US_COUNTRY_CODES = {
     "vu","ve","vn","ye","zm","zw",
 }
 
+# Full country names that appear in job location strings and are NOT the US.
+# Guards against cases like "Bogota, DC, Colombia" where the last part is a full
+# country name (> 2 chars) that bypasses the 2-char ISO code check above.
+NON_US_COUNTRY_NAMES = {
+    "afghanistan","albania","algeria","andorra","angola","argentina","armenia","australia",
+    "austria","azerbaijan","bahrain","bangladesh","belarus","belgium","belize","benin",
+    "bhutan","bolivia","bosnia","botswana","brazil","brunei","bulgaria","burkina faso",
+    "burundi","cambodia","cameroon","canada","cape verde","chad","chile","china","colombia",
+    "comoros","congo","costa rica","croatia","cuba","cyprus","czechia","czech republic",
+    "denmark","djibouti","dominican republic","ecuador","egypt","el salvador","eritrea",
+    "estonia","ethiopia","fiji","finland","france","gabon","gambia","georgia","germany",
+    "ghana","greece","guatemala","guinea","guyana","haiti","honduras","hungary","iceland",
+    "india","indonesia","iran","iraq","ireland","israel","italy","jamaica","japan","jordan",
+    "kazakhstan","kenya","kuwait","kyrgyzstan","laos","latvia","lebanon","lesotho","liberia",
+    "libya","liechtenstein","lithuania","luxembourg","madagascar","malawi","malaysia",
+    "maldives","mali","malta","mauritania","mauritius","mexico","moldova","monaco",
+    "mongolia","montenegro","morocco","mozambique","myanmar","namibia","nepal",
+    "netherlands","new zealand","nicaragua","niger","nigeria","north korea","norway","oman",
+    "pakistan","panama","papua new guinea","paraguay","peru","philippines","poland",
+    "portugal","qatar","romania","russia","rwanda","saudi arabia","senegal","serbia",
+    "sierra leone","singapore","slovakia","slovenia","somalia","south africa","south korea",
+    "south sudan","spain","sri lanka","sudan","suriname","sweden","switzerland","syria",
+    "taiwan","tajikistan","tanzania","thailand","togo","trinidad and tobago","tunisia",
+    "turkey","turkmenistan","uganda","ukraine","united arab emirates","united kingdom",
+    "uruguay","uzbekistan","venezuela","vietnam","yemen","zambia","zimbabwe",
+}
+
 
 def is_us_location(location: str) -> bool:
     loc = (location or "").strip().lower()
@@ -785,10 +812,15 @@ def is_us_location(location: str) -> bool:
         return True
     if "washington, dc" in loc or "district of columbia" in loc:
         return True
-    # Reject if the location has 3+ comma-separated parts and the last is a known non-US
-    # country code — e.g. "Budapest, OR, hu": "hu" (Hungary) must block the "or" → Oregon match.
+    # Reject if any comma-separated part is a known non-US country indicator.
+    # Two separate guards:
+    #   2-char ISO code ("hu", "co"…): only safe when 3+ parts — "ca" alone is ambiguous
+    #     (California vs Canada), but "City, ST, ca" clearly flags Canada.
+    #   Full country name ("Colombia", "Germany"…): unambiguous at any part count.
     parts = [p.strip() for p in loc.split(",")]
     if len(parts) >= 3 and len(parts[-1]) == 2 and parts[-1] in NON_US_COUNTRY_CODES:
+        return False
+    if any(p in NON_US_COUNTRY_NAMES for p in parts):
         return False
     m = re.search(r",\s*([a-z]{2})(\b|[^a-z])", loc)
     if m and m.group(1) in US_STATE_ABBRS:
