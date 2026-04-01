@@ -123,7 +123,7 @@ def resolve_default_boards_csv() -> str:
 # -----------------------------
 # Boards supported platforms
 # -----------------------------
-BOARDS_SUPPORTED_PLATFORMS = ("greenhouse", "lever", "smartrecruiters", "workday")
+BOARDS_SUPPORTED_PLATFORMS = ("greenhouse", "lever", "smartrecruiters", "workday", "ashby")
 SMARTRECRUITERS_API_BASE = "https://api.smartrecruiters.com/v1/companies"
 
 # -----------------------------
@@ -300,12 +300,14 @@ GH_MAX_INFLIGHT = int(os.getenv("GH_MAX_INFLIGHT", "8"))
 LEVER_MAX_INFLIGHT = int(os.getenv("LEVER_MAX_INFLIGHT", "8"))
 SR_MAX_INFLIGHT = int(os.getenv("SR_MAX_INFLIGHT", "6"))
 WD_MAX_INFLIGHT = int(os.getenv("WD_MAX_INFLIGHT", "4"))
+ASHBY_MAX_INFLIGHT = int(os.getenv("ASHBY_MAX_INFLIGHT", "6"))
 
 _PLATFORM_SEMAPHORES: Dict[str, threading.Semaphore] = {
     "greenhouse": threading.Semaphore(GH_MAX_INFLIGHT),
     "lever": threading.Semaphore(LEVER_MAX_INFLIGHT),
     "smartrecruiters": threading.Semaphore(SR_MAX_INFLIGHT),
     "workday": threading.Semaphore(WD_MAX_INFLIGHT),
+    "ashby": threading.Semaphore(ASHBY_MAX_INFLIGHT),
 }
 
 _thread_local = threading.local()
@@ -1441,6 +1443,66 @@ def normalize_lever_job(company_name: str, company_slug: str, job: Dict[str, Any
 
 
 # -----------------------------
+# Ashby (Boards mode)
+# -----------------------------
+ASHBY_API_URL = "https://jobs.ashbyhq.com/api/non-user-graphql"
+ASHBY_JOBS_QUERY = (
+    "query ApiJobBoardWithTeams($organizationHostedJobsPageName: String!) {"
+    "  jobBoard: jobBoardWithTeams(organizationHostedJobsPageName: $organizationHostedJobsPageName) {"
+    "    jobPostings { id title locationName workplaceType employmentType }"
+    "  }"
+    "}"
+)
+
+
+def ashby_slug_from_board_url(board_url: str) -> str:
+    u = urlparse(board_url or "")
+    parts = [p for p in (u.path or "").split("/") if p]
+    return parts[0] if parts else ""
+
+
+def ashby_key(company_slug: str, job_id: str) -> str:
+    return f"ashby:{company_slug}:{job_id}"
+
+
+def fetch_ashby_jobs(company_slug: str, timeout: int = DEFAULT_TIMEOUT) -> List[Dict[str, Any]]:
+    sess = _get_session("ashby")
+    r = sess.post(
+        ASHBY_API_URL,
+        headers={"content-type": "application/json"},
+        json={
+            "operationName": "ApiJobBoardWithTeams",
+            "variables": {"organizationHostedJobsPageName": company_slug},
+            "query": ASHBY_JOBS_QUERY,
+        },
+        timeout=timeout,
+    )
+    r.raise_for_status()
+    data = r.json()
+    board = (data.get("data") or {}).get("jobBoard")
+    if board is None:
+        # Slug not found — synthesize a 404 so dead-board tracking fires the same way as Greenhouse
+        import requests as _req
+        fake = _req.models.Response()
+        fake.status_code = 404
+        raise _req.HTTPError(response=fake)
+    return board.get("jobPostings") or []
+
+
+def normalize_ashby_job(company_name: str, company_slug: str, job: Dict[str, Any]) -> Dict[str, str]:
+    job_id = str(job.get("id") or "")
+    key = ashby_key(company_slug, job_id) if job_id else f"ashby:{company_slug}:url:"
+    title = job.get("title") or "Unknown Title"
+    loc = job.get("locationName") or "Unknown Location"
+    url = (
+        f"https://jobs.ashbyhq.com/{company_slug}/{job_id}"
+        if job_id
+        else f"https://jobs.ashbyhq.com/{company_slug}"
+    )
+    return {"key": str(key), "company": str(company_name), "title": str(title), "location": str(loc), "posted": "", "url": str(url)}
+
+
+# -----------------------------
 # Boards sweep (CONCURRENT + PERF)
 # -----------------------------
 def _board_id_for(platform: str, board_url: str) -> Tuple[str, str]:
@@ -1455,6 +1517,9 @@ def _board_id_for(platform: str, board_url: str) -> Tuple[str, str]:
     if platform == "smartrecruiters":
         slug = smartrecruiters_company_from_board_url(board_url)
         return smartrecruiters_board_id(board_url), slug
+    if platform == "ashby":
+        slug = ashby_slug_from_board_url(board_url)
+        return f"ashby:{slug}", slug
     # workday
     return workday_board_id(board_url), ""
 
@@ -1513,6 +1578,9 @@ def _process_single_board(
             elif platform == "smartrecruiters":
                 jobs = fetch_smartrecruiters_jobs(board_url, timeout=timeout)
                 norm_jobs = [normalize_smartrecruiters_post(company, board_url, j) for j in jobs]
+            elif platform == "ashby":
+                jobs = fetch_ashby_jobs(slug, timeout=timeout)
+                norm_jobs = [normalize_ashby_job(company, slug, j) for j in jobs]
             else:
                 jobs = fetch_workday_jobs(board_url, timeout=timeout)
                 norm_jobs = [normalize_workday_post(company, board_url, j) for j in jobs]
