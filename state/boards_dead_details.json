@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-04-01T17:30:42.869098+00:00",
+  "updated_utc": "2026-04-01T22:38:07.623245+00:00",
   "dead_details": {
     "greenhouse:auth0": {
       "first_seen_utc": "2026-02-16T03:03:47.356270+00:00",
@@ -8176,6 +8176,15 @@
     "greenhouse:modernizingmedicineinc": {
       "first_seen_utc": "2026-04-01T04:36:51.804106+00:00",
       "last_seen_utc": "2026-04-01T04:36:51.804106+00:00",
+      "platform": "greenhouse",
+      "company": "",
+      "board_url": "",
+      "last_status": 404,
+      "last_error": "HTTP 404/410 (board not found)"
+    },
+    "greenhouse:grammarly": {
+      "first_seen_utc": "2026-04-01T18:10:43.171996+00:00",
+      "last_seen_utc": "2026-04-01T18:10:43.171996+00:00",
       "platform": "greenhouse",
       "company": "",
       "board_url": "",
