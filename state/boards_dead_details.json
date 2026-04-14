@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-04-14T16:41:03.850684+00:00",
+  "updated_utc": "2026-04-14T18:04:05.231418+00:00",
   "dead_details": {
     "greenhouse:auth0": {
       "first_seen_utc": "2026-02-16T03:03:47.356270+00:00",
@@ -8204,6 +8204,15 @@
       "first_seen_utc": "2026-04-12T11:56:02.712353+00:00",
       "last_seen_utc": "2026-04-12T11:56:02.712353+00:00",
       "platform": "ashby",
+      "company": "",
+      "board_url": "",
+      "last_status": 404,
+      "last_error": "HTTP 404/410 (board not found)"
+    },
+    "greenhouse:gingerlabsinc": {
+      "first_seen_utc": "2026-04-14T18:03:44.229114+00:00",
+      "last_seen_utc": "2026-04-14T18:03:44.229114+00:00",
+      "platform": "greenhouse",
       "company": "",
       "board_url": "",
       "last_status": 404,
