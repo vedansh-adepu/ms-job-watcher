@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-04-29T19:54:10.969784+00:00",
+  "updated_utc": "2026-04-29T20:49:01.425712+00:00",
   "seen_ids": [
     "amazon:0033e86a-81db-4acd-ba64-5096f1379461",
     "amazon:0068a210-3122-48fa-a2b3-99eff380782d",
@@ -1256,6 +1256,7 @@
     "amazon:b30c744e-f450-40c3-bcf7-e17e2e524eae",
     "amazon:b3372df9-29c4-49bc-8fd3-97f594e03c76",
     "amazon:b3703029-d680-4c01-8f9c-f5e13bad3a3a",
+    "amazon:b3a8943b-c553-438c-967a-719948110f74",
     "amazon:b3b77045-5cc3-46ac-863b-ea9c047da1a2",
     "amazon:b3f1efc4-0999-4cc1-9b30-1dcfb1627932",
     "amazon:b3fc207f-21f9-4d0b-ab39-86b7faadb8e8",
@@ -1583,6 +1584,7 @@
     "amazon:db6ade5f-217b-4a40-9868-a0e3f8cc86d9",
     "amazon:db728130-cac7-4193-8340-e3d54aece25b",
     "amazon:db7de11d-533c-4704-96cb-b5084cb4bedf",
+    "amazon:db9541d3-e2f1-4226-8602-c53ea624aa57",
     "amazon:dbb48527-eeb7-4a9a-a20c-7487d00daa36",
     "amazon:dbe24087-543b-4c38-ac73-f31c2d09829a",
     "amazon:dbeb0df4-f114-4102-829f-f855021b4172",
@@ -5414,6 +5416,7 @@
     "nvidia:893394258329",
     "nvidia:893394260519",
     "nvidia:893394260555",
+    "nvidia:893394260562",
     "nvidia:893394261941",
     "nvidia:893394337840",
     "nvidia:893394337989",
@@ -5477,6 +5480,7 @@
     "nvidia:893394927932",
     "nvidia:893394928067",
     "nvidia:893394950556",
-    "nvidia:893394958824"
+    "nvidia:893394958824",
+    "nvidia:893394960175"
   ]
 }
