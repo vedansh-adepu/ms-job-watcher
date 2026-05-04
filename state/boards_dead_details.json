@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-05-04T20:46:54.542079+00:00",
+  "updated_utc": "2026-05-04T22:00:46.432311+00:00",
   "dead_details": {
     "greenhouse:auth0": {
       "first_seen_utc": "2026-02-16T03:03:47.356270+00:00",
@@ -8266,6 +8266,15 @@
     "greenhouse:thumbtack": {
       "first_seen_utc": "2026-05-01T16:30:57.649176+00:00",
       "last_seen_utc": "2026-05-01T16:30:57.649176+00:00",
+      "platform": "greenhouse",
+      "company": "",
+      "board_url": "",
+      "last_status": 404,
+      "last_error": "HTTP 404/410 (board not found)"
+    },
+    "greenhouse:cdpjobs": {
+      "first_seen_utc": "2026-05-04T21:59:48.181135+00:00",
+      "last_seen_utc": "2026-05-04T21:59:48.181135+00:00",
       "platform": "greenhouse",
       "company": "",
       "board_url": "",
