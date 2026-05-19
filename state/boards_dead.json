@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-05-18T23:02:06.709195+00:00",
+  "updated_utc": "2026-05-19T00:16:31.556862+00:00",
   "boards_dead": [
     "ashby:laminar",
     "ashby:machinify",
@@ -334,6 +334,7 @@
     "greenhouse:onesignal",
     "greenhouse:ookla",
     "greenhouse:openai",
+    "greenhouse:opendoor",
     "greenhouse:opengov",
     "greenhouse:openpath",
     "greenhouse:opensea",
