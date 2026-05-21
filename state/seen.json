@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-05-21T01:33:28.161170+00:00",
+  "updated_utc": "2026-05-21T05:51:01.220862+00:00",
   "seen_ids": [
     "amazon:0001a63d-f66e-4a08-9c9e-812ade17341b",
     "amazon:0033e86a-81db-4acd-ba64-5096f1379461",
@@ -988,6 +988,7 @@
     "amazon:740423d8-32d8-4395-b2b9-f9eb536960bf",
     "amazon:745daa18-a9bf-41e1-9fb8-474b882ce21c",
     "amazon:74985522-0584-4de2-b52e-962e990208f4",
+    "amazon:74a79c01-6559-4cbb-9a0e-778a08aa0637",
     "amazon:74c9f3e0-2b83-491d-b645-00743142ac9a",
     "amazon:74f6cda8-1d3f-4c26-a5e8-f4bdbded13fb",
     "amazon:7509827f-57b8-4b00-8f9b-21a6bdcebfe5",
@@ -6046,6 +6047,8 @@
     "nvidia:893395202570",
     "nvidia:893395202585",
     "nvidia:893395202587",
-    "nvidia:893395202912"
+    "nvidia:893395202912",
+    "nvidia:893395219502",
+    "nvidia:893395219568"
   ]
 }
