@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-05-24T15:02:36.892926+00:00",
+  "updated_utc": "2026-05-24T16:33:59.390597+00:00",
   "dead_details": {
     "greenhouse:auth0": {
       "first_seen_utc": "2026-02-16T03:03:47.356270+00:00",
@@ -8284,6 +8284,15 @@
     "greenhouse:opendoor": {
       "first_seen_utc": "2026-05-19T00:15:28.061963+00:00",
       "last_seen_utc": "2026-05-19T00:15:28.061963+00:00",
+      "platform": "greenhouse",
+      "company": "",
+      "board_url": "",
+      "last_status": 404,
+      "last_error": "HTTP 404/410 (board not found)"
+    },
+    "greenhouse:asteraearlycareer2026": {
+      "first_seen_utc": "2026-05-24T16:32:21.241740+00:00",
+      "last_seen_utc": "2026-05-24T16:32:21.241740+00:00",
       "platform": "greenhouse",
       "company": "",
       "board_url": "",
