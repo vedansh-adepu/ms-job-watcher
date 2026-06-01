@@ -6,24 +6,26 @@ Both pipelines are running and healthy as of the last automated push (Jun 1 2026
 
 ## Open bugs / issues
 
-- [ ] **VERIFY: dead-board batch slot waste.** `boards_dead` has 937 entries against ~1,200 CSV rows (~78% dead). Dead boards are NOT filtered before batch slicing — they consume cursor slots and return immediately (no HTTP call, elapsed=0). Confirm the true live/dead split against the current CSV and quantify the wasted throughput per 200-slot batch. A pre-filter (skip dead boards before slicing) could multiply effective sweep speed.
-- [ ] **VERIFY: single-strike dead marking.** A board is permanently marked dead on the **first** 404 or 410 (`_is_dead_http_status`, line 1597; `dead_boards.add(board_id)`, line 1744). No consecutive-failure threshold exists. Boards that have transient outages or temporarily redirect will never be retried. Decide whether to add an N-strikes policy or a TTL-based resurrection window.
-- [ ] **VERIFY: `boards_seen` vs `boards_dead` overlap.** `boards_seen` (1,211) > CSV row count (~1,200), meaning some entries may be from boards removed from the CSV. Audit whether stale `boards_seen`/`boards_dead` entries create any confusion or need periodic pruning.
+- [ ] **Actions quota throttling — primary latency risk.** Median run gap is 98 min (watcher) and 134 min (boards) vs. 20/30 min scheduled. Max observed gap: ~6 hours. Pattern is consistent with minutes-quota exhaustion, not cron jitter. Check billing page (GitHub → Settings → Billing → Actions). On Free plan (2,000 min/month), the 20-min cron alone requires ~4,320 min/month. Fix: upgrade to Pro (3,000 min) or reduce cron frequency. Billing API blocked by token scope — must check manually.
+- [ ] **Goldman Sachs, IBM, Oracle have no pagination — jobs beyond cap are silently dropped.** GS returns ≤20 items (GraphQL pageSize), IBM ≤30 (size param), Oracle ≤14 (limit baked into URL). If more matching jobs exist they are permanently missed. Add pagination loops.
+- [ ] **Dead-board single-strike permanent marking — no resurrection.** One 404/410 = dead forever. 16 boards in the current CSV are marked dead; some may be transient failures. Implement N-strikes (e.g., 3 consecutive) or a monthly TTL re-probe.
+- [ ] **`boards_dead.json` has 921 orphaned entries (stale, not wasting throughput but misleading).** Cross-reference confirms only 16 of 937 dead entries overlap with the current CSV. The rest are from boards removed in earlier CSV versions. Prune `boards_dead.json` to match the live CSV.
+- [ ] **Large untapped board pool.** `greenhouse_us_verified.csv` (4,659 rows), `lever_us_verified.csv` (1,806 rows), `workday_us_verified.csv` (4,770 rows) — none ingested. Run `verify_*.py` on these and merge validated rows into the live CSV to 5–10× coverage.
 
 ## Next steps
 
-1. Run `python watcher.py --mode boards --no-email --dry-run` locally with debug prints to get a live count of dead-skipped vs actually-fetched boards in a single batch.
-2. Decide on dead-board resurrection policy (options: TTL window, N-strikes, manual CSV curation, or periodic `boards_dead.json` flush).
-3. If dead-board pre-filtering is approved, add a filter in `run_boards_sweep` before `batch = boards[start:end]` to exclude dead boards from the cursor-addressable list — this would dramatically increase effective boards/batch for live boards.
-4. Review title classifier tuning: philosophy is recall-first (false negatives are expensive; false positives are cheap). Check if `SENIORITY_MAYBE_TOKENS` is demoting too many entry/mid roles to `maybe`.
-5. Consider adding more sources to `--mode main` (e.g., Meta, Apple, Google — all have stable internal APIs or Greenhouse/Lever boards).
+1. **[URGENT]** Check GitHub Actions billing page for minutes used this month — confirms or rules out quota throttling as the latency cause.
+2. Add pagination to Goldman Sachs (GraphQL pageNumber), IBM (size offset), and Oracle (extract limit from URL, paginate with offset).
+3. Implement N-strikes dead-board policy (3 consecutive 404s before permanent mark). Prune 921 orphaned entries from `boards_dead.json`.
+4. Ingest `greenhouse_us_verified.csv` and `lever_us_verified.csv` into the live boards CSV after verification.
+5. Review title classifier tuning: check if `SENIORITY_MAYBE_TOKENS` demotes too many entry/mid roles to `maybe` (recall-first philosophy — err toward alerting).
 
 ## Key facts & gotchas
 
 - **Single file:** all logic lives in `watcher.py` (2,115 lines). No external modules beyond `requests`.
 - **State is committed to git** by the `github-actions` bot after every run. Push conflicts are handled by a 5-retry loop with `git merge -X ours`. This means the remote state is always the source of truth; local state files may be stale if you haven't pulled.
 - **Dead boards: single-strike permanent.** One 404/410 → `boards_dead.add(board_id)` → skipped forever. No retry logic.
-- **Dead boards waste batch slots.** The batch of 200 is sliced from the full CSV (including dead boards), and dead boards are skipped inside `_process_single_board` after the slot is consumed. With ~78% dead, an effective 200-slot batch only fetches from ~44 live boards.
+- **Dead boards: 921 of 937 are orphaned stale entries.** Cross-referenced against live CSV (Jun 1 2026): only **16 boards** in the current 1,200-row CSV are actually dead. The other 921 entries in `boards_dead.json` are from boards removed in earlier CSV versions — they don't slow down batches since those boards never appear in the current CSV. Batch slot waste is NOT a current problem.
 - **New board bootstrap suppresses first-run alerts.** When a board is seen for the first time (`board_id not in boards_seen`), all its current jobs are added to `seen` silently — no email. This prevents a flood when adding new boards, but means alert lag until the second sweep of that board.
 - **Cursor persists in `state/boards_cursor.json`** (currently at 600). It wraps to 0 after reaching the end of the CSV. The full cycle takes `ceil(n_boards / batch_size)` runs.
 - **Workday URL normalization is complex.** Many Workday boards return external job paths as `/job/Title_R1234567` (missing locale + site prefix). `workday_normalize_external_job_url` reconstructs the full URL. Bugs here produce unclickable links in emails.
@@ -31,9 +33,11 @@ Both pipelines are running and healthy as of the last automated push (Jun 1 2026
 - **Concurrency:** ThreadPoolExecutor with per-platform semaphores (GH=8, Lever=8, SR=6, WD=4, Ashby=6). Workday is most restrictive.
 - **Email:** Gmail SMTP SSL on port 465. Secrets: `EMAIL_USER`, `EMAIL_APP_PASSWORD`, `ALERT_TO_EMAIL`.
 - **Recall-first philosophy:** a missed job (false negative) is expensive; a junk alert (false positive) is cheap. When in doubt, err toward alerting.
+- **Full architecture reference:** see `docs/ARCHITECTURE.md` — repo map, full function index, runtime traces, external API surface, and ranked risk findings.
 
 ## Recent changes
 
+- **2026-06-01** — Full architecture audit: created `docs/ARCHITECTURE.md`; corrected dead-board count (16 active, 921 orphaned); confirmed Actions throttling (median gap 98–134 min vs 20–30 min target); identified GS/IBM/Oracle pagination gaps as missed-job risk.
 - **2026-06-01** — Added `CLAUDE.md` and `docs/STATE.md` for persistent project memory.
 - **2026-04-08** — `feat: add 107 Greenhouse and 30 Lever boards from curated sources`
 - **2026-04-01** — `fix: reject non-US country names in is_us_location + backfill Workday req keys`
