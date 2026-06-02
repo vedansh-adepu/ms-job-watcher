@@ -76,6 +76,8 @@ BOARDS_CURSOR_PATH = os.getenv("BOARDS_CURSOR_PATH", "state/boards_cursor.json")
 BOARDS_SEEN_PATH = os.getenv("BOARDS_SEEN_PATH", "state/boards_seen.json")
 BOARDS_DEAD_PATH = os.getenv("BOARDS_DEAD_PATH", "state/boards_dead.json")
 BOARDS_DEAD_DETAILS_PATH = os.getenv("BOARDS_DEAD_DETAILS_PATH", "state/boards_dead_details.json")
+RUN_LOG_PATH = os.getenv("RUN_LOG_PATH", "state/run_log.json")
+RUN_LOG_MAX = 1000
 
 
 # -----------------------------
@@ -560,6 +562,38 @@ def _atomic_write_json(path: str, payload: Dict[str, Any], indent: int = 2) -> N
                 os.remove(tmp_path)
         except Exception:
             pass
+
+
+def _append_run_log(record: Dict[str, Any]) -> None:
+    existing: List[Any] = []
+    if os.path.exists(RUN_LOG_PATH):
+        try:
+            with open(RUN_LOG_PATH, "r", encoding="utf-8") as f:
+                existing = json.load(f)
+            if not isinstance(existing, list):
+                existing = []
+        except Exception:
+            existing = []
+    existing.append(record)
+    if len(existing) > RUN_LOG_MAX:
+        existing = existing[-RUN_LOG_MAX:]
+    _atomic_write_json(RUN_LOG_PATH, existing)
+
+
+def _fmt_run_summary(mode: str, ts: str, per_source: Dict[str, Any], cursor: Optional[int], dur: float) -> str:
+    parts = []
+    for src, s in per_source.items():
+        if s.get("error"):
+            parts.append(f"{src} ERROR")
+        else:
+            seg = f"{src} f={s.get('fetched', 0)} t={s.get('title_ok', 0)} loc={s.get('loc_ok', 0)} new={s.get('new', 0)}"
+            if s.get("emailed"):
+                seg += f" em={s['emailed']}"
+            if s.get("errors"):
+                seg += f" err={s['errors']}"
+            parts.append(seg)
+    cur_str = f" cur={cursor}" if cursor is not None else ""
+    return f"{mode} {ts} | {' | '.join(parts)} | dur={dur}s{cur_str}"
 
 
 def load_seen_ids(path: str) -> Set[str]:
@@ -1746,7 +1780,7 @@ def run_boards_sweep(
     timeout: int = DEFAULT_TIMEOUT,
     workers: int = BOARDS_WORKERS,
     suppress_new_boards: bool = True,
-) -> Tuple[List[Dict[str, str]], Set[str], List[str], int, Set[str], Set[str]]:
+) -> Tuple[List[Dict[str, str]], Set[str], List[str], int, Set[str], Set[str], Dict[str, Dict[str, Any]]]:
     boards = load_boards_csv(boards_csv)
     boards = [b for b in boards if (b.get("platform") or "") in BOARDS_SUPPORTED_PLATFORMS]
     if not boards:
@@ -1814,6 +1848,16 @@ def run_boards_sweep(
     matched = [j for j in normalized if title_matches(j.get("title", "")) and is_us_location(j.get("location", ""))]
     latest_keys = {j["key"] for j in matched if j.get("key")}
 
+    per_platform: Dict[str, Dict[str, Any]] = {}
+    for _j in normalized:
+        _plat = (_j.get("key") or "unknown").split(":")[0]
+        _s = per_platform.setdefault(_plat, {"fetched": 0, "title_ok": 0, "loc_ok": 0, "new": 0, "emailed": 0})
+        _s["fetched"] += 1
+        if title_matches(_j.get("title", "")):
+            _s["title_ok"] += 1
+            if is_us_location(_j.get("location", "")):
+                _s["loc_ok"] += 1
+
     new_cursor = end if end < n else 0
 
     sweep_elapsed = time.time() - t_sweep0
@@ -1827,7 +1871,7 @@ def run_boards_sweep(
             parts.append(f"{p} c={c} avg={avg:.2f}s")
         print(f"[PERF] boards_batch={len(batch)} processed={perf_boards_total} elapsed={sweep_elapsed:.2f}s | " + " | ".join(parts))
 
-    return matched, latest_keys, errors, new_cursor, bootstrap_keys, bootstrap_boards
+    return matched, latest_keys, errors, new_cursor, bootstrap_keys, bootstrap_boards, per_platform
 
 
 # -----------------------------
@@ -1888,56 +1932,90 @@ def safe_call(label: str, fn):
 
 
 def main(test_email: bool = False, no_email: bool = False, dry_run: bool = False) -> None:
+    t0 = time.time()
     seen = load_seen_ids(STATE_PATH)
 
     normalized: List[Dict[str, str]] = []
     errors: List[str] = []
+    src_norm: Dict[str, List[Dict[str, str]]] = {}
+    src_errors: Dict[str, str] = {}
 
     ms_positions, err = safe_call("Microsoft fetch", lambda: fetch_eightfold_positions("microsoft", seen_keys=seen))
     if err:
         errors.append(err)
+        src_errors["microsoft"] = err
     else:
         print(f"[DEBUG] Fetched {len(ms_positions)} positions from Microsoft endpoint.")
-        normalized.extend([normalize_eightfold_position("microsoft", p) for p in (ms_positions or [])])
+        _ms_norm = [normalize_eightfold_position("microsoft", p) for p in (ms_positions or [])]
+        normalized.extend(_ms_norm)
+        src_norm["microsoft"] = _ms_norm
 
     nv_positions, err = safe_call("NVIDIA fetch", lambda: fetch_eightfold_positions("nvidia", seen_keys=seen))
     if err:
         errors.append(err)
+        src_errors["nvidia"] = err
     else:
         print(f"[DEBUG] Fetched {len(nv_positions)} positions from NVIDIA endpoint.")
-        normalized.extend([normalize_eightfold_position("nvidia", p) for p in (nv_positions or [])])
+        _nv_norm = [normalize_eightfold_position("nvidia", p) for p in (nv_positions or [])]
+        normalized.extend(_nv_norm)
+        src_norm["nvidia"] = _nv_norm
 
     amz_positions, err = safe_call("Amazon fetch", lambda: fetch_amazon_positions(seen_keys=seen))
     if err:
         errors.append(err)
+        src_errors["amazon"] = err
     else:
         print(f"[DEBUG] Fetched {len(amz_positions)} jobs from Amazon endpoint.")
-        normalized.extend([normalize_amazon_job(j) for j in (amz_positions or [])])
+        _amz_norm = [normalize_amazon_job(j) for j in (amz_positions or [])]
+        normalized.extend(_amz_norm)
+        src_norm["amazon"] = _amz_norm
 
     gs_items, err = safe_call("Goldman Sachs fetch", lambda: fetch_goldman_sachs(seen_keys=seen))
     if err:
         errors.append(err)
+        src_errors["goldman_sachs"] = err
     else:
         print(f"[DEBUG] Fetched {len(gs_items)} roles from Goldman Sachs endpoint.")
-        normalized.extend([normalize_goldman_item(i) for i in (gs_items or [])])
+        _gs_norm = [normalize_goldman_item(i) for i in (gs_items or [])]
+        normalized.extend(_gs_norm)
+        src_norm["goldman_sachs"] = _gs_norm
 
     ibm_hits, err = safe_call("IBM fetch", lambda: fetch_ibm(seen_keys=seen))
     if err:
         errors.append(err)
+        src_errors["ibm"] = err
     else:
         print(f"[DEBUG] Fetched {len(ibm_hits)} roles from IBM endpoint.")
-        normalized.extend([normalize_ibm_hit(h) for h in (ibm_hits or [])])
+        _ibm_norm = [normalize_ibm_hit(h) for h in (ibm_hits or [])]
+        normalized.extend(_ibm_norm)
+        src_norm["ibm"] = _ibm_norm
 
     oracle_reqs, err = safe_call("Oracle fetch", lambda: fetch_oracle(seen_keys=seen))
     if err:
         errors.append(err)
+        src_errors["oracle"] = err
     else:
         print(f"[DEBUG] Fetched {len(oracle_reqs)} requisitions from Oracle endpoint.")
-        normalized.extend([normalize_oracle_req(rq) for rq in (oracle_reqs or [])])
+        _oracle_norm = [normalize_oracle_req(rq) for rq in (oracle_reqs or [])]
+        normalized.extend(_oracle_norm)
+        src_norm["oracle"] = _oracle_norm
 
     yes_matched = [j for j in normalized if classify_title(j.get("title", "")) == "yes"]
     maybe_matched = [j for j in normalized if classify_title(j.get("title", "")) == "maybe"]
     matched = yes_matched + maybe_matched
+
+    _per_source: Dict[str, Dict[str, Any]] = {}
+    for _src in SUPPORTED_SOURCES:
+        _jobs = src_norm.get(_src, [])
+        _t_ok = [j for j in _jobs if title_matches(j.get("title", ""))]
+        _l_ok = [j for j in _t_ok if is_us_location(j.get("location", ""))]
+        _entry: Dict[str, Any] = {
+            "fetched": len(_jobs), "title_ok": len(_t_ok), "loc_ok": len(_l_ok),
+            "new": 0, "emailed": 0,
+        }
+        if _src in src_errors:
+            _entry["error"] = src_errors[_src]
+        _per_source[_src] = _entry
 
     if test_email:
         sample_yes = yes_matched[:2]
@@ -1976,9 +2054,15 @@ def main(test_email: bool = False, no_email: bool = False, dry_run: bool = False
             return
         save_seen_ids(STATE_PATH, latest_keys)
         print(f"[BOOTSTRAP] Saved {len(latest_keys)} seen_ids. No email sent.")
+        _ts = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%MZ")
+        _append_run_log({"ts": _ts, "mode": "main", "per_source": _per_source, "duration_s": round(time.time() - t0, 1), "cursor": None})
+        print(_fmt_run_summary("main", _ts, _per_source, None, round(time.time() - t0, 1)))
         return
 
     new_keys = latest_keys - seen
+    for _src in SUPPORTED_SOURCES:
+        _per_source[_src]["new"] = sum(1 for k in new_keys if k.startswith(_src + ":"))
+
     new_yes = [j for j in yes_matched if j.get("key") in new_keys]
     new_maybe = [j for j in maybe_matched if j.get("key") in new_keys]
 
@@ -1988,6 +2072,10 @@ def main(test_email: bool = False, no_email: bool = False, dry_run: bool = False
         else:
             send_email_digest(new_yes, new_maybe, subject_prefix="[Job Alerts]")
             print(f"[ALERT] Sent digest for {len(new_yes)} yes + {len(new_maybe)} maybe new job(s).")
+            for _j in new_yes + new_maybe:
+                _src = (_j.get("key") or "").split(":")[0]
+                if _src in _per_source:
+                    _per_source[_src]["emailed"] += 1
     else:
         print("[OK] No new jobs.")
 
@@ -1999,6 +2087,12 @@ def main(test_email: bool = False, no_email: bool = False, dry_run: bool = False
         print("[WARN] Some sources failed (watcher still ran):")
         for e in errors:
             print("  -", e)
+
+    _ts = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%MZ")
+    _dur = round(time.time() - t0, 1)
+    if not dry_run:
+        _append_run_log({"ts": _ts, "mode": "main", "per_source": _per_source, "duration_s": _dur, "cursor": None})
+    print(_fmt_run_summary("main", _ts, _per_source, None, _dur))
 
 
 # -----------------------------
@@ -2052,7 +2146,8 @@ if __name__ == "__main__":
             print(f"[WARN] Could not summarize boards CSV: {type(e).__name__}: {e}")
 
         def run_one_boards_batch() -> int:
-            matched, latest_keys, errors, new_cursor, bootstrap_keys, bootstrap_boards = run_boards_sweep(
+            t0_batch = time.time()
+            matched, latest_keys, errors, new_cursor, bootstrap_keys, bootstrap_boards, per_platform = run_boards_sweep(
                 seen=seen,
                 boards_seen=boards_seen,
                 dead_boards=dead_boards,
@@ -2107,9 +2202,18 @@ if __name__ == "__main__":
                 save_dead_details(BOARDS_DEAD_DETAILS_PATH, dead_details)
                 export_dead_boards_csv(dead_details, args.export_dead_csv)
                 print(f"[BOOTSTRAP] Saved {initial_count} seen_ids (boards). No email sent.")
+                _ts = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%MZ")
+                _dur = round(time.time() - t0_batch, 1)
+                _append_run_log({"ts": _ts, "mode": "boards", "per_source": per_platform, "duration_s": _dur, "cursor": new_cursor})
+                print(_fmt_run_summary("boards", _ts, per_platform, new_cursor, _dur))
                 raise SystemExit(0)
 
             new_keys = latest_keys - seen
+            for _k in new_keys:
+                _plat = _k.split(":")[0]
+                if _plat in per_platform:
+                    per_platform[_plat]["new"] = per_platform[_plat].get("new", 0) + 1
+
             new_yes = [j for j in matched if classify_title(j.get("title", "")) == "yes" and j.get("key") in new_keys]
             new_maybe = [j for j in matched if classify_title(j.get("title", "")) == "maybe" and j.get("key") in new_keys]
 
@@ -2119,6 +2223,10 @@ if __name__ == "__main__":
                 else:
                     send_email_digest(new_yes, new_maybe, subject_prefix="[Boards Alerts]")
                     print(f"[ALERT] Sent boards digest for {len(new_yes)} yes + {len(new_maybe)} maybe new job(s).")
+                    for _j in new_yes + new_maybe:
+                        _plat = (_j.get("key") or "").split(":")[0]
+                        if _plat in per_platform:
+                            per_platform[_plat]["emailed"] = per_platform[_plat].get("emailed", 0) + 1
             else:
                 print("[OK] No new boards jobs.")
 
@@ -2135,6 +2243,18 @@ if __name__ == "__main__":
                 print("[WARN] Some boards failed (sweep still ran):")
                 for e in errors:
                     print("  -", e)
+
+            for _err_str in errors:
+                _words = _err_str.split(" ")
+                _plat = _words[1] if _words and _words[0] == "DEAD" else (_words[0] if _words else "unknown")
+                _ps = per_platform.setdefault(_plat, {"fetched": 0, "title_ok": 0, "loc_ok": 0, "new": 0, "emailed": 0})
+                _ps["errors"] = _ps.get("errors", 0) + 1
+
+            _ts = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%MZ")
+            _dur = round(time.time() - t0_batch, 1)
+            if not args.dry_run:
+                _append_run_log({"ts": _ts, "mode": "boards", "per_source": per_platform, "duration_s": _dur, "cursor": new_cursor})
+            print(_fmt_run_summary("boards", _ts, per_platform, new_cursor, _dur))
 
             return new_cursor
 
