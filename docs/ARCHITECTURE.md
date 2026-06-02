@@ -406,6 +406,7 @@ These are pipeline artifacts from board curation. `watcher.py` never loads any o
 | `state/boards_dead.json` | `{updated_utc, boards_dead: [...]}` | 937 board IDs (greenhouse 757 · lever 132 · workday 46 · ashby 2). **921 are orphaned** — stale entries from boards removed from earlier CSV versions. Only 16 overlap with the current live CSV. | `boards.yml` |
 | `state/boards_dead_details.json` | `{updated_utc, dead_details: {board_id: {first_seen_utc, last_seen_utc, platform, company, board_url, last_status, last_error}}}` | Per-dead-board metadata | `boards.yml` |
 | `state/boards_cursor.json` | `{updated_utc, cursor: int}` | 600 — next batch starts at row 600 | `boards.yml` |
+| `state/run_log.json` | `[{ts, mode, per_source: {src: {fetched, title_ok, loc_ok, new, emailed, error}}, duration_s, cursor}]` | Per-run funnel log, bounded to ~1,000 records. Both modes write to this file. | `watcher.yml` + `boards.yml` |
 | `state/local_*.json` | various | Local dev only | Local scripts. Gitignored. |
 
 ---
@@ -415,13 +416,14 @@ These are pipeline artifacts from board curation. `watcher.py` never loads any o
 ### `watcher.yml` — Job Watcher (Main Sources)
 
 ```yaml
-schedule: '7,17,27,37,47,57 * * * *'   # every 10 min, offset off congested :00/:15/:30/:45 slots
+schedule: '13 */3 * * *'   # sparse fallback only — primary trigger is cron-job.org workflow_dispatch (every 10 min)
 concurrency: job-watcher-main (cancel-in-progress: false)
 timeout-minutes: 15
 runs-on: ubuntu-latest
 python: 3.11
 ```
 
+**Primary trigger:** cron-job.org → `POST /repos/{owner}/{repo}/actions/workflows/watcher.yml/dispatches` every 10 min. Auth = fine-grained PAT (Actions:write), **expires 2026-08-31**.
 **Secrets used:** `EMAIL_USER`, `EMAIL_APP_PASSWORD`, `ALERT_TO_EMAIL`
 **Env vars set:** `HTTP_TIMEOUT=30`
 **Command:** `python watcher.py --mode main`
@@ -431,12 +433,14 @@ python: 3.11
 ### `boards.yml` — Job Boards Sweep (Broad Lane)
 
 ```yaml
-schedule: '23,53 * * * *'   # every 30 min, offset off congested :00/:15/:30/:45 slots
+schedule: '13 */3 * * *'   # sparse fallback only — primary trigger is cron-job.org workflow_dispatch (every 30 min)
 concurrency: job-watcher-boards (cancel-in-progress: false)
 timeout-minutes: 15
 runs-on: ubuntu-latest
 python: 3.11
 ```
+
+**Primary trigger:** cron-job.org → `POST /repos/{owner}/{repo}/actions/workflows/boards.yml/dispatches` every 30 min. Auth = same PAT as watcher, **expires 2026-08-31**.
 
 **Secrets used:** `EMAIL_USER`, `EMAIL_APP_PASSWORD`, `ALERT_TO_EMAIL`
 **Env vars set:** `BOARDS_CSV=data/boards/JOB_BOARDS_PURE_WORKING_SUPPORTED_round2.csv`, `HTTP_TIMEOUT=15`, `STATE_PATH=state/seen_boards.json`
@@ -455,16 +459,25 @@ done
 ```
 The `git merge -X ours` strategy means the local run's state always wins on conflict. If two runs finish simultaneously and both try to push, the second push will overwrite any state committed by the first that isn't in its own state files. In practice this is fine since the two workflows write disjoint files (`seen.json` vs `seen_boards.json` et al.).
 
-### Actual run cadence (last 50 runs each, as of 2026-06-01 — **pre-fix baseline**)
+### Actual run cadence
 
-| Workflow | Scheduled | Median gap | p90 gap | Max gap | Interpretation |
+**Pre-fix baseline (last 50 runs, up to 2026-06-01):**
+
+| Workflow | Scheduled | Median gap | p90 gap | Max gap |
+|---|---|---|---|---|
+| `watcher.yml` | every 20 min | 98 min | 267 min | 353 min |
+| `boards.yml` | every 30 min | 134 min | 282 min | 361 min |
+
+**Post-cron-change, still on GitHub schedule (10 runs each, 2026-06-01 to 2026-06-02):**
+
+| Workflow | Target | Median gap | p90 gap | Max gap | vs. target |
 |---|---|---|---|---|---|
-| `watcher.yml` | every 20 min | **98 min** | 267 min | **353 min** | Was running ~5× slower than scheduled |
-| `boards.yml` | every 30 min | **134 min** | 282 min | **361 min** | Was running ~4.5× slower than scheduled |
+| `watcher.yml` | 10 min | 268 min | 426 min | 426 min | 27× over — worse than baseline |
+| `boards.yml` | 30 min | 273 min | 444 min | 444 min | 9× over — worse than baseline |
 
-**Root cause (resolved):** Repo was private → GitHub Free plan 2,000 min/month quota. The `watcher.yml` target alone required ~4,320 min/month. Repo made public on 2026-06-01 → unlimited Actions minutes. Crons also moved to offset slots (`7,17,27,37,47,57` and `23,53`) to reduce GitHub scheduler congestion.
+**Root cause:** GitHub cron deprioritization is fundamental and not fixable with schedule tuning. More aggressive crons may have triggered heavier throttling.
 
-**Confirm improvement:** After ~1 day on the new schedule, re-run `gh run list` for both workflows and measure median gap. Expect values close to 10 min (watcher) and 30 min (boards).
+**Fix (2026-06-02, verified):** Primary scheduling moved to cron-job.org → `workflow_dispatch` API. Confirmed via `gh run list`: watcher `workflow_dispatch` runs at 20:40 and 20:50 UTC Jun 2, exactly 10 min apart, all success. GitHub `schedule:` downgraded to sparse fallback (`13 */3 * * *`). **If runs go silent, check the cron-job.org jobs and the PAT (expires 2026-08-31) first.**
 
 ---
 
@@ -476,8 +489,8 @@ Ranked by impact. A missed job is expensive; a junk alert is cheap.
 
 ### 🔴 HIGH — Could cause missed jobs
 
-**~~F1. Actions running 5× slower than scheduled (quota throttling)~~ — RESOLVED 2026-06-01**
-- **Fix:** Repo made public → unlimited Actions minutes. Crons moved to offset slots. Baseline: median gap was 98–134 min vs. 10–30 min target. Verify improvement after ~1 day (`gh run list`).
+**~~F1. Actions running 5× slower than scheduled~~ — RESOLVED 2026-06-02**
+- **Fix:** Scheduling moved to cron-job.org → `workflow_dispatch` API (watcher 10 min, boards 30 min). Verified in production: watcher `workflow_dispatch` runs landed exactly 10 min apart Jun 2. GitHub `schedule:` is now a sparse fallback (`13 */3 * * *`). PAT expires 2026-08-31 — check it first if runs go silent.
 
 **~~F2. Goldman Sachs, IBM, Oracle fetched with no pagination~~ — FIXED 2026-06-01 (`804f627b`)**
 - **Fix:** All three now paginate. GS uses `pageNumber`; IBM uses Elasticsearch `from` offset; Oracle uses `limit=50,offset=N` in the finder query string. Oracle also had a critical extraction bug (was returning the search container instead of `requisitionList`) — fixed in the same commit. Oracle jobs will now correctly accumulate in `seen.json`.

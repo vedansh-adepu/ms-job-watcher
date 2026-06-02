@@ -2,11 +2,11 @@
 
 ## Current status
 
-Both pipelines running as of last automated push (Jun 1 2026). Repo is **public** — Actions minutes are unlimited. Pipeline 1 (`--mode main`) polls Microsoft, NVIDIA, Amazon, Goldman Sachs, IBM, and Oracle on a 10-min offset cron; all three single-page sources (GS/IBM/Oracle) now paginate fully, and the Oracle extraction bug (was returning the search container instead of `requisitionList`) is fixed — Oracle jobs will accumulate in `seen.json` for the first time. Pipeline 2 (`--mode boards`) sweeps ~1,200 ATS boards in batches of 200 on a 30-min offset cron. `seen.json` holds 6,357 deduplicated job IDs; `seen_boards.json` holds 41,881.
+Both pipelines running and on schedule as of Jun 2 2026. **External triggering via cron-job.org is live and verified** — `gh run list` shows `event=workflow_dispatch` runs landing at 20:40 and 20:50 UTC (exactly 10 min apart, both success); boards dispatch also confirmed (204 + successful runs). The multi-hour GitHub cron latency problem is fully resolved. Pipeline 1 (`--mode main`) polls Microsoft, NVIDIA, Amazon, Goldman Sachs, IBM, and Oracle; all three single-page sources (GS/IBM/Oracle) now paginate fully, and the Oracle extraction bug is fixed. Pipeline 2 (`--mode boards`) sweeps ~1,200 ATS boards in batches of 200. `seen.json` holds 6,357 deduplicated job IDs; `seen_boards.json` holds 41,881.
 
 ## Open bugs / issues
 
-- [x] **External scheduling via cron-job.org is live — cadence fixed.** GitHub cron deprioritization confirmed (median 268/273 min despite 10/30-min target). Switched to cron-job.org calling the `workflow_dispatch` API: watcher every 10 min, boards every 30 min, both returning 204. GitHub `schedule:` cron downgraded to sparse fallback (`13 */3 * * *`). Auth = fine-grained PAT (this repo, Actions:write) stored in cron-job.org, expires 2026-08-31.
+- [x] **External scheduling via cron-job.org is live and verified in production.** GitHub cron deprioritization confirmed (median 268/273 min despite 10/30-min target). Switched to cron-job.org → `workflow_dispatch` API: watcher every 10 min, boards every 30 min. Verified via `gh run list`: watcher `workflow_dispatch` runs landed at 20:40 and 20:50 UTC on Jun 2, exactly 10 min apart, all success. Boards dispatch confirmed (204 + successful run). GitHub `schedule:` downgraded to sparse fallback (`13 */3 * * *`). PAT expires 2026-08-31.
 - [ ] **Dead-board single-strike permanent marking — no resurrection.** One 404/410 = dead forever. 16 boards in current CSV are marked dead; some may be transient failures. Implement N-strikes (3 consecutive) or monthly TTL re-probe.
 - [ ] **`boards_dead.json` has 921 orphaned entries (stale, not wasting throughput but misleading).** Only 16 of 937 entries overlap with the current CSV. Prune to match live CSV.
 - [ ] **Large untapped board pool.** `greenhouse_us_verified.csv` (4,659 rows), `lever_us_verified.csv` (1,806 rows), `workday_us_verified.csv` (4,770 rows) — none ingested. Verify first, add in tranches.
@@ -14,9 +14,11 @@ Both pipelines running as of last automated push (Jun 1 2026). Repo is **public*
 
 ## Next steps
 
-1. **Use `run_log.json` funnel data** to check whether the title classifier is too strict (recall-first: err toward alerting).
-4. **Reconnect the correct Gmail inbox**, then analyze which boards actually produce relevant alerts.
-5. **Selectively ingest from the ~10k curated lists** (greenhouse/lever/workday_us_verified) — verify first, add in tranches; do NOT bulk-add (cycle staleness wrecks latency).
+1. **After ~1 day of live dispatch runs, check `run_log.json` funnel data** — look at per-source `title_ok` and `loc_ok` counts to confirm the title classifier isn't over-dropping. If a source's "kept" count drops sharply after a filter tweak, that's the signal. Recall-first: err toward alerting.
+2. **Reconnect the correct Gmail inbox**, then analyze which boards actually produce relevant alerts.
+3. **Selectively ingest from the ~10k curated lists** (greenhouse/lever/workday_us_verified) — verify first, add in tranches; do NOT bulk-add (cycle staleness wrecks latency).
+4. **[low] Dead-board resurrection + prune orphaned entries** — implement N-strikes (3 consecutive 404s) or monthly TTL re-probe instead of single-strike permanent marking; prune `boards_dead.json` down to the 16 entries that actually overlap the current CSV (921 are stale orphans).
+5. **[optional, deferred by choice] Automated test harness** — pytest on `classify_title` / `is_us_location` was considered and deliberately deferred. `run_log.json` is the lightweight safety net for regressions. Not urgent unless the classifier is changed.
 
 ## Key facts & gotchas
 
@@ -39,6 +41,7 @@ Both pipelines running as of last automated push (Jun 1 2026). Repo is **public*
 
 ## Recent changes
 
+- **2026-06-02** — External triggering verified in production. `gh run list` confirms `event=workflow_dispatch` runs at 20:40 and 20:50 UTC (exactly 10 min apart, all success); boards dispatch also confirmed. Multi-hour latency fully resolved.
 - **2026-06-02** — `ci: switch to external dispatch trigger — downgrade schedule to sparse fallback`. cron-job.org now drives both workflows (watcher 10 min, boards 30 min) via `workflow_dispatch` API (HTTP 204 verified). GitHub `schedule:` downgraded to `13 */3 * * *` (sparse fallback). PAT expires 2026-08-31.
 - **2026-06-02** — Cadence audit: measured 10 watcher + 9 boards gaps post-Jun-1 cron change. Watcher median 268 min (target 10 min), boards median 273 min (target 30 min) — both worse than pre-change baseline. GitHub cron deprioritization confirmed; must move off Actions cron entirely.
 - **2026-06-02** — `feat: add per-run funnel observability to state/run_log.json` (`d0d51894`). Both modes now record `{ts, mode, per_source: {src: {fetched, title_ok, loc_ok, new, emailed, error/errors}}, duration_s, cursor}` to `state/run_log.json` (bounded 1,000 records, picked up by existing `git add state/*.json`). Also prints a one-line summary to Actions log each run.
