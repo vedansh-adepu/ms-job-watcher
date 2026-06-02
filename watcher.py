@@ -509,7 +509,7 @@ IBM_PAYLOAD: Dict[str, Any] = {
     ],
 }
 
-ORACLE_URL = (
+_ORACLE_URL_PREFIX = (
     "https://eeho.fa.us2.oraclecloud.com/hcmRestApi/resources/latest/"
     "recruitingCEJobRequisitions"
     "?onlyData=true"
@@ -519,13 +519,16 @@ ORACLE_URL = (
     "&finder=findReqs;siteNumber=CX_45001,"
     "facetsList=LOCATIONS%3BWORK_LOCATIONS%3BWORKPLACE_TYPES%3BTITLES%3BCATEGORIES%3B"
     "ORGANIZATIONS%3BPOSTING_DATES%3BFLEX_FIELDS,"
-    "limit=14,lastSelectedFacet=AttributeChar13,"
+)
+_ORACLE_URL_SUFFIX = (
+    "lastSelectedFacet=AttributeChar13,"
     "locationId=300000000149325,"
     "selectedCategoriesFacet=300000001559315%3B300000001917356,"
     "selectedFlexFieldsFacets=%22AttributeChar6%7C0%20to%202%2B%20years%22,"
     "selectedLocationsFacet=300000000149325,"
     "selectedPostingDatesFacet=7,sortBy=POSTING_DATES_DESC"
 )
+ORACLE_PAGE_SIZE = 50
 ORACLE_HEADERS_MIN = {
     "accept": "application/json",
     "content-type": "application/json",
@@ -1009,14 +1012,29 @@ def fetch_goldman_sachs(
     max_positions: int = MAX_GS_JOBS_PER_RUN,
 ) -> List[Dict[str, Any]]:
     sess = _get_session("main")
-    payload = dict(GS_PAYLOAD)
-    r = sess.post(GS_ENDPOINT, headers=GS_HEADERS_MIN, json=payload, timeout=DEFAULT_TIMEOUT)
-    r.raise_for_status()
-    data = r.json()
-    items = (((data.get("data", {}) or {}).get("roleSearch", {}) or {}).get("items", []) or [])
-    if max_positions and len(items) > max_positions:
-        items = items[:max_positions]
-    return items
+    all_items: List[Dict[str, Any]] = []
+    page_number = 0
+    page_size = GS_PAYLOAD["variables"]["searchQueryInput"]["page"]["pageSize"]
+    while True:
+        payload = json.loads(json.dumps(GS_PAYLOAD))
+        payload["variables"]["searchQueryInput"]["page"]["pageNumber"] = page_number
+        r = sess.post(GS_ENDPOINT, headers=GS_HEADERS_MIN, json=payload, timeout=DEFAULT_TIMEOUT)
+        r.raise_for_status()
+        data = r.json()
+        page_items = (((data.get("data", {}) or {}).get("roleSearch", {}) or {}).get("items", []) or [])
+        if not page_items:
+            break
+        all_items.extend(page_items)
+        if max_positions and len(all_items) >= max_positions:
+            break
+        if seen_keys and all(gs_key_from_item(i) in seen_keys for i in page_items):
+            break
+        if len(page_items) < page_size:
+            break
+        page_number += 1
+    if max_positions and len(all_items) > max_positions:
+        all_items = all_items[:max_positions]
+    return all_items
 
 
 def normalize_goldman_item(item: Dict[str, Any]) -> Dict[str, str]:
@@ -1049,29 +1067,44 @@ def fetch_ibm(
     max_positions: int = MAX_IBM_JOBS_PER_RUN,
 ) -> List[Dict[str, Any]]:
     sess = _get_session("main")
-    payload = dict(IBM_PAYLOAD)
-    r = sess.post(IBM_ENDPOINT, headers=IBM_HEADERS_MIN, json=payload, timeout=DEFAULT_TIMEOUT)
-
-    # IBM endpoint occasionally rejects certain fields (e.g., `aggs`) with a 400.
-    # If we see that, retry once with a minimal payload.
-    if r.status_code == 400 and "aggs" in (r.text or ""):
-        payload.pop("aggs", None)
+    all_hits: List[Dict[str, Any]] = []
+    page_size = IBM_PAYLOAD["size"]
+    offset = 0
+    while True:
+        payload = dict(IBM_PAYLOAD)
+        payload["from"] = offset
         r = sess.post(IBM_ENDPOINT, headers=IBM_HEADERS_MIN, json=payload, timeout=DEFAULT_TIMEOUT)
 
-    if r.status_code >= 400:
-        print(f"[DEBUG] IBM HTTP {r.status_code}: {r.text[:500]}")
-    r.raise_for_status()
-    data = r.json()
+        # IBM endpoint occasionally rejects certain fields (e.g., `aggs`) with a 400.
+        # If we see that, retry once with a minimal payload.
+        if r.status_code == 400 and "aggs" in (r.text or ""):
+            payload.pop("aggs", None)
+            r = sess.post(IBM_ENDPOINT, headers=IBM_HEADERS_MIN, json=payload, timeout=DEFAULT_TIMEOUT)
 
-    results = data.get("results")
-    if isinstance(results, list):
-        hits = results
-    else:
-        hits = ((data.get("hits", {}) or {}).get("hits", []) or [])
+        if r.status_code >= 400:
+            print(f"[DEBUG] IBM HTTP {r.status_code}: {r.text[:500]}")
+        r.raise_for_status()
+        data = r.json()
 
-    if max_positions and len(hits) > max_positions:
-        hits = hits[:max_positions]
-    return hits
+        results = data.get("results")
+        if isinstance(results, list):
+            page_hits = results
+        else:
+            page_hits = ((data.get("hits", {}) or {}).get("hits", []) or [])
+
+        if not page_hits:
+            break
+        all_hits.extend(page_hits)
+        if max_positions and len(all_hits) >= max_positions:
+            break
+        if seen_keys and all(ibm_key_from_hit(h) in seen_keys for h in page_hits):
+            break
+        if len(page_hits) < page_size:
+            break
+        offset += page_size
+    if max_positions and len(all_hits) > max_positions:
+        all_hits = all_hits[:max_positions]
+    return all_hits
 
 
 def normalize_ibm_hit(hit: Dict[str, Any]) -> Dict[str, str]:
@@ -1111,17 +1144,28 @@ def fetch_oracle(
     max_positions: int = MAX_ORACLE_JOBS_PER_RUN,
 ) -> List[Dict[str, Any]]:
     sess = _get_session("main")
-    r = sess.get(ORACLE_URL, headers=ORACLE_HEADERS_MIN, timeout=DEFAULT_TIMEOUT)
-    r.raise_for_status()
-    data = r.json()
-    items = data.get("items")
-    if isinstance(items, list):
-        reqs = items
-    else:
-        reqs = data.get("requisitionList") or []
-    if max_positions and len(reqs) > max_positions:
-        reqs = reqs[:max_positions]
-    return reqs
+    all_reqs: List[Dict[str, Any]] = []
+    offset = 0
+    while True:
+        url = _ORACLE_URL_PREFIX + f"limit={ORACLE_PAGE_SIZE},offset={offset}," + _ORACLE_URL_SUFFIX
+        r = sess.get(url, headers=ORACLE_HEADERS_MIN, timeout=DEFAULT_TIMEOUT)
+        r.raise_for_status()
+        data = r.json()
+        items = data.get("items") or []
+        page_reqs = items[0].get("requisitionList", []) if items else []
+        if not page_reqs:
+            break
+        all_reqs.extend(page_reqs)
+        if max_positions and len(all_reqs) >= max_positions:
+            break
+        if seen_keys and all(oracle_key_from_req(req) in seen_keys for req in page_reqs):
+            break
+        if len(page_reqs) < ORACLE_PAGE_SIZE:
+            break
+        offset += ORACLE_PAGE_SIZE
+    if max_positions and len(all_reqs) > max_positions:
+        all_reqs = all_reqs[:max_positions]
+    return all_reqs
 
 
 def normalize_oracle_req(req: Dict[str, Any]) -> Dict[str, str]:
