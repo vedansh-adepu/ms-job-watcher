@@ -2,7 +2,7 @@ name: Job Boards Sweep (Broad Lane)
 
 on:
   schedule:
-    - cron: '23,53 * * * *'
+    - cron: '13 */3 * * *'
   workflow_dispatch:
 
 permissions:
