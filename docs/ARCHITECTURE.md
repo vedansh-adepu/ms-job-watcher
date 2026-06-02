@@ -170,21 +170,21 @@ These are pipeline artifacts from board curation. `watcher.py` never loads any o
 | Function | Signature | Purpose | Side effects |
 |---|---|---|---|
 | `gs_key_from_item` | `(item) -> str` | Builds key: `"goldman_sachs:{roleId}"` | None |
-| `fetch_goldman_sachs` | `(seen_keys, max_positions) -> List` | **Single GraphQL POST** — no pagination. Returns up to `pageSize=20` items. | **Network: POST** |
+| `fetch_goldman_sachs` | `(seen_keys, max_positions) -> List` | Paginates GraphQL via `pageNumber` increment. Stops on empty page, partial page, all-in-seen, or cap 200. | **Network: POST** |
 | `normalize_goldman_item` | `(item) -> Dict` | Returns standard dict | None |
 
 ### IBM — lines 1038–1094
 | Function | Signature | Purpose | Side effects |
 |---|---|---|---|
 | `ibm_key_from_hit` | `(hit) -> str` | Builds key: `"ibm:{_id}"` or `"ibm:url:{url}"` | None |
-| `fetch_ibm` | `(seen_keys, max_positions) -> List` | **Single POST** — no pagination. Returns up to `size=30`. Retries once without `aggs` field on HTTP 400. | **Network: POST** |
+| `fetch_ibm` | `(seen_keys, max_positions) -> List` | Paginates via `from` offset (Elasticsearch). Stops on empty page, partial page, all-in-seen, or cap 200. Retries once without `aggs` field on HTTP 400. | **Network: POST** |
 | `normalize_ibm_hit` | `(hit) -> Dict` | Returns standard dict | None |
 
 ### Oracle — lines 1100–1139
 | Function | Signature | Purpose | Side effects |
 |---|---|---|---|
 | `oracle_key_from_req` | `(req) -> str` | Builds key: `"oracle:{requisitionId}"` or `"oracle:url:{url}"` | None |
-| `fetch_oracle` | `(seen_keys, max_positions) -> List` | **Single GET** — no pagination. URL has `limit=14` baked in. | **Network: GET** |
+| `fetch_oracle` | `(seen_keys, max_positions) -> List` | Paginates via `limit=50,offset=N` embedded in finder query string. Extracts jobs from `items[0]["requisitionList"]`. Stops on empty page, partial page, all-in-seen, or cap 200. | **Network: GET** |
 | `normalize_oracle_req` | `(req) -> Dict` | Returns standard dict | None |
 
 ### Workday boards — lines 1148–1354
@@ -264,11 +264,11 @@ These are pipeline artifacts from board curation. `watcher.py` never loads any o
    c. fetch_amazon_positions(seen_keys=seen)                  → GET https://www.amazon.jobs/en/search.json
       paginate until: no results | cap 300 | full page already in seen
    d. fetch_goldman_sachs(seen_keys=seen)                     → POST https://api-higher.gs.com/gateway/api/v1/graphql
-      SINGLE call — no pagination. Returns up to pageSize=20 items.
+      paginate via pageNumber increment until: empty | partial page | all-in-seen | cap 200
    e. fetch_ibm(seen_keys=seen)                               → POST https://www-api.ibm.com/search/api/v2
-      SINGLE call — no pagination. Returns up to size=30 items.
+      paginate via `from` offset (Elasticsearch) until: empty | partial page | all-in-seen | cap 200
    f. fetch_oracle(seen_keys=seen)                            → GET https://eeho.fa.us2.oraclecloud.com/hcmRestApi/...
-      SINGLE call — no pagination. limit=14 baked into URL.
+      paginate via limit=50,offset=N in finder string; extracts items[0]["requisitionList"] until: empty | partial | all-in-seen | cap 200
    Each wrapped in safe_call() → source failure is logged but doesn't abort.
 
 3. normalize all raw results → List[{key, company, title, location, posted, url}]
@@ -367,9 +367,9 @@ These are pipeline artifacts from board curation. `watcher.py` never loads any o
 | Microsoft | GET | `https://apply.careers.microsoft.com/api/pcsx/search` | None (public) | US location, Entry+Mid-Level seniority, sorted by timestamp | None / 300 positions |
 | NVIDIA | GET | `https://nvidia.eightfold.ai/api/pcsx/search` | None (public) | US location, full-time, regular employee, engineering job categories | None / 300 positions |
 | Amazon | GET | `https://www.amazon.jobs/en/search.json` | None (public) | USA, ML+SWE categories, full-time, sorted recent | None / 300 jobs, page size 50 |
-| Goldman Sachs | POST GraphQL | `https://api-higher.gs.com/gateway/api/v1/graphql` | None (public) | NYC/Boston/DC/SF/McLean locations, Software Engineering function, Early+Professional career | None / 1 page (20 items max) |
-| IBM | POST JSON | `https://www-api.ibm.com/search/api/v2` | None (public) | Software Engineering + Data & Analytics, Entry Level, United States | None / 1 page (30 items max) |
-| Oracle | GET | `https://eeho.fa.us2.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions` | None (public) | US location, tech categories, 0-2 years exp, posted last 7 days | None / 1 page (14 items max) |
+| Goldman Sachs | POST GraphQL | `https://api-higher.gs.com/gateway/api/v1/graphql` | None (public) | NYC/Boston/DC/SF/McLean locations, Software Engineering function, Early+Professional career | None / cap 200, page size 20, paginated by pageNumber |
+| IBM | POST JSON | `https://www-api.ibm.com/search/api/v2` | None (public) | Software Engineering + Data & Analytics, Entry Level, United States | None / cap 200, page size 30, paginated by `from` offset |
+| Oracle | GET | `https://eeho.fa.us2.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions` | None (public) | US location, tech categories, 0-2 years exp, posted last 7 days | None / cap 200, page size 50, paginated via limit/offset in finder string |
 
 ### Boards pipeline ATS APIs
 
@@ -415,7 +415,7 @@ These are pipeline artifacts from board curation. `watcher.py` never loads any o
 ### `watcher.yml` — Job Watcher (Main Sources)
 
 ```yaml
-schedule: '*/20 * * * *'   # intended every 20 min; actual median gap: 98 min
+schedule: '7,17,27,37,47,57 * * * *'   # every 10 min, offset off congested :00/:15/:30/:45 slots
 concurrency: job-watcher-main (cancel-in-progress: false)
 timeout-minutes: 15
 runs-on: ubuntu-latest
@@ -431,7 +431,7 @@ python: 3.11
 ### `boards.yml` — Job Boards Sweep (Broad Lane)
 
 ```yaml
-schedule: '*/30 * * * *'   # intended every 30 min; actual median gap: 134 min
+schedule: '23,53 * * * *'   # every 30 min, offset off congested :00/:15/:30/:45 slots
 concurrency: job-watcher-boards (cancel-in-progress: false)
 timeout-minutes: 15
 runs-on: ubuntu-latest
@@ -455,16 +455,16 @@ done
 ```
 The `git merge -X ours` strategy means the local run's state always wins on conflict. If two runs finish simultaneously and both try to push, the second push will overwrite any state committed by the first that isn't in its own state files. In practice this is fine since the two workflows write disjoint files (`seen.json` vs `seen_boards.json` et al.).
 
-### Actual run cadence (last 50 runs each, as of 2026-06-01)
+### Actual run cadence (last 50 runs each, as of 2026-06-01 — **pre-fix baseline**)
 
 | Workflow | Scheduled | Median gap | p90 gap | Max gap | Interpretation |
 |---|---|---|---|---|---|
-| `watcher.yml` | every 20 min | **98 min** | 267 min | **353 min** | Running ~5× slower than scheduled |
-| `boards.yml` | every 30 min | **134 min** | 282 min | **361 min** | Running ~4.5× slower than scheduled |
+| `watcher.yml` | every 20 min | **98 min** | 267 min | **353 min** | Was running ~5× slower than scheduled |
+| `boards.yml` | every 30 min | **134 min** | 282 min | **361 min** | Was running ~4.5× slower than scheduled |
 
-**Billing API access:** blocked — the `gh api /users/…/settings/billing/actions` endpoint returns 404 and requires the `user` OAuth scope, which the current token does not have. Cannot confirm quota programmatically. **Check the billing page manually:** GitHub → Settings → Billing → Actions minutes used this month.
+**Root cause (resolved):** Repo was private → GitHub Free plan 2,000 min/month quota. The `watcher.yml` target alone required ~4,320 min/month. Repo made public on 2026-06-01 → unlimited Actions minutes. Crons also moved to offset slots (`7,17,27,37,47,57` and `23,53`) to reduce GitHub scheduler congestion.
 
-**Assessment of multi-hour gaps:** The irregular gap pattern (some runs 45 min apart, others 5+ hours) is inconsistent with simple cron jitter (<5 min normally) and is consistent with GitHub Actions minutes throttling on a private repo. On the GitHub Free plan, the limit is 2,000 minutes/month. The `watcher.yml` cron target of 72 runs/day × ~2 min/run × 30 days = ~4,320 min/month alone exceeds this. GitHub does not queue skipped scheduled runs — if a run is skipped due to quota, that polling window is permanently lost. **This is the primary alert-latency risk.** If throttled, a job posted within a 5-hour gap will not be seen until the next run fires.
+**Confirm improvement:** After ~1 day on the new schedule, re-run `gh run list` for both workflows and measure median gap. Expect values close to 10 min (watcher) and 30 min (boards).
 
 ---
 
@@ -476,17 +476,11 @@ Ranked by impact. A missed job is expensive; a junk alert is cheap.
 
 ### 🔴 HIGH — Could cause missed jobs
 
-**F1. Actions running 5× slower than scheduled (quota throttling likely)**
-- **Impact:** Alert latency of 1.5–6 hours instead of 20–30 min. Jobs at fast-moving companies (Amazon, Microsoft) can move from posted to closed in hours.
-- **Evidence:** Median gap 98–134 min vs. 20–30 min target; max observed gap 353–361 min. Pattern is irregular, consistent with quota exhaustion.
-- **Action:** Check billing page. If on Free plan, upgrade to Pro ($4/mo, 3,000 min) or reduce cron frequency to match budget. Alternatively move to a self-hosted runner.
+**~~F1. Actions running 5× slower than scheduled (quota throttling)~~ — RESOLVED 2026-06-01**
+- **Fix:** Repo made public → unlimited Actions minutes. Crons moved to offset slots. Baseline: median gap was 98–134 min vs. 10–30 min target. Verify improvement after ~1 day (`gh run list`).
 
-**F2. Goldman Sachs, IBM, Oracle fetched with no pagination (hard job cap)**
-- **Impact:** If GS has >20, IBM has >30, or Oracle has >14 matching jobs at once, newer postings (sorted by date DESC) appear but older ones beyond the cap are silently dropped — permanently missed since they age out of the API's own window.
-- **GS pageSize=20:** a busy role category could produce more than 20 postings.
-- **IBM size=30:** similar.
-- **Oracle limit=14:** smallest cap, and the URL is hardcoded — cannot be changed without editing the URL string.
-- **Action:** Add pagination loops matching the Eightfold/Amazon pattern. For Oracle, extract limit from the URL and paginate via offset.
+**~~F2. Goldman Sachs, IBM, Oracle fetched with no pagination~~ — FIXED 2026-06-01 (`804f627b`)**
+- **Fix:** All three now paginate. GS uses `pageNumber`; IBM uses Elasticsearch `from` offset; Oracle uses `limit=50,offset=N` in the finder query string. Oracle also had a critical extraction bug (was returning the search container instead of `requisitionList`) — fixed in the same commit. Oracle jobs will now correctly accumulate in `seen.json`.
 
 **F3. Dead board single-strike with no resurrection**
 - **Impact:** A board that returns a transient 404 (e.g., Greenhouse API blip, maintenance window, DNS hiccup) is permanently silenced. Confirmed 16 boards in the current CSV are permanently dead — some may be false-positives from transient errors.
