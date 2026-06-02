@@ -14,8 +14,7 @@ Both pipelines running as of last automated push (Jun 1 2026). Repo is **public*
 
 ## Next steps
 
-1. **Add per-run funnel logging to `state/run_log.json`** — fetched→title_ok→loc_ok→new→emailed per source, plus errors, duration, and cursor; bounded to ~1,000 records via `_atomic_write_json`. Prompt already drafted — do this first next session.
-2. **After ~1 day, measure actual run gaps** (`gh run list`) to confirm public+offset crons fixed latency. If still slow, move scheduling off GitHub Actions cron.
+1. **After ~1 day, measure actual run gaps** (`gh run list`) to confirm public+offset crons fixed latency. If still slow, move scheduling off GitHub Actions cron.
 3. **Use `run_log.json` funnel data** to check whether the title classifier is too strict (recall-first: err toward alerting).
 4. **Reconnect the correct Gmail inbox**, then analyze which boards actually produce relevant alerts.
 5. **Selectively ingest from the ~10k curated lists** (greenhouse/lever/workday_us_verified) — verify first, add in tranches; do NOT bulk-add (cycle staleness wrecks latency).
@@ -41,6 +40,7 @@ Both pipelines running as of last automated push (Jun 1 2026). Repo is **public*
 
 ## Recent changes
 
+- **2026-06-02** — `feat: add per-run funnel observability to state/run_log.json` (`d0d51894`). Both modes now record `{ts, mode, per_source: {src: {fetched, title_ok, loc_ok, new, emailed, error/errors}}, duration_s, cursor}` to `state/run_log.json` (bounded 1,000 records, picked up by existing `git add state/*.json`). Also prints a one-line summary to Actions log each run.
 - **2026-06-01** — `fix: paginate Goldman Sachs, IBM, Oracle — fix Oracle requisitionList extraction` (`804f627b`). Oracle was broken since day one; now fixed. All three sources paginate fully.
 - **2026-06-01** — `ci: improve cron cadence — watcher 10min offset, boards 30min offset` (`f7a5c236`). Moved off congested `:00/:15/:30/:45` slots.
 - **2026-06-01** — `config: add .gitleaks.toml` (`1e06172d`). Suppresses `state/*.json` false positives while keeping default secret detectors active.
