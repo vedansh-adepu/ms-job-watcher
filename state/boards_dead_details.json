@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-06-02T23:30:36.417089+00:00",
+  "updated_utc": "2026-06-03T00:02:12.984562+00:00",
   "dead_details": {
     "greenhouse:auth0": {
       "first_seen_utc": "2026-02-16T03:03:47.356270+00:00",
@@ -8320,6 +8320,15 @@
     "greenhouse:zymergen": {
       "first_seen_utc": "2026-05-27T20:13:23.257142+00:00",
       "last_seen_utc": "2026-05-27T20:13:23.257142+00:00",
+      "platform": "greenhouse",
+      "company": "",
+      "board_url": "",
+      "last_status": 404,
+      "last_error": "HTTP 404/410 (board not found)"
+    },
+    "greenhouse:appliedintuition": {
+      "first_seen_utc": "2026-06-03T00:00:27.264803+00:00",
+      "last_seen_utc": "2026-06-03T00:00:27.264803+00:00",
       "platform": "greenhouse",
       "company": "",
       "board_url": "",
