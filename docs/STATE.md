@@ -39,6 +39,20 @@ Both pipelines running and on schedule as of Jun 2 2026. **External triggering v
 - **Security:** Full git-history scan was clean (no secrets ever committed). `.gitleaks.toml` added with `[extend] useDefault = true` + allowlist for `state/*.json`. The local-only `data/boards/workday_debug/` directory contains HAR files with expired AWS STS credentials — never committed, optional cleanup: `rm -rf data/boards/workday_debug/`.
 - **Full architecture reference:** see `docs/ARCHITECTURE.md` — repo map, full function index, runtime traces, external API surface, and ranked risk findings.
 
+## Backlog (later — not urgent)
+
+Evidence gathered 2026-06-02 from ~10 hrs of live dispatch runs (29 main runs, 14 boards runs).
+The boards lane is healthy (~250 emails over the window). All items below are main-mode curated-lane gaps.
+Note: 100% location pass on Microsoft/Amazon/NVIDIA is expected — those queries are US-filtered upstream, not a bug.
+
+- **Oracle — 0 fetched in every run despite the `804f627b` fix.** Zero Oracle coverage in production. Diagnosis when revisited: run `fetch_oracle` in isolation, inspect the raw API response + extraction key, confirm the fix actually landed in the deployed function.
+
+- **Goldman Sachs — under-fetch + loc_ok=0 always.** Only ~2 jobs fetched per run (single page — pagination likely still broken), and the 1 title-passing job fails `is_us_location` every run. GS is a US company (NYC HQ); suspected location-string format the regex doesn't match. Also threw 403 errors in 2 of 29 runs. Fix plan: fix pagination first, then eyeball real location strings on the larger corpus to diagnose the regex miss.
+
+- **NVIDIA fetches exactly 20, Amazon exactly 300 every run.** Round, stable counts that smell like un-paginated single-page results or hard caps silently truncating the full listing. Confirm both sources paginate to completion (or document why the count is correct).
+
+- **[low] Boards recall spot-check.** Title pass rates (23–37%) and location drop-offs after title (Ashby 24%, Workday 26%) look like normal filtering of all-department global boards, but that's unverified. Someday: eyeball a sample of title-rejected and location-rejected jobs on one high-volume source to confirm the filters aren't dropping real US engineering roles.
+
 ## Recent changes
 
 - **2026-06-02** — External triggering verified in production. `gh run list` confirms `event=workflow_dispatch` runs at 20:40 and 20:50 UTC (exactly 10 min apart, all success); boards dispatch also confirmed. Multi-hour latency fully resolved.
