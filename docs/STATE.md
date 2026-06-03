@@ -53,8 +53,39 @@ Note: 100% location pass on Microsoft/Amazon/NVIDIA is expected — those querie
 
 - **[low] Boards recall spot-check.** Title pass rates (23–37%) and location drop-offs after title (Ashby 24%, Workday 26%) look like normal filtering of all-department global boards, but that's unverified. Someday: eyeball a sample of title-rejected and location-rejected jobs on one high-volume source to confirm the filters aren't dropping real US engineering roles.
 
+## Future roadmap — board expansion (designed 2026-06-02, NOT started)
+
+### Architecture decision: multi-pipeline sharding
+Keep the existing 1,200-board pipeline **untouched** as the fast lane. Add coverage as **separate parallel pipelines** (`boards2.yml`, `boards3.yml` …), each ~2,000 boards, each with its own disjoint CSV + cursor + seen-file + cron-job.org trigger; stagger schedules so shards don't hit the same ATS concurrently. Target ~6,200 total (1,200 + ~2k + ~2k).
+
+Separate pipelines chosen over appending to the 1,200 CSV because appending changes how often existing boards get swept (bigger cursor = slower revisit); separate shards keep the 1,200 truly untouched and fault-isolated.
+
+### First move: Greenhouse + Lever (agreed next step, NOT built)
+Lead with GH + Lever: cheapest platforms (1 GET/board, ~18 boards/sec on no-WD batches) and the only two with easy 304 change-detection. A single GH/Lever shard could sweep ~5k boards in ~5 min → cycles in 10–30 min, faster than the current pipeline.
+
+Plan: extract net-new GH/Lever (verified lists minus current 1,200, deduped by slug) → async liveness-verify each → deploy as a separate pipeline. Zero risk to the working pipeline.
+
+Workday = cost driver (4–26 API calls/board, no cheap change-detection): defer to its own shard with small batch + app-level count caching; slower cycle acceptable.
+
+### Measurement findings (2026-06-02, from run_log.json + watcher.py inspection)
+- **Huge headroom:** 200-board runs finish ~95s avg / 126s max of the 900s timeout (~14% used). Batch 200 is very conservative — adding boards need not hurt per-run latency if batch size scales up.
+- **Per-board API cost:** GH = 1 GET; Lever = 1 GET; Ashby = 1 POST; SmartRecruiters = 1–5 GETs; Workday = 1 GET (boot) + 4–25 POSTs. Workday is "the clock."
+- **Observed throughput:** ~2.1 boards/sec average; ~18 boards/sec on no-Workday batches (cursor 1000–1200 slice, 0 WD boards, ran in 11.2s).
+- **Rate limits:** No throttling evidence from any boards platform at current load; 429s auto-retried transparently; only Goldman Sachs (main mode) threw 403s.
+- **Change-detection:** GH & Lever = easy (ETag/304 conditional GET); SmartRecruiters = read `totalFound` on first page and bail early; Ashby & Workday = no HTTP path (both POST), would need app-level count/ID caching.
+
+### Inventory — IN PROGRESS, BLOCKED (resume here next session)
+Verified lists carry **only `company`, `platform`, `board_url`** — no industry, size, or location metadata. Sector/size targeting is NOT possible from these lists alone; needs external enrichment or job-text-level filtering.
+
+Net-new-by-platform count **not yet computed**: dedup vs. live 1,200 returned zero overlap (wrong) due to a URL-format mismatch between verified lists and the live CSV. **Next session:** normalize URLs to per-platform slug before comparing. Known verified-list sizes (confirm on resume): Ashby ~49, Greenhouse ~4,659, Lever ~1,806, SmartRecruiters ~210, Workday ~4,770.
+
+### Open questions for next session
+- Real net-new GH/Lever count after URL-format fix.
+- Job-text eligibility filter across ALL pipelines: drop roles requiring security clearance / "US citizen or PR required" / ITAR (ineligible on OPT); optionally flag "no sponsorship" (H-1B needed later). High value, situation-specific.
+
 ## Recent changes
 
+- **2026-06-02** — Expansion plan designed + budget measured. Multi-pipeline shard architecture decided; GH/Lever first move agreed. Verified-list inventory started (URL-format mismatch blocked net-new count — resume next session). See "Future roadmap" section above.
 - **2026-06-02** — External triggering verified in production. `gh run list` confirms `event=workflow_dispatch` runs at 20:40 and 20:50 UTC (exactly 10 min apart, all success); boards dispatch also confirmed. Multi-hour latency fully resolved.
 - **2026-06-02** — `ci: switch to external dispatch trigger — downgrade schedule to sparse fallback`. cron-job.org now drives both workflows (watcher 10 min, boards 30 min) via `workflow_dispatch` API (HTTP 204 verified). GitHub `schedule:` downgraded to `13 */3 * * *` (sparse fallback). PAT expires 2026-08-31.
 - **2026-06-02** — Cadence audit: measured 10 watcher + 9 boards gaps post-Jun-1 cron change. Watcher median 268 min (target 10 min), boards median 273 min (target 30 min) — both worse than pre-change baseline. GitHub cron deprioritization confirmed; must move off Actions cron entirely.

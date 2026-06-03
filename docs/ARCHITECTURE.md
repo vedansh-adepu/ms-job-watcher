@@ -383,6 +383,22 @@ These are pipeline artifacts from board curation. `watcher.py` never loads any o
 
 **Email sending:** Gmail SMTP SSL, port 465. Auth via `EMAIL_USER` + `EMAIL_APP_PASSWORD` (app password, not account password).
 
+### Boards platform fetch cost & change-detection (measured 2026-06-02)
+
+| Platform | API calls / board | HTTP verb | Change-detection path | Notes |
+|---|---|---|---|---|
+| Greenhouse | **1 GET** | GET | **Easy — ETag/304** conditional request; server returns 304 if board unchanged → zero payload | Single response, no pagination |
+| Lever | **1 GET** | GET | **Easy — ETag/304** same as Greenhouse | Single array response, no pagination |
+| SmartRecruiters | **1–5 GETs** | GET | **Partial** — response likely contains `totalFound`; read it on page 1 and bail early if count unchanged | limit=100, max 5 pages to hit 500-job cap |
+| Ashby | **1 POST** | POST (GraphQL) | **None via HTTP** — POST prevents ETag/304; no timestamps in current query (`id title locationName workplaceType employmentType`); would need app-level ID-set caching | Single payload, no pagination |
+| Workday | **1 GET (boot) + N POSTs** | GET + POST | **None via HTTP** — jobs endpoint is POST; boot GET could theoretically cache but isn't the bottleneck; no total-count field currently read; would need app-level count caching | N = ceil(total\_jobs/20); max 25 POSTs + 1 boot = 26 calls on a 500-job board |
+
+**Throughput & timeout headroom (200-board/run baseline, measured from 14 boards runs):**
+- Duration range: 68–126s; average ~95s; p90 ~116s; **timeout budget used: ~14% of 900s**.
+- Throughput: ~2.1 boards/sec average; ~18 boards/sec on batches with zero Workday boards.
+- Workday is the pace-setter: semaphore=4, 4–26 calls/board. The batch 1000–1200 (0 WD boards) ran in 11.2s; batches with 20–25 WD boards take 100–126s.
+- At batch_size=200 and 5k total boards: per-run time unchanged (~95s); full-cycle latency would grow to ~12.5 hours (25 runs × 30 min) vs. current ~3 hours.
+
 ---
 
 ## 5. Data & state files
