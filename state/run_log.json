@@ -16822,5 +16822,56 @@
     },
     "duration_s": 12.6,
     "cursor": null
+  },
+  {
+    "ts": "2026-06-05T05:00Z",
+    "mode": "main",
+    "per_source": {
+      "microsoft": {
+        "fetched": 172,
+        "title_ok": 105,
+        "loc_ok": 105,
+        "new": 0,
+        "emailed": 0
+      },
+      "amazon": {
+        "fetched": 300,
+        "title_ok": 281,
+        "loc_ok": 281,
+        "new": 0,
+        "emailed": 0
+      },
+      "nvidia": {
+        "fetched": 20,
+        "title_ok": 19,
+        "loc_ok": 19,
+        "new": 0,
+        "emailed": 0
+      },
+      "goldman_sachs": {
+        "fetched": 0,
+        "title_ok": 0,
+        "loc_ok": 0,
+        "new": 0,
+        "emailed": 0,
+        "error": "Goldman Sachs fetch: HTTPError: 403 Client Error: Forbidden for url: https://api-higher.gs.com/gateway/api/v1/graphql"
+      },
+      "ibm": {
+        "fetched": 11,
+        "title_ok": 8,
+        "loc_ok": 2,
+        "new": 0,
+        "emailed": 0
+      },
+      "oracle": {
+        "fetched": 1,
+        "title_ok": 1,
+        "loc_ok": 1,
+        "new": 0,
+        "emailed": 0
+      }
+    },
+    "duration_s": 12.5,
+    "cursor": null
   }
 ]
