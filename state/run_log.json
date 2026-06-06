@@ -27223,5 +27223,41 @@
     },
     "duration_s": 13.4,
     "cursor": null
+  },
+  {
+    "ts": "2026-06-06T16:01Z",
+    "mode": "boards",
+    "per_source": {
+      "greenhouse": {
+        "fetched": 5175,
+        "title_ok": 1578,
+        "loc_ok": 720,
+        "new": 0,
+        "emailed": 0
+      },
+      "lever": {
+        "fetched": 881,
+        "title_ok": 192,
+        "loc_ok": 77,
+        "new": 0,
+        "emailed": 0
+      },
+      "smartrecruiters": {
+        "fetched": 869,
+        "title_ok": 289,
+        "loc_ok": 113,
+        "new": 0,
+        "emailed": 0
+      },
+      "workday": {
+        "fetched": 7000,
+        "title_ok": 1828,
+        "loc_ok": 595,
+        "new": 1,
+        "emailed": 1
+      }
+    },
+    "duration_s": 69.0,
+    "cursor": 600
   }
 ]
