@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-06-06T00:31:36.125187+00:00",
+  "updated_utc": "2026-06-06T01:00:41.021391+00:00",
   "seen_ids": [
     "ashby:1password:0e9a990d-5750-44c6-b399-887eae1fba49",
     "ashby:1password:0efcd7aa-0bcf-4c65-b7dd-627833d90f37",
@@ -325,6 +325,7 @@
     "ashby:formenergy:334b047a-b637-4f0c-99d1-fb644b5c5567",
     "ashby:formenergy:33a07ac4-b995-46e0-b652-a8a0cac764a3",
     "ashby:formenergy:34f37416-08ab-4f2a-ac3e-fe719328aef6",
+    "ashby:formenergy:36598883-f81d-4c7e-a7ac-a8427ac63cb3",
     "ashby:formenergy:375cf0f8-fb45-43e0-9584-493189e4c8b8",
     "ashby:formenergy:4442a156-799b-49aa-a3fe-1a3b3a3c6265",
     "ashby:formenergy:4b48d308-b7f6-447e-8aa6-4a8bbe095784",
@@ -5034,6 +5035,7 @@
     "greenhouse:botauto:5239880008",
     "greenhouse:botauto:5248909008",
     "greenhouse:botauto:5248910008",
+    "greenhouse:botauto:5250129008",
     "greenhouse:boxinc:6970383",
     "greenhouse:boxinc:7106451",
     "greenhouse:boxinc:7178220",
@@ -8429,6 +8431,7 @@
     "greenhouse:oklo:5996719004",
     "greenhouse:oklo:6004599004",
     "greenhouse:oklo:6009349004",
+    "greenhouse:oklo:6015809004",
     "greenhouse:okta:6948361",
     "greenhouse:okta:7405481",
     "greenhouse:okta:7425892",
@@ -15119,6 +15122,7 @@
     "lever:shieldai:37fa20c1-57dc-4aa1-9515-ecc87f22f31b",
     "lever:shieldai:3b688ab2-7fd2-450b-86cc-eada11e06d66",
     "lever:shieldai:3daaf9c5-164e-4a8e-abc9-b475a38522c3",
+    "lever:shieldai:40dd9984-fe68-4ea7-a1ab-291c9303dfb4",
     "lever:shieldai:41468aca-c1c2-4a7b-aec8-f499e64b6d1e",
     "lever:shieldai:425c064c-7585-462f-973d-66d685d1ab17",
     "lever:shieldai:498f7d45-a951-45ad-aa7f-3f54bf3dd2bb",
