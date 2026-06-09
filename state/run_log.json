@@ -44208,5 +44208,41 @@
     },
     "duration_s": 11.5,
     "cursor": null
+  },
+  {
+    "ts": "2026-06-09T01:02Z",
+    "mode": "boards",
+    "per_source": {
+      "greenhouse": {
+        "fetched": 4529,
+        "title_ok": 1280,
+        "loc_ok": 489,
+        "new": 4,
+        "emailed": 4
+      },
+      "lever": {
+        "fetched": 639,
+        "title_ok": 138,
+        "loc_ok": 96,
+        "new": 0,
+        "emailed": 0
+      },
+      "ashby": {
+        "fetched": 6,
+        "title_ok": 4,
+        "loc_ok": 0,
+        "new": 0,
+        "emailed": 0
+      },
+      "workday": {
+        "fetched": 9602,
+        "title_ok": 2341,
+        "loc_ok": 762,
+        "new": 2,
+        "emailed": 2
+      }
+    },
+    "duration_s": 111.1,
+    "cursor": 400
   }
 ]
