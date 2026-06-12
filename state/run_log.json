@@ -1,56 +1,5 @@
 [
   {
-    "ts": "2026-06-06T08:22Z",
-    "mode": "main",
-    "per_source": {
-      "microsoft": {
-        "fetched": 163,
-        "title_ok": 96,
-        "loc_ok": 96,
-        "new": 0,
-        "emailed": 0
-      },
-      "amazon": {
-        "fetched": 0,
-        "title_ok": 0,
-        "loc_ok": 0,
-        "new": 0,
-        "emailed": 0,
-        "error": "Amazon fetch: ConnectTimeout: HTTPSConnectionPool(host='www.amazon.jobs', port=443): Max retries exceeded with url: /en/search.json?category%5B%5D=machine-learning-science&category%5B%5D=software-development&schedule_type_id%5B%5D=Full-Time&normalized_country_code%5B%5D=USA&radius=100000km&offset=0&result_limit=50&sort=recent&latitude=38.89036&longitude=-77.03196&loc_query=united+states&base_query= (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.amazon.jobs', port=443) at 0x7f198991ea10>, 'Connection to www.amazon.jobs timed out. (connect timeout=30)'))"
-      },
-      "nvidia": {
-        "fetched": 20,
-        "title_ok": 19,
-        "loc_ok": 19,
-        "new": 0,
-        "emailed": 0
-      },
-      "goldman_sachs": {
-        "fetched": 0,
-        "title_ok": 0,
-        "loc_ok": 0,
-        "new": 0,
-        "emailed": 0
-      },
-      "ibm": {
-        "fetched": 10,
-        "title_ok": 9,
-        "loc_ok": 2,
-        "new": 0,
-        "emailed": 0
-      },
-      "oracle": {
-        "fetched": 1,
-        "title_ok": 1,
-        "loc_ok": 1,
-        "new": 0,
-        "emailed": 0
-      }
-    },
-    "duration_s": 132.2,
-    "cursor": null
-  },
-  {
     "ts": "2026-06-06T08:32Z",
     "mode": "boards",
     "per_source": {
@@ -46758,6 +46707,56 @@
       }
     },
     "duration_s": 14.0,
+    "cursor": null
+  },
+  {
+    "ts": "2026-06-12T22:30Z",
+    "mode": "main",
+    "per_source": {
+      "microsoft": {
+        "fetched": 173,
+        "title_ok": 96,
+        "loc_ok": 96,
+        "new": 0,
+        "emailed": 0
+      },
+      "amazon": {
+        "fetched": 300,
+        "title_ok": 270,
+        "loc_ok": 270,
+        "new": 1,
+        "emailed": 1
+      },
+      "nvidia": {
+        "fetched": 20,
+        "title_ok": 20,
+        "loc_ok": 20,
+        "new": 0,
+        "emailed": 0
+      },
+      "goldman_sachs": {
+        "fetched": 0,
+        "title_ok": 0,
+        "loc_ok": 0,
+        "new": 0,
+        "emailed": 0
+      },
+      "ibm": {
+        "fetched": 7,
+        "title_ok": 6,
+        "loc_ok": 0,
+        "new": 0,
+        "emailed": 0
+      },
+      "oracle": {
+        "fetched": 1,
+        "title_ok": 1,
+        "loc_ok": 1,
+        "new": 0,
+        "emailed": 0
+      }
+    },
+    "duration_s": 13.1,
     "cursor": null
   }
 ]
