@@ -1,49 +1,5 @@
 [
   {
-    "ts": "2026-06-05T14:01Z",
-    "mode": "boards",
-    "per_source": {
-      "greenhouse": {
-        "fetched": 2240,
-        "title_ok": 714,
-        "loc_ok": 341,
-        "new": 0,
-        "emailed": 0
-      },
-      "smartrecruiters": {
-        "fetched": 255,
-        "title_ok": 52,
-        "loc_ok": 49,
-        "new": 0,
-        "emailed": 0
-      },
-      "lever": {
-        "fetched": 562,
-        "title_ok": 237,
-        "loc_ok": 183,
-        "new": 0,
-        "emailed": 0
-      },
-      "ashby": {
-        "fetched": 4675,
-        "title_ok": 1756,
-        "loc_ok": 433,
-        "new": 0,
-        "emailed": 0,
-        "errors": 1
-      },
-      "workday": {
-        "fetched": 2500,
-        "title_ok": 743,
-        "loc_ok": 132,
-        "new": 0,
-        "emailed": 0
-      }
-    },
-    "duration_s": 75.9,
-    "cursor": 1000
-  },
-  {
     "ts": "2026-06-05T14:10Z",
     "mode": "main",
     "per_source": {
@@ -46717,5 +46673,55 @@
     },
     "duration_s": 80.3,
     "cursor": 600
+  },
+  {
+    "ts": "2026-06-12T04:10Z",
+    "mode": "main",
+    "per_source": {
+      "microsoft": {
+        "fetched": 172,
+        "title_ok": 94,
+        "loc_ok": 94,
+        "new": 0,
+        "emailed": 0
+      },
+      "amazon": {
+        "fetched": 300,
+        "title_ok": 270,
+        "loc_ok": 270,
+        "new": 0,
+        "emailed": 0
+      },
+      "nvidia": {
+        "fetched": 20,
+        "title_ok": 20,
+        "loc_ok": 20,
+        "new": 0,
+        "emailed": 0
+      },
+      "goldman_sachs": {
+        "fetched": 0,
+        "title_ok": 0,
+        "loc_ok": 0,
+        "new": 0,
+        "emailed": 0
+      },
+      "ibm": {
+        "fetched": 6,
+        "title_ok": 5,
+        "loc_ok": 0,
+        "new": 0,
+        "emailed": 0
+      },
+      "oracle": {
+        "fetched": 1,
+        "title_ok": 1,
+        "loc_ok": 1,
+        "new": 0,
+        "emailed": 0
+      }
+    },
+    "duration_s": 12.4,
+    "cursor": null
   }
 ]
