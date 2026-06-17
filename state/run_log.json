@@ -1,41 +1,5 @@
 [
   {
-    "ts": "2026-06-10T11:02Z",
-    "mode": "boards",
-    "per_source": {
-      "greenhouse": {
-        "fetched": 5178,
-        "title_ok": 1584,
-        "loc_ok": 722,
-        "new": 0,
-        "emailed": 0
-      },
-      "smartrecruiters": {
-        "fetched": 898,
-        "title_ok": 288,
-        "loc_ok": 112,
-        "new": 3,
-        "emailed": 3
-      },
-      "lever": {
-        "fetched": 881,
-        "title_ok": 195,
-        "loc_ok": 78,
-        "new": 0,
-        "emailed": 0
-      },
-      "workday": {
-        "fetched": 7000,
-        "title_ok": 1857,
-        "loc_ok": 604,
-        "new": 0,
-        "emailed": 0
-      }
-    },
-    "duration_s": 89.1,
-    "cursor": 600
-  },
-  {
     "ts": "2026-06-10T11:10Z",
     "mode": "main",
     "per_source": {
@@ -46762,6 +46726,57 @@
       }
     },
     "duration_s": 11.3,
+    "cursor": null
+  },
+  {
+    "ts": "2026-06-17T01:31Z",
+    "mode": "main",
+    "per_source": {
+      "microsoft": {
+        "fetched": 169,
+        "title_ok": 100,
+        "loc_ok": 100,
+        "new": 0,
+        "emailed": 0
+      },
+      "amazon": {
+        "fetched": 300,
+        "title_ok": 276,
+        "loc_ok": 276,
+        "new": 0,
+        "emailed": 0
+      },
+      "nvidia": {
+        "fetched": 20,
+        "title_ok": 20,
+        "loc_ok": 20,
+        "new": 0,
+        "emailed": 0
+      },
+      "goldman_sachs": {
+        "fetched": 0,
+        "title_ok": 0,
+        "loc_ok": 0,
+        "new": 0,
+        "emailed": 0,
+        "error": "Goldman Sachs fetch: HTTPError: 403 Client Error: Forbidden for url: https://api-higher.gs.com/gateway/api/v1/graphql"
+      },
+      "ibm": {
+        "fetched": 7,
+        "title_ok": 6,
+        "loc_ok": 0,
+        "new": 0,
+        "emailed": 0
+      },
+      "oracle": {
+        "fetched": 0,
+        "title_ok": 0,
+        "loc_ok": 0,
+        "new": 0,
+        "emailed": 0
+      }
+    },
+    "duration_s": 25.0,
     "cursor": null
   }
 ]
