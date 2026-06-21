@@ -1,56 +1,5 @@
 [
   {
-    "ts": "2026-06-15T03:50Z",
-    "mode": "main",
-    "per_source": {
-      "microsoft": {
-        "fetched": 167,
-        "title_ok": 96,
-        "loc_ok": 96,
-        "new": 0,
-        "emailed": 0
-      },
-      "amazon": {
-        "fetched": 300,
-        "title_ok": 271,
-        "loc_ok": 271,
-        "new": 0,
-        "emailed": 0
-      },
-      "nvidia": {
-        "fetched": 30,
-        "title_ok": 29,
-        "loc_ok": 29,
-        "new": 0,
-        "emailed": 0
-      },
-      "goldman_sachs": {
-        "fetched": 0,
-        "title_ok": 0,
-        "loc_ok": 0,
-        "new": 0,
-        "emailed": 0,
-        "error": "Goldman Sachs fetch: HTTPError: 403 Client Error: Forbidden for url: https://api-higher.gs.com/gateway/api/v1/graphql"
-      },
-      "ibm": {
-        "fetched": 7,
-        "title_ok": 6,
-        "loc_ok": 0,
-        "new": 0,
-        "emailed": 0
-      },
-      "oracle": {
-        "fetched": 1,
-        "title_ok": 1,
-        "loc_ok": 1,
-        "new": 0,
-        "emailed": 0
-      }
-    },
-    "duration_s": 11.6,
-    "cursor": null
-  },
-  {
     "ts": "2026-06-15T04:02Z",
     "mode": "boards",
     "per_source": {
@@ -46752,5 +46701,55 @@
     },
     "duration_s": 69.9,
     "cursor": 600
+  },
+  {
+    "ts": "2026-06-21T18:40Z",
+    "mode": "main",
+    "per_source": {
+      "microsoft": {
+        "fetched": 152,
+        "title_ok": 86,
+        "loc_ok": 86,
+        "new": 0,
+        "emailed": 0
+      },
+      "amazon": {
+        "fetched": 300,
+        "title_ok": 273,
+        "loc_ok": 273,
+        "new": 0,
+        "emailed": 0
+      },
+      "nvidia": {
+        "fetched": 20,
+        "title_ok": 19,
+        "loc_ok": 19,
+        "new": 0,
+        "emailed": 0
+      },
+      "goldman_sachs": {
+        "fetched": 0,
+        "title_ok": 0,
+        "loc_ok": 0,
+        "new": 0,
+        "emailed": 0
+      },
+      "ibm": {
+        "fetched": 7,
+        "title_ok": 6,
+        "loc_ok": 0,
+        "new": 0,
+        "emailed": 0
+      },
+      "oracle": {
+        "fetched": 2,
+        "title_ok": 0,
+        "loc_ok": 0,
+        "new": 0,
+        "emailed": 0
+      }
+    },
+    "duration_s": 11.3,
+    "cursor": null
   }
 ]
