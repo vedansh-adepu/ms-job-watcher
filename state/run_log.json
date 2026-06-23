@@ -1,56 +1,5 @@
 [
   {
-    "ts": "2026-06-17T08:10Z",
-    "mode": "main",
-    "per_source": {
-      "microsoft": {
-        "fetched": 169,
-        "title_ok": 100,
-        "loc_ok": 100,
-        "new": 0,
-        "emailed": 0
-      },
-      "amazon": {
-        "fetched": 300,
-        "title_ok": 277,
-        "loc_ok": 277,
-        "new": 0,
-        "emailed": 0
-      },
-      "nvidia": {
-        "fetched": 20,
-        "title_ok": 20,
-        "loc_ok": 20,
-        "new": 0,
-        "emailed": 0
-      },
-      "goldman_sachs": {
-        "fetched": 0,
-        "title_ok": 0,
-        "loc_ok": 0,
-        "new": 0,
-        "emailed": 0,
-        "error": "Goldman Sachs fetch: HTTPError: 403 Client Error: Forbidden for url: https://api-higher.gs.com/gateway/api/v1/graphql"
-      },
-      "ibm": {
-        "fetched": 6,
-        "title_ok": 5,
-        "loc_ok": 0,
-        "new": 0,
-        "emailed": 0
-      },
-      "oracle": {
-        "fetched": 0,
-        "title_ok": 0,
-        "loc_ok": 0,
-        "new": 0,
-        "emailed": 0
-      }
-    },
-    "duration_s": 12.8,
-    "cursor": null
-  },
-  {
     "ts": "2026-06-17T08:20Z",
     "mode": "main",
     "per_source": {
@@ -46653,5 +46602,41 @@
     },
     "duration_s": 11.8,
     "cursor": null
+  },
+  {
+    "ts": "2026-06-23T23:02Z",
+    "mode": "boards",
+    "per_source": {
+      "greenhouse": {
+        "fetched": 5223,
+        "title_ok": 1647,
+        "loc_ok": 748,
+        "new": 10,
+        "emailed": 10
+      },
+      "smartrecruiters": {
+        "fetched": 918,
+        "title_ok": 327,
+        "loc_ok": 109,
+        "new": 0,
+        "emailed": 0
+      },
+      "lever": {
+        "fetched": 928,
+        "title_ok": 194,
+        "loc_ok": 84,
+        "new": 0,
+        "emailed": 0
+      },
+      "workday": {
+        "fetched": 7000,
+        "title_ok": 1975,
+        "loc_ok": 669,
+        "new": 12,
+        "emailed": 17
+      }
+    },
+    "duration_s": 80.1,
+    "cursor": 600
   }
 ]
