@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-06-23T18:32:39.369288+00:00",
+  "updated_utc": "2026-06-23T19:02:04.766863+00:00",
   "seen_ids": [
     "ashby:1password:0e9a990d-5750-44c6-b399-887eae1fba49",
     "ashby:1password:0efcd7aa-0bcf-4c65-b7dd-627833d90f37",
@@ -533,6 +533,7 @@
     "ashby:openai:dde7aafb-fa52-4b14-b94f-1aa331b32fa6",
     "ashby:openai:ea339283-7650-4b50-9d24-08d143af260a",
     "ashby:openai:f51f750f-a737-4441-8f96-30133a2a8049",
+    "ashby:openai:f69f75f5-439f-4044-8ae1-8fd810e0402d",
     "ashby:parafin:044237a0-5613-449c-9b69-4454bbc69b6c",
     "ashby:parafin:17c3f44c-62f3-43a6-9eb8-b6df98f1004f",
     "ashby:parafin:1c9b812f-4803-49e6-9439-023f7df13280",
@@ -886,6 +887,7 @@
     "ashby:snowflake:9670db54-bd0d-4dcc-a4af-61724dd82188",
     "ashby:snowflake:97813cac-e55c-4631-94fe-5eda15c7eaed",
     "ashby:snowflake:9ac203c7-76aa-493e-a629-0785cea5ed83",
+    "ashby:snowflake:9bbafaf2-240d-4cfb-8e95-b289f0350be5",
     "ashby:snowflake:9cf335c9-f99d-4ddb-b307-0dcd3a162a09",
     "ashby:snowflake:9dbb9d89-5c36-4380-b298-4aeb9ba6578a",
     "ashby:snowflake:9e56c0ed-b76e-49f1-b38d-a7e8b64bf7d9",
@@ -1062,6 +1064,7 @@
     "ashby:vanta:d8a21321-6996-4f4c-b5ec-18df50e6f4b9",
     "ashby:vanta:dbd4e02c-0c6c-4031-a658-f57e88ec9943",
     "ashby:vanta:e54ab450-192f-40f3-8029-37a44f2c09b1",
+    "ashby:vanta:f1af3c57-be2d-4263-9579-0c04d29b1289",
     "ashby:vanta:f5639906-ee7a-4549-b6f9-8da5735444ad",
     "ashby:vanta:fa22f1dc-ed32-4922-9e82-f8207f4a3e40",
     "ashby:vanta:fbb10f01-e012-44ab-aed2-2e6e6e93caa9",
@@ -46483,6 +46486,7 @@
     "workday:unisys:External:req:REQ573294",
     "workday:unisys:External:req:REQ573584",
     "workday:unisys:External:req:REQ573623",
+    "workday:unisys:External:req:REQ573834",
     "workday:unisys:External:url:https://unisys.wd5.myworkdayjobs.com/en-US/External/job/Albany-NY-United-States-of-America/Network-Engineer---Onsite-Albany--NY_REQ570479",
     "workday:unisys:External:url:https://unisys.wd5.myworkdayjobs.com/en-US/External/job/Albany-NY-United-States-of-America/Network-Engineer---Onsite-Albany--NY_REQ572058",
     "workday:unisys:External:url:https://unisys.wd5.myworkdayjobs.com/en-US/External/job/Blue-Bell-PA-United-States-of-America/Associate-Engineer-ClearPath_REQ569692",
