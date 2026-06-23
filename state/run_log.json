@@ -1,56 +1,5 @@
 [
   {
-    "ts": "2026-06-17T08:40Z",
-    "mode": "main",
-    "per_source": {
-      "microsoft": {
-        "fetched": 169,
-        "title_ok": 100,
-        "loc_ok": 100,
-        "new": 0,
-        "emailed": 0
-      },
-      "amazon": {
-        "fetched": 300,
-        "title_ok": 277,
-        "loc_ok": 277,
-        "new": 0,
-        "emailed": 0
-      },
-      "nvidia": {
-        "fetched": 20,
-        "title_ok": 20,
-        "loc_ok": 20,
-        "new": 0,
-        "emailed": 0
-      },
-      "goldman_sachs": {
-        "fetched": 0,
-        "title_ok": 0,
-        "loc_ok": 0,
-        "new": 0,
-        "emailed": 0,
-        "error": "Goldman Sachs fetch: HTTPError: 403 Client Error: Forbidden for url: https://api-higher.gs.com/gateway/api/v1/graphql"
-      },
-      "ibm": {
-        "fetched": 6,
-        "title_ok": 5,
-        "loc_ok": 0,
-        "new": 0,
-        "emailed": 0
-      },
-      "oracle": {
-        "fetched": 0,
-        "title_ok": 0,
-        "loc_ok": 0,
-        "new": 0,
-        "emailed": 0
-      }
-    },
-    "duration_s": 12.2,
-    "cursor": null
-  },
-  {
     "ts": "2026-06-17T08:50Z",
     "mode": "main",
     "per_source": {
@@ -46645,5 +46594,48 @@
     },
     "duration_s": 9.4,
     "cursor": null
+  },
+  {
+    "ts": "2026-06-23T23:32Z",
+    "mode": "boards",
+    "per_source": {
+      "greenhouse": {
+        "fetched": 8014,
+        "title_ok": 2687,
+        "loc_ok": 1721,
+        "new": 6,
+        "emailed": 6
+      },
+      "smartrecruiters": {
+        "fetched": 1369,
+        "title_ok": 260,
+        "loc_ok": 141,
+        "new": 0,
+        "emailed": 0
+      },
+      "lever": {
+        "fetched": 297,
+        "title_ok": 129,
+        "loc_ok": 76,
+        "new": 0,
+        "emailed": 0
+      },
+      "ashby": {
+        "fetched": 115,
+        "title_ok": 47,
+        "loc_ok": 14,
+        "new": 0,
+        "emailed": 0
+      },
+      "workday": {
+        "fetched": 6500,
+        "title_ok": 1480,
+        "loc_ok": 124,
+        "new": 0,
+        "emailed": 0
+      }
+    },
+    "duration_s": 104.2,
+    "cursor": 800
   }
 ]
