@@ -1,55 +1,5 @@
 [
   {
-    "ts": "2026-06-18T05:40Z",
-    "mode": "main",
-    "per_source": {
-      "microsoft": {
-        "fetched": 174,
-        "title_ok": 102,
-        "loc_ok": 102,
-        "new": 0,
-        "emailed": 0
-      },
-      "amazon": {
-        "fetched": 300,
-        "title_ok": 274,
-        "loc_ok": 274,
-        "new": 0,
-        "emailed": 0
-      },
-      "nvidia": {
-        "fetched": 20,
-        "title_ok": 20,
-        "loc_ok": 20,
-        "new": 0,
-        "emailed": 0
-      },
-      "goldman_sachs": {
-        "fetched": 0,
-        "title_ok": 0,
-        "loc_ok": 0,
-        "new": 0,
-        "emailed": 0
-      },
-      "ibm": {
-        "fetched": 6,
-        "title_ok": 5,
-        "loc_ok": 0,
-        "new": 0,
-        "emailed": 0
-      },
-      "oracle": {
-        "fetched": 2,
-        "title_ok": 0,
-        "loc_ok": 0,
-        "new": 0,
-        "emailed": 0
-      }
-    },
-    "duration_s": 11.6,
-    "cursor": null
-  },
-  {
     "ts": "2026-06-18T05:50Z",
     "mode": "main",
     "per_source": {
@@ -46612,5 +46562,48 @@
     },
     "duration_s": 11.9,
     "cursor": null
+  },
+  {
+    "ts": "2026-06-24T21:02Z",
+    "mode": "boards",
+    "per_source": {
+      "greenhouse": {
+        "fetched": 8065,
+        "title_ok": 2706,
+        "loc_ok": 1725,
+        "new": 8,
+        "emailed": 8
+      },
+      "smartrecruiters": {
+        "fetched": 1400,
+        "title_ok": 267,
+        "loc_ok": 147,
+        "new": 8,
+        "emailed": 8
+      },
+      "lever": {
+        "fetched": 289,
+        "title_ok": 124,
+        "loc_ok": 74,
+        "new": 0,
+        "emailed": 0
+      },
+      "ashby": {
+        "fetched": 115,
+        "title_ok": 47,
+        "loc_ok": 14,
+        "new": 0,
+        "emailed": 0
+      },
+      "workday": {
+        "fetched": 6500,
+        "title_ok": 1563,
+        "loc_ok": 123,
+        "new": 0,
+        "emailed": 0
+      }
+    },
+    "duration_s": 127.2,
+    "cursor": 800
   }
 ]
