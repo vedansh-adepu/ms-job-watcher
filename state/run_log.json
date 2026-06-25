@@ -1,48 +1,5 @@
 [
   {
-    "ts": "2026-06-18T21:32Z",
-    "mode": "boards",
-    "per_source": {
-      "lever": {
-        "fetched": 622,
-        "title_ok": 67,
-        "loc_ok": 48,
-        "new": 1,
-        "emailed": 1
-      },
-      "greenhouse": {
-        "fetched": 10471,
-        "title_ok": 3432,
-        "loc_ok": 2056,
-        "new": 8,
-        "emailed": 8
-      },
-      "ashby": {
-        "fetched": 136,
-        "title_ok": 37,
-        "loc_ok": 1,
-        "new": 0,
-        "emailed": 0
-      },
-      "smartrecruiters": {
-        "fetched": 1279,
-        "title_ok": 273,
-        "loc_ok": 100,
-        "new": 0,
-        "emailed": 0
-      },
-      "workday": {
-        "fetched": 10665,
-        "title_ok": 2429,
-        "loc_ok": 771,
-        "new": 19,
-        "emailed": 22
-      }
-    },
-    "duration_s": 118.5,
-    "cursor": 200
-  },
-  {
     "ts": "2026-06-18T21:40Z",
     "mode": "main",
     "per_source": {
@@ -46662,6 +46619,56 @@
       }
     },
     "duration_s": 10.5,
+    "cursor": null
+  },
+  {
+    "ts": "2026-06-25T13:01Z",
+    "mode": "main",
+    "per_source": {
+      "microsoft": {
+        "fetched": 150,
+        "title_ok": 87,
+        "loc_ok": 87,
+        "new": 0,
+        "emailed": 0
+      },
+      "amazon": {
+        "fetched": 150,
+        "title_ok": 138,
+        "loc_ok": 138,
+        "new": 0,
+        "emailed": 0
+      },
+      "nvidia": {
+        "fetched": 20,
+        "title_ok": 20,
+        "loc_ok": 20,
+        "new": 0,
+        "emailed": 0
+      },
+      "goldman_sachs": {
+        "fetched": 0,
+        "title_ok": 0,
+        "loc_ok": 0,
+        "new": 0,
+        "emailed": 0
+      },
+      "ibm": {
+        "fetched": 3,
+        "title_ok": 3,
+        "loc_ok": 0,
+        "new": 0,
+        "emailed": 0
+      },
+      "oracle": {
+        "fetched": 1,
+        "title_ok": 0,
+        "loc_ok": 0,
+        "new": 0,
+        "emailed": 0
+      }
+    },
+    "duration_s": 11.2,
     "cursor": null
   }
 ]
