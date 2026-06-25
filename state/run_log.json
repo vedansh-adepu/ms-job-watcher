@@ -1,55 +1,5 @@
 [
   {
-    "ts": "2026-06-18T09:50Z",
-    "mode": "main",
-    "per_source": {
-      "microsoft": {
-        "fetched": 170,
-        "title_ok": 101,
-        "loc_ok": 101,
-        "new": 0,
-        "emailed": 0
-      },
-      "amazon": {
-        "fetched": 300,
-        "title_ok": 274,
-        "loc_ok": 274,
-        "new": 0,
-        "emailed": 0
-      },
-      "nvidia": {
-        "fetched": 20,
-        "title_ok": 20,
-        "loc_ok": 20,
-        "new": 0,
-        "emailed": 0
-      },
-      "goldman_sachs": {
-        "fetched": 0,
-        "title_ok": 0,
-        "loc_ok": 0,
-        "new": 0,
-        "emailed": 0
-      },
-      "ibm": {
-        "fetched": 6,
-        "title_ok": 5,
-        "loc_ok": 0,
-        "new": 0,
-        "emailed": 0
-      },
-      "oracle": {
-        "fetched": 2,
-        "title_ok": 0,
-        "loc_ok": 0,
-        "new": 0,
-        "emailed": 0
-      }
-    },
-    "duration_s": 10.5,
-    "cursor": null
-  },
-  {
     "ts": "2026-06-18T10:01Z",
     "mode": "boards",
     "per_source": {
@@ -46633,5 +46583,48 @@
     },
     "duration_s": 12.5,
     "cursor": null
+  },
+  {
+    "ts": "2026-06-25T01:03Z",
+    "mode": "boards",
+    "per_source": {
+      "lever": {
+        "fetched": 620,
+        "title_ok": 65,
+        "loc_ok": 47,
+        "new": 0,
+        "emailed": 0
+      },
+      "greenhouse": {
+        "fetched": 10534,
+        "title_ok": 3470,
+        "loc_ok": 2094,
+        "new": 3,
+        "emailed": 3
+      },
+      "ashby": {
+        "fetched": 146,
+        "title_ok": 41,
+        "loc_ok": 0,
+        "new": 0,
+        "emailed": 0
+      },
+      "smartrecruiters": {
+        "fetched": 1287,
+        "title_ok": 279,
+        "loc_ok": 101,
+        "new": 0,
+        "emailed": 0
+      },
+      "workday": {
+        "fetched": 10678,
+        "title_ok": 2425,
+        "loc_ok": 786,
+        "new": 4,
+        "emailed": 4
+      }
+    },
+    "duration_s": 183.1,
+    "cursor": 200
   }
 ]
