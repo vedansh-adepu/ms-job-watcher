@@ -1,48 +1,5 @@
 [
   {
-    "ts": "2026-06-19T21:02Z",
-    "mode": "boards",
-    "per_source": {
-      "greenhouse": {
-        "fetched": 8088,
-        "title_ok": 2684,
-        "loc_ok": 1716,
-        "new": 1,
-        "emailed": 1
-      },
-      "smartrecruiters": {
-        "fetched": 1376,
-        "title_ok": 256,
-        "loc_ok": 134,
-        "new": 0,
-        "emailed": 0
-      },
-      "lever": {
-        "fetched": 301,
-        "title_ok": 124,
-        "loc_ok": 73,
-        "new": 0,
-        "emailed": 0
-      },
-      "ashby": {
-        "fetched": 117,
-        "title_ok": 46,
-        "loc_ok": 13,
-        "new": 0,
-        "emailed": 0
-      },
-      "workday": {
-        "fetched": 6500,
-        "title_ok": 1531,
-        "loc_ok": 163,
-        "new": 0,
-        "emailed": 0
-      }
-    },
-    "duration_s": 105.5,
-    "cursor": 800
-  },
-  {
     "ts": "2026-06-19T21:10Z",
     "mode": "main",
     "per_source": {
@@ -46639,6 +46596,57 @@
       }
     },
     "duration_s": 9.8,
+    "cursor": null
+  },
+  {
+    "ts": "2026-06-26T12:01Z",
+    "mode": "main",
+    "per_source": {
+      "microsoft": {
+        "fetched": 151,
+        "title_ok": 89,
+        "loc_ok": 89,
+        "new": 0,
+        "emailed": 0
+      },
+      "amazon": {
+        "fetched": 150,
+        "title_ok": 138,
+        "loc_ok": 138,
+        "new": 0,
+        "emailed": 0
+      },
+      "nvidia": {
+        "fetched": 0,
+        "title_ok": 0,
+        "loc_ok": 0,
+        "new": 0,
+        "emailed": 0,
+        "error": "NVIDIA fetch: HTTPError: 429 Client Error: TOO MANY REQUESTS for url: https://nvidia.eightfold.ai/api/pcsx/search?domain=nvidia.com&query=&location=united+states&start=0&sort_by=timestamp&filter_include_remote=1&filter_job_category=engineering&filter_job_type=regular+employee&filter_time_type=full+time&filter_hiring_title=Software+Engineer&filter_hiring_title=Machine+Learning+Engineer&filter_hiring_title=Artificial+Intelligence&filter_hiring_title=machine+learning&filter_hiring_title=software+development+engineer&filter_hiring_title=data"
+      },
+      "goldman_sachs": {
+        "fetched": 0,
+        "title_ok": 0,
+        "loc_ok": 0,
+        "new": 0,
+        "emailed": 0
+      },
+      "ibm": {
+        "fetched": 4,
+        "title_ok": 4,
+        "loc_ok": 1,
+        "new": 0,
+        "emailed": 0
+      },
+      "oracle": {
+        "fetched": 1,
+        "title_ok": 0,
+        "loc_ok": 0,
+        "new": 0,
+        "emailed": 0
+      }
+    },
+    "duration_s": 11.2,
     "cursor": null
   }
 ]
