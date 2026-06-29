@@ -1,34 +1,5 @@
 [
   {
-    "ts": "2026-06-23T08:01Z",
-    "mode": "boards",
-    "per_source": {
-      "ashby": {
-        "fetched": 1820,
-        "title_ok": 626,
-        "loc_ok": 159,
-        "new": 0,
-        "emailed": 0
-      },
-      "greenhouse": {
-        "fetched": 4115,
-        "title_ok": 1108,
-        "loc_ok": 648,
-        "new": 0,
-        "emailed": 0
-      },
-      "lever": {
-        "fetched": 1560,
-        "title_ok": 695,
-        "loc_ok": 291,
-        "new": 0,
-        "emailed": 0
-      }
-    },
-    "duration_s": 8.8,
-    "cursor": 0
-  },
-  {
     "ts": "2026-06-23T08:10Z",
     "mode": "main",
     "per_source": {
@@ -46593,6 +46564,56 @@
       }
     },
     "duration_s": 11.5,
+    "cursor": null
+  },
+  {
+    "ts": "2026-06-29T21:20Z",
+    "mode": "main",
+    "per_source": {
+      "microsoft": {
+        "fetched": 148,
+        "title_ok": 88,
+        "loc_ok": 88,
+        "new": 0,
+        "emailed": 0
+      },
+      "amazon": {
+        "fetched": 300,
+        "title_ok": 274,
+        "loc_ok": 274,
+        "new": 0,
+        "emailed": 0
+      },
+      "nvidia": {
+        "fetched": 40,
+        "title_ok": 38,
+        "loc_ok": 38,
+        "new": 0,
+        "emailed": 0
+      },
+      "goldman_sachs": {
+        "fetched": 0,
+        "title_ok": 0,
+        "loc_ok": 0,
+        "new": 0,
+        "emailed": 0
+      },
+      "ibm": {
+        "fetched": 2,
+        "title_ok": 2,
+        "loc_ok": 0,
+        "new": 0,
+        "emailed": 0
+      },
+      "oracle": {
+        "fetched": 1,
+        "title_ok": 0,
+        "loc_ok": 0,
+        "new": 0,
+        "emailed": 0
+      }
+    },
+    "duration_s": 12.0,
     "cursor": null
   }
 ]
