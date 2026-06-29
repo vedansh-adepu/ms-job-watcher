@@ -1,56 +1,5 @@
 [
   {
-    "ts": "2026-06-22T22:11Z",
-    "mode": "main",
-    "per_source": {
-      "microsoft": {
-        "fetched": 153,
-        "title_ok": 91,
-        "loc_ok": 91,
-        "new": 0,
-        "emailed": 0
-      },
-      "amazon": {
-        "fetched": 300,
-        "title_ok": 272,
-        "loc_ok": 272,
-        "new": 1,
-        "emailed": 1
-      },
-      "nvidia": {
-        "fetched": 30,
-        "title_ok": 29,
-        "loc_ok": 29,
-        "new": 0,
-        "emailed": 0
-      },
-      "goldman_sachs": {
-        "fetched": 0,
-        "title_ok": 0,
-        "loc_ok": 0,
-        "new": 0,
-        "emailed": 0
-      },
-      "ibm": {
-        "fetched": 6,
-        "title_ok": 5,
-        "loc_ok": 0,
-        "new": 0,
-        "emailed": 0
-      },
-      "oracle": {
-        "fetched": 0,
-        "title_ok": 0,
-        "loc_ok": 0,
-        "new": 0,
-        "emailed": 0,
-        "error": "Oracle fetch: HTTPError: 503 Server Error: Service Unavailable for url: https://www.oracle.com/splash/cloud/index.html"
-      }
-    },
-    "duration_s": 27.1,
-    "cursor": null
-  },
-  {
     "ts": "2026-06-22T22:21Z",
     "mode": "main",
     "per_source": {
@@ -46595,5 +46544,34 @@
     },
     "duration_s": 67.7,
     "cursor": 1000
+  },
+  {
+    "ts": "2026-06-29T11:30Z",
+    "mode": "boards",
+    "per_source": {
+      "ashby": {
+        "fetched": 1840,
+        "title_ok": 620,
+        "loc_ok": 163,
+        "new": 0,
+        "emailed": 0
+      },
+      "greenhouse": {
+        "fetched": 4125,
+        "title_ok": 1096,
+        "loc_ok": 645,
+        "new": 1,
+        "emailed": 1
+      },
+      "lever": {
+        "fetched": 1536,
+        "title_ok": 699,
+        "loc_ok": 295,
+        "new": 0,
+        "emailed": 0
+      }
+    },
+    "duration_s": 10.5,
+    "cursor": 0
   }
 ]
