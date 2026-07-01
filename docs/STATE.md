@@ -126,6 +126,8 @@ All five env vars are disjoint — `STATE_PATH`, `BOARDS_CURSOR_PATH`, `BOARDS_S
 
 ## Recent changes
 
+- **2026-07-01** — `classify_title` widened for data-engineering family (additive only, commit `595355dc`). Added to `STRONG_INCLUDE_PHRASES`: `"dataops"`, `"data ops"`, `"data operations engineer"`, `"data architect"`, `"data quality engineer"`. Added `has_dqe` carve-out in the hard-exclude loop so "Data Quality Engineer" is not blocked by the existing `"quality engineer"` hard-exclude (parallel to SDET exception). No existing terms removed or narrowed. Previously missed: DataOps Engineer, Data Operations Engineer (both dropped by "ops"/"operations" soft-exclude with no STRONG override); Data Architect (no weak/strong match); Data Quality Engineer (hard-excluded). All now pass. QA/DevOps exclusions unaffected.
+
 - **2026-07-01** — boards2 LIVE. First workflow_dispatch at 16:39Z: success, 2,000 GH boards, 4 new jobs emailed, cursor→2000, boards2 state files updated, live-1200 state untouched. 30-min cadence confirmed. PAT shared by all 3 cron-job.org jobs expires 2026-08-31 — **exposed in screenshot 2026-07-01, rotate soon**. System now sweeps ~7,366 total boards across 3 pipelines.
 - **2026-07-01** — boards2 pipeline built and seeded. `boards2.yml` created (batch_size=2000, cron fallback `43 */3 * * *`, concurrency=`job-watcher-boards2`). Bootstrap run seeded `seen_boards2.json` with 9,767 job IDs across 6,166 boards (181s). All state paths disjoint. Awaiting cron-job.org trigger (manual browser step).
 - **2026-07-01** — Liveness probe complete. Probed 6,407 net-new GH+Lever boards in 73s; 6,166 alive (96.2%), 241 dead (all clean 404s). Output: `data/boards/greenhouse_lever_verified_live.csv`. Shard pipeline is the only remaining step.
