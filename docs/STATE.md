@@ -2,7 +2,7 @@
 
 ## Current status
 
-Both pipelines running and on schedule as of Jun 2 2026. **External triggering via cron-job.org is live and verified** — `gh run list` shows `event=workflow_dispatch` runs landing at 20:40 and 20:50 UTC (exactly 10 min apart, both success); boards dispatch also confirmed (204 + successful runs). The multi-hour GitHub cron latency problem is fully resolved. Pipeline 1 (`--mode main`) polls Microsoft, NVIDIA, Amazon, Goldman Sachs, IBM, and Oracle; all three single-page sources (GS/IBM/Oracle) now paginate fully, and the Oracle extraction bug is fixed. Pipeline 2 (`--mode boards`) sweeps ~1,200 ATS boards in batches of 200. `seen.json` holds 6,357 deduplicated job IDs; `seen_boards.json` holds 41,881.
+**Three pipelines running as of 2026-07-01.** External triggering via cron-job.org verified for all three. Pipeline 1 (`--mode main`) polls Microsoft, NVIDIA, Amazon, Goldman Sachs, IBM, and Oracle. Pipeline 2 (`boards.yml`) sweeps the live 1,200 ATS boards (GH/Lever/SR/Workday/Ashby) in batches of 200. **Pipeline 3 (`boards2.yml`) is now LIVE** — sweeps 6,166 net-new GH+Lever boards in batches of 2,000; first `workflow_dispatch` run landed 2026-07-01T16:39Z (success, 19s, 4 new jobs emailed, cursor→2000); 30-min cadence pending confirmation of second run. All three cron-job.org jobs share the PAT expiring **2026-08-31** — rotate before that date.
 
 ## Open bugs / issues
 
@@ -114,13 +114,14 @@ All 241 dead boards were clean 404s — zero timeouts, zero retries needed. Outp
 
 All five env vars are disjoint — `STATE_PATH`, `BOARDS_CURSOR_PATH`, `BOARDS_SEEN_PATH`, `BOARDS_DEAD_PATH`, `BOARDS_DEAD_DETAILS_PATH` — so boards2 cannot collide with the live 1,200 pipeline.
 
-**Remaining manual step:** Add a cron-job.org trigger for `boards2.yml` → `workflow_dispatch` every 30 min (same pattern as boards, stagger the minute). The workflow is dormant until triggered.
+**LIVE as of 2026-07-01T16:39Z.** First `workflow_dispatch` run confirmed success: processed 2,000 GH boards (cursor 0→2000), fetched 57,985 jobs, 3,524 loc_ok, 4 new/emailed, 19s. `seen_boards2.json` grew 9,767→9,771; `boards2_cursor.json`=2000; `seen_boards.json` (live 1,200) untouched. 30-min cadence pending second run confirmation. All three cron-job.org jobs share PAT expiring **2026-08-31**.
 
 ### Open questions (deferred)
 - Job-text eligibility filter across ALL pipelines: drop roles requiring security clearance / "US citizen or PR required" / ITAR (ineligible on OPT); optionally flag "no sponsorship" (H-1B needed later). High value, situation-specific.
 
 ## Recent changes
 
+- **2026-07-01** — boards2 LIVE. First workflow_dispatch at 16:39Z: success, 2,000 GH boards, 4 new jobs emailed, cursor→2000, boards2 state files updated, live-1200 state untouched. 30-min cadence pending second run. PAT shared by all 3 cron-job.org jobs expires 2026-08-31.
 - **2026-07-01** — boards2 pipeline built and seeded. `boards2.yml` created (batch_size=2000, cron fallback `43 */3 * * *`, concurrency=`job-watcher-boards2`). Bootstrap run seeded `seen_boards2.json` with 9,767 job IDs across 6,166 boards (181s). All state paths disjoint. Awaiting cron-job.org trigger (manual browser step).
 - **2026-07-01** — Liveness probe complete. Probed 6,407 net-new GH+Lever boards in 73s; 6,166 alive (96.2%), 241 dead (all clean 404s). Output: `data/boards/greenhouse_lever_verified_live.csv`. Shard pipeline is the only remaining step.
 - **2026-07-01** — Inventory unblocked. Root cause of zero-overlap false alarm: GH hostname mismatch (`boards.greenhouse.io` vs `job-boards.greenhouse.io`). Canonical dedup key: `urlparse(url).path.split('/')[1].lower()`. Net-new: GH 4,659 + Lever 1,806 = 6,465 (all genuinely new, 0 overlap with live 1,200). GH/Lever shard marked ready to build.
