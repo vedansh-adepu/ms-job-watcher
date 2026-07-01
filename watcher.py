@@ -161,6 +161,11 @@ STRONG_INCLUDE_PHRASES = [
     "data scientist",
     "data engineer",
     "analytics engineer",
+    "dataops",
+    "data ops",
+    "data operations engineer",
+    "data architect",
+    "data quality engineer",
     "data analyst",
     "analytics analyst",
     "product analyst",
@@ -241,6 +246,7 @@ def classify_title(title: str) -> str:
         return "no"
 
     has_sdet = ("sdet" in t) or ("software development engineer in test" in t)
+    has_dqe = "data quality engineer" in t
 
     for pat in HARD_EXCLUDE_REGEXES:
         if re.search(pat, t):
@@ -252,6 +258,8 @@ def classify_title(title: str) -> str:
                 "quality assurance", "qa ", " qa", "tester", "test engineer", "quality engineer", "validation engineer"
             }:
                 break
+            if has_dqe and bad == "quality engineer":
+                continue  # "data quality engineer" is DE, not QA — skip this phrase only
             return "no"
 
     has_soft_excl = any(bad in t for bad in SOFT_EXCLUDE_PHRASES)
