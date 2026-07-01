@@ -90,17 +90,25 @@ Zero overlap is genuine — the two pools were seeded from different candidate s
 
 **Data-quality caveat:** ~58 GH slugs (~1.2%) are noise — purely numeric IDs (e.g. `103644278`, `123456789101010`) or >30-char garbage strings. Filter before ingestion.
 
-### GH/Lever shard — UNBLOCKED, ready to build
-Pre-build steps remaining:
-1. Filter the ~58 junk GH slugs (numeric IDs or >30-char strings).
-2. Liveness-verify net-new boards: hit the API, keep only boards with ≥1 active job (the `verify_greenhouse.py` script does this already).
-3. Stand up as a **separate pipeline**: own CSV + cursor + seen-file + cron-job.org trigger. Do NOT append to the live 1,200 CSV.
+### GH/Lever shard — liveness-verified, ready to wire up (2026-07-01)
+
+**Liveness probe results (run 2026-07-01, 73s wall time, 24 workers):**
+| | Total rows | Net-new vs live 1,200 | Junk dropped | Probed | Alive | Dead |
+|---|---|---|---|---|---|---|
+| Greenhouse | 4,659 | 4,659 | 58 (numeric/long slugs) | 4,601 | **4,417 (96.0%)** | 184 |
+| Lever | 1,806 | 1,806 | 0 | 1,806 | **1,749 (96.8%)** | 57 |
+| **Combined** | **6,465** | **6,465** | **58** | **6,407** | **6,166 (96.2%)** | **241** |
+
+All 241 dead boards were clean 404s — zero timeouts, zero retries needed. Output CSV: **`data/boards/greenhouse_lever_verified_live.csv`** (6,166 rows, same column format as live boards CSV: `company_name, platform, board_url, country_focus, notes`).
+
+**Remaining step:** Stand up as a **separate pipeline** — own CSV + cursor + seen-file + `boards2.yml` workflow + cron-job.org trigger. Do NOT append to the live 1,200 CSV.
 
 ### Open questions (deferred)
 - Job-text eligibility filter across ALL pipelines: drop roles requiring security clearance / "US citizen or PR required" / ITAR (ineligible on OPT); optionally flag "no sponsorship" (H-1B needed later). High value, situation-specific.
 
 ## Recent changes
 
+- **2026-07-01** — Liveness probe complete. Probed 6,407 net-new GH+Lever boards in 73s; 6,166 alive (96.2%), 241 dead (all clean 404s). Output: `data/boards/greenhouse_lever_verified_live.csv`. Shard pipeline is the only remaining step.
 - **2026-07-01** — Inventory unblocked. Root cause of zero-overlap false alarm: GH hostname mismatch (`boards.greenhouse.io` vs `job-boards.greenhouse.io`). Canonical dedup key: `urlparse(url).path.split('/')[1].lower()`. Net-new: GH 4,659 + Lever 1,806 = 6,465 (all genuinely new, 0 overlap with live 1,200). GH/Lever shard marked ready to build.
 - **2026-06-02** — Expansion plan designed + budget measured. Multi-pipeline shard architecture decided; GH/Lever first move agreed. Verified-list inventory started (URL-format mismatch blocked net-new count — resume next session). See "Future roadmap" section above.
 - **2026-06-02** — External triggering verified in production. `gh run list` confirms `event=workflow_dispatch` runs at 20:40 and 20:50 UTC (exactly 10 min apart, all success); boards dispatch also confirmed. Multi-hour latency fully resolved.
