@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-07-01T22:02:52.190106+00:00",
+  "updated_utc": "2026-07-01T22:31:57.222495+00:00",
   "seen_ids": [
     "ashby:1password:0e9a990d-5750-44c6-b399-887eae1fba49",
     "ashby:1password:0efcd7aa-0bcf-4c65-b7dd-627833d90f37",
@@ -442,6 +442,7 @@
     "ashby:hopper:2a41cd40-3447-47b0-ab63-8c8d689e0e9a",
     "ashby:hopper:39cd238e-5251-4d92-ad01-ee11b4f8f217",
     "ashby:hopper:3b6ca578-408b-4ed7-91d0-90aa1707ad1d",
+    "ashby:hopper:93d92370-3e4b-460f-a7c3-2074035e40fd",
     "ashby:instructure:1e281cd7-bde9-4c9e-8fe6-e6c32824d0de",
     "ashby:instructure:8c04ab34-3b8f-4191-9707-b3959a41b86b",
     "ashby:instructure:8fc68f0c-a239-4241-8484-9f46a2a909e6",
@@ -964,6 +965,7 @@
     "ashby:snowflake:af233de6-6aa6-4980-bc31-0b52133d34a1",
     "ashby:snowflake:afa654dd-0431-4030-9878-1e48c27465bd",
     "ashby:snowflake:b0283c67-3bd8-4be2-a861-d538b7504bb0",
+    "ashby:snowflake:b059983f-8144-4b08-96eb-521f9258de51",
     "ashby:snowflake:b1faeb20-716c-4b93-9f2b-91d8751ed503",
     "ashby:snowflake:b241904d-7d42-41f0-9674-82e53d964846",
     "ashby:snowflake:b24b3738-91a0-4ca7-9fc7-bf165fa517dd",
@@ -19437,6 +19439,7 @@
     "smartrecruiters:Versant3:744000135111589",
     "smartrecruiters:Versant3:744000135263639",
     "smartrecruiters:Versant3:744000135286233",
+    "smartrecruiters:Versant3:744000135349540",
     "smartrecruiters:Visa:744000101096875",
     "smartrecruiters:Visa:744000102355109",
     "smartrecruiters:Visa:744000106364305",
@@ -48881,6 +48884,7 @@
     "workday:workday:Workday:req:JR-0108525",
     "workday:workday:Workday:req:JR-0108529",
     "workday:workday:Workday:req:JR-0108533",
+    "workday:workday:Workday:req:JR-0108565",
     "workday:workday:Workday:url:https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USA-CA-Pleasanton/People-Analytics-Data-Scientist_JR-0104261-1",
     "workday:workday:Workday:url:https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USA-CA-Pleasanton/Principal-Machine-Learning-Engineer_JR-0104012",
     "workday:workday:Workday:url:https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USA-CA-Pleasanton/Principal-Machine-Learning-Engineer_JR-0104014",
