@@ -101,13 +101,27 @@ Zero overlap is genuine — the two pools were seeded from different candidate s
 
 All 241 dead boards were clean 404s — zero timeouts, zero retries needed. Output CSV: **`data/boards/greenhouse_lever_verified_live.csv`** (6,166 rows, same column format as live boards CSV: `company_name, platform, board_url, country_focus, notes`).
 
-**Remaining step:** Stand up as a **separate pipeline** — own CSV + cursor + seen-file + `boards2.yml` workflow + cron-job.org trigger. Do NOT append to the live 1,200 CSV.
+**Pipeline built and seeded (2026-07-01):** `boards2.yml` created, all state files bootstrapped locally and committed.
+
+| File | Role | Value at commit |
+|---|---|---|
+| `data/boards/greenhouse_lever_verified_live.csv` | boards2 CSV | 6,166 boards (GH 4,417 + Lever 1,749) |
+| `state/seen_boards2.json` | job dedup (seen-file) | 9,767 job IDs seeded |
+| `state/boards2_seen.json` | bootstrap tracking | 6,166 board IDs |
+| `state/boards2_cursor.json` | batch cursor | 0 (fully cycled in bootstrap) |
+| `state/boards2_dead.json` | dead boards | 0 (clean CSV going in) |
+| `.github/workflows/boards2.yml` | workflow | batch_size=2000, cron fallback `43 */3 * * *`, concurrency=`job-watcher-boards2` |
+
+All five env vars are disjoint — `STATE_PATH`, `BOARDS_CURSOR_PATH`, `BOARDS_SEEN_PATH`, `BOARDS_DEAD_PATH`, `BOARDS_DEAD_DETAILS_PATH` — so boards2 cannot collide with the live 1,200 pipeline.
+
+**Remaining manual step:** Add a cron-job.org trigger for `boards2.yml` → `workflow_dispatch` every 30 min (same pattern as boards, stagger the minute). The workflow is dormant until triggered.
 
 ### Open questions (deferred)
 - Job-text eligibility filter across ALL pipelines: drop roles requiring security clearance / "US citizen or PR required" / ITAR (ineligible on OPT); optionally flag "no sponsorship" (H-1B needed later). High value, situation-specific.
 
 ## Recent changes
 
+- **2026-07-01** — boards2 pipeline built and seeded. `boards2.yml` created (batch_size=2000, cron fallback `43 */3 * * *`, concurrency=`job-watcher-boards2`). Bootstrap run seeded `seen_boards2.json` with 9,767 job IDs across 6,166 boards (181s). All state paths disjoint. Awaiting cron-job.org trigger (manual browser step).
 - **2026-07-01** — Liveness probe complete. Probed 6,407 net-new GH+Lever boards in 73s; 6,166 alive (96.2%), 241 dead (all clean 404s). Output: `data/boards/greenhouse_lever_verified_live.csv`. Shard pipeline is the only remaining step.
 - **2026-07-01** — Inventory unblocked. Root cause of zero-overlap false alarm: GH hostname mismatch (`boards.greenhouse.io` vs `job-boards.greenhouse.io`). Canonical dedup key: `urlparse(url).path.split('/')[1].lower()`. Net-new: GH 4,659 + Lever 1,806 = 6,465 (all genuinely new, 0 overlap with live 1,200). GH/Lever shard marked ready to build.
 - **2026-06-02** — Expansion plan designed + budget measured. Multi-pipeline shard architecture decided; GH/Lever first move agreed. Verified-list inventory started (URL-format mismatch blocked net-new count — resume next session). See "Future roadmap" section above.
