@@ -74,17 +74,34 @@ Workday = cost driver (4–26 API calls/board, no cheap change-detection): defer
 - **Rate limits:** No throttling evidence from any boards platform at current load; 429s auto-retried transparently; only Goldman Sachs (main mode) threw 403s.
 - **Change-detection:** GH & Lever = easy (ETag/304 conditional GET); SmartRecruiters = read `totalFound` on first page and bail early; Ashby & Workday = no HTTP path (both POST), would need app-level count/ID caching.
 
-### Inventory — IN PROGRESS, BLOCKED (resume here next session)
+### Inventory — RESOLVED (2026-07-01)
 Verified lists carry **only `company`, `platform`, `board_url`** — no industry, size, or location metadata. Sector/size targeting is NOT possible from these lists alone; needs external enrichment or job-text-level filtering.
 
-Net-new-by-platform count **not yet computed**: dedup vs. live 1,200 returned zero overlap (wrong) due to a URL-format mismatch between verified lists and the live CSV. **Next session:** normalize URLs to per-platform slug before comparing. Known verified-list sizes (confirm on resume): Ashby ~49, Greenhouse ~4,659, Lever ~1,806, SmartRecruiters ~210, Workday ~4,770.
+**Root cause of prior "zero overlap" false alarm:** Greenhouse hostname differs between the two sources — live CSV uses `boards.greenhouse.io`, verified list uses `job-boards.greenhouse.io`. Comparing raw URLs gave zero overlap even for real matches. Fix: canonical dedup key is `urlparse(board_url).path.split('/')[1].lower()` applied to both sides (strips hostname, takes first path segment, lowercases). Lever URLs are identical on both sides (`jobs.lever.co`); no fix needed there.
 
-### Open questions for next session
-- Real net-new GH/Lever count after URL-format fix.
+**Net-new counts (canonical-slug dedup, confirmed 2026-07-01):**
+| Platform | Verified total | Already in live 1,200 | Net-new |
+|---|---|---|---|
+| Greenhouse | 4,659 | 0 | **4,659** |
+| Lever | 1,806 | 0 | **1,806** |
+| Combined | 6,465 | 0 | **6,465** |
+
+Zero overlap is genuine — the two pools were seeded from different candidate sources, so all net-new boards represent real new coverage. Zero internal duplicates in either list.
+
+**Data-quality caveat:** ~58 GH slugs (~1.2%) are noise — purely numeric IDs (e.g. `103644278`, `123456789101010`) or >30-char garbage strings. Filter before ingestion.
+
+### GH/Lever shard — UNBLOCKED, ready to build
+Pre-build steps remaining:
+1. Filter the ~58 junk GH slugs (numeric IDs or >30-char strings).
+2. Liveness-verify net-new boards: hit the API, keep only boards with ≥1 active job (the `verify_greenhouse.py` script does this already).
+3. Stand up as a **separate pipeline**: own CSV + cursor + seen-file + cron-job.org trigger. Do NOT append to the live 1,200 CSV.
+
+### Open questions (deferred)
 - Job-text eligibility filter across ALL pipelines: drop roles requiring security clearance / "US citizen or PR required" / ITAR (ineligible on OPT); optionally flag "no sponsorship" (H-1B needed later). High value, situation-specific.
 
 ## Recent changes
 
+- **2026-07-01** — Inventory unblocked. Root cause of zero-overlap false alarm: GH hostname mismatch (`boards.greenhouse.io` vs `job-boards.greenhouse.io`). Canonical dedup key: `urlparse(url).path.split('/')[1].lower()`. Net-new: GH 4,659 + Lever 1,806 = 6,465 (all genuinely new, 0 overlap with live 1,200). GH/Lever shard marked ready to build.
 - **2026-06-02** — Expansion plan designed + budget measured. Multi-pipeline shard architecture decided; GH/Lever first move agreed. Verified-list inventory started (URL-format mismatch blocked net-new count — resume next session). See "Future roadmap" section above.
 - **2026-06-02** — External triggering verified in production. `gh run list` confirms `event=workflow_dispatch` runs at 20:40 and 20:50 UTC (exactly 10 min apart, all success); boards dispatch also confirmed. Multi-hour latency fully resolved.
 - **2026-06-02** — `ci: switch to external dispatch trigger — downgrade schedule to sparse fallback`. cron-job.org now drives both workflows (watcher 10 min, boards 30 min) via `workflow_dispatch` API (HTTP 204 verified). GitHub `schedule:` downgraded to `13 */3 * * *` (sparse fallback). PAT expires 2026-08-31.
