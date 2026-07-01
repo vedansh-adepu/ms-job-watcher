@@ -70,7 +70,7 @@ The existing 1,200-board pipeline (`boards.yml`) remains **untouched** as the fa
 ### First move: Greenhouse + Lever — COMPLETE
 Lead with GH + Lever: cheapest platforms (1 GET/board, ~18 boards/sec on no-WD batches). Liveness-verified 6,407 candidates → 6,166 alive (96.2%), bootstrapped silently, deployed 2026-07-01. First live run 16:39Z: 2,000 boards, 4 new jobs emailed.
 
-Workday = cost driver (4–26 API calls/board, no cheap change-detection): defer to its own shard if/when needed.
+Workday = cost driver (4–26 API calls/board, no cheap change-detection): sized and ready to wire. See Workday sizing section below.
 
 ### Measurement findings (2026-06-02, from run_log.json + watcher.py inspection)
 - **Huge headroom:** 200-board runs finish ~95s avg / 126s max of the 900s timeout (~14% used). Batch 200 is very conservative — adding boards need not hurt per-run latency if batch size scales up.
@@ -124,8 +124,57 @@ All five env vars are disjoint — `STATE_PATH`, `BOARDS_CURSOR_PATH`, `BOARDS_S
 ### Open questions (deferred)
 - Job-text eligibility filter across ALL pipelines: drop roles requiring security clearance / "US citizen or PR required" / ITAR (ineligible on OPT); optionally flag "no sponsorship" (H-1B needed later). High value, situation-specific.
 
+## Workday boards3 — sized, NOT built (2026-07-01)
+
+### Sizing findings (`workday_us_verified.csv` → `data/boards/workday_verified_live.csv`)
+
+| | Count | Notes |
+|---|---|---|
+| Source rows | 4,770 | `workday_us_verified.csv` |
+| Junk/dupes removed | 2 | 1 junk slug, 1 internal dupe |
+| Already in live 1200 | 77 | excluded, not net-new |
+| Net-new probed | 4,768 | — |
+| **Alive (has openings)** | **4,497 (94.3%)** | in output CSV |
+| Alive (no current openings) | 154 (3.2%) | in output CSV — can get jobs later |
+| Dead (4xx/WAF) | 59+16 | 16 are WAF-blocked (403), not rate-limited |
+| **Total live CSV** | **4,651 rows** | `data/boards/workday_verified_live.csv` |
+
+**Cost sample** — 200 boards, full `fetch_workday_jobs()` with `max_positions=500`:
+| Metric | avg | p90 | p95 |
+|---|---|---|---|
+| api_calls / board | 21.5 | 26 | 26 |
+| response_time / board | 40.5s | 107.7s | — |
+| jobs / board | 404 | 500 | — |
+
+p90 api_calls = 26 (= 25 POSTs + 1 GET) means the majority of large boards hit the 500-job cap. p90 wall-time = 107.7s/board (sequential per thread). Zero 429s observed at concurrency=20.
+
+**Rate-limit signal: NONE.** 16 boards returned 403 — those are per-tenant WAF blocks, not throughput limits. Workday CXS has no observed rate-limiting at reasonable concurrency.
+
+### Sizing math & recommendation
+
+| | Value |
+|---|---|
+| Effective budget / run | 720s (15 min × 80%) |
+| WD concurrency in watcher | 4 threads (WD_SEM=4) |
+| Boards / run @ p90 latency | 26 (conservative cap) |
+| Boards / run @ avg latency | 71 |
+| **Recommended batch_size** | **50** (floor-capped for safety) |
+| Runs to full cycle (4,497 alive) | 90 |
+| Cycle time @ 30 min cadence | **45h** |
+
+**45h cycle is too slow for a single shard.** Recommendation: **two shards** — `boards3a.yml` + `boards3b.yml`, ~2,325 boards each, staggered 15 min apart. Each shard cycles in ~22.5h, acceptable for a supplementary Workday lane (new Workday jobs are generally posted less frequently than GH/Lever).
+
+### Design notes for when boards3 is built
+- CSV is drop-in ready (`company_name, platform, board_url, country_focus, notes` columns, same as live)
+- All 5 state env vars must be unique per shard (same pattern as boards2)
+- `batch_size=50` with `timeout=15` keeps each run well within 15-min Actions limit
+- Stagger the two cron-job.org jobs by 15 min to avoid simultaneous Workday load
+- No overlap with boards2 (GH/Lever only) — 0 shared boards
+- Consider Workday `--boards-batch-size 50` and revisit after measuring first live run
+
 ## Recent changes
 
+- **2026-07-01** — Workday boards3 sizing complete. Probed 4,768 net-new WD boards: 4,651 alive (97.5%), 77 already in live 1200. Cost sample (200 boards): avg 21.5 API calls/board, p90 40.5s/board wall time. Recommendation: batch_size=50, two shards (boards3a+b ~2,325 each), 30-min cadence → ~22.5h cycle per shard. Live CSV: `data/boards/workday_verified_live.csv` (4,651 rows). Report: `data/boards/workday_sizing_report.txt`. No pipeline built yet.
 - **2026-07-01** — `classify_title` widened for data-engineering family (additive only, commit `595355dc`). Added to `STRONG_INCLUDE_PHRASES`: `"dataops"`, `"data ops"`, `"data operations engineer"`, `"data architect"`, `"data quality engineer"`. Added `has_dqe` carve-out in the hard-exclude loop so "Data Quality Engineer" is not blocked by the existing `"quality engineer"` hard-exclude (parallel to SDET exception). No existing terms removed or narrowed. Previously missed: DataOps Engineer, Data Operations Engineer (both dropped by "ops"/"operations" soft-exclude with no STRONG override); Data Architect (no weak/strong match); Data Quality Engineer (hard-excluded). All now pass. QA/DevOps exclusions unaffected.
 
 - **2026-07-01** — boards2 LIVE. First workflow_dispatch at 16:39Z: success, 2,000 GH boards, 4 new jobs emailed, cursor→2000, boards2 state files updated, live-1200 state untouched. 30-min cadence confirmed. PAT shared by all 3 cron-job.org jobs expires 2026-08-31 — **exposed in screenshot 2026-07-01, rotate soon**. System now sweeps ~7,366 total boards across 3 pipelines.
