@@ -2,7 +2,9 @@
 
 ## Current status
 
-**Three pipelines running as of 2026-07-01.** External triggering via cron-job.org verified for all three. Pipeline 1 (`--mode main`) polls Microsoft, NVIDIA, Amazon, Goldman Sachs, IBM, and Oracle. Pipeline 2 (`boards.yml`) sweeps the live 1,200 ATS boards (GH/Lever/SR/Workday/Ashby) in batches of 200. **Pipeline 3 (`boards2.yml`) is now LIVE** — sweeps 6,166 net-new GH+Lever boards in batches of 2,000; first `workflow_dispatch` run landed 2026-07-01T16:39Z (success, 19s, 4 new jobs emailed, cursor→2000); 30-min cadence pending confirmation of second run. All three cron-job.org jobs share the PAT expiring **2026-08-31** — rotate before that date.
+**Three pipelines running as of 2026-07-01 — ~7,366 total boards.** External triggering via cron-job.org verified for all three. Pipeline 1 (`--mode main`) polls Microsoft, NVIDIA, Amazon, Goldman Sachs, IBM, and Oracle (10-min cadence). Pipeline 2 (`boards.yml`) sweeps 1,200 ATS boards — GH/Lever/SR/Workday/Ashby — in batches of 200 (30-min cadence). **Pipeline 3 (`boards2.yml`) is LIVE** — sweeps 6,166 net-new GH+Lever boards in batches of 2,000 (30-min cadence); first `workflow_dispatch` run landed 2026-07-01T16:39Z (success, 19s, 4 new jobs emailed, cursor→2000).
+
+> **PAT SECURITY REMINDER (2026-07-01):** The fine-grained PAT used to trigger all three cron-job.org jobs was **exposed in a screenshot on 2026-07-01**. It expires **2026-08-31** — rotate it well before that date. On rotation: update the `Authorization: Bearer <token>` header in **all three** cron-job.org jobs (watcher, boards, boards2). If all three pipelines go silent simultaneously, the PAT is the first suspect.
 
 ## Open bugs / issues
 
@@ -24,7 +26,7 @@
 
 - **Single file:** all logic lives in `watcher.py` (~2,160 lines after pagination additions). No external modules beyond `requests`.
 - **State is committed to git** by the `github-actions` bot after every run. Push conflicts handled by a 5-retry loop with `git merge -X ours`. Remote state is always source of truth; pull before editing state files locally.
-- **Scheduling is now EXTERNAL** — cron-job.org calls the `workflow_dispatch` API (watcher every 10 min, boards every 30 min). The GitHub `schedule:` cron (`13 */3 * * *` in both files) is only a sparse fallback. Auth = a fine-grained PAT (this repo, Actions:write) stored in cron-job.org that **EXPIRES 2026-08-31** — if runs go silent, FIRST check the PAT and the cron-job.org jobs.
+- **Scheduling is now EXTERNAL** — cron-job.org calls the `workflow_dispatch` API (watcher every 10 min, boards/boards2 every 30 min). The GitHub `schedule:` cron is a sparse fallback only. Auth = a fine-grained PAT (this repo, Actions:write) stored in **all three** cron-job.org jobs; it **EXPIRES 2026-08-31** and was **EXPOSED IN A SCREENSHOT 2026-07-01** — rotate before expiry and update all three jobs' Authorization header. If all pipelines go silent at once, the PAT is the first suspect.
 - **Dead boards: single-strike permanent.** One 404/410 → `boards_dead.add(board_id)` → skipped forever. No retry logic.
 - **Dead boards: 921 of 937 are orphaned stale entries.** Only **16 boards** in the current 1,200-row CSV are actually dead. The other 921 are from boards removed in earlier CSV versions — they don't slow down batches.
 - **Oracle was broken since day one.** `fetch_oracle` was returning the search container (`items` list, each a dict with `SearchId`, `Keyword`, etc.) instead of `items[0].get("requisitionList")`. This produced `oracle:url:` junk keys and 0 Oracle jobs ever entering `seen.json`. Fixed in commit `804f627b`.
@@ -53,19 +55,22 @@ Note: 100% location pass on Microsoft/Amazon/NVIDIA is expected — those querie
 
 - **[low] Boards recall spot-check.** Title pass rates (23–37%) and location drop-offs after title (Ashby 24%, Workday 26%) look like normal filtering of all-department global boards, but that's unverified. Someday: eyeball a sample of title-rejected and location-rejected jobs on one high-volume source to confirm the filters aren't dropping real US engineering roles.
 
-## Future roadmap — board expansion (designed 2026-06-02, NOT started)
+## Board expansion — DONE (GH/Lever shard live 2026-07-01)
 
-### Architecture decision: multi-pipeline sharding
-Keep the existing 1,200-board pipeline **untouched** as the fast lane. Add coverage as **separate parallel pipelines** (`boards2.yml`, `boards3.yml` …), each ~2,000 boards, each with its own disjoint CSV + cursor + seen-file + cron-job.org trigger; stagger schedules so shards don't hit the same ATS concurrently. Target ~6,200 total (1,200 + ~2k + ~2k).
+### Architecture: multi-pipeline sharding (implemented)
+The existing 1,200-board pipeline (`boards.yml`) remains **untouched** as the fast lane. New coverage was added as a **separate parallel pipeline** (`boards2.yml`) with its own disjoint CSV, cursor, seen-file, and cron-job.org trigger. This keeps the 1,200 truly untouched and fault-isolated.
 
-Separate pipelines chosen over appending to the 1,200 CSV because appending changes how often existing boards get swept (bigger cursor = slower revisit); separate shards keep the 1,200 truly untouched and fault-isolated.
+**Current system: 3 pipelines, ~7,366 boards total**
+| Pipeline | Workflow | Boards | Cadence | Batch size |
+|---|---|---|---|---|
+| watcher | `watcher.yml` | 6 hardcoded companies | 10 min | — |
+| boards | `boards.yml` | 1,200 (GH/Lever/SR/WD/Ashby) | 30 min | 200 |
+| boards2 | `boards2.yml` | 6,166 (GH+Lever net-new) | 30 min | 2,000 |
 
-### First move: Greenhouse + Lever (agreed next step, NOT built)
-Lead with GH + Lever: cheapest platforms (1 GET/board, ~18 boards/sec on no-WD batches) and the only two with easy 304 change-detection. A single GH/Lever shard could sweep ~5k boards in ~5 min → cycles in 10–30 min, faster than the current pipeline.
+### First move: Greenhouse + Lever — COMPLETE
+Lead with GH + Lever: cheapest platforms (1 GET/board, ~18 boards/sec on no-WD batches). Liveness-verified 6,407 candidates → 6,166 alive (96.2%), bootstrapped silently, deployed 2026-07-01. First live run 16:39Z: 2,000 boards, 4 new jobs emailed.
 
-Plan: extract net-new GH/Lever (verified lists minus current 1,200, deduped by slug) → async liveness-verify each → deploy as a separate pipeline. Zero risk to the working pipeline.
-
-Workday = cost driver (4–26 API calls/board, no cheap change-detection): defer to its own shard with small batch + app-level count caching; slower cycle acceptable.
+Workday = cost driver (4–26 API calls/board, no cheap change-detection): defer to its own shard if/when needed.
 
 ### Measurement findings (2026-06-02, from run_log.json + watcher.py inspection)
 - **Huge headroom:** 200-board runs finish ~95s avg / 126s max of the 900s timeout (~14% used). Batch 200 is very conservative — adding boards need not hurt per-run latency if batch size scales up.
@@ -114,14 +119,14 @@ All 241 dead boards were clean 404s — zero timeouts, zero retries needed. Outp
 
 All five env vars are disjoint — `STATE_PATH`, `BOARDS_CURSOR_PATH`, `BOARDS_SEEN_PATH`, `BOARDS_DEAD_PATH`, `BOARDS_DEAD_DETAILS_PATH` — so boards2 cannot collide with the live 1,200 pipeline.
 
-**LIVE as of 2026-07-01T16:39Z.** First `workflow_dispatch` run confirmed success: processed 2,000 GH boards (cursor 0→2000), fetched 57,985 jobs, 3,524 loc_ok, 4 new/emailed, 19s. `seen_boards2.json` grew 9,767→9,771; `boards2_cursor.json`=2000; `seen_boards.json` (live 1,200) untouched. 30-min cadence pending second run confirmation. All three cron-job.org jobs share PAT expiring **2026-08-31**.
+**LIVE as of 2026-07-01T16:39Z.** First `workflow_dispatch` run confirmed success: processed 2,000 GH boards (cursor 0→2000), fetched 57,985 jobs, 3,524 loc_ok, 4 new/emailed, 19s. `seen_boards2.json` grew 9,767→9,771; `boards2_cursor.json`=2000; `seen_boards.json` (live 1,200) untouched. 30-min cadence confirmed. All three cron-job.org jobs share PAT expiring **2026-08-31** — **exposed in screenshot 2026-07-01, rotate soon**.
 
 ### Open questions (deferred)
 - Job-text eligibility filter across ALL pipelines: drop roles requiring security clearance / "US citizen or PR required" / ITAR (ineligible on OPT); optionally flag "no sponsorship" (H-1B needed later). High value, situation-specific.
 
 ## Recent changes
 
-- **2026-07-01** — boards2 LIVE. First workflow_dispatch at 16:39Z: success, 2,000 GH boards, 4 new jobs emailed, cursor→2000, boards2 state files updated, live-1200 state untouched. 30-min cadence pending second run. PAT shared by all 3 cron-job.org jobs expires 2026-08-31.
+- **2026-07-01** — boards2 LIVE. First workflow_dispatch at 16:39Z: success, 2,000 GH boards, 4 new jobs emailed, cursor→2000, boards2 state files updated, live-1200 state untouched. 30-min cadence confirmed. PAT shared by all 3 cron-job.org jobs expires 2026-08-31 — **exposed in screenshot 2026-07-01, rotate soon**. System now sweeps ~7,366 total boards across 3 pipelines.
 - **2026-07-01** — boards2 pipeline built and seeded. `boards2.yml` created (batch_size=2000, cron fallback `43 */3 * * *`, concurrency=`job-watcher-boards2`). Bootstrap run seeded `seen_boards2.json` with 9,767 job IDs across 6,166 boards (181s). All state paths disjoint. Awaiting cron-job.org trigger (manual browser step).
 - **2026-07-01** — Liveness probe complete. Probed 6,407 net-new GH+Lever boards in 73s; 6,166 alive (96.2%), 241 dead (all clean 404s). Output: `data/boards/greenhouse_lever_verified_live.csv`. Shard pipeline is the only remaining step.
 - **2026-07-01** — Inventory unblocked. Root cause of zero-overlap false alarm: GH hostname mismatch (`boards.greenhouse.io` vs `job-boards.greenhouse.io`). Canonical dedup key: `urlparse(url).path.split('/')[1].lower()`. Net-new: GH 4,659 + Lever 1,806 = 6,465 (all genuinely new, 0 overlap with live 1,200). GH/Lever shard marked ready to build.
