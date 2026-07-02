@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-07-02T07:01:26.225799+00:00",
+  "updated_utc": "2026-07-02T07:31:13.185475+00:00",
   "dead_details": {
     "lever:livechatinc": {
       "first_seen_utc": "2026-07-01T19:31:29.430568+00:00",
@@ -13,6 +13,15 @@
     "greenhouse:cytokinetics": {
       "first_seen_utc": "2026-07-02T07:01:10.506504+00:00",
       "last_seen_utc": "2026-07-02T07:01:10.506504+00:00",
+      "platform": "greenhouse",
+      "company": "",
+      "board_url": "",
+      "last_status": 404,
+      "last_error": "HTTP 404/410 (board not found)"
+    },
+    "greenhouse:paystack": {
+      "first_seen_utc": "2026-07-02T07:30:59.571148+00:00",
+      "last_seen_utc": "2026-07-02T07:30:59.571148+00:00",
       "platform": "greenhouse",
       "company": "",
       "board_url": "",
