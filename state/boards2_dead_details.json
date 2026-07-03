@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-07-03T03:01:06.581384+00:00",
+  "updated_utc": "2026-07-03T03:31:49.208897+00:00",
   "dead_details": {
     "lever:livechatinc": {
       "first_seen_utc": "2026-07-01T19:31:29.430568+00:00",
@@ -49,6 +49,15 @@
     "lever:zurigroup": {
       "first_seen_utc": "2026-07-02T22:30:58.696435+00:00",
       "last_seen_utc": "2026-07-02T22:30:58.696435+00:00",
+      "platform": "lever",
+      "company": "",
+      "board_url": "",
+      "last_status": 404,
+      "last_error": "HTTP 404/410 (board not found)"
+    },
+    "lever:super-com": {
+      "first_seen_utc": "2026-07-03T03:31:42.324882+00:00",
+      "last_seen_utc": "2026-07-03T03:31:42.324882+00:00",
       "platform": "lever",
       "company": "",
       "board_url": "",
