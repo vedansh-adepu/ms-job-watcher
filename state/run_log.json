@@ -1,56 +1,5 @@
 [
   {
-    "ts": "2026-06-28T11:30Z",
-    "mode": "main",
-    "per_source": {
-      "microsoft": {
-        "fetched": 147,
-        "title_ok": 88,
-        "loc_ok": 88,
-        "new": 0,
-        "emailed": 0
-      },
-      "amazon": {
-        "fetched": 300,
-        "title_ok": 273,
-        "loc_ok": 273,
-        "new": 0,
-        "emailed": 0
-      },
-      "nvidia": {
-        "fetched": 30,
-        "title_ok": 29,
-        "loc_ok": 29,
-        "new": 0,
-        "emailed": 0
-      },
-      "goldman_sachs": {
-        "fetched": 0,
-        "title_ok": 0,
-        "loc_ok": 0,
-        "new": 0,
-        "emailed": 0
-      },
-      "ibm": {
-        "fetched": 0,
-        "title_ok": 0,
-        "loc_ok": 0,
-        "new": 0,
-        "emailed": 0,
-        "error": "IBM fetch: HTTPError: 503 Server Error: Service Unavailable for url: https://www-api.ibm.com/search/api/v2"
-      },
-      "oracle": {
-        "fetched": 1,
-        "title_ok": 0,
-        "loc_ok": 0,
-        "new": 0,
-        "emailed": 0
-      }
-    },
-    "duration_s": 14.3,
-    "cursor": null
-  },
-  {
     "ts": "2026-06-28T11:40Z",
     "mode": "main",
     "per_source": {
@@ -45550,5 +45499,20 @@
     },
     "duration_s": 9.2,
     "cursor": null
+  },
+  {
+    "ts": "2026-07-04T21:31Z",
+    "mode": "boards",
+    "per_source": {
+      "greenhouse": {
+        "fetched": 57053,
+        "title_ok": 8931,
+        "loc_ok": 3468,
+        "new": 0,
+        "emailed": 0
+      }
+    },
+    "duration_s": 19.7,
+    "cursor": 4000
   }
 ]
