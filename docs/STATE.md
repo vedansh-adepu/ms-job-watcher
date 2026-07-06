@@ -36,7 +36,13 @@
 - **Workday URL normalization is complex.** `workday_normalize_external_job_url` handles 5 path shapes. Bugs here produce unclickable links in emails.
 - **US location filtering** uses state abbreviation regex + ISO 3166 country-code blocklist. International cities with US-state-like abbreviations were fixed Apr 1 2026.
 - **Concurrency:** ThreadPoolExecutor with per-platform semaphores (GH=8, Lever=8, SR=6, WD=4, Ashby=6). Workday is most restrictive.
-- **Email:** Gmail SMTP SSL on port 465. Secrets: `EMAIL_USER`, `EMAIL_APP_PASSWORD`, `ALERT_TO_EMAIL`.
+- **Email:** Gmail SMTP SSL on port 465. Secrets: `EMAIL_USER`, `EMAIL_APP_PASSWORD`, `ALERT_TO_EMAIL`. Subject prefixes per pipeline:
+  | Pipeline | Subject prefix | Gmail search |
+  |---|---|---|
+  | watcher (main) | `[Job Alerts]` | `subject:[Job Alerts]` |
+  | boards (boards.yml) | `[Boards Alerts]` | `subject:[Boards Alerts]` |
+  | boards2 (boards2.yml) | `[Boards2 Alerts]` | `subject:[Boards2 Alerts]` |
+  Override via `SUBJECT_PREFIX` env var in the workflow — absent = falls back to `[Boards Alerts]`.
 - **Recall-first philosophy:** a missed job (false negative) is expensive; a junk alert (false positive) is cheap. When in doubt, err toward alerting.
 - **Security:** Full git-history scan was clean (no secrets ever committed). `.gitleaks.toml` added with `[extend] useDefault = true` + allowlist for `state/*.json`. The local-only `data/boards/workday_debug/` directory contains HAR files with expired AWS STS credentials — never committed, optional cleanup: `rm -rf data/boards/workday_debug/`.
 - **Full architecture reference:** see `docs/ARCHITECTURE.md` — repo map, full function index, runtime traces, external API surface, and ranked risk findings.
@@ -173,6 +179,9 @@ p90 api_calls = 26 (= 25 POSTs + 1 GET) means the majority of large boards hit t
 - Consider Workday `--boards-batch-size 50` and revisit after measuring first live run
 
 ## Recent changes
+
+- **2026-07-06** — Per-pipeline email subject prefixes added. `SUBJECT_PREFIX` env var in boards2.yml sets `[Boards2 Alerts]`; boards1 keeps `[Boards Alerts]`; main keeps `[Job Alerts]`. Gmail searches: `subject:[Job Alerts]` (main), `subject:[Boards Alerts]` (boards1), `subject:[Boards2 Alerts]` (boards2/GH+Lever shard).
+- **2026-07-06 — FALSE ALARM: boards2 was never broken.** Earlier diagnostic (reading run_log.json) concluded boards2 ran only ~34 times over 5 days (3.4h cadence). **This was wrong.** `gh run list` confirms boards2 ran **273 times Jul 1–6** with a **perfect 30-min median gap and zero gaps > 60 min** (242 workflow_dispatch + 31 schedule, all success). The "34 runs" figure was a run_log.json artifact: run_log is a bounded 1000-entry JSON array rewritten in full by every pipeline. With main firing 6× more often than boards2, main's concurrent writes win the merge conflict race almost every time — run_log currently shows **0 boards2 entries** despite 273 actual runs. boards2_cursor.json advancing (0→2000→4000→6000) is the reliable signal that boards2 is sweeping correctly. **Do not re-investigate boards2 cadence based on run_log.json counts alone — use `gh run list --workflow=boards2.yml` instead.**
 
 - **2026-07-01** — Workday boards3 sizing complete. Probed 4,768 net-new WD boards: 4,651 alive (97.5%), 77 already in live 1200. Cost sample (200 boards): avg 21.5 API calls/board, p90 40.5s/board wall time. Recommendation: batch_size=50, two shards (boards3a+b ~2,325 each), 30-min cadence → ~22.5h cycle per shard. Live CSV: `data/boards/workday_verified_live.csv` (4,651 rows). Report: `data/boards/workday_sizing_report.txt`. No pipeline built yet.
 - **2026-07-01** — `classify_title` widened for data-engineering family (additive only, commit `595355dc`). Added to `STRONG_INCLUDE_PHRASES`: `"dataops"`, `"data ops"`, `"data operations engineer"`, `"data architect"`, `"data quality engineer"`. Added `has_dqe` carve-out in the hard-exclude loop so "Data Quality Engineer" is not blocked by the existing `"quality engineer"` hard-exclude (parallel to SDET exception). No existing terms removed or narrowed. Previously missed: DataOps Engineer, Data Operations Engineer (both dropped by "ops"/"operations" soft-exclude with no STRONG override); Data Architect (no weak/strong match); Data Quality Engineer (hard-excluded). All now pass. QA/DevOps exclusions unaffected.

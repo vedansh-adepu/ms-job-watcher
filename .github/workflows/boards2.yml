@@ -45,6 +45,7 @@ jobs:
           BOARDS_SEEN_PATH: state/boards2_seen.json
           BOARDS_DEAD_PATH: state/boards2_dead.json
           BOARDS_DEAD_DETAILS_PATH: state/boards2_dead_details.json
+          SUBJECT_PREFIX: "[Boards2 Alerts]"
         run: |
           python watcher.py --mode boards --boards-batch-size 2000
 

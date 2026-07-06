@@ -2172,6 +2172,7 @@ if __name__ == "__main__":
             if bootstrap_boards:
                 boards_seen.update(bootstrap_boards)
 
+            _subject_prefix = os.getenv("SUBJECT_PREFIX") or "[Boards Alerts]"
             if args.test_email:
                 sample_yes = [j for j in matched if classify_title(j.get("title", "")) == "yes"][:2]
                 sample_maybe = [j for j in matched if classify_title(j.get("title", "")) == "maybe"][:1]
@@ -2180,7 +2181,7 @@ if __name__ == "__main__":
                 if args.no_email:
                     print(f"[TEST] no-email enabled; would have sent {len(sample_yes) + len(sample_maybe)} job(s) to {ALERT_TO_EMAIL}.")
                 else:
-                    send_email_digest(sample_yes, sample_maybe, subject_prefix="[TEST Boards Alerts]")
+                    send_email_digest(sample_yes, sample_maybe, subject_prefix="[TEST " + _subject_prefix.lstrip("["))
                     print(f"[TEST] Sent a test boards email with {len(sample_yes) + len(sample_maybe)} job(s) to {ALERT_TO_EMAIL}.")
 
                 if not args.dry_run:
@@ -2229,7 +2230,7 @@ if __name__ == "__main__":
                 if args.no_email:
                     print(f"[ALERT] no-email enabled; {len(new_yes)} yes + {len(new_maybe)} maybe new job(s) detected (not emailed).")
                 else:
-                    send_email_digest(new_yes, new_maybe, subject_prefix="[Boards Alerts]")
+                    send_email_digest(new_yes, new_maybe, subject_prefix=_subject_prefix)
                     print(f"[ALERT] Sent boards digest for {len(new_yes)} yes + {len(new_maybe)} maybe new job(s).")
                     for _j in new_yes + new_maybe:
                         _plat = (_j.get("key") or "").split(":")[0]
