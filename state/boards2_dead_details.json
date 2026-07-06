@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-07-06T06:31:24.074766+00:00",
+  "updated_utc": "2026-07-06T07:01:20.389156+00:00",
   "dead_details": {
     "lever:livechatinc": {
       "first_seen_utc": "2026-07-01T19:31:29.430568+00:00",
@@ -76,6 +76,15 @@
     "greenhouse:aiserajobs": {
       "first_seen_utc": "2026-07-06T06:30:52.151959+00:00",
       "last_seen_utc": "2026-07-06T06:30:52.151959+00:00",
+      "platform": "greenhouse",
+      "company": "",
+      "board_url": "",
+      "last_status": 404,
+      "last_error": "HTTP 404/410 (board not found)"
+    },
+    "greenhouse:rxvantage": {
+      "first_seen_utc": "2026-07-06T07:01:12.972239+00:00",
+      "last_seen_utc": "2026-07-06T07:01:12.972239+00:00",
       "platform": "greenhouse",
       "company": "",
       "board_url": "",
