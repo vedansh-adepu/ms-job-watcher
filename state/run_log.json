@@ -44855,22 +44855,43 @@
     "cursor": null
   },
   {
-    "ts": "2026-07-06T20:31Z",
+    "ts": "2026-07-06T20:33Z",
     "mode": "boards",
     "per_source": {
       "greenhouse": {
-        "fetched": 14728,
-        "title_ok": 2159,
-        "loc_ok": 824,
-        "new": 4,
-        "emailed": 4
+        "fetched": 10581,
+        "title_ok": 3526,
+        "loc_ok": 2084,
+        "new": 7,
+        "emailed": 7
       },
       "lever": {
-        "fetched": 46811,
-        "title_ok": 6189,
-        "loc_ok": 1814,
-        "new": 6,
-        "emailed": 6
+        "fetched": 605,
+        "title_ok": 63,
+        "loc_ok": 47,
+        "new": 0,
+        "emailed": 0
+      },
+      "ashby": {
+        "fetched": 134,
+        "title_ok": 39,
+        "loc_ok": 0,
+        "new": 0,
+        "emailed": 0
+      },
+      "smartrecruiters": {
+        "fetched": 1282,
+        "title_ok": 280,
+        "loc_ok": 101,
+        "new": 0,
+        "emailed": 0
+      },
+      "workday": {
+        "fetched": 10657,
+        "title_ok": 2405,
+        "loc_ok": 798,
+        "new": 16,
+        "emailed": 16
       }
     },
     "duration_s": 58.7,
