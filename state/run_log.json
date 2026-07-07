@@ -44539,15 +44539,15 @@
     "cursor": null
   },
   {
-    "ts": "2026-07-07T22:20Z",
+    "ts": "2026-07-07T22:21Z",
     "mode": "main",
     "per_source": {
       "microsoft": {
-        "fetched": 146,
-        "title_ok": 75,
-        "loc_ok": 75,
-        "new": 0,
-        "emailed": 0
+        "fetched": 147,
+        "title_ok": 76,
+        "loc_ok": 76,
+        "new": 1,
+        "emailed": 1
       },
       "amazon": {
         "fetched": 300,
@@ -44585,7 +44585,7 @@
         "emailed": 0
       }
     },
-    "duration_s": 9.8,
+    "duration_s": 12.5,
     "cursor": null
   },
   {
