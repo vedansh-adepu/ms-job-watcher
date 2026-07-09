@@ -3235,5 +3235,44 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-09T21:02:51.418609+00:00",
     "emailed_utc": "2026-07-09T21:02:51.418609+00:00"
+  },
+  {
+    "job_id": "greenhouse:virtru:4713518005",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "virtru",
+    "title": "Forward Deployed Engineer - Security Clearance Required",
+    "location": "Livermore, CA",
+    "posted": "2026-07-09T14:35:00-04:00",
+    "url": "https://job-boards.greenhouse.io/virtru/jobs/4713518005",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-09T21:32:05.134563+00:00",
+    "emailed_utc": "2026-07-09T21:32:05.134563+00:00"
+  },
+  {
+    "job_id": "ashby:nivoda:09fc4f29-1883-4579-bc3a-5ad4543eb810",
+    "pipeline": "boards",
+    "platform": "ashby",
+    "company": "Nivoda",
+    "title": "Senior Fullstack Engineer",
+    "location": "US",
+    "posted": "",
+    "url": "https://jobs.ashbyhq.com/nivoda/09fc4f29-1883-4579-bc3a-5ad4543eb810",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-09T21:32:05.134563+00:00",
+    "emailed_utc": "2026-07-09T21:32:05.134563+00:00"
+  },
+  {
+    "job_id": "ashby:clickup:3748c7fd-6564-418e-9a35-fca5d40e326f",
+    "pipeline": "boards",
+    "platform": "ashby",
+    "company": "Clickup",
+    "title": "Director, Software Engineering",
+    "location": "United States",
+    "posted": "",
+    "url": "https://jobs.ashbyhq.com/clickup/3748c7fd-6564-418e-9a35-fca5d40e326f",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-09T21:32:05.134563+00:00",
+    "emailed_utc": "2026-07-09T21:32:05.134563+00:00"
   }
 ]
