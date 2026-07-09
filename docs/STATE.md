@@ -2,9 +2,9 @@
 
 ## Current status
 
-**Three pipelines running as of 2026-07-01 — ~7,366 total boards.** External triggering via cron-job.org verified for all three. Pipeline 1 (`--mode main`) polls Microsoft, NVIDIA, Amazon, Goldman Sachs, IBM, and Oracle (10-min cadence). Pipeline 2 (`boards.yml`) sweeps 1,200 ATS boards — GH/Lever/SR/Workday/Ashby — in batches of 200 (30-min cadence). **Pipeline 3 (`boards2.yml`) is LIVE** — sweeps 6,166 net-new GH+Lever boards in batches of 2,000 (30-min cadence); first `workflow_dispatch` run landed 2026-07-01T16:39Z (success, 19s, 4 new jobs emailed, cursor→2000).
+**Four pipelines running — ~9,691 total boards.** External triggering via cron-job.org for all four; daily watchdog fires at 09:00 UTC via GitHub-native schedule (no PAT required). Pipeline 1 (`--mode main`) polls Microsoft, NVIDIA, Amazon, Goldman Sachs, IBM, and Oracle (10-min cadence). Pipeline 2 (`boards.yml`) sweeps 1,200 ATS boards in batches of 200 (30-min cadence). Pipeline 3 (`boards2.yml`) sweeps 6,166 GH+Lever boards in batches of 2,000 (30-min cadence). **Pipeline 4 (`boards3.yml`) sweeps 2,325 Workday boards in batches of 20 (30-min cadence, 58.5h full cycle) — first `[Boards3 Alerts]` expected ~2026-07-11; silence before then is EXPECTED.** Tracking layer COMPLETE as of 2026-07-08: schema validation on all state-file loaders, per-pipeline silent-source alarm (3 consecutive zeros → `[Watcher ALERT]`), daily watchdog (`GITHUB_TOKEN`, survives PAT expiry), and per-pipeline emailed-job records. Watchdog verified 2026-07-09T02:24Z: all four pipelines healthy (main 2.8 min · boards 20.8 min · boards2 22.3 min · boards3 14.2 min), no false alert, 8s runtime.
 
-> **PAT SECURITY REMINDER (2026-07-01):** The fine-grained PAT used to trigger all three cron-job.org jobs was **exposed in a screenshot on 2026-07-01**. It expires **2026-08-31** — rotate it well before that date. On rotation: update the `Authorization: Bearer <token>` header in **all three** cron-job.org jobs (watcher, boards, boards2). If all three pipelines go silent simultaneously, the PAT is the first suspect.
+> **PAT SECURITY REMINDER (2026-07-01):** The fine-grained PAT used to trigger all **four** cron-job.org jobs was **exposed in a screenshot on 2026-07-01**. It expires **2026-08-31** — rotate it well before that date. On rotation: update the `Authorization: Bearer <token>` header in **all four** cron-job.org jobs (watcher, boards, boards2, boards3). The watchdog (`GITHUB_TOKEN`-based) catches expiry within 24h but does not prevent it.
 
 ## Open bugs / issues
 
@@ -233,7 +233,62 @@ p90 api_calls = 26 (= 25 POSTs + 1 GET) means the majority of large boards hit t
 - No overlap with boards2 (GH/Lever only) — 0 shared boards
 - Consider Workday `--boards-batch-size 50` and revisit after measuring first live run
 
+## Workday probe redesign (PROPOSED, not built)
+
+An external review (2026-07-09) identified that boards3 does a full crawl of every board every cycle — 21.5 API calls/board on average — to answer a question that costs 1 call in the steady state.
+
+**Proposed steady-state probe:** 1 POST: page 1, limit=20, offset=0. Diff those 20 IDs against the seen-file. All 20 seen → board is quiet; done (1 call total). Any unseen → page forward until a fully-seen page is found (typically 1–3 extra pages for active boards).
+
+**Critical unverified assumption:** This rests on Workday CXS default ordering (empty `searchText`) being **newest-first by posted date**. This is **UNVERIFIED**. If any tenant sorts by something else (alphabetical, relevance), the probe reads 20 old jobs, concludes "no news," and that board goes silently dark forever. The silent-source alarm cannot detect this — a deep fetch never fires, so the counter stays at 0.
+
+**Prerequisites before building:**
+1. **Calibration crawl:** For a sample of tenants (≥50 boards across size tiers), compare page-1 IDs on two consecutive deep fetches. Confirm new jobs appear on page 1. Validates newest-first ordering empirically.
+2. **Safety net by construction — candidates:**
+   - Explicit sort parameter in the CXS API (if it exists) — safest if documented.
+   - `total`-delta cross-check: if job count unchanged since last visit, skip. Weak: add+remove cancels, so count unchanged ≠ board unchanged.
+   - Rotating randomized deep-crawl audit: ~2% of boards per run get a full fetch regardless. Covers every board statistically in ~50 runs (~25 days). Silent-recall holes surface within a month.
+
+**Projected gain if safe:** 2,325 boards × 1 call ÷ 4 threads ≈ 9.7 min for the entire Workday estate (vs. 58.5h full cycle currently). The unused `data/boards/workday_shard_b.csv` (2,326 boards) becomes absorbable for free — both shards in one 30-min run.
+
+**Also proposed:** Raise the Workday concurrency semaphore above 4 (zero rate-limiting observed across 4,651 probed boards; distinct hostnames suggest per-tenant isolation). Verify shared WAF behavior first. Do NOT use `searchText` to narrow server-side (opaque relevance = silent recall loss). The `locationCountry` facet is safer but must fail open.
+
+**Status: Proposed only. No code written. Do not build before the calibration crawl.**
+
+---
+
+## Open review items (from external critique, not yet decided)
+
+Items raised 2026-07-09. None implemented. Each is a decision point, not a filed bug.
+
+- **Circuit breaker on send:** If a run would email >~200 jobs, quarantine the batch to a file, alert once with the count, require manual release. Do not abort (loses the batch); do not advance `seen_ids` before email (silent recall loss). Threshold needs a baseline of normal volumes first.
+
+- **Audit send/commit ordering:** `seen_ids` is committed after successful email send (email-then-commit = at-least-once). If the git push fails after 5 retries, the next run re-emails the same jobs. This is the correct failure mode (duplicate alert vs. silent miss) — worth documenting so it's not "fixed" by accident into at-most-once.
+
+- **Golden-set tests for `classify_title` / `is_us_location`:** A CSV of (input → expected output) covering every past bug as a regression case. Highest recall-safety ROI per effort; still not built. The classifier has been widened additive-only so far with no automated verification.
+
+- **Rolling-baseline drop detection:** The 3-consecutive-zeros alarm misses sources that fetch a nonzero but suspiciously low count — GS (~2 jobs/run, never zero) or NVIDIA (pinned at exactly 20, suggesting a hard cap). An EWMA-based "N-sigma below recent average" alarm or a frozen-count detector would catch these. Not implemented.
+
+- **Pagination-cap detector:** For sources that expose `total` (Amazon, IBM, Oracle), assert `len(collected) >= min(total, cap)`. A silent cap truncating real jobs is currently undetectable.
+
+- **Per-board productivity tracking → slow-tier demotion:** Track jobs-emailed per board over a rolling window. Zero-productivity boards over ~30 days could be swept weekly instead of every cycle. Do NOT prune — a quiet board may post a target role tomorrow. Pruning is a recall decision disguised as efficiency.
+
+- **Sampled reject storage:** Keep ~100% of near-miss rejects (passed title, failed location; or `"maybe"` not `"yes"`). Keep 1–5% of clear rejects (`classify_title == "no"`) for periodic audits. This is where silent recall loss most often hides.
+
+- **First-seen → first-emailed latency:** Store `posted_at` (from source), `first_seen_utc` (when key first enters `seen_ids`, not when emailed), and `first_emailed_utc`. The gap validates the project's premise. Currently `emailed_*.json` sets `first_seen_utc = emailed_utc` — they're the same field today.
+
+- **Structural — 4 copy-pasted pipelines:** `watcher.yml` / `boards.yml` / `boards2.yml` / `boards3.yml` share identical commit/push logic. The `run_log.json` race, boards3 schema crash, and subject-prefix omissions were all copy-paste drift bugs. A config-table-driven single code path would prevent this. **Not now** — after Workday probe redesign, when the pipeline count stabilizes.
+
+- **Structural — `main` pipeline's 6 bespoke scrapers:** 4 of the 10 known bugs were in main mode. NVIDIA is on Workday CXS; Microsoft is on Eightfold — both have proven ATS adapters in the boards pipeline. Retiring bespoke scrapers onto proven ATS paths would reduce maintenance surface but would sacrifice the 10-min priority cadence.
+
+- **Security — public repo exposes state:** Repo is public to lift the Actions free-tier minutes cap. `state/emailed_*.json` exposes emailed job records, target companies, and classification decisions publicly. Consider code-public / state-private (separate branch + restricted Actions). Not urgent while PAT rotation is the higher risk.
+
+- **PAT rotation (deadline 2026-08-31):** GitHub → Settings → Developer settings → Fine-grained tokens → new token (repo: ms-job-watcher, Actions: Read and Write) → paste `Bearer <new-token>` into Authorization header of **all four** cron-job.org jobs → test each (expect HTTP 204) → revoke old token. The watchdog catches expiry within 24h but does not prevent the outage.
+
+---
+
 ## Recent changes
+
+- **2026-07-08 (session summary)** — Tracking layer COMPLETE and verified. (1) Schema validation on all state-file loaders: JSON parse failure on `seen_ids`/`run_log` → `[FATAL]` + exit 1 (empty fallback = re-alert flood or log corruption); parse failure on `cursor`/`boards_seen`/`boards_dead` → `[ERROR]` + safe default (recovers next run); wrong type anywhere → `[FATAL]` + exit 1. (2) Silent-source alarm: per-pipeline `state/source_health_{pipeline}.json` tracks consecutive zero-fetch runs per source; 3 consecutive → `[Watcher ALERT]` aggregate email; fetch errors skip the counter (error ≠ silence). Boards mode: 3 consecutive batches where known boards return 0 total fetched. (3) Daily watchdog: `scripts/watchdog.py` + `.github/workflows/watchdog.yml`, fires 09:00 UTC GitHub-native schedule (no cron-job.org PAT), checks last successful run via `GITHUB_TOKEN` (auto-provided, read-only Actions:read); API errors skipped, never-ran treated as stale. Verified 2026-07-09T02:24Z: all four pipelines healthy, no false alert, 8s runtime. Job storage: every emailed job recorded per-pipeline to `state/emailed_{pipeline}.json`; queryable via `scripts/show_emailed.py --since N --pipeline X --bucket yes/maybe`.
 
 - **2026-07-08** — Watchdog workflow added (commit `9bce127b3`). `scripts/watchdog.py` + `.github/workflows/watchdog.yml`. Fires daily at 09:00 UTC via GitHub-native `schedule:` — independent of cron-job.org PAT. Checks each pipeline's last successful run via `GITHUB_TOKEN` (auto-provided, no custom PAT). Thresholds: main >20 min (2× 10-min cadence), boards/boards2/boards3 >60 min (2× 30-min cadence). Sends one aggregate `[Watcher ALERT]` email per day if any pipeline is stale. API errors are skipped (state unknown ≠ stale); "no successful runs found" is treated as stale. If the cron-job.org PAT expires and all four pipelines go silent simultaneously, the watchdog will catch it within 24 hours.
 

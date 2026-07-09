@@ -19,11 +19,20 @@
 | `verify_workday.py` | [code] | Standalone verifier for Workday boards CSV. Not imported by watcher.py. |
 | `requirements.txt` | [config] | `requests`, `urllib3` only. |
 
+### Scripts `[code]`
+| File | Tag | Notes |
+|---|---|---|
+| `scripts/show_emailed.py` | [code] | CLI: union view of `state/emailed_*.json`. Options: `--since N` (days), `--pipeline X`, `--bucket yes\|maybe`, `--tail N`. Stdlib only. |
+| `scripts/watchdog.py` | [code] | CLI: queries GitHub Actions API for each pipeline's last successful run; emails `[Watcher ALERT]` if any is stale. Stdlib only (no pip install). |
+
 ### GitHub Actions `[workflow]`
 | File | Tag |
 |---|---|
-| `.github/workflows/watcher.yml` | [workflow] — main sources, every ~20 min |
-| `.github/workflows/boards.yml` | [workflow] — ATS board sweep, every ~30 min |
+| `.github/workflows/watcher.yml` | [workflow] — main sources, every ~10 min (cron-job.org dispatch) |
+| `.github/workflows/boards.yml` | [workflow] — ATS board sweep (1,200 boards), every ~30 min |
+| `.github/workflows/boards2.yml` | [workflow] — GH+Lever shard (6,166 boards), every ~30 min |
+| `.github/workflows/boards3.yml` | [workflow] — Workday shard A (2,325 boards), every ~30 min |
+| `.github/workflows/watchdog.yml` | [workflow] — daily staleness check at 09:00 UTC, GitHub-native schedule (no cron-job.org PAT) |
 
 ### Config `[config]`
 | File | Tag |
@@ -125,21 +134,35 @@ These are pipeline artifacts from board curation. `watcher.py` never loads any o
 | `_get_session` | `(bucket: str = "default") -> requests.Session` | Returns thread-local session for a named bucket (one per thread per platform) | None |
 
 ### State I/O (lines 543–692)
+
+**Schema validation (added 2026-07-08):** All loaders distinguish parse errors from schema errors. JSON parse failure on `seen_ids` → `[FATAL]` + exit 1 (empty fallback = re-alert flood). Parse failure on `cursor`/`boards_seen`/`boards_dead` → `[ERROR]` + safe default (these recover next run; transient rebase truncation). Wrong schema type on any loader → `[FATAL]` + exit 1 with file/expected/actual in message.
+
 | Function | Signature | Purpose | Side effects |
 |---|---|---|---|
 | `_atomic_write_json` | `(path, payload, indent)` | Writes JSON atomically via tempfile + `os.replace` | **Writes file** |
-| `load_seen_ids` | `(path: str) -> Set[str]` | Reads `seen_ids` list from JSON into a set | Reads file |
+| `load_seen_ids` | `(path: str) -> Set[str]` | Reads `seen_ids` list. Parse fail → fatal exit. Schema wrong → fatal exit. | Reads file |
 | `save_seen_ids` | `(path: str, seen_ids: Set[str])` | Persists sorted seen_ids set | **Writes file** |
-| `load_boards_cursor` | `(path: str) -> int` | Reads integer cursor | Reads file |
+| `load_boards_cursor` | `(path: str) -> int` | Reads integer cursor. Parse fail → `[ERROR]` + return 0. Schema wrong → fatal exit. | Reads file |
 | `save_boards_cursor` | `(path: str, cursor: int)` | Persists cursor | **Writes file** |
-| `load_boards_seen` | `(path: str) -> Set[str]` | Reads bootstrapped board ID set | Reads file |
+| `load_boards_seen` | `(path: str) -> Set[str]` | Reads bootstrapped board ID set. Parse fail → `[ERROR]` + return ∅. Schema wrong → fatal exit. | Reads file |
 | `save_boards_seen` | `(path: str, boards_seen: Set[str])` | Persists board ID set | **Writes file** |
-| `load_boards_dead` | `(path: str) -> Set[str]` | Reads dead board ID set | Reads file |
+| `load_boards_dead` | `(path: str) -> Set[str]` | Reads dead board ID set. Parse fail → `[ERROR]` + return ∅. Schema wrong → fatal exit. | Reads file |
 | `save_boards_dead` | `(path: str, boards_dead: Set[str])` | Persists dead board ID set | **Writes file** |
 | `load_dead_details` | `(path: str) -> Dict` | Reads dead board detail records | Reads file |
 | `save_dead_details` | `(path: str, dead_details: Dict)` | Persists dead board detail records | **Writes file** |
 | `upsert_dead_detail` | `(dead_details, *, board_id, platform, company, board_url, status, error)` | Updates a single dead board record in-memory | None (caller must save) |
 | `export_dead_boards_csv` | `(dead_details, out_path: str)` | Writes dead board CSV report | **Writes file** (only if `--export-dead-csv` passed) |
+
+### Tracking layer — health monitoring & job storage (added 2026-07-08)
+
+| Function | Signature | Purpose | Side effects |
+|---|---|---|---|
+| `_send_plain_email` | `(subject, body) -> None` | Sends plain-text alert via Gmail SMTP SSL port 465. Used for `[Watcher ALERT]` messages — distinct subject prefix from job digest emails so it can't get lost. | **Network: SMTP** |
+| `_load_source_health` | `(pipeline: str) -> Dict[str, int]` | Reads `state/source_health_{pipeline}.json`; returns `{source: consecutive_zeros}`. Parse errors reset to `{}` with `[ERROR]` (health-counter loss is acceptable; pipeline must keep running). | Reads file |
+| `_save_source_health` | `(pipeline: str, zeros: Dict[str, int])` | Persists consecutive-zero counters atomically. | **Writes file** |
+| `_check_source_health` | `(per_source, pipeline, no_email, dry_run) -> None` | Main-mode alarm: for each SUPPORTED_SOURCE, increments zero counter if `fetched==0` (errors skip the counter), resets to 0 otherwise. Sends one aggregate `[Watcher ALERT]` email if any source ≥3 consecutive zeros. | **Network: SMTP** (conditional), **Writes file** |
+| `_append_emailed_records` | `(yes_jobs, maybe_jobs, ts_utc) -> None` | Appends one record per emailed job to `state/emailed_{PIPELINE_NAME}.json`. Schema: `{job_id, pipeline, platform, company, title, location, posted, url, bucket, first_seen_utc, emailed_utc}`. No-ops if `PIPELINE_NAME` unset. | **Writes file** |
+| `_append_run_log` | `(record: Dict) -> None` | Appends to `state/run_log.json` (bounded 1,000 entries). Parse failure → `[ERROR]` + `[]` fallback; wrong schema type → fatal exit. **Note:** shared across all pipelines — concurrent bot pushes cause lost-update races; boards2 showed 0 entries despite 273 actual runs. Use `gh run list` not run_log.json for cadence verification. | **Writes file** |
 
 ### Boards CSV (lines 698–738)
 | Function | Signature | Purpose | Side effects |
@@ -378,7 +401,7 @@ These are pipeline artifacts from board curation. `watcher.py` never loads any o
 | Greenhouse | GET | `https://boards-api.greenhouse.io/v1/boards/{slug}/jobs?content=true` | None (public) | None needed — single response contains all jobs | 8 concurrent |
 | Lever | GET | `https://jobs.lever.co/v0/postings/{slug}?mode=json` | None (public) | None needed — single array response | 8 concurrent |
 | SmartRecruiters | GET | `https://api.smartrecruiters.com/v1/companies/{slug}/postings` | None (public) | offset/limit=100, up to 500 | 6 concurrent |
-| Workday | GET+POST | `{origin}/wday/cxs/{tenant}/{site}/approot` + `…/jobs` | None (public) | limit=20, offset, up to 500 | 4 concurrent |
+| Workday | GET+POST | `{origin}/wday/cxs/{tenant}/{site}/approot` + `…/jobs` | None (public) | limit=20, offset, up to 500 (CXS clamps limit at 20 regardless of requested value) | 4 concurrent |
 | Ashby | POST GraphQL | `https://jobs.ashbyhq.com/api/non-user-graphql` | None (public) | None needed — returns all postings | 6 concurrent |
 
 **Email sending:** Gmail SMTP SSL, port 465. Auth via `EMAIL_USER` + `EMAIL_APP_PASSWORD` (app password, not account password).
@@ -398,6 +421,13 @@ These are pipeline artifacts from board curation. `watcher.py` never loads any o
 - Throughput: ~2.1 boards/sec average; ~18 boards/sec on batches with zero Workday boards.
 - Workday is the pace-setter: semaphore=4, 4–26 calls/board. The batch 1000–1200 (0 WD boards) ran in 11.2s; batches with 20–25 WD boards take 100–126s.
 - At batch_size=200 and 5k total boards: per-run time unchanged (~95s); full-cycle latency would grow to ~12.5 hours (25 runs × 30 min) vs. current ~3 hours.
+
+**Workday production cost (boards3, measured 2026-07-09):**
+- **Avg wall time: 75.2s/board** at WD_SEM=4 — **1.86× slower than the sizing probe** (40.5s/board). The sizing report's `batch_size=50` recommendation contradicted its own p90 math. Any future Workday shard must start at `batch_size=20`.
+- **Per-board API cost:** avg 21.5 calls/board; p90 = 26 calls (= 1 boot GET + 25 POSTs); p90 wall time = 107.7s/board.
+- **CXS pagination:** `limit` is clamped at 20 per page by the server regardless of the requested value. A 500-job board requires 25 POSTs + 1 boot GET = 26 total calls.
+- **boards3 at batch_size=20:** p90 estimate = 20 × 107.7 / 4 = 539s (9.0 min, 60% of 15-min budget). Full cycle: 2,325 ÷ 20 = 117 runs × 30 min = **58.5h ≈ 2.4 days**.
+- **Duration guard:** `[WARN]` printed if any boards-mode run exceeds 720s (12 min). Boards3 is the only pipeline expected to approach this.
 
 ---
 
@@ -422,7 +452,14 @@ These are pipeline artifacts from board curation. `watcher.py` never loads any o
 | `state/boards_dead.json` | `{updated_utc, boards_dead: [...]}` | 937 board IDs (greenhouse 757 · lever 132 · workday 46 · ashby 2). **921 are orphaned** — stale entries from boards removed from earlier CSV versions. Only 16 overlap with the current live CSV. | `boards.yml` |
 | `state/boards_dead_details.json` | `{updated_utc, dead_details: {board_id: {first_seen_utc, last_seen_utc, platform, company, board_url, last_status, last_error}}}` | Per-dead-board metadata | `boards.yml` |
 | `state/boards_cursor.json` | `{updated_utc, cursor: int}` | 600 — next batch starts at row 600 | `boards.yml` |
-| `state/run_log.json` | `[{ts, mode, per_source: {src: {fetched, title_ok, loc_ok, new, emailed, error}}, duration_s, cursor}]` | Per-run funnel log, bounded to ~1,000 records. Both modes write to this file. | `watcher.yml` + `boards.yml` |
+| `state/seen_boards2.json` | `{updated_utc, seen_ids: [...]}` | boards2 pipeline job dedup (6,166-board GH+Lever shard) | `boards2.yml` |
+| `state/seen_boards3.json` | `{updated_utc, seen_ids: [...]}` | boards3 pipeline job dedup (2,325-board Workday shard A) | `boards3.yml` |
+| `state/boards2_cursor.json` / `state/boards3_cursor.json` | `{updated_utc, cursor: int}` | Per-shard cursor positions | `boards2.yml` / `boards3.yml` |
+| `state/boards2_seen.json` / `state/boards3_seen.json` | `{updated_utc, boards_seen: [...]}` | Per-shard bootstrapped board IDs | `boards2.yml` / `boards3.yml` |
+| `state/boards2_dead.json` / `state/boards3_dead.json` | `{updated_utc, boards_dead: [...]}` | Per-shard dead board IDs | `boards2.yml` / `boards3.yml` |
+| `state/emailed_{pipeline}.json` | `[{job_id, pipeline, platform, company, title, location, posted, url, bucket, first_seen_utc, emailed_utc}]` | Per-pipeline emailed job history. One file per pipeline (main, boards, boards2, boards3). Written by `_append_emailed_records`. Never truncated — append-only. | All workflows |
+| `state/source_health_{pipeline}.json` | `{updated_utc, consecutive_zeros: {source: int}}` | Per-pipeline silent-source alarm counters. Main mode: key per SUPPORTED_SOURCE. Boards mode: key `"batch"`. Written after every non-dry-run. Parse/schema errors reset to `{}` with `[ERROR]` (counter loss accepted). | All workflows |
+| `state/run_log.json` | `[{ts, mode, per_source: {src: {fetched, title_ok, loc_ok, new, emailed, error}}, duration_s, cursor}]` | Shared per-run funnel log, bounded to 1,000 records. **Known limitation:** shared across all pipelines; concurrent bot pushes cause lost-update races — boards2 showed 0 entries despite 273 actual runs. Use `gh run list --workflow=X.yml` for reliable cadence data, not run_log.json. | All workflows |
 | `state/local_*.json` | various | Local dev only | Local scripts. Gitignored. |
 
 ---
