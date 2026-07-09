@@ -1454,5 +1454,70 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-09T13:03:17.417289+00:00",
     "emailed_utc": "2026-07-09T13:03:17.417289+00:00"
+  },
+  {
+    "job_id": "greenhouse:octus:5181160007",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "octus",
+    "title": "Data Scientist ",
+    "location": "New York, New York, United States",
+    "posted": "2026-07-09T09:10:19-04:00",
+    "url": "https://job-boards.greenhouse.io/octus/jobs/5181160007",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-09T13:31:28.988670+00:00",
+    "emailed_utc": "2026-07-09T13:31:28.988670+00:00"
+  },
+  {
+    "job_id": "greenhouse:octus:5181289007",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "octus",
+    "title": "Software Engineer ",
+    "location": "New York, New York, United States",
+    "posted": "2026-07-09T09:07:11-04:00",
+    "url": "https://job-boards.greenhouse.io/octus/jobs/5181289007",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-09T13:31:28.988670+00:00",
+    "emailed_utc": "2026-07-09T13:31:28.988670+00:00"
+  },
+  {
+    "job_id": "greenhouse:sandtechholdingslimited:4923690101",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "sandtechholdingslimited",
+    "title": "Data Engineer",
+    "location": "Baltimore, United States",
+    "posted": "2026-07-09T08:10:55-04:00",
+    "url": "https://job-boards.eu.greenhouse.io/sandtechholdingslimited/jobs/4923690101",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-09T13:31:28.988670+00:00",
+    "emailed_utc": "2026-07-09T13:31:28.988670+00:00"
+  },
+  {
+    "job_id": "greenhouse:sandtechholdingslimited:4923694101",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "sandtechholdingslimited",
+    "title": "Data Scientist",
+    "location": "Baltimore, United States",
+    "posted": "2026-07-09T08:11:09-04:00",
+    "url": "https://job-boards.eu.greenhouse.io/sandtechholdingslimited/jobs/4923694101",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-09T13:31:28.988670+00:00",
+    "emailed_utc": "2026-07-09T13:31:28.988670+00:00"
+  },
+  {
+    "job_id": "greenhouse:spins:8051582",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "spins",
+    "title": "Data Analyst, Data Pipeline",
+    "location": "Chicago, IL / Remote",
+    "posted": "2026-07-09T09:27:06-04:00",
+    "url": "https://www.spins.com/work-at-spins/?gh_jid=8051582",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-09T13:31:28.988670+00:00",
+    "emailed_utc": "2026-07-09T13:31:28.988670+00:00"
   }
 ]
