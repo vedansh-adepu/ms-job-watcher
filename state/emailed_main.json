@@ -284,5 +284,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-09T21:21:10.312894+00:00",
     "emailed_utc": "2026-07-09T21:21:10.312894+00:00"
+  },
+  {
+    "job_id": "amazon:66d9e424-cc69-45aa-8d5f-c97f8e0c9921",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, Amazon Cloud Management Foundations",
+    "location": "US, WA, Seattle",
+    "posted": "July  9, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10470513/software-development-engineer-amazon-cloud-management-foundations",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-09T21:41:14.666728+00:00",
+    "emailed_utc": "2026-07-09T21:41:14.666728+00:00"
+  },
+  {
+    "job_id": "amazon:c58f9387-778c-43ac-adc4-40552ab531e0",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Senior Software Development Engineer, Ads AI Core Infra",
+    "location": "US, WA, Seattle",
+    "posted": "July  9, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10470512/senior-software-development-engineer-ads-ai-core-infra",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-09T21:41:14.666728+00:00",
+    "emailed_utc": "2026-07-09T21:41:14.666728+00:00"
   }
 ]
