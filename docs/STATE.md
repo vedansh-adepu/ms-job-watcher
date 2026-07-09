@@ -233,26 +233,100 @@ p90 api_calls = 26 (= 25 POSTs + 1 GET) means the majority of large boards hit t
 - No overlap with boards2 (GH/Lever only) — 0 shared boards
 - Consider Workday `--boards-batch-size 50` and revisit after measuring first live run
 
-## Workday probe redesign (PROPOSED, not built)
+## Workday probe redesign v2 — PROPOSED, not built
 
-An external review (2026-07-09) identified that boards3 does a full crawl of every board every cycle — 21.5 API calls/board on average — to answer a question that costs 1 call in the steady state.
+**Problem:** boards3 full-crawls every board every cycle (21.5 calls/board avg) to answer a question that costs 1 call. 58h cycle. Fix buys ~20×: 2,325 boards × 1 call ÷ concurrency ≈ minutes, not days.
 
-**Proposed steady-state probe:** 1 POST: page 1, limit=20, offset=0. Diff those 20 IDs against the seen-file. All 20 seen → board is quiet; done (1 call total). Any unseen → page forward until a fully-seen page is found (typically 1–3 extra pages for active boards).
+The earlier "page 1 is newest-first" assumption was an **UNVERIFIED PRIOR**. No documented sort parameter exists in the CXS POST body (known fields: `limit`, `offset`, `searchText`, `appliedFacets`). CXS clamps `limit` at 20. The design must not depend on ordering. Three tiers:
 
-**Critical unverified assumption:** This rests on Workday CXS default ordering (empty `searchText`) being **newest-first by posted date**. This is **UNVERIFIED**. If any tenant sorts by something else (alphabetical, relevance), the probe reads 20 old jobs, concludes "no news," and that board goes silently dark forever. The silent-source alarm cannot detect this — a deep fetch never fires, so the counter stays at 0.
+**TIER A — per-probe invariants (every run, 1 call/board). Deep-fetch the board if ANY fires:**
+- (i) any unseen ID on page 1
+- (ii) `total` changed in either direction
+- (iii) the page-1 fingerprint (ordered 20-ID list) changed at all, even if all IDs are seen (reordering = the tenant's world moved)
 
-**Prerequisites before building:**
-1. **Calibration crawl:** For a sample of tenants (≥50 boards across size tiers), compare page-1 IDs on two consecutive deep fetches. Confirm new jobs appear on page 1. Validates newest-first ordering empirically.
-2. **Safety net by construction — candidates:**
-   - Explicit sort parameter in the CXS API (if it exists) — safest if documented.
-   - `total`-delta cross-check: if job count unchanged since last visit, skip. Weak: add+remove cancels, so count unchanged ≠ board unchanged.
-   - Rotating randomized deep-crawl audit: ~2% of boards per run get a full fetch regardless. Covers every board statistically in ~50 runs (~25 days). Silent-recall holes surface within a month.
+These catch every pure ADD on any tenant regardless of sort order, because adds move `total`.
 
-**Projected gain if safe:** 2,325 boards × 1 call ÷ 4 threads ≈ 9.7 min for the entire Workday estate (vs. 58.5h full cycle currently). The unused `data/boards/workday_shard_b.csv` (2,326 boards) becomes absorbable for free — both shards in one 30-min run.
+**TIER B — the residual hole, stated precisely:** a simultaneous add+remove where the new job lands off page 1. Only possible on non-newest-first tenants, invisible to `total`, possibly invisible to the fingerprint. Cannot be closed with one call. The probe-miss monitor alone CANNOT detect it (no trigger → no deep fetch → no evidence). This is why Tier C is mandatory, not optional.
 
-**Also proposed:** Raise the Workday concurrency semaphore above 4 (zero rate-limiting observed across 4,651 probed boards; distinct hostnames suggest per-tenant isolation). Verify shared WAF behavior first. Do NOT use `searchText` to narrow server-side (opaque relevance = silent recall loss). The `locationCountry` facet is safer but must fail open.
+**TIER C — rotating randomized deep audit (the recall floor).** Every run, deep-crawl `ceil(2325 / (audit_period_days × 48))` randomly chosen boards REGARDLESS of probe verdict. 7-day period ≈ 7 boards/run; 3-day ≈ 17 boards/run. Both trivially affordable (~150 extra calls/run). Any job found that the probe never surfaced = PROBE-MISS EVENT: alert, and permanently demote that tenant to an always-deep set. Converts "silently dead forever" into "detected within N days, once, then never trusted again."
 
-**Status: Proposed only. No code written. Do not build before the calibration crawl.**
+**Tenant classification** (done at calibration, re-checked on every deep fetch): parse coarse `postedOn` strings ("Posted Today", "Posted 3 Days Ago", "Posted 30+ Days Ago") across pages; test for monotone non-increasing recency.
+- **verified-monotone tenants:** early-stop paging at the first fully-seen page is VALID; the add-off-page-1 hole is structurally impossible. Slow audit as regression check only.
+- **unordered/ambiguous tenants:** early-stop is INVALID — any Tier-A trigger means FULL crawl. Faster audit rotation.
+
+The calibration pass produces the only distribution that matters (our 2,325 tenants). The design is indifferent to whether monotone is 99% or 80% — the unordered set costs calls, not recall. High-churn boards trip total/fingerprint constantly and degrade toward frequent deep fetches. That is correct behavior (recall first).
+
+Do NOT use `searchText` to narrow server-side — opaque per-tenant relevance = silent recall loss. The `appliedFacets: locationCountry` facet is safer but must FAIL OPEN (on error/zero → unfiltered full fetch).
+
+**Bootstrap GET:** do not A/B test it (same class of bug as the ordering prior). Make it an automatic in-line fallback: attempt cold POST first; on success record `needs_bootstrap=false` for that tenant; on failure (403/415/empty/HTML) retry within the same run using GET-then-POST and record `needs_bootstrap=true`. Re-attempt cold occasionally in case the failure was transient. Fail-open by construction.
+
+**Concurrency — earlier "distinct hostnames" reasoning was WRONG.** `*.myworkdayjobs.com` tenants sit behind Workday's shared edge (common IPs, shared WAF). From their side we are one Azure IP hitting one provider. Treat concurrency as a PROVIDER-LEVEL budget. Ramp 4 → 8 → 12 over days; do NOT jump to 20–30. Add jitter (a metronomic N-thread pattern from one IP is what WAF heuristics key on). Onset detection, in order: (1) rising provider-wide p95 latency (throttling precedes blocking), (2) sporadic 429/403, (3) WAF interdiction tell: HTTP 200 with an HTML challenge page instead of JSON — check Content-Type/parseability and treat "JSON parse failure on a previously-good tenant" as a WAF signal, not a board bug. Wire a provider-level circuit breaker: if Workday-wide error rate exceeds a threshold mid-run, halve global concurrency, back off, alert. The cheap-probe redesign is itself the best WAF mitigation — ~20× less call volume.
+
+**Status: Proposed only. No code written. Gate: calibration crawl must run first.**
+
+---
+
+## Outbox pattern — PROPOSED (fixes send/commit ordering + duplicate storms)
+
+Earlier "email first, commit second" advice was incomplete: runners are ephemeral, so there is no local durable marker — the git push IS the disk. Correct design:
+
+1. **Startup:** drain `outbox_{pipeline}.json` if non-empty (a prior run died between send and clear) — send it, clear it, push. This is the at-least-once retry.
+2. **Fetch, diff, compute new jobs.**
+3. **Commit** seen-file advance + write new jobs into the outbox; push with a pull-rebase-push retry loop. If push fails after k retries: ABORT WITHOUT EMAILING and send one ops alert. Nothing is lost — jobs remain unseen from the repo's perspective; the next run re-diffs and retries.
+4. **Email** the outbox contents.
+5. **Clear the outbox,** push (best effort). If THIS push fails, the only damage is the next run's step-1 drain re-sends exactly ONE batch, ONCE. Duplicate blast radius bounded by construction.
+
+Trade accepted: a crash between 3 and 4 DELAYS alerts by one cycle rather than losing them. Persistent push failure degrades to delayed alerts + one ops email — not a duplicate storm, not a recall hole.
+
+**CIRCUIT BREAKER lives here naturally:** if the outbox would exceed ~200 jobs, commit it as a quarantine file instead, alert once, require manual release. Do not abort — loses batch. Do not advance seen without sending — silent recall loss.
+
+Note: the historical rebase race came from the shared `run_log.json`, not from git itself. With strictly single-writer file layout, four pipelines auto-merge cleanly.
+
+**Status: Proposed only. No code written.**
+
+---
+
+## Priority tier (hot.csv) — PROPOSED
+
+Create `hot.csv` swept EVERY main-pipeline run (10 min), executed through the SHARED platform fetchers. NVIDIA becomes `{platform: workday, tenant: nvidia, tier: hot}` and rides the proven CXS path. Cost: ~6–20 boards × 1 probe call / 10 min. This retires hand-rolled scrapers (4 of the 10 known bugs live in main's bespoke scrapers) without losing priority-company latency.
+
+**CRITICAL CAVEAT:** `seen_ids` files are per-pipeline and disjoint, so a board in BOTH `hot.csv` and `boards3`'s CSV will DOUBLE-EMAIL every new job. Promotion must be a MOVE, not a copy — remove from the bulk CSV in the same commit. Add a startup assertion: no board ID appears in more than one pipeline's CSV. Generalizes later into hot/normal/slow tiering = three CSVs, one shared code path.
+
+**Status: Proposed only. No code written. Requires probe redesign (v2) to land first.**
+
+---
+
+## Git state growth — REVISED numbers
+
+Seen-files are ~0.8–1.2 MB (42k IDs × 20–30 bytes), not tens of KB — **re-measure before acting.** Steady-state growth ~1–5 MB/day → ~0.5–2 GB/year. Two facts defuse urgency: `actions/checkout` defaults to `fetch-depth: 1`, so checkout time is exposed to CURRENT TREE SIZE, not history (VERIFY none of the four workflows override `fetch-depth`). GitHub's comfort zone is a few GB → a year-plus of runway.
+
+Mitigations, cheapest first:
+1. Store seen-files as sorted one-ID-per-line TEXT, not a JSON array — line-oriented appends delta near-perfectly.
+2. Move state to a dedicated `state` branch.
+3. Periodic squash of that branch.
+
+**SQUASH IS NOT SAFE LIVE:** a force-push rewrites history under an in-flight runner; its pull-rebase fails, or an old-history push resurrects pre-squash refs. Do it in a maintenance window: set a `MAINTENANCE` repo variable that runs check at startup and exits early (or disable the cron-job.org triggers), confirm no active runs, squash, force-push, re-enable.
+
+**Status: Monitoring only. No action needed for at least 12 months at current growth rate.**
+
+---
+
+## Recommended build order (next session)
+
+1. **CALIBRATION CRAWL (read-only):** deep-fetch a sample of Workday tenants; classify each as verified-monotone vs unordered using `postedOn` monotonicity; report the distribution. This is the gate — it costs nothing and determines the real shape of the problem.
+2. **Probe + Tier A invariants + Tier C rotating audit + tenant classification.** Ramp concurrency 4 → 8.
+3. **Golden-set tests for `classify_title` / `is_us_location`** (CSV of input → expected, every past bug as a regression case). Highest value per unit effort; still not built.
+4. **Outbox pattern + quarantine circuit breaker.**
+5. **Rolling-baseline (EWMA) drop detection + frozen-count detection + pagination-cap detector** (assert `collected == total` where the platform exposes it). Zero-checks miss GS (fetches ~2) and NVIDIA (pinned at 20).
+6. **`hot.csv` priority tier; retire bespoke scrapers** (move, don't copy; add the no-duplicate-board startup assertion).
+7. **Later / not now:** per-board productivity → demote quiet boards to a slow tier (never prune — pruning is a recall decision disguised as efficiency); sampled reject storage with reason codes (~100% of soft-exclude near-misses, 1–5% of clear rejects); `posted_at` → `first_seen` and → `first_emailed` latency per job (validates the project's premise, makes cadence decisions evidence-based); collapse 4 copy-pasted pipelines into one config-table-driven code path; code-public / state-private repo split.
+
+---
+
+## Standing reminders
+
+- **PAT expires 2026-08-31**, shared by ALL FOUR cron-job.org jobs, exposed in a screenshot 2026-07-01. Rotate: GitHub → Settings → Developer settings → Fine-grained tokens → new token (repo: ms-job-watcher, Actions: Read+write) → paste `Bearer <token>` into the Authorization header of all four cron-job.org jobs → TEST RUN each (expect HTTP 204) → revoke old. The watchdog catches expiry within 24h but does not prevent it.
+- **boards3 first `[Boards3 Alerts]` expected ~2026-07-11** after its first full ~58h cycle. Silence before then is EXPECTED, not a bug.
 
 ---
 
