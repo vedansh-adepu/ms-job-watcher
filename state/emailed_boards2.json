@@ -37,5 +37,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-09T03:31:27.829759+00:00",
     "emailed_utc": "2026-07-09T03:31:27.829759+00:00"
+  },
+  {
+    "job_id": "greenhouse:lendingtree:8052811",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "lendingtree",
+    "title": "Platform Engineer",
+    "location": "Charlotte, NC, United States",
+    "posted": "2026-07-08T22:04:53-04:00",
+    "url": "https://job-boards.greenhouse.io/lendingtree/jobs/8052811",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-09T04:01:20.738654+00:00",
+    "emailed_utc": "2026-07-09T04:01:20.738654+00:00"
+  },
+  {
+    "job_id": "greenhouse:tebra:4713311005",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "tebra",
+    "title": "Head of AI Engineering & Enablement",
+    "location": "United States - Remote",
+    "posted": "2026-07-08T22:42:24-04:00",
+    "url": "https://job-boards.greenhouse.io/tebra/jobs/4713311005",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-09T04:01:20.738654+00:00",
+    "emailed_utc": "2026-07-09T04:01:20.738654+00:00"
   }
 ]
