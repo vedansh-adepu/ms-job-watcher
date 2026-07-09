@@ -1519,5 +1519,31 @@
     "bucket": "yes",
     "first_seen_utc": "2026-07-09T13:31:28.988670+00:00",
     "emailed_utc": "2026-07-09T13:31:28.988670+00:00"
+  },
+  {
+    "job_id": "greenhouse:usconec:4310466009",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "usconec",
+    "title": "Manufacturing Engineer",
+    "location": "United States",
+    "posted": "2026-07-09T08:18:50-04:00",
+    "url": "https://job-boards.greenhouse.io/usconec/jobs/4310466009",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-09T14:02:14.137597+00:00",
+    "emailed_utc": "2026-07-09T14:02:14.137597+00:00"
+  },
+  {
+    "job_id": "greenhouse:usconec:4310461009",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "usconec",
+    "title": "Manufacturing Engineer",
+    "location": "Hickory, North Carolina, United States",
+    "posted": "2026-07-09T08:11:56-04:00",
+    "url": "https://job-boards.greenhouse.io/usconec/jobs/4310461009",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-09T14:02:14.137597+00:00",
+    "emailed_utc": "2026-07-09T14:02:14.137597+00:00"
   }
 ]
