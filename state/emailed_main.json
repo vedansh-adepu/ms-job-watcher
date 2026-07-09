@@ -167,5 +167,18 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-09T17:41:16.496848+00:00",
     "emailed_utc": "2026-07-09T17:41:16.496848+00:00"
+  },
+  {
+    "job_id": "amazon:8d777711-6431-4094-97ec-aa91530425bf",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Applied Scientist, C360",
+    "location": "US, WA, Seattle",
+    "posted": "July  9, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10470171/applied-scientist-c360",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-09T17:51:17.992508+00:00",
+    "emailed_utc": "2026-07-09T17:51:17.992508+00:00"
   }
 ]
