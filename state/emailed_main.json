@@ -102,5 +102,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-09T16:01:18.716266+00:00",
     "emailed_utc": "2026-07-09T16:01:18.716266+00:00"
+  },
+  {
+    "job_id": "amazon:cfc87264-b627-49ca-a36f-b4beefccb219",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, Amazon Ads Demand Tech, Forecasting and Guidance",
+    "location": "US, CA, Mountain View",
+    "posted": "July  9, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10470084/software-development-engineer-amazon-ads-demand-tech-forecasting-and-guidance",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-09T16:31:16.317632+00:00",
+    "emailed_utc": "2026-07-09T16:31:16.317632+00:00"
+  },
+  {
+    "job_id": "amazon:d9f92b04-59eb-4581-9d03-2bcbbd6b67e9",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, AWS DynamoDB",
+    "location": "US, WA, Seattle",
+    "posted": "July  9, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10470085/software-development-engineer-aws-dynamodb",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-09T16:31:16.317632+00:00",
+    "emailed_utc": "2026-07-09T16:31:16.317632+00:00"
   }
 ]
