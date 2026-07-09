@@ -193,5 +193,18 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-09T04:01:28.143912+00:00",
     "emailed_utc": "2026-07-09T04:01:28.143912+00:00"
+  },
+  {
+    "job_id": "workday:abbott:abbottcareers:req:31155642",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Abbott",
+    "title": "Field Service Engineer I- Greater Detroit, MI",
+    "location": "United States - Michigan - Detroit",
+    "posted": "Posted Today",
+    "url": "https://abbott.wd5.myworkdayjobs.com/en-US/abbottcareers/job/United-States---Michigan---Detroit/Field-Service-Engineer-I--Greater-Detroit--MI_31155642-2",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-09T04:13:00.503280+00:00",
+    "emailed_utc": "2026-07-09T04:13:00.503280+00:00"
   }
 ]
