@@ -235,6 +235,8 @@ p90 api_calls = 26 (= 25 POSTs + 1 GET) means the majority of large boards hit t
 
 ## Recent changes
 
+- **2026-07-08** — Silent-source alarm added (commit `a73d06f6c`). Per-pipeline health state in `state/source_health_{pipeline}.json` (`{"consecutive_zeros": {"oracle": 3, ...}}`). Main mode: tracks zero-fetch runs per SUPPORTED_SOURCE; emails `[Watcher ALERT]` after 3 consecutive zeros, skips sources that errored (error ≠ silence). Boards mode: tracks consecutive batches where known boards return 0 total fetched jobs. All four pipelines independently tracked — no shared-file race. Parse errors on health file reset counters with [ERROR] log rather than killing the run (health loss is acceptable; pipeline must keep running).
+
 - **2026-07-08** — Schema validation added to all state-file loaders (commit `054cd0e3b`). Two-tier error handling:
   - **JSON parse failure:** `[FATAL]` + exit 1 for `seen_ids` (empty fallback = re-alert flood) and `run_log` (local write, not a concurrent-rebase target). `[ERROR]` + safe default for `cursor` (→0), `boards_seen` (→∅), `boards_dead` (→∅) — these recover on the next run if the partial read was transient.
   - **Wrong schema type:** `[FATAL]` + exit 1 everywhere — message names the file, expected key/type, and actual type. This is the exact bug that crashed boards3's first run (seen_boards3.json was `[]` instead of `{"seen_ids": []}`).
