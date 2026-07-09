@@ -128,5 +128,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-09T02:32:35.180510+00:00",
     "emailed_utc": "2026-07-09T02:32:35.180510+00:00"
+  },
+  {
+    "job_id": "greenhouse:twitch:8623477002",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "twitch",
+    "title": "Data Scientist",
+    "location": "San Francisco, CA",
+    "posted": "2026-07-08T22:35:27-04:00",
+    "url": "https://job-boards.greenhouse.io/twitch/jobs/8623477002",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-09T03:02:55.020971+00:00",
+    "emailed_utc": "2026-07-09T03:02:55.020971+00:00"
+  },
+  {
+    "job_id": "greenhouse:twitch:8625664002",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "twitch",
+    "title": "Data Scientist",
+    "location": "Seattle, WA",
+    "posted": "2026-07-08T22:35:28-04:00",
+    "url": "https://job-boards.greenhouse.io/twitch/jobs/8625664002",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-09T03:02:55.020971+00:00",
+    "emailed_utc": "2026-07-09T03:02:55.020971+00:00"
   }
 ]
