@@ -37,5 +37,31 @@
     "bucket": "yes",
     "first_seen_utc": "2026-07-09T12:56:05.749782+00:00",
     "emailed_utc": "2026-07-09T12:56:05.749782+00:00"
+  },
+  {
+    "job_id": "amazon:3f9c6c42-789a-4920-a505-a159a9182128",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer  , Customer Service Security Capabilities Engineering (CS-SCE)",
+    "location": "US, WA, Seattle",
+    "posted": "July  9, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10469951/software-development-engineer-customer-service-security-capabilities-engineering-cs-sce",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-09T14:41:08.729024+00:00",
+    "emailed_utc": "2026-07-09T14:41:08.729024+00:00"
+  },
+  {
+    "job_id": "amazon:6627da14-3306-46d7-84bf-fd8b148c83fd",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software I&T Engineer , Amazon Leo for Government",
+    "location": "US, CA, Northridge",
+    "posted": "July  9, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10469950/software-i-t-engineer-amazon-leo-for-government",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-09T14:41:08.729024+00:00",
+    "emailed_utc": "2026-07-09T14:41:08.729024+00:00"
   }
 ]
