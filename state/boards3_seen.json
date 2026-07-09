@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-07-09T21:32:10.648281+00:00",
+  "updated_utc": "2026-07-09T22:07:32.152799+00:00",
   "boards_seen": [
     "workday:2020companies:external_careers",
     "workday:23andme:23",
@@ -906,8 +906,28 @@
     "workday:chg:us_external_career_site",
     "workday:chghealthcare:external",
     "workday:childrensinstitute:cii",
+    "workday:childrensplace:tcp01",
     "workday:childrensplace:tcp02",
     "workday:childrensplace:tcp03",
-    "workday:childrensplace:tcp05"
+    "workday:childrensplace:tcp04",
+    "workday:childrensplace:tcp05",
+    "workday:choicehotels:external",
+    "workday:choicehotels:hotelexternal",
+    "workday:choicehotels:skytouch",
+    "workday:chordenergy:external",
+    "workday:christianacare:cchs",
+    "workday:christies:christies_careers",
+    "workday:christmanco:careers",
+    "workday:chrobinson:chrobinson",
+    "workday:chtgroup:cht-jobs",
+    "workday:chubbfiresecurity:chubbfs",
+    "workday:churchdwight:animalnutritioncareers",
+    "workday:churchdwight:chdcanadacareers",
+    "workday:churchdwight:chdcareers",
+    "workday:churchdwight:chdukcareers",
+    "workday:churchdwight:waterpikcareers",
+    "workday:churchs:corporate",
+    "workday:churchs:field",
+    "workday:ci:ci_financial_external_career-site"
   ]
 }
