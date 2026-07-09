@@ -130,7 +130,39 @@ All five env vars are disjoint — `STATE_PATH`, `BOARDS_CURSOR_PATH`, `BOARDS_S
 ### Open questions (deferred)
 - Job-text eligibility filter across ALL pipelines: drop roles requiring security clearance / "US citizen or PR required" / ITAR (ineligible on OPT); optionally flag "no sponsorship" (H-1B needed later). High value, situation-specific.
 
-## Workday boards3 — sized, NOT built (2026-07-01)
+## Workday boards3 — BUILT and seeded (2026-07-09), dormant awaiting cron-job.org trigger
+
+**boards3 is the first Workday shard (Shard A, 2,325 boards). boards4 (Shard B, 2,326 boards) is pre-split and ready — see `data/boards/workday_shard_b.csv`.**
+
+### Pipeline
+
+| File | Value |
+|---|---|
+| Workflow | `.github/workflows/boards3.yml` |
+| CSV | `data/boards/workday_shard_a.csv` (2,325 rows, boards 0–2324 of workday_verified_live.csv) |
+| batch_size | 50 (sized: keeps each run under the 15-min Actions limit at Workday's cost) |
+| HTTP_TIMEOUT | 30s (Workday API is slower than GH/Lever) |
+| SUBJECT_PREFIX | `[Boards3 Alerts]` |
+| Concurrency group | `job-watcher-boards3` |
+| Sparse fallback cron | `53 */3 * * *` (distinct from boards=13, boards2=43) |
+| Cursor at commit | 0 |
+| seen_boards3.json at commit | `[]` (empty — per-board bootstrap seeds silently on first encounter) |
+
+### Bootstrap approach
+
+No local full-sweep bootstrap was run (unlike boards2). Reason: with WD_SEM=4 and ~40s avg/board, a full 2,325-board local sweep would take ~6.5 hours — impractical in-session. It's also unnecessary: `suppress_new_boards=True` is always active in non-test mode. On every workflow run, boards not yet in `boards3_seen.json` have their jobs silently added to `seen_boards3.json` (via `bootstrap_keys`) before the new-job check — so they can never trigger an email alert. This means the first ~47 runs (47 × 50-board batches = full cycle) each self-bootstrap silently. **No historical Workday jobs will be emailed.**
+
+The first ever run (batch 0–49) will additionally fire the file-level bootstrap (seen_boards3.json exists but is empty, so `os.path.exists` is True and bootstrap does NOT fire — per-board bootstrap handles it instead).
+
+### boards4 (future, pre-split)
+
+`data/boards/workday_shard_b.csv` — 2,326 boards (rows 2325–4650 of workday_verified_live.csv, starting at Ioausa). Zero overlap with shard A (verified). Wire up as boards4.yml when ready — trivial clone of boards3.yml with different CSV + state paths + subject prefix + cron offset.
+
+### STATUS: DORMANT — awaiting cron-job.org trigger (manual browser step)
+
+Next step: add a new cron-job.org job pointing at the boards3 `workflow_dispatch` API endpoint (same pattern as boards/boards2), firing every 30 min. Once wired, the first dispatch will start the Workday shard A sweep.
+
+## Workday boards3 — sized, NOT built (2026-07-01) [SUPERSEDED — see above]
 
 ### Sizing findings (`workday_us_verified.csv` → `data/boards/workday_verified_live.csv`)
 
@@ -180,6 +212,7 @@ p90 api_calls = 26 (= 25 POSTs + 1 GET) means the majority of large boards hit t
 
 ## Recent changes
 
+- **2026-07-09** — boards3 built and seeded (Workday Shard A, 2,325 boards). `boards3.yml` created (batch_size=50, HTTP_TIMEOUT=30, sparse cron `53 */3 * * *`, concurrency=`job-watcher-boards3`, SUBJECT_PREFIX=`[Boards3 Alerts]`). State files committed empty — per-board bootstrap (`suppress_new_boards=True`) silently seeds new boards on first encounter, so no historical email blast. `workday_shard_a.csv` (rows 0–2324) and `workday_shard_b.csv` (rows 2325–4650, ready for future boards4) split from `workday_verified_live.csv` (zero overlap verified). boards3 is DORMANT — wire up cron-job.org dispatch trigger to activate.
 - **2026-07-06** — Per-pipeline email subject prefixes added. `SUBJECT_PREFIX` env var in boards2.yml sets `[Boards2 Alerts]`; boards1 keeps `[Boards Alerts]`; main keeps `[Job Alerts]`. Gmail searches: `subject:[Job Alerts]` (main), `subject:[Boards Alerts]` (boards1), `subject:[Boards2 Alerts]` (boards2/GH+Lever shard).
 - **2026-07-06 — FALSE ALARM: boards2 was never broken.** Earlier diagnostic (reading run_log.json) concluded boards2 ran only ~34 times over 5 days (3.4h cadence). **This was wrong.** `gh run list` confirms boards2 ran **273 times Jul 1–6** with a **perfect 30-min median gap and zero gaps > 60 min** (242 workflow_dispatch + 31 schedule, all success). The "34 runs" figure was a run_log.json artifact: run_log is a bounded 1000-entry JSON array rewritten in full by every pipeline. With main firing 6× more often than boards2, main's concurrent writes win the merge conflict race almost every time — run_log currently shows **0 boards2 entries** despite 273 actual runs. boards2_cursor.json advancing (0→2000→4000→6000) is the reliable signal that boards2 is sweeping correctly. **Do not re-investigate boards2 cadence based on run_log.json counts alone — use `gh run list --workflow=boards2.yml` instead.**
 
