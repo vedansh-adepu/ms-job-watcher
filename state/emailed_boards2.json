@@ -2013,5 +2013,57 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-09T17:02:03.456739+00:00",
     "emailed_utc": "2026-07-09T17:02:03.456739+00:00"
+  },
+  {
+    "job_id": "greenhouse:tubitv:8052429",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "tubitv",
+    "title": "Data Scientist, Growth Analytics",
+    "location": "Los Angeles, CA (Hybrid); San Francisco, CA (Hybrid)",
+    "posted": "2026-07-09T12:45:22-04:00",
+    "url": "https://job-boards.greenhouse.io/tubitv/jobs/8052429",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-09T17:32:04.216021+00:00",
+    "emailed_utc": "2026-07-09T17:32:04.216021+00:00"
+  },
+  {
+    "job_id": "lever:qrypt:c1ed6b7c-eadd-4476-9abc-b4b1e1272573",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "qrypt",
+    "title": "Embedded Software Engineer",
+    "location": "Germantown, MD",
+    "posted": "2026-07-09 16:39 UTC",
+    "url": "https://jobs.lever.co/qrypt/c1ed6b7c-eadd-4476-9abc-b4b1e1272573",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-09T17:32:04.216021+00:00",
+    "emailed_utc": "2026-07-09T17:32:04.216021+00:00"
+  },
+  {
+    "job_id": "lever:hatchit:0a7cfe97-cc9e-4f0e-809c-d75c46946b27",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "hatchit",
+    "title": "Senior AI Platforms Engineer",
+    "location": "Washington, DC or Fully Remote",
+    "posted": "2026-07-09 17:18 UTC",
+    "url": "https://jobs.lever.co/hatchit/0a7cfe97-cc9e-4f0e-809c-d75c46946b27",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-09T17:32:04.216021+00:00",
+    "emailed_utc": "2026-07-09T17:32:04.216021+00:00"
+  },
+  {
+    "job_id": "lever:hatchit:385af463-e1dc-464a-a487-cf4051403458",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "hatchit",
+    "title": "Senior AI Software Engineer",
+    "location": "Washington, DC or Fully Remote",
+    "posted": "2026-07-09 17:26 UTC",
+    "url": "https://jobs.lever.co/hatchit/385af463-e1dc-464a-a487-cf4051403458",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-09T17:32:04.216021+00:00",
+    "emailed_utc": "2026-07-09T17:32:04.216021+00:00"
   }
 ]
