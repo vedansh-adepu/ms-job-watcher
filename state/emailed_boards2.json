@@ -1428,5 +1428,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-09T10:31:36.312196+00:00",
     "emailed_utc": "2026-07-09T10:31:36.312196+00:00"
+  },
+  {
+    "job_id": "greenhouse:cargurus:8043126",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "cargurus",
+    "title": "Principal Data Analyst, Enterprise Data Solutions",
+    "location": "Boston, Massachusetts, United States",
+    "posted": "2026-07-09T08:51:29-04:00",
+    "url": "https://careers.cargurus.com/us/en/job/8043126?gh_jid=8043126",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-09T13:03:17.417289+00:00",
+    "emailed_utc": "2026-07-09T13:03:17.417289+00:00"
+  },
+  {
+    "job_id": "greenhouse:clickhouse:6107514004",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "clickhouse",
+    "title": "Senior Software Engineer - Python and Data Ecosystem",
+    "location": "United States (Remote)",
+    "posted": "2026-07-09T08:23:47-04:00",
+    "url": "https://job-boards.greenhouse.io/clickhouse/jobs/6107514004",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-09T13:03:17.417289+00:00",
+    "emailed_utc": "2026-07-09T13:03:17.417289+00:00"
   }
 ]
