@@ -3196,5 +3196,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-09T22:31:46.220487+00:00",
     "emailed_utc": "2026-07-09T22:31:46.220487+00:00"
+  },
+  {
+    "job_id": "greenhouse:waymo:8047454",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "waymo",
+    "title": "System Safety Engineer - Onboard SW Safety",
+    "location": "Kirkland, WA, USA; San Francisco, CA, USA; Mountain View, CA, USA",
+    "posted": "2026-07-09T18:51:12-04:00",
+    "url": "https://careers.withwaymo.com/jobs?gh_jid=8047454",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-09T22:56:04.580863+00:00",
+    "emailed_utc": "2026-07-09T22:56:04.580863+00:00"
+  },
+  {
+    "job_id": "greenhouse:woolpert:4031761009",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "woolpert",
+    "title": "Senior Mechanical Engineer",
+    "location": "Coral Gables, FL",
+    "posted": "2026-07-09T18:46:07-04:00",
+    "url": "https://job-boards.greenhouse.io/woolpert/jobs/4031761009",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-09T22:56:04.580863+00:00",
+    "emailed_utc": "2026-07-09T22:56:04.580863+00:00"
   }
 ]
