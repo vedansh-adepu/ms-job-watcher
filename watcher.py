@@ -610,10 +610,14 @@ def _append_run_log(record: Dict[str, Any]) -> None:
         try:
             with open(RUN_LOG_PATH, "r", encoding="utf-8") as f:
                 existing = json.load(f)
-            if not isinstance(existing, list):
-                existing = []
         except Exception:
             existing = []
+        if not isinstance(existing, list):
+            print(
+                f"[FATAL] {RUN_LOG_PATH}: expected a JSON array — got {type(existing).__name__}",
+                file=sys.stderr,
+            )
+            sys.exit(1)
     existing.append(record)
     if len(existing) > RUN_LOG_MAX:
         existing = existing[-RUN_LOG_MAX:]
@@ -639,9 +643,20 @@ def _fmt_run_summary(mode: str, ts: str, per_source: Dict[str, Any], cursor: Opt
 def load_seen_ids(path: str) -> Set[str]:
     if not os.path.exists(path):
         return set()
-    with open(path, "r", encoding="utf-8") as f:
-        data = json.load(f)
-    return set(data.get("seen_ids", []))
+    try:
+        with open(path, "r", encoding="utf-8") as f:
+            data = json.load(f)
+    except Exception as e:
+        print(f"[FATAL] {path}: JSON parse failed ({e}) — cannot fall back to empty (would re-alert flood)", file=sys.stderr)
+        sys.exit(1)
+    if not isinstance(data, dict) or not isinstance(data.get("seen_ids"), list):
+        print(
+            f'[FATAL] {path}: expected {{"seen_ids": [...]}} — got {type(data).__name__}'
+            + (f' with seen_ids={type(data.get("seen_ids")).__name__}' if isinstance(data, dict) else ""),
+            file=sys.stderr,
+        )
+        sys.exit(1)
+    return set(data["seen_ids"])
 
 
 def save_seen_ids(path: str, seen_ids: Set[str]) -> None:
@@ -658,10 +673,17 @@ def load_boards_cursor(path: str) -> int:
     try:
         with open(path, "r", encoding="utf-8") as f:
             data = json.load(f)
-        cur = int(data.get("cursor", 0))
-        return max(cur, 0)
-    except Exception:
+    except Exception as e:
+        print(f"[ERROR] {path}: JSON parse failed ({e}) — using cursor=0 (recovers next run)", file=sys.stderr)
         return 0
+    if not isinstance(data, dict) or not isinstance(data.get("cursor"), int):
+        print(
+            f'[FATAL] {path}: expected {{"cursor": <int>}} — got {type(data).__name__}'
+            + (f' with cursor={type(data.get("cursor")).__name__}' if isinstance(data, dict) else ""),
+            file=sys.stderr,
+        )
+        sys.exit(1)
+    return max(int(data["cursor"]), 0)
 
 
 def save_boards_cursor(path: str, cursor: int) -> None:
@@ -675,9 +697,17 @@ def load_boards_seen(path: str) -> Set[str]:
     try:
         with open(path, "r", encoding="utf-8") as f:
             data = json.load(f)
-        return set(data.get("boards_seen", []))
-    except Exception:
+    except Exception as e:
+        print(f"[ERROR] {path}: JSON parse failed ({e}) — using empty boards_seen (recovers next run)", file=sys.stderr)
         return set()
+    if not isinstance(data, dict) or not isinstance(data.get("boards_seen"), list):
+        print(
+            f'[FATAL] {path}: expected {{"boards_seen": [...]}} — got {type(data).__name__}'
+            + (f' with boards_seen={type(data.get("boards_seen")).__name__}' if isinstance(data, dict) else ""),
+            file=sys.stderr,
+        )
+        sys.exit(1)
+    return set(data["boards_seen"])
 
 
 def save_boards_seen(path: str, boards_seen: Set[str]) -> None:
@@ -691,9 +721,17 @@ def load_boards_dead(path: str) -> Set[str]:
     try:
         with open(path, "r", encoding="utf-8") as f:
             data = json.load(f)
-        return set(data.get("boards_dead", []))
-    except Exception:
+    except Exception as e:
+        print(f"[ERROR] {path}: JSON parse failed ({e}) — using empty boards_dead (recovers next run)", file=sys.stderr)
         return set()
+    if not isinstance(data, dict) or not isinstance(data.get("boards_dead"), list):
+        print(
+            f'[FATAL] {path}: expected {{"boards_dead": [...]}} — got {type(data).__name__}'
+            + (f' with boards_dead={type(data.get("boards_dead")).__name__}' if isinstance(data, dict) else ""),
+            file=sys.stderr,
+        )
+        sys.exit(1)
+    return set(data["boards_dead"])
 
 
 def save_boards_dead(path: str, boards_dead: Set[str]) -> None:
