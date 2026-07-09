@@ -388,5 +388,57 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-09T13:02:49.629410+00:00",
     "emailed_utc": "2026-07-09T13:02:49.629410+00:00"
+  },
+  {
+    "job_id": "greenhouse:accenturefederalservices:4676325006",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Accenture Federal Services",
+    "title": "Senior Data Architect",
+    "location": "Arlington, VA",
+    "posted": "2026-07-09T09:22:06-04:00",
+    "url": "https://boards.greenhouse.io/accenturefederalservices/jobs/4676325006?gh_jid=4676325006",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-09T13:32:57.032449+00:00",
+    "emailed_utc": "2026-07-09T13:32:57.032449+00:00"
+  },
+  {
+    "job_id": "workday:bah:BAH_Jobs:req:R0244025",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Booz Allen Hamilton",
+    "title": "Cloud Security Engineer",
+    "location": "Arlington, VA",
+    "posted": "Posted Today",
+    "url": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/Cloud-Security-Engineer_R0244025",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-09T13:32:57.032449+00:00",
+    "emailed_utc": "2026-07-09T13:32:57.032449+00:00"
+  },
+  {
+    "job_id": "workday:capitalone:Capital_One:req:R246065",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Capital One",
+    "title": "Lead Software Engineer, Full Stack",
+    "location": "McLean, VA",
+    "posted": "Posted Today",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Lead-Software-Engineer--Full-Stack_R246065-1",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-09T13:32:57.032449+00:00",
+    "emailed_utc": "2026-07-09T13:32:57.032449+00:00"
+  },
+  {
+    "job_id": "workday:boeing:EXTERNAL_CAREERS:req:JR2026517267",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Boeing",
+    "title": "T-7A Aero Performance Engineer",
+    "location": "USA - Berkeley, MO",
+    "posted": "Posted Today",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Berkeley-MO/T-7A-Aero-Performance-Engineer_JR2026517267",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-09T13:32:57.032449+00:00",
+    "emailed_utc": "2026-07-09T13:32:57.032449+00:00"
   }
 ]
