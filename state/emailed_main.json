@@ -375,5 +375,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-09T22:51:09.606348+00:00",
     "emailed_utc": "2026-07-09T22:51:09.606348+00:00"
+  },
+  {
+    "job_id": "amazon:67d284cb-90d1-4b90-b076-dace83e8e270",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, Amazon Application Recovery Controller",
+    "location": "US, WA, Seattle",
+    "posted": "July  9, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10470594/software-development-engineer-amazon-application-recovery-controller",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-09T23:51:10.464769+00:00",
+    "emailed_utc": "2026-07-09T23:51:10.464769+00:00"
+  },
+  {
+    "job_id": "amazon:0076775c-5862-46b6-aee3-0e9c8a674973",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, AWS",
+    "location": "US, MN, Minneapolis",
+    "posted": "July  9, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10470595/software-development-engineer-aws",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-09T23:51:10.464769+00:00",
+    "emailed_utc": "2026-07-09T23:51:10.464769+00:00"
   }
 ]
