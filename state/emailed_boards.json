@@ -297,5 +297,44 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-09T05:07:35.537787+00:00",
     "emailed_utc": "2026-07-09T05:07:35.537787+00:00"
+  },
+  {
+    "job_id": "workday:boeing:EXTERNAL_CAREERS:req:JR2026516972",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Boeing",
+    "title": "Associate Airworthiness & Regulatory Engineer",
+    "location": "USA - Renton, WA",
+    "posted": "Posted Today",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Renton-WA/Associate-Airworthiness---Regulatory-Engineer_JR2026516972-1",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-09T07:08:17.427025+00:00",
+    "emailed_utc": "2026-07-09T07:08:17.427025+00:00"
+  },
+  {
+    "job_id": "workday:boeing:EXTERNAL_CAREERS:req:JR2026516979",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Boeing",
+    "title": "Experienced or Senior Airworthiness & Regulatory Engineer",
+    "location": "USA - Renton, WA",
+    "posted": "Posted Today",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Renton-WA/Experienced-or-Senior-Airworthiness---Regulatory-Engineer_JR2026516979-2",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-09T07:08:17.427025+00:00",
+    "emailed_utc": "2026-07-09T07:08:17.427025+00:00"
+  },
+  {
+    "job_id": "workday:boeing:EXTERNAL_CAREERS:req:JR2026516978",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Boeing",
+    "title": "Mid-level or Senior Airworthiness & Regulatory Engineer",
+    "location": "USA - Renton, WA",
+    "posted": "Posted Today",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Renton-WA/Mid-level-or-Senior-Airworthiness---Regulatory-Engineer_JR2026516978",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-09T07:08:17.427025+00:00",
+    "emailed_utc": "2026-07-09T07:08:17.427025+00:00"
   }
 ]
