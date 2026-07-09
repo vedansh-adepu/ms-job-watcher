@@ -235,6 +235,11 @@ p90 api_calls = 26 (= 25 POSTs + 1 GET) means the majority of large boards hit t
 
 ## Recent changes
 
+- **2026-07-08** — Schema validation added to all state-file loaders (commit `054cd0e3b`). Two-tier error handling:
+  - **JSON parse failure:** `[FATAL]` + exit 1 for `seen_ids` (empty fallback = re-alert flood) and `run_log` (local write, not a concurrent-rebase target). `[ERROR]` + safe default for `cursor` (→0), `boards_seen` (→∅), `boards_dead` (→∅) — these recover on the next run if the partial read was transient.
+  - **Wrong schema type:** `[FATAL]` + exit 1 everywhere — message names the file, expected key/type, and actual type. This is the exact bug that crashed boards3's first run (seen_boards3.json was `[]` instead of `{"seen_ids": []}`).
+  - Covers: `load_seen_ids`, `load_boards_cursor`, `load_boards_seen`, `load_boards_dead`, `_append_run_log`.
+
 - **2026-07-09** — boards3 batch_size reduced 50→20 after first successful run showed 609.5s (10.2 min) at avg latency; p90 estimate (107.7s/board) projects 1,346s = 22.4 min at batch=50, exceeding the 15-min Actions limit. batch=20 projects 539s at p90 (9.0 min, 60% budget). New full-cycle time: 117 runs × 30 min = 58.5h ≈ 2.4 days. Duration guard added to watcher.py: prints [WARN] if any boards-mode run exceeds 720s.
 - **2026-07-09** — boards3 built and seeded (Workday Shard A, 2,325 boards). `boards3.yml` created (batch_size=50, HTTP_TIMEOUT=30, sparse cron `53 */3 * * *`, concurrency=`job-watcher-boards3`, SUBJECT_PREFIX=`[Boards3 Alerts]`). State files committed empty — per-board bootstrap (`suppress_new_boards=True`) silently seeds new boards on first encounter, so no historical email blast. `workday_shard_a.csv` (rows 0–2324) and `workday_shard_b.csv` (rows 2325–4650, ready for future boards4) split from `workday_verified_live.csv` (zero overlap verified). boards3 is DORMANT — wire up cron-job.org dispatch trigger to activate.
 - **2026-07-06** — Per-pipeline email subject prefixes added. `SUBJECT_PREFIX` env var in boards2.yml sets `[Boards2 Alerts]`; boards1 keeps `[Boards Alerts]`; main keeps `[Job Alerts]`. Gmail searches: `subject:[Job Alerts]` (main), `subject:[Boards Alerts]` (boards1), `subject:[Boards2 Alerts]` (boards2/GH+Lever shard).
