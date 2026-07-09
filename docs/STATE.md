@@ -140,13 +140,26 @@ All five env vars are disjoint — `STATE_PATH`, `BOARDS_CURSOR_PATH`, `BOARDS_S
 |---|---|
 | Workflow | `.github/workflows/boards3.yml` |
 | CSV | `data/boards/workday_shard_a.csv` (2,325 rows, boards 0–2324 of workday_verified_live.csv) |
-| batch_size | 50 (sized: keeps each run under the 15-min Actions limit at Workday's cost) |
+| batch_size | 20 (reduced from initial 50 — see timeout analysis below) |
 | HTTP_TIMEOUT | 30s (Workday API is slower than GH/Lever) |
 | SUBJECT_PREFIX | `[Boards3 Alerts]` |
 | Concurrency group | `job-watcher-boards3` |
 | Sparse fallback cron | `53 */3 * * *` (distinct from boards=13, boards2=43) |
 | Cursor at commit | 0 |
 | seen_boards3.json at commit | `[]` (empty — per-board bootstrap seeds silently on first encounter) |
+
+### Batch size — timeout analysis (2026-07-09)
+
+Initial batch_size=50 was wrong. First successful run (2026-07-09T01:30Z) measured:
+- Wall time: **609.5s = 10.2 min** at avg 75.21s/board (production is 1.86× slower than sizing probe's 40.5s avg)
+- At sizing p90 (107.7s/board): 50×107.7/4 = **1,346s = 22.4 min** → exceeds 15-min Actions limit
+- Runs killed mid-batch leave cursor unchanged → permanent stall, zero boards swept
+
+**batch_size=20** fits the 10-min / 60%-budget target at p90:
+- p90 estimate: 20×107.7/4 = **539s = 9.0 min** ✓
+- Observed avg case: 609.5 × 20/50 = **244s = 4.1 min** ✓
+
+**Cadence consequence:** 2,325 boards ÷ 20/run = 117 runs × 30 min = **58.5h ≈ 2.4-day full cycle** (was 23.5h at batch=50). Acceptable for Workday (jobs update less frequently than GH/Lever). A `[WARN]` is now printed if any boards-mode run exceeds 720s (12 min), giving early signal before a timeout becomes systematic.
 
 ### Bootstrap approach
 
@@ -212,6 +225,7 @@ p90 api_calls = 26 (= 25 POSTs + 1 GET) means the majority of large boards hit t
 
 ## Recent changes
 
+- **2026-07-09** — boards3 batch_size reduced 50→20 after first successful run showed 609.5s (10.2 min) at avg latency; p90 estimate (107.7s/board) projects 1,346s = 22.4 min at batch=50, exceeding the 15-min Actions limit. batch=20 projects 539s at p90 (9.0 min, 60% budget). New full-cycle time: 117 runs × 30 min = 58.5h ≈ 2.4 days. Duration guard added to watcher.py: prints [WARN] if any boards-mode run exceeds 720s.
 - **2026-07-09** — boards3 built and seeded (Workday Shard A, 2,325 boards). `boards3.yml` created (batch_size=50, HTTP_TIMEOUT=30, sparse cron `53 */3 * * *`, concurrency=`job-watcher-boards3`, SUBJECT_PREFIX=`[Boards3 Alerts]`). State files committed empty — per-board bootstrap (`suppress_new_boards=True`) silently seeds new boards on first encounter, so no historical email blast. `workday_shard_a.csv` (rows 0–2324) and `workday_shard_b.csv` (rows 2325–4650, ready for future boards4) split from `workday_verified_live.csv` (zero overlap verified). boards3 is DORMANT — wire up cron-job.org dispatch trigger to activate.
 - **2026-07-06** — Per-pipeline email subject prefixes added. `SUBJECT_PREFIX` env var in boards2.yml sets `[Boards2 Alerts]`; boards1 keeps `[Boards Alerts]`; main keeps `[Job Alerts]`. Gmail searches: `subject:[Job Alerts]` (main), `subject:[Boards Alerts]` (boards1), `subject:[Boards2 Alerts]` (boards2/GH+Lever shard).
 - **2026-07-06 — FALSE ALARM: boards2 was never broken.** Earlier diagnostic (reading run_log.json) concluded boards2 ran only ~34 times over 5 days (3.4h cadence). **This was wrong.** `gh run list` confirms boards2 ran **273 times Jul 1–6** with a **perfect 30-min median gap and zero gaps > 60 min** (242 workflow_dispatch + 31 schedule, all success). The "34 runs" figure was a run_log.json artifact: run_log is a bounded 1000-entry JSON array rewritten in full by every pipeline. With main firing 6× more often than boards2, main's concurrent writes win the merge conflict race almost every time — run_log currently shows **0 boards2 entries** despite 273 actual runs. boards2_cursor.json advancing (0→2000→4000→6000) is the reliable signal that boards2 is sweeping correctly. **Do not re-investigate boards2 cadence based on run_log.json counts alone — use `gh run list --workflow=boards2.yml` instead.**

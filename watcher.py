@@ -2295,6 +2295,8 @@ if __name__ == "__main__":
 
             _ts = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%MZ")
             _dur = round(time.time() - t0_batch, 1)
+            if _dur > 720:
+                print(f"[WARN] Run duration {_dur}s exceeded 12 min — approaching 15-min Actions timeout. Reduce batch_size for this pipeline.")
             if not args.dry_run:
                 _append_run_log({"ts": _ts, "mode": "boards", "per_source": per_platform, "duration_s": _dur, "cursor": new_cursor})
             print(_fmt_run_summary("boards", _ts, per_platform, new_cursor, _dur))

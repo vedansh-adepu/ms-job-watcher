@@ -48,7 +48,7 @@ jobs:
           SUBJECT_PREFIX: "[Boards3 Alerts]"
           PIPELINE_NAME: boards3
         run: |
-          python watcher.py --mode boards --boards-batch-size 50
+          python watcher.py --mode boards --boards-batch-size 20
 
       - name: Commit updated state
         run: |
