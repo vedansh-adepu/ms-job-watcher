@@ -141,5 +141,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-09T17:10:57.588261+00:00",
     "emailed_utc": "2026-07-09T17:10:57.588261+00:00"
+  },
+  {
+    "job_id": "amazon:730b3948-4e6a-4a72-a24d-d4f34e687b21",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, Multi Region Journal",
+    "location": "US, WA, Seattle",
+    "posted": "July  9, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10470158/software-development-engineer-multi-region-journal",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-09T17:41:16.496848+00:00",
+    "emailed_utc": "2026-07-09T17:41:16.496848+00:00"
+  },
+  {
+    "job_id": "amazon:a3f78d48-585b-40f8-bfcb-e0b5fb54b562",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Principal Applied Scientist , Personalized Autonomy and Proactive Intelligence (PAPI)",
+    "location": "US, WA, Bellevue",
+    "posted": "July  9, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10470164/principal-applied-scientist-personalized-autonomy-and-proactive-intelligence-papi",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-09T17:41:16.496848+00:00",
+    "emailed_utc": "2026-07-09T17:41:16.496848+00:00"
   }
 ]
