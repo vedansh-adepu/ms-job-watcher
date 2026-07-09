@@ -171,9 +171,19 @@ The first ever run (batch 0–49) will additionally fire the file-level bootstra
 
 `data/boards/workday_shard_b.csv` — 2,326 boards (rows 2325–4650 of workday_verified_live.csv, starting at Ioausa). Zero overlap with shard A (verified). Wire up as boards4.yml when ready — trivial clone of boards3.yml with different CSV + state paths + subject prefix + cron offset.
 
-### STATUS: DORMANT — awaiting cron-job.org trigger (manual browser step)
+### STATUS: LIVE (cron-job.org trigger enabled 2026-07-09)
 
-Next step: add a new cron-job.org job pointing at the boards3 `workflow_dispatch` API endpoint (same pattern as boards/boards2), firing every 30 min. Once wired, the first dispatch will start the Workday shard A sweep.
+First successful run: 2026-07-09T01:30Z — 50 boards (batch=50, pre-fix), 609.5s, cursor 0→50, 81 job IDs seeded in seen_boards3.json. No emails sent. Batch reduced to 20 immediately after; all subsequent runs use batch=20.
+
+### Workday decisions — record for future sessions
+
+**boards3 is final as-is. No further splitting.** boards3 = workday_shard_a.csv, batch_size=20, ~58h full cycle. Deliberate tradeoff: coverage over freshness. Workday jobs change less frequently than GH/Lever; a 2.4-day cycle is acceptable.
+
+**Future Workday expansion (workday_shard_b.csv):** The second half (2,326 boards, Ioausa→Zuehlke) is pre-split at `data/boards/workday_shard_b.csv` and unused. When adding it, **decide the naming scheme UP FRONT** before building — retrofitting `state/boards4_*.json` → `state/boardsX_*.json` after cron-job.org is wired is error-prone. Choose the final pipeline name (boards4? workday_b?) at design time.
+
+**Production Workday is ~1.86× slower than the sizing probe** (observed 75.21s/board avg vs probe's 40.5s). The sizing report's `batch_size=50` recommendation contradicted its own p90 math (p90 conservative cap = 26 boards/run). **Any future Workday shard must start at batch_size=20, not 50.** Validate after first live run; adjust if avg latency differs.
+
+**Duration guard:** `[WARN]` printed in watcher.py when any boards-mode run exceeds 720s (12 min). Applies to all four pipelines; only boards3 will realistically approach it. If the WARN fires consistently, reduce batch_size before timeouts become systematic.
 
 ## Workday boards3 — sized, NOT built (2026-07-01) [SUPERSEDED — see above]
 
