@@ -604,6 +604,88 @@ def _append_emailed_records(yes_jobs: List[Dict[str, Any]], maybe_jobs: List[Dic
     _atomic_write_json(path, existing)
 
 
+def _send_plain_email(subject: str, body: str) -> None:
+    if not (EMAIL_USER and EMAIL_APP_PASSWORD and ALERT_TO_EMAIL):
+        print(f"[WARN] Cannot send alert — email env vars missing. Subject: {subject}", file=sys.stderr)
+        return
+    msg = MIMEText(body, "plain", "utf-8")
+    msg["Subject"] = subject
+    msg["From"] = EMAIL_USER
+    msg["To"] = ALERT_TO_EMAIL
+    context = ssl.create_default_context()
+    with smtplib.SMTP_SSL("smtp.gmail.com", 465, context=context) as server:
+        app_pw = (EMAIL_APP_PASSWORD or "").replace(" ", "")
+        server.login(EMAIL_USER, app_pw)
+        server.send_message(msg)
+
+
+def _load_source_health(pipeline: str) -> Dict[str, int]:
+    if not pipeline:
+        return {}
+    path = f"state/source_health_{pipeline}.json"
+    if not os.path.exists(path):
+        return {}
+    try:
+        with open(path, "r", encoding="utf-8") as f:
+            data = json.load(f)
+    except Exception as e:
+        print(f"[ERROR] {path}: JSON parse failed ({e}) — resetting health counters", file=sys.stderr)
+        return {}
+    if not isinstance(data, dict) or not isinstance(data.get("consecutive_zeros"), dict):
+        print(f"[ERROR] {path}: unexpected schema — resetting health counters", file=sys.stderr)
+        return {}
+    return {k: int(v) for k, v in data["consecutive_zeros"].items() if isinstance(v, (int, float))}
+
+
+def _save_source_health(pipeline: str, zeros: Dict[str, int]) -> None:
+    if not pipeline:
+        return
+    _atomic_write_json(
+        f"state/source_health_{pipeline}.json",
+        {"updated_utc": datetime.now(timezone.utc).isoformat(), "consecutive_zeros": zeros},
+    )
+
+
+def _check_source_health(
+    per_source: Dict[str, Any], pipeline: str, no_email: bool = False, dry_run: bool = False
+) -> None:
+    """Check main-mode SUPPORTED_SOURCES for 3 consecutive zero-fetch runs and alert."""
+    if not pipeline:
+        return
+    zeros = _load_source_health(pipeline)
+    alerted: List[str] = []
+    for src in SUPPORTED_SOURCES:
+        entry = per_source.get(src, {})
+        if entry.get("error"):
+            continue  # fetch error ≠ silence; don't advance counter
+        if entry.get("fetched", 0) == 0:
+            zeros[src] = zeros.get(src, 0) + 1
+        else:
+            zeros[src] = 0
+        if zeros.get(src, 0) >= 3:
+            alerted.append(src)
+    if alerted and not no_email:
+        subject = f"[Watcher ALERT] Silent source(s): {', '.join(alerted)} — 0 fetched ≥3 runs"
+        body = "\n".join([
+            f"Pipeline: {pipeline}",
+            f"Affected source(s): {', '.join(alerted)}",
+            "",
+            "These sources returned 0 jobs fetched for 3 or more consecutive runs.",
+            "Possible causes: broken API endpoint, schema change, or auth failure.",
+            "",
+            "Consecutive-zero counts:",
+        ] + [f"  {src}: {zeros.get(src, 0)}" for src in alerted])
+        try:
+            _send_plain_email(subject, body)
+            print(f"[ALERT] Source-health email sent — silent: {', '.join(alerted)}")
+        except Exception as e:
+            print(f"[ERROR] Failed to send source-health alert: {e}", file=sys.stderr)
+    elif alerted:
+        print(f"[WARN] Silent sources (no-email mode): {', '.join(alerted)}")
+    if not dry_run:
+        _save_source_health(pipeline, zeros)
+
+
 def _append_run_log(record: Dict[str, Any]) -> None:
     existing: List[Any] = []
     if os.path.exists(RUN_LOG_PATH):
@@ -2172,6 +2254,7 @@ def main(test_email: bool = False, no_email: bool = False, dry_run: bool = False
     if not dry_run:
         _append_run_log({"ts": _ts, "mode": "main", "per_source": _per_source, "duration_s": _dur, "cursor": None})
     print(_fmt_run_summary("main", _ts, _per_source, None, _dur))
+    _check_source_health(_per_source, PIPELINE_NAME, no_email=no_email, dry_run=dry_run)
 
 
 # -----------------------------
@@ -2338,6 +2421,34 @@ if __name__ == "__main__":
             if not args.dry_run:
                 _append_run_log({"ts": _ts, "mode": "boards", "per_source": per_platform, "duration_s": _dur, "cursor": new_cursor})
             print(_fmt_run_summary("boards", _ts, per_platform, new_cursor, _dur))
+
+            if PIPELINE_NAME:
+                _total_fetched = sum(v.get("fetched", 0) for v in per_platform.values())
+                _known_boards = max(0, args.boards_batch_size - len(bootstrap_boards))
+                _health = _load_source_health(PIPELINE_NAME)
+                if _total_fetched == 0 and _known_boards > 0:
+                    _health["batch"] = _health.get("batch", 0) + 1
+                else:
+                    _health["batch"] = 0
+                if _health.get("batch", 0) >= 3 and not args.no_email:
+                    _b_subject = f"[Watcher ALERT] Silent batch: {PIPELINE_NAME} — 0 jobs fetched ≥3 runs"
+                    _b_body = "\n".join([
+                        f"Pipeline: {PIPELINE_NAME}",
+                        f"Known boards in batch: {_known_boards}  (bootstrap/new: {len(bootstrap_boards)})",
+                        f"Consecutive zero-fetch batches: {_health['batch']}",
+                        "",
+                        "A batch of known boards returned 0 jobs for 3 or more consecutive runs.",
+                        "Possible causes: broken ATS adapter, network issue, or platform-wide outage.",
+                    ])
+                    try:
+                        _send_plain_email(_b_subject, _b_body)
+                        print(f"[ALERT] Boards health email sent — {PIPELINE_NAME} silent for {_health['batch']} runs")
+                    except Exception as _be:
+                        print(f"[ERROR] Failed to send boards health alert: {_be}", file=sys.stderr)
+                elif _health.get("batch", 0) >= 3:
+                    print(f"[WARN] Silent batch (no-email mode): {PIPELINE_NAME} — {_health['batch']} consecutive zero runs")
+                if not args.dry_run:
+                    _save_source_health(PIPELINE_NAME, _health)
 
             return new_cursor
 
