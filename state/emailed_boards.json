@@ -1779,5 +1779,83 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-09T18:32:06.800099+00:00",
     "emailed_utc": "2026-07-09T18:32:06.800099+00:00"
+  },
+  {
+    "job_id": "greenhouse:latitude:8053843",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Latitude",
+    "title": "Embedded Software Engineer II  - (C++) Realtime Platform",
+    "location": "Pittsburgh, PA, Palo Alto, CA, Detroit, MI",
+    "posted": "2026-07-09T13:08:53-04:00",
+    "url": "https://job-boards.greenhouse.io/latitude/jobs/8053843",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-09T19:01:18.410104+00:00",
+    "emailed_utc": "2026-07-09T19:01:18.410104+00:00"
+  },
+  {
+    "job_id": "greenhouse:darkwolfsolutions:7670512003",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Darkwolfsolutions",
+    "title": "Senior Software Engineer",
+    "location": "Tampa, FL",
+    "posted": "2026-07-09T13:35:06-04:00",
+    "url": "https://job-boards.greenhouse.io/darkwolfsolutions/jobs/7670512003",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-09T19:01:18.410104+00:00",
+    "emailed_utc": "2026-07-09T19:01:18.410104+00:00"
+  },
+  {
+    "job_id": "greenhouse:latitude:8053784",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Latitude",
+    "title": "Senior Software Engineer - Deploy Infrastructure",
+    "location": "Pittsburgh, PA, Palo Alto, CA, Detroit, MI",
+    "posted": "2026-07-09T12:34:02-04:00",
+    "url": "https://job-boards.greenhouse.io/latitude/jobs/8053784",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-09T19:01:18.410104+00:00",
+    "emailed_utc": "2026-07-09T19:01:18.410104+00:00"
+  },
+  {
+    "job_id": "greenhouse:latitude:8053864",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Latitude",
+    "title": "Staff Systems Engineer - Safety",
+    "location": "Pittsburgh, PA, Palo Alto, CA, Detroit, MI",
+    "posted": "2026-07-09T13:17:32-04:00",
+    "url": "https://job-boards.greenhouse.io/latitude/jobs/8053864",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-09T19:01:18.410104+00:00",
+    "emailed_utc": "2026-07-09T19:01:18.410104+00:00"
+  },
+  {
+    "job_id": "greenhouse:torcrobotics:8626977002",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Torcrobotics",
+    "title": "Staff Software Engineer",
+    "location": "Blacksburg, VA ",
+    "posted": "2026-07-09T14:22:16-04:00",
+    "url": "https://job-boards.greenhouse.io/torcrobotics/jobs/8626977002",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-09T19:01:18.410104+00:00",
+    "emailed_utc": "2026-07-09T19:01:18.410104+00:00"
+  },
+  {
+    "job_id": "greenhouse:armada:5302536008",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Armada",
+    "title": "Senior ICT Engineer (OSP) \u2014 Outside Plant & Connectivity ",
+    "location": "United States (Remote)",
+    "posted": "2026-07-09T14:30:26-04:00",
+    "url": "https://job-boards.greenhouse.io/armada/jobs/5302536008",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-09T19:01:18.410104+00:00",
+    "emailed_utc": "2026-07-09T19:01:18.410104+00:00"
   }
 ]
