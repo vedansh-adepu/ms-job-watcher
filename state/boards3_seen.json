@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-07-09T03:08:32.154339+00:00",
+  "updated_utc": "2026-07-09T03:39:55.481150+00:00",
   "boards_seen": [
     "workday:2020companies:external_careers",
     "workday:23andme:23",
@@ -108,8 +108,28 @@
     "workday:aero:external",
     "workday:aersale:aer1001",
     "workday:aes:aes_andes",
+    "workday:aes:aes_argentina",
     "workday:aes:aes_asa",
+    "workday:aes:aes_chile",
+    "workday:aes:aes_clean_energy",
+    "workday:aes:aes_colombia",
     "workday:aes:aes_dominicanrepublic",
-    "workday:aes:aes_mexico"
+    "workday:aes:aes_mcac",
+    "workday:aes:aes_mexico",
+    "workday:aes:aes_panama",
+    "workday:aes:aes_puertorico",
+    "workday:aes:aes_us",
+    "workday:aesop:aesopcareers",
+    "workday:aesop:broadbean_external",
+    "workday:aett:versent",
+    "workday:ag:airbus",
+    "workday:agcbio:agcbio_careers",
+    "workday:agecare:agecare_careers_external",
+    "workday:agecare:albus_careers_external",
+    "workday:agf:agf_careers",
+    "workday:agf:glassdoor_careers",
+    "workday:agf:indeed_careers",
+    "workday:aggreko:aggreko_careers_1",
+    "workday:agilent:agilent_careers"
   ]
 }
