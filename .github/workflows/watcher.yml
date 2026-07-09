@@ -39,6 +39,7 @@ jobs:
           EMAIL_APP_PASSWORD: ${{ secrets.EMAIL_APP_PASSWORD }}
           ALERT_TO_EMAIL: ${{ secrets.ALERT_TO_EMAIL }}
           HTTP_TIMEOUT: '30'
+          PIPELINE_NAME: main
         run: |
           python watcher.py --mode main
 
