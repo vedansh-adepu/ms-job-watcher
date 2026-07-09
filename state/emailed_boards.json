@@ -206,5 +206,18 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-09T04:13:00.503280+00:00",
     "emailed_utc": "2026-07-09T04:13:00.503280+00:00"
+  },
+  {
+    "job_id": "workday:gdit:External_Career_Site:req:RQ223736",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "General Dynamics Information Technology (GDIT)",
+    "title": "Senior Enterprise Performance Management Systems Engineer",
+    "location": "USA VA Arlington",
+    "posted": "Posted Today",
+    "url": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-Arlington/Senior-Enterprise-Performance-Management-Systems-Engineer_RQ223736-1",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-09T04:33:01.865069+00:00",
+    "emailed_utc": "2026-07-09T04:33:01.865069+00:00"
   }
 ]
