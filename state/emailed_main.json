@@ -193,5 +193,18 @@
     "bucket": "yes",
     "first_seen_utc": "2026-07-09T18:11:11.057128+00:00",
     "emailed_utc": "2026-07-09T18:11:11.057128+00:00"
+  },
+  {
+    "job_id": "amazon:d6c36265-b25a-41f2-99e9-f6da5c418a7a",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Dev Engineer II, Shield",
+    "location": "US, WA, Seattle",
+    "posted": "July  9, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10470302/software-dev-engineer-ii-shield",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-09T19:31:10.260152+00:00",
+    "emailed_utc": "2026-07-09T19:31:10.260152+00:00"
   }
 ]
