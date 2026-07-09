@@ -1740,5 +1740,44 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-09T18:02:45.458403+00:00",
     "emailed_utc": "2026-07-09T18:02:45.458403+00:00"
+  },
+  {
+    "job_id": "ashby:1password:14829e7a-7826-4487-843a-08f6741f03dd",
+    "pipeline": "boards",
+    "platform": "ashby",
+    "company": "1password",
+    "title": "Data Analyst, Product",
+    "location": "Remote (United States | Canada)",
+    "posted": "",
+    "url": "https://jobs.ashbyhq.com/1password/14829e7a-7826-4487-843a-08f6741f03dd",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-09T18:32:06.800099+00:00",
+    "emailed_utc": "2026-07-09T18:32:06.800099+00:00"
+  },
+  {
+    "job_id": "ashby:openai:edabef84-70d8-4c20-a3b2-41a8c9a76417",
+    "pipeline": "boards",
+    "platform": "ashby",
+    "company": "Openai",
+    "title": "Civil Engineer",
+    "location": "Remote - US",
+    "posted": "",
+    "url": "https://jobs.ashbyhq.com/openai/edabef84-70d8-4c20-a3b2-41a8c9a76417",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-09T18:32:06.800099+00:00",
+    "emailed_utc": "2026-07-09T18:32:06.800099+00:00"
+  },
+  {
+    "job_id": "ashby:openai:a60a1d08-a3e0-4335-b2fe-5a09e5091e01",
+    "pipeline": "boards",
+    "platform": "ashby",
+    "company": "Openai",
+    "title": "Project Engineer",
+    "location": "Remote - US",
+    "posted": "",
+    "url": "https://jobs.ashbyhq.com/openai/a60a1d08-a3e0-4335-b2fe-5a09e5091e01",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-09T18:32:06.800099+00:00",
+    "emailed_utc": "2026-07-09T18:32:06.800099+00:00"
   }
 ]
