@@ -1818,5 +1818,44 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-09T15:31:17.140237+00:00",
     "emailed_utc": "2026-07-09T15:31:17.140237+00:00"
+  },
+  {
+    "job_id": "greenhouse:usconec:4310664009",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "usconec",
+    "title": "Plastics Engineer",
+    "location": "United States",
+    "posted": "2026-07-09T11:05:50-04:00",
+    "url": "https://job-boards.greenhouse.io/usconec/jobs/4310664009",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-09T15:47:21.321335+00:00",
+    "emailed_utc": "2026-07-09T15:47:21.321335+00:00"
+  },
+  {
+    "job_id": "greenhouse:usconec:4310663009",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "usconec",
+    "title": "Plastics Engineer",
+    "location": "Hickory, North Carolina, United States",
+    "posted": "2026-07-09T11:05:48-04:00",
+    "url": "https://job-boards.greenhouse.io/usconec/jobs/4310663009",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-09T15:47:21.321335+00:00",
+    "emailed_utc": "2026-07-09T15:47:21.321335+00:00"
+  },
+  {
+    "job_id": "greenhouse:wundermanthompson:8610956002",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "wundermanthompson",
+    "title": "Senior Analyst, Web/Media Analytics ",
+    "location": "New York, New York, United States",
+    "posted": "2026-07-09T11:35:33-04:00",
+    "url": "https://www.vml.com/careers/job/8610956002?gh_jid=8610956002",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-09T15:47:21.321335+00:00",
+    "emailed_utc": "2026-07-09T15:47:21.321335+00:00"
   }
 ]
