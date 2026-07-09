@@ -219,5 +219,83 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-09T04:33:01.865069+00:00",
     "emailed_utc": "2026-07-09T04:33:01.865069+00:00"
+  },
+  {
+    "job_id": "greenhouse:rdccareers:7790074003",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "rdccareers",
+    "title": "Sr. Machine Learning Engineer ",
+    "location": "Austin, Texas, United States",
+    "posted": "2026-07-08T23:02:07-04:00",
+    "url": "https://boards.greenhouse.io/rdccareers/jobs/7790074003?gh_jid=7790074003",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-09T05:07:35.537787+00:00",
+    "emailed_utc": "2026-07-09T05:07:35.537787+00:00"
+  },
+  {
+    "job_id": "workday:ngc:Northrop_Grumman_External_Site:req:R10239499",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Northrop Grumman",
+    "title": "Principal/Sr. Principal Systems Engineer",
+    "location": "United States-Illinois-Rolling Meadows",
+    "posted": "Posted Today",
+    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Illinois-Rolling-Meadows/Principal-Sr-Principal-Systems-Engineer_R10239499",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-09T05:07:35.537787+00:00",
+    "emailed_utc": "2026-07-09T05:07:35.537787+00:00"
+  },
+  {
+    "job_id": "workday:ngc:Northrop_Grumman_External_Site:req:R10239504",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Northrop Grumman",
+    "title": "Systems Engineer",
+    "location": "United States-Illinois-Rolling Meadows",
+    "posted": "Posted Today",
+    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Illinois-Rolling-Meadows/Systems-Engineer_R10239504",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-09T05:07:35.537787+00:00",
+    "emailed_utc": "2026-07-09T05:07:35.537787+00:00"
+  },
+  {
+    "job_id": "workday:ngc:Northrop_Grumman_External_Site:req:R10239491",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Northrop Grumman",
+    "title": "Principal/Sr. Principal Systems Engineer",
+    "location": "United States-Illinois-Rolling Meadows",
+    "posted": "Posted Today",
+    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Illinois-Rolling-Meadows/Principal-Sr-Principal-Systems-Engineer_R10239491",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-09T05:07:35.537787+00:00",
+    "emailed_utc": "2026-07-09T05:07:35.537787+00:00"
+  },
+  {
+    "job_id": "workday:ngc:Northrop_Grumman_External_Site:req:R10239553",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Northrop Grumman",
+    "title": "Systems Engineer",
+    "location": "United States-Illinois-Rolling Meadows",
+    "posted": "Posted Today",
+    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Illinois-Rolling-Meadows/Systems-Engineer_R10239553",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-09T05:07:35.537787+00:00",
+    "emailed_utc": "2026-07-09T05:07:35.537787+00:00"
+  },
+  {
+    "job_id": "workday:ngc:Northrop_Grumman_External_Site:req:R10238727",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Northrop Grumman",
+    "title": "Senior Principal Systems Engineer - Triton Production",
+    "location": "United States-California-San Diego",
+    "posted": "Posted Today",
+    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/Senior-Principal-Systems-Engineer---Triton-Production_R10238727",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-09T05:07:35.537787+00:00",
+    "emailed_utc": "2026-07-09T05:07:35.537787+00:00"
   }
 ]
