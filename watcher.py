@@ -134,6 +134,7 @@ SMARTRECRUITERS_API_BASE = "https://api.smartrecruiters.com/v1/companies"
 EMAIL_USER = os.getenv("EMAIL_USER")
 EMAIL_APP_PASSWORD = os.getenv("EMAIL_APP_PASSWORD")
 ALERT_TO_EMAIL = os.getenv("ALERT_TO_EMAIL")
+PIPELINE_NAME = os.getenv("PIPELINE_NAME", "")
 
 
 # -----------------------------
@@ -570,6 +571,37 @@ def _atomic_write_json(path: str, payload: Dict[str, Any], indent: int = 2) -> N
                 os.remove(tmp_path)
         except Exception:
             pass
+
+
+def _append_emailed_records(yes_jobs: List[Dict[str, Any]], maybe_jobs: List[Dict[str, Any]], ts_utc: str) -> None:
+    if not PIPELINE_NAME:
+        return
+    path = f"state/emailed_{PIPELINE_NAME}.json"
+    existing: List[Any] = []
+    if os.path.exists(path):
+        try:
+            with open(path, "r", encoding="utf-8") as f:
+                existing = json.load(f)
+            if not isinstance(existing, list):
+                existing = []
+        except Exception:
+            existing = []
+    for bucket, jobs in (("yes", yes_jobs), ("maybe", maybe_jobs)):
+        for j in (jobs or []):
+            existing.append({
+                "job_id": j.get("key", ""),
+                "pipeline": PIPELINE_NAME,
+                "platform": (j.get("key", "") or "").split(":")[0],
+                "company": j.get("company", ""),
+                "title": j.get("title", ""),
+                "location": j.get("location", ""),
+                "posted": j.get("posted", ""),
+                "url": j.get("url", ""),
+                "bucket": bucket,
+                "first_seen_utc": ts_utc,
+                "emailed_utc": ts_utc,
+            })
+    _atomic_write_json(path, existing)
 
 
 def _append_run_log(record: Dict[str, Any]) -> None:
@@ -2080,6 +2112,7 @@ def main(test_email: bool = False, no_email: bool = False, dry_run: bool = False
         else:
             send_email_digest(new_yes, new_maybe, subject_prefix="[Job Alerts]")
             print(f"[ALERT] Sent digest for {len(new_yes)} yes + {len(new_maybe)} maybe new job(s).")
+            _append_emailed_records(new_yes, new_maybe, datetime.now(timezone.utc).isoformat())
             for _j in new_yes + new_maybe:
                 _src = (_j.get("key") or "").split(":")[0]
                 if _src in _per_source:
@@ -2232,6 +2265,7 @@ if __name__ == "__main__":
                 else:
                     send_email_digest(new_yes, new_maybe, subject_prefix=_subject_prefix)
                     print(f"[ALERT] Sent boards digest for {len(new_yes)} yes + {len(new_maybe)} maybe new job(s).")
+                    _append_emailed_records(new_yes, new_maybe, datetime.now(timezone.utc).isoformat())
                     for _j in new_yes + new_maybe:
                         _plat = (_j.get("key") or "").split(":")[0]
                         if _plat in per_platform:

@@ -41,6 +41,7 @@ jobs:
           BOARDS_CSV: data/boards/JOB_BOARDS_PURE_WORKING_SUPPORTED_round2.csv
           HTTP_TIMEOUT: '15'
           STATE_PATH: state/seen_boards.json
+          PIPELINE_NAME: boards
         run: |
           python watcher.py --mode boards --boards-batch-size 200
 

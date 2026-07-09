@@ -46,6 +46,7 @@ jobs:
           BOARDS_DEAD_PATH: state/boards3_dead.json
           BOARDS_DEAD_DETAILS_PATH: state/boards3_dead_details.json
           SUBJECT_PREFIX: "[Boards3 Alerts]"
+          PIPELINE_NAME: boards3
         run: |
           python watcher.py --mode boards --boards-batch-size 50
 
