@@ -154,5 +154,31 @@
     "bucket": "yes",
     "first_seen_utc": "2026-07-09T03:02:55.020971+00:00",
     "emailed_utc": "2026-07-09T03:02:55.020971+00:00"
+  },
+  {
+    "job_id": "greenhouse:upstart:8047140",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "UpStart",
+    "title": "Software Engineer, Unsecured Installments",
+    "location": "United States | Remote",
+    "posted": "2026-07-08T23:18:38-04:00",
+    "url": "https://careers.upstart.com/jobs?gh_jid=8047140",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-09T03:32:19.847618+00:00",
+    "emailed_utc": "2026-07-09T03:32:19.847618+00:00"
+  },
+  {
+    "job_id": "greenhouse:upstart:8047138",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "UpStart",
+    "title": "Senior Software Engineer, Unsecured Installments",
+    "location": "United States | Remote",
+    "posted": "2026-07-08T23:24:08-04:00",
+    "url": "https://careers.upstart.com/jobs?gh_jid=8047138",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-09T03:32:19.847618+00:00",
+    "emailed_utc": "2026-07-09T03:32:19.847618+00:00"
   }
 ]
