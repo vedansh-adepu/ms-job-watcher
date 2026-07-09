@@ -235,6 +235,8 @@ p90 api_calls = 26 (= 25 POSTs + 1 GET) means the majority of large boards hit t
 
 ## Recent changes
 
+- **2026-07-08** — Watchdog workflow added (commit `9bce127b3`). `scripts/watchdog.py` + `.github/workflows/watchdog.yml`. Fires daily at 09:00 UTC via GitHub-native `schedule:` — independent of cron-job.org PAT. Checks each pipeline's last successful run via `GITHUB_TOKEN` (auto-provided, no custom PAT). Thresholds: main >20 min (2× 10-min cadence), boards/boards2/boards3 >60 min (2× 30-min cadence). Sends one aggregate `[Watcher ALERT]` email per day if any pipeline is stale. API errors are skipped (state unknown ≠ stale); "no successful runs found" is treated as stale. If the cron-job.org PAT expires and all four pipelines go silent simultaneously, the watchdog will catch it within 24 hours.
+
 - **2026-07-08** — Silent-source alarm added (commit `a73d06f6c`). Per-pipeline health state in `state/source_health_{pipeline}.json` (`{"consecutive_zeros": {"oracle": 3, ...}}`). Main mode: tracks zero-fetch runs per SUPPORTED_SOURCE; emails `[Watcher ALERT]` after 3 consecutive zeros, skips sources that errored (error ≠ silence). Boards mode: tracks consecutive batches where known boards return 0 total fetched jobs. All four pipelines independently tracked — no shared-file race. Parse errors on health file reset counters with [ERROR] log rather than killing the run (health loss is acceptable; pipeline must keep running).
 
 - **2026-07-08** — Schema validation added to all state-file loaders (commit `054cd0e3b`). Two-tier error handling:
