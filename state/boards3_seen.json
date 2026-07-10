@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-07-10T03:43:48.084410+00:00",
+  "updated_utc": "2026-07-10T04:02:10.762018+00:00",
   "boards_seen": [
     "workday:2020companies:external_careers",
     "workday:23andme:23",
@@ -1147,6 +1147,26 @@
     "workday:customink:customink",
     "workday:cvgrp:cvg",
     "workday:cvshealth:cvs_health_careers",
-    "workday:cw:cwservices"
+    "workday:cw:cwservices",
+    "workday:cw:external",
+    "workday:cwi:cw_careers",
+    "workday:cytokinetics:cytokinetics",
+    "workday:daikinapplied:daikin-careers",
+    "workday:dairynet:dpccareers",
+    "workday:dalcourmaclaren:dalcour-maclaren-careers",
+    "workday:dallascityhall:codcareers",
+    "workday:dallascollege:dallas_college_careers",
+    "workday:dallascollege:dual_credit",
+    "workday:dallascollege:workstudy",
+    "workday:damen:damen_careers",
+    "workday:danafarber:dana-farbernonrecruit",
+    "workday:danaher:danaherjobs",
+    "workday:darktrace:darktaceexternal",
+    "workday:dart:dart",
+    "workday:dasch:dasch_careers",
+    "workday:dataminr:dataminr",
+    "workday:datarobot:datarobot_external_careers",
+    "workday:datasite:datasite",
+    "workday:datev:datev_careers"
   ]
 }
