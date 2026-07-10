@@ -3638,5 +3638,57 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-10T13:01:51.758248+00:00",
     "emailed_utc": "2026-07-10T13:01:51.758248+00:00"
+  },
+  {
+    "job_id": "lever:lingarogroup:587bbaa3-5458-4e85-8732-3b8fe1bd5963",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "lingarogroup",
+    "title": "GCP Data Engineer - Brazil",
+    "location": "United States of America",
+    "posted": "2026-07-10 12:25 UTC",
+    "url": "https://jobs.lever.co/lingarogroup/587bbaa3-5458-4e85-8732-3b8fe1bd5963",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-10T13:32:11.491639+00:00",
+    "emailed_utc": "2026-07-10T13:32:11.491639+00:00"
+  },
+  {
+    "job_id": "lever:qualdoc:7e1ae0ec-b120-4476-8553-f8eb9216f16e",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "qualdoc",
+    "title": "Entry-Level Electrical Design Engineer",
+    "location": "Marietta, OH",
+    "posted": "2026-07-10 11:57 UTC",
+    "url": "https://jobs.lever.co/qualdoc/7e1ae0ec-b120-4476-8553-f8eb9216f16e",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-10T13:32:11.491639+00:00",
+    "emailed_utc": "2026-07-10T13:32:11.491639+00:00"
+  },
+  {
+    "job_id": "lever:qualdoc:2f5c7c72-d8df-4bfe-9eba-e40132878fc7",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "qualdoc",
+    "title": "Senior Applications Engineer \u2013 Critical Power Systems",
+    "location": "Columbus, OH",
+    "posted": "2026-07-10 11:42 UTC",
+    "url": "https://jobs.lever.co/qualdoc/2f5c7c72-d8df-4bfe-9eba-e40132878fc7",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-10T13:32:11.491639+00:00",
+    "emailed_utc": "2026-07-10T13:32:11.491639+00:00"
+  },
+  {
+    "job_id": "lever:solarlandscape:164d7cd8-9043-4ee4-b2e1-c607b314eedc",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "solarlandscape",
+    "title": "Associate Interconnection Engineer",
+    "location": "Asbury Park, NJ",
+    "posted": "2026-07-10 13:20 UTC",
+    "url": "https://jobs.lever.co/solarlandscape/164d7cd8-9043-4ee4-b2e1-c607b314eedc",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-10T13:32:11.491639+00:00",
+    "emailed_utc": "2026-07-10T13:32:11.491639+00:00"
   }
 ]
