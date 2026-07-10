@@ -713,5 +713,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-10T20:01:16.786760+00:00",
     "emailed_utc": "2026-07-10T20:01:16.786760+00:00"
+  },
+  {
+    "job_id": "amazon:c080488d-8596-4a3a-a65e-b6217919389d",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Applied Scientist, Air Science & Tech",
+    "location": "US, WA, Bellevue",
+    "posted": "July 10, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10471599/applied-scientist-air-science-tech",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-10T20:21:11.854699+00:00",
+    "emailed_utc": "2026-07-10T20:21:11.854699+00:00"
+  },
+  {
+    "job_id": "amazon:a344d831-aec7-4a99-b4d2-203ae597faf2",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, AWS Commerce Platform",
+    "location": "US, WA, Seattle",
+    "posted": "July 10, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10471601/software-development-engineer-aws-commerce-platform",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-10T20:21:11.854699+00:00",
+    "emailed_utc": "2026-07-10T20:21:11.854699+00:00"
   }
 ]
