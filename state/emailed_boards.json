@@ -4925,5 +4925,18 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-10T07:03:02.291567+00:00",
     "emailed_utc": "2026-07-10T07:03:02.291567+00:00"
+  },
+  {
+    "job_id": "workday:nvidia:NVIDIAExternalCareerSite:req:JR1968596",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "NVIDIA",
+    "title": "Senior DevOps Engineer, Platform Engineering",
+    "location": "US, CA, Santa Clara",
+    "posted": "Posted Today",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-DevOps-Engineer--Platform-Engineering_JR1968596",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-10T07:32:20.589132+00:00",
+    "emailed_utc": "2026-07-10T07:32:20.589132+00:00"
   }
 ]
