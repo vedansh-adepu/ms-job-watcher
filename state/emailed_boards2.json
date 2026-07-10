@@ -3534,5 +3534,18 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-10T02:01:43.215592+00:00",
     "emailed_utc": "2026-07-10T02:01:43.215592+00:00"
+  },
+  {
+    "job_id": "greenhouse:vulncheck:4312882009",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "vulncheck",
+    "title": "Finance Engineer",
+    "location": "Boston, MA",
+    "posted": "2026-07-09T21:47:03-04:00",
+    "url": "https://job-boards.greenhouse.io/vulncheck/jobs/4312882009",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-10T02:31:39.845525+00:00",
+    "emailed_utc": "2026-07-10T02:31:39.845525+00:00"
   }
 ]

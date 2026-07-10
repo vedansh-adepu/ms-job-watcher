@@ -4665,5 +4665,44 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-10T02:02:21.247584+00:00",
     "emailed_utc": "2026-07-10T02:02:21.247584+00:00"
+  },
+  {
+    "job_id": "greenhouse:riotgames:7981132",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Riot Games",
+    "title": "Staff Machine Learning Engineer - League of Legends",
+    "location": "Los Angeles, USA",
+    "posted": "2026-07-09T20:05:45-04:00",
+    "url": "https://www.riotgames.com/en/work-with-us/job/7981132?gh_jid=7981132",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-10T02:32:36.266568+00:00",
+    "emailed_utc": "2026-07-10T02:32:36.266568+00:00"
+  },
+  {
+    "job_id": "greenhouse:spacex:8627593002",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "SpaceX",
+    "title": "Sr. High Performance Computing (HPC) Systems Engineer",
+    "location": "Hawthorne, CA",
+    "posted": "2026-07-09T20:23:37-04:00",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8627593002?gh_jid=8627593002",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-10T02:32:36.266568+00:00",
+    "emailed_utc": "2026-07-10T02:32:36.266568+00:00"
+  },
+  {
+    "job_id": "greenhouse:spacex:8627595002",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "SpaceX",
+    "title": "Sr. High Performance Computing (HPC) Systems Engineer",
+    "location": "Starbase, TX",
+    "posted": "2026-07-09T20:23:38-04:00",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8627595002?gh_jid=8627595002",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-10T02:32:36.266568+00:00",
+    "emailed_utc": "2026-07-10T02:32:36.266568+00:00"
   }
 ]
