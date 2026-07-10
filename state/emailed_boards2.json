@@ -3365,5 +3365,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-10T00:01:18.535982+00:00",
     "emailed_utc": "2026-07-10T00:01:18.535982+00:00"
+  },
+  {
+    "job_id": "greenhouse:vast:4691866006",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "vast",
+    "title": "Principal Electrical Engineer, Avionics ",
+    "location": "Long Beach, California, United States",
+    "posted": "2026-07-09T18:58:49-04:00",
+    "url": "https://boards.greenhouse.io/vast/jobs/4691866006?gh_jid=4691866006",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-10T00:31:52.794724+00:00",
+    "emailed_utc": "2026-07-10T00:31:52.794724+00:00"
+  },
+  {
+    "job_id": "lever:cfsenergy:76ed672a-9325-4291-b094-59d7e0cd6d84",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "cfsenergy",
+    "title": "Assembly Process Engineer - Contract",
+    "location": "Devens, MA",
+    "posted": "2026-07-10 00:17 UTC",
+    "url": "https://jobs.lever.co/cfsenergy/76ed672a-9325-4291-b094-59d7e0cd6d84",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-10T00:31:52.794724+00:00",
+    "emailed_utc": "2026-07-10T00:31:52.794724+00:00"
   }
 ]
