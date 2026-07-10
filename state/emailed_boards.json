@@ -5939,5 +5939,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-10T16:02:58.776648+00:00",
     "emailed_utc": "2026-07-10T16:02:58.776648+00:00"
+  },
+  {
+    "job_id": "ashby:langchain:6f50988c-8e95-4a68-aeea-a94872651ff7",
+    "pipeline": "boards",
+    "platform": "ashby",
+    "company": "LangChain",
+    "title": "IT Engineer",
+    "location": "New York, NY",
+    "posted": "",
+    "url": "https://jobs.ashbyhq.com/langchain/6f50988c-8e95-4a68-aeea-a94872651ff7",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-10T17:01:22.169694+00:00",
+    "emailed_utc": "2026-07-10T17:01:22.169694+00:00"
+  },
+  {
+    "job_id": "greenhouse:freedomconsulting:5184392007",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Freedomconsulting",
+    "title": "Mid-Level System Engineer 710",
+    "location": "Annapolis Junction, MD",
+    "posted": "2026-07-10T12:02:35-04:00",
+    "url": "https://job-boards.greenhouse.io/freedomconsulting/jobs/5184392007",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-10T17:01:22.169694+00:00",
+    "emailed_utc": "2026-07-10T17:01:22.169694+00:00"
   }
 ]
