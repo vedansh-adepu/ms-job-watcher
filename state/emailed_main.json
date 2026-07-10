@@ -778,5 +778,44 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-10T20:51:10.137442+00:00",
     "emailed_utc": "2026-07-10T20:51:10.137442+00:00"
+  },
+  {
+    "job_id": "amazon:615e8935-8884-4cb8-8fcb-2637fa89c578",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Applied Scientist II, Amazon Search",
+    "location": "US, WA, Seattle",
+    "posted": "July 10, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10471620/applied-scientist-ii-amazon-search",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-10T21:01:24.826970+00:00",
+    "emailed_utc": "2026-07-10T21:01:24.826970+00:00"
+  },
+  {
+    "job_id": "amazon:40026310-b8d4-4019-93b2-5759a24327b5",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "SDE III, Amazon Optics",
+    "location": "US, VA, Arlington",
+    "posted": "July 10, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10471621/sde-iii-amazon-optics",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-10T21:01:24.826970+00:00",
+    "emailed_utc": "2026-07-10T21:01:24.826970+00:00"
+  },
+  {
+    "job_id": "amazon:3051055a-fd88-4228-962c-214be979caad",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, Amazon Optics",
+    "location": "US, VA, Herndon",
+    "posted": "July 10, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10471619/software-development-engineer-amazon-optics",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-10T21:01:24.826970+00:00",
+    "emailed_utc": "2026-07-10T21:01:24.826970+00:00"
   }
 ]
