@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-07-10T05:31:53.078439+00:00",
+  "updated_utc": "2026-07-10T06:03:44.001798+00:00",
   "boards_seen": [
     "workday:2020companies:external_careers",
     "workday:23andme:23",
@@ -1247,6 +1247,26 @@
     "workday:doterra:doterracareers",
     "workday:doterra:doterraeuropecareers",
     "workday:dow:externalcareers",
-    "workday:dowjones:new_york_post_careers"
+    "workday:dowjones:dow_jones_career",
+    "workday:dowjones:new_york_post_careers",
+    "workday:dowjones:news_corp_australia_careers",
+    "workday:dowjones:news_corp_careers",
+    "workday:dowjones:sky_news_australia_careers",
+    "workday:dowjones:storyful_careers",
+    "workday:dowjones:wsj_external_career",
+    "workday:drafthouse:alamo",
+    "workday:draftkings:draftkings",
+    "workday:draper:draper_careers",
+    "workday:dreamscaperio:rio_careers",
+    "workday:drinkpak:drinkpak",
+    "workday:driscoll:dhs",
+    "workday:driscolls:driscolls",
+    "workday:driscolls:open_application",
+    "workday:drivetime:drivetime",
+    "workday:druryhotels:druryjobs",
+    "workday:dssmith:careers",
+    "workday:dsstpublicschools:dsst_careers",
+    "workday:dtn:dtn_careers",
+    "workday:dtna:dtna_affiliate"
   ]
 }
