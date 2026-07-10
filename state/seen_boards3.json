@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-07-10T08:36:22.267006+00:00",
+  "updated_utc": "2026-07-10T11:44:57.700064+00:00",
   "seen_ids": [
     "workday:2020companies:external_careers:req:106802",
     "workday:2020companies:external_careers:req:107205",
@@ -3786,6 +3786,13 @@
     "workday:enbridge:enbridge_careers:req:71030",
     "workday:enbridge:enbridge_careers:req:71805",
     "workday:energynorthwest:external:req:199",
-    "workday:energynorthwest:external:req:223"
+    "workday:energynorthwest:external:req:223",
+    "workday:enovis:enovis:req:R0030979",
+    "workday:enovis:enovis:req:R0032549",
+    "workday:enovis:enovis:req:R0032957",
+    "workday:enovis:enovis:req:R0033005",
+    "workday:enovis:enovis:req:R0033105",
+    "workday:enovis:enovis:req:R0033126",
+    "workday:enovis:enovis:req:R0033149"
   ]
 }
