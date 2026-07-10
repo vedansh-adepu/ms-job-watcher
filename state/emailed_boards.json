@@ -5029,5 +5029,44 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-10T12:32:54.242191+00:00",
     "emailed_utc": "2026-07-10T12:32:54.242191+00:00"
+  },
+  {
+    "job_id": "workday:ngc:Northrop_Grumman_External_Site:req:R10239580",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Northrop Grumman",
+    "title": "Python Software Engineer Level 2 or 3",
+    "location": "United States-Colorado-Aurora",
+    "posted": "Posted Today",
+    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/Python-Software-Engineer-Level-2-or-3_R10239580",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-10T13:02:50.392257+00:00",
+    "emailed_utc": "2026-07-10T13:02:50.392257+00:00"
+  },
+  {
+    "job_id": "workday:ngc:Northrop_Grumman_External_Site:req:R10239755",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Northrop Grumman",
+    "title": "Sr Principal Engineering Liaison \u2013 NCR Liaison Officer (26-330)",
+    "location": "United States-Virginia-Suffolk",
+    "posted": "Posted Today",
+    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Virginia-Suffolk/Sr-Principal-Engineering-Liaison---NCR-Liaison-Officer--26-330-_R10239755",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-10T13:02:50.392257+00:00",
+    "emailed_utc": "2026-07-10T13:02:50.392257+00:00"
+  },
+  {
+    "job_id": "workday:ngc:Northrop_Grumman_External_Site:req:R10238810",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Northrop Grumman",
+    "title": "Sr Staff Engineer Systems",
+    "location": "United States-Florida-Melbourne",
+    "posted": "Posted Today",
+    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Sr-Staff-Engineer-Systems_R10238810",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-10T13:02:50.392257+00:00",
+    "emailed_utc": "2026-07-10T13:02:50.392257+00:00"
   }
 ]
