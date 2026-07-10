@@ -648,5 +648,18 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-10T18:21:14.803825+00:00",
     "emailed_utc": "2026-07-10T18:21:14.803825+00:00"
+  },
+  {
+    "job_id": "amazon:f0d689df-3cfb-416d-a1be-01b1b3db12e6",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, Consumer Domains",
+    "location": "US, NJ, Newark",
+    "posted": "July 10, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10471474/software-development-engineer-consumer-domains",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-10T18:33:18.011519+00:00",
+    "emailed_utc": "2026-07-10T18:33:18.011519+00:00"
   }
 ]
