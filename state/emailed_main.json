@@ -440,5 +440,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-10T00:21:09.407562+00:00",
     "emailed_utc": "2026-07-10T00:21:09.407562+00:00"
+  },
+  {
+    "job_id": "nvidia:893396253955",
+    "pipeline": "main",
+    "platform": "nvidia",
+    "company": "NVIDIA",
+    "title": "Senior Platform Service Software Engineer",
+    "location": "Santa Clara, CA, US",
+    "posted": "2026-07-09 00:00 UTC",
+    "url": "https://nvidia.eightfold.ai/careers/job/893396253955",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-10T00:51:12.321793+00:00",
+    "emailed_utc": "2026-07-10T00:51:12.321793+00:00"
+  },
+  {
+    "job_id": "nvidia:893396253943",
+    "pipeline": "main",
+    "platform": "nvidia",
+    "company": "NVIDIA",
+    "title": "Senior Debugger Software Engineer",
+    "location": "Santa Clara, CA, US",
+    "posted": "2026-07-09 00:00 UTC",
+    "url": "https://nvidia.eightfold.ai/careers/job/893396253943",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-10T00:51:12.321793+00:00",
+    "emailed_utc": "2026-07-10T00:51:12.321793+00:00"
   }
 ]
