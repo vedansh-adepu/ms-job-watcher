@@ -5094,5 +5094,44 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-10T13:33:11.958587+00:00",
     "emailed_utc": "2026-07-10T13:33:11.958587+00:00"
+  },
+  {
+    "job_id": "greenhouse:latitude:8055168",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Latitude",
+    "title": "Senior Embedded Software Engineer - RTOS",
+    "location": "Pittsburgh, PA, Palo Alto, CA, Detroit, MI",
+    "posted": "2026-07-10T09:38:59-04:00",
+    "url": "https://job-boards.greenhouse.io/latitude/jobs/8055168",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-10T14:31:17.951719+00:00",
+    "emailed_utc": "2026-07-10T14:31:17.951719+00:00"
+  },
+  {
+    "job_id": "greenhouse:latitude:8055181",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Latitude",
+    "title": "Senior Hardware Engineer,  Lidar",
+    "location": "Pittsburgh, PA, Palo Alto, CA, Detroit, MI",
+    "posted": "2026-07-10T09:47:28-04:00",
+    "url": "https://job-boards.greenhouse.io/latitude/jobs/8055181",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-10T14:31:17.951719+00:00",
+    "emailed_utc": "2026-07-10T14:31:17.951719+00:00"
+  },
+  {
+    "job_id": "greenhouse:latitude:8055174",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Latitude",
+    "title": "Senior Software Engineer - Embedded Tools and Test",
+    "location": "Pittsburgh, PA, Palo Alto, CA, Detroit, MI",
+    "posted": "2026-07-10T09:42:46-04:00",
+    "url": "https://job-boards.greenhouse.io/latitude/jobs/8055174",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-10T14:31:17.951719+00:00",
+    "emailed_utc": "2026-07-10T14:31:17.951719+00:00"
   }
 ]
