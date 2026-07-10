@@ -531,5 +531,18 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-10T16:31:23.817611+00:00",
     "emailed_utc": "2026-07-10T16:31:23.817611+00:00"
+  },
+  {
+    "job_id": "amazon:42983253-81b6-4d60-ad74-7ef53351719c",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, Sponsored Products and Brands",
+    "location": "US, CA, Palo Alto",
+    "posted": "July 10, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10471194/software-development-engineer-sponsored-products-and-brands",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-10T16:41:14.036728+00:00",
+    "emailed_utc": "2026-07-10T16:41:14.036728+00:00"
   }
 ]
