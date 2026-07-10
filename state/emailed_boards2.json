@@ -3612,5 +3612,18 @@
     "bucket": "yes",
     "first_seen_utc": "2026-07-10T09:31:57.134450+00:00",
     "emailed_utc": "2026-07-10T09:31:57.134450+00:00"
+  },
+  {
+    "job_id": "greenhouse:apexcompanies:5276763008",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "apexcompanies",
+    "title": "Environmental Engineer",
+    "location": "Greensburg, PA",
+    "posted": "2026-07-10T08:15:07-04:00",
+    "url": "https://job-boards.greenhouse.io/apexcompanies/jobs/5276763008",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-10T12:31:21.155715+00:00",
+    "emailed_utc": "2026-07-10T12:31:21.155715+00:00"
   }
 ]
