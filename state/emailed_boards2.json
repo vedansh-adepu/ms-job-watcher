@@ -4002,5 +4002,70 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-10T16:31:35.615351+00:00",
     "emailed_utc": "2026-07-10T16:31:35.615351+00:00"
+  },
+  {
+    "job_id": "greenhouse:vibesllc:8627387002",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "vibesllc",
+    "title": "Senior Software Engineer, Studio",
+    "location": "Chicago, IL (Hybrid)",
+    "posted": "2026-07-10T12:00:22-04:00",
+    "url": "https://job-boards.greenhouse.io/vibesllc/jobs/8627387002",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-10T17:02:11.309176+00:00",
+    "emailed_utc": "2026-07-10T17:02:11.309176+00:00"
+  },
+  {
+    "job_id": "greenhouse:zscaler:5177370007",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "zscaler",
+    "title": "Principal Software Development Engineer",
+    "location": "Remote - USA; San Jose, California, USA",
+    "posted": "2026-07-10T12:33:07-04:00",
+    "url": "https://job-boards.greenhouse.io/zscaler/jobs/5177370007",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-10T17:02:11.309176+00:00",
+    "emailed_utc": "2026-07-10T17:02:11.309176+00:00"
+  },
+  {
+    "job_id": "lever:bumbleinc:aa1ccf7e-a11c-4fea-84eb-90d4e93084d3",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "bumbleinc",
+    "title": "Senior Software Engineer  - Date",
+    "location": "US TX Austin",
+    "posted": "2026-07-10 15:53 UTC",
+    "url": "https://jobs.lever.co/bumbleinc/aa1ccf7e-a11c-4fea-84eb-90d4e93084d3",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-10T17:02:11.309176+00:00",
+    "emailed_utc": "2026-07-10T17:02:11.309176+00:00"
+  },
+  {
+    "job_id": "lever:quantummetric:58e7a348-1de4-4f59-86b7-8e900cbaccd0",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "quantummetric",
+    "title": "Senior Customer Success Engineer - Mobile App",
+    "location": "United States",
+    "posted": "2026-07-09 19:33 UTC",
+    "url": "https://jobs.lever.co/quantummetric/58e7a348-1de4-4f59-86b7-8e900cbaccd0",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-10T17:02:11.309176+00:00",
+    "emailed_utc": "2026-07-10T17:02:11.309176+00:00"
+  },
+  {
+    "job_id": "lever:thinkahead:cb488cff-1a44-4946-8850-2b1abdf8047e",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "thinkahead",
+    "title": "Forward Deployed Engineer",
+    "location": "United States",
+    "posted": "2026-07-10 16:10 UTC",
+    "url": "https://jobs.lever.co/thinkahead/cb488cff-1a44-4946-8850-2b1abdf8047e",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-10T17:02:11.309176+00:00",
+    "emailed_utc": "2026-07-10T17:02:11.309176+00:00"
   }
 ]
