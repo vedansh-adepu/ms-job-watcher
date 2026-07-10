@@ -8981,5 +8981,57 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-10T23:02:30.564834+00:00",
     "emailed_utc": "2026-07-10T23:02:30.564834+00:00"
+  },
+  {
+    "job_id": "greenhouse:rocketlab:7801742003",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "rocketlab",
+    "title": "Senior Compensation Partner - Manufacturing & Engineering",
+    "location": "Long Beach, CA",
+    "posted": "2026-07-10T18:16:01-04:00",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7801742003",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-10T23:32:38.821115+00:00",
+    "emailed_utc": "2026-07-10T23:32:38.821115+00:00"
+  },
+  {
+    "job_id": "greenhouse:samsara:8039914",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Samsara",
+    "title": "Senior Data Engineer II",
+    "location": "Remote - US",
+    "posted": "2026-07-10T18:25:36-04:00",
+    "url": "https://www.samsara.com/company/careers/roles/8039914?gh_jid=8039914",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-10T23:32:38.821115+00:00",
+    "emailed_utc": "2026-07-10T23:32:38.821115+00:00"
+  },
+  {
+    "job_id": "greenhouse:smartsheet:8056301",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Smartsheet",
+    "title": "Sr. Data Scientist II (Remote Eligible)",
+    "location": " -REMOTE, USA-",
+    "posted": "2026-07-10T18:15:59-04:00",
+    "url": "https://job-boards.greenhouse.io/smartsheet/jobs/8056301",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-10T23:32:38.821115+00:00",
+    "emailed_utc": "2026-07-10T23:32:38.821115+00:00"
+  },
+  {
+    "job_id": "greenhouse:spacex:8628971002",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "SpaceX",
+    "title": "Mechanical Engineer, Electro-Mechanical (Starlink)",
+    "location": "Redmond, WA",
+    "posted": "2026-07-10T17:39:08-04:00",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8628971002?gh_jid=8628971002",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-10T23:32:38.821115+00:00",
+    "emailed_utc": "2026-07-10T23:32:38.821115+00:00"
   }
 ]
