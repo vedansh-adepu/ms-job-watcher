@@ -3833,5 +3833,83 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-10T14:31:38.124948+00:00",
     "emailed_utc": "2026-07-10T14:31:38.124948+00:00"
+  },
+  {
+    "job_id": "greenhouse:northpointtechnology:8628156002",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "northpointtechnology",
+    "title": "Software Engineer - UI (Top Secret\u00a0with agreement to obtain CI Poly)",
+    "location": "Springfield, Virginia, United States",
+    "posted": "2026-07-10T10:22:11-04:00",
+    "url": "https://job-boards.greenhouse.io/northpointtechnology/jobs/8628156002",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-10T15:01:53.366531+00:00",
+    "emailed_utc": "2026-07-10T15:01:53.366531+00:00"
+  },
+  {
+    "job_id": "greenhouse:smxtech:7800607003",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "smxtech",
+    "title": "AI Engineer",
+    "location": "Aiea, HI",
+    "posted": "2026-07-10T10:09:08-04:00",
+    "url": "https://www.smxtech.com/careers/?gh_jid=7800607003",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-10T15:01:53.366531+00:00",
+    "emailed_utc": "2026-07-10T15:01:53.366531+00:00"
+  },
+  {
+    "job_id": "greenhouse:smxtech:7800516003",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "smxtech",
+    "title": "AI Engineer & Integrator",
+    "location": "Aiea, HI",
+    "posted": "2026-07-10T10:06:54-04:00",
+    "url": "https://www.smxtech.com/careers/?gh_jid=7800516003",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-10T15:01:53.366531+00:00",
+    "emailed_utc": "2026-07-10T15:01:53.366531+00:00"
+  },
+  {
+    "job_id": "greenhouse:kargo22:5107729007",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "kargo22",
+    "title": "Staff Software Engineer (Backend)",
+    "location": "New York, NY",
+    "posted": "2026-07-10T09:19:59-04:00",
+    "url": "https://www.kargo.com/careers/5107729007?gh_jid=5107729007",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-10T15:01:53.366531+00:00",
+    "emailed_utc": "2026-07-10T15:01:53.366531+00:00"
+  },
+  {
+    "job_id": "greenhouse:lotusworks:4924746101",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "lotusworks",
+    "title": "Commissioning Engineer",
+    "location": "Boise, Idaho, United States ",
+    "posted": "2026-07-10T09:41:48-04:00",
+    "url": "https://job-boards.eu.greenhouse.io/lotusworks/jobs/4924746101",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-10T15:01:53.366531+00:00",
+    "emailed_utc": "2026-07-10T15:01:53.366531+00:00"
+  },
+  {
+    "job_id": "greenhouse:taboola:8054776",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "taboola",
+    "title": "Senior Product Analyst",
+    "location": "Los Angeles, California, United States",
+    "posted": "2026-07-10T09:21:19-04:00",
+    "url": "https://www.taboola.com/careers/job/8054776?gh_jid=8054776",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-10T15:01:53.366531+00:00",
+    "emailed_utc": "2026-07-10T15:01:53.366531+00:00"
   }
 ]
