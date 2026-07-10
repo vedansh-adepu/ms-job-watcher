@@ -5159,5 +5159,70 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-10T23:01:35.065858+00:00",
     "emailed_utc": "2026-07-10T23:01:35.065858+00:00"
+  },
+  {
+    "job_id": "greenhouse:xealth:7801745003",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "xealth",
+    "title": "Director of Engineering",
+    "location": "Seattle, WA",
+    "posted": "2026-07-10T18:44:06-04:00",
+    "url": "https://job-boards.greenhouse.io/xealth/jobs/7801745003",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-10T23:31:50.008992+00:00",
+    "emailed_utc": "2026-07-10T23:31:50.008992+00:00"
+  },
+  {
+    "job_id": "greenhouse:xealth:7801733003",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "xealth",
+    "title": "Senior Systems Engineer",
+    "location": "Seattle, WA ",
+    "posted": "2026-07-10T18:45:20-04:00",
+    "url": "https://job-boards.greenhouse.io/xealth/jobs/7801733003",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-10T23:31:50.008992+00:00",
+    "emailed_utc": "2026-07-10T23:31:50.008992+00:00"
+  },
+  {
+    "job_id": "lever:brillio-2:e01aac9d-67e1-4038-862f-7f5a7c9065a3",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "brillio-2",
+    "title": "Lead Data Analyst - R01568245",
+    "location": "Dallas, Texas, United States",
+    "posted": "2026-07-10 08:38 UTC",
+    "url": "https://jobs.lever.co/brillio-2/e01aac9d-67e1-4038-862f-7f5a7c9065a3",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-10T23:31:50.008992+00:00",
+    "emailed_utc": "2026-07-10T23:31:50.008992+00:00"
+  },
+  {
+    "job_id": "lever:foodsmart:fbb8ad82-4d32-4021-a078-04814833091f",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "foodsmart",
+    "title": "Staff Data Engineer",
+    "location": "Remote (US)",
+    "posted": "2026-07-10 22:24 UTC",
+    "url": "https://jobs.lever.co/foodsmart/fbb8ad82-4d32-4021-a078-04814833091f",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-10T23:31:50.008992+00:00",
+    "emailed_utc": "2026-07-10T23:31:50.008992+00:00"
+  },
+  {
+    "job_id": "lever:mashgin:0c1fa72b-bcbf-46f7-a65e-24ef3c13f97f",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "mashgin",
+    "title": "Senior Software Engineer, Integrations",
+    "location": "Chicago, IL",
+    "posted": "2026-07-10 17:32 UTC",
+    "url": "https://jobs.lever.co/mashgin/0c1fa72b-bcbf-46f7-a65e-24ef3c13f97f",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-10T23:31:50.008992+00:00",
+    "emailed_utc": "2026-07-10T23:31:50.008992+00:00"
   }
 ]
