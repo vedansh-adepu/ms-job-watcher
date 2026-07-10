@@ -8396,5 +8396,83 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-10T21:02:54.248530+00:00",
     "emailed_utc": "2026-07-10T21:02:54.248530+00:00"
+  },
+  {
+    "job_id": "ashby:kustomer:eacd70b8-81fd-4ea6-a590-32e4571cc700",
+    "pipeline": "boards",
+    "platform": "ashby",
+    "company": "Kustomer",
+    "title": "Software Engineer, Full Stack  ",
+    "location": "US - New York, NY",
+    "posted": "",
+    "url": "https://jobs.ashbyhq.com/kustomer/eacd70b8-81fd-4ea6-a590-32e4571cc700",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-10T21:32:13.171033+00:00",
+    "emailed_utc": "2026-07-10T21:32:13.171033+00:00"
+  },
+  {
+    "job_id": "ashby:kustomer:4037272a-7fd3-4040-906b-47fde875a817",
+    "pipeline": "boards",
+    "platform": "ashby",
+    "company": "Kustomer",
+    "title": "Software Engineer, Full Stack (Early Career)",
+    "location": "US - New York, NY",
+    "posted": "",
+    "url": "https://jobs.ashbyhq.com/kustomer/4037272a-7fd3-4040-906b-47fde875a817",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-10T21:32:13.171033+00:00",
+    "emailed_utc": "2026-07-10T21:32:13.171033+00:00"
+  },
+  {
+    "job_id": "greenhouse:upstart:8056243",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "UpStart",
+    "title": "Senior Software Engineer, Marketplace Optimization",
+    "location": "United States | Remote",
+    "posted": "2026-07-10T17:17:58-04:00",
+    "url": "https://careers.upstart.com/jobs?gh_jid=8056243",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-10T21:32:13.171033+00:00",
+    "emailed_utc": "2026-07-10T21:32:13.171033+00:00"
+  },
+  {
+    "job_id": "greenhouse:zoro:4695514006",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Zoro",
+    "title": "Sr. Software Engineer I, Data & ML Platform",
+    "location": "Chicago, Illinois, United States",
+    "posted": "2026-07-10T15:19:29-04:00",
+    "url": "https://www.zoro.com/careers/jobs?gh_jid=4695514006",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-10T21:32:13.171033+00:00",
+    "emailed_utc": "2026-07-10T21:32:13.171033+00:00"
+  },
+  {
+    "job_id": "lever:zoox:909ee174-0c55-4bcb-9891-48569bcd7651",
+    "pipeline": "boards",
+    "platform": "lever",
+    "company": "zoox",
+    "title": "Senior Software Engineer, Build Infrastructure",
+    "location": "Foster City, CA",
+    "posted": "2026-07-10 16:53 UTC",
+    "url": "https://jobs.lever.co/zoox/909ee174-0c55-4bcb-9891-48569bcd7651",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-10T21:32:13.171033+00:00",
+    "emailed_utc": "2026-07-10T21:32:13.171033+00:00"
+  },
+  {
+    "job_id": "ashby:render:ca865a27-e5c2-4b3d-843a-076f898ad1df",
+    "pipeline": "boards",
+    "platform": "ashby",
+    "company": "Render",
+    "title": "GTM Engineer",
+    "location": "Remote: United States",
+    "posted": "",
+    "url": "https://jobs.ashbyhq.com/render/ca865a27-e5c2-4b3d-843a-076f898ad1df",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-10T21:32:13.171033+00:00",
+    "emailed_utc": "2026-07-10T21:32:13.171033+00:00"
   }
 ]
