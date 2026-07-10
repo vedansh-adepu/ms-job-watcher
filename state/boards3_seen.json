@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-07-10T03:02:49.347372+00:00",
+  "updated_utc": "2026-07-10T03:43:48.084410+00:00",
   "boards_seen": [
     "workday:2020companies:external_careers",
     "workday:23andme:23",
@@ -1127,6 +1127,26 @@
     "workday:crownholdings:crownholdings",
     "workday:crownresorts:crown_careers",
     "workday:cryoport:external",
-    "workday:csagroup:csagroup"
+    "workday:csagroup:csagroup",
+    "workday:cscc:cscc_ext",
+    "workday:csgi:csgcareers",
+    "workday:csgonline:csg",
+    "workday:csiweb:csi_careers",
+    "workday:csl:csl_external",
+    "workday:csusystem:fortcollins_careers",
+    "workday:cswg:cs_careers",
+    "workday:ctbcholding:external",
+    "workday:ctca:cancercenter_careers",
+    "workday:ctran:c-tran_careers",
+    "workday:cubic:cubic_global_careers",
+    "workday:cubic:cubic_usa_careers",
+    "workday:cumminggroup:cgc",
+    "workday:curriculumassociates:external",
+    "workday:curtisswright:cw_external_career_site",
+    "workday:customersbank:customersbankcareers",
+    "workday:customink:customink",
+    "workday:cvgrp:cvg",
+    "workday:cvshealth:cvs_health_careers",
+    "workday:cw:cwservices"
   ]
 }
