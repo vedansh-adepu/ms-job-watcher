@@ -479,5 +479,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-10T05:01:13.465890+00:00",
     "emailed_utc": "2026-07-10T05:01:13.465890+00:00"
+  },
+  {
+    "job_id": "amazon:464a80c8-ca14-4263-8b8d-7573c8c803cf",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Manager, Discovery Services, IMDb Platform Engineering",
+    "location": "US, CA, Santa Monica",
+    "posted": "July 10, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10471019/software-development-manager-discovery-services-imdb-platform-engineering",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-10T14:11:11.831402+00:00",
+    "emailed_utc": "2026-07-10T14:11:11.831402+00:00"
+  },
+  {
+    "job_id": "amazon:90e1ecea-e7b3-4e0c-af91-237481e5a02f",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Engineer II, Autonomy Platform, Data and Tools",
+    "location": "US, MA, North Reading",
+    "posted": "July 10, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10470557/software-engineer-ii-autonomy-platform-data-and-tools",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-10T14:11:11.831402+00:00",
+    "emailed_utc": "2026-07-10T14:11:11.831402+00:00"
   }
 ]
