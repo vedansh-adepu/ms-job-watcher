@@ -3495,5 +3495,44 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-10T01:31:16.267892+00:00",
     "emailed_utc": "2026-07-10T01:31:16.267892+00:00"
+  },
+  {
+    "job_id": "greenhouse:outsetmedical:8606943002",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "outsetmedical",
+    "title": "Field Service Engineer II (Akron, OH)",
+    "location": "Akron, OH",
+    "posted": "2026-07-09T20:29:54-04:00",
+    "url": "https://job-boards.greenhouse.io/outsetmedical/jobs/8606943002",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-10T02:01:43.215592+00:00",
+    "emailed_utc": "2026-07-10T02:01:43.215592+00:00"
+  },
+  {
+    "job_id": "greenhouse:outsetmedical:8612407002",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "outsetmedical",
+    "title": "Field Service Engineer II (Charleston, SC)",
+    "location": "Charleston, SC",
+    "posted": "2026-07-09T20:22:35-04:00",
+    "url": "https://job-boards.greenhouse.io/outsetmedical/jobs/8612407002",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-10T02:01:43.215592+00:00",
+    "emailed_utc": "2026-07-10T02:01:43.215592+00:00"
+  },
+  {
+    "job_id": "greenhouse:pitchbookdata:4695133006",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "pitchbookdata",
+    "title": "Sr. Manager, GTM Analytics",
+    "location": "Seattle, Washington, United States",
+    "posted": "2026-07-09T20:47:38-04:00",
+    "url": "https://job-boards.greenhouse.io/pitchbookdata/jobs/4695133006",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-10T02:01:43.215592+00:00",
+    "emailed_utc": "2026-07-10T02:01:43.215592+00:00"
   }
 ]
