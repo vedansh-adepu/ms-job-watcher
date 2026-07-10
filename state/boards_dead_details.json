@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-07-10T06:01:25.687537+00:00",
+  "updated_utc": "2026-07-10T06:33:00.232121+00:00",
   "dead_details": {
     "greenhouse:auth0": {
       "first_seen_utc": "2026-02-16T03:03:47.356270+00:00",
@@ -8438,6 +8438,15 @@
       "first_seen_utc": "2026-07-10T02:31:03.300056+00:00",
       "last_seen_utc": "2026-07-10T02:31:03.300056+00:00",
       "platform": "lever",
+      "company": "",
+      "board_url": "",
+      "last_status": 404,
+      "last_error": "HTTP 404/410 (board not found)"
+    },
+    "greenhouse:creditkarma": {
+      "first_seen_utc": "2026-07-10T06:32:15.874742+00:00",
+      "last_seen_utc": "2026-07-10T06:32:15.874742+00:00",
+      "platform": "greenhouse",
       "company": "",
       "board_url": "",
       "last_status": 404,
