@@ -3339,5 +3339,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-09T23:31:19.159858+00:00",
     "emailed_utc": "2026-07-09T23:31:19.159858+00:00"
+  },
+  {
+    "job_id": "greenhouse:larkinstreetyouthservices:5319124008",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "larkinstreetyouthservices",
+    "title": "Data Analyst",
+    "location": "San Francisco, CA",
+    "posted": "2026-07-09T19:59:48-04:00",
+    "url": "https://job-boards.greenhouse.io/larkinstreetyouthservices/jobs/5319124008",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-10T00:01:18.535982+00:00",
+    "emailed_utc": "2026-07-10T00:01:18.535982+00:00"
+  },
+  {
+    "job_id": "greenhouse:noxgroup:5302167008",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "noxgroup",
+    "title": "SOFTWARE MANAGER",
+    "location": "Phoenix, Arizona, United States",
+    "posted": "2026-07-09T19:42:22-04:00",
+    "url": "https://noxgroup.us/careers/?gh_jid=5302167008",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-10T00:01:18.535982+00:00",
+    "emailed_utc": "2026-07-10T00:01:18.535982+00:00"
   }
 ]
