@@ -7070,5 +7070,44 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-10T19:02:13.918411+00:00",
     "emailed_utc": "2026-07-10T19:02:13.918411+00:00"
+  },
+  {
+    "job_id": "ashby:anyscale:8691daef-bfe5-4d01-871f-cf2226ba0c82",
+    "pipeline": "boards",
+    "platform": "ashby",
+    "company": "Anyscale",
+    "title": "Software Engineer, Infrastructure",
+    "location": "San Francisco or Palo Alto, CA",
+    "posted": "",
+    "url": "https://jobs.ashbyhq.com/anyscale/8691daef-bfe5-4d01-871f-cf2226ba0c82",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-10T19:31:15.499518+00:00",
+    "emailed_utc": "2026-07-10T19:31:15.499518+00:00"
+  },
+  {
+    "job_id": "greenhouse:freedomconsulting:5151625007",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Freedomconsulting",
+    "title": "Audio Visual Engineer 674",
+    "location": "Herndon, VA",
+    "posted": "2026-07-10T13:31:05-04:00",
+    "url": "https://job-boards.greenhouse.io/freedomconsulting/jobs/5151625007",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-10T19:31:15.499518+00:00",
+    "emailed_utc": "2026-07-10T19:31:15.499518+00:00"
+  },
+  {
+    "job_id": "greenhouse:torcrobotics:8620701002",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Torcrobotics",
+    "title": "Systems Engineer (Functional Safety) \u2013 Compute Platform Systems",
+    "location": "Ann Arbor, MI",
+    "posted": "2026-07-10T13:31:27-04:00",
+    "url": "https://job-boards.greenhouse.io/torcrobotics/jobs/8620701002",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-10T19:31:15.499518+00:00",
+    "emailed_utc": "2026-07-10T19:31:15.499518+00:00"
   }
 ]
