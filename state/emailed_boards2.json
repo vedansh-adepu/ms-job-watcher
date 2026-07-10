@@ -3547,5 +3547,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-10T02:31:39.845525+00:00",
     "emailed_utc": "2026-07-10T02:31:39.845525+00:00"
+  },
+  {
+    "job_id": "greenhouse:altentechnologyusa:5184064007",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "altentechnologyusa",
+    "title": "Lead Systems Engineer (Manipulation)",
+    "location": "North Reading, MA",
+    "posted": "2026-07-09T23:27:40-04:00",
+    "url": "https://job-boards.greenhouse.io/altentechnologyusa/jobs/5184064007",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-10T03:31:18.569363+00:00",
+    "emailed_utc": "2026-07-10T03:31:18.569363+00:00"
+  },
+  {
+    "job_id": "greenhouse:boulevard:4669169006",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "boulevard",
+    "title": "Director of Engineering, Cloud & Reliability",
+    "location": "Remote - USA",
+    "posted": "2026-07-09T22:02:01-04:00",
+    "url": "https://job-boards.greenhouse.io/boulevard/jobs/4669169006",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-10T03:31:18.569363+00:00",
+    "emailed_utc": "2026-07-10T03:31:18.569363+00:00"
   }
 ]
