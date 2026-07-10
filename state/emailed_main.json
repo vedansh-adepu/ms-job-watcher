@@ -739,5 +739,44 @@
     "bucket": "yes",
     "first_seen_utc": "2026-07-10T20:21:11.854699+00:00",
     "emailed_utc": "2026-07-10T20:21:11.854699+00:00"
+  },
+  {
+    "job_id": "amazon:2ad4aa94-21d6-4d28-abd8-19b9500dec4d",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer , Adaptive Search Relevance",
+    "location": "US, WA, Seattle",
+    "posted": "July 10, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10471616/software-development-engineer-adaptive-search-relevance",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-10T20:51:10.137442+00:00",
+    "emailed_utc": "2026-07-10T20:51:10.137442+00:00"
+  },
+  {
+    "job_id": "microsoft:1970393556917722",
+    "pipeline": "main",
+    "platform": "microsoft",
+    "company": "Microsoft",
+    "title": "Firmware Engineer II",
+    "location": "Redmond, WA, US",
+    "posted": "2026-07-10 20:38 UTC",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556917722",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-10T20:51:10.137442+00:00",
+    "emailed_utc": "2026-07-10T20:51:10.137442+00:00"
+  },
+  {
+    "job_id": "amazon:efa11b0c-3bcd-45ea-a948-65388f27725d",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Dev Engineer II, Unified Financing Offers (UFO) ",
+    "location": "US, WA, Seattle",
+    "posted": "July  7, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10468169/software-dev-engineer-ii-unified-financing-offers-ufo",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-10T20:51:10.137442+00:00",
+    "emailed_utc": "2026-07-10T20:51:10.137442+00:00"
   }
 ]
