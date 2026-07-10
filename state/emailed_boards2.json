@@ -5120,5 +5120,44 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-10T22:40:30.069659+00:00",
     "emailed_utc": "2026-07-10T22:40:30.069659+00:00"
+  },
+  {
+    "job_id": "greenhouse:pitchbookdata:4687505006",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "pitchbookdata",
+    "title": "Machine Learning Engineer",
+    "location": "Seattle, Washington, United States",
+    "posted": "2026-07-10T17:31:09-04:00",
+    "url": "https://job-boards.greenhouse.io/pitchbookdata/jobs/4687505006",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-10T23:01:35.065858+00:00",
+    "emailed_utc": "2026-07-10T23:01:35.065858+00:00"
+  },
+  {
+    "job_id": "greenhouse:pointdigitalfinance:8627618002",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "pointdigitalfinance",
+    "title": "Lead Data Analyst",
+    "location": "United States",
+    "posted": "2026-07-10T17:53:04-04:00",
+    "url": "https://point.com/hiring?gh_jid=8627618002",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-10T23:01:35.065858+00:00",
+    "emailed_utc": "2026-07-10T23:01:35.065858+00:00"
+  },
+  {
+    "job_id": "greenhouse:queracomputinginc:5326184008",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "queracomputinginc",
+    "title": "Senior Applied AI Engineer",
+    "location": "Boston, MA, USA",
+    "posted": "2026-07-10T17:44:34-04:00",
+    "url": "https://job-boards.greenhouse.io/queracomputinginc/jobs/5326184008",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-10T23:01:35.065858+00:00",
+    "emailed_utc": "2026-07-10T23:01:35.065858+00:00"
   }
 ]
