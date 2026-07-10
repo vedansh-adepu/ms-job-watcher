@@ -401,5 +401,31 @@
     "bucket": "yes",
     "first_seen_utc": "2026-07-09T23:51:10.464769+00:00",
     "emailed_utc": "2026-07-09T23:51:10.464769+00:00"
+  },
+  {
+    "job_id": "amazon:1326b38d-4149-4d46-9b51-6b47f0bdb382",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer II, AWS EKS",
+    "location": "US, WA, Seattle",
+    "posted": "July 10, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10470609/software-development-engineer-ii-aws-eks",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-10T00:11:05.599917+00:00",
+    "emailed_utc": "2026-07-10T00:11:05.599917+00:00"
+  },
+  {
+    "job_id": "amazon:8681ab84-4b9e-4f1c-acc2-addf9977623a",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Dev Engineer 2, AWS EKS",
+    "location": "US, WA, Seattle",
+    "posted": "July 10, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10470608/software-dev-engineer-2-aws-eks",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-10T00:11:05.599917+00:00",
+    "emailed_utc": "2026-07-10T00:11:05.599917+00:00"
   }
 ]
