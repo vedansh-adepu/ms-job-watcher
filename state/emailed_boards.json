@@ -4314,5 +4314,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-10T00:02:12.438352+00:00",
     "emailed_utc": "2026-07-10T00:02:12.438352+00:00"
+  },
+  {
+    "job_id": "ashby:formenergy:44ce79ef-7499-463c-9d67-a26e78a8e8da",
+    "pipeline": "boards",
+    "platform": "ashby",
+    "company": "Form Energy",
+    "title": "Engineering Test Technician",
+    "location": "Berkeley, CA",
+    "posted": "",
+    "url": "https://jobs.ashbyhq.com/formenergy/44ce79ef-7499-463c-9d67-a26e78a8e8da",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-10T00:31:11.504611+00:00",
+    "emailed_utc": "2026-07-10T00:31:11.504611+00:00"
+  },
+  {
+    "job_id": "greenhouse:scoutmotors:5181595007",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Scoutmotors",
+    "title": "Senior Software Engineer (iOS) \u2013 Digital Products",
+    "location": "Fremont, California, United States",
+    "posted": "2026-07-09T18:20:31-04:00",
+    "url": "https://job-boards.greenhouse.io/scoutmotors/jobs/5181595007",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-10T00:31:11.504611+00:00",
+    "emailed_utc": "2026-07-10T00:31:11.504611+00:00"
   }
 ]
