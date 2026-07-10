@@ -622,5 +622,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-10T17:31:19.064163+00:00",
     "emailed_utc": "2026-07-10T17:31:19.064163+00:00"
+  },
+  {
+    "job_id": "microsoft:1970393556928285",
+    "pipeline": "main",
+    "platform": "microsoft",
+    "company": "Microsoft",
+    "title": "Sr. Sourcing Engineer",
+    "location": "Redmond, WA, US",
+    "posted": "2026-07-10 18:01 UTC",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556928285",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-10T18:21:14.803825+00:00",
+    "emailed_utc": "2026-07-10T18:21:14.803825+00:00"
+  },
+  {
+    "job_id": "amazon:6e45ec55-ee20-4230-98a3-1aa87684bc9a",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Sr. Software Development Engineer, Smart Delivery Tech",
+    "location": "US, WA, Bellevue",
+    "posted": "July 10, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10471466/sr-software-development-engineer-smart-delivery-tech",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-10T18:21:14.803825+00:00",
+    "emailed_utc": "2026-07-10T18:21:14.803825+00:00"
   }
 ]
