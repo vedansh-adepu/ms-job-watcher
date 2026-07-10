@@ -4717,5 +4717,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-10T04:02:59.468526+00:00",
     "emailed_utc": "2026-07-10T04:02:59.468526+00:00"
+  },
+  {
+    "job_id": "workday:disney:disneycareer:req:10155293",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Disney",
+    "title": "Product Software Engineer I",
+    "location": "Bristol, CT, USA",
+    "posted": "Posted Today",
+    "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Bristol-CT-USA/Product-Software-Engineer-I_10155293",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-10T04:13:24.460004+00:00",
+    "emailed_utc": "2026-07-10T04:13:24.460004+00:00"
+  },
+  {
+    "job_id": "workday:gdit:External_Career_Site:req:RQ223677",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "General Dynamics Information Technology (GDIT)",
+    "title": "Principal Cloud Engineer with Database Expertise",
+    "location": "USA DC Washington",
+    "posted": "Posted Today",
+    "url": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-DC-Washington/Principal-Cloud-Engineer-with-Database-Expertise_RQ223677-1",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-10T04:13:24.460004+00:00",
+    "emailed_utc": "2026-07-10T04:13:24.460004+00:00"
   }
 ]
