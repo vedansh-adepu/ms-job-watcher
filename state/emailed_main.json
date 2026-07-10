@@ -544,5 +544,44 @@
     "bucket": "yes",
     "first_seen_utc": "2026-07-10T16:41:14.036728+00:00",
     "emailed_utc": "2026-07-10T16:41:14.036728+00:00"
+  },
+  {
+    "job_id": "amazon:6747941a-fffe-4d9b-b711-b5d7872ad27d",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Sr. Software Development Engineer, AWS Builder Acceleration",
+    "location": "US, WA, Seattle",
+    "posted": "July 10, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10471208/sr-software-development-engineer-aws-builder-acceleration",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-10T16:51:13.525349+00:00",
+    "emailed_utc": "2026-07-10T16:51:13.525349+00:00"
+  },
+  {
+    "job_id": "amazon:51082fc2-51dd-4829-8c11-cfcdc526b399",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Sr. Software Development Engineer, Studios Tech, Backlot Source ",
+    "location": "US, CA, Culver City",
+    "posted": "July 10, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10471210/sr-software-development-engineer-studios-tech-backlot-source",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-10T16:51:13.525349+00:00",
+    "emailed_utc": "2026-07-10T16:51:13.525349+00:00"
+  },
+  {
+    "job_id": "amazon:3ccdceb4-cfd8-48d2-964a-f7067e672ba7",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Senior Database Engineer, Aurora and Open Source ",
+    "location": "US, WA, Redmond",
+    "posted": "July 10, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10471206/senior-database-engineer-aurora-and-open-source",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-10T16:51:13.525349+00:00",
+    "emailed_utc": "2026-07-10T16:51:13.525349+00:00"
   }
 ]
