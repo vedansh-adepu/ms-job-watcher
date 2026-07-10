@@ -4704,5 +4704,18 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-10T02:32:36.266568+00:00",
     "emailed_utc": "2026-07-10T02:32:36.266568+00:00"
+  },
+  {
+    "job_id": "workday:boeing:EXTERNAL_CAREERS:req:JR2026516863",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Boeing",
+    "title": "MQ-25 Senior Product Review Engineer (Liaison Engineering)",
+    "location": "USA - Patuxent River, MD",
+    "posted": "Posted Today",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Patuxent-River-MD/MQ-25-Senior-Product-Review-Engineer--Liaison-Engineering-_JR2026516863-1",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-10T04:02:59.468526+00:00",
+    "emailed_utc": "2026-07-10T04:02:59.468526+00:00"
   }
 ]
