@@ -4899,5 +4899,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-10T06:33:00.185475+00:00",
     "emailed_utc": "2026-07-10T06:33:00.185475+00:00"
+  },
+  {
+    "job_id": "greenhouse:humaninterest:8047121",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Human Interest",
+    "title": "Senior Data Engineer",
+    "location": "United States, Remote",
+    "posted": "2026-07-10T01:01:59-04:00",
+    "url": "https://job-boards.greenhouse.io/humaninterest/jobs/8047121",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-10T07:03:02.291567+00:00",
+    "emailed_utc": "2026-07-10T07:03:02.291567+00:00"
+  },
+  {
+    "job_id": "workday:intel:External:req:JR0285298",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Intel",
+    "title": "Information Security Network / Proxy Engineer",
+    "location": "US, California, Folsom",
+    "posted": "Posted Yesterday",
+    "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Folsom/Information-Security-Network---Proxy-Engineer_JR0285298",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-10T07:03:02.291567+00:00",
+    "emailed_utc": "2026-07-10T07:03:02.291567+00:00"
   }
 ]
