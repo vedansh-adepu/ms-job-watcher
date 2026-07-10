@@ -427,5 +427,18 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-10T00:11:05.599917+00:00",
     "emailed_utc": "2026-07-10T00:11:05.599917+00:00"
+  },
+  {
+    "job_id": "nvidia:893396253752",
+    "pipeline": "main",
+    "platform": "nvidia",
+    "company": "NVIDIA",
+    "title": "Senior Software Engineer, CUDA C++ Core Libraries",
+    "location": "US",
+    "posted": "2026-07-09 00:00 UTC",
+    "url": "https://nvidia.eightfold.ai/careers/job/893396253752",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-10T00:21:09.407562+00:00",
+    "emailed_utc": "2026-07-10T00:21:09.407562+00:00"
   }
 ]
