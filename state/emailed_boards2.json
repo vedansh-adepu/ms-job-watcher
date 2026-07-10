@@ -3976,5 +3976,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-10T16:01:38.212340+00:00",
     "emailed_utc": "2026-07-10T16:01:38.212340+00:00"
+  },
+  {
+    "job_id": "greenhouse:nmi:5323410008",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "nmi",
+    "title": "Data Analyst, Revenue Operations ",
+    "location": "US, Remote",
+    "posted": "2026-07-10T11:37:49-04:00",
+    "url": "https://job-boards.greenhouse.io/nmi/jobs/5323410008",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-10T16:31:35.615351+00:00",
+    "emailed_utc": "2026-07-10T16:31:35.615351+00:00"
+  },
+  {
+    "job_id": "greenhouse:pearceservices:5319980008",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "pearceservices",
+    "title": "OSP Field Engineer",
+    "location": "Allentown, PA",
+    "posted": "2026-07-10T12:02:21-04:00",
+    "url": "https://job-boards.greenhouse.io/pearceservices/jobs/5319980008",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-10T16:31:35.615351+00:00",
+    "emailed_utc": "2026-07-10T16:31:35.615351+00:00"
   }
 ]
