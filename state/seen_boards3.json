@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-07-11T14:38:50.214728+00:00",
+  "updated_utc": "2026-07-11T15:03:05.031236+00:00",
   "seen_ids": [
     "workday:2020companies:external_careers:req:106802",
     "workday:2020companies:external_careers:req:107205",
@@ -4364,6 +4364,11 @@
     "workday:gaig:national_interstate_external:req:R9053",
     "workday:gaig:national_interstate_external:req:R9193",
     "workday:gaig:summit_external:req:R8748",
-    "workday:gaig:summit_external:req:R8829"
+    "workday:gaig:summit_external:req:R8829",
+    "workday:gartner:ext:req:105514",
+    "workday:gartner:ext:req:109179",
+    "workday:gartner:ext:req:109905",
+    "workday:gartner:ext:req:110511",
+    "workday:gatesfoundation:gates:req:B021604"
   ]
 }
