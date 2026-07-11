@@ -9527,5 +9527,18 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-11T09:03:01.813549+00:00",
     "emailed_utc": "2026-07-11T09:03:01.813549+00:00"
+  },
+  {
+    "job_id": "workday:gdit:External_Career_Site:req:RQ223693",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "General Dynamics Information Technology (GDIT)",
+    "title": "Software Developer/Web Master Expert",
+    "location": "USA MD Fort Meade",
+    "posted": "Posted Today",
+    "url": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-MD-Fort-Meade/Software-Developer-Web-Master-Expert_RQ223693-2",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-11T09:32:47.968027+00:00",
+    "emailed_utc": "2026-07-11T09:32:47.968027+00:00"
   }
 ]
