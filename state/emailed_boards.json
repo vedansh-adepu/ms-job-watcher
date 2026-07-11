@@ -9033,5 +9033,44 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-10T23:32:38.821115+00:00",
     "emailed_utc": "2026-07-10T23:32:38.821115+00:00"
+  },
+  {
+    "job_id": "greenhouse:zuora:8050527",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Zuora",
+    "title": "Customer Solutions Engineer \u2013 Payments",
+    "location": "Remote - United States",
+    "posted": "2026-07-10T19:14:11-04:00",
+    "url": "https://boards.greenhouse.io/zuora/jobs/8050527?gh_jid=8050527",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-11T00:02:19.876380+00:00",
+    "emailed_utc": "2026-07-11T00:02:19.876380+00:00"
+  },
+  {
+    "job_id": "ashby:snowflake:ca20a632-2587-4fb5-ad1b-083e15e81165",
+    "pipeline": "boards",
+    "platform": "ashby",
+    "company": "Snowflake",
+    "title": "Senior Software Engineer, Security Foundations",
+    "location": "US-WA-Bellevue",
+    "posted": "",
+    "url": "https://jobs.ashbyhq.com/snowflake/ca20a632-2587-4fb5-ad1b-083e15e81165",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-11T00:02:19.876380+00:00",
+    "emailed_utc": "2026-07-11T00:02:19.876380+00:00"
+  },
+  {
+    "job_id": "ashby:vanta:2021a302-8510-40bf-a5e8-8ad2faf946c6",
+    "pipeline": "boards",
+    "platform": "ashby",
+    "company": "Vanta",
+    "title": "Director of Engineering, GRC Program Orchestration",
+    "location": "Remote U.S.",
+    "posted": "",
+    "url": "https://jobs.ashbyhq.com/vanta/2021a302-8510-40bf-a5e8-8ad2faf946c6",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-11T00:02:19.876380+00:00",
+    "emailed_utc": "2026-07-11T00:02:19.876380+00:00"
   }
 ]
