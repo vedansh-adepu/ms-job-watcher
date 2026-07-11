@@ -9228,5 +9228,57 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-11T01:32:51.995980+00:00",
     "emailed_utc": "2026-07-11T01:32:51.995980+00:00"
+  },
+  {
+    "job_id": "greenhouse:matx:5326322008",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "matx",
+    "title": "System Software Engineer - Linux Kernel and Device Drivers",
+    "location": "Mountain View, CA",
+    "posted": "2026-07-10T19:15:52-04:00",
+    "url": "https://job-boards.greenhouse.io/matx/jobs/5326322008",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-11T02:02:37.975675+00:00",
+    "emailed_utc": "2026-07-11T02:02:37.975675+00:00"
+  },
+  {
+    "job_id": "workday:ngc:Northrop_Grumman_External_Site:req:R10239975",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Northrop Grumman",
+    "title": "Sentinel - Principal Mechanical Engineer (18524*)",
+    "location": "United States-Utah-Roy",
+    "posted": "Posted Today",
+    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/Sentinel---Principal-Mechanical-Engineer--18524--_R10239975",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-11T02:02:37.975675+00:00",
+    "emailed_utc": "2026-07-11T02:02:37.975675+00:00"
+  },
+  {
+    "job_id": "workday:ngc:Northrop_Grumman_External_Site:req:R10239952",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Northrop Grumman",
+    "title": "Systems Engineer - Level 3/4",
+    "location": "United States-Colorado-Colorado Springs",
+    "posted": "Posted Today",
+    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/Systems-Engineer---level-3-4_R10239952",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-11T02:02:37.975675+00:00",
+    "emailed_utc": "2026-07-11T02:02:37.975675+00:00"
+  },
+  {
+    "job_id": "workday:ngc:Northrop_Grumman_External_Site:req:R10239946",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Northrop Grumman",
+    "title": "Modeling and Simulation Systems Engineer - Level 3/4",
+    "location": "United States-Colorado-Colorado Springs",
+    "posted": "Posted Today",
+    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/Modeling-and-Simulation-Systems-Engineer---Level-3-4_R10239946",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-11T02:02:37.975675+00:00",
+    "emailed_utc": "2026-07-11T02:02:37.975675+00:00"
   }
 ]
