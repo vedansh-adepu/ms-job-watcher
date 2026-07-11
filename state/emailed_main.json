@@ -895,5 +895,57 @@
     "bucket": "yes",
     "first_seen_utc": "2026-07-11T01:41:05.361331+00:00",
     "emailed_utc": "2026-07-11T01:41:05.361331+00:00"
+  },
+  {
+    "job_id": "amazon:ffb28a6c-c730-4176-8e3d-e4f63ab7f20d",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer II, GuardDuty Findings Management",
+    "location": "US, WA, Seattle",
+    "posted": "July 11, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10471825/software-development-engineer-ii-guardduty-findings-management",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-11T18:31:15.106468+00:00",
+    "emailed_utc": "2026-07-11T18:31:15.106468+00:00"
+  },
+  {
+    "job_id": "amazon:98afae11-ace7-4b02-aa33-f50a3c15cee1",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, AWS GuardDuty",
+    "location": "US, WA, Seattle",
+    "posted": "July 11, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10471823/software-development-engineer-aws-guardduty",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-11T18:31:15.106468+00:00",
+    "emailed_utc": "2026-07-11T18:31:15.106468+00:00"
+  },
+  {
+    "job_id": "amazon:d0747073-bd7a-476d-aa7e-27c105300af4",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, AWS GuardDuty",
+    "location": "US, WA, Seattle",
+    "posted": "July 11, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10471826/software-development-engineer-aws-guardduty",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-11T18:31:15.106468+00:00",
+    "emailed_utc": "2026-07-11T18:31:15.106468+00:00"
+  },
+  {
+    "job_id": "amazon:c1b286a3-3248-43aa-abfd-706764b7e1d6",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Senior Software Dev Engineer, GuardDuty",
+    "location": "US, NY, New York",
+    "posted": "July 11, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10471824/senior-software-dev-engineer-guardduty",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-11T18:31:15.106468+00:00",
+    "emailed_utc": "2026-07-11T18:31:15.106468+00:00"
   }
 ]
