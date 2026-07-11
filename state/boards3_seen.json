@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-07-11T15:03:05.035398+00:00",
+  "updated_utc": "2026-07-11T15:32:20.447543+00:00",
   "boards_seen": [
     "workday:2020companies:external_careers",
     "workday:23andme:23",
@@ -1728,6 +1728,26 @@
     "workday:gbmc:gbmc",
     "workday:gbmc:gilchristinova",
     "workday:gcaa:gcaa_careers",
-    "workday:gcaa:hvo_careers"
+    "workday:gcaa:hvo_careers",
+    "workday:gcatx:careers",
+    "workday:gcu:gce",
+    "workday:gcu:gcec",
+    "workday:gcu:gcu",
+    "workday:gcu:gcuc",
+    "workday:gcu:orbis",
+    "workday:gdit:external_career_site",
+    "workday:gdit:gdit_earlytalent",
+    "workday:gdit:incumbent_career_site",
+    "workday:gdit:skillbridge",
+    "workday:gdt:gdt_careers",
+    "workday:gea:equest",
+    "workday:gea:geacareers",
+    "workday:geaerospace:ge_externalsite",
+    "workday:gecina:gecinaexterne",
+    "workday:geha:gehacareers",
+    "workday:gehc:gehc_externalsite",
+    "workday:geico:external",
+    "workday:geisinger:geisingerexternal",
+    "workday:geisinger:geisingervolunteer"
   ]
 }
