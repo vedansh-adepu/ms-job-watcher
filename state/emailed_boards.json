@@ -9111,5 +9111,83 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-11T00:31:13.912498+00:00",
     "emailed_utc": "2026-07-11T00:31:13.912498+00:00"
+  },
+  {
+    "job_id": "greenhouse:anthropic:5320469008",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Anthropic",
+    "title": "Red Team Engineer, Safeguards",
+    "location": "Remote-Friendly (Travel Required) | San Francisco, CA",
+    "posted": "2026-07-10T18:50:56-04:00",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5320469008",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-11T01:03:00.395288+00:00",
+    "emailed_utc": "2026-07-11T01:03:00.395288+00:00"
+  },
+  {
+    "job_id": "greenhouse:calendly:8628979002",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Calendly",
+    "title": "Staff Platform Engineer",
+    "location": "Remote - US",
+    "posted": "2026-07-10T19:29:27-04:00",
+    "url": "https://job-boards.greenhouse.io/calendly/jobs/8628979002",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-11T01:03:00.395288+00:00",
+    "emailed_utc": "2026-07-11T01:03:00.395288+00:00"
+  },
+  {
+    "job_id": "greenhouse:coalition:4714098005",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Coalition",
+    "title": "Senior Software Engineer, Underwriting",
+    "location": "Any location, United States",
+    "posted": "2026-07-10T19:01:51-04:00",
+    "url": "https://www.coalitioninc.com/job-posting?gh_jid=4714098005",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-11T01:03:00.395288+00:00",
+    "emailed_utc": "2026-07-11T01:03:00.395288+00:00"
+  },
+  {
+    "job_id": "workday:blueorigin:BlueOrigin:req:R67607",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Blue Origin",
+    "title": "Civil Engineer: Future Launch Sites & Site Development",
+    "location": "Space Coast, FL",
+    "posted": "Posted Today",
+    "url": "https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Space-Coast-FL/Civil-Engineer--Future-Launch-Sites---Site-Development_R67607",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-11T01:03:00.395288+00:00",
+    "emailed_utc": "2026-07-11T01:03:00.395288+00:00"
+  },
+  {
+    "job_id": "workday:boeing:EXTERNAL_CAREERS:req:JR2026513029",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Boeing",
+    "title": "Mission Systems Performance Analysis Engineer (Experienced, Lead or Senior)",
+    "location": "USA - Tukwila, WA",
+    "posted": "Posted Today",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Tukwila-WA/Mission-Systems-Performance-Analysis-Engineer--Experienced--Lead-or-Senior-_JR2026513029",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-11T01:03:00.395288+00:00",
+    "emailed_utc": "2026-07-11T01:03:00.395288+00:00"
+  },
+  {
+    "job_id": "workday:citi:2:req:26975632",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Citigroup",
+    "title": "Lead Data Platform Engineer Vice President",
+    "location": "Irving Texas United States",
+    "posted": "Posted Today",
+    "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Irving-Texas-United-States/Lead-Data-Platform-Engineer-Vice-President_26975632",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-11T01:03:00.395288+00:00",
+    "emailed_utc": "2026-07-11T01:03:00.395288+00:00"
   }
 ]
