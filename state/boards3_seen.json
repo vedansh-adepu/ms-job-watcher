@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-07-11T16:34:35.391259+00:00",
+  "updated_utc": "2026-07-11T16:40:11.199101+00:00",
   "boards_seen": [
     "workday:2020companies:external_careers",
     "workday:23andme:23",
@@ -1784,10 +1784,30 @@
     "workday:gfs:usjobs-gen-gfs",
     "workday:ghafari:ghafari_careers",
     "workday:ghc:ahn_careers",
+    "workday:ghc:csi_careers",
     "workday:ghc:dbs_career",
     "workday:ghc:framebridge_careers",
+    "workday:ghc:ghg_careers",
+    "workday:ghc:grad_sba_careers",
+    "workday:ghc:kaplan_careers",
     "workday:ghc:kaplan_international_careers",
     "workday:ghc:kaplan_teach",
-    "workday:ghc:maryfreebed_careers"
+    "workday:ghc:maryfreebed_careers",
+    "workday:ghc:residential_careers",
+    "workday:ghc:sbh_careers",
+    "workday:ghr:lateral-apac",
+    "workday:ghr:lateral-ba_continuum",
+    "workday:ghr:lateral-canada",
+    "workday:ghr:lateral-emea",
+    "workday:ghr:lateral-latam",
+    "workday:ghr:lateral-us",
+    "workday:ghr:us-emplsv",
+    "workday:gi:global_infrastructure",
+    "workday:gia:gia",
+    "workday:gianttiger:gianttiger",
+    "workday:gici:careers",
+    "workday:gici:prcareers",
+    "workday:gilead:kitepharmacareers",
+    "workday:giorgiglobal:canpack"
   ]
 }
