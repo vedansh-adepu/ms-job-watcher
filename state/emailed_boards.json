@@ -9436,5 +9436,83 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-11T03:40:33.008522+00:00",
     "emailed_utc": "2026-07-11T03:40:33.008522+00:00"
+  },
+  {
+    "job_id": "greenhouse:didi:8056495",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "didi",
+    "title": "Software Engineer \u2013 Map Fusion & Planning",
+    "location": "San Jose, CA",
+    "posted": "2026-07-10T23:22:48-04:00",
+    "url": "https://job-boards.greenhouse.io/didi/jobs/8056495",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-11T04:03:11.154694+00:00",
+    "emailed_utc": "2026-07-11T04:03:11.154694+00:00"
+  },
+  {
+    "job_id": "greenhouse:didi:8056500",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "didi",
+    "title": "Software Engineer \u2013 Motion Planning ",
+    "location": "San Jose, CA",
+    "posted": "2026-07-10T23:33:27-04:00",
+    "url": "https://job-boards.greenhouse.io/didi/jobs/8056500",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-11T04:03:11.154694+00:00",
+    "emailed_utc": "2026-07-11T04:03:11.154694+00:00"
+  },
+  {
+    "job_id": "greenhouse:didi:8056501",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "didi",
+    "title": "Senior/Staff System Safety Engineer, Autonomy",
+    "location": "San Jose, CA",
+    "posted": "2026-07-10T23:35:05-04:00",
+    "url": "https://job-boards.greenhouse.io/didi/jobs/8056501",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-11T04:03:11.154694+00:00",
+    "emailed_utc": "2026-07-11T04:03:11.154694+00:00"
+  },
+  {
+    "job_id": "greenhouse:didi:8056491",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "didi",
+    "title": "Staff/Principal Forward Deployed Engineer",
+    "location": "San Jose, CA",
+    "posted": "2026-07-10T23:15:05-04:00",
+    "url": "https://job-boards.greenhouse.io/didi/jobs/8056491",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-11T04:03:11.154694+00:00",
+    "emailed_utc": "2026-07-11T04:03:11.154694+00:00"
+  },
+  {
+    "job_id": "workday:gdit:External_Career_Site:req:RQ223523",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "General Dynamics Information Technology (GDIT)",
+    "title": "Network Engineer - TS/SCI Required",
+    "location": "USA VA Arlington",
+    "posted": "Posted Today",
+    "url": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-Arlington/Network-Engineer---TS-SCI-Required_RQ223523-1",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-11T04:03:11.154694+00:00",
+    "emailed_utc": "2026-07-11T04:03:11.154694+00:00"
+  },
+  {
+    "job_id": "workday:gdit:External_Career_Site:req:RQ223919",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "General Dynamics Information Technology (GDIT)",
+    "title": "Network Engineer - TS/SCI Required",
+    "location": "USA VA Arlington",
+    "posted": "Posted Today",
+    "url": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-Arlington/Network-Engineer---TS-SCI-Required_RQ223919-2",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-11T04:03:11.154694+00:00",
+    "emailed_utc": "2026-07-11T04:03:11.154694+00:00"
   }
 ]
