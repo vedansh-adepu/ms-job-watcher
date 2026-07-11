@@ -5393,5 +5393,57 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-11T01:31:29.010124+00:00",
     "emailed_utc": "2026-07-11T01:31:29.010124+00:00"
+  },
+  {
+    "job_id": "greenhouse:roblox:8047819",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "roblox",
+    "title": "Senior Software Engineer, Service Mesh",
+    "location": "San Mateo, CA, United States",
+    "posted": "2026-07-10T23:14:03-04:00",
+    "url": "https://careers.roblox.com/jobs/8047819?gh_jid=8047819",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-11T04:31:15.311588+00:00",
+    "emailed_utc": "2026-07-11T04:31:15.311588+00:00"
+  },
+  {
+    "job_id": "greenhouse:soeffects:7801798003",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "soeffects",
+    "title": "Electrical Engineer",
+    "location": "El Segundo, California, United States; Redmond, Washington, United States",
+    "posted": "2026-07-11T00:15:51-04:00",
+    "url": "https://job-boards.greenhouse.io/soeffects/jobs/7801798003",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-11T04:31:15.311588+00:00",
+    "emailed_utc": "2026-07-11T04:31:15.311588+00:00"
+  },
+  {
+    "job_id": "greenhouse:soeffects:7802119003",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "soeffects",
+    "title": "Electrical Engineer (PCB Design)",
+    "location": "El Segundo, California, United States; Redmond, Washington, United States",
+    "posted": "2026-07-11T00:24:47-04:00",
+    "url": "https://job-boards.greenhouse.io/soeffects/jobs/7802119003",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-11T04:31:15.311588+00:00",
+    "emailed_utc": "2026-07-11T04:31:15.311588+00:00"
+  },
+  {
+    "job_id": "greenhouse:soeffects:7802118003",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "soeffects",
+    "title": "Embedded Engineer",
+    "location": "El Segundo, California, United States; Redmond, Washington, United States",
+    "posted": "2026-07-11T00:15:39-04:00",
+    "url": "https://job-boards.greenhouse.io/soeffects/jobs/7802118003",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-11T04:31:15.311588+00:00",
+    "emailed_utc": "2026-07-11T04:31:15.311588+00:00"
   }
 ]
