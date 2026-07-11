@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-07-11T10:04:12.847942+00:00",
+  "updated_utc": "2026-07-11T10:33:33.450442+00:00",
   "boards_seen": [
     "workday:2020companies:external_careers",
     "workday:23andme:23",
@@ -1488,6 +1488,26 @@
     "workday:fanshawec:fanshawecareers",
     "workday:farmerfocus:farmerfocus",
     "workday:faro:faro",
-    "workday:fastretailing:eu_theory"
+    "workday:fastretailing:corporate_us_theory",
+    "workday:fastretailing:eu_theory",
+    "workday:fastretailing:graduates_au_uniqlo",
+    "workday:fastretailing:graduates_eu_uniqlo",
+    "workday:fastretailing:headquarter_roles_vn_uniqlo",
+    "workday:fastretailing:headquarters_hk_gu",
+    "workday:fastretailing:headquarters_hkm_uniqlo",
+    "workday:fastretailing:headquarters_id_uniqlo",
+    "workday:fastretailing:headquarters_my_uniqlo",
+    "workday:fastretailing:headquarters_ph_uniqlo",
+    "workday:fastretailing:headquarters_th_uniqlo",
+    "workday:fastretailing:headquarters_tw_uniqlo",
+    "workday:fastretailing:headquarters_us_uniqlo",
+    "workday:fastretailing:retail_us_gu",
+    "workday:fastretailing:retail_us_theory",
+    "workday:fastretailing:retail_us_uniqlo",
+    "workday:fastretailing:store_staff_au_uniqlo",
+    "workday:fastretailing:store_staff_eu_uniqlo",
+    "workday:fastretailing:store_staff_my_uniqlo",
+    "workday:fau:fau",
+    "workday:fau:non-recruited"
   ]
 }
