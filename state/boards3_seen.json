@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-07-11T12:34:24.861004+00:00",
+  "updated_utc": "2026-07-11T13:01:48.619392+00:00",
   "boards_seen": [
     "workday:2020companies:external_careers",
     "workday:23andme:23",
@@ -1608,6 +1608,26 @@
     "workday:flg:glhc",
     "workday:flg:jnz",
     "workday:flg:zap",
-    "workday:flinders:flinders_employment"
+    "workday:flinders:flinders_employment",
+    "workday:flindersports:fph_current_opportunities",
+    "workday:flir:flircareers",
+    "workday:flir:flirconfidential",
+    "workday:floridatech:floridatechcareers",
+    "workday:flowserve:applied",
+    "workday:flpoly:external-faculty",
+    "workday:flpoly:external-staff",
+    "workday:flpoly:external-student",
+    "workday:flsmidth:fls_global",
+    "workday:flutterbe:bfromania_external",
+    "workday:flutterbe:blip_external",
+    "workday:flutterbe:flutterint_external",
+    "workday:flutterbe:flutteruki_external",
+    "workday:flutterbe:group_external",
+    "workday:flutterbe:junglee_games",
+    "workday:flutterbe:ppretail_external",
+    "workday:flvs:flvs_jobs",
+    "workday:flywheel:job_duck_careers",
+    "workday:fmc:fmc",
+    "workday:fmr:fidelitycareers"
   ]
 }
