@@ -9280,5 +9280,57 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-11T02:02:37.975675+00:00",
     "emailed_utc": "2026-07-11T02:02:37.975675+00:00"
+  },
+  {
+    "job_id": "greenhouse:rocketlab:7801636003",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "rocketlab",
+    "title": "Senior Optomechanical Engineer I/II",
+    "location": "Pasadena, CA",
+    "posted": "2026-07-10T20:34:10-04:00",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7801636003",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-11T02:32:38.041625+00:00",
+    "emailed_utc": "2026-07-11T02:32:38.041625+00:00"
+  },
+  {
+    "job_id": "greenhouse:scaleai:4713597005",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Scale AI",
+    "title": "Senior Data Engineer, Public Sector",
+    "location": "Washington, DC",
+    "posted": "2026-07-10T22:29:34-04:00",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4713597005",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-11T02:32:38.041625+00:00",
+    "emailed_utc": "2026-07-11T02:32:38.041625+00:00"
+  },
+  {
+    "job_id": "greenhouse:spacex:8629130002",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "SpaceX",
+    "title": "Electrical Design Engineer (Falcon & Dragon Avionics)",
+    "location": "Hawthorne, CA",
+    "posted": "2026-07-10T20:43:29-04:00",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8629130002?gh_jid=8629130002",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-11T02:32:38.041625+00:00",
+    "emailed_utc": "2026-07-11T02:32:38.041625+00:00"
+  },
+  {
+    "job_id": "greenhouse:spacex:8627675002",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "SpaceX",
+    "title": "Propulsion Engineer, Chamber and Nozzle (Raptor) ",
+    "location": "Hawthorne, CA",
+    "posted": "2026-07-10T20:21:18-04:00",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8627675002?gh_jid=8627675002",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-11T02:32:38.041625+00:00",
+    "emailed_utc": "2026-07-11T02:32:38.041625+00:00"
   }
 ]
