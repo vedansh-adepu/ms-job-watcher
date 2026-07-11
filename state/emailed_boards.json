@@ -9553,5 +9553,18 @@
     "bucket": "yes",
     "first_seen_utc": "2026-07-11T14:32:44.299856+00:00",
     "emailed_utc": "2026-07-11T14:32:44.299856+00:00"
+  },
+  {
+    "job_id": "workday:citi:2:req:26977746",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Citigroup",
+    "title": "Senior Backend Developer Assistant Vice President",
+    "location": "Irving Texas United States",
+    "posted": "Posted Today",
+    "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Irving-Texas-United-States/Senior-Backend-Developer-Assistant-Vice-President_26977746",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-11T19:32:38.478237+00:00",
+    "emailed_utc": "2026-07-11T19:32:38.478237+00:00"
   }
 ]
