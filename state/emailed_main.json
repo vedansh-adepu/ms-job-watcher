@@ -947,5 +947,18 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-11T18:31:15.106468+00:00",
     "emailed_utc": "2026-07-11T18:31:15.106468+00:00"
+  },
+  {
+    "job_id": "amazon:7d83992e-9b3f-4ff9-86ee-8d4fea45a55e",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, Ads AI Core Infra",
+    "location": "US, WA, Seattle",
+    "posted": "July 12, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10471870/software-development-engineer-ads-ai-core-infra",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-12T20:21:13.291174+00:00",
+    "emailed_utc": "2026-07-12T20:21:13.291174+00:00"
   }
 ]
