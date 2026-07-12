@@ -9579,5 +9579,18 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-12T04:03:00.826321+00:00",
     "emailed_utc": "2026-07-12T04:03:00.826321+00:00"
+  },
+  {
+    "job_id": "workday:gdit:External_Career_Site:req:RQ223697",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "General Dynamics Information Technology (GDIT)",
+    "title": "Software Developer/Web Master Senior",
+    "location": "USA MD Fort Meade",
+    "posted": "Posted Today",
+    "url": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-MD-Fort-Meade/Software-Developer-Web-Master-Senior_RQ223697-2",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-12T10:02:55.980624+00:00",
+    "emailed_utc": "2026-07-12T10:02:55.980624+00:00"
   }
 ]
