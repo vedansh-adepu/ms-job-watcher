@@ -9592,5 +9592,44 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-12T15:34:48.377681+00:00",
     "emailed_utc": "2026-07-12T15:34:48.377681+00:00"
+  },
+  {
+    "job_id": "workday:bdx:external_career_site_usa:req:R-549073",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Bdx",
+    "title": "Engineer 2, Combination Product Testing",
+    "location": "USA NJ Branchburg",
+    "posted": "Posted 3 Days Ago",
+    "url": "https://bdx.wd1.myworkdayjobs.com/en-US/external_career_site_usa/job/USA-NJ-Branchburg/Engineer-2--Combination-Product-Testing_R-549073-1",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-12T16:05:07.046860+00:00",
+    "emailed_utc": "2026-07-12T16:05:07.046860+00:00"
+  },
+  {
+    "job_id": "workday:bdx:external_career_site_usa:req:R-549393",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Bdx",
+    "title": "Staff Engineer (New Product Development)",
+    "location": "USA GA - Covington BMD",
+    "posted": "Posted 3 Days Ago",
+    "url": "https://bdx.wd1.myworkdayjobs.com/en-US/external_career_site_usa/job/USA-GA---Covington-BMD/Staff-Engineer--New-Product-Development-_R-549393-1",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-12T16:05:07.046860+00:00",
+    "emailed_utc": "2026-07-12T16:05:07.046860+00:00"
+  },
+  {
+    "job_id": "workday:bdx:external_career_site_usa:req:R-538063",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Bdx",
+    "title": "Principal Algorithms Engineer",
+    "location": "USA CA - Irvine Laguna Canyon",
+    "posted": "Posted 3 Days Ago",
+    "url": "https://bdx.wd1.myworkdayjobs.com/en-US/external_career_site_usa/job/USA-CA---Irvine-Laguna-Canyon/Principal-Algorithms-Engineer_R-538063-1",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-12T16:05:07.046860+00:00",
+    "emailed_utc": "2026-07-12T16:05:07.046860+00:00"
   }
 ]
