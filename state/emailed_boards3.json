@@ -4613,5 +4613,70 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-12T09:07:34.293070+00:00",
     "emailed_utc": "2026-07-12T09:07:34.293070+00:00"
+  },
+  {
+    "job_id": "workday:amgen:careers:req:R-249439",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Amgen",
+    "title": "Sr Engineer",
+    "location": "US - California - Thousand Oaks",
+    "posted": "Posted 2 Days Ago",
+    "url": "https://amgen.wd1.myworkdayjobs.com/en-US/careers/job/US---California---Thousand-Oaks/Sr-Engineer_R-249439-1",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-12T09:32:13.484599+00:00",
+    "emailed_utc": "2026-07-12T09:32:13.484599+00:00"
+  },
+  {
+    "job_id": "workday:amgen:careers:req:R-249666",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Amgen",
+    "title": "Engineer 1",
+    "location": "US - California - Thousand Oaks",
+    "posted": "Posted 2 Days Ago",
+    "url": "https://amgen.wd1.myworkdayjobs.com/en-US/careers/job/US---California---Thousand-Oaks/Engineer-1_R-249666",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-12T09:32:13.484599+00:00",
+    "emailed_utc": "2026-07-12T09:32:13.484599+00:00"
+  },
+  {
+    "job_id": "workday:amgen:careers:req:R-249670",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Amgen",
+    "title": "Sr. Data Scientist",
+    "location": "US - California - Thousand Oaks",
+    "posted": "Posted 2 Days Ago",
+    "url": "https://amgen.wd1.myworkdayjobs.com/en-US/careers/job/US---California---Thousand-Oaks/Sr-Data-Scientist_R-249670",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-12T09:32:13.484599+00:00",
+    "emailed_utc": "2026-07-12T09:32:13.484599+00:00"
+  },
+  {
+    "job_id": "workday:amgen:careers:req:R-249418",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Amgen",
+    "title": "Engineer System Owner - Packaging",
+    "location": "US - Puerto Rico - Juncos",
+    "posted": "Posted 2 Days Ago",
+    "url": "https://amgen.wd1.myworkdayjobs.com/en-US/careers/job/US---Puerto-Rico---Juncos/Engineer-System-Owner---Packaging_R-249418",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-12T09:32:13.484599+00:00",
+    "emailed_utc": "2026-07-12T09:32:13.484599+00:00"
+  },
+  {
+    "job_id": "workday:amgen:careers:req:R-248617",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Amgen",
+    "title": "Commercial Analytics, Senior Manager",
+    "location": "US - California - Thousand Oaks",
+    "posted": "Posted 3 Days Ago",
+    "url": "https://amgen.wd1.myworkdayjobs.com/en-US/careers/job/US---California---Thousand-Oaks/Commercial-Analytics--Senior-Manager_R-248617",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-12T09:32:13.484599+00:00",
+    "emailed_utc": "2026-07-12T09:32:13.484599+00:00"
   }
 ]
