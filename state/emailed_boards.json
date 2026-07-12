@@ -9566,5 +9566,18 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-11T19:32:38.478237+00:00",
     "emailed_utc": "2026-07-11T19:32:38.478237+00:00"
+  },
+  {
+    "job_id": "workday:gdit:External_Career_Site:req:RQ224015",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "General Dynamics Information Technology (GDIT)",
+    "title": "SASMO Software Support Representative at Fort Eustis, VA (Secret Clearance)",
+    "location": "USA VA Fort Eustis",
+    "posted": "Posted Today",
+    "url": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-Fort-Eustis/SASMO-Software-Support-Representative-at-Fort-Eustis--VA--Secret-Clearance-_RQ224015-1",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-12T04:03:00.826321+00:00",
+    "emailed_utc": "2026-07-12T04:03:00.826321+00:00"
   }
 ]
