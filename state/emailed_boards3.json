@@ -2078,5 +2078,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-12T03:35:53.179359+00:00",
     "emailed_utc": "2026-07-12T03:35:53.179359+00:00"
+  },
+  {
+    "job_id": "workday:ace:careers:req:JR202637131",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Ace",
+    "title": "Data Scientist 2",
+    "location": "Coppell, TX, Remote",
+    "posted": "Posted Yesterday",
+    "url": "https://ace.wd5.myworkdayjobs.com/en-US/careers/job/Coppell-TX-Remote/Data-Scientist-2_JR202637131",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-12T04:04:12.098129+00:00",
+    "emailed_utc": "2026-07-12T04:04:12.098129+00:00"
+  },
+  {
+    "job_id": "workday:ace:careers:req:JR202636994",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Ace",
+    "title": "Sr. Data Engineer",
+    "location": "Coppell, TX",
+    "posted": "Posted Yesterday",
+    "url": "https://ace.wd5.myworkdayjobs.com/en-US/careers/job/Coppell-TX/Sr-Data-Engineer_JR202636994",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-12T04:04:12.098129+00:00",
+    "emailed_utc": "2026-07-12T04:04:12.098129+00:00"
   }
 ]
