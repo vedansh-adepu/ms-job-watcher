@@ -5523,5 +5523,18 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-12T06:02:01.002459+00:00",
     "emailed_utc": "2026-07-12T06:02:01.002459+00:00"
+  },
+  {
+    "job_id": "greenhouse:xai:5182183007",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "xai",
+    "title": "Software Engineer - X Data",
+    "location": "Palo Alto, CA",
+    "posted": "2026-07-12T03:53:19-04:00",
+    "url": "https://job-boards.greenhouse.io/xai/jobs/5182183007",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-12T08:01:58.229535+00:00",
+    "emailed_utc": "2026-07-12T08:01:58.229535+00:00"
   }
 ]
