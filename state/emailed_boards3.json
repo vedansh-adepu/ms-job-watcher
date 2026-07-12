@@ -10255,5 +10255,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-12T16:32:29.075115+00:00",
     "emailed_utc": "2026-07-12T16:32:29.075115+00:00"
+  },
+  {
+    "job_id": "workday:blackrock:blackrock_professional:req:R265246",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Blackrock",
+    "title": "Associate, Software Engineer, Applications",
+    "location": "San Francisco, CA",
+    "posted": "Posted 2 Days Ago",
+    "url": "https://blackrock.wd1.myworkdayjobs.com/en-US/blackrock_professional/job/San-Francisco-CA/Associate--Software-Engineer--Applications_R265246",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-12T16:44:42.061874+00:00",
+    "emailed_utc": "2026-07-12T16:44:42.061874+00:00"
+  },
+  {
+    "job_id": "workday:bjswholesaleclub:bjscareers:req:R243775",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Bjswholesaleclub",
+    "title": "Sr. ERP Integration Engineer",
+    "location": "BJ's Club Support Center Marlborough, MA #5997",
+    "posted": "Posted 2 Days Ago",
+    "url": "https://bjswholesaleclub.wd1.myworkdayjobs.com/en-US/bjscareers/job/BJs-Club-Support-Center-Marlborough-MA-5997/Sr-ERP-Integration-Engineer_R243775-1",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-12T16:44:42.061874+00:00",
+    "emailed_utc": "2026-07-12T16:44:42.061874+00:00"
   }
 ]
