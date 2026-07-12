@@ -3339,5 +3339,18 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-12T05:09:45.365793+00:00",
     "emailed_utc": "2026-07-12T05:09:45.365793+00:00"
+  },
+  {
+    "job_id": "workday:ag:airbus:req:JR10427284",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Ag",
+    "title": "HR AI/ML Engineer II",
+    "location": "Herndon Area, VA",
+    "posted": "Posted Today",
+    "url": "https://ag.wd3.myworkdayjobs.com/en-US/airbus/job/Herndon-Area-VA/HR-AI-ML-Engineer-II_JR10427284",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-12T05:35:16.091507+00:00",
+    "emailed_utc": "2026-07-12T05:35:16.091507+00:00"
   }
 ]
