@@ -3404,5 +3404,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-12T06:04:08.979882+00:00",
     "emailed_utc": "2026-07-12T06:04:08.979882+00:00"
+  },
+  {
+    "job_id": "workday:alkegen:alkegen:req:R12639",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Alkegen",
+    "title": "Application Engineer - Industrial Thermal Management",
+    "location": "Buffalo, NY",
+    "posted": "Posted 2 Days Ago",
+    "url": "https://alkegen.wd5.myworkdayjobs.com/en-US/alkegen/job/Buffalo-NY/Application-Engineer---Industrial-Thermal-Management_R12639",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-12T07:06:56.751877+00:00",
+    "emailed_utc": "2026-07-12T07:06:56.751877+00:00"
+  },
+  {
+    "job_id": "workday:alkegen:alkegen:req:R12530",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Alkegen",
+    "title": "Thermbond Installation Engineer",
+    "location": "US - Stellar Michigan",
+    "posted": "Posted 3 Days Ago",
+    "url": "https://alkegen.wd5.myworkdayjobs.com/en-US/alkegen/job/US---Stellar-Michigan/Thermbond-Installation-Engineer_R12530",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-12T07:06:56.751877+00:00",
+    "emailed_utc": "2026-07-12T07:06:56.751877+00:00"
   }
 ]
