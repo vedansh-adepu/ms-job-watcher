@@ -5276,5 +5276,70 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-12T11:35:39.262336+00:00",
     "emailed_utc": "2026-07-12T11:35:39.262336+00:00"
+  },
+  {
+    "job_id": "workday:asml:asmlext1:req:J-00346842",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Asml",
+    "title": "Applications Engineering Manager",
+    "location": "Austin, TX, USA",
+    "posted": "Posted 3 Days Ago",
+    "url": "https://asml.wd3.myworkdayjobs.com/en-US/asmlext1/job/Austin-TX-USA/Applications-Engineering-Manager_J-00346842",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-12T12:02:23.886015+00:00",
+    "emailed_utc": "2026-07-12T12:02:23.886015+00:00"
+  },
+  {
+    "job_id": "workday:asmglobal:careers:req:R100123854",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Asmglobal",
+    "title": "Video Engineer - Boeing Center at Tech Port",
+    "location": "San Antonio, TX",
+    "posted": "Posted 3 Days Ago",
+    "url": "https://asmglobal.wd1.myworkdayjobs.com/en-US/careers/job/San-Antonio-TX/Video-Engineer---Boeing-Center-at-Tech-Port_R100123854",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-12T12:02:23.886015+00:00",
+    "emailed_utc": "2026-07-12T12:02:23.886015+00:00"
+  },
+  {
+    "job_id": "workday:asml:asmlext1:req:J-00347707",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Asml",
+    "title": "Upgrade Install and Relocation Engineer",
+    "location": "Austin, TX, USA",
+    "posted": "Posted 2 Days Ago",
+    "url": "https://asml.wd3.myworkdayjobs.com/en-US/asmlext1/job/Austin-TX-USA/Upgrade-Install-and-Relocation-Engineer_J-00347707",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-12T12:02:23.886015+00:00",
+    "emailed_utc": "2026-07-12T12:02:23.886015+00:00"
+  },
+  {
+    "job_id": "workday:asml:asmlext1:req:J-00346843",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Asml",
+    "title": "Senior Applications Engineer - ASML",
+    "location": "Austin, TX, USA",
+    "posted": "Posted 3 Days Ago",
+    "url": "https://asml.wd3.myworkdayjobs.com/en-US/asmlext1/job/Austin-TX-USA/Senior-Applications-Engineer---ASML_J-00346843",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-12T12:02:23.886015+00:00",
+    "emailed_utc": "2026-07-12T12:02:23.886015+00:00"
+  },
+  {
+    "job_id": "workday:asml:asmlext1:req:J-00346844",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Asml",
+    "title": "Field Service Engineer - YieldStar (YS)",
+    "location": "Austin, TX, USA",
+    "posted": "Posted 3 Days Ago",
+    "url": "https://asml.wd3.myworkdayjobs.com/en-US/asmlext1/job/Austin-TX-USA/Field-Service-Engineer---YieldStar--YS-_J-00346844",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-12T12:02:23.886015+00:00",
+    "emailed_utc": "2026-07-12T12:02:23.886015+00:00"
   }
 ]
