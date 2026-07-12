@@ -9592,5 +9592,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-12T10:02:55.980624+00:00",
     "emailed_utc": "2026-07-12T10:02:55.980624+00:00"
+  },
+  {
+    "job_id": "greenhouse:andurilindustries:5185271007",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "andurilindustries",
+    "title": "Engineering Test Technician",
+    "location": "Lexington, Massachusetts, United States",
+    "posted": "2026-07-12T08:55:22-04:00",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5185271007?gh_jid=5185271007",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-12T14:32:53.717870+00:00",
+    "emailed_utc": "2026-07-12T14:32:53.717870+00:00"
+  },
+  {
+    "job_id": "greenhouse:andurilindustries:5185274007",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "andurilindustries",
+    "title": "Senior Software Engineer, Realtime Imaging",
+    "location": "Boulder, Colorado, United States",
+    "posted": "2026-07-12T09:07:38-04:00",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5185274007?gh_jid=5185274007",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-12T14:32:53.717870+00:00",
+    "emailed_utc": "2026-07-12T14:32:53.717870+00:00"
   }
 ]
