@@ -3807,5 +3807,44 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-12T08:02:03.740609+00:00",
     "emailed_utc": "2026-07-12T08:02:03.740609+00:00"
+  },
+  {
+    "job_id": "workday:altera:altera:req:R02696",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Altera",
+    "title": "Product Development Engineer",
+    "location": "San Jose, California, United States",
+    "posted": "Posted 3 Days Ago",
+    "url": "https://altera.wd1.myworkdayjobs.com/en-US/altera/job/San-Jose-California-United-States/Product-Development-Engineer_R02696-1",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-12T08:34:12.886253+00:00",
+    "emailed_utc": "2026-07-12T08:34:12.886253+00:00"
+  },
+  {
+    "job_id": "workday:altera:altera:req:R02760",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Altera",
+    "title": "Physical Design Engineer",
+    "location": "San Jose, California, United States",
+    "posted": "Posted 3 Days Ago",
+    "url": "https://altera.wd1.myworkdayjobs.com/en-US/altera/job/San-Jose-California-United-States/Physical-Design-Engineer_R02760",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-12T08:34:12.886253+00:00",
+    "emailed_utc": "2026-07-12T08:34:12.886253+00:00"
+  },
+  {
+    "job_id": "workday:altera:altera:req:R02786",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Altera",
+    "title": "Senior Principal Engineer (PE) / Subject Matter Expert (SME) \u2013 Quartus Timing Analysis & Optimization",
+    "location": "San Jose, California, United States",
+    "posted": "Posted 3 Days Ago",
+    "url": "https://altera.wd1.myworkdayjobs.com/en-US/altera/job/San-Jose-California-United-States/Senior-Principal-Engineer--PE----Subject-Matter-Expert--SME----Quartus-Timing-Analysis---Optimization_R02786",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-12T08:34:12.886253+00:00",
+    "emailed_utc": "2026-07-12T08:34:12.886253+00:00"
   }
 ]
