@@ -5341,5 +5341,44 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-12T12:02:23.886015+00:00",
     "emailed_utc": "2026-07-12T12:02:23.886015+00:00"
+  },
+  {
+    "job_id": "workday:assetmark:assetmark_careers:req:Req-003890",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Assetmark",
+    "title": "Senior Platform Engineer",
+    "location": "Charlotte, NC",
+    "posted": "Posted 3 Days Ago",
+    "url": "https://assetmark.wd5.myworkdayjobs.com/en-US/assetmark_careers/job/Charlotte-NC/Senior-Platform-Engineer_Req-003890",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-12T12:32:01.846879+00:00",
+    "emailed_utc": "2026-07-12T12:32:01.846879+00:00"
+  },
+  {
+    "job_id": "workday:astrazeneca:alexion:req:R-254831",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Astrazeneca",
+    "title": "Associate Director, Market Access Deal Analytics",
+    "location": "US - Boston - MA",
+    "posted": "Posted 2 Days Ago",
+    "url": "https://astrazeneca.wd3.myworkdayjobs.com/en-US/alexion/job/US---Boston---MA/Associate-Director--Market-Access-Deal-Analytics_R-254831",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-12T12:32:01.846879+00:00",
+    "emailed_utc": "2026-07-12T12:32:01.846879+00:00"
+  },
+  {
+    "job_id": "workday:astrazeneca:careers:req:R-252917",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Astrazeneca",
+    "title": "Process Engineer",
+    "location": "US - Rockville - MD",
+    "posted": "Posted 2 Days Ago",
+    "url": "https://astrazeneca.wd3.myworkdayjobs.com/en-US/careers/job/US---Rockville---MD/Process-Engineer_R-252917",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-12T12:32:01.846879+00:00",
+    "emailed_utc": "2026-07-12T12:32:01.846879+00:00"
   }
 ]
