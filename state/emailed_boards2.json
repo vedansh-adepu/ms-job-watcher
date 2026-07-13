@@ -5835,5 +5835,57 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-13T12:31:28.447290+00:00",
     "emailed_utc": "2026-07-13T12:31:28.447290+00:00"
+  },
+  {
+    "job_id": "lever:cti-md:52696ad4-c140-409e-980c-c12690f92c32",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "cti-md",
+    "title": "Software Engineer - Level 03 - FULLY CLEARED with POLYGRAPH REQUIRED",
+    "location": "Fort Meade, MD",
+    "posted": "2026-07-13 12:38 UTC",
+    "url": "https://jobs.lever.co/cti-md/52696ad4-c140-409e-980c-c12690f92c32",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-13T13:01:56.932120+00:00",
+    "emailed_utc": "2026-07-13T13:01:56.932120+00:00"
+  },
+  {
+    "job_id": "lever:qualdoc:3b1c6291-07ff-4635-8221-e82eb1fe0bd9",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "qualdoc",
+    "title": "Junior Mechanical Equipment Design Engineer",
+    "location": "Chesterfield, VA",
+    "posted": "2026-07-13 12:29 UTC",
+    "url": "https://jobs.lever.co/qualdoc/3b1c6291-07ff-4635-8221-e82eb1fe0bd9",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-13T13:01:56.932120+00:00",
+    "emailed_utc": "2026-07-13T13:01:56.932120+00:00"
+  },
+  {
+    "job_id": "lever:qualdoc:46d3f45e-5b58-4720-a01f-4234742ff801",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "qualdoc",
+    "title": "Mechanical Equipment Design Engineer",
+    "location": "Chesterfield, VA",
+    "posted": "2026-07-13 11:57 UTC",
+    "url": "https://jobs.lever.co/qualdoc/46d3f45e-5b58-4720-a01f-4234742ff801",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-13T13:01:56.932120+00:00",
+    "emailed_utc": "2026-07-13T13:01:56.932120+00:00"
+  },
+  {
+    "job_id": "lever:smarsh:f5a3b02b-484e-4926-9dc4-34a09a8b049d",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "smarsh",
+    "title": "Database Engineer - Professional Archive Search",
+    "location": "US - Remote",
+    "posted": "2026-04-17 12:33 UTC",
+    "url": "https://jobs.lever.co/smarsh/f5a3b02b-484e-4926-9dc4-34a09a8b049d",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-13T13:01:56.932120+00:00",
+    "emailed_utc": "2026-07-13T13:01:56.932120+00:00"
   }
 ]
