@@ -1285,5 +1285,31 @@
     "bucket": "yes",
     "first_seen_utc": "2026-07-13T21:51:14.723357+00:00",
     "emailed_utc": "2026-07-13T21:51:14.723357+00:00"
+  },
+  {
+    "job_id": "microsoft:1970393556928331",
+    "pipeline": "main",
+    "platform": "microsoft",
+    "company": "Microsoft",
+    "title": "Software Engineer",
+    "location": "US",
+    "posted": "2026-07-13 21:50 UTC",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556928331",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-13T22:01:22.478678+00:00",
+    "emailed_utc": "2026-07-13T22:01:22.478678+00:00"
+  },
+  {
+    "job_id": "amazon:9d66ee48-9f92-4009-a63d-e91cd96770fe",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Sr Software Development Engineer, AWS Aurora Database",
+    "location": "US, WA, Redmond",
+    "posted": "July 13, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10473227/sr-software-development-engineer-aws-aurora-database",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-13T22:01:22.478678+00:00",
+    "emailed_utc": "2026-07-13T22:01:22.478678+00:00"
   }
 ]
