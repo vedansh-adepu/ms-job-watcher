@@ -5887,5 +5887,83 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-13T13:01:56.932120+00:00",
     "emailed_utc": "2026-07-13T13:01:56.932120+00:00"
+  },
+  {
+    "job_id": "greenhouse:clarityinnovates:5163902007",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "clarityinnovates",
+    "title": "Data Analyst",
+    "location": "Hurlburt Field, FL",
+    "posted": "2026-07-13T09:12:09-04:00",
+    "url": "https://job-boards.greenhouse.io/clarityinnovates/jobs/5163902007",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-13T14:01:57.158224+00:00",
+    "emailed_utc": "2026-07-13T14:01:57.158224+00:00"
+  },
+  {
+    "job_id": "greenhouse:clarityinnovates:5165454007",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "clarityinnovates",
+    "title": "Data Engineer ",
+    "location": "Hurlburt Field, FL",
+    "posted": "2026-07-13T09:14:47-04:00",
+    "url": "https://job-boards.greenhouse.io/clarityinnovates/jobs/5165454007",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-13T14:01:57.158224+00:00",
+    "emailed_utc": "2026-07-13T14:01:57.158224+00:00"
+  },
+  {
+    "job_id": "greenhouse:dimagi:7721272",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "dimagi",
+    "title": "Software Engineer II",
+    "location": "Cambridge, MA, USA",
+    "posted": "2026-07-13T09:46:27-04:00",
+    "url": "https://job-boards.greenhouse.io/dimagi/jobs/7721272",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-13T14:01:57.158224+00:00",
+    "emailed_utc": "2026-07-13T14:01:57.158224+00:00"
+  },
+  {
+    "job_id": "greenhouse:capco:8059535",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "capco",
+    "title": "Sr. Fullstack Developer/React ",
+    "location": "US - Dallas",
+    "posted": "2026-07-13T08:24:30-04:00",
+    "url": "https://job-boards.greenhouse.io/capco/jobs/8059535",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-13T14:01:57.158224+00:00",
+    "emailed_utc": "2026-07-13T14:01:57.158224+00:00"
+  },
+  {
+    "job_id": "greenhouse:clarityinnovates:5165483007",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "clarityinnovates",
+    "title": "Data Architect",
+    "location": "Hurlburt Field, FL",
+    "posted": "2026-07-13T09:25:42-04:00",
+    "url": "https://job-boards.greenhouse.io/clarityinnovates/jobs/5165483007",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-13T14:01:57.158224+00:00",
+    "emailed_utc": "2026-07-13T14:01:57.158224+00:00"
+  },
+  {
+    "job_id": "greenhouse:crossriverbank:7798127003",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "crossriverbank",
+    "title": "Senior Engineer - Enterprise Systems Support",
+    "location": "Fort Lee, New Jersey, United States",
+    "posted": "2026-07-13T08:51:20-04:00",
+    "url": "https://www.crossriver.com/greenhouse?gh_jid=7798127003",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-13T14:01:57.158224+00:00",
+    "emailed_utc": "2026-07-13T14:01:57.158224+00:00"
   }
 ]
