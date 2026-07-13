@@ -9735,5 +9735,18 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-13T02:02:19.697507+00:00",
     "emailed_utc": "2026-07-13T02:02:19.697507+00:00"
+  },
+  {
+    "job_id": "workday:abbott:abbottcareers:req:31154578",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Abbott",
+    "title": "Manufacturing Engineering Technician 2",
+    "location": "United States - California - Menlo Park",
+    "posted": "Posted Today",
+    "url": "https://abbott.wd5.myworkdayjobs.com/en-US/abbottcareers/job/United-States---California---Menlo-Park/Manufacturing-Engineering-Technician-2_31154578-1",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-13T03:58:39.057357+00:00",
+    "emailed_utc": "2026-07-13T03:58:39.057357+00:00"
   }
 ]
