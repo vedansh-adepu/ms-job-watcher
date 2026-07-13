@@ -13258,5 +13258,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-13T22:02:28.096949+00:00",
     "emailed_utc": "2026-07-13T22:02:28.096949+00:00"
+  },
+  {
+    "job_id": "greenhouse:darkwolfsolutions:7803158003",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Darkwolfsolutions",
+    "title": "Full Stack Developer",
+    "location": "Chantilly, VA",
+    "posted": "2026-07-13T17:00:49-04:00",
+    "url": "https://job-boards.greenhouse.io/darkwolfsolutions/jobs/7803158003",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-13T22:07:39.187521+00:00",
+    "emailed_utc": "2026-07-13T22:07:39.187521+00:00"
+  },
+  {
+    "job_id": "greenhouse:capitalrx:4759432008",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Capitalrx",
+    "title": "Senior Platform Developer",
+    "location": "Charlotte, North Carolina, United States; Denver, Colorado, United States; New York, New York, United States",
+    "posted": "2026-07-13T16:45:00-04:00",
+    "url": "https://job-boards.greenhouse.io/capitalrx/jobs/4759432008",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-13T22:07:39.187521+00:00",
+    "emailed_utc": "2026-07-13T22:07:39.187521+00:00"
   }
 ]
