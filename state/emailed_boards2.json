@@ -7980,5 +7980,70 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-13T22:38:25.896139+00:00",
     "emailed_utc": "2026-07-13T22:38:25.896139+00:00"
+  },
+  {
+    "job_id": "greenhouse:vast:4696685006",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "vast",
+    "title": "Software Engineer I, Mission Software",
+    "location": "Long Beach, California, United States",
+    "posted": "2026-07-13T18:45:43-04:00",
+    "url": "https://boards.greenhouse.io/vast/jobs/4696685006?gh_jid=4696685006",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-13T23:02:13.905116+00:00",
+    "emailed_utc": "2026-07-13T23:02:13.905116+00:00"
+  },
+  {
+    "job_id": "greenhouse:zoominfo:8623285002",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "zoominfo",
+    "title": "Software Engineer III ",
+    "location": "Bethesda, Maryland, United States",
+    "posted": "2026-07-13T18:31:34-04:00",
+    "url": "https://www.zoominfo.com/careers?gh_jid=8623285002",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-13T23:02:13.905116+00:00",
+    "emailed_utc": "2026-07-13T23:02:13.905116+00:00"
+  },
+  {
+    "job_id": "greenhouse:waymo:8056720",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "waymo",
+    "title": "Staff Machine Learning Engineer, Simulation ",
+    "location": "Mountain View, CA, USA; New York, NY, USA",
+    "posted": "2026-07-13T18:11:43-04:00",
+    "url": "https://careers.withwaymo.com/jobs?gh_jid=8056720",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-13T23:02:13.905116+00:00",
+    "emailed_utc": "2026-07-13T23:02:13.905116+00:00"
+  },
+  {
+    "job_id": "greenhouse:xairatherapeutics:5186040007",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "xairatherapeutics",
+    "title": "Senior Scientist, Protein Engineering",
+    "location": "South San Francisco, California, United States",
+    "posted": "2026-07-13T18:47:28-04:00",
+    "url": "https://job-boards.greenhouse.io/xairatherapeutics/jobs/5186040007",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-13T23:02:13.905116+00:00",
+    "emailed_utc": "2026-07-13T23:02:13.905116+00:00"
+  },
+  {
+    "job_id": "lever:lucidworks:2c245e4c-db34-4332-ae3d-92e8bbd1a9d9",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "lucidworks",
+    "title": "Senior IT Systems Engineer",
+    "location": "Atlanta, GA",
+    "posted": "2026-07-13 22:28 UTC",
+    "url": "https://jobs.lever.co/lucidworks/2c245e4c-db34-4332-ae3d-92e8bbd1a9d9",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-13T23:02:13.905116+00:00",
+    "emailed_utc": "2026-07-13T23:02:13.905116+00:00"
   }
 ]
