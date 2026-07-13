@@ -1194,5 +1194,31 @@
     "bucket": "yes",
     "first_seen_utc": "2026-07-13T21:01:25.006052+00:00",
     "emailed_utc": "2026-07-13T21:01:25.006052+00:00"
+  },
+  {
+    "job_id": "amazon:f7f13dcc-9b8d-464f-8966-0d88f4cd33ae",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Senior Software Engineer, GameTech Cortex, AWS GameTech Cortex",
+    "location": "US, CA, San Diego",
+    "posted": "July 13, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10473176/senior-software-engineer-gametech-cortex-aws-gametech-cortex",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-13T21:11:13.287195+00:00",
+    "emailed_utc": "2026-07-13T21:11:13.287195+00:00"
+  },
+  {
+    "job_id": "amazon:2a09f93d-a7f5-4752-adad-d70e38edabdf",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Manager, Geospatial",
+    "location": "US, WA, Bellevue",
+    "posted": "July 13, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10473129/software-development-manager-geospatial",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-13T21:11:13.287195+00:00",
+    "emailed_utc": "2026-07-13T21:11:13.287195+00:00"
   }
 ]
