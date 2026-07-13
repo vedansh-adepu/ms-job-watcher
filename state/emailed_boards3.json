@@ -18562,5 +18562,18 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-13T04:02:57.635756+00:00",
     "emailed_utc": "2026-07-13T04:02:57.635756+00:00"
+  },
+  {
+    "job_id": "workday:coxhealth:coxhealth_external:req:R14519",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Coxhealth",
+    "title": "IT Systems Analyst - Network Engineer",
+    "location": "Springfield, MO",
+    "posted": "Posted 2 Days Ago",
+    "url": "https://coxhealth.wd5.myworkdayjobs.com/en-US/coxhealth_external/job/Springfield-MO/IT-Systems-Analyst_R14519",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-13T04:24:05.031811+00:00",
+    "emailed_utc": "2026-07-13T04:24:05.031811+00:00"
   }
 ]
