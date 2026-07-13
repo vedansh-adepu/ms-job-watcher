@@ -9982,5 +9982,44 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-13T14:02:46.795496+00:00",
     "emailed_utc": "2026-07-13T14:02:46.795496+00:00"
+  },
+  {
+    "job_id": "greenhouse:unqork:8584611002",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Unqork",
+    "title": "Staff AI Engineer",
+    "location": "United States (Remote)",
+    "posted": "2026-07-13T09:21:56-04:00",
+    "url": "https://www.unqork.com/career-details/?gh_jid=8584611002",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-13T14:32:28.865737+00:00",
+    "emailed_utc": "2026-07-13T14:32:28.865737+00:00"
+  },
+  {
+    "job_id": "smartrecruiters:Versant3:744000137475399",
+    "pipeline": "boards",
+    "platform": "smartrecruiters",
+    "company": "Versant",
+    "title": "Data Analytics Manager, Elections",
+    "location": "New York, NEW YORK, us",
+    "posted": "2026-07-13T14:27:36.712Z",
+    "url": "https://jobs.smartrecruiters.com/Versant3",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-13T14:32:28.865737+00:00",
+    "emailed_utc": "2026-07-13T14:32:28.865737+00:00"
+  },
+  {
+    "job_id": "ashby:snowflake:b1444e32-7a94-4d4c-8a82-67c0396ade83",
+    "pipeline": "boards",
+    "platform": "ashby",
+    "company": "Snowflake",
+    "title": "Senior Manager, Developer Relations",
+    "location": "US-CA-Menlo Park",
+    "posted": "",
+    "url": "https://jobs.ashbyhq.com/snowflake/b1444e32-7a94-4d4c-8a82-67c0396ade83",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-13T14:32:28.865737+00:00",
+    "emailed_utc": "2026-07-13T14:32:28.865737+00:00"
   }
 ]
