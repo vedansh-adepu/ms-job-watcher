@@ -5965,5 +5965,70 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-13T14:01:57.158224+00:00",
     "emailed_utc": "2026-07-13T14:01:57.158224+00:00"
+  },
+  {
+    "job_id": "greenhouse:stage:5466205004",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "stage",
+    "title": "Global Client Solutions Product Analyst/ Associate",
+    "location": "New York, New York, United States",
+    "posted": "2026-07-13T09:21:42-04:00",
+    "url": "https://www.kkr.com/careers/career-opportunities/post?gh_jid=5466205004",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-13T14:31:41.304542+00:00",
+    "emailed_utc": "2026-07-13T14:31:41.304542+00:00"
+  },
+  {
+    "job_id": "greenhouse:metrostarsystems:7781330003",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "metrostarsystems",
+    "title": "Sr. Application Delivery Engineer I   ",
+    "location": "Washington, DC",
+    "posted": "2026-07-13T10:16:21-04:00",
+    "url": "https://metrostar.com/job-post/?gh_jid=7781330003",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-13T14:31:41.304542+00:00",
+    "emailed_utc": "2026-07-13T14:31:41.304542+00:00"
+  },
+  {
+    "job_id": "greenhouse:queracomputinginc:5342034008",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "queracomputinginc",
+    "title": "Security Engineer",
+    "location": "Boston, MA, USA",
+    "posted": "2026-07-13T09:16:15-04:00",
+    "url": "https://job-boards.greenhouse.io/queracomputinginc/jobs/5342034008",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-13T14:31:41.304542+00:00",
+    "emailed_utc": "2026-07-13T14:31:41.304542+00:00"
+  },
+  {
+    "job_id": "greenhouse:relaypayments:7802697003",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "relaypayments",
+    "title": "Principal Software Engineer",
+    "location": "Atlanta, GA",
+    "posted": "2026-07-13T10:02:02-04:00",
+    "url": "https://job-boards.greenhouse.io/relaypayments/jobs/7802697003",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-13T14:31:41.304542+00:00",
+    "emailed_utc": "2026-07-13T14:31:41.304542+00:00"
+  },
+  {
+    "job_id": "greenhouse:smxtech:7605671003",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "smxtech",
+    "title": "Cleared On Site Information Systems Security Engineer - SME (4983)",
+    "location": "Huntsville, AL",
+    "posted": "2026-07-13T10:05:31-04:00",
+    "url": "https://www.smxtech.com/careers/?gh_jid=7605671003",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-13T14:31:41.304542+00:00",
+    "emailed_utc": "2026-07-13T14:31:41.304542+00:00"
   }
 ]
