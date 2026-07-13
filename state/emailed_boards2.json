@@ -7187,5 +7187,70 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-13T19:31:40.372979+00:00",
     "emailed_utc": "2026-07-13T19:31:40.372979+00:00"
+  },
+  {
+    "job_id": "greenhouse:zoominfo:8606563002",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "zoominfo",
+    "title": "Software Engineer III",
+    "location": "Bethesda, Maryland, United States; Waltham, Massachusetts, United States",
+    "posted": "2026-07-13T14:56:44-04:00",
+    "url": "https://www.zoominfo.com/careers?gh_jid=8606563002",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-13T20:02:09.245349+00:00",
+    "emailed_utc": "2026-07-13T20:02:09.245349+00:00"
+  },
+  {
+    "job_id": "lever:teramind:1018e740-2f91-4414-8467-a8c5f3fc10e5",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "teramind",
+    "title": "Data Analyst",
+    "location": "United States",
+    "posted": "2026-07-10 15:20 UTC",
+    "url": "https://jobs.lever.co/teramind/1018e740-2f91-4414-8467-a8c5f3fc10e5",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-13T20:02:09.245349+00:00",
+    "emailed_utc": "2026-07-13T20:02:09.245349+00:00"
+  },
+  {
+    "job_id": "lever:charmindustrial:cc3879c5-a79b-4528-b754-a2d333cbec72",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "charmindustrial",
+    "title": "Engineering Fabricator",
+    "location": "Fort Lupton, CO",
+    "posted": "2026-07-13 18:55 UTC",
+    "url": "https://jobs.lever.co/charmindustrial/cc3879c5-a79b-4528-b754-a2d333cbec72",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-13T20:02:09.245349+00:00",
+    "emailed_utc": "2026-07-13T20:02:09.245349+00:00"
+  },
+  {
+    "job_id": "lever:charmindustrial:791bc2ef-54df-4540-af19-3923f4858a38",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "charmindustrial",
+    "title": "Engineering Technician",
+    "location": "Fort Lupton, CO",
+    "posted": "2026-07-13 19:00 UTC",
+    "url": "https://jobs.lever.co/charmindustrial/791bc2ef-54df-4540-af19-3923f4858a38",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-13T20:02:09.245349+00:00",
+    "emailed_utc": "2026-07-13T20:02:09.245349+00:00"
+  },
+  {
+    "job_id": "lever:inflowfed:d9d65df1-ba26-44bb-a71a-e4184dcba8ef",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "inflowfed",
+    "title": "Cloud Engineer",
+    "location": "Springfield, VA",
+    "posted": "2023-10-26 19:13 UTC",
+    "url": "https://jobs.lever.co/inflowfed/d9d65df1-ba26-44bb-a71a-e4184dcba8ef",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-13T20:02:09.245349+00:00",
+    "emailed_utc": "2026-07-13T20:02:09.245349+00:00"
   }
 ]
