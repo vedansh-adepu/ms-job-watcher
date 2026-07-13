@@ -12062,5 +12062,70 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-13T19:02:49.933255+00:00",
     "emailed_utc": "2026-07-13T19:02:49.933255+00:00"
+  },
+  {
+    "job_id": "greenhouse:upstart:8060056",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "UpStart",
+    "title": "Software Engineer, Upstart Bank",
+    "location": "United States | Remote",
+    "posted": "2026-07-13T14:12:30-04:00",
+    "url": "https://careers.upstart.com/jobs?gh_jid=8060056",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-13T19:32:22.933266+00:00",
+    "emailed_utc": "2026-07-13T19:32:22.933266+00:00"
+  },
+  {
+    "job_id": "greenhouse:upstart:8060317",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "UpStart",
+    "title": "Software Engineer, Upstart Bank",
+    "location": "United States | Remote",
+    "posted": "2026-07-13T14:11:25-04:00",
+    "url": "https://careers.upstart.com/jobs?gh_jid=8060317",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-13T19:32:22.933266+00:00",
+    "emailed_utc": "2026-07-13T19:32:22.933266+00:00"
+  },
+  {
+    "job_id": "greenhouse:xometry:5185678007",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "xometry",
+    "title": "Analytics Engineer II",
+    "location": "North Bethesda, MD",
+    "posted": "2026-07-13T13:19:40-04:00",
+    "url": "https://job-boards.greenhouse.io/xometry/jobs/5185678007",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-13T19:32:22.933266+00:00",
+    "emailed_utc": "2026-07-13T19:32:22.933266+00:00"
+  },
+  {
+    "job_id": "greenhouse:voyagertechnologiesinc:4260842009",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "voyagertechnologiesinc",
+    "title": "Product Assurance Engineer",
+    "location": "San Diego, CA",
+    "posted": "2026-07-13T14:38:44-04:00",
+    "url": "https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4260842009",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-13T19:32:22.933266+00:00",
+    "emailed_utc": "2026-07-13T19:32:22.933266+00:00"
+  },
+  {
+    "job_id": "ashby:1password:804f6fcb-e244-4734-b3c9-029c108359f4",
+    "pipeline": "boards",
+    "platform": "ashby",
+    "company": "1password",
+    "title": "Principal Developer Advocate",
+    "location": "Remote (United States | United Kingdom | Canada)",
+    "posted": "",
+    "url": "https://jobs.ashbyhq.com/1password/804f6fcb-e244-4734-b3c9-029c108359f4",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-13T19:32:22.933266+00:00",
+    "emailed_utc": "2026-07-13T19:32:22.933266+00:00"
   }
 ]
