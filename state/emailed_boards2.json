@@ -6368,5 +6368,83 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-13T16:02:00.379048+00:00",
     "emailed_utc": "2026-07-13T16:02:00.379048+00:00"
+  },
+  {
+    "job_id": "greenhouse:wehrtyou:8052122",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "wehrtyou",
+    "title": "Software Engineer (C++ or Python) \u2013 2027 Grads",
+    "location": "Austin, TX, United States; Chicago, Illinois, United States; New York, NY, United States; Singapore",
+    "posted": "2026-07-13T11:30:48-04:00",
+    "url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8052122",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-13T16:32:08.233955+00:00",
+    "emailed_utc": "2026-07-13T16:32:08.233955+00:00"
+  },
+  {
+    "job_id": "greenhouse:vaynermedia:8008443",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "vaynermedia",
+    "title": "Senior Associate, Analytics (Media)",
+    "location": "United States- Los Angeles, CA",
+    "posted": "2026-07-13T11:26:07-04:00",
+    "url": "https://vaynermedia.com/careers?gh_jid=8008443",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-13T16:32:08.233955+00:00",
+    "emailed_utc": "2026-07-13T16:32:08.233955+00:00"
+  },
+  {
+    "job_id": "greenhouse:wehrtyou:8052050",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "wehrtyou",
+    "title": "Algorithm Developer (Quant Researcher) \u2013 2027 Grads",
+    "location": "New York, NY, United States; Singapore",
+    "posted": "2026-07-13T11:37:24-04:00",
+    "url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8052050",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-13T16:32:08.233955+00:00",
+    "emailed_utc": "2026-07-13T16:32:08.233955+00:00"
+  },
+  {
+    "job_id": "greenhouse:wehrtyou:8059845",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "wehrtyou",
+    "title": "Algorithm Developer (Quant Researcher) \u2013 2027 PhDs",
+    "location": "New York, NY, United States; Singapore",
+    "posted": "2026-07-13T11:37:25-04:00",
+    "url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8059845",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-13T16:32:08.233955+00:00",
+    "emailed_utc": "2026-07-13T16:32:08.233955+00:00"
+  },
+  {
+    "job_id": "greenhouse:zipcolimited:4695660006",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "zipcolimited",
+    "title": "Tech Lead Engineer",
+    "location": "United States",
+    "posted": "2026-07-13T11:58:38-04:00",
+    "url": "https://job-boards.greenhouse.io/zipcolimited/jobs/4695660006",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-13T16:32:08.233955+00:00",
+    "emailed_utc": "2026-07-13T16:32:08.233955+00:00"
+  },
+  {
+    "job_id": "lever:loftorbital:3ae5c3e3-c1e0-4311-83b5-0b6cea03b390",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "loftorbital",
+    "title": "Senior Cloud Infrastructure Engineer",
+    "location": "Golden, CO or San Francisco",
+    "posted": "2025-05-06 16:06 UTC",
+    "url": "https://jobs.lever.co/loftorbital/3ae5c3e3-c1e0-4311-83b5-0b6cea03b390",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-13T16:32:08.233955+00:00",
+    "emailed_utc": "2026-07-13T16:32:08.233955+00:00"
   }
 ]
