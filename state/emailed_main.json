@@ -1116,5 +1116,18 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-13T17:31:18.339646+00:00",
     "emailed_utc": "2026-07-13T17:31:18.339646+00:00"
+  },
+  {
+    "job_id": "amazon:a0114cd2-e15b-4fb0-aca5-081b7977e719",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Machine Learning Engineer, Sponsored Products Off-Search Sourcing and Relevance",
+    "location": "US, NY, New York",
+    "posted": "July 13, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10472926/machine-learning-engineer-sponsored-products-off-search-sourcing-and-relevance",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-13T17:51:07.431192+00:00",
+    "emailed_utc": "2026-07-13T17:51:07.431192+00:00"
   }
 ]
