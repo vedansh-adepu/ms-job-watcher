@@ -1324,5 +1324,18 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-13T22:21:11.762047+00:00",
     "emailed_utc": "2026-07-13T22:21:11.762047+00:00"
+  },
+  {
+    "job_id": "amazon:a850f392-4881-4b4e-ace9-bfbad0dc5a8e",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Applied Scientist II, Machine Learning Accelerator - Annapurna Labs",
+    "location": "US, TX, Austin",
+    "posted": "July 13, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10473260/applied-scientist-ii-machine-learning-accelerator-annapurna-labs",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-13T22:51:11.223421+00:00",
+    "emailed_utc": "2026-07-13T22:51:11.223421+00:00"
   }
 ]
