@@ -9891,5 +9891,18 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-13T06:32:47.524170+00:00",
     "emailed_utc": "2026-07-13T06:32:47.524170+00:00"
+  },
+  {
+    "job_id": "workday:globalfoundries:External:req:JR-2602938",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Global Foundries",
+    "title": "Principal Engineer, Analog Design",
+    "location": "USA - Texas - Richardson",
+    "posted": "Posted Today",
+    "url": "https://globalfoundries.wd1.myworkdayjobs.com/en-US/External/job/USA---Texas---Richardson/Principal-Engineer--Analog-Design_JR-2602938-1",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-13T09:48:07.780421+00:00",
+    "emailed_utc": "2026-07-13T09:48:07.780421+00:00"
   }
 ]
