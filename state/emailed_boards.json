@@ -11139,5 +11139,44 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-13T17:02:14.837685+00:00",
     "emailed_utc": "2026-07-13T17:02:14.837685+00:00"
+  },
+  {
+    "job_id": "greenhouse:figureai:4696533006",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Figureai",
+    "title": "Helix AI Engineer, Localization and Mapping",
+    "location": "San Jose, CA",
+    "posted": "2026-07-13T12:02:44-04:00",
+    "url": "https://job-boards.greenhouse.io/figureai/jobs/4696533006",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-13T17:22:32.471534+00:00",
+    "emailed_utc": "2026-07-13T17:22:32.471534+00:00"
+  },
+  {
+    "job_id": "greenhouse:ezcaterinc:5185605007",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Ezcaterinc",
+    "title": "Senior Software Engineer, AI-Native Platform (Remote)",
+    "location": "Boston, MA",
+    "posted": "2026-07-13T13:17:27-04:00",
+    "url": "https://job-boards.greenhouse.io/ezcaterinc/jobs/5185605007",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-13T17:22:32.471534+00:00",
+    "emailed_utc": "2026-07-13T17:22:32.471534+00:00"
+  },
+  {
+    "job_id": "lever:whoop:82635467-6cfb-4e8b-967e-73355a0d0b8f",
+    "pipeline": "boards",
+    "platform": "lever",
+    "company": "Whoop",
+    "title": "Software Engineer II, MLOps",
+    "location": "Boston, MA",
+    "posted": "2026-07-13 16:24 UTC",
+    "url": "https://jobs.lever.co/whoop/82635467-6cfb-4e8b-967e-73355a0d0b8f",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-13T17:22:32.471534+00:00",
+    "emailed_utc": "2026-07-13T17:22:32.471534+00:00"
   }
 ]
