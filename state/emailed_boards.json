@@ -9917,5 +9917,57 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-13T12:33:06.813439+00:00",
     "emailed_utc": "2026-07-13T12:33:06.813439+00:00"
+  },
+  {
+    "job_id": "workday:ngc:Northrop_Grumman_External_Site:req:R10240004",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Northrop Grumman",
+    "title": "Airframe Structural Design Engineer",
+    "location": "United States-Florida-Melbourne",
+    "posted": "Posted Today",
+    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Airframe-Structural-Design-Engineer_R10240004",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-13T13:02:26.436585+00:00",
+    "emailed_utc": "2026-07-13T13:02:26.436585+00:00"
+  },
+  {
+    "job_id": "workday:ngc:Northrop_Grumman_External_Site:req:R10240002",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Northrop Grumman",
+    "title": "Sr. Principal Embedded Software Engineer",
+    "location": "United States-California-Camarillo",
+    "posted": "Posted Today",
+    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Camarillo/Sr-Principal-Embedded-Software-Engineer_R10240002",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-13T13:02:26.436585+00:00",
+    "emailed_utc": "2026-07-13T13:02:26.436585+00:00"
+  },
+  {
+    "job_id": "workday:nvidia:NVIDIAExternalCareerSite:req:JR2021250",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "NVIDIA",
+    "title": "Senior Data Scientist, Voice of the Customer - GeForce NOW",
+    "location": "US, CA, Santa Clara",
+    "posted": "Posted Today",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Data-Scientist--Voice-of-the-Customer---GeForce-NOW_JR2021250",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-13T13:02:26.436585+00:00",
+    "emailed_utc": "2026-07-13T13:02:26.436585+00:00"
+  },
+  {
+    "job_id": "workday:nvidia:NVIDIAExternalCareerSite:req:JR2021248",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "NVIDIA",
+    "title": "Senior System Software Engineer for Cloud \u2013 GeForce NOW",
+    "location": "US, TX, Remote",
+    "posted": "Posted Today",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-TX-Remote/Senior-System-Software-Engineer-for-Cloud---GeForce-NOW_JR2021248",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-13T13:02:26.436585+00:00",
+    "emailed_utc": "2026-07-13T13:02:26.436585+00:00"
   }
 ]
