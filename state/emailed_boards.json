@@ -11997,5 +11997,70 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-13T18:32:25.564822+00:00",
     "emailed_utc": "2026-07-13T18:32:25.564822+00:00"
+  },
+  {
+    "job_id": "greenhouse:sonyinteractiveentertainmentglobal:6015203004",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "sonyinteractiveentertainmentglobal",
+    "title": "Software Development Engineer in Test Contractor (SDET Contractor)",
+    "location": "United States, San Mateo, CA",
+    "posted": "2026-07-13T14:18:28-04:00",
+    "url": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6015203004",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-13T19:02:49.933255+00:00",
+    "emailed_utc": "2026-07-13T19:02:49.933255+00:00"
+  },
+  {
+    "job_id": "greenhouse:spacex:8631618002",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "SpaceX",
+    "title": "Electrical Hardware Engineer, Satellites (Starlink) ",
+    "location": "Redmond, WA",
+    "posted": "2026-07-13T14:36:42-04:00",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8631618002?gh_jid=8631618002",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-13T19:02:49.933255+00:00",
+    "emailed_utc": "2026-07-13T19:02:49.933255+00:00"
+  },
+  {
+    "job_id": "greenhouse:spacex:8631636002",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "SpaceX",
+    "title": "Hardware Engineer - Electrical, Satellites (Starlink)",
+    "location": "Redmond, WA",
+    "posted": "2026-07-13T14:36:43-04:00",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8631636002?gh_jid=8631636002",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-13T19:02:49.933255+00:00",
+    "emailed_utc": "2026-07-13T19:02:49.933255+00:00"
+  },
+  {
+    "job_id": "greenhouse:spacex:8628384002",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "SpaceX",
+    "title": "Sr. GNC Engineer (Starship) Controls ",
+    "location": "Starbase, TX",
+    "posted": "2026-07-13T13:56:36-04:00",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8628384002?gh_jid=8628384002",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-13T19:02:49.933255+00:00",
+    "emailed_utc": "2026-07-13T19:02:49.933255+00:00"
+  },
+  {
+    "job_id": "greenhouse:spacex:8631444002",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "SpaceX",
+    "title": "Sr. Power Systems Engineer (Starship) ",
+    "location": "Starbase, TX",
+    "posted": "2026-07-13T13:56:00-04:00",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8631444002?gh_jid=8631444002",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-13T19:02:49.933255+00:00",
+    "emailed_utc": "2026-07-13T19:02:49.933255+00:00"
   }
 ]
