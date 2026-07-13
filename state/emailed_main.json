@@ -1129,5 +1129,18 @@
     "bucket": "yes",
     "first_seen_utc": "2026-07-13T17:51:07.431192+00:00",
     "emailed_utc": "2026-07-13T17:51:07.431192+00:00"
+  },
+  {
+    "job_id": "amazon:8ae6f056-8ffe-4add-9fc4-76866328274e",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Dev Engineer, Amazon Application Recovery Controller",
+    "location": "US, OR, Portland",
+    "posted": "July 13, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10472981/software-dev-engineer-amazon-application-recovery-controller",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-13T18:41:28.672893+00:00",
+    "emailed_utc": "2026-07-13T18:41:28.672893+00:00"
   }
 ]
