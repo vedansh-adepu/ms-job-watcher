@@ -16430,5 +16430,70 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-12T22:06:46.141184+00:00",
     "emailed_utc": "2026-07-12T22:06:46.141184+00:00"
+  },
+  {
+    "job_id": "workday:cigna:cignacareers:req:26006222",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Cigna",
+    "title": "Software Engineering Manager- Hybrid",
+    "location": "Newton, MA",
+    "posted": "Posted 30+ Days Ago",
+    "url": "https://cigna.wd5.myworkdayjobs.com/en-US/cignacareers/job/Newton-MA/Software-Engineering-Manager--Hybrid_26006222",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-13T00:04:39.134587+00:00",
+    "emailed_utc": "2026-07-13T00:04:39.134587+00:00"
+  },
+  {
+    "job_id": "workday:cigna:cignacareers:req:26006221",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Cigna",
+    "title": "Software Engineering Advisor- Hybrid",
+    "location": "St. Louis, MO",
+    "posted": "Posted 30+ Days Ago",
+    "url": "https://cigna.wd5.myworkdayjobs.com/en-US/cignacareers/job/St-Louis-MO/Software-Engineering-Advisor--Hybrid_26006221",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-13T00:04:39.134587+00:00",
+    "emailed_utc": "2026-07-13T00:04:39.134587+00:00"
+  },
+  {
+    "job_id": "workday:cigna:cignacareers:req:26006371",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Cigna",
+    "title": "Business Analytics Advisor, C&CE Workforce Management - Evernorth - Remote",
+    "location": "United States Work at Home",
+    "posted": "Posted Yesterday",
+    "url": "https://cigna.wd5.myworkdayjobs.com/en-US/cignacareers/job/United-States-Work-at-Home/Business-Analytics-Advisor--C-CE-Workforce-Management---Evernorth---Remote_26006371",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-13T00:04:39.134587+00:00",
+    "emailed_utc": "2026-07-13T00:04:39.134587+00:00"
+  },
+  {
+    "job_id": "workday:cigna:cignacareers:req:26006744",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Cigna",
+    "title": "Business Analytics Associate - Provider Contracting & Network Analytics - Remote",
+    "location": "United States Work at Home",
+    "posted": "Posted 2 Days Ago",
+    "url": "https://cigna.wd5.myworkdayjobs.com/en-US/cignacareers/job/United-States-Work-at-Home/Business-Analytics-Associate---Provider-Contracting---Network-Analytics---Remote_26006744-1",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-13T00:04:39.134587+00:00",
+    "emailed_utc": "2026-07-13T00:04:39.134587+00:00"
+  },
+  {
+    "job_id": "workday:cigna:cignacareers:req:26006225",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Cigna",
+    "title": "Software Engineering Senior Advisor- Hybrid",
+    "location": "Morris Plains, NJ",
+    "posted": "Posted 30+ Days Ago",
+    "url": "https://cigna.wd5.myworkdayjobs.com/en-US/cignacareers/job/Morris-Plains-NJ/Software-Engineering-Senior-Advisor--Hybrid_26006225-1",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-13T00:04:39.134587+00:00",
+    "emailed_utc": "2026-07-13T00:04:39.134587+00:00"
   }
 ]
