@@ -1142,5 +1142,18 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-13T18:41:28.672893+00:00",
     "emailed_utc": "2026-07-13T18:41:28.672893+00:00"
+  },
+  {
+    "job_id": "amazon:e5499eeb-2218-4481-a2e5-aca14ff42228",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Sr. Software Engineer, DynamoDB",
+    "location": "US, WA, Seattle",
+    "posted": "July 13, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10473009/sr-software-engineer-dynamodb",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-13T18:51:08.009164+00:00",
+    "emailed_utc": "2026-07-13T18:51:08.009164+00:00"
   }
 ]
