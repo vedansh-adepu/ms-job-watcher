@@ -12946,5 +12946,44 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-13T21:02:42.558612+00:00",
     "emailed_utc": "2026-07-13T21:02:42.558612+00:00"
+  },
+  {
+    "job_id": "greenhouse:samsungsemiconductor:7796354003",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "samsungsemiconductor",
+    "title": "Staff Engineer, Workbench Platform",
+    "location": "San Jose, California, United States",
+    "posted": "2026-07-13T16:29:26-04:00",
+    "url": "https://job-boards.greenhouse.io/samsungsemiconductor/jobs/7796354003",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-13T21:32:46.273911+00:00",
+    "emailed_utc": "2026-07-13T21:32:46.273911+00:00"
+  },
+  {
+    "job_id": "smartrecruiters:SanDisk:744000137531659",
+    "pipeline": "boards",
+    "platform": "smartrecruiters",
+    "company": "SanDisk",
+    "title": "Staff Engineer, System Design Engineering",
+    "location": "Milpitas, CA, us",
+    "posted": "2026-07-13T19:51:28.276Z",
+    "url": "https://jobs.smartrecruiters.com/SanDisk",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-13T21:32:46.273911+00:00",
+    "emailed_utc": "2026-07-13T21:32:46.273911+00:00"
+  },
+  {
+    "job_id": "greenhouse:spacex:8632072002",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "SpaceX",
+    "title": "Sr. Hardware Engineer, Gateways & Customer Hardware (Starlink) ",
+    "location": "Bastrop, TX",
+    "posted": "2026-07-13T17:26:03-04:00",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8632072002?gh_jid=8632072002",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-13T21:32:46.273911+00:00",
+    "emailed_utc": "2026-07-13T21:32:46.273911+00:00"
   }
 ]
