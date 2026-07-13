@@ -973,5 +973,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-13T02:51:20.472272+00:00",
     "emailed_utc": "2026-07-13T02:51:20.472272+00:00"
+  },
+  {
+    "job_id": "nvidia:893396308283",
+    "pipeline": "main",
+    "platform": "nvidia",
+    "company": "NVIDIA",
+    "title": "Senior Data Scientist, Voice of the Customer - GeForce NOW",
+    "location": "Santa Clara, CA, US",
+    "posted": "2026-07-13 00:00 UTC",
+    "url": "https://nvidia.eightfold.ai/careers/job/893396308283",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-13T10:31:23.022263+00:00",
+    "emailed_utc": "2026-07-13T10:31:23.022263+00:00"
+  },
+  {
+    "job_id": "nvidia:893396308312",
+    "pipeline": "main",
+    "platform": "nvidia",
+    "company": "NVIDIA",
+    "title": "Senior System Software Engineer for Cloud \u2013 GeForce NOW",
+    "location": "TX,US",
+    "posted": "2026-07-13 00:00 UTC",
+    "url": "https://nvidia.eightfold.ai/careers/job/893396308312",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-13T10:31:23.022263+00:00",
+    "emailed_utc": "2026-07-13T10:31:23.022263+00:00"
   }
 ]
