@@ -1103,5 +1103,18 @@
     "bucket": "yes",
     "first_seen_utc": "2026-07-13T17:11:18.553388+00:00",
     "emailed_utc": "2026-07-13T17:11:18.553388+00:00"
+  },
+  {
+    "job_id": "amazon:621da89f-88ac-4bc5-a224-fabfcfc0702b",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Senior Software Development Engineer, AWS Elastic MapReduce (EMR)",
+    "location": "US, WA, Redmond",
+    "posted": "July 13, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10472908/senior-software-development-engineer-aws-elastic-mapreduce-emr",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-13T17:31:18.339646+00:00",
+    "emailed_utc": "2026-07-13T17:31:18.339646+00:00"
   }
 ]
