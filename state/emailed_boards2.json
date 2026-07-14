@@ -10021,5 +10021,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-14T23:01:39.231838+00:00",
     "emailed_utc": "2026-07-14T23:01:39.231838+00:00"
+  },
+  {
+    "job_id": "greenhouse:ziprecruiter:2447849",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "ziprecruiter",
+    "title": "Software Engineering Manager ",
+    "location": "Santa Monica, CA",
+    "posted": "2026-07-14T18:51:42-04:00",
+    "url": "https://job-boards.greenhouse.io/ziprecruiter/jobs/2447849",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-14T23:31:46.053346+00:00",
+    "emailed_utc": "2026-07-14T23:31:46.053346+00:00"
+  },
+  {
+    "job_id": "lever:standtogether:163d5dbb-5d5d-489b-a368-68d875afe92b",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "standtogether",
+    "title": "Senior Full-Stack Software Engineer - Front-End Focused",
+    "location": "Arlington, VA",
+    "posted": "2026-06-27 00:39 UTC",
+    "url": "https://jobs.lever.co/standtogether/163d5dbb-5d5d-489b-a368-68d875afe92b",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-14T23:31:46.053346+00:00",
+    "emailed_utc": "2026-07-14T23:31:46.053346+00:00"
   }
 ]
