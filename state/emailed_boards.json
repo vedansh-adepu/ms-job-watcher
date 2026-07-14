@@ -18172,5 +18172,70 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-14T22:02:18.302113+00:00",
     "emailed_utc": "2026-07-14T22:02:18.302113+00:00"
+  },
+  {
+    "job_id": "ashby:formenergy:b54ffede-d458-4f34-8029-fa1548d9cf75",
+    "pipeline": "boards",
+    "platform": "ashby",
+    "company": "Form Energy",
+    "title": "Senior Mechanical Engineer, Test Infrastructure",
+    "location": "Berkeley, CA",
+    "posted": "",
+    "url": "https://jobs.ashbyhq.com/formenergy/b54ffede-d458-4f34-8029-fa1548d9cf75",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-14T22:11:20.913196+00:00",
+    "emailed_utc": "2026-07-14T22:11:20.913196+00:00"
+  },
+  {
+    "job_id": "greenhouse:attentive:4315071009",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Attentive",
+    "title": "Senior NetSuite Engineer",
+    "location": "United States",
+    "posted": "2026-07-14T16:23:01-04:00",
+    "url": "https://job-boards.greenhouse.io/attentive/jobs/4315071009",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-14T22:11:20.913196+00:00",
+    "emailed_utc": "2026-07-14T22:11:20.913196+00:00"
+  },
+  {
+    "job_id": "greenhouse:planetlabs:8044691",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Planetlabs",
+    "title": "Data Visualization Engineer",
+    "location": "San Francisco, CA",
+    "posted": "2026-07-14T16:44:21-04:00",
+    "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8044691",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-14T22:11:20.913196+00:00",
+    "emailed_utc": "2026-07-14T22:11:20.913196+00:00"
+  },
+  {
+    "job_id": "greenhouse:stratacareers:7804899003",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Stratacareers",
+    "title": "Agentic AI Developer",
+    "location": "Chicago, IL",
+    "posted": "2026-07-14T17:40:55-04:00",
+    "url": "https://job-boards.greenhouse.io/stratacareers/jobs/7804899003",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-14T22:11:20.913196+00:00",
+    "emailed_utc": "2026-07-14T22:11:20.913196+00:00"
+  },
+  {
+    "job_id": "greenhouse:lucidmotors:5133673007",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Lucidmotors",
+    "title": "Sr. Manager, Engineering & PM",
+    "location": "Phoenix, AZ",
+    "posted": "2026-07-14T17:18:36-04:00",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5133673007",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-14T22:11:20.913196+00:00",
+    "emailed_utc": "2026-07-14T22:11:20.913196+00:00"
   }
 ]
