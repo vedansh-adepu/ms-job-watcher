@@ -15325,5 +15325,44 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-14T16:32:42.697883+00:00",
     "emailed_utc": "2026-07-14T16:32:42.697883+00:00"
+  },
+  {
+    "job_id": "greenhouse:zocdoc:7775912",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "zocdoc",
+    "title": "Engineering Manager, Frontend Platform & Design Systems",
+    "location": "USA Remote",
+    "posted": "2026-07-14T11:19:40-04:00",
+    "url": "https://job-boards.greenhouse.io/zocdoc/jobs/7775912",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-14T16:38:04.885370+00:00",
+    "emailed_utc": "2026-07-14T16:38:04.885370+00:00"
+  },
+  {
+    "job_id": "greenhouse:zocdoc:8060755",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "zocdoc",
+    "title": "Senior Staff Software Engineer, Vulnerability Management",
+    "location": "USA Remote",
+    "posted": "2026-07-14T10:58:44-04:00",
+    "url": "https://job-boards.greenhouse.io/zocdoc/jobs/8060755",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-14T16:38:04.885370+00:00",
+    "emailed_utc": "2026-07-14T16:38:04.885370+00:00"
+  },
+  {
+    "job_id": "ashby:sanity:6cb743de-5d19-43d2-837e-c60cf4dc449b",
+    "pipeline": "boards",
+    "platform": "ashby",
+    "company": "Sanity.io",
+    "title": "Senior GTM Engineer, Systems Engineering",
+    "location": "Remote in the United States",
+    "posted": "",
+    "url": "https://jobs.ashbyhq.com/sanity/6cb743de-5d19-43d2-837e-c60cf4dc449b",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-14T16:38:04.885370+00:00",
+    "emailed_utc": "2026-07-14T16:38:04.885370+00:00"
   }
 ]
