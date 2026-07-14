@@ -8422,5 +8422,44 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-14T08:01:39.045816+00:00",
     "emailed_utc": "2026-07-14T08:01:39.045816+00:00"
+  },
+  {
+    "job_id": "greenhouse:encora10:5185363007",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "encora10",
+    "title": "58- SAS Developer",
+    "location": "Scottsdale, AZ",
+    "posted": "2026-07-14T06:19:34-04:00",
+    "url": "https://job-boards.greenhouse.io/encora10/jobs/5185363007",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-14T11:01:22.763536+00:00",
+    "emailed_utc": "2026-07-14T11:01:22.763536+00:00"
+  },
+  {
+    "job_id": "greenhouse:encora10:5185374007",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "encora10",
+    "title": "Developer/Engineer - Core Banking",
+    "location": "Scottsdale, AZ",
+    "posted": "2026-07-14T06:20:14-04:00",
+    "url": "https://job-boards.greenhouse.io/encora10/jobs/5185374007",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-14T11:01:22.763536+00:00",
+    "emailed_utc": "2026-07-14T11:01:22.763536+00:00"
+  },
+  {
+    "job_id": "greenhouse:encora10:5185361007",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "encora10",
+    "title": "Murex Developer(Risk)",
+    "location": "Scottsdale, AZ",
+    "posted": "2026-07-14T06:18:26-04:00",
+    "url": "https://job-boards.greenhouse.io/encora10/jobs/5185361007",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-14T11:01:22.763536+00:00",
+    "emailed_utc": "2026-07-14T11:01:22.763536+00:00"
   }
 ]
