@@ -9891,5 +9891,70 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-14T21:31:27.187659+00:00",
     "emailed_utc": "2026-07-14T21:31:27.187659+00:00"
+  },
+  {
+    "job_id": "greenhouse:waymo:8051390",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "waymo",
+    "title": "Machine Learning Engineer, Sensor Pipelines",
+    "location": "Mountain View, CA, USA",
+    "posted": "2026-07-14T16:03:11-04:00",
+    "url": "https://careers.withwaymo.com/jobs?gh_jid=8051390",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-14T22:02:29.755301+00:00",
+    "emailed_utc": "2026-07-14T22:02:29.755301+00:00"
+  },
+  {
+    "job_id": "lever:intersect:ee5b6876-80d5-48da-9b41-35a5b81367fa",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "intersect",
+    "title": "Software Engineer, Microgrid Controls Developer",
+    "location": "United States",
+    "posted": "2025-12-24 15:51 UTC",
+    "url": "https://jobs.lever.co/intersect/ee5b6876-80d5-48da-9b41-35a5b81367fa",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-14T22:02:29.755301+00:00",
+    "emailed_utc": "2026-07-14T22:02:29.755301+00:00"
+  },
+  {
+    "job_id": "greenhouse:truebill:7805156003",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "truebill",
+    "title": "Senior Full Stack Engineer, Autopilot",
+    "location": "San Francisco, CA, Washington, D.C., New York City, N.Y., Remote (USA)",
+    "posted": "2026-07-14T17:06:10-04:00",
+    "url": "https://job-boards.greenhouse.io/truebill/jobs/7805156003",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-14T22:02:29.755301+00:00",
+    "emailed_utc": "2026-07-14T22:02:29.755301+00:00"
+  },
+  {
+    "job_id": "greenhouse:zscaler:5043556007",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "zscaler",
+    "title": "Principal Rust Developer",
+    "location": "San Jose, California, USA",
+    "posted": "2026-07-14T17:17:43-04:00",
+    "url": "https://job-boards.greenhouse.io/zscaler/jobs/5043556007",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-14T22:02:29.755301+00:00",
+    "emailed_utc": "2026-07-14T22:02:29.755301+00:00"
+  },
+  {
+    "job_id": "lever:intersect:d3131984-62e7-4b5a-867f-994948708578",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "intersect",
+    "title": "Power Systems Engineer, Microgrids",
+    "location": "United States",
+    "posted": "2026-01-05 23:14 UTC",
+    "url": "https://jobs.lever.co/intersect/d3131984-62e7-4b5a-867f-994948708578",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-14T22:02:29.755301+00:00",
+    "emailed_utc": "2026-07-14T22:02:29.755301+00:00"
   }
 ]
