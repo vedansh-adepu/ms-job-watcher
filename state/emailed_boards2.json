@@ -9956,5 +9956,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-14T22:02:29.755301+00:00",
     "emailed_utc": "2026-07-14T22:02:29.755301+00:00"
+  },
+  {
+    "job_id": "greenhouse:bigid:8633794002",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "bigid",
+    "title": "Professional Services Engineer ",
+    "location": "Remote- USA East Coast",
+    "posted": "2026-07-14T17:49:55-04:00",
+    "url": "https://bigid.com/company/careers/job-details/8633794002?gh_jid=8633794002",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-14T22:39:42.536433+00:00",
+    "emailed_utc": "2026-07-14T22:39:42.536433+00:00"
+  },
+  {
+    "job_id": "greenhouse:coreweave:4697100006",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "coreweave",
+    "title": "Senior Software Engineer - GPU Kernel Authoring & Optimization",
+    "location": "Sunnyvale, CA / Bellevue, WA",
+    "posted": "2026-07-14T18:01:55-04:00",
+    "url": "https://coreweave.com/careers/job?4697100006&board=coreweave&gh_jid=4697100006",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-14T22:39:42.536433+00:00",
+    "emailed_utc": "2026-07-14T22:39:42.536433+00:00"
   }
 ]
