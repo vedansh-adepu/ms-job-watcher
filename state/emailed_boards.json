@@ -14480,5 +14480,18 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-14T02:03:04.088309+00:00",
     "emailed_utc": "2026-07-14T02:03:04.088309+00:00"
+  },
+  {
+    "job_id": "workday:ngc:Northrop_Grumman_External_Site:req:R10240037",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Northrop Grumman",
+    "title": "Manager Software Engineering 2",
+    "location": "United States-Colorado-Aurora",
+    "posted": "Posted Today",
+    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/Manager-Software-Engineering-2_R10240037",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-14T02:32:25.674323+00:00",
+    "emailed_utc": "2026-07-14T02:32:25.674323+00:00"
   }
 ]
