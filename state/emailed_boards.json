@@ -16833,5 +16833,70 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-14T19:02:44.741899+00:00",
     "emailed_utc": "2026-07-14T19:02:44.741899+00:00"
+  },
+  {
+    "job_id": "greenhouse:verisign:7801518003",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "verisign",
+    "title": "Engineer II - Web Development",
+    "location": "Reston,Virginia,United States",
+    "posted": "2026-07-14T15:01:03-04:00",
+    "url": "https://job-boards.greenhouse.io/verisign/jobs/7801518003",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-14T19:32:27.101614+00:00",
+    "emailed_utc": "2026-07-14T19:32:27.101614+00:00"
+  },
+  {
+    "job_id": "smartrecruiters:Versant3:744000137719922",
+    "pipeline": "boards",
+    "platform": "smartrecruiters",
+    "company": "Versant",
+    "title": "Principal Software Engineer",
+    "location": "Englewood Cliffs, NEW JERSEY, us",
+    "posted": "2026-07-14T17:35:36.647Z",
+    "url": "https://jobs.smartrecruiters.com/Versant3",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-14T19:32:27.101614+00:00",
+    "emailed_utc": "2026-07-14T19:32:27.101614+00:00"
+  },
+  {
+    "job_id": "ashby:snowflake:5f731aa9-26a6-4760-8941-9f4aff96864d",
+    "pipeline": "boards",
+    "platform": "ashby",
+    "company": "Snowflake",
+    "title": "Senior Software Engineer - Identity, Data Security and Trust",
+    "location": "US-WA-Bellevue",
+    "posted": "",
+    "url": "https://jobs.ashbyhq.com/snowflake/5f731aa9-26a6-4760-8941-9f4aff96864d",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-14T19:32:27.101614+00:00",
+    "emailed_utc": "2026-07-14T19:32:27.101614+00:00"
+  },
+  {
+    "job_id": "ashby:snowflake:9792736b-382f-4c2d-90eb-f53134ea5d37",
+    "pipeline": "boards",
+    "platform": "ashby",
+    "company": "Snowflake",
+    "title": "Senior Software Engineer, Snowpark Container Service",
+    "location": "US-WA-Bellevue",
+    "posted": "",
+    "url": "https://jobs.ashbyhq.com/snowflake/9792736b-382f-4c2d-90eb-f53134ea5d37",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-14T19:32:27.101614+00:00",
+    "emailed_utc": "2026-07-14T19:32:27.101614+00:00"
+  },
+  {
+    "job_id": "ashby:render:eec2ab67-ea1c-4f1c-9119-51e1235f2593",
+    "pipeline": "boards",
+    "platform": "ashby",
+    "company": "Render",
+    "title": "Senior Engineering Manager, Product",
+    "location": "Remote: United States",
+    "posted": "",
+    "url": "https://jobs.ashbyhq.com/render/eec2ab67-ea1c-4f1c-9119-51e1235f2593",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-14T19:32:27.101614+00:00",
+    "emailed_utc": "2026-07-14T19:32:27.101614+00:00"
   }
 ]
