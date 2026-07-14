@@ -15364,5 +15364,83 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-14T16:38:04.885370+00:00",
     "emailed_utc": "2026-07-14T16:38:04.885370+00:00"
+  },
+  {
+    "job_id": "ashby:formenergy:c7192ece-f2fc-4eba-963a-479f9c5d3e0e",
+    "pipeline": "boards",
+    "platform": "ashby",
+    "company": "Form Energy",
+    "title": "Staff Software Engineer, Test Software",
+    "location": "Berkeley, CA",
+    "posted": "",
+    "url": "https://jobs.ashbyhq.com/formenergy/c7192ece-f2fc-4eba-963a-479f9c5d3e0e",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-14T17:01:25.902688+00:00",
+    "emailed_utc": "2026-07-14T17:01:25.902688+00:00"
+  },
+  {
+    "job_id": "greenhouse:capitalrx:5316786008",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Capitalrx",
+    "title": "AI Evaluation Engineer",
+    "location": "Charlotte, North Carolina, United States; Denver, Colorado, United States; New York, New York, United States",
+    "posted": "2026-07-14T11:27:24-04:00",
+    "url": "https://job-boards.greenhouse.io/capitalrx/jobs/5316786008",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-14T17:01:25.902688+00:00",
+    "emailed_utc": "2026-07-14T17:01:25.902688+00:00"
+  },
+  {
+    "job_id": "greenhouse:antora:6114994004",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Antora",
+    "title": "Staff Applications Engineer",
+    "location": "Remote, US",
+    "posted": "2026-07-14T12:19:00-04:00",
+    "url": "https://job-boards.greenhouse.io/antora/jobs/6114994004",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-14T17:01:25.902688+00:00",
+    "emailed_utc": "2026-07-14T17:01:25.902688+00:00"
+  },
+  {
+    "job_id": "greenhouse:oklo:6114732004",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Oklo",
+    "title": "Controls Engineer, Fuel Fabrication",
+    "location": "Idaho Falls, ID or Remote",
+    "posted": "2026-07-14T11:46:06-04:00",
+    "url": "https://job-boards.greenhouse.io/oklo/jobs/6114732004",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-14T17:01:25.902688+00:00",
+    "emailed_utc": "2026-07-14T17:01:25.902688+00:00"
+  },
+  {
+    "job_id": "greenhouse:scoutmotors:5185093007",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Scoutmotors",
+    "title": "Lead Data Scientist, Demand Forecasting",
+    "location": "Charlotte, North Carolina, United States",
+    "posted": "2026-07-14T11:31:45-04:00",
+    "url": "https://job-boards.greenhouse.io/scoutmotors/jobs/5185093007",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-14T17:01:25.902688+00:00",
+    "emailed_utc": "2026-07-14T17:01:25.902688+00:00"
+  },
+  {
+    "job_id": "greenhouse:scoutmotors:5184871007",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Scoutmotors",
+    "title": "Sr. Specialist, Vehicle Commissioning Systems Engineer",
+    "location": "Columbia, South Carolina, United States",
+    "posted": "2026-07-14T11:22:33-04:00",
+    "url": "https://job-boards.greenhouse.io/scoutmotors/jobs/5184871007",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-14T17:01:25.902688+00:00",
+    "emailed_utc": "2026-07-14T17:01:25.902688+00:00"
   }
 ]
