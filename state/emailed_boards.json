@@ -14805,5 +14805,44 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-14T14:11:43.449474+00:00",
     "emailed_utc": "2026-07-14T14:11:43.449474+00:00"
+  },
+  {
+    "job_id": "lever:pingwind:50ed87eb-c3ce-4db3-bf46-2f88b81cc780",
+    "pipeline": "boards",
+    "platform": "lever",
+    "company": "Pingwind",
+    "title": "Software Engineer",
+    "location": "Virginia Beach, VA",
+    "posted": "2026-07-14 13:02 UTC",
+    "url": "https://jobs.lever.co/pingwind/50ed87eb-c3ce-4db3-bf46-2f88b81cc780",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-14T14:31:23.060391+00:00",
+    "emailed_utc": "2026-07-14T14:31:23.060391+00:00"
+  },
+  {
+    "job_id": "greenhouse:scoutmotors:5184717007",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Scoutmotors",
+    "title": "Engineer, Function development & calibration drivability",
+    "location": "Novi, Michigan, United States",
+    "posted": "2026-07-14T08:55:06-04:00",
+    "url": "https://job-boards.greenhouse.io/scoutmotors/jobs/5184717007",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-14T14:31:23.060391+00:00",
+    "emailed_utc": "2026-07-14T14:31:23.060391+00:00"
+  },
+  {
+    "job_id": "greenhouse:scoutmotors:5185798007",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Scoutmotors",
+    "title": "Specialist, Industrial Engineer & Production System",
+    "location": "Columbia, South Carolina, United States",
+    "posted": "2026-07-14T09:21:20-04:00",
+    "url": "https://job-boards.greenhouse.io/scoutmotors/jobs/5185798007",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-14T14:31:23.060391+00:00",
+    "emailed_utc": "2026-07-14T14:31:23.060391+00:00"
   }
 ]
