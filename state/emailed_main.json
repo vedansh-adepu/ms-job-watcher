@@ -1350,5 +1350,18 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-14T00:11:05.628907+00:00",
     "emailed_utc": "2026-07-14T00:11:05.628907+00:00"
+  },
+  {
+    "job_id": "amazon:383bd0b3-ba1a-4a09-b7b3-0217e7a51142",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, Sponsored Products and Brands",
+    "location": "US, NY, New York",
+    "posted": "July 14, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10473309/software-development-engineer-sponsored-products-and-brands",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-14T00:51:12.965375+00:00",
+    "emailed_utc": "2026-07-14T00:51:12.965375+00:00"
   }
 ]
