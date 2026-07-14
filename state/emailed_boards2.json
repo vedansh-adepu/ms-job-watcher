@@ -8136,5 +8136,83 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-14T00:01:49.137649+00:00",
     "emailed_utc": "2026-07-14T00:01:49.137649+00:00"
+  },
+  {
+    "job_id": "greenhouse:janestreet:8631973002",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "janestreet",
+    "title": "Data Engineer",
+    "location": "New York, New York, United States",
+    "posted": "2026-07-13T20:19:37-04:00",
+    "url": "https://job-boards.greenhouse.io/janestreet/jobs/8631973002",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-14T00:31:22.002557+00:00",
+    "emailed_utc": "2026-07-14T00:31:22.002557+00:00"
+  },
+  {
+    "job_id": "greenhouse:inversionspace:4714749005",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "inversionspace",
+    "title": "RF Design Engineer I",
+    "location": "Playa Vista, California, United States",
+    "posted": "2026-07-13T18:39:53-04:00",
+    "url": "https://job-boards.greenhouse.io/inversionspace/jobs/4714749005",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-14T00:31:22.002557+00:00",
+    "emailed_utc": "2026-07-14T00:31:22.002557+00:00"
+  },
+  {
+    "job_id": "greenhouse:inversionspace:4714762005",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "inversionspace",
+    "title": "Senior Antenna Engineer",
+    "location": "Playa Vista, California, United States",
+    "posted": "2026-07-13T18:54:57-04:00",
+    "url": "https://job-boards.greenhouse.io/inversionspace/jobs/4714762005",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-14T00:31:22.002557+00:00",
+    "emailed_utc": "2026-07-14T00:31:22.002557+00:00"
+  },
+  {
+    "job_id": "greenhouse:nintendo:4315217009",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "nintendo",
+    "title": "CONTRACT - Sr Engineer, Cloud + SDET (NTD)",
+    "location": "Redmond, WA",
+    "posted": "2026-07-13T19:40:45-04:00",
+    "url": "https://careers.nintendo.com/?gh_jid=4315217009",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-14T00:31:22.002557+00:00",
+    "emailed_utc": "2026-07-14T00:31:22.002557+00:00"
+  },
+  {
+    "job_id": "greenhouse:nintendo:4315199009",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "nintendo",
+    "title": "Engineer (NTD)",
+    "location": "Redmond, WA",
+    "posted": "2026-07-13T19:49:27-04:00",
+    "url": "https://careers.nintendo.com/?gh_jid=4315199009",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-14T00:31:22.002557+00:00",
+    "emailed_utc": "2026-07-14T00:31:22.002557+00:00"
+  },
+  {
+    "job_id": "greenhouse:nymbusinc:6115163004",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "nymbusinc",
+    "title": "Release Engineer",
+    "location": "Remote - United States",
+    "posted": "2026-07-13T20:30:33-04:00",
+    "url": "https://nymbus.com/careers?gh_jid=6115163004",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-14T00:31:22.002557+00:00",
+    "emailed_utc": "2026-07-14T00:31:22.002557+00:00"
   }
 ]
