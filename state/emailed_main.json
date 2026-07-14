@@ -1584,5 +1584,18 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-14T19:31:18.181509+00:00",
     "emailed_utc": "2026-07-14T19:31:18.181509+00:00"
+  },
+  {
+    "job_id": "amazon:f24d5dcc-012d-45c4-b41e-bbff0fe9652b",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Director of Software Development",
+    "location": "US, WA, Seattle",
+    "posted": "July 14, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10474459/director-of-software-development",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-14T19:51:21.836846+00:00",
+    "emailed_utc": "2026-07-14T19:51:21.836846+00:00"
   }
 ]
