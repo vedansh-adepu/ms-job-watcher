@@ -1493,5 +1493,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-14T17:01:30.044418+00:00",
     "emailed_utc": "2026-07-14T17:01:30.044418+00:00"
+  },
+  {
+    "job_id": "microsoft:1970393556937162",
+    "pipeline": "main",
+    "platform": "microsoft",
+    "company": "Microsoft",
+    "title": "Principal Security Engineer",
+    "location": "Santa Clara, CA, US",
+    "posted": "2026-07-14 17:02 UTC",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556937162",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-14T17:11:16.495652+00:00",
+    "emailed_utc": "2026-07-14T17:11:16.495652+00:00"
+  },
+  {
+    "job_id": "amazon:fdb64c51-0f88-4ac7-bd03-f794c61980d3",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Sr. Software Development Engineer, Partner Experience, Prime Video",
+    "location": "US, WA, Seattle",
+    "posted": "July 14, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10473938/sr-software-development-engineer-partner-experience-prime-video",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-14T17:11:16.495652+00:00",
+    "emailed_utc": "2026-07-14T17:11:16.495652+00:00"
   }
 ]
