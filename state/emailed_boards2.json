@@ -8253,5 +8253,44 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-14T02:01:28.346425+00:00",
     "emailed_utc": "2026-07-14T02:01:28.346425+00:00"
+  },
+  {
+    "job_id": "greenhouse:stratolaunch:5345941008",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "stratolaunch",
+    "title": "Data Engineer",
+    "location": "Mojave, CA",
+    "posted": "2026-07-13T21:54:40-04:00",
+    "url": "https://job-boards.greenhouse.io/stratolaunch/jobs/5345941008",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-14T02:31:16.062845+00:00",
+    "emailed_utc": "2026-07-14T02:31:16.062845+00:00"
+  },
+  {
+    "job_id": "greenhouse:simplepractice55:6115165004",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "simplepractice55",
+    "title": "Senior Engineer I (CA- 4872)",
+    "location": "United States",
+    "posted": "2026-07-13T20:41:02-04:00",
+    "url": "https://www.simplepractice.com/careers/roles/6115165004?gh_jid=6115165004",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-14T02:31:16.062845+00:00",
+    "emailed_utc": "2026-07-14T02:31:16.062845+00:00"
+  },
+  {
+    "job_id": "greenhouse:simplepractice55:6115182004",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "simplepractice55",
+    "title": "Senior Engineer I (CA- 4873)",
+    "location": "United States",
+    "posted": "2026-07-13T20:48:06-04:00",
+    "url": "https://www.simplepractice.com/careers/roles/6115182004?gh_jid=6115182004",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-14T02:31:16.062845+00:00",
+    "emailed_utc": "2026-07-14T02:31:16.062845+00:00"
   }
 ]
