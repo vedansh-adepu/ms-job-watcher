@@ -1688,5 +1688,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-14T22:51:16.235649+00:00",
     "emailed_utc": "2026-07-14T22:51:16.235649+00:00"
+  },
+  {
+    "job_id": "amazon:47c964d3-c449-4172-b5cf-4acb2fa5efbd",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, Benchmarks",
+    "location": "US, NY, New York",
+    "posted": "July 14, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10474656/software-development-engineer-benchmarks",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-14T23:21:19.241704+00:00",
+    "emailed_utc": "2026-07-14T23:21:19.241704+00:00"
+  },
+  {
+    "job_id": "amazon:f96fc746-507a-4378-a103-a6a15a99885f",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, AWS Bill Generation Fulfillment Tracking",
+    "location": "US, NY, New York",
+    "posted": "July 14, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10474654/software-development-engineer-aws-bill-generation-fulfillment-tracking",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-14T23:21:19.241704+00:00",
+    "emailed_utc": "2026-07-14T23:21:19.241704+00:00"
   }
 ]
