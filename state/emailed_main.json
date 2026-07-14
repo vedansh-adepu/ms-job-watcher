@@ -1480,5 +1480,18 @@
     "bucket": "yes",
     "first_seen_utc": "2026-07-14T16:41:13.815294+00:00",
     "emailed_utc": "2026-07-14T16:41:13.815294+00:00"
+  },
+  {
+    "job_id": "amazon:f6944457-d7fd-4a75-a1dc-63514fe37df9",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Dev Engineer, EC2 ML Provisioning",
+    "location": "US, WA, Seattle",
+    "posted": "July 14, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10473921/software-dev-engineer-ec2-ml-provisioning",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-14T17:01:30.044418+00:00",
+    "emailed_utc": "2026-07-14T17:01:30.044418+00:00"
   }
 ]
