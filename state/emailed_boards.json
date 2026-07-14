@@ -14493,5 +14493,31 @@
     "bucket": "yes",
     "first_seen_utc": "2026-07-14T02:32:25.674323+00:00",
     "emailed_utc": "2026-07-14T02:32:25.674323+00:00"
+  },
+  {
+    "job_id": "workday:target:targetcareers:req:R0000445031",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Target",
+    "title": "Principal Engineer - Operational Technology",
+    "location": "7000 Target Pkwy N,NCD-0375 Brooklyn Park,MN 55445",
+    "posted": "Posted Today",
+    "url": "https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/7000-Target-Pkwy-NNCD-0375-Brooklyn-ParkMN-55445/Principal-Engineer---Operational-Technology_R0000445031",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-14T03:02:43.452218+00:00",
+    "emailed_utc": "2026-07-14T03:02:43.452218+00:00"
+  },
+  {
+    "job_id": "workday:target:targetcareers:req:R0000445032",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Target",
+    "title": "Lead Engineer - Operational Technology",
+    "location": "7000 Target Pkwy N,NCD-0375 Brooklyn Park,MN 55445",
+    "posted": "Posted Today",
+    "url": "https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/7000-Target-Pkwy-NNCD-0375-Brooklyn-ParkMN-55445/Lead-Engineer---Operational-Technology_R0000445032",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-14T03:02:43.452218+00:00",
+    "emailed_utc": "2026-07-14T03:02:43.452218+00:00"
   }
 ]
