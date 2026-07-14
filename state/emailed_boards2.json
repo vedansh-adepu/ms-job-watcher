@@ -8214,5 +8214,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-14T00:31:22.002557+00:00",
     "emailed_utc": "2026-07-14T00:31:22.002557+00:00"
+  },
+  {
+    "job_id": "lever:jam-loop:dece841c-39f3-4fb7-ac9d-85113cb7100a",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "jam-loop",
+    "title": "SDET",
+    "location": "United States",
+    "posted": "2026-07-13 23:09 UTC",
+    "url": "https://jobs.lever.co/jam-loop/dece841c-39f3-4fb7-ac9d-85113cb7100a",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-14T01:01:59.345209+00:00",
+    "emailed_utc": "2026-07-14T01:01:59.345209+00:00"
+  },
+  {
+    "job_id": "greenhouse:unlockhealth:5158642007",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "unlockhealth",
+    "title": "Head of Web Engineering",
+    "location": "Chicago, Illinois, United States; New York, NY, USA; Remote",
+    "posted": "2026-07-13T19:03:45-04:00",
+    "url": "https://job-boards.greenhouse.io/unlockhealth/jobs/5158642007",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-14T01:01:59.345209+00:00",
+    "emailed_utc": "2026-07-14T01:01:59.345209+00:00"
   }
 ]
