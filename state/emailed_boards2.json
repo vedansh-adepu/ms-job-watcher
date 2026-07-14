@@ -8357,5 +8357,18 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-14T03:48:23.395460+00:00",
     "emailed_utc": "2026-07-14T03:48:23.395460+00:00"
+  },
+  {
+    "job_id": "greenhouse:xealth:7803297003",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "xealth",
+    "title": "Software Engineer, Data Platform",
+    "location": "Seattle, WA",
+    "posted": "2026-07-13T23:07:42-04:00",
+    "url": "https://job-boards.greenhouse.io/xealth/jobs/7803297003",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-14T04:31:48.965180+00:00",
+    "emailed_utc": "2026-07-14T04:31:48.965180+00:00"
   }
 ]
