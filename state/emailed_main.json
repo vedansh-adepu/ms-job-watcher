@@ -1467,5 +1467,18 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-14T15:21:24.466838+00:00",
     "emailed_utc": "2026-07-14T15:21:24.466838+00:00"
+  },
+  {
+    "job_id": "amazon:513ff74e-f192-4052-b9ca-1d4937a75b68",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "SDE, MLA hardware/software co-design, Annapurna Labs Machine Learning Acceleration",
+    "location": "US, CA, Cupertino",
+    "posted": "July 14, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10473895/sde-mla-hardware-software-co-design-annapurna-labs-machine-learning-acceleration",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-14T16:41:13.815294+00:00",
+    "emailed_utc": "2026-07-14T16:41:13.815294+00:00"
   }
 ]
