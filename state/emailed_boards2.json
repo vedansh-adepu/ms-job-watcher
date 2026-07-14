@@ -9163,5 +9163,83 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-14T18:02:00.508201+00:00",
     "emailed_utc": "2026-07-14T18:02:00.508201+00:00"
+  },
+  {
+    "job_id": "greenhouse:toshibaglobalcommercesolutions:5180264007",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "toshibaglobalcommercesolutions",
+    "title": "Manager, Software Engineering",
+    "location": "Durham, NC",
+    "posted": "2026-07-14T14:10:23-04:00",
+    "url": "https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5180264007",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-14T18:31:55.910645+00:00",
+    "emailed_utc": "2026-07-14T18:31:55.910645+00:00"
+  },
+  {
+    "job_id": "greenhouse:twinhealth:6115577004",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "twinhealth",
+    "title": "Senior Platform Engineer, Productivity & Cloud",
+    "location": "Remote, USA",
+    "posted": "2026-07-14T14:10:45-04:00",
+    "url": "https://job-boards.greenhouse.io/twinhealth/jobs/6115577004",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-14T18:31:55.910645+00:00",
+    "emailed_utc": "2026-07-14T18:31:55.910645+00:00"
+  },
+  {
+    "job_id": "greenhouse:woolpert:4094277009",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "woolpert",
+    "title": "Senior Civil Designer / Field Engineer",
+    "location": "Columbus, OH",
+    "posted": "2026-07-14T13:41:57-04:00",
+    "url": "https://job-boards.greenhouse.io/woolpert/jobs/4094277009",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-14T18:31:55.910645+00:00",
+    "emailed_utc": "2026-07-14T18:31:55.910645+00:00"
+  },
+  {
+    "job_id": "greenhouse:yext:8001039",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "yext",
+    "title": "Senior Solutions Engineer ",
+    "location": "New York, NY",
+    "posted": "2026-07-14T13:36:02-04:00",
+    "url": "https://job-boards.greenhouse.io/yext/jobs/8001039",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-14T18:31:55.910645+00:00",
+    "emailed_utc": "2026-07-14T18:31:55.910645+00:00"
+  },
+  {
+    "job_id": "greenhouse:zone5technologies:5326603008",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "zone5technologies",
+    "title": "Principal Propulsion Engineer",
+    "location": "United States",
+    "posted": "2026-07-14T14:19:34-04:00",
+    "url": "https://job-boards.greenhouse.io/zone5technologies/jobs/5326603008",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-14T18:31:55.910645+00:00",
+    "emailed_utc": "2026-07-14T18:31:55.910645+00:00"
+  },
+  {
+    "job_id": "lever:thinkahead:fd10575a-792d-4074-a131-c380d963cfac",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "thinkahead",
+    "title": "Forward Deployed Engineer - AI SOC",
+    "location": "United States",
+    "posted": "2026-07-14 17:20 UTC",
+    "url": "https://jobs.lever.co/thinkahead/fd10575a-792d-4074-a131-c380d963cfac",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-14T18:31:55.910645+00:00",
+    "emailed_utc": "2026-07-14T18:31:55.910645+00:00"
   }
 ]
