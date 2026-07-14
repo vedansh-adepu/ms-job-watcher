@@ -9241,5 +9241,83 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-14T18:31:55.910645+00:00",
     "emailed_utc": "2026-07-14T18:31:55.910645+00:00"
+  },
+  {
+    "job_id": "greenhouse:cargurus:8060343",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "cargurus",
+    "title": "Manager, Data Platform Engineering",
+    "location": "Boston, Massachusetts, United States",
+    "posted": "2026-07-14T14:48:39-04:00",
+    "url": "https://careers.cargurus.com/us/en/job/8060343?gh_jid=8060343",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-14T19:31:42.856919+00:00",
+    "emailed_utc": "2026-07-14T19:31:42.856919+00:00"
+  },
+  {
+    "job_id": "greenhouse:ensco:5349198008",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "ensco",
+    "title": "Embedded Software Engineer",
+    "location": "Endicott, New York, United States",
+    "posted": "2026-07-14T14:33:23-04:00",
+    "url": "https://job-boards.greenhouse.io/ensco/jobs/5349198008",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-14T19:31:42.856919+00:00",
+    "emailed_utc": "2026-07-14T19:31:42.856919+00:00"
+  },
+  {
+    "job_id": "greenhouse:esri:5186832007",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "esri",
+    "title": "Software Development Engineer I \u2013 Agentic AI, ArcGIS Enterprise",
+    "location": "Redlands, CA",
+    "posted": "2026-07-14T14:21:12-04:00",
+    "url": "https://www.esri.com/careers/5186832007?gh_jid=5186832007",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-14T19:31:42.856919+00:00",
+    "emailed_utc": "2026-07-14T19:31:42.856919+00:00"
+  },
+  {
+    "job_id": "greenhouse:esri:5185716007",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "esri",
+    "title": "Software Development Engineer I - ArcGIS Enterprise",
+    "location": "Redlands, CA",
+    "posted": "2026-07-14T15:00:43-04:00",
+    "url": "https://www.esri.com/careers/5185716007?gh_jid=5185716007",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-14T19:31:42.856919+00:00",
+    "emailed_utc": "2026-07-14T19:31:42.856919+00:00"
+  },
+  {
+    "job_id": "greenhouse:anodize:5350386008",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "anodize",
+    "title": "Lead SoC Verification Engineer",
+    "location": "Los Altos, CA",
+    "posted": "2026-07-14T14:39:08-04:00",
+    "url": "https://job-boards.greenhouse.io/anodize/jobs/5350386008",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-14T19:31:42.856919+00:00",
+    "emailed_utc": "2026-07-14T19:31:42.856919+00:00"
+  },
+  {
+    "job_id": "greenhouse:echodynecorp:4686201006",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "echodynecorp",
+    "title": "Senior Software Engineer - IoT Platform",
+    "location": "Kirkland, WA",
+    "posted": "2026-07-14T15:16:42-04:00",
+    "url": "https://job-boards.greenhouse.io/echodynecorp/jobs/4686201006",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-14T19:31:42.856919+00:00",
+    "emailed_utc": "2026-07-14T19:31:42.856919+00:00"
   }
 ]
