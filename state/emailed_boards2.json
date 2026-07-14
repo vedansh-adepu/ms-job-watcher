@@ -8643,5 +8643,70 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-14T14:01:23.924143+00:00",
     "emailed_utc": "2026-07-14T14:01:23.924143+00:00"
+  },
+  {
+    "job_id": "greenhouse:clarityinnovates:5186362007",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "clarityinnovates",
+    "title": "Data Engineer ",
+    "location": "MacDill AFB, FL",
+    "posted": "2026-07-14T10:08:17-04:00",
+    "url": "https://job-boards.greenhouse.io/clarityinnovates/jobs/5186362007",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-14T14:29:01.565945+00:00",
+    "emailed_utc": "2026-07-14T14:29:01.565945+00:00"
+  },
+  {
+    "job_id": "greenhouse:atwellgroup:5186400007",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "atwellgroup",
+    "title": "Civil Engineer, EIT - Land Development",
+    "location": "Reno, Nevada, United States",
+    "posted": "2026-07-14T10:10:07-04:00",
+    "url": "https://job-boards.greenhouse.io/atwellgroup/jobs/5186400007",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-14T14:29:01.565945+00:00",
+    "emailed_utc": "2026-07-14T14:29:01.565945+00:00"
+  },
+  {
+    "job_id": "greenhouse:formativgroup:4315266009",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "formativgroup",
+    "title": "Senior Java Full Stack Developer ",
+    "location": "Remote/Westlake, TX, Raleigh, NC, Jersey City, NJ - Full Time",
+    "posted": "2026-07-14T10:03:06-04:00",
+    "url": "https://job-boards.greenhouse.io/formativgroup/jobs/4315266009",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-14T14:29:01.565945+00:00",
+    "emailed_utc": "2026-07-14T14:29:01.565945+00:00"
+  },
+  {
+    "job_id": "greenhouse:gatherai:5185947007",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "gatherai",
+    "title": "Staff Full Stack Engineer",
+    "location": "Pittsburgh, PA",
+    "posted": "2026-07-14T09:46:09-04:00",
+    "url": "https://job-boards.greenhouse.io/gatherai/jobs/5185947007",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-14T14:29:01.565945+00:00",
+    "emailed_utc": "2026-07-14T14:29:01.565945+00:00"
+  },
+  {
+    "job_id": "greenhouse:googlefiber:6104795004",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "googlefiber",
+    "title": "Senior Platform Engineer",
+    "location": "Austin, Texas; Sunnyvale, California, United States",
+    "posted": "2026-07-14T09:00:01-04:00",
+    "url": "https://fiber.google.com/careers/job/?gh_jid=6104795004",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-14T14:29:01.565945+00:00",
+    "emailed_utc": "2026-07-14T14:29:01.565945+00:00"
   }
 ]
