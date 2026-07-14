@@ -1532,5 +1532,18 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-14T18:01:25.965467+00:00",
     "emailed_utc": "2026-07-14T18:01:25.965467+00:00"
+  },
+  {
+    "job_id": "amazon:17d5d5b8-6550-4d2b-b9be-5a287230e76a",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Dev Engineer, Applied AI",
+    "location": "US, WA, Bellevue",
+    "posted": "July 14, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10474149/software-dev-engineer-applied-ai",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-14T18:11:15.788771+00:00",
+    "emailed_utc": "2026-07-14T18:11:15.788771+00:00"
   }
 ]
