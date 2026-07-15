@@ -1948,5 +1948,18 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-15T15:11:24.429197+00:00",
     "emailed_utc": "2026-07-15T15:11:24.429197+00:00"
+  },
+  {
+    "job_id": "amazon:7db88549-e6cd-4bbf-a799-f3bd475774f1",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, Relationships Identity Systems",
+    "location": "US, NY, New York",
+    "posted": "June 26, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10460426/software-development-engineer-relationships-identity-systems",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-15T15:31:58.056770+00:00",
+    "emailed_utc": "2026-07-15T15:31:58.056770+00:00"
   }
 ]
