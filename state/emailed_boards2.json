@@ -10320,5 +10320,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-15T02:31:17.810086+00:00",
     "emailed_utc": "2026-07-15T02:31:17.810086+00:00"
+  },
+  {
+    "job_id": "greenhouse:nice:4928015101",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "nice",
+    "title": "Lead Software Engineer ",
+    "location": "Seattle, Washington, United States; USA - Atlanta, GA; USA - San Francisco, CA; USA - Sandy, UT",
+    "posted": "2026-07-15T00:22:33-04:00",
+    "url": "https://boards.eu.greenhouse.io/nice/jobs/4928015101?gh_jid=4928015101",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-15T04:31:24.119075+00:00",
+    "emailed_utc": "2026-07-15T04:31:24.119075+00:00"
+  },
+  {
+    "job_id": "greenhouse:sentinellabs:7551201003",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "sentinellabs",
+    "title": "Principal AI Engineering Architect",
+    "location": "United States - Remote",
+    "posted": "2026-07-15T00:07:22-04:00",
+    "url": "https://www.sentinelone.com/jobs/7551201003?gh_jid=7551201003",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-15T04:31:24.119075+00:00",
+    "emailed_utc": "2026-07-15T04:31:24.119075+00:00"
   }
 ]
