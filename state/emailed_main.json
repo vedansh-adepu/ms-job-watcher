@@ -1987,5 +1987,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-15T16:41:13.505540+00:00",
     "emailed_utc": "2026-07-15T16:41:13.505540+00:00"
+  },
+  {
+    "job_id": "amazon:30194fc4-6e0c-4aa3-97c9-b4ca725da6d0",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, CloudTrail ",
+    "location": "US, VA, Arlington",
+    "posted": "July 15, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10475400/software-development-engineer-cloudtrail",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-15T16:51:14.323331+00:00",
+    "emailed_utc": "2026-07-15T16:51:14.323331+00:00"
+  },
+  {
+    "job_id": "amazon:f80d4ce8-41c8-46da-ba37-b271108f4db5",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, CloudTrail ",
+    "location": "US, VA, Arlington",
+    "posted": "July 15, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10475401/software-development-engineer-cloudtrail",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-15T16:51:14.323331+00:00",
+    "emailed_utc": "2026-07-15T16:51:14.323331+00:00"
   }
 ]
