@@ -23229,5 +23229,83 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-15T22:02:48.598541+00:00",
     "emailed_utc": "2026-07-15T22:02:48.598541+00:00"
+  },
+  {
+    "job_id": "greenhouse:verkada:5188171007",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "verkada",
+    "title": "Senior Frontend Engineer - Access Control",
+    "location": "San Mateo, CA United States",
+    "posted": "2026-07-15T17:30:18-04:00",
+    "url": "https://job-boards.greenhouse.io/verkada/jobs/5188171007",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-15T22:12:35.661515+00:00",
+    "emailed_utc": "2026-07-15T22:12:35.661515+00:00"
+  },
+  {
+    "job_id": "greenhouse:xometry:5187662007",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "xometry",
+    "title": "Staff Cloud Security Engineer ",
+    "location": "Lexington, KY",
+    "posted": "2026-07-15T17:08:08-04:00",
+    "url": "https://job-boards.greenhouse.io/xometry/jobs/5187662007",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-15T22:12:35.661515+00:00",
+    "emailed_utc": "2026-07-15T22:12:35.661515+00:00"
+  },
+  {
+    "job_id": "greenhouse:xometry:5187664007",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "xometry",
+    "title": "Staff Cloud Security Engineer ",
+    "location": "Waltham, MA",
+    "posted": "2026-07-15T17:08:10-04:00",
+    "url": "https://job-boards.greenhouse.io/xometry/jobs/5187664007",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-15T22:12:35.661515+00:00",
+    "emailed_utc": "2026-07-15T22:12:35.661515+00:00"
+  },
+  {
+    "job_id": "greenhouse:xometry:5187661007",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "xometry",
+    "title": "Staff Cloud Security Engineer ",
+    "location": "North Bethesda, MD ",
+    "posted": "2026-07-15T17:08:07-04:00",
+    "url": "https://job-boards.greenhouse.io/xometry/jobs/5187661007",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-15T22:12:35.661515+00:00",
+    "emailed_utc": "2026-07-15T22:12:35.661515+00:00"
+  },
+  {
+    "job_id": "lever:zoox:87653bd9-b1ff-43de-9ba7-b9b2bc1cc878",
+    "pipeline": "boards",
+    "platform": "lever",
+    "company": "zoox",
+    "title": "Senior Systems Engineer, Fail Operational Safety Strategy",
+    "location": "Foster City, CA",
+    "posted": "2026-07-15 20:07 UTC",
+    "url": "https://jobs.lever.co/zoox/87653bd9-b1ff-43de-9ba7-b9b2bc1cc878",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-15T22:12:35.661515+00:00",
+    "emailed_utc": "2026-07-15T22:12:35.661515+00:00"
+  },
+  {
+    "job_id": "ashby:coder:b2779e7d-e280-420c-9fc1-eeb27900134a",
+    "pipeline": "boards",
+    "platform": "ashby",
+    "company": "Coder",
+    "title": "Staff Software Engineer (AI Governance)",
+    "location": "United States",
+    "posted": "",
+    "url": "https://jobs.ashbyhq.com/coder/b2779e7d-e280-420c-9fc1-eeb27900134a",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-15T22:12:35.661515+00:00",
+    "emailed_utc": "2026-07-15T22:12:35.661515+00:00"
   }
 ]
