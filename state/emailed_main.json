@@ -2065,5 +2065,18 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-15T17:31:20.720129+00:00",
     "emailed_utc": "2026-07-15T17:31:20.720129+00:00"
+  },
+  {
+    "job_id": "nvidia:893396364804",
+    "pipeline": "main",
+    "platform": "nvidia",
+    "company": "NVIDIA",
+    "title": "Software Engineer - Drive OS",
+    "location": "Santa Clara, CA, US",
+    "posted": "2026-07-15 00:00 UTC",
+    "url": "https://nvidia.eightfold.ai/careers/job/893396364804",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-15T17:41:18.575876+00:00",
+    "emailed_utc": "2026-07-15T17:41:18.575876+00:00"
   }
 ]
