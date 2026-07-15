@@ -11698,5 +11698,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-15T20:31:30.998937+00:00",
     "emailed_utc": "2026-07-15T20:31:30.998937+00:00"
+  },
+  {
+    "job_id": "lever:ans:3eff8a1c-1371-4aff-814a-1c2dcb04900d",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "ans",
+    "title": "Senior Structural Engineer",
+    "location": "Gilbert, AZ",
+    "posted": "2026-07-15 19:51 UTC",
+    "url": "https://jobs.lever.co/ans/3eff8a1c-1371-4aff-814a-1c2dcb04900d",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-15T21:02:17.796183+00:00",
+    "emailed_utc": "2026-07-15T21:02:17.796183+00:00"
+  },
+  {
+    "job_id": "lever:deltasands:b0bf5383-bafe-4f78-8f8d-84e994301f2f",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "deltasands",
+    "title": "Senior Engineer/Analyst I",
+    "location": "Huntsville, AL",
+    "posted": "2026-07-15 19:47 UTC",
+    "url": "https://jobs.lever.co/deltasands/b0bf5383-bafe-4f78-8f8d-84e994301f2f",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-15T21:02:17.796183+00:00",
+    "emailed_utc": "2026-07-15T21:02:17.796183+00:00"
   }
 ]
