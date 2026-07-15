@@ -2091,5 +2091,44 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-15T18:11:07.049206+00:00",
     "emailed_utc": "2026-07-15T18:11:07.049206+00:00"
+  },
+  {
+    "job_id": "amazon:73c57ec7-cb9f-4fa7-aeed-90a8ae95252a",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Applied Scientist, Applied AI Solutions",
+    "location": "US, WA, Seattle",
+    "posted": "July 15, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10475578/applied-scientist-applied-ai-solutions",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-15T18:21:12.640510+00:00",
+    "emailed_utc": "2026-07-15T18:21:12.640510+00:00"
+  },
+  {
+    "job_id": "microsoft:1970393556914174",
+    "pipeline": "main",
+    "platform": "microsoft",
+    "company": "Microsoft",
+    "title": "Critical Environment Electrical Engineer",
+    "location": "Chicago, IL, US",
+    "posted": "2026-07-15 18:00 UTC",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556914174",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-15T18:21:12.640510+00:00",
+    "emailed_utc": "2026-07-15T18:21:12.640510+00:00"
+  },
+  {
+    "job_id": "microsoft:1970393556927669",
+    "pipeline": "main",
+    "platform": "microsoft",
+    "company": "Microsoft",
+    "title": "Cloud Network Engineering IC3",
+    "location": "Redmond, WA, US",
+    "posted": "2026-07-15 17:29 UTC",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556927669",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-15T18:21:12.640510+00:00",
+    "emailed_utc": "2026-07-15T18:21:12.640510+00:00"
   }
 ]
