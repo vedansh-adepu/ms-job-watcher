@@ -19732,5 +19732,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-15T07:32:58.645643+00:00",
     "emailed_utc": "2026-07-15T07:32:58.645643+00:00"
+  },
+  {
+    "job_id": "greenhouse:andurilindustries:5187359007",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "andurilindustries",
+    "title": "Director, Product Sourcing Engineering",
+    "location": "Costa Mesa, California, United States",
+    "posted": "2026-07-15T05:14:33-04:00",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5187359007?gh_jid=5187359007",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-15T10:03:07.701388+00:00",
+    "emailed_utc": "2026-07-15T10:03:07.701388+00:00"
+  },
+  {
+    "job_id": "workday:blueorigin:BlueOrigin:req:R68668",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Blue Origin",
+    "title": "Manager - Manufacturing Engineering & Technology",
+    "location": "Space Coast, FL",
+    "posted": "Posted Today",
+    "url": "https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Space-Coast-FL/Manager---Manufacturing-Engineering---Technology_R68668",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-15T10:03:07.701388+00:00",
+    "emailed_utc": "2026-07-15T10:03:07.701388+00:00"
   }
 ]
