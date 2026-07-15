@@ -19004,5 +19004,44 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-15T00:02:43.750197+00:00",
     "emailed_utc": "2026-07-15T00:02:43.750197+00:00"
+  },
+  {
+    "job_id": "greenhouse:upstart:7807662",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "UpStart",
+    "title": "Senior Software Engineer, Mobile",
+    "location": "United States | Remote",
+    "posted": "2026-07-14T19:02:30-04:00",
+    "url": "https://careers.upstart.com/jobs?gh_jid=7807662",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-15T00:32:10.609497+00:00",
+    "emailed_utc": "2026-07-15T00:32:10.609497+00:00"
+  },
+  {
+    "job_id": "smartrecruiters:Versant3:744000137764609",
+    "pipeline": "boards",
+    "platform": "smartrecruiters",
+    "company": "Versant",
+    "title": "Staff ML Engineer, StockStory",
+    "location": "Englewood Cliffs, NEW JERSEY, us",
+    "posted": "2026-07-14T23:07:50.828Z",
+    "url": "https://jobs.smartrecruiters.com/Versant3",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-15T00:32:10.609497+00:00",
+    "emailed_utc": "2026-07-15T00:32:10.609497+00:00"
+  },
+  {
+    "job_id": "lever:zoox:8321d00e-9e2b-4947-a37e-fdbad7dcd637",
+    "pipeline": "boards",
+    "platform": "lever",
+    "company": "zoox",
+    "title": "Network Security Engineer",
+    "location": "Foster City, CA",
+    "posted": "2026-07-14 23:05 UTC",
+    "url": "https://jobs.lever.co/zoox/8321d00e-9e2b-4947-a37e-fdbad7dcd637",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-15T00:32:10.609497+00:00",
+    "emailed_utc": "2026-07-15T00:32:10.609497+00:00"
   }
 ]
