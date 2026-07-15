@@ -11542,5 +11542,83 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-15T19:32:06.117784+00:00",
     "emailed_utc": "2026-07-15T19:32:06.117784+00:00"
+  },
+  {
+    "job_id": "greenhouse:grvty:4121643009",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "grvty",
+    "title": "Data Scientist 3 ",
+    "location": "Colorado Springs, CO",
+    "posted": "2026-07-15T15:19:06-04:00",
+    "url": "https://job-boards.greenhouse.io/grvty/jobs/4121643009",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-15T20:01:34.951896+00:00",
+    "emailed_utc": "2026-07-15T20:01:34.951896+00:00"
+  },
+  {
+    "job_id": "greenhouse:altentechnologyusa:5187931007",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "altentechnologyusa",
+    "title": "Engineering Research & Development Financial Analyst",
+    "location": "Auburn Hills, Michigan, United States",
+    "posted": "2026-07-15T15:09:08-04:00",
+    "url": "https://job-boards.greenhouse.io/altentechnologyusa/jobs/5187931007",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-15T20:01:34.951896+00:00",
+    "emailed_utc": "2026-07-15T20:01:34.951896+00:00"
+  },
+  {
+    "job_id": "greenhouse:attainpartners:5356423008",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "attainpartners",
+    "title": "Higher Education Analytics Senior Consultant ",
+    "location": "United States - Remote",
+    "posted": "2026-07-15T15:23:23-04:00",
+    "url": "https://job-boards.greenhouse.io/attainpartners/jobs/5356423008",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-15T20:01:34.951896+00:00",
+    "emailed_utc": "2026-07-15T20:01:34.951896+00:00"
+  },
+  {
+    "job_id": "greenhouse:awetomaton:5204874008",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "awetomaton",
+    "title": "Senior Research Engineer",
+    "location": "Beavercreek, OH",
+    "posted": "2026-07-15T15:44:56-04:00",
+    "url": "https://job-boards.greenhouse.io/awetomaton/jobs/5204874008",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-15T20:01:34.951896+00:00",
+    "emailed_utc": "2026-07-15T20:01:34.951896+00:00"
+  },
+  {
+    "job_id": "greenhouse:boulevard:4695784006",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "boulevard",
+    "title": "Staff Machine Learning Engineer",
+    "location": "Remote - USA",
+    "posted": "2026-07-15T15:50:25-04:00",
+    "url": "https://job-boards.greenhouse.io/boulevard/jobs/4695784006",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-15T20:01:34.951896+00:00",
+    "emailed_utc": "2026-07-15T20:01:34.951896+00:00"
+  },
+  {
+    "job_id": "greenhouse:bugcrowd:7843516",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "bugcrowd",
+    "title": "Reinforcement Learning Engineer (Cybersecurity)",
+    "location": "Remote - US",
+    "posted": "2026-07-15T15:08:27-04:00",
+    "url": "https://boards.greenhouse.io/bugcrowd/jobs/7843516?gh_jid=7843516",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-15T20:01:34.951896+00:00",
+    "emailed_utc": "2026-07-15T20:01:34.951896+00:00"
   }
 ]
