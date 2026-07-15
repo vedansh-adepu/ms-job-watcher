@@ -1779,5 +1779,18 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-15T00:01:23.004732+00:00",
     "emailed_utc": "2026-07-15T00:01:23.004732+00:00"
+  },
+  {
+    "job_id": "amazon:39894f57-e9b4-4abe-b3fd-93c64a0dad89",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Applied Scientist II, Personalization",
+    "location": "US, WA, Seattle",
+    "posted": "July 14, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10474556/applied-scientist-ii-personalization",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-15T00:41:18.085704+00:00",
+    "emailed_utc": "2026-07-15T00:41:18.085704+00:00"
   }
 ]
