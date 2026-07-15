@@ -10294,5 +10294,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-15T01:32:01.280744+00:00",
     "emailed_utc": "2026-07-15T01:32:01.280744+00:00"
+  },
+  {
+    "job_id": "greenhouse:crunchyroll:8047108",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "crunchyroll",
+    "title": "Senior Security Engineer",
+    "location": "Dallas, Texas, United States",
+    "posted": "2026-07-14T22:18:20-04:00",
+    "url": "https://boards.greenhouse.io/crunchyroll/jobs/8047108?gh_jid=8047108",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-15T02:31:17.810086+00:00",
+    "emailed_utc": "2026-07-15T02:31:17.810086+00:00"
+  },
+  {
+    "job_id": "greenhouse:five9:6116032004",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "five9",
+    "title": "Senior Asset Development Engineer ",
+    "location": "United States (Remote)",
+    "posted": "2026-07-14T20:42:57-04:00",
+    "url": "https://www.five9.com/about/careers/job-detail?gh_jid=6116032004",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-15T02:31:17.810086+00:00",
+    "emailed_utc": "2026-07-15T02:31:17.810086+00:00"
   }
 ]
