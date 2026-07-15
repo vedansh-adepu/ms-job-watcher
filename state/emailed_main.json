@@ -2312,5 +2312,18 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-15T22:12:09.498064+00:00",
     "emailed_utc": "2026-07-15T22:12:09.498064+00:00"
+  },
+  {
+    "job_id": "amazon:f49f9245-62db-42bc-8a89-35c64657a31a",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Applied Scientist II, AWS DynamoDB",
+    "location": "US, WA, Seattle",
+    "posted": "July 15, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10475895/applied-scientist-ii-aws-dynamodb",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-15T23:11:11.087841+00:00",
+    "emailed_utc": "2026-07-15T23:11:11.087841+00:00"
   }
 ]
