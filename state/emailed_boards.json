@@ -22488,5 +22488,57 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-15T19:35:42.545174+00:00",
     "emailed_utc": "2026-07-15T19:35:42.545174+00:00"
+  },
+  {
+    "job_id": "greenhouse:palmettocleantech:5355528008",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Palmettocleantech",
+    "title": "Staff Software Engineer, Energy Intelligence",
+    "location": "1616 Camden Rd Charlotte, NC 28203",
+    "posted": "2026-07-15T15:09:00-04:00",
+    "url": "https://job-boards.greenhouse.io/palmettocleantech/jobs/5355528008",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-15T20:01:29.889700+00:00",
+    "emailed_utc": "2026-07-15T20:01:29.889700+00:00"
+  },
+  {
+    "job_id": "greenhouse:torcrobotics:8633193002",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Torcrobotics",
+    "title": "Manager, Engineering - Release Pipelines",
+    "location": "Ann Arbor, MI",
+    "posted": "2026-07-15T14:33:42-04:00",
+    "url": "https://job-boards.greenhouse.io/torcrobotics/jobs/8633193002",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-15T20:01:29.889700+00:00",
+    "emailed_utc": "2026-07-15T20:01:29.889700+00:00"
+  },
+  {
+    "job_id": "lever:imo-online:f053134c-4b07-46c8-9f72-88708109b66d",
+    "pipeline": "boards",
+    "platform": "lever",
+    "company": "Imo Online",
+    "title": "Sr. Software Engineer - AI Platforms and Automation",
+    "location": "United States",
+    "posted": "2026-07-13 13:29 UTC",
+    "url": "https://jobs.lever.co/imo-online/f053134c-4b07-46c8-9f72-88708109b66d",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-15T20:01:29.889700+00:00",
+    "emailed_utc": "2026-07-15T20:01:29.889700+00:00"
+  },
+  {
+    "job_id": "lever:field-ai:334f066c-fd43-4318-bef2-5cc99b512828",
+    "pipeline": "boards",
+    "platform": "lever",
+    "company": "Field Ai",
+    "title": "Field Application Engineer - Temporary - Part Time - St Louis, MO",
+    "location": "St. Louis, MO",
+    "posted": "2026-07-15 19:04 UTC",
+    "url": "https://jobs.lever.co/field-ai/334f066c-fd43-4318-bef2-5cc99b512828",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-15T20:01:29.889700+00:00",
+    "emailed_utc": "2026-07-15T20:01:29.889700+00:00"
   }
 ]
