@@ -21110,5 +21110,57 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-15T16:45:13.758794+00:00",
     "emailed_utc": "2026-07-15T16:45:13.758794+00:00"
+  },
+  {
+    "job_id": "lever:woven-by-toyota:69482f28-8f96-4509-8b03-cc8de9c85f39",
+    "pipeline": "boards",
+    "platform": "lever",
+    "company": "woven-by-toyota",
+    "title": "Senior ML Platform Engineer - AD/ADAS",
+    "location": "Palo Alto, CA",
+    "posted": "2026-07-15 16:21 UTC",
+    "url": "https://jobs.lever.co/woven-by-toyota/69482f28-8f96-4509-8b03-cc8de9c85f39",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-15T17:02:20.105498+00:00",
+    "emailed_utc": "2026-07-15T17:02:20.105498+00:00"
+  },
+  {
+    "job_id": "greenhouse:xometry:5180705007",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "xometry",
+    "title": "Manager, Strategy & Analytics \u2013 Business Trends & Sourcing Operation",
+    "location": "North Bethesda, MD",
+    "posted": "2026-07-15T11:53:16-04:00",
+    "url": "https://job-boards.greenhouse.io/xometry/jobs/5180705007",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-15T17:02:20.105498+00:00",
+    "emailed_utc": "2026-07-15T17:02:20.105498+00:00"
+  },
+  {
+    "job_id": "ashby:snowflake:8439d28a-914f-4dc1-8579-05af0ad72d32",
+    "pipeline": "boards",
+    "platform": "ashby",
+    "company": "Snowflake",
+    "title": "Staff Security Engineer - Enterprise Security",
+    "location": "US-CA-Bay Area-Remote",
+    "posted": "",
+    "url": "https://jobs.ashbyhq.com/snowflake/8439d28a-914f-4dc1-8579-05af0ad72d32",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-15T17:02:20.105498+00:00",
+    "emailed_utc": "2026-07-15T17:02:20.105498+00:00"
+  },
+  {
+    "job_id": "ashby:pinecone:2b5fb4bf-8f55-4ee9-b2ba-f916ec1411e3",
+    "pipeline": "boards",
+    "platform": "ashby",
+    "company": "Pinecone",
+    "title": "Senior/Staff Software Engineer, Experience",
+    "location": "US Remote",
+    "posted": "",
+    "url": "https://jobs.ashbyhq.com/pinecone/2b5fb4bf-8f55-4ee9-b2ba-f916ec1411e3",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-15T17:02:20.105498+00:00",
+    "emailed_utc": "2026-07-15T17:02:20.105498+00:00"
   }
 ]
