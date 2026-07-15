@@ -23177,5 +23177,57 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-15T21:32:18.119154+00:00",
     "emailed_utc": "2026-07-15T21:32:18.119154+00:00"
+  },
+  {
+    "job_id": "workday:target:targetcareers:req:R0000444866",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Target",
+    "title": "Data Engineer - Finance Technology Solutions",
+    "location": "7000 Target Pkwy N,NCD-0375 Brooklyn Park,MN 55445",
+    "posted": "Posted Today",
+    "url": "https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/7000-Target-Pkwy-NNCD-0375-Brooklyn-ParkMN-55445/Data-Engineer---Finance-Technology-Solutions_R0000444866",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-15T22:02:48.598541+00:00",
+    "emailed_utc": "2026-07-15T22:02:48.598541+00:00"
+  },
+  {
+    "job_id": "greenhouse:spacex:8633803002",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "SpaceX",
+    "title": "Sr. 3GPP RAN Standardization Engineer (Starlink Mobile)",
+    "location": "Palo Alto, CA",
+    "posted": "2026-07-15T15:34:38-04:00",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8633803002?gh_jid=8633803002",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-15T22:02:48.598541+00:00",
+    "emailed_utc": "2026-07-15T22:02:48.598541+00:00"
+  },
+  {
+    "job_id": "smartrecruiters:ServiceNow:744000137980507",
+    "pipeline": "boards",
+    "platform": "smartrecruiters",
+    "company": "ServiceNow",
+    "title": "Principal / Distinguished Engineer - Multi-Cloud Control Plane - Kubernetes",
+    "location": "San Diego, California, us",
+    "posted": "2026-07-15T20:58:51.834Z",
+    "url": "https://jobs.smartrecruiters.com/ServiceNow",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-15T22:02:48.598541+00:00",
+    "emailed_utc": "2026-07-15T22:02:48.598541+00:00"
+  },
+  {
+    "job_id": "smartrecruiters:ServiceNow:744000137980749",
+    "pipeline": "boards",
+    "platform": "smartrecruiters",
+    "company": "ServiceNow",
+    "title": "Principal / Distinguished Engineer - Multi-Cloud - Control Plane - Kubernetes",
+    "location": "Santa Clara, California, us",
+    "posted": "2026-07-15T20:57:57.113Z",
+    "url": "https://jobs.smartrecruiters.com/ServiceNow",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-15T22:02:48.598541+00:00",
+    "emailed_utc": "2026-07-15T22:02:48.598541+00:00"
   }
 ]
