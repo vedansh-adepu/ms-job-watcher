@@ -2130,5 +2130,18 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-15T18:21:12.640510+00:00",
     "emailed_utc": "2026-07-15T18:21:12.640510+00:00"
+  },
+  {
+    "job_id": "amazon:5e16f5e5-1c7d-46c4-b894-f6309639e3d1",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Senior Software Dev Engineer, EC2 Spot",
+    "location": "US, WA, Seattle",
+    "posted": "July 15, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10475598/senior-software-dev-engineer-ec2-spot",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-15T18:31:18.304130+00:00",
+    "emailed_utc": "2026-07-15T18:31:18.304130+00:00"
   }
 ]
