@@ -2338,5 +2338,31 @@
     "bucket": "yes",
     "first_seen_utc": "2026-07-15T23:21:16.848767+00:00",
     "emailed_utc": "2026-07-15T23:21:16.848767+00:00"
+  },
+  {
+    "job_id": "amazon:cecd1ba8-2793-4803-b55b-54b3fb9c6b14",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": " Software Development Engineer, AWS OpenSearch",
+    "location": "US, TX, Austin",
+    "posted": "July 15, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10475911/software-development-engineer-aws-opensearch",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-15T23:51:13.642017+00:00",
+    "emailed_utc": "2026-07-15T23:51:13.642017+00:00"
+  },
+  {
+    "job_id": "nvidia:893396367394",
+    "pipeline": "main",
+    "platform": "nvidia",
+    "company": "NVIDIA",
+    "title": "Senior C++ Software Engineer",
+    "location": "Westford, MA, US",
+    "posted": "2026-07-15 00:00 UTC",
+    "url": "https://nvidia.eightfold.ai/careers/job/893396367394",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-15T23:51:13.642017+00:00",
+    "emailed_utc": "2026-07-15T23:51:13.642017+00:00"
   }
 ]
