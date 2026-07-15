@@ -2234,5 +2234,57 @@
     "bucket": "yes",
     "first_seen_utc": "2026-07-15T20:21:18.202324+00:00",
     "emailed_utc": "2026-07-15T20:21:18.202324+00:00"
+  },
+  {
+    "job_id": "amazon:a437d7cb-f494-4a65-813d-c1a26ee6cac1",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Senior Software Development Engineer, K8s - EKS",
+    "location": "US, TX, Austin",
+    "posted": "July 15, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10475812/senior-software-development-engineer-k8s-eks",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-15T21:31:25.625166+00:00",
+    "emailed_utc": "2026-07-15T21:31:25.625166+00:00"
+  },
+  {
+    "job_id": "amazon:4ed810ae-2104-4e37-b638-1cd2a87f3788",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "System Development Engineer, Amazon EKS ",
+    "location": "US, CA, Santa Clara",
+    "posted": "July 15, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10475811/system-development-engineer-amazon-eks",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-15T21:31:25.625166+00:00",
+    "emailed_utc": "2026-07-15T21:31:25.625166+00:00"
+  },
+  {
+    "job_id": "amazon:08d4d4b3-1d51-4f30-9eea-04371cca374a",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Dev Engineer II, Kubernetes",
+    "location": "US, WA, Seattle",
+    "posted": "July 15, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10475810/software-dev-engineer-ii-kubernetes",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-15T21:31:25.625166+00:00",
+    "emailed_utc": "2026-07-15T21:31:25.625166+00:00"
+  },
+  {
+    "job_id": "amazon:1e1b66ea-9aec-44be-be2e-ac71194aef61",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Senior Software Development Engineer, AWS Kubernetes, EKS Scalability",
+    "location": "US, WA, Seattle",
+    "posted": "July 15, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10475809/senior-software-development-engineer-aws-kubernetes-eks-scalability",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-15T21:31:25.625166+00:00",
+    "emailed_utc": "2026-07-15T21:31:25.625166+00:00"
   }
 ]
