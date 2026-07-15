@@ -19979,5 +19979,57 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-15T14:08:47.904702+00:00",
     "emailed_utc": "2026-07-15T14:08:47.904702+00:00"
+  },
+  {
+    "job_id": "greenhouse:upstart:8054276",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "UpStart",
+    "title": "Principle Software Engineer, Pricing",
+    "location": "United States | Remote",
+    "posted": "2026-07-15T10:06:29-04:00",
+    "url": "https://careers.upstart.com/jobs?gh_jid=8054276",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-15T14:32:21.708810+00:00",
+    "emailed_utc": "2026-07-15T14:32:21.708810+00:00"
+  },
+  {
+    "job_id": "ashby:snowflake:6b025486-a3f6-434f-89d4-9a18d9fd3fb3",
+    "pipeline": "boards",
+    "platform": "ashby",
+    "company": "Snowflake",
+    "title": "Senior Solution Engineer, Telecommunications",
+    "location": "US-GA-Atlanta",
+    "posted": "",
+    "url": "https://jobs.ashbyhq.com/snowflake/6b025486-a3f6-434f-89d4-9a18d9fd3fb3",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-15T14:32:21.708810+00:00",
+    "emailed_utc": "2026-07-15T14:32:21.708810+00:00"
+  },
+  {
+    "job_id": "ashby:snowflake:86a1f062-74fe-4ee7-95f0-37399f8dac55",
+    "pipeline": "boards",
+    "platform": "ashby",
+    "company": "Snowflake",
+    "title": "Strategic Finance - Product, AI/ML and Analytics",
+    "location": "US-CA-Menlo Park",
+    "posted": "",
+    "url": "https://jobs.ashbyhq.com/snowflake/86a1f062-74fe-4ee7-95f0-37399f8dac55",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-15T14:32:21.708810+00:00",
+    "emailed_utc": "2026-07-15T14:32:21.708810+00:00"
+  },
+  {
+    "job_id": "ashby:1password:7cc29a43-a6ac-46f5-8cfd-c090f23b3289",
+    "pipeline": "boards",
+    "platform": "ashby",
+    "company": "1password",
+    "title": "Senior Developer, Open Source",
+    "location": "Remote (United States | Canada)",
+    "posted": "",
+    "url": "https://jobs.ashbyhq.com/1password/7cc29a43-a6ac-46f5-8cfd-c090f23b3289",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-15T14:32:21.708810+00:00",
+    "emailed_utc": "2026-07-15T14:32:21.708810+00:00"
   }
 ]
