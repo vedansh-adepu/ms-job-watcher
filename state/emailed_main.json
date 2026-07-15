@@ -1792,5 +1792,44 @@
     "bucket": "yes",
     "first_seen_utc": "2026-07-15T00:41:18.085704+00:00",
     "emailed_utc": "2026-07-15T00:41:18.085704+00:00"
+  },
+  {
+    "job_id": "nvidia:893396344294",
+    "pipeline": "main",
+    "platform": "nvidia",
+    "company": "NVIDIA",
+    "title": "Senior Systems Software Engineer \u2013 GPU Software",
+    "location": "Santa Clara, CA, US",
+    "posted": "2026-07-14 00:00 UTC",
+    "url": "https://nvidia.eightfold.ai/careers/job/893396344294",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-15T02:31:17.268381+00:00",
+    "emailed_utc": "2026-07-15T02:31:17.268381+00:00"
+  },
+  {
+    "job_id": "nvidia:893396344296",
+    "pipeline": "main",
+    "platform": "nvidia",
+    "company": "NVIDIA",
+    "title": "Senior Systems Software Engineer, Observability and Telemetry Platform",
+    "location": "US",
+    "posted": "2026-07-14 00:00 UTC",
+    "url": "https://nvidia.eightfold.ai/careers/job/893396344296",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-15T02:31:17.268381+00:00",
+    "emailed_utc": "2026-07-15T02:31:17.268381+00:00"
+  },
+  {
+    "job_id": "amazon:35680e67-6a27-4b3e-ac6c-83b331708874",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Senior Applied Scientist, AWS Science of Security",
+    "location": "US, WA, Seattle",
+    "posted": "July 15, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10474749/senior-applied-scientist-aws-science-of-security",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-15T02:31:17.268381+00:00",
+    "emailed_utc": "2026-07-15T02:31:17.268381+00:00"
   }
 ]
