@@ -1727,5 +1727,57 @@
     "bucket": "yes",
     "first_seen_utc": "2026-07-14T23:51:15.038002+00:00",
     "emailed_utc": "2026-07-14T23:51:15.038002+00:00"
+  },
+  {
+    "job_id": "amazon:04d49cef-1f36-4e99-b4f2-6de4336db139",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer II, Leo AI Foundations",
+    "location": "US, WA, Redmond",
+    "posted": "July 14, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10474679/software-development-engineer-ii-leo-ai-foundations",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-15T00:01:23.004732+00:00",
+    "emailed_utc": "2026-07-15T00:01:23.004732+00:00"
+  },
+  {
+    "job_id": "amazon:80c2376f-4e7c-42cb-8e30-1774b1b3efa0",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer II, Leo AI Foundations",
+    "location": "US, WA, Redmond",
+    "posted": "July 14, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10474681/software-development-engineer-ii-leo-ai-foundations",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-15T00:01:23.004732+00:00",
+    "emailed_utc": "2026-07-15T00:01:23.004732+00:00"
+  },
+  {
+    "job_id": "amazon:37e272df-e06a-4871-8033-d0c6b46cdba7",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer II, Leo AI Foundations",
+    "location": "US, WA, Redmond",
+    "posted": "July 14, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10474677/software-development-engineer-ii-leo-ai-foundations",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-15T00:01:23.004732+00:00",
+    "emailed_utc": "2026-07-15T00:01:23.004732+00:00"
+  },
+  {
+    "job_id": "amazon:1a249b6f-e076-45cf-a7c0-b2af793d6a8c",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Sr. Software Dev Engineer, Leo AI Foundations",
+    "location": "US, WA, Redmond",
+    "posted": "July 14, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10474682/sr-software-dev-engineer-leo-ai-foundations",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-15T00:01:23.004732+00:00",
+    "emailed_utc": "2026-07-15T00:01:23.004732+00:00"
   }
 ]
