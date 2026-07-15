@@ -2182,5 +2182,31 @@
     "bucket": "yes",
     "first_seen_utc": "2026-07-15T19:11:23.437467+00:00",
     "emailed_utc": "2026-07-15T19:11:23.437467+00:00"
+  },
+  {
+    "job_id": "amazon:3bdbc8e2-2712-48fc-bb8f-5944bb41e988",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "SDE II, Veritas Core Platform ",
+    "location": "US, CA, San Diego",
+    "posted": "July 15, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10475640/sde-ii-veritas-core-platform",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-15T19:21:24.922066+00:00",
+    "emailed_utc": "2026-07-15T19:21:24.922066+00:00"
+  },
+  {
+    "job_id": "amazon:8b62df1a-c232-42e3-9a41-1ad4898160e6",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Manager, Amazon Fuse and MBD",
+    "location": "US, WA, Seattle",
+    "posted": "July 15, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10475647/software-development-manager-amazon-fuse-and-mbd",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-15T19:21:24.922066+00:00",
+    "emailed_utc": "2026-07-15T19:21:24.922066+00:00"
   }
 ]
