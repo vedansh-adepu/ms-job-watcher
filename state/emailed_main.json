@@ -1909,5 +1909,18 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-15T09:31:12.829839+00:00",
     "emailed_utc": "2026-07-15T09:31:12.829839+00:00"
+  },
+  {
+    "job_id": "amazon:10ea64e8-c386-4bad-8ffc-6435beb2ee87",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, AWS OpenSearch Service",
+    "location": "US, TX, Austin",
+    "posted": "July 15, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10475195/software-development-engineer-aws-opensearch-service",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-15T14:51:16.182772+00:00",
+    "emailed_utc": "2026-07-15T14:51:16.182772+00:00"
   }
 ]
