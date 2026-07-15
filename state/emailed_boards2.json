@@ -10749,5 +10749,44 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-15T15:31:38.590904+00:00",
     "emailed_utc": "2026-07-15T15:31:38.590904+00:00"
+  },
+  {
+    "job_id": "greenhouse:waymo:8012271",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "waymo",
+    "title": "Sr. Staff Software Engineer, DUE Experience",
+    "location": "Mountain View, CA, Seattle, WA, New York City, Los Angeles CA, United States ",
+    "posted": "2026-07-15T10:53:03-04:00",
+    "url": "https://careers.withwaymo.com/jobs?gh_jid=8012271",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-15T16:03:18.035412+00:00",
+    "emailed_utc": "2026-07-15T16:03:18.035412+00:00"
+  },
+  {
+    "job_id": "lever:gridware:022b4688-b30f-452e-8575-725746158551",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "gridware",
+    "title": "Firmware Engineer",
+    "location": "San Francisco, CA",
+    "posted": "2026-07-15 15:02 UTC",
+    "url": "https://jobs.lever.co/gridware/022b4688-b30f-452e-8575-725746158551",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-15T16:03:18.035412+00:00",
+    "emailed_utc": "2026-07-15T16:03:18.035412+00:00"
+  },
+  {
+    "job_id": "lever:life:38b8da19-73d3-4829-b822-a31dda1e446d",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "life",
+    "title": "Senior Cloud Infrastructure Engineer",
+    "location": "Edmond, OK",
+    "posted": "2026-07-15 14:34 UTC",
+    "url": "https://jobs.lever.co/life/38b8da19-73d3-4829-b822-a31dda1e446d",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-15T16:03:18.035412+00:00",
+    "emailed_utc": "2026-07-15T16:03:18.035412+00:00"
   }
 ]
