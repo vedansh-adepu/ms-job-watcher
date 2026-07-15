@@ -2143,5 +2143,18 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-15T18:31:18.304130+00:00",
     "emailed_utc": "2026-07-15T18:31:18.304130+00:00"
+  },
+  {
+    "job_id": "amazon:cc96538e-cf9d-488c-8574-0f2de9c03a6a",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer II, AWS AI & Strategic Partner Engineering",
+    "location": "US, CA, Santa Clara",
+    "posted": "July 15, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10475620/software-development-engineer-ii-aws-ai-strategic-partner-engineering",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-15T18:51:18.909976+00:00",
+    "emailed_utc": "2026-07-15T18:51:18.909976+00:00"
   }
 ]
