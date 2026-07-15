@@ -10047,5 +10047,57 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-14T23:31:46.053346+00:00",
     "emailed_utc": "2026-07-14T23:31:46.053346+00:00"
+  },
+  {
+    "job_id": "greenhouse:btig27:8633897002",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "btig27",
+    "title": "Technology, Software Development Engineer in Test (SDET), Vice President",
+    "location": "Chicago, Illinois, United States; Miami, Florida, United States; New York, New York, United States; San Francisco, California, United States",
+    "posted": "2026-07-14T19:49:29-04:00",
+    "url": "https://job-boards.greenhouse.io/btig27/jobs/8633897002",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-15T00:31:43.202927+00:00",
+    "emailed_utc": "2026-07-15T00:31:43.202927+00:00"
+  },
+  {
+    "job_id": "greenhouse:billcom:6002940004",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "billcom",
+    "title": "Senior Staff Product Data Analyst",
+    "location": "United States",
+    "posted": "2026-07-14T20:11:23-04:00",
+    "url": "https://www.bill.com/job?6002940004&gh_jid=6002940004",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-15T00:31:43.202927+00:00",
+    "emailed_utc": "2026-07-15T00:31:43.202927+00:00"
+  },
+  {
+    "job_id": "greenhouse:greenpointtechnologies:5349558008",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "greenpointtechnologies",
+    "title": "Senior Electrical Systems Engineer",
+    "location": "Marysville, Washington, United States",
+    "posted": "2026-07-14T18:59:35-04:00",
+    "url": "https://job-boards.greenhouse.io/greenpointtechnologies/jobs/5349558008",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-15T00:31:43.202927+00:00",
+    "emailed_utc": "2026-07-15T00:31:43.202927+00:00"
+  },
+  {
+    "job_id": "greenhouse:greenpointtechnologies:5349556008",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "greenpointtechnologies",
+    "title": "Senior Electrical Systems Engineer",
+    "location": "Bothell, Washington, United States",
+    "posted": "2026-07-14T18:59:34-04:00",
+    "url": "https://job-boards.greenhouse.io/greenpointtechnologies/jobs/5349556008",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-15T00:31:43.202927+00:00",
+    "emailed_utc": "2026-07-15T00:31:43.202927+00:00"
   }
 ]
