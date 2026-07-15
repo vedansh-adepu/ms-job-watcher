@@ -19927,5 +19927,57 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-15T14:02:40.112324+00:00",
     "emailed_utc": "2026-07-15T14:02:40.112324+00:00"
+  },
+  {
+    "job_id": "greenhouse:spacex:8634575002",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "SpaceX",
+    "title": "Electrical Engineer (Starlink Optical)",
+    "location": "Bastrop, TX",
+    "posted": "2026-07-15T09:08:36-04:00",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8634575002?gh_jid=8634575002",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-15T14:08:47.904702+00:00",
+    "emailed_utc": "2026-07-15T14:08:47.904702+00:00"
+  },
+  {
+    "job_id": "greenhouse:spacex:8634609002",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "SpaceX",
+    "title": "Manufacturing Engineer (Starlink Optical) ",
+    "location": "Bastrop, TX",
+    "posted": "2026-07-15T09:23:03-04:00",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8634609002?gh_jid=8634609002",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-15T14:08:47.904702+00:00",
+    "emailed_utc": "2026-07-15T14:08:47.904702+00:00"
+  },
+  {
+    "job_id": "greenhouse:spacex:8634547002",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "SpaceX",
+    "title": "Mechanical Engineer (Starlink Optical)",
+    "location": "Bastrop, TX",
+    "posted": "2026-07-15T08:51:18-04:00",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8634547002?gh_jid=8634547002",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-15T14:08:47.904702+00:00",
+    "emailed_utc": "2026-07-15T14:08:47.904702+00:00"
+  },
+  {
+    "job_id": "greenhouse:spacex:8627073002",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "SpaceX",
+    "title": "Sr. Process Engineer (Starlink)",
+    "location": "Bastrop, TX",
+    "posted": "2026-07-15T09:13:48-04:00",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8627073002?gh_jid=8627073002",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-15T14:08:47.904702+00:00",
+    "emailed_utc": "2026-07-15T14:08:47.904702+00:00"
   }
 ]
