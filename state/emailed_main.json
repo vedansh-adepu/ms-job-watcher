@@ -2013,5 +2013,31 @@
     "bucket": "yes",
     "first_seen_utc": "2026-07-15T16:51:14.323331+00:00",
     "emailed_utc": "2026-07-15T16:51:14.323331+00:00"
+  },
+  {
+    "job_id": "amazon:472c7e62-c100-4d1a-8e41-6f2c24f737f2",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "SDE, Responsible AI",
+    "location": "US, WA, Seattle",
+    "posted": "July 15, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10475419/sde-responsible-ai",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-15T17:01:31.732107+00:00",
+    "emailed_utc": "2026-07-15T17:01:31.732107+00:00"
+  },
+  {
+    "job_id": "amazon:b9a42f27-c4e3-4b19-9e9a-66e48bc9f9ce",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Sr Applied Scientist, Responsible AI",
+    "location": "US, WA, Seattle",
+    "posted": "July 15, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10475416/sr-applied-scientist-responsible-ai",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-15T17:01:31.732107+00:00",
+    "emailed_utc": "2026-07-15T17:01:31.732107+00:00"
   }
 ]
