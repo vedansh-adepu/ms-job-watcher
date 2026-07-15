@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-07-15T15:33:13.661764+00:00",
+  "updated_utc": "2026-07-15T16:03:26.330511+00:00",
   "dead_details": {
     "greenhouse:auth0": {
       "first_seen_utc": "2026-02-16T03:03:47.356270+00:00",
@@ -8464,6 +8464,15 @@
     "greenhouse:capitalrx": {
       "first_seen_utc": "2026-07-15T15:01:15.156878+00:00",
       "last_seen_utc": "2026-07-15T15:01:15.156878+00:00",
+      "platform": "greenhouse",
+      "company": "",
+      "board_url": "",
+      "last_status": 404,
+      "last_error": "HTTP 404/410 (board not found)"
+    },
+    "greenhouse:galileofinancialtechnologies": {
+      "first_seen_utc": "2026-07-15T16:01:17.327419+00:00",
+      "last_seen_utc": "2026-07-15T16:01:17.327419+00:00",
       "platform": "greenhouse",
       "company": "",
       "board_url": "",
