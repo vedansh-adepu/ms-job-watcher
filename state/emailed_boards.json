@@ -22124,5 +22124,57 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-15T19:02:36.347386+00:00",
     "emailed_utc": "2026-07-15T19:02:36.347386+00:00"
+  },
+  {
+    "job_id": "greenhouse:samsara:8036387",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Samsara",
+    "title": "Sr Software Engineer I",
+    "location": "Remote - US",
+    "posted": "2026-07-15T13:43:34-04:00",
+    "url": "https://www.samsara.com/company/careers/roles/8036387?gh_jid=8036387",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-15T19:32:46.498883+00:00",
+    "emailed_utc": "2026-07-15T19:32:46.498883+00:00"
+  },
+  {
+    "job_id": "smartrecruiters:SanDisk:744000137947319",
+    "pipeline": "boards",
+    "platform": "smartrecruiters",
+    "company": "SanDisk",
+    "title": "Director, Consumer Data Platform & Analytics Enablement",
+    "location": "Milpitas, CA, us",
+    "posted": "2026-07-15T16:50:29.908Z",
+    "url": "https://jobs.smartrecruiters.com/SanDisk",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-15T19:32:46.498883+00:00",
+    "emailed_utc": "2026-07-15T19:32:46.498883+00:00"
+  },
+  {
+    "job_id": "greenhouse:spacex:8633051002",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "SpaceX",
+    "title": "Build Engineer, COPVS (Starship)",
+    "location": "Westminster, MD",
+    "posted": "2026-07-15T14:26:20-04:00",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8633051002?gh_jid=8633051002",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-15T19:32:46.498883+00:00",
+    "emailed_utc": "2026-07-15T19:32:46.498883+00:00"
+  },
+  {
+    "job_id": "greenhouse:twilio:8067678",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "twilio",
+    "title": "Senior Engineering Manager V&V Media",
+    "location": "Remote - US",
+    "posted": "2026-07-15T13:25:24-04:00",
+    "url": "https://job-boards.greenhouse.io/twilio/jobs/8067678",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-15T19:32:46.498883+00:00",
+    "emailed_utc": "2026-07-15T19:32:46.498883+00:00"
   }
 ]
