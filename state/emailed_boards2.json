@@ -11230,5 +11230,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-15T17:01:55.161848+00:00",
     "emailed_utc": "2026-07-15T17:01:55.161848+00:00"
+  },
+  {
+    "job_id": "greenhouse:weave:4318175009",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "weave",
+    "title": "Senior AI Engineer",
+    "location": "San Francisco Bay Area, CA",
+    "posted": "2026-07-15T12:27:00-04:00",
+    "url": "https://job-boards.greenhouse.io/weave/jobs/4318175009",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-15T17:32:15.131471+00:00",
+    "emailed_utc": "2026-07-15T17:32:15.131471+00:00"
+  },
+  {
+    "job_id": "lever:cef:0405ca4a-8845-40bc-9400-37b81f80953b",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "cef",
+    "title": "Senior AWS Software Engineer (Integrations Team)",
+    "location": "Dallas, TX",
+    "posted": "2026-07-15 16:15 UTC",
+    "url": "https://jobs.lever.co/cef/0405ca4a-8845-40bc-9400-37b81f80953b",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-15T17:32:15.131471+00:00",
+    "emailed_utc": "2026-07-15T17:32:15.131471+00:00"
   }
 ]
