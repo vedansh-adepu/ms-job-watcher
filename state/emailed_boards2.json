@@ -12530,5 +12530,44 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-16T14:31:36.294751+00:00",
     "emailed_utc": "2026-07-16T14:31:36.294751+00:00"
+  },
+  {
+    "job_id": "greenhouse:pointc:5236213008",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "pointc",
+    "title": "Software Engineer - Contractor",
+    "location": "United States - Remote",
+    "posted": "2026-07-16T09:32:36-04:00",
+    "url": "https://job-boards.greenhouse.io/pointc/jobs/5236213008",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-16T14:37:38.029861+00:00",
+    "emailed_utc": "2026-07-16T14:37:38.029861+00:00"
+  },
+  {
+    "job_id": "greenhouse:onenergy:4303664009",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "onenergy",
+    "title": "Principal (Electrical) Controls Engineer, Product Engineering ",
+    "location": "Houston, Texas, United States",
+    "posted": "2026-07-16T10:18:39-04:00",
+    "url": "https://job-boards.greenhouse.io/onenergy/jobs/4303664009",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-16T14:37:38.029861+00:00",
+    "emailed_utc": "2026-07-16T14:37:38.029861+00:00"
+  },
+  {
+    "job_id": "greenhouse:onenergy:4315884009",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "onenergy",
+    "title": "Senior Electrical Engineer, Data Centers",
+    "location": "Houston, Texas, United States",
+    "posted": "2026-07-16T10:09:58-04:00",
+    "url": "https://job-boards.greenhouse.io/onenergy/jobs/4315884009",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-16T14:37:38.029861+00:00",
+    "emailed_utc": "2026-07-16T14:37:38.029861+00:00"
   }
 ]
