@@ -2728,5 +2728,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-16T23:31:09.371282+00:00",
     "emailed_utc": "2026-07-16T23:31:09.371282+00:00"
+  },
+  {
+    "job_id": "amazon:dad2a6f4-6a92-4b30-9e97-a6f87336107e",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, Ads Data Manager",
+    "location": "US, NY, New York",
+    "posted": "July 16, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10476935/software-development-engineer-ads-data-manager",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-16T23:41:05.952082+00:00",
+    "emailed_utc": "2026-07-16T23:41:05.952082+00:00"
+  },
+  {
+    "job_id": "amazon:e2ba3f5a-0fed-44b9-ac2f-8c92fa4ae810",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, Amazon Core Shopping, Buy for Me",
+    "location": "US, CA, San Francisco",
+    "posted": "July 16, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10476934/software-development-engineer-amazon-core-shopping-buy-for-me",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-16T23:41:05.952082+00:00",
+    "emailed_utc": "2026-07-16T23:41:05.952082+00:00"
   }
 ]
