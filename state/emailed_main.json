@@ -2507,5 +2507,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-16T15:31:19.466193+00:00",
     "emailed_utc": "2026-07-16T15:31:19.466193+00:00"
+  },
+  {
+    "job_id": "amazon:801ebda1-8abd-40d3-8150-c4f567c48c45",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, Elastic Block Storage (EBS), Capacity Optimization",
+    "location": "US, MA, Boston",
+    "posted": "July 16, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10476399/software-development-engineer-elastic-block-storage-ebs-capacity-optimization",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-16T15:51:05.737253+00:00",
+    "emailed_utc": "2026-07-16T15:51:05.737253+00:00"
+  },
+  {
+    "job_id": "amazon:06bf33bf-a4ad-42fd-be20-fc4ace3318f5",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Dev Engineer II, Amazon Fuse",
+    "location": "US, FL, Miami",
+    "posted": "July 16, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10476398/software-dev-engineer-ii-amazon-fuse",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-16T15:51:05.737253+00:00",
+    "emailed_utc": "2026-07-16T15:51:05.737253+00:00"
   }
 ]
