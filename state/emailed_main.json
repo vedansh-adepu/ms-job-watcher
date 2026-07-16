@@ -2676,5 +2676,18 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-16T21:51:05.268351+00:00",
     "emailed_utc": "2026-07-16T21:51:05.268351+00:00"
+  },
+  {
+    "job_id": "amazon:5e005060-d489-4efe-982b-184c6a0b25d2",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, Device OS",
+    "location": "US, WA, Seattle",
+    "posted": "July 16, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10476913/software-development-engineer-device-os",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-16T23:01:15.110871+00:00",
+    "emailed_utc": "2026-07-16T23:01:15.110871+00:00"
   }
 ]
