@@ -14051,5 +14051,57 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-16T23:02:08.352047+00:00",
     "emailed_utc": "2026-07-16T23:02:08.352047+00:00"
+  },
+  {
+    "job_id": "greenhouse:urbancompass:8070744",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "urbancompass",
+    "title": "Software Engineer",
+    "location": "Boston, Massachusetts, United States",
+    "posted": "2026-07-16T19:30:05-04:00",
+    "url": "https://www.compass.com/careers?gh_jid=8070744",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-16T23:32:00.612700+00:00",
+    "emailed_utc": "2026-07-16T23:32:00.612700+00:00"
+  },
+  {
+    "job_id": "greenhouse:urbancompass:8042469",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "urbancompass",
+    "title": "Software Engineer II",
+    "location": "Manhattan, New York, United States",
+    "posted": "2026-07-16T19:05:16-04:00",
+    "url": "https://www.compass.com/careers?gh_jid=8042469",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-16T23:32:00.612700+00:00",
+    "emailed_utc": "2026-07-16T23:32:00.612700+00:00"
+  },
+  {
+    "job_id": "greenhouse:urbancompass:8042468",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "urbancompass",
+    "title": "Software Engineer II",
+    "location": "Seattle, Washington, United States",
+    "posted": "2026-07-16T19:31:00-04:00",
+    "url": "https://www.compass.com/careers?gh_jid=8042468",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-16T23:32:00.612700+00:00",
+    "emailed_utc": "2026-07-16T23:32:00.612700+00:00"
+  },
+  {
+    "job_id": "greenhouse:vast:4696343006",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "vast",
+    "title": "Senior Systems Engineer",
+    "location": "Long Beach, California, United States",
+    "posted": "2026-07-16T18:15:14-04:00",
+    "url": "https://boards.greenhouse.io/vast/jobs/4696343006?gh_jid=4696343006",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-16T23:32:00.612700+00:00",
+    "emailed_utc": "2026-07-16T23:32:00.612700+00:00"
   }
 ]
