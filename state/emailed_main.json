@@ -2559,5 +2559,18 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-16T16:31:09.996277+00:00",
     "emailed_utc": "2026-07-16T16:31:09.996277+00:00"
+  },
+  {
+    "job_id": "amazon:51ffe363-5a9a-47cf-a80f-e0eea17cf1fd",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, Amazon Recruiting Tech",
+    "location": "US, WA, Seattle",
+    "posted": "July 16, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10476580/software-development-engineer-amazon-recruiting-tech",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-16T17:21:08.200003+00:00",
+    "emailed_utc": "2026-07-16T17:21:08.200003+00:00"
   }
 ]
