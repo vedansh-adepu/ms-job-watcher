@@ -12985,5 +12985,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-16T18:01:54.734252+00:00",
     "emailed_utc": "2026-07-16T18:01:54.734252+00:00"
+  },
+  {
+    "job_id": "lever:influur:b0cdcd76-419b-47eb-a21c-9d148bf679bd",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "influur",
+    "title": "Director of Engineering",
+    "location": "USA",
+    "posted": "2026-07-16 14:38 UTC",
+    "url": "https://jobs.lever.co/influur/b0cdcd76-419b-47eb-a21c-9d148bf679bd",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-16T18:31:55.267891+00:00",
+    "emailed_utc": "2026-07-16T18:31:55.267891+00:00"
+  },
+  {
+    "job_id": "lever:skygrid:5a59c1ea-14da-43bc-83f7-f1d6af282c4d",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "skygrid",
+    "title": "Senior Software Engineer (Cloud Architect)",
+    "location": "Austin, TX",
+    "posted": "2026-07-16 17:19 UTC",
+    "url": "https://jobs.lever.co/skygrid/5a59c1ea-14da-43bc-83f7-f1d6af282c4d",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-16T18:31:55.267891+00:00",
+    "emailed_utc": "2026-07-16T18:31:55.267891+00:00"
   }
 ]
