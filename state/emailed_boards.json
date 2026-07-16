@@ -24061,5 +24061,70 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-16T03:35:43.357014+00:00",
     "emailed_utc": "2026-07-16T03:35:43.357014+00:00"
+  },
+  {
+    "job_id": "workday:gdit:External_Career_Site:req:RQ224160",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "General Dynamics Information Technology (GDIT)",
+    "title": "Enterprise Performance Management Systems Engineer",
+    "location": "USA VA Arlington",
+    "posted": "Posted Today",
+    "url": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-Arlington/Enterprise-Performance-Management-Systems-Engineer_RQ224160-1",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-16T05:32:56.098538+00:00",
+    "emailed_utc": "2026-07-16T05:32:56.098538+00:00"
+  },
+  {
+    "job_id": "workday:gdit:External_Career_Site:req:RQ224161",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "General Dynamics Information Technology (GDIT)",
+    "title": "Senior Enterprise Performance Management Systems Engineer",
+    "location": "USA VA Arlington",
+    "posted": "Posted Today",
+    "url": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-Arlington/Senior-Enterprise-Performance-Management-Systems-Engineer_RQ224161-2",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-16T05:32:56.098538+00:00",
+    "emailed_utc": "2026-07-16T05:32:56.098538+00:00"
+  },
+  {
+    "job_id": "workday:gdit:External_Career_Site:req:RQ224231",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "General Dynamics Information Technology (GDIT)",
+    "title": "Senior Systems Engineer - Enterprise Directory Services and Authentication",
+    "location": "USA AZ Fort Huachuca",
+    "posted": "Posted Today",
+    "url": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-AZ-Fort-Huachuca/Senior-Systems-Engineer---Enterprise-Directory-Services-and-Authentication_RQ224231-1",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-16T05:32:56.098538+00:00",
+    "emailed_utc": "2026-07-16T05:32:56.098538+00:00"
+  },
+  {
+    "job_id": "workday:intel:External:req:JR0285603",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Intel",
+    "title": "Software Technician",
+    "location": "US, Arizona, Phoenix",
+    "posted": "Posted Today",
+    "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/Software-Technician_JR0285603",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-16T05:32:56.098538+00:00",
+    "emailed_utc": "2026-07-16T05:32:56.098538+00:00"
+  },
+  {
+    "job_id": "workday:intel:External:req:JR0285595",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Intel",
+    "title": "Senior Software Engineer",
+    "location": "US, Arizona, Phoenix",
+    "posted": "Posted Today",
+    "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/Senior-Software-Engineer_JR0285595",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-16T05:32:56.098538+00:00",
+    "emailed_utc": "2026-07-16T05:32:56.098538+00:00"
   }
 ]
