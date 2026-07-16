@@ -12803,5 +12803,44 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-16T16:53:39.578327+00:00",
     "emailed_utc": "2026-07-16T16:53:39.578327+00:00"
+  },
+  {
+    "job_id": "lever:velo3d:fa020cf6-18c9-4d5f-ab8f-fc3c80ddf2ab",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "velo3d",
+    "title": "Staff Electrical Engineer",
+    "location": "Fremont, CA",
+    "posted": "2026-07-16 16:23 UTC",
+    "url": "https://jobs.lever.co/velo3d/fa020cf6-18c9-4d5f-ab8f-fc3c80ddf2ab",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-16T17:01:08.590112+00:00",
+    "emailed_utc": "2026-07-16T17:01:08.590112+00:00"
+  },
+  {
+    "job_id": "lever:velo3d:122e7abb-7610-4d44-bef7-115bf64ca4b4",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "velo3d",
+    "title": "Staff Mechanical Engineer",
+    "location": "Fremont, CA",
+    "posted": "2025-04-29 23:00 UTC",
+    "url": "https://jobs.lever.co/velo3d/122e7abb-7610-4d44-bef7-115bf64ca4b4",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-16T17:01:08.590112+00:00",
+    "emailed_utc": "2026-07-16T17:01:08.590112+00:00"
+  },
+  {
+    "job_id": "lever:uft:9702339a-5695-4cfd-ade1-a38ffe8596b2",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "uft",
+    "title": "Network Engineer",
+    "location": "Irving, TX",
+    "posted": "2026-07-13 19:43 UTC",
+    "url": "https://jobs.lever.co/uft/9702339a-5695-4cfd-ade1-a38ffe8596b2",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-16T17:01:08.590112+00:00",
+    "emailed_utc": "2026-07-16T17:01:08.590112+00:00"
   }
 ]
