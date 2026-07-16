@@ -24425,5 +24425,57 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-16T14:32:52.233825+00:00",
     "emailed_utc": "2026-07-16T14:32:52.233825+00:00"
+  },
+  {
+    "job_id": "greenhouse:voyagertechnologiesinc:4313601009",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "voyagertechnologiesinc",
+    "title": "RF Engineer",
+    "location": "San Diego, CA",
+    "posted": "2026-07-16T10:57:25-04:00",
+    "url": "https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4313601009",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-16T15:02:35.294024+00:00",
+    "emailed_utc": "2026-07-16T15:02:35.294024+00:00"
+  },
+  {
+    "job_id": "ashby:snowflake:46f01daf-fb49-4e94-a9a2-5b8a1164dd64",
+    "pipeline": "boards",
+    "platform": "ashby",
+    "company": "Snowflake",
+    "title": "Senior Solution Engineer, HCLS",
+    "location": "US-CA-Bay Area-Remote",
+    "posted": "",
+    "url": "https://jobs.ashbyhq.com/snowflake/46f01daf-fb49-4e94-a9a2-5b8a1164dd64",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-16T15:02:35.294024+00:00",
+    "emailed_utc": "2026-07-16T15:02:35.294024+00:00"
+  },
+  {
+    "job_id": "ashby:close:29f5c695-8282-4407-ac09-2b61b9f2fc1e",
+    "pipeline": "boards",
+    "platform": "ashby",
+    "company": "Close",
+    "title": "Senior Backend Engineer \u2013 Agents (USA Only - 100% Remote)",
+    "location": "USA - Remote",
+    "posted": "",
+    "url": "https://jobs.ashbyhq.com/close/29f5c695-8282-4407-ac09-2b61b9f2fc1e",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-16T15:02:35.294024+00:00",
+    "emailed_utc": "2026-07-16T15:02:35.294024+00:00"
+  },
+  {
+    "job_id": "ashby:close:1e412917-5d07-4423-93c1-aa61f2c9b7b9",
+    "pipeline": "boards",
+    "platform": "ashby",
+    "company": "Close",
+    "title": "Senior Backend Engineer \u2013 Communications (USA Only - 100% Remote)",
+    "location": "USA - Remote",
+    "posted": "",
+    "url": "https://jobs.ashbyhq.com/close/1e412917-5d07-4423-93c1-aa61f2c9b7b9",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-16T15:02:35.294024+00:00",
+    "emailed_utc": "2026-07-16T15:02:35.294024+00:00"
   }
 ]
