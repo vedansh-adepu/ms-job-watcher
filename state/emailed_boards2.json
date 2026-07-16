@@ -12569,5 +12569,57 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-16T14:37:38.029861+00:00",
     "emailed_utc": "2026-07-16T14:37:38.029861+00:00"
+  },
+  {
+    "job_id": "greenhouse:trace3:8069179",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "trace3",
+    "title": "Senior Engineer: Tier 3 - (On-site)",
+    "location": "Las Vegas, NV",
+    "posted": "2026-07-16T09:51:55-04:00",
+    "url": "https://job-boards.greenhouse.io/trace3/jobs/8069179",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-16T15:02:32.807037+00:00",
+    "emailed_utc": "2026-07-16T15:02:32.807037+00:00"
+  },
+  {
+    "job_id": "lever:agile-defense:d8d037a7-0d24-405a-b482-3015b0c56e1b",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "agile-defense",
+    "title": "Web Foundry Developer",
+    "location": "Redstone Arsenal, AL",
+    "posted": "2026-07-16 14:09 UTC",
+    "url": "https://jobs.lever.co/agile-defense/d8d037a7-0d24-405a-b482-3015b0c56e1b",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-16T15:02:32.807037+00:00",
+    "emailed_utc": "2026-07-16T15:02:32.807037+00:00"
+  },
+  {
+    "job_id": "lever:anchorage:98bd780d-b800-480b-9ca7-b7aca6757445",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "anchorage",
+    "title": "Member of Technical Staff, Transparency, Billing & Revenue (Backend Engineer)",
+    "location": "United States",
+    "posted": "2026-07-16 14:33 UTC",
+    "url": "https://jobs.lever.co/anchorage/98bd780d-b800-480b-9ca7-b7aca6757445",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-16T15:02:32.807037+00:00",
+    "emailed_utc": "2026-07-16T15:02:32.807037+00:00"
+  },
+  {
+    "job_id": "lever:canvasww:8f22570a-04bc-49a5-ac51-3b07cc287d0d",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "canvasww",
+    "title": "Associate Director, Data Analytics",
+    "location": "New York, NY",
+    "posted": "2026-07-16 14:32 UTC",
+    "url": "https://jobs.lever.co/canvasww/8f22570a-04bc-49a5-ac51-3b07cc287d0d",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-16T15:02:32.807037+00:00",
+    "emailed_utc": "2026-07-16T15:02:32.807037+00:00"
   }
 ]
