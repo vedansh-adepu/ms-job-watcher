@@ -2429,5 +2429,18 @@
     "bucket": "yes",
     "first_seen_utc": "2026-07-16T02:01:25.311266+00:00",
     "emailed_utc": "2026-07-16T02:01:25.311266+00:00"
+  },
+  {
+    "job_id": "amazon:5783acab-a740-4acc-b76b-1c12faf2ab19",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Sr. Applied Scientist, AWS Automated Reasoning",
+    "location": "US, WA, Seattle",
+    "posted": "July 16, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10475957/sr-applied-scientist-aws-automated-reasoning",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-16T03:21:14.724538+00:00",
+    "emailed_utc": "2026-07-16T03:21:14.724538+00:00"
   }
 ]
