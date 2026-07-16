@@ -25738,5 +25738,44 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-16T17:31:56.717595+00:00",
     "emailed_utc": "2026-07-16T17:31:56.717595+00:00"
+  },
+  {
+    "job_id": "ashby:parafin:b6fbdb8d-aa25-4216-a0bb-9af06607bd96",
+    "pipeline": "boards",
+    "platform": "ashby",
+    "company": "Parafin",
+    "title": "Data Analytics Engineer",
+    "location": "San Francisco, CA",
+    "posted": "",
+    "url": "https://jobs.ashbyhq.com/parafin/b6fbdb8d-aa25-4216-a0bb-9af06607bd96",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-16T18:01:14.537103+00:00",
+    "emailed_utc": "2026-07-16T18:01:14.537103+00:00"
+  },
+  {
+    "job_id": "ashby:formenergy:390a8fc3-a010-40d0-9c5d-1e1c4704046c",
+    "pipeline": "boards",
+    "platform": "ashby",
+    "company": "Form Energy",
+    "title": "Mechanical Engineer II, Hydrogen System",
+    "location": "Berkeley, CA",
+    "posted": "",
+    "url": "https://jobs.ashbyhq.com/formenergy/390a8fc3-a010-40d0-9c5d-1e1c4704046c",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-16T18:01:14.537103+00:00",
+    "emailed_utc": "2026-07-16T18:01:14.537103+00:00"
+  },
+  {
+    "job_id": "lever:whoop:9a0d5e18-2b58-43db-9ed0-43448f25f9e8",
+    "pipeline": "boards",
+    "platform": "lever",
+    "company": "Whoop",
+    "title": "Senior Software Engineer (Manufacturing Platform)",
+    "location": "Boston, MA",
+    "posted": "2026-07-16 17:50 UTC",
+    "url": "https://jobs.lever.co/whoop/9a0d5e18-2b58-43db-9ed0-43448f25f9e8",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-16T18:01:14.537103+00:00",
+    "emailed_utc": "2026-07-16T18:01:14.537103+00:00"
   }
 ]
