@@ -2689,5 +2689,44 @@
     "bucket": "yes",
     "first_seen_utc": "2026-07-16T23:01:15.110871+00:00",
     "emailed_utc": "2026-07-16T23:01:15.110871+00:00"
+  },
+  {
+    "job_id": "microsoft:1970393556938201",
+    "pipeline": "main",
+    "platform": "microsoft",
+    "company": "Microsoft",
+    "title": "Silicon Engineer",
+    "location": "Raleigh, NC, US",
+    "posted": "2026-07-16 23:08 UTC",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556938201",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-16T23:31:09.371282+00:00",
+    "emailed_utc": "2026-07-16T23:31:09.371282+00:00"
+  },
+  {
+    "job_id": "amazon:c7d79cee-4f49-458c-8711-4c1a85bc0952",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Senior Software Development Engineer, Outposts",
+    "location": "US, VA, Arlington",
+    "posted": "July 16, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10476931/senior-software-development-engineer-outposts",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-16T23:31:09.371282+00:00",
+    "emailed_utc": "2026-07-16T23:31:09.371282+00:00"
+  },
+  {
+    "job_id": "amazon:1d967d03-8d87-4363-95b7-f0e5e86e61f6",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Dev Engineer, AWS Resilience Hub",
+    "location": "US, OR, Portland",
+    "posted": "July 16, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10476932/software-dev-engineer-aws-resilience-hub",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-16T23:31:09.371282+00:00",
+    "emailed_utc": "2026-07-16T23:31:09.371282+00:00"
   }
 ]
