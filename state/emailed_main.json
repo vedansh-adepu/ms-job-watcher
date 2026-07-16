@@ -2416,5 +2416,18 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-16T00:51:14.599318+00:00",
     "emailed_utc": "2026-07-16T00:51:14.599318+00:00"
+  },
+  {
+    "job_id": "amazon:d0d26230-6e56-4757-b0fa-2e3c7fa0c71c",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Applied Scientist, Fauna",
+    "location": "US, CA, Sunnyvale",
+    "posted": "July 16, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10475944/applied-scientist-fauna",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-16T02:01:25.311266+00:00",
+    "emailed_utc": "2026-07-16T02:01:25.311266+00:00"
   }
 ]

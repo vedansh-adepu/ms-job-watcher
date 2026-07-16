@@ -12192,5 +12192,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-16T01:31:22.617711+00:00",
     "emailed_utc": "2026-07-16T01:31:22.617711+00:00"
+  },
+  {
+    "job_id": "greenhouse:kodiak:4320932009",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "kodiak",
+    "title": "Software Engineer, UI Tools Infrastructure",
+    "location": "Mountain View, CA",
+    "posted": "2026-07-15T21:40:49-04:00",
+    "url": "https://job-boards.greenhouse.io/kodiak/jobs/4320932009",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-16T02:01:35.164432+00:00",
+    "emailed_utc": "2026-07-16T02:01:35.164432+00:00"
+  },
+  {
+    "job_id": "greenhouse:syskahennessy:7518005",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "syskahennessy",
+    "title": "Electrical Engineer IV - Senior Electrical Engineer",
+    "location": "Atlanta, GA",
+    "posted": "2026-07-15T20:24:32-04:00",
+    "url": "https://job-boards.greenhouse.io/syskahennessy/jobs/7518005",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-16T02:01:35.164432+00:00",
+    "emailed_utc": "2026-07-16T02:01:35.164432+00:00"
   }
 ]
