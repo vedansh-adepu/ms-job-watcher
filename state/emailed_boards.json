@@ -24191,5 +24191,18 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-16T11:03:02.722651+00:00",
     "emailed_utc": "2026-07-16T11:03:02.722651+00:00"
+  },
+  {
+    "job_id": "workday:gdit:External_Career_Site:req:RQ224474",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "General Dynamics Information Technology (GDIT)",
+    "title": "Sr. Electrical Engineer",
+    "location": "USA CA Port Hueneme",
+    "posted": "Posted Today",
+    "url": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-CA-Port-Hueneme/Sr-Electrical-Engineer_RQ224474-1",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-16T11:12:49.799755+00:00",
+    "emailed_utc": "2026-07-16T11:12:49.799755+00:00"
   }
 ]
