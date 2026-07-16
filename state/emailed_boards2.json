@@ -13024,5 +13024,57 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-16T19:01:12.538287+00:00",
     "emailed_utc": "2026-07-16T19:01:12.538287+00:00"
+  },
+  {
+    "job_id": "greenhouse:defenseunicorns:5101183007",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "defenseunicorns",
+    "title": "Software Engineer",
+    "location": "United States - Remote",
+    "posted": "2026-07-16T14:17:29-04:00",
+    "url": "https://job-boards.greenhouse.io/defenseunicorns/jobs/5101183007",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-16T19:31:45.402316+00:00",
+    "emailed_utc": "2026-07-16T19:31:45.402316+00:00"
+  },
+  {
+    "job_id": "greenhouse:aevexaerospace:5236455008",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "aevexaerospace",
+    "title": "LN System Developer/Architect",
+    "location": "United States",
+    "posted": "2026-07-16T14:20:41-04:00",
+    "url": "https://job-boards.greenhouse.io/aevexaerospace/jobs/5236455008",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-16T19:31:45.402316+00:00",
+    "emailed_utc": "2026-07-16T19:31:45.402316+00:00"
+  },
+  {
+    "job_id": "greenhouse:chaosindustries:5188944007",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "chaosindustries",
+    "title": "Staff RF Signal Processing Engineer",
+    "location": "Washington, District of Columbia, United States",
+    "posted": "2026-07-16T14:51:30-04:00",
+    "url": "https://job-boards.greenhouse.io/chaosindustries/jobs/5188944007",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-16T19:31:45.402316+00:00",
+    "emailed_utc": "2026-07-16T19:31:45.402316+00:00"
+  },
+  {
+    "job_id": "greenhouse:comptechcomputertechnologies:5361595008",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "comptechcomputertechnologies",
+    "title": "Software Systems Engineer",
+    "location": "US - Remote",
+    "posted": "2026-07-16T13:43:39-04:00",
+    "url": "https://job-boards.greenhouse.io/comptechcomputertechnologies/jobs/5361595008",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-16T19:31:45.402316+00:00",
+    "emailed_utc": "2026-07-16T19:31:45.402316+00:00"
   }
 ]
