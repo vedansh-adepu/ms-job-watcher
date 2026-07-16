@@ -2533,5 +2533,18 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-16T15:51:05.737253+00:00",
     "emailed_utc": "2026-07-16T15:51:05.737253+00:00"
+  },
+  {
+    "job_id": "amazon:d55eefc7-2f7c-4e46-b91e-e274bab23526",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Applied Scientist II, PXT ",
+    "location": "US, NY, New York",
+    "posted": "July 16, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10476417/applied-scientist-ii-pxt",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-16T16:01:07.819203+00:00",
+    "emailed_utc": "2026-07-16T16:01:07.819203+00:00"
   }
 ]
