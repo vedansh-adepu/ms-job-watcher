@@ -2364,5 +2364,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-15T23:51:13.642017+00:00",
     "emailed_utc": "2026-07-15T23:51:13.642017+00:00"
+  },
+  {
+    "job_id": "amazon:19366a35-6615-4192-8b48-26582595344d",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Airspace Management Simulation Applied Scientist, Prime Air Flight Sciences High Fidelity Methods",
+    "location": "US, WA, Seattle",
+    "posted": "July 16, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10475917/airspace-management-simulation-applied-scientist-prime-air-flight-sciences-high-fidelity-methods",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-16T00:11:14.067197+00:00",
+    "emailed_utc": "2026-07-16T00:11:14.067197+00:00"
+  },
+  {
+    "job_id": "amazon:e66433ca-162e-4669-b57d-84f8a5379e20",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer II - Hardware Lifecycle Security, AWS Infrastructure Security - Hardware Security",
+    "location": "US, VA, Herndon",
+    "posted": "July 16, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10475916/software-development-engineer-ii-hardware-lifecycle-security-aws-infrastructure-security-hardware-security",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-16T00:11:14.067197+00:00",
+    "emailed_utc": "2026-07-16T00:11:14.067197+00:00"
   }
 ]
