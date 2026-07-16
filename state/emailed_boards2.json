@@ -12842,5 +12842,44 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-16T17:01:08.590112+00:00",
     "emailed_utc": "2026-07-16T17:01:08.590112+00:00"
+  },
+  {
+    "job_id": "greenhouse:billcom:6116018004",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "billcom",
+    "title": "Staff Data Warehouse Engineer",
+    "location": "Draper, Utah, United States; San Jose, California, United States; United States",
+    "posted": "2026-07-16T12:40:28-04:00",
+    "url": "https://www.bill.com/job?6116018004&gh_jid=6116018004",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-16T17:31:36.730304+00:00",
+    "emailed_utc": "2026-07-16T17:31:36.730304+00:00"
+  },
+  {
+    "job_id": "greenhouse:fictiv:8636873002",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "fictiv",
+    "title": "Design Solution Engineering",
+    "location": "Schaumburg, IL",
+    "posted": "2026-07-16T12:02:05-04:00",
+    "url": "https://job-boards.greenhouse.io/fictiv/jobs/8636873002",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-16T17:31:36.730304+00:00",
+    "emailed_utc": "2026-07-16T17:31:36.730304+00:00"
+  },
+  {
+    "job_id": "greenhouse:heartaerospace:4321592009",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "heartaerospace",
+    "title": "Staff/Principal Mechanical Design Engineer, Flight Mechanisms",
+    "location": "Los Angeles, CA",
+    "posted": "2026-07-16T13:22:15-04:00",
+    "url": "https://job-boards.greenhouse.io/heartaerospace/jobs/4321592009",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-16T17:31:36.730304+00:00",
+    "emailed_utc": "2026-07-16T17:31:36.730304+00:00"
   }
 ]
