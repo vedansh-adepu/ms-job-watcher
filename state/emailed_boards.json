@@ -28000,5 +28000,44 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-16T22:02:13.789933+00:00",
     "emailed_utc": "2026-07-16T22:02:13.789933+00:00"
+  },
+  {
+    "job_id": "greenhouse:ripple:7955235",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Ripple",
+    "title": "Staff Partner Engineer",
+    "location": "New York, NY, United States",
+    "posted": "2026-07-16T16:25:38-04:00",
+    "url": "https://ripple.com/careers/all-jobs/job/7955235?gh_jid=7955235",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-16T22:14:53.224360+00:00",
+    "emailed_utc": "2026-07-16T22:14:53.224360+00:00"
+  },
+  {
+    "job_id": "greenhouse:riotgames:8049807",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Riot Games",
+    "title": "Principal Software Engineer - Developer Connections",
+    "location": "Los Angeles, USA",
+    "posted": "2026-07-16T15:41:36-04:00",
+    "url": "https://www.riotgames.com/en/work-with-us/job/8049807?gh_jid=8049807",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-16T22:14:53.224360+00:00",
+    "emailed_utc": "2026-07-16T22:14:53.224360+00:00"
+  },
+  {
+    "job_id": "greenhouse:talkspace:6118228004",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "TalkSpace",
+    "title": "Senior Software Engineer",
+    "location": "New York, NY (Remote)",
+    "posted": "2026-07-16T17:37:41-04:00",
+    "url": "https://www.talkspace.com/careers/job?gh_jid=6118228004",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-16T22:14:53.224360+00:00",
+    "emailed_utc": "2026-07-16T22:14:53.224360+00:00"
   }
 ]
