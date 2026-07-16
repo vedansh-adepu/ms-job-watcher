@@ -12712,5 +12712,70 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-16T16:01:41.716016+00:00",
     "emailed_utc": "2026-07-16T16:01:41.716016+00:00"
+  },
+  {
+    "job_id": "greenhouse:jrc:4321410009",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "jrc",
+    "title": "Aegis Integration Engineer",
+    "location": "Dahlgren, VA",
+    "posted": "2026-07-16T11:16:24-04:00",
+    "url": "https://job-boards.greenhouse.io/jrc/jobs/4321410009",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-16T16:31:12.011996+00:00",
+    "emailed_utc": "2026-07-16T16:31:12.011996+00:00"
+  },
+  {
+    "job_id": "greenhouse:kodiak:4321392009",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "kodiak",
+    "title": "Hardware Quality Industrialization Engineer",
+    "location": "Mountain View, CA",
+    "posted": "2026-07-16T12:12:39-04:00",
+    "url": "https://job-boards.greenhouse.io/kodiak/jobs/4321392009",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-16T16:31:12.011996+00:00",
+    "emailed_utc": "2026-07-16T16:31:12.011996+00:00"
+  },
+  {
+    "job_id": "greenhouse:smxtech:7806890003",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "smxtech",
+    "title": "Computer Systems Engineer/Architect Senior (5452) (TS/SCI CI Poly) (Ft. Bragg, NC)",
+    "location": "Fort Bragg, NC",
+    "posted": "2026-07-16T11:23:07-04:00",
+    "url": "https://www.smxtech.com/careers/?gh_jid=7806890003",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-16T16:31:12.011996+00:00",
+    "emailed_utc": "2026-07-16T16:31:12.011996+00:00"
+  },
+  {
+    "job_id": "greenhouse:tebra:4713726005",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "tebra",
+    "title": "Principal Engineer ",
+    "location": "United States - Remote",
+    "posted": "2026-07-16T11:48:45-04:00",
+    "url": "https://job-boards.greenhouse.io/tebra/jobs/4713726005",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-16T16:31:12.011996+00:00",
+    "emailed_utc": "2026-07-16T16:31:12.011996+00:00"
+  },
+  {
+    "job_id": "greenhouse:tebra:4713705005",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "tebra",
+    "title": "Sr. Manager, Software Engineering ",
+    "location": "United States - Remote",
+    "posted": "2026-07-16T11:48:33-04:00",
+    "url": "https://job-boards.greenhouse.io/tebra/jobs/4713705005",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-16T16:31:12.011996+00:00",
+    "emailed_utc": "2026-07-16T16:31:12.011996+00:00"
   }
 ]

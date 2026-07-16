@@ -2546,5 +2546,18 @@
     "bucket": "yes",
     "first_seen_utc": "2026-07-16T16:01:07.819203+00:00",
     "emailed_utc": "2026-07-16T16:01:07.819203+00:00"
+  },
+  {
+    "job_id": "amazon:d51a6c9b-8922-459c-8d55-e9bea3794578",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Dev Engineer II, Aurora Storage",
+    "location": "US, WA, Redmond",
+    "posted": "July 16, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10476454/software-dev-engineer-ii-aurora-storage",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-16T16:31:09.996277+00:00",
+    "emailed_utc": "2026-07-16T16:31:09.996277+00:00"
   }
 ]
