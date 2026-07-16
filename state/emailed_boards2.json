@@ -12244,5 +12244,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-16T03:31:25.285977+00:00",
     "emailed_utc": "2026-07-16T03:31:25.285977+00:00"
+  },
+  {
+    "job_id": "greenhouse:oura:4287386009",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "oura",
+    "title": "Full Stack Software Engineer",
+    "location": "Hybrid - San Francisco, California; Remote - United States",
+    "posted": "2026-07-15T22:20:49-04:00",
+    "url": "https://job-boards.greenhouse.io/oura/jobs/4287386009",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-16T03:52:21.898052+00:00",
+    "emailed_utc": "2026-07-16T03:52:21.898052+00:00"
+  },
+  {
+    "job_id": "greenhouse:roblox:8047877",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "roblox",
+    "title": "Senior Machine Learning Engineering Manager",
+    "location": "San Mateo, CA, United States",
+    "posted": "2026-07-15T22:50:02-04:00",
+    "url": "https://careers.roblox.com/jobs/8047877?gh_jid=8047877",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-16T03:52:21.898052+00:00",
+    "emailed_utc": "2026-07-16T03:52:21.898052+00:00"
   }
 ]
