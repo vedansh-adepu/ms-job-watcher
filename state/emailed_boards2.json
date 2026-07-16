@@ -12335,5 +12335,70 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-16T06:03:23.352488+00:00",
     "emailed_utc": "2026-07-16T06:03:23.352488+00:00"
+  },
+  {
+    "job_id": "greenhouse:urbancompass:8068777",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "urbancompass",
+    "title": " Engineering Manager",
+    "location": "Aventura, Florida, United States",
+    "posted": "2026-07-16T02:53:23-04:00",
+    "url": "https://www.compass.com/careers?gh_jid=8068777",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-16T08:02:30.027307+00:00",
+    "emailed_utc": "2026-07-16T08:02:30.027307+00:00"
+  },
+  {
+    "job_id": "greenhouse:urbancompass:8042462",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "urbancompass",
+    "title": "Engineering Manager",
+    "location": "Boston, Massachusetts, United States",
+    "posted": "2026-07-16T02:53:41-04:00",
+    "url": "https://www.compass.com/careers?gh_jid=8042462",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-16T08:02:30.027307+00:00",
+    "emailed_utc": "2026-07-16T08:02:30.027307+00:00"
+  },
+  {
+    "job_id": "greenhouse:urbancompass:8068783",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "urbancompass",
+    "title": "Senior Security Engineer II",
+    "location": "Boston, Massachusetts, United States",
+    "posted": "2026-07-16T02:41:37-04:00",
+    "url": "https://www.compass.com/careers?gh_jid=8068783",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-16T08:02:30.027307+00:00",
+    "emailed_utc": "2026-07-16T08:02:30.027307+00:00"
+  },
+  {
+    "job_id": "greenhouse:urbancompass:8068788",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "urbancompass",
+    "title": "Senior Security Engineer II",
+    "location": "Aventura, Florida, United States",
+    "posted": "2026-07-16T02:50:45-04:00",
+    "url": "https://www.compass.com/careers?gh_jid=8068788",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-16T08:02:30.027307+00:00",
+    "emailed_utc": "2026-07-16T08:02:30.027307+00:00"
+  },
+  {
+    "job_id": "greenhouse:urbancompass:8068785",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "urbancompass",
+    "title": "Senior Security Engineer II",
+    "location": "Seattle, Washington, United States",
+    "posted": "2026-07-16T02:49:04-04:00",
+    "url": "https://www.compass.com/careers?gh_jid=8068785",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-16T08:02:30.027307+00:00",
+    "emailed_utc": "2026-07-16T08:02:30.027307+00:00"
   }
 ]
