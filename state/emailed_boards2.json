@@ -12777,5 +12777,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-16T16:31:12.011996+00:00",
     "emailed_utc": "2026-07-16T16:31:12.011996+00:00"
+  },
+  {
+    "job_id": "lever:charmindustrial:c5c2b83f-9034-4f58-acb6-eaae06687d95",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "charmindustrial",
+    "title": "Senior Mechanical Engineer (Pyrolysis)",
+    "location": "Fort Lupton, CO",
+    "posted": "2026-07-16 15:49 UTC",
+    "url": "https://jobs.lever.co/charmindustrial/c5c2b83f-9034-4f58-acb6-eaae06687d95",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-16T16:53:39.578327+00:00",
+    "emailed_utc": "2026-07-16T16:53:39.578327+00:00"
+  },
+  {
+    "job_id": "lever:miteksystems-2:734cb630-ba65-4480-b978-3ca4cc9e26aa",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "miteksystems-2",
+    "title": "Sr. Software Engineer - Data Platform",
+    "location": "United States",
+    "posted": "2026-07-16 15:36 UTC",
+    "url": "https://jobs.lever.co/miteksystems-2/734cb630-ba65-4480-b978-3ca4cc9e26aa",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-16T16:53:39.578327+00:00",
+    "emailed_utc": "2026-07-16T16:53:39.578327+00:00"
   }
 ]
