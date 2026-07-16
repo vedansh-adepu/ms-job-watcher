@@ -13804,5 +13804,57 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-16T21:32:01.292472+00:00",
     "emailed_utc": "2026-07-16T21:32:01.292472+00:00"
+  },
+  {
+    "job_id": "lever:cin7:b5aa0e4d-339e-49b9-9420-2e1084b0b213",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "cin7",
+    "title": "Software Engineer",
+    "location": "Ahmedabad, IN",
+    "posted": "2026-07-16 20:26 UTC",
+    "url": "https://jobs.lever.co/cin7/b5aa0e4d-339e-49b9-9420-2e1084b0b213",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-16T22:02:06.321210+00:00",
+    "emailed_utc": "2026-07-16T22:02:06.321210+00:00"
+  },
+  {
+    "job_id": "greenhouse:valaratomics:4322193009",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "valaratomics",
+    "title": "Senior Systems Engineer",
+    "location": "Torrance, CA",
+    "posted": "2026-07-16T17:17:17-04:00",
+    "url": "https://job-boards.greenhouse.io/valaratomics/jobs/4322193009",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-16T22:02:06.321210+00:00",
+    "emailed_utc": "2026-07-16T22:02:06.321210+00:00"
+  },
+  {
+    "job_id": "greenhouse:xai:5189147007",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "xai",
+    "title": "Power Systems Engineer (Data Center Infrastructure)",
+    "location": "Memphis, TN; Southaven, MS",
+    "posted": "2026-07-16T16:24:44-04:00",
+    "url": "https://job-boards.greenhouse.io/xai/jobs/5189147007",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-16T22:02:06.321210+00:00",
+    "emailed_utc": "2026-07-16T22:02:06.321210+00:00"
+  },
+  {
+    "job_id": "lever:finquery:0e5629d5-c420-445f-8715-b18a2dccd333",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "finquery",
+    "title": "Senior Software Architect",
+    "location": "Atlanta, GA",
+    "posted": "2026-07-16 21:55 UTC",
+    "url": "https://jobs.lever.co/finquery/0e5629d5-c420-445f-8715-b18a2dccd333",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-16T22:02:06.321210+00:00",
+    "emailed_utc": "2026-07-16T22:02:06.321210+00:00"
   }
 ]
