@@ -13999,5 +13999,57 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-16T22:38:09.852587+00:00",
     "emailed_utc": "2026-07-16T22:38:09.852587+00:00"
+  },
+  {
+    "job_id": "greenhouse:lpc:5189302007",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "lpc",
+    "title": "Building Engineer",
+    "location": "Washington, DC",
+    "posted": "2026-07-16T18:54:29-04:00",
+    "url": "https://job-boards.greenhouse.io/lpc/jobs/5189302007",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-16T23:02:08.352047+00:00",
+    "emailed_utc": "2026-07-16T23:02:08.352047+00:00"
+  },
+  {
+    "job_id": "greenhouse:lpc:5189228007",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "lpc",
+    "title": "Building Engineer",
+    "location": "Charlotte, NC",
+    "posted": "2026-07-16T17:43:30-04:00",
+    "url": "https://job-boards.greenhouse.io/lpc/jobs/5189228007",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-16T23:02:08.352047+00:00",
+    "emailed_utc": "2026-07-16T23:02:08.352047+00:00"
+  },
+  {
+    "job_id": "greenhouse:lpc:5189244007",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "lpc",
+    "title": "Building Engineer",
+    "location": "Washington, DC",
+    "posted": "2026-07-16T18:01:24-04:00",
+    "url": "https://job-boards.greenhouse.io/lpc/jobs/5189244007",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-16T23:02:08.352047+00:00",
+    "emailed_utc": "2026-07-16T23:02:08.352047+00:00"
+  },
+  {
+    "job_id": "greenhouse:lpc:5189268007",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "lpc",
+    "title": "Building Engineer",
+    "location": "Washington, DC",
+    "posted": "2026-07-16T18:41:51-04:00",
+    "url": "https://job-boards.greenhouse.io/lpc/jobs/5189268007",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-16T23:02:08.352047+00:00",
+    "emailed_utc": "2026-07-16T23:02:08.352047+00:00"
   }
 ]
