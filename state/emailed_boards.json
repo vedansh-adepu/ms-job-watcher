@@ -28676,5 +28676,31 @@
     "bucket": "yes",
     "first_seen_utc": "2026-07-17T04:31:01.415695+00:00",
     "emailed_utc": "2026-07-17T04:31:01.415695+00:00"
+  },
+  {
+    "job_id": "greenhouse:airbnb:8070597",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Airbnb",
+    "title": "Software Engineer, Tax Experience, BizTech",
+    "location": "United States",
+    "posted": "2026-07-17T00:01:49-04:00",
+    "url": "https://careers.airbnb.com/positions/8070597?gh_jid=8070597",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-17T05:02:54.354062+00:00",
+    "emailed_utc": "2026-07-17T05:02:54.354062+00:00"
+  },
+  {
+    "job_id": "workday:bah:BAH_Jobs:req:R0244661",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Booz Allen Hamilton",
+    "title": "Civil & Industrial Engineer Expert",
+    "location": "Reston, VA",
+    "posted": "Posted Today",
+    "url": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Reston-VA/Civil---Industrial-Engineer-Expert_R0244661",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-17T05:02:54.354062+00:00",
+    "emailed_utc": "2026-07-17T05:02:54.354062+00:00"
   }
 ]
