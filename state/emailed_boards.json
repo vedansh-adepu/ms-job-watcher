@@ -30574,5 +30574,44 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-17T20:02:34.917990+00:00",
     "emailed_utc": "2026-07-17T20:02:34.917990+00:00"
+  },
+  {
+    "job_id": "greenhouse:voyagertechnologiesinc:4321604009",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "voyagertechnologiesinc",
+    "title": "Systems Engineer III - Project Engineer ",
+    "location": "Folsom, CA or Reno, NV or Remote",
+    "posted": "2026-07-17T16:16:32-04:00",
+    "url": "https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4321604009",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-17T20:32:30.508075+00:00",
+    "emailed_utc": "2026-07-17T20:32:30.508075+00:00"
+  },
+  {
+    "job_id": "smartrecruiters:Versant3:744000138393309",
+    "pipeline": "boards",
+    "platform": "smartrecruiters",
+    "company": "Versant",
+    "title": "Principal Data Engineer",
+    "location": "New York, NY, us",
+    "posted": "2026-07-17T18:44:27.024Z",
+    "url": "https://jobs.smartrecruiters.com/Versant3",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-17T20:32:30.508075+00:00",
+    "emailed_utc": "2026-07-17T20:32:30.508075+00:00"
+  },
+  {
+    "job_id": "ashby:clickup:9aba559e-2379-46fc-9d14-8813ae3b3f0f",
+    "pipeline": "boards",
+    "platform": "ashby",
+    "company": "Clickup",
+    "title": "Strategic Solutions Engineer (Seattle, WA)",
+    "location": "United States",
+    "posted": "",
+    "url": "https://jobs.ashbyhq.com/clickup/9aba559e-2379-46fc-9d14-8813ae3b3f0f",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-17T20:32:30.508075+00:00",
+    "emailed_utc": "2026-07-17T20:32:30.508075+00:00"
   }
 ]
