@@ -29794,5 +29794,44 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-17T16:35:35.768969+00:00",
     "emailed_utc": "2026-07-17T16:35:35.768969+00:00"
+  },
+  {
+    "job_id": "greenhouse:spacex:8638457002",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "SpaceX",
+    "title": "Full Stack Software Engineer, Observability (Starlink)",
+    "location": "Hawthorne, CA",
+    "posted": "2026-07-17T11:13:57-04:00",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8638457002?gh_jid=8638457002",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-17T17:02:45.684297+00:00",
+    "emailed_utc": "2026-07-17T17:02:45.684297+00:00"
+  },
+  {
+    "job_id": "smartrecruiters:SanDisk:744000138368175",
+    "pipeline": "boards",
+    "platform": "smartrecruiters",
+    "company": "SanDisk",
+    "title": "Verification CAD Engineer",
+    "location": "Milpitas, CA, us",
+    "posted": "2026-07-17T15:47:31.602Z",
+    "url": "https://jobs.smartrecruiters.com/SanDisk",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-17T17:02:45.684297+00:00",
+    "emailed_utc": "2026-07-17T17:02:45.684297+00:00"
+  },
+  {
+    "job_id": "workday:target:targetcareers:req:R0000444792",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Target",
+    "title": "Senior AI\u00a0Engineer \u2013\u00a0Apply\u00a0For\u00a0CircleCard\u00a0",
+    "location": "7000 Target Pkwy N,NCD-0375 Brooklyn Park,MN 55445",
+    "posted": "Posted Today",
+    "url": "https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/7000-Target-Pkwy-NNCD-0375-Brooklyn-ParkMN-55445/Senior-AI-Engineer---Apply-For-CircleCard-_R0000444792",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-17T17:02:45.684297+00:00",
+    "emailed_utc": "2026-07-17T17:02:45.684297+00:00"
   }
 ]
