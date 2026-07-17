@@ -15000,5 +15000,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-17T17:02:34.060614+00:00",
     "emailed_utc": "2026-07-17T17:02:34.060614+00:00"
+  },
+  {
+    "job_id": "lever:wellfit:ee1d84de-6aac-4bbd-9b3e-f9c7110c3393",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "wellfit",
+    "title": "Associate AI Engineer",
+    "location": "Irving, TX",
+    "posted": "2026-06-22 18:30 UTC",
+    "url": "https://jobs.lever.co/wellfit/ee1d84de-6aac-4bbd-9b3e-f9c7110c3393",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-17T17:31:07.734098+00:00",
+    "emailed_utc": "2026-07-17T17:31:07.734098+00:00"
+  },
+  {
+    "job_id": "lever:wellfit:5d6ce064-ae8b-4e60-9966-10382468d7b8",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "wellfit",
+    "title": "Senior Data & AI/ML Engineer",
+    "location": "Irving, TX",
+    "posted": "2026-06-22 18:36 UTC",
+    "url": "https://jobs.lever.co/wellfit/5d6ce064-ae8b-4e60-9966-10382468d7b8",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-17T17:31:07.734098+00:00",
+    "emailed_utc": "2026-07-17T17:31:07.734098+00:00"
   }
 ]
