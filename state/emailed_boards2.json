@@ -15767,5 +15767,70 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-17T20:01:42.869010+00:00",
     "emailed_utc": "2026-07-17T20:01:42.869010+00:00"
+  },
+  {
+    "job_id": "lever:revealtech:0f23d22e-6143-4ee4-b050-4fe73279b837",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "revealtech",
+    "title": "Full Stack Engineer (Go/Rust)",
+    "location": "Remote, USA",
+    "posted": "2026-07-17 20:31 UTC",
+    "url": "https://jobs.lever.co/revealtech/0f23d22e-6143-4ee4-b050-4fe73279b837",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-17T20:32:28.751653+00:00",
+    "emailed_utc": "2026-07-17T20:32:28.751653+00:00"
+  },
+  {
+    "job_id": "lever:thinkahead:b044c4f0-4509-425f-8581-58070ded2379",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "thinkahead",
+    "title": "Software Engineer",
+    "location": "United States",
+    "posted": "2026-07-17 18:55 UTC",
+    "url": "https://jobs.lever.co/thinkahead/b044c4f0-4509-425f-8581-58070ded2379",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-17T20:32:28.751653+00:00",
+    "emailed_utc": "2026-07-17T20:32:28.751653+00:00"
+  },
+  {
+    "job_id": "greenhouse:vast:4697421006",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "vast",
+    "title": "Manufacturing Engineer, Mechanical Subassemblies",
+    "location": "Long Beach, California, United States",
+    "posted": "2026-07-17T15:05:15-04:00",
+    "url": "https://boards.greenhouse.io/vast/jobs/4697421006?gh_jid=4697421006",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-17T20:32:28.751653+00:00",
+    "emailed_utc": "2026-07-17T20:32:28.751653+00:00"
+  },
+  {
+    "job_id": "greenhouse:yoodliinc:4323253009",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "yoodliinc",
+    "title": "Associate Solutions Engineer",
+    "location": "Seattle, WA",
+    "posted": "2026-07-17T16:01:31-04:00",
+    "url": "https://job-boards.greenhouse.io/yoodliinc/jobs/4323253009",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-17T20:32:28.751653+00:00",
+    "emailed_utc": "2026-07-17T20:32:28.751653+00:00"
+  },
+  {
+    "job_id": "lever:life:43263260-7dd8-4e47-85c1-0cc609f8d298",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "life",
+    "title": "Director of Engineering",
+    "location": "Edmond, OK",
+    "posted": "2026-03-26 18:50 UTC",
+    "url": "https://jobs.lever.co/life/43263260-7dd8-4e47-85c1-0cc609f8d298",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-17T20:32:28.751653+00:00",
+    "emailed_utc": "2026-07-17T20:32:28.751653+00:00"
   }
 ]
