@@ -28559,5 +28559,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-17T01:02:33.853709+00:00",
     "emailed_utc": "2026-07-17T01:02:33.853709+00:00"
+  },
+  {
+    "job_id": "greenhouse:andurilindustries:5189387007",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "andurilindustries",
+    "title": "Algorithm Developer, Battlespace Awareness",
+    "location": "Broomfield, Colorado, United States; Fort Collins, Colorado, United States",
+    "posted": "2026-07-16T21:57:06-04:00",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5189387007?gh_jid=5189387007",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-17T02:32:50.762451+00:00",
+    "emailed_utc": "2026-07-17T02:32:50.762451+00:00"
+  },
+  {
+    "job_id": "workday:blueorigin:BlueOrigin:req:R67426",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Blue Origin",
+    "title": "Instrumentation and Controls Engineer III",
+    "location": "Van Horn, TX",
+    "posted": "Posted Today",
+    "url": "https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Van-Horn-TX/Instrumentation-and-Controls-Engineer-III_R67426",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-17T02:32:50.762451+00:00",
+    "emailed_utc": "2026-07-17T02:32:50.762451+00:00"
   }
 ]
