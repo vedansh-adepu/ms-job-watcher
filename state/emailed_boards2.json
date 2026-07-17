@@ -14233,5 +14233,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-17T01:01:23.135267+00:00",
     "emailed_utc": "2026-07-17T01:01:23.135267+00:00"
+  },
+  {
+    "job_id": "greenhouse:urbancompass:8070752",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "urbancompass",
+    "title": "Software Engineer II",
+    "location": "Aventura, Florida, United States",
+    "posted": "2026-07-16T19:32:15-04:00",
+    "url": "https://www.compass.com/careers?gh_jid=8070752",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-17T01:31:38.341016+00:00",
+    "emailed_utc": "2026-07-17T01:31:38.341016+00:00"
+  },
+  {
+    "job_id": "greenhouse:waymo:8049986",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "waymo",
+    "title": "Senior ML Compiler Engineer, Compute",
+    "location": "Mountain View, CA, US; New York, NY, US",
+    "posted": "2026-07-16T20:15:51-04:00",
+    "url": "https://careers.withwaymo.com/jobs?gh_jid=8049986",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-17T01:31:38.341016+00:00",
+    "emailed_utc": "2026-07-17T01:31:38.341016+00:00"
   }
 ]
