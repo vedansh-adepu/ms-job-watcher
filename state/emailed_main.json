@@ -3105,5 +3105,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-17T20:01:12.550001+00:00",
     "emailed_utc": "2026-07-17T20:01:12.550001+00:00"
+  },
+  {
+    "job_id": "amazon:13177676-bc8b-4ebd-be9e-69d02053d23b",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, Creator Marketplace",
+    "location": "US, CA, Culver City",
+    "posted": "July 17, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10477916/software-development-engineer-creator-marketplace",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-17T21:01:21.360425+00:00",
+    "emailed_utc": "2026-07-17T21:01:21.360425+00:00"
+  },
+  {
+    "job_id": "amazon:8ff50e43-c2c4-44d0-8448-9aa31e517441",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Manager, Alexa Shopping-Core",
+    "location": "US, WA, Seattle",
+    "posted": "July  8, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10469506/software-development-manager-alexa-shopping-core",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-17T21:01:21.360425+00:00",
+    "emailed_utc": "2026-07-17T21:01:21.360425+00:00"
   }
 ]
