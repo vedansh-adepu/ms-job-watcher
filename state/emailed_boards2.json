@@ -16131,5 +16131,57 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-17T22:02:15.261928+00:00",
     "emailed_utc": "2026-07-17T22:02:15.261928+00:00"
+  },
+  {
+    "job_id": "greenhouse:venncity:4716429005",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "venncity",
+    "title": "Forward Deployed Engineer",
+    "location": "Remote U.S.",
+    "posted": "2026-07-17T17:13:18-04:00",
+    "url": "https://job-boards.greenhouse.io/venncity/jobs/4716429005",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-17T22:31:47.740337+00:00",
+    "emailed_utc": "2026-07-17T22:31:47.740337+00:00"
+  },
+  {
+    "job_id": "lever:cogentanalytics:f53d1c4f-62f2-42d7-b8c2-5c63083bbc22",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "cogentanalytics",
+    "title": "Civil Engineer",
+    "location": "Zionsville, IN",
+    "posted": "2026-07-17 20:43 UTC",
+    "url": "https://jobs.lever.co/cogentanalytics/f53d1c4f-62f2-42d7-b8c2-5c63083bbc22",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-17T22:31:47.740337+00:00",
+    "emailed_utc": "2026-07-17T22:31:47.740337+00:00"
+  },
+  {
+    "job_id": "lever:kpaonline:26f00388-7974-4b89-b4a0-d77677ba0bfb",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "kpaonline",
+    "title": "Senior Cloud & Security Engineer",
+    "location": "Lafayette, CO",
+    "posted": "2026-07-17 20:52 UTC",
+    "url": "https://jobs.lever.co/kpaonline/26f00388-7974-4b89-b4a0-d77677ba0bfb",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-17T22:31:47.740337+00:00",
+    "emailed_utc": "2026-07-17T22:31:47.740337+00:00"
+  },
+  {
+    "job_id": "lever:luxurypresence:a67ee678-19d6-4256-99be-6547235db23c",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "luxurypresence",
+    "title": "Engineering Manager, Maps & Search - US (Remote)",
+    "location": "United States",
+    "posted": "2026-07-17 21:12 UTC",
+    "url": "https://jobs.lever.co/luxurypresence/a67ee678-19d6-4256-99be-6547235db23c",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-17T22:31:47.740337+00:00",
+    "emailed_utc": "2026-07-17T22:31:47.740337+00:00"
   }
 ]
