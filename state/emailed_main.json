@@ -2793,5 +2793,44 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-17T02:01:14.567893+00:00",
     "emailed_utc": "2026-07-17T02:01:14.567893+00:00"
+  },
+  {
+    "job_id": "amazon:0259b08a-92e3-4b9f-889e-253ebcf6d017",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Sr Software Development Manager, Amazon Optics",
+    "location": "US, VA, Herndon",
+    "posted": "July 17, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10477127/sr-software-development-manager-amazon-optics",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-17T02:31:00.097109+00:00",
+    "emailed_utc": "2026-07-17T02:31:00.097109+00:00"
+  },
+  {
+    "job_id": "amazon:f9740766-023b-4258-b8d3-1a1c43672af4",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, Security Software Development Operations (SSDO)",
+    "location": "US, WA, Seattle",
+    "posted": "July 17, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10477126/software-development-engineer-security-software-development-operations-ssdo",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-17T02:31:00.097109+00:00",
+    "emailed_utc": "2026-07-17T02:31:00.097109+00:00"
+  },
+  {
+    "job_id": "amazon:3c683729-1399-4974-9c8e-0b9fdd3d056e",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Security Software Dev Engineer II, AWS Security Corporate Response",
+    "location": "US, WA, Seattle",
+    "posted": "July 17, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10477129/security-software-dev-engineer-ii-aws-security-corporate-response",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-17T02:31:00.097109+00:00",
+    "emailed_utc": "2026-07-17T02:31:00.097109+00:00"
   }
 ]
