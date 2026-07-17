@@ -14285,5 +14285,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-17T02:31:18.030716+00:00",
     "emailed_utc": "2026-07-17T02:31:18.030716+00:00"
+  },
+  {
+    "job_id": "greenhouse:zone5technologies:5214907008",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "zone5technologies",
+    "title": "Platform Engineer III",
+    "location": "United States",
+    "posted": "2026-07-16T22:03:13-04:00",
+    "url": "https://job-boards.greenhouse.io/zone5technologies/jobs/5214907008",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-17T03:31:51.281308+00:00",
+    "emailed_utc": "2026-07-17T03:31:51.281308+00:00"
+  },
+  {
+    "job_id": "greenhouse:uberfreight:5175847008",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "uberfreight",
+    "title": "Senior Software Engineer - Machine Learning",
+    "location": "Chicago, IL 60607, United States",
+    "posted": "2026-07-16T23:19:53-04:00",
+    "url": "https://job-boards.greenhouse.io/uberfreight/jobs/5175847008",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-17T03:31:51.281308+00:00",
+    "emailed_utc": "2026-07-17T03:31:51.281308+00:00"
   }
 ]
