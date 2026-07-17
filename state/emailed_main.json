@@ -3235,5 +3235,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-17T21:41:06.682176+00:00",
     "emailed_utc": "2026-07-17T21:41:06.682176+00:00"
+  },
+  {
+    "job_id": "amazon:ca12ab6f-9872-4e22-9111-b783db5c5702",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": " Software Development Engineer, AWS OpenSearch",
+    "location": "US, TX, Austin",
+    "posted": "July 17, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10477975/software-development-engineer-aws-opensearch",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-17T21:51:03.459404+00:00",
+    "emailed_utc": "2026-07-17T21:51:03.459404+00:00"
+  },
+  {
+    "job_id": "amazon:0e1d29f0-9a4e-4aca-a720-974089fddb62",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, Transit Gateway",
+    "location": "US, VA, Herndon",
+    "posted": "July 17, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10477977/software-development-engineer-transit-gateway",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-17T21:51:03.459404+00:00",
+    "emailed_utc": "2026-07-17T21:51:03.459404+00:00"
   }
 ]
