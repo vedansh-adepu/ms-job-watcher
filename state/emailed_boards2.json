@@ -15169,5 +15169,70 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-17T18:02:10.746966+00:00",
     "emailed_utc": "2026-07-17T18:02:10.746966+00:00"
+  },
+  {
+    "job_id": "greenhouse:lightmatter:5355226008",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "lightmatter",
+    "title": "Staff Photonics Design Engineer",
+    "location": "Boston, MA; Mountain View, CA; Toronto, ON",
+    "posted": "2026-07-17T13:19:50-04:00",
+    "url": "https://boards.greenhouse.io/lightmatter/jobs/5355226008?gh_jid=5355226008",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-17T18:31:51.766852+00:00",
+    "emailed_utc": "2026-07-17T18:31:51.766852+00:00"
+  },
+  {
+    "job_id": "greenhouse:nerostechnologies:4333061007",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "nerostechnologies",
+    "title": "Mechanical Engineer",
+    "location": "Torrance, California, United States",
+    "posted": "2026-07-17T13:47:00-04:00",
+    "url": "https://job-boards.greenhouse.io/nerostechnologies/jobs/4333061007",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-17T18:31:51.766852+00:00",
+    "emailed_utc": "2026-07-17T18:31:51.766852+00:00"
+  },
+  {
+    "job_id": "greenhouse:seatgeek:8071837",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "seatgeek",
+    "title": "Senior Software Engineer, Finance Engineering ",
+    "location": "Remote - United States",
+    "posted": "2026-07-17T13:14:33-04:00",
+    "url": "https://seatgeek.com/jobs/8071837?gh_jid=8071837",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-17T18:31:51.766852+00:00",
+    "emailed_utc": "2026-07-17T18:31:51.766852+00:00"
+  },
+  {
+    "job_id": "greenhouse:sonatus:5189819007",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "sonatus",
+    "title": "Senior Manager, Engineering - AI Validation",
+    "location": "Sunnyvale, CA",
+    "posted": "2026-07-17T14:18:18-04:00",
+    "url": "https://job-boards.greenhouse.io/sonatus/jobs/5189819007",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-17T18:31:51.766852+00:00",
+    "emailed_utc": "2026-07-17T18:31:51.766852+00:00"
+  },
+  {
+    "job_id": "greenhouse:tines:6118917004",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "tines",
+    "title": "Senior Partner Solutions Engineer, Public Sector",
+    "location": "United States - East (Remote)",
+    "posted": "2026-07-17T12:58:56-04:00",
+    "url": "https://job-boards.greenhouse.io/tines/jobs/6118917004",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-17T18:31:51.766852+00:00",
+    "emailed_utc": "2026-07-17T18:31:51.766852+00:00"
   }
 ]
