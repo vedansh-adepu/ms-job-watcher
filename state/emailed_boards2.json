@@ -14805,5 +14805,83 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-17T16:31:22.987691+00:00",
     "emailed_utc": "2026-07-17T16:31:22.987691+00:00"
+  },
+  {
+    "job_id": "greenhouse:northpointtechnology:8637104002",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "northpointtechnology",
+    "title": "Java Software Engineer / Kubernetes (TS/SCI Clearance Required)",
+    "location": "Herndon, Virginia, United States",
+    "posted": "2026-07-17T12:36:43-04:00",
+    "url": "https://job-boards.greenhouse.io/northpointtechnology/jobs/8637104002",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-17T16:46:24.651916+00:00",
+    "emailed_utc": "2026-07-17T16:46:24.651916+00:00"
+  },
+  {
+    "job_id": "greenhouse:notexternal:8071810",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "notexternal",
+    "title": "Front End Software Development Engineer",
+    "location": "Redmond, WA",
+    "posted": "2026-07-17T11:52:11-04:00",
+    "url": "https://job-boards.greenhouse.io/notexternal/jobs/8071810",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-17T16:46:24.651916+00:00",
+    "emailed_utc": "2026-07-17T16:46:24.651916+00:00"
+  },
+  {
+    "job_id": "greenhouse:lightmatter:5287959008",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "lightmatter",
+    "title": "Senior Laser & SOA Characterization Engineer",
+    "location": "Mountain View, CA",
+    "posted": "2026-07-17T12:02:04-04:00",
+    "url": "https://boards.greenhouse.io/lightmatter/jobs/5287959008?gh_jid=5287959008",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-17T16:46:24.651916+00:00",
+    "emailed_utc": "2026-07-17T16:46:24.651916+00:00"
+  },
+  {
+    "job_id": "greenhouse:lotusworks:4832720101",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "lotusworks",
+    "title": "Mechanical Commissioning Engineer",
+    "location": "Chandler, Arizona, United States",
+    "posted": "2026-07-17T12:18:38-04:00",
+    "url": "https://job-boards.eu.greenhouse.io/lotusworks/jobs/4832720101",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-17T16:46:24.651916+00:00",
+    "emailed_utc": "2026-07-17T16:46:24.651916+00:00"
+  },
+  {
+    "job_id": "greenhouse:patientpoint:4713462005",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "patientpoint",
+    "title": "Sr Data Analyst",
+    "location": "Remote, US",
+    "posted": "2026-07-17T12:23:58-04:00",
+    "url": "https://job-boards.greenhouse.io/patientpoint/jobs/4713462005",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-17T16:46:24.651916+00:00",
+    "emailed_utc": "2026-07-17T16:46:24.651916+00:00"
+  },
+  {
+    "job_id": "greenhouse:primemedicine:6118870004",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "primemedicine",
+    "title": "Senior Scientist / Senior Engineer, LNP Process Development",
+    "location": "Cambridge, MA",
+    "posted": "2026-07-17T12:19:05-04:00",
+    "url": "https://job-boards.greenhouse.io/primemedicine/jobs/6118870004",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-17T16:46:24.651916+00:00",
+    "emailed_utc": "2026-07-17T16:46:24.651916+00:00"
   }
 ]
