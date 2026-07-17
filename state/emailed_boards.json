@@ -29859,5 +29859,70 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-17T17:32:03.854894+00:00",
     "emailed_utc": "2026-07-17T17:32:03.854894+00:00"
+  },
+  {
+    "job_id": "greenhouse:freedomconsulting:5189780007",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Freedomconsulting",
+    "title": "Data Scientist 728",
+    "location": "St. Louis, MO",
+    "posted": "2026-07-17T13:37:35-04:00",
+    "url": "https://job-boards.greenhouse.io/freedomconsulting/jobs/5189780007",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-17T18:01:15.347665+00:00",
+    "emailed_utc": "2026-07-17T18:01:15.347665+00:00"
+  },
+  {
+    "job_id": "greenhouse:freedomconsulting:5189784007",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Freedomconsulting",
+    "title": "Full Stack Developer 729",
+    "location": "St. Louis, MO",
+    "posted": "2026-07-17T13:44:52-04:00",
+    "url": "https://job-boards.greenhouse.io/freedomconsulting/jobs/5189784007",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-17T18:01:15.347665+00:00",
+    "emailed_utc": "2026-07-17T18:01:15.347665+00:00"
+  },
+  {
+    "job_id": "greenhouse:freedomconsulting:5189747007",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Freedomconsulting",
+    "title": "Machine Learning Engineer 727",
+    "location": "St. Louis, MO",
+    "posted": "2026-07-17T13:24:40-04:00",
+    "url": "https://job-boards.greenhouse.io/freedomconsulting/jobs/5189747007",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-17T18:01:15.347665+00:00",
+    "emailed_utc": "2026-07-17T18:01:15.347665+00:00"
+  },
+  {
+    "job_id": "lever:hermeus:89631544-8479-4f4c-b5b1-e423763dd0ee",
+    "pipeline": "boards",
+    "platform": "lever",
+    "company": "Hermeus",
+    "title": "Components Manufacturing Engineer",
+    "location": "Los Angeles, CA",
+    "posted": "2026-07-17 17:51 UTC",
+    "url": "https://jobs.lever.co/hermeus/89631544-8479-4f4c-b5b1-e423763dd0ee",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-17T18:01:15.347665+00:00",
+    "emailed_utc": "2026-07-17T18:01:15.347665+00:00"
+  },
+  {
+    "job_id": "lever:field-ai:ef963639-72d7-4c4f-942b-955f9c5c710d",
+    "pipeline": "boards",
+    "platform": "lever",
+    "company": "Field Ai",
+    "title": "Network Solution Engineer",
+    "location": "Irvine, CA",
+    "posted": "2026-07-17 17:35 UTC",
+    "url": "https://jobs.lever.co/field-ai/ef963639-72d7-4c4f-942b-955f9c5c710d",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-17T18:01:15.347665+00:00",
+    "emailed_utc": "2026-07-17T18:01:15.347665+00:00"
   }
 ]
