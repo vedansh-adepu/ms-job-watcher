@@ -3170,5 +3170,70 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-17T21:11:20.491558+00:00",
     "emailed_utc": "2026-07-17T21:11:20.491558+00:00"
+  },
+  {
+    "job_id": "amazon:1d0bf634-9838-422d-a9bd-02a1cec098ae",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, AWS OpenSearch Service",
+    "location": "US, TX, Austin",
+    "posted": "July 17, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10477971/software-development-engineer-aws-opensearch-service",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-17T21:41:06.682176+00:00",
+    "emailed_utc": "2026-07-17T21:41:06.682176+00:00"
+  },
+  {
+    "job_id": "nvidia:893396422535",
+    "pipeline": "main",
+    "platform": "nvidia",
+    "company": "NVIDIA",
+    "title": "Senior Security Software Engineer - AV Platform",
+    "location": "Santa Clara, CA, US",
+    "posted": "2026-07-17 00:00 UTC",
+    "url": "https://nvidia.eightfold.ai/careers/job/893396422535",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-17T21:41:06.682176+00:00",
+    "emailed_utc": "2026-07-17T21:41:06.682176+00:00"
+  },
+  {
+    "job_id": "nvidia:893396422571",
+    "pipeline": "main",
+    "platform": "nvidia",
+    "company": "NVIDIA",
+    "title": "Senior System Software Engineer - AV Platform",
+    "location": "Santa Clara, CA, US",
+    "posted": "2026-07-17 00:00 UTC",
+    "url": "https://nvidia.eightfold.ai/careers/job/893396422571",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-17T21:41:06.682176+00:00",
+    "emailed_utc": "2026-07-17T21:41:06.682176+00:00"
+  },
+  {
+    "job_id": "nvidia:893396422663",
+    "pipeline": "main",
+    "platform": "nvidia",
+    "company": "NVIDIA",
+    "title": "Principal Software Engineer, Vehicle Dynamics Simulation - AV",
+    "location": "Santa Clara, CA, US",
+    "posted": "2026-07-17 00:00 UTC",
+    "url": "https://nvidia.eightfold.ai/careers/job/893396422663",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-17T21:41:06.682176+00:00",
+    "emailed_utc": "2026-07-17T21:41:06.682176+00:00"
+  },
+  {
+    "job_id": "nvidia:893396422713",
+    "pipeline": "main",
+    "platform": "nvidia",
+    "company": "NVIDIA",
+    "title": "Senior System Software Engineer - AV Platform",
+    "location": "Santa Clara, CA, US",
+    "posted": "2026-07-17 00:00 UTC",
+    "url": "https://nvidia.eightfold.ai/careers/job/893396422713",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-17T21:41:06.682176+00:00",
+    "emailed_utc": "2026-07-17T21:41:06.682176+00:00"
   }
 ]
