@@ -15234,5 +15234,70 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-17T18:31:51.766852+00:00",
     "emailed_utc": "2026-07-17T18:31:51.766852+00:00"
+  },
+  {
+    "job_id": "greenhouse:yoodliinc:4322980009",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "yoodliinc",
+    "title": "Fullstack Software Engineer- Analytics",
+    "location": "Seattle, WA",
+    "posted": "2026-07-17T13:18:38-04:00",
+    "url": "https://job-boards.greenhouse.io/yoodliinc/jobs/4322980009",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-17T19:02:19.457107+00:00",
+    "emailed_utc": "2026-07-17T19:02:19.457107+00:00"
+  },
+  {
+    "job_id": "lever:radformation:c7bd7105-8962-47d3-a35e-248d7ce2df04",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "radformation",
+    "title": "Clinical Data Analyst - Dosimetrist",
+    "location": "Remote US",
+    "posted": "2026-07-16 21:35 UTC",
+    "url": "https://jobs.lever.co/radformation/c7bd7105-8962-47d3-a35e-248d7ce2df04",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-17T19:02:19.457107+00:00",
+    "emailed_utc": "2026-07-17T19:02:19.457107+00:00"
+  },
+  {
+    "job_id": "lever:charmindustrial:95444df7-663a-4ae8-a6b2-ebffc4f8f566",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "charmindustrial",
+    "title": "Mechanical Engineer II (Pyrolysis)",
+    "location": "Fort Lupton, CO",
+    "posted": "2026-07-17 18:56 UTC",
+    "url": "https://jobs.lever.co/charmindustrial/95444df7-663a-4ae8-a6b2-ebffc4f8f566",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-17T19:02:19.457107+00:00",
+    "emailed_utc": "2026-07-17T19:02:19.457107+00:00"
+  },
+  {
+    "job_id": "lever:orcabiosystems:b96d3ba4-1b39-40ef-8e2b-96d51f1b6df8",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "orcabiosystems",
+    "title": "Engineer, Packaging and Labeling",
+    "location": "Sacramento, CA",
+    "posted": "2026-07-16 07:22 UTC",
+    "url": "https://jobs.lever.co/orcabiosystems/b96d3ba4-1b39-40ef-8e2b-96d51f1b6df8",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-17T19:02:19.457107+00:00",
+    "emailed_utc": "2026-07-17T19:02:19.457107+00:00"
+  },
+  {
+    "job_id": "lever:thinkahead:94245c1a-52ad-4ee6-8717-b20a58c5474a",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "thinkahead",
+    "title": "Senior Software Engineer",
+    "location": "United States",
+    "posted": "2026-07-17 18:47 UTC",
+    "url": "https://jobs.lever.co/thinkahead/94245c1a-52ad-4ee6-8717-b20a58c5474a",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-17T19:02:19.457107+00:00",
+    "emailed_utc": "2026-07-17T19:02:19.457107+00:00"
   }
 ]
