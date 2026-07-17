@@ -3066,5 +3066,31 @@
     "bucket": "yes",
     "first_seen_utc": "2026-07-17T18:31:10.963856+00:00",
     "emailed_utc": "2026-07-17T18:31:10.963856+00:00"
+  },
+  {
+    "job_id": "amazon:176527b3-aa7b-4867-8802-12fe23097fc4",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "SDE II, Life Sciences Applied AI",
+    "location": "US, WA, Seattle",
+    "posted": "July 17, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10477838/sde-ii-life-sciences-applied-ai",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-17T19:41:05.063536+00:00",
+    "emailed_utc": "2026-07-17T19:41:05.063536+00:00"
+  },
+  {
+    "job_id": "amazon:869abdd6-d5ad-4c35-b870-2cd5841e21b2",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Manager, Amazon Connect Talent",
+    "location": "US, NY, New York",
+    "posted": "July 17, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10477836/software-development-manager-amazon-connect-talent",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-17T19:41:05.063536+00:00",
+    "emailed_utc": "2026-07-17T19:41:05.063536+00:00"
   }
 ]
