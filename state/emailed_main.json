@@ -2962,5 +2962,18 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-17T15:01:16.805442+00:00",
     "emailed_utc": "2026-07-17T15:01:16.805442+00:00"
+  },
+  {
+    "job_id": "amazon:c7ab7100-c629-4a64-85ad-88175b830db6",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer II, DC Bridge",
+    "location": "US, CO, Denver",
+    "posted": "July 10, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10471188/software-development-engineer-ii-dc-bridge",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-17T15:41:02.676833+00:00",
+    "emailed_utc": "2026-07-17T15:41:02.676833+00:00"
   }
 ]
