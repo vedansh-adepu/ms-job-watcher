@@ -31497,5 +31497,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-17T22:32:31.159368+00:00",
     "emailed_utc": "2026-07-17T22:32:31.159368+00:00"
+  },
+  {
+    "job_id": "greenhouse:upstart:8071911",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "UpStart",
+    "title": "Senior Engineering Manager, Servicing",
+    "location": "United States | Remote",
+    "posted": "2026-07-17T17:47:21-04:00",
+    "url": "https://careers.upstart.com/jobs?gh_jid=8071911",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-17T23:02:09.337615+00:00",
+    "emailed_utc": "2026-07-17T23:02:09.337615+00:00"
+  },
+  {
+    "job_id": "ashby:snowflake:1f6848bd-6899-4b11-b530-30de2865f314",
+    "pipeline": "boards",
+    "platform": "ashby",
+    "company": "Snowflake",
+    "title": "Senior Software Engineer - Data Engineering Experience",
+    "location": "US-CA-Menlo Park",
+    "posted": "",
+    "url": "https://jobs.ashbyhq.com/snowflake/1f6848bd-6899-4b11-b530-30de2865f314",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-17T23:02:09.337615+00:00",
+    "emailed_utc": "2026-07-17T23:02:09.337615+00:00"
   }
 ]
