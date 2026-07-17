@@ -28884,5 +28884,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-17T13:32:58.379983+00:00",
     "emailed_utc": "2026-07-17T13:32:58.379983+00:00"
+  },
+  {
+    "job_id": "workday:motorolasolutions:Careers:req:R66217",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Motorola",
+    "title": "Software Engineering",
+    "location": "Plantation, FL",
+    "posted": "Posted Today",
+    "url": "https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Plantation-FL/Software-Engineering_R66217",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-17T14:04:21.209754+00:00",
+    "emailed_utc": "2026-07-17T14:04:21.209754+00:00"
+  },
+  {
+    "job_id": "greenhouse:tripactions:7896394",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Navan (TripActions)",
+    "title": "Sr. Software Engineer, iOS",
+    "location": "New York, NY",
+    "posted": "2026-07-17T09:05:44-04:00",
+    "url": "https://navan.com/careers/openings?gh_jid=7896394",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-17T14:04:21.209754+00:00",
+    "emailed_utc": "2026-07-17T14:04:21.209754+00:00"
   }
 ]
