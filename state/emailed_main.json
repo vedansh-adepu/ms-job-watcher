@@ -3131,5 +3131,44 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-17T21:01:21.360425+00:00",
     "emailed_utc": "2026-07-17T21:01:21.360425+00:00"
+  },
+  {
+    "job_id": "microsoft:1970393556938440",
+    "pipeline": "main",
+    "platform": "microsoft",
+    "company": "Microsoft",
+    "title": "Software Engineer",
+    "location": "Redmond, WA, US",
+    "posted": "2026-07-17 20:23 UTC",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556938440",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-17T21:11:20.491558+00:00",
+    "emailed_utc": "2026-07-17T21:11:20.491558+00:00"
+  },
+  {
+    "job_id": "amazon:a3b43f6a-e8cf-4b1d-8882-ed59a21a5e18",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, Measurement, Ad Tech, and Data Science",
+    "location": "US, TX, Austin",
+    "posted": "July 17, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10477934/software-development-engineer-measurement-ad-tech-and-data-science",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-17T21:11:20.491558+00:00",
+    "emailed_utc": "2026-07-17T21:11:20.491558+00:00"
+  },
+  {
+    "job_id": "amazon:5901d0e7-cb89-4ee4-b52b-ceb545f936c6",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Senior Software Development Engineer, Engagement Security",
+    "location": "US, VA, Herndon",
+    "posted": "July 17, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10477936/senior-software-development-engineer-engagement-security",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-17T21:11:20.491558+00:00",
+    "emailed_utc": "2026-07-17T21:11:20.491558+00:00"
   }
 ]
