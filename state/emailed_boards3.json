@@ -31185,5 +31185,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-18T18:07:06.718138+00:00",
     "emailed_utc": "2026-07-18T18:07:06.718138+00:00"
+  },
+  {
+    "job_id": "workday:greystar:external:req:R0181107",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Greystar",
+    "title": "Backend AI-Forward Data Engineer",
+    "location": "Remote, United States",
+    "posted": "",
+    "url": "https://greystar.wd1.myworkdayjobs.com/en-US/external/job/Remote-United-States/Backend-AI-Forward-Data-Engineer_R0181107",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-18T18:32:08.102947+00:00",
+    "emailed_utc": "2026-07-18T18:32:08.102947+00:00"
+  },
+  {
+    "job_id": "workday:greystar:external:req:R0181113",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Greystar",
+    "title": "Full Stack AI Engineer",
+    "location": "Remote, United States",
+    "posted": "",
+    "url": "https://greystar.wd1.myworkdayjobs.com/en-US/external/job/Remote-United-States/Full-Stack-AI-Data-Engineer_R0181113",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-18T18:32:08.102947+00:00",
+    "emailed_utc": "2026-07-18T18:32:08.102947+00:00"
   }
 ]
