@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-07-12T00:03Z",
-    "mode": "boards",
-    "per_source": {},
-    "duration_s": 170.4,
-    "cursor": 2230
-  },
-  {
     "ts": "2026-07-12T00:11Z",
     "mode": "main",
     "per_source": {
@@ -42789,5 +42782,21 @@
     },
     "duration_s": 18.3,
     "cursor": 2000
+  },
+  {
+    "ts": "2026-07-18T08:29Z",
+    "mode": "boards",
+    "per_source": {
+      "workday": {
+        "fetched": 1094,
+        "title_ok": 3,
+        "loc_ok": 0,
+        "new": 0,
+        "emailed": 0,
+        "errors": 17
+      }
+    },
+    "duration_s": 65.6,
+    "cursor": 1520
   }
 ]
