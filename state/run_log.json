@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-07-11T18:32Z",
-    "mode": "boards",
-    "per_source": {},
-    "duration_s": 96.9,
-    "cursor": 1990
-  },
-  {
     "ts": "2026-07-11T18:41Z",
     "mode": "main",
     "per_source": {
@@ -42653,5 +42646,20 @@
     },
     "duration_s": 11.9,
     "cursor": null
+  },
+  {
+    "ts": "2026-07-18T02:31Z",
+    "mode": "boards",
+    "per_source": {
+      "lever": {
+        "fetched": 9426,
+        "title_ok": 743,
+        "loc_ok": 168,
+        "new": 0,
+        "emailed": 0
+      }
+    },
+    "duration_s": 6.2,
+    "cursor": 0
   }
 ]
