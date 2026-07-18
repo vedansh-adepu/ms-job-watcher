@@ -16222,5 +16222,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-18T01:01:57.039094+00:00",
     "emailed_utc": "2026-07-18T01:01:57.039094+00:00"
+  },
+  {
+    "job_id": "greenhouse:nintendo:4323417009",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "nintendo",
+    "title": "CONTRACT - Sr Engineer (NTD)",
+    "location": "Redmond, WA",
+    "posted": "2026-07-17T20:00:00-04:00",
+    "url": "https://careers.nintendo.com/?gh_jid=4323417009",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-18T01:31:19.209835+00:00",
+    "emailed_utc": "2026-07-18T01:31:19.209835+00:00"
+  },
+  {
+    "job_id": "greenhouse:panthalassa:6119222004",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "panthalassa",
+    "title": "Sourcing Engineer, Fabrication ",
+    "location": "Portland, OR",
+    "posted": "2026-07-17T20:05:58-04:00",
+    "url": "https://job-boards.greenhouse.io/panthalassa/jobs/6119222004",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-18T01:31:19.209835+00:00",
+    "emailed_utc": "2026-07-18T01:31:19.209835+00:00"
   }
 ]
