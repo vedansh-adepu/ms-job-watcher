@@ -1,20 +1,5 @@
 [
   {
-    "ts": "2026-07-12T14:22Z",
-    "mode": "boards",
-    "per_source": {
-      "workday": {
-        "fetched": 9018,
-        "title_ok": 1063,
-        "loc_ok": 319,
-        "new": 44,
-        "emailed": 44
-      }
-    },
-    "duration_s": 156.0,
-    "cursor": 500
-  },
-  {
     "ts": "2026-07-12T14:34Z",
     "mode": "boards",
     "per_source": {
@@ -42603,5 +42588,20 @@
     },
     "duration_s": 12.5,
     "cursor": null
+  },
+  {
+    "ts": "2026-07-18T22:01Z",
+    "mode": "boards",
+    "per_source": {
+      "greenhouse": {
+        "fetched": 57005,
+        "title_ok": 8799,
+        "loc_ok": 3455,
+        "new": 0,
+        "emailed": 0
+      }
+    },
+    "duration_s": 60.0,
+    "cursor": 2000
   }
 ]
