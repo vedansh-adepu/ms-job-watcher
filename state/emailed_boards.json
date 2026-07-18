@@ -31913,5 +31913,44 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-18T05:02:03.070736+00:00",
     "emailed_utc": "2026-07-18T05:02:03.070736+00:00"
+  },
+  {
+    "job_id": "workday:gdit:External_Career_Site:req:RQ224392",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "General Dynamics Information Technology (GDIT)",
+    "title": "Cloud Developer Sr Principal",
+    "location": "USA FL Mary Esther - 2175 US Hwy 98W (FLC150)",
+    "posted": "Posted Today",
+    "url": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-FL-Mary-Esther---2175-US-Hwy-98W-FLC150/Cloud-Developer-Sr-Principal_RQ224392-2",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-18T11:32:38.791500+00:00",
+    "emailed_utc": "2026-07-18T11:32:38.791500+00:00"
+  },
+  {
+    "job_id": "workday:gdit:External_Career_Site:req:RQ224516",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "General Dynamics Information Technology (GDIT)",
+    "title": "Network Engineer Senior \u2013 TS/SCI Required",
+    "location": "USA NC Fort Bragg",
+    "posted": "Posted Today",
+    "url": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-NC-Fort-Bragg/Network-Engineer-Senior---TS-SCI-Required_RQ224516-1",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-18T11:32:38.791500+00:00",
+    "emailed_utc": "2026-07-18T11:32:38.791500+00:00"
+  },
+  {
+    "job_id": "workday:leidos:External:req:R-00187285",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Leidos",
+    "title": "Senior ServiceNow Developer",
+    "location": "6314 Remote/Teleworker US",
+    "posted": "Posted Today",
+    "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/6314-RemoteTeleworker-US/Senior-ServiceNow-Developer_R-00187285",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-18T11:32:38.791500+00:00",
+    "emailed_utc": "2026-07-18T11:32:38.791500+00:00"
   }
 ]
