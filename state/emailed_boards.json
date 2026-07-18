@@ -31991,5 +31991,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-18T19:31:58.694023+00:00",
     "emailed_utc": "2026-07-18T19:31:58.694023+00:00"
+  },
+  {
+    "job_id": "workday:ngc:Northrop_Grumman_External_Site:req:R10241030",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Northrop Grumman",
+    "title": "Engineer/Principal Engineer (Level 2/3)",
+    "location": "United States-California-Redondo Beach",
+    "posted": "Posted Today",
+    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/Engineer-Principal-Engineer--Level-2-3-_R10241030",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-18T22:06:41.597186+00:00",
+    "emailed_utc": "2026-07-18T22:06:41.597186+00:00"
+  },
+  {
+    "job_id": "workday:ngc:Northrop_Grumman_External_Site:req:R10241027",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Northrop Grumman",
+    "title": "Engineering Technician (Level 2/3)",
+    "location": "United States-California-Redondo Beach",
+    "posted": "Posted Today",
+    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/Engineering-Technician--Level-2-3-_R10241027",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-18T22:06:41.597186+00:00",
+    "emailed_utc": "2026-07-18T22:06:41.597186+00:00"
   }
 ]
