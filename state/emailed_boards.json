@@ -31770,5 +31770,57 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-18T01:02:01.169054+00:00",
     "emailed_utc": "2026-07-18T01:02:01.169054+00:00"
+  },
+  {
+    "job_id": "smartrecruiters:ServiceNow:744000138419924",
+    "pipeline": "boards",
+    "platform": "smartrecruiters",
+    "company": "ServiceNow",
+    "title": "Senior AI Agent Engineer \u2013 Moveworks",
+    "location": "San Francisco, California, us",
+    "posted": "2026-07-17T23:26:03.376Z",
+    "url": "https://jobs.smartrecruiters.com/ServiceNow",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-18T01:32:29.045134+00:00",
+    "emailed_utc": "2026-07-18T01:32:29.045134+00:00"
+  },
+  {
+    "job_id": "smartrecruiters:ServiceNow:744000138420329",
+    "pipeline": "boards",
+    "platform": "smartrecruiters",
+    "company": "ServiceNow",
+    "title": "Staff AI Agent Engineer \u2013 Moveworks | Customer Deployment",
+    "location": "San Francisco, California, us",
+    "posted": "2026-07-17T23:10:44.108Z",
+    "url": "https://jobs.smartrecruiters.com/ServiceNow",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-18T01:32:29.045134+00:00",
+    "emailed_utc": "2026-07-18T01:32:29.045134+00:00"
+  },
+  {
+    "job_id": "greenhouse:storable:6116871004",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Storable",
+    "title": "Sr. Software Engineer, Platform",
+    "location": "United States",
+    "posted": "2026-07-17T19:08:57-04:00",
+    "url": "https://www.storable.com/about-us/culture/careers/?gh_jid=6116871004",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-18T01:32:29.045134+00:00",
+    "emailed_utc": "2026-07-18T01:32:29.045134+00:00"
+  },
+  {
+    "job_id": "greenhouse:twilio:8065040",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "twilio",
+    "title": "Senior Security Engineer, Incident Response",
+    "location": "Remote - US",
+    "posted": "2026-07-17T18:38:16-04:00",
+    "url": "https://job-boards.greenhouse.io/twilio/jobs/8065040",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-18T01:32:29.045134+00:00",
+    "emailed_utc": "2026-07-18T01:32:29.045134+00:00"
   }
 ]
