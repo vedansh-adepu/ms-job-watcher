@@ -20577,5 +20577,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-18T11:14:25.484359+00:00",
     "emailed_utc": "2026-07-18T11:14:25.484359+00:00"
+  },
+  {
+    "job_id": "workday:fico:external:req:32093",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Fico",
+    "title": "Sr Engineer, Data & Analytics Platform (Snowflake/dbt)",
+    "location": "Work from Home, United States",
+    "posted": "Posted 4 Days Ago",
+    "url": "https://fico.wd1.myworkdayjobs.com/en-US/external/job/Work-from-Home-United-States/Sr-Engineer--Data---Analytics-Platform--Snowflake-dbt-_32093",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-18T11:33:18.102461+00:00",
+    "emailed_utc": "2026-07-18T11:33:18.102461+00:00"
+  },
+  {
+    "job_id": "workday:fico:external:req:32079",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Fico",
+    "title": "Lead ML Ops/DevOps Engineer - AI Engineering",
+    "location": "Work from Home, United States",
+    "posted": "Posted 5 Days Ago",
+    "url": "https://fico.wd1.myworkdayjobs.com/en-US/external/job/Work-from-Home-United-States/Lead-ML-Ops-DevOps-Engineer---AI-Engineering_32079",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-18T11:33:18.102461+00:00",
+    "emailed_utc": "2026-07-18T11:33:18.102461+00:00"
   }
 ]
