@@ -42593,7 +42593,22 @@
         "emailed": 55
       }
     },
-    "duration_s": 281.1,
+    "duration_s": 17.8,
+    "cursor": 4000
+  },
+  {
+    "ts": "2026-07-18T22:40Z",
+    "mode": "boards",
+    "per_source": {
+      "workday": {
+        "fetched": 9204,
+        "title_ok": 1008,
+        "loc_ok": 391,
+        "new": 19,
+        "emailed": 55
+      }
+    },
+    "duration_s": 269.2,
     "cursor": 2160
   },
   {
