@@ -42582,15 +42582,15 @@
     "cursor": null
   },
   {
-    "ts": "2026-07-18T22:32Z",
+    "ts": "2026-07-18T22:35Z",
     "mode": "boards",
     "per_source": {
-      "greenhouse": {
-        "fetched": 56602,
-        "title_ok": 8707,
-        "loc_ok": 3458,
-        "new": 0,
-        "emailed": 0
+      "workday": {
+        "fetched": 9204,
+        "title_ok": 1008,
+        "loc_ok": 391,
+        "new": 19,
+        "emailed": 55
       }
     },
     "duration_s": 17.8,
