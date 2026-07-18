@@ -3287,5 +3287,18 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-17T23:10:55.821042+00:00",
     "emailed_utc": "2026-07-17T23:10:55.821042+00:00"
+  },
+  {
+    "job_id": "amazon:4251d9f0-c834-4cfa-9456-c499de992c1f",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer II, Satellite Engineering and Mechanical Development ",
+    "location": "US, WA, Redmond",
+    "posted": "July 18, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10478036/software-development-engineer-ii-satellite-engineering-and-mechanical-development",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-18T00:31:06.467163+00:00",
+    "emailed_utc": "2026-07-18T00:31:06.467163+00:00"
   }
 ]
