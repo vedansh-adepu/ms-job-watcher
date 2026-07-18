@@ -16248,5 +16248,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-18T01:31:19.209835+00:00",
     "emailed_utc": "2026-07-18T01:31:19.209835+00:00"
+  },
+  {
+    "job_id": "lever:bellese:49fa5173-cd5a-4bfb-8e81-b8f83d6e6b4c",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "bellese",
+    "title": "Principal Engineer",
+    "location": "United States",
+    "posted": "2026-07-17 22:00 UTC",
+    "url": "https://jobs.lever.co/bellese/49fa5173-cd5a-4bfb-8e81-b8f83d6e6b4c",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-18T02:02:35.818416+00:00",
+    "emailed_utc": "2026-07-18T02:02:35.818416+00:00"
+  },
+  {
+    "job_id": "lever:bellese:fda13506-99fc-419e-935c-b2de91533808",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "bellese",
+    "title": "Staff Engineer, FHIR",
+    "location": "United States",
+    "posted": "2026-07-17 22:10 UTC",
+    "url": "https://jobs.lever.co/bellese/fda13506-99fc-419e-935c-b2de91533808",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-18T02:02:35.818416+00:00",
+    "emailed_utc": "2026-07-18T02:02:35.818416+00:00"
   }
 ]
