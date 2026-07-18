@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-07-11T17:06Z",
-    "mode": "boards",
-    "per_source": {},
-    "duration_s": 316.4,
-    "cursor": 1930
-  },
-  {
     "ts": "2026-07-11T17:11Z",
     "mode": "main",
     "per_source": {
@@ -42580,5 +42573,20 @@
     },
     "duration_s": 10.0,
     "cursor": null
+  },
+  {
+    "ts": "2026-07-18T01:01Z",
+    "mode": "boards",
+    "per_source": {
+      "greenhouse": {
+        "fetched": 57015,
+        "title_ok": 8810,
+        "loc_ok": 3461,
+        "new": 1,
+        "emailed": 1
+      }
+    },
+    "duration_s": 63.2,
+    "cursor": 2000
   }
 ]
