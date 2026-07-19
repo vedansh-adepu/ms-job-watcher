@@ -42590,36 +42590,15 @@
     "cursor": null
   },
   {
-    "ts": "2026-07-19T16:32Z",
+    "ts": "2026-07-19T16:34Z",
     "mode": "boards",
     "per_source": {
-      "greenhouse": {
-        "fetched": 4403,
-        "title_ok": 1166,
-        "loc_ok": 490,
-        "new": 0,
-        "emailed": 0
-      },
-      "lever": {
-        "fetched": 620,
-        "title_ok": 126,
-        "loc_ok": 86,
-        "new": 0,
-        "emailed": 0
-      },
-      "ashby": {
-        "fetched": 1,
-        "title_ok": 1,
-        "loc_ok": 0,
-        "new": 0,
-        "emailed": 0
-      },
       "workday": {
-        "fetched": 9584,
-        "title_ok": 2236,
-        "loc_ok": 792,
-        "new": 0,
-        "emailed": 0
+        "fetched": 10000,
+        "title_ok": 849,
+        "loc_ok": 116,
+        "new": 22,
+        "emailed": 22
       }
     },
     "duration_s": 107.3,
