@@ -44991,5 +44991,57 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-19T04:06:33.312895+00:00",
     "emailed_utc": "2026-07-19T04:06:33.312895+00:00"
+  },
+  {
+    "job_id": "workday:ace:careers:req:JR202637781",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Ace",
+    "title": "Data Scientist Lead",
+    "location": "Costa Mesa, CA",
+    "posted": "Posted Yesterday",
+    "url": "https://ace.wd5.myworkdayjobs.com/en-US/careers/job/Costa-Mesa-CA/Data-Scientist-Lead_JR202637781-1",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-19T04:22:48.302364+00:00",
+    "emailed_utc": "2026-07-19T04:22:48.302364+00:00"
+  },
+  {
+    "job_id": "workday:ace:careers:req:JR202637870",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Ace",
+    "title": "Data Scientist Lead",
+    "location": "Costa Mesa, CA",
+    "posted": "Posted Yesterday",
+    "url": "https://ace.wd5.myworkdayjobs.com/en-US/careers/job/Costa-Mesa-CA/Data-Scientist-Lead_JR202637870",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-19T04:22:48.302364+00:00",
+    "emailed_utc": "2026-07-19T04:22:48.302364+00:00"
+  },
+  {
+    "job_id": "workday:ace:careers:req:JR202634744",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Ace",
+    "title": "Data Scientist Lead",
+    "location": "Costa Mesa, CA",
+    "posted": "Posted Yesterday",
+    "url": "https://ace.wd5.myworkdayjobs.com/en-US/careers/job/Costa-Mesa-CA/Data-Scientist-Lead_JR202634744",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-19T04:22:48.302364+00:00",
+    "emailed_utc": "2026-07-19T04:22:48.302364+00:00"
+  },
+  {
+    "job_id": "workday:ace:careers:req:JR202637176",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Ace",
+    "title": "Sr. Data Engineer",
+    "location": "Coppell, TX, Remote",
+    "posted": "Posted 2 Days Ago",
+    "url": "https://ace.wd5.myworkdayjobs.com/en-US/careers/job/Coppell-TX-Remote/Sr-Data-Engineer_JR202637176",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-19T04:22:48.302364+00:00",
+    "emailed_utc": "2026-07-19T04:22:48.302364+00:00"
   }
 ]
