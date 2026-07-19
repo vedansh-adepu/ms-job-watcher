@@ -42685,43 +42685,15 @@
     "cursor": 600
   },
   {
-    "ts": "2026-07-19T04:02Z",
+    "ts": "2026-07-19T04:06Z",
     "mode": "boards",
     "per_source": {
-      "greenhouse": {
-        "fetched": 8299,
-        "title_ok": 2790,
-        "loc_ok": 1800,
-        "new": 0,
-        "emailed": 0
-      },
-      "smartrecruiters": {
-        "fetched": 1390,
-        "title_ok": 286,
-        "loc_ok": 168,
-        "new": 0,
-        "emailed": 0
-      },
-      "lever": {
-        "fetched": 268,
-        "title_ok": 113,
-        "loc_ok": 63,
-        "new": 0,
-        "emailed": 0
-      },
-      "ashby": {
-        "fetched": 127,
-        "title_ok": 44,
-        "loc_ok": 15,
-        "new": 0,
-        "emailed": 0
-      },
       "workday": {
-        "fetched": 6500,
-        "title_ok": 1570,
-        "loc_ok": 64,
-        "new": 0,
-        "emailed": 0
+        "fetched": 8514,
+        "title_ok": 797,
+        "loc_ok": 326,
+        "new": 32,
+        "emailed": 55
       }
     },
     "duration_s": 85.8,
