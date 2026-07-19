@@ -51842,5 +51842,70 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-19T13:02:02.359986+00:00",
     "emailed_utc": "2026-07-19T13:02:02.359986+00:00"
+  },
+  {
+    "job_id": "workday:atriumhospitality:atriumhospitality:req:R49211",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Atriumhospitality",
+    "title": "Chief Maintenance Engineer",
+    "location": "Loveland, CO",
+    "posted": "Posted 4 Days Ago",
+    "url": "https://atriumhospitality.wd5.myworkdayjobs.com/en-US/atriumhospitality/job/Loveland-CO/Chief-Maintenance-Engineer_R49211-1",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-19T13:32:08.885305+00:00",
+    "emailed_utc": "2026-07-19T13:32:08.885305+00:00"
+  },
+  {
+    "job_id": "workday:atriumhospitality:atriumhospitality:req:R49183",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Atriumhospitality",
+    "title": "Chief Engineer",
+    "location": "North Charleston, SC",
+    "posted": "Posted 6 Days Ago",
+    "url": "https://atriumhospitality.wd5.myworkdayjobs.com/en-US/atriumhospitality/job/North-Charleston-SC/Chief-Engineer_R49183",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-19T13:32:08.885305+00:00",
+    "emailed_utc": "2026-07-19T13:32:08.885305+00:00"
+  },
+  {
+    "job_id": "workday:att:attgeneral:req:R-115679",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Att",
+    "title": "Principal Software Engineering",
+    "location": "USA:TX:Plano / W Plano Pkwy - Adm:3400 W Plano Pkwy",
+    "posted": "Posted 3 Days Ago",
+    "url": "https://att.wd1.myworkdayjobs.com/en-US/attgeneral/job/USATXPlano--W-Plano-Pkwy---Adm3400-W-Plano-Pkwy/Principal-Software-Engineering_R-115679",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-19T13:32:08.885305+00:00",
+    "emailed_utc": "2026-07-19T13:32:08.885305+00:00"
+  },
+  {
+    "job_id": "workday:att:attgeneral:req:R-115906",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Att",
+    "title": "Sr Specialist Product Development Engineer - Wireless Platform",
+    "location": "USA:WA:Bothell / 20309 North Creek Pkwy - Adm (bothell 7):20309 N Creek Pkwy @ Bldg L",
+    "posted": "Posted 3 Days Ago",
+    "url": "https://att.wd1.myworkdayjobs.com/en-US/attgeneral/job/USAWABothell--20309-North-Creek-Pkwy---Adm-bothell-720309-N-Creek-Pkwy--Bldg-L/Sr-Specialist-Product-Development-Engineer---Wireless-Platform_R-115906",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-19T13:32:08.885305+00:00",
+    "emailed_utc": "2026-07-19T13:32:08.885305+00:00"
+  },
+  {
+    "job_id": "workday:att:attgeneral:req:R-115731",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Att",
+    "title": "Lead Cybersecurity - Insider Risk Engineer",
+    "location": "USA:NC:Charlotte / Ibm Dr - Adm:8505 Ibm Dr",
+    "posted": "Posted 5 Days Ago",
+    "url": "https://att.wd1.myworkdayjobs.com/en-US/attgeneral/job/USANCCharlotte--Ibm-Dr---Adm8505-Ibm-Dr/Lead-Cybersecurity---Insider-Risk-Engineer_R-115731",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-19T13:32:08.885305+00:00",
+    "emailed_utc": "2026-07-19T13:32:08.885305+00:00"
   }
 ]
