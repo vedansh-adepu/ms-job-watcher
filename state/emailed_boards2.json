@@ -16326,5 +16326,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-19T05:31:09.138772+00:00",
     "emailed_utc": "2026-07-19T05:31:09.138772+00:00"
+  },
+  {
+    "job_id": "greenhouse:picarroinc:5363774008",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "picarroinc",
+    "title": "Design Engineer, Industrial Solutions",
+    "location": "Santa Clara, CA",
+    "posted": "2026-07-19T14:45:21-04:00",
+    "url": "https://www.picarro.com/company/careers/job-openings/apply?gh_jid=5363774008",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-19T20:02:13.104370+00:00",
+    "emailed_utc": "2026-07-19T20:02:13.104370+00:00"
+  },
+  {
+    "job_id": "greenhouse:picarroinc:5363786008",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "picarroinc",
+    "title": "Optical Manufacturing Engineer",
+    "location": "Santa Clara, CA",
+    "posted": "2026-07-19T15:08:48-04:00",
+    "url": "https://www.picarro.com/company/careers/job-openings/apply?gh_jid=5363786008",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-19T20:02:13.104370+00:00",
+    "emailed_utc": "2026-07-19T20:02:13.104370+00:00"
   }
 ]
