@@ -32225,5 +32225,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-20T04:01:50.067221+00:00",
     "emailed_utc": "2026-07-20T04:01:50.067221+00:00"
+  },
+  {
+    "job_id": "workday:gdit:External_Career_Site:req:RQ224477",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "General Dynamics Information Technology (GDIT)",
+    "title": "Cloud Developer Principal",
+    "location": "USA FL Mary Esther",
+    "posted": "Posted Today",
+    "url": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-FL-Mary-Esther/Cloud-Developer-Principal_RQ224477",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-20T05:02:42.789042+00:00",
+    "emailed_utc": "2026-07-20T05:02:42.789042+00:00"
+  },
+  {
+    "job_id": "workday:gdit:External_Career_Site:req:RQ224583",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "General Dynamics Information Technology (GDIT)",
+    "title": "Electrical Engineer",
+    "location": "USA ID Bayview",
+    "posted": "Posted Today",
+    "url": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-ID-Bayview/Electrical-Engineer_RQ224583-1",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-20T05:02:42.789042+00:00",
+    "emailed_utc": "2026-07-20T05:02:42.789042+00:00"
   }
 ]
