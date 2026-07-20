@@ -17899,5 +17899,44 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-20T21:03:10.365246+00:00",
     "emailed_utc": "2026-07-20T21:03:10.365246+00:00"
+  },
+  {
+    "job_id": "greenhouse:ionq:6117927004",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "ionq",
+    "title": "Senior Staff Electrical Engineer",
+    "location": "Louisville, Colorado, United States; San Francisco, California, United States",
+    "posted": "2026-07-20T16:44:17-04:00",
+    "url": "https://job-boards.greenhouse.io/ionq/jobs/6117927004",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-20T21:31:26.682715+00:00",
+    "emailed_utc": "2026-07-20T21:31:26.682715+00:00"
+  },
+  {
+    "job_id": "greenhouse:jensenhughes:5344466008",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "jensenhughes",
+    "title": "Senior Microsoft Platform Engineer",
+    "location": "Remote - United States",
+    "posted": "2026-07-20T16:16:45-04:00",
+    "url": "https://job-boards.greenhouse.io/jensenhughes/jobs/5344466008",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-20T21:31:26.682715+00:00",
+    "emailed_utc": "2026-07-20T21:31:26.682715+00:00"
+  },
+  {
+    "job_id": "greenhouse:phizenix:5364968008",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "phizenix",
+    "title": "Digital Design Engineer",
+    "location": "Santa Clara, CA",
+    "posted": "2026-07-20T16:54:46-04:00",
+    "url": "https://job-boards.greenhouse.io/phizenix/jobs/5364968008",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-20T21:31:26.682715+00:00",
+    "emailed_utc": "2026-07-20T21:31:26.682715+00:00"
   }
 ]
