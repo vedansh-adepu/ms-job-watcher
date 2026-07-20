@@ -17210,5 +17210,18 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-20T17:03:05.619575+00:00",
     "emailed_utc": "2026-07-20T17:03:05.619575+00:00"
+  },
+  {
+    "job_id": "greenhouse:bloomerang:4716623005",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "bloomerang",
+    "title": "Data Engineer",
+    "location": "Remote, US",
+    "posted": "2026-07-20T13:10:01-04:00",
+    "url": "https://job-boards.greenhouse.io/bloomerang/jobs/4716623005",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-20T17:32:00.079899+00:00",
+    "emailed_utc": "2026-07-20T17:32:00.079899+00:00"
   }
 ]
