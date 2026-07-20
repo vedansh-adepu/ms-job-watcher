@@ -3950,5 +3950,31 @@
     "bucket": "yes",
     "first_seen_utc": "2026-07-20T23:11:09.703268+00:00",
     "emailed_utc": "2026-07-20T23:11:09.703268+00:00"
+  },
+  {
+    "job_id": "amazon:9ab8b7d8-7b07-4d5a-b826-17771789e02f",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Engineer, Amazon Photos",
+    "location": "US, WA, Seattle",
+    "posted": "July 20, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10479468/software-engineer-amazon-photos",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-20T23:21:07.511277+00:00",
+    "emailed_utc": "2026-07-20T23:21:07.511277+00:00"
+  },
+  {
+    "job_id": "microsoft:1970393556939499",
+    "pipeline": "main",
+    "platform": "microsoft",
+    "company": "Microsoft",
+    "title": "Senior Software Engineer",
+    "location": "Redmond, WA, US",
+    "posted": "2026-07-20 22:12 UTC",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556939499",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-20T23:21:07.511277+00:00",
+    "emailed_utc": "2026-07-20T23:21:07.511277+00:00"
   }
 ]
