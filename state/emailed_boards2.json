@@ -16807,5 +16807,44 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-20T14:58:06.214667+00:00",
     "emailed_utc": "2026-07-20T14:58:06.214667+00:00"
+  },
+  {
+    "job_id": "greenhouse:umt:8640484002",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "umt",
+    "title": "VP, Engineering",
+    "location": "San Francisco, CA",
+    "posted": "2026-07-20T10:25:45-04:00",
+    "url": "https://job-boards.greenhouse.io/umt/jobs/8640484002",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-20T15:02:39.247113+00:00",
+    "emailed_utc": "2026-07-20T15:02:39.247113+00:00"
+  },
+  {
+    "job_id": "greenhouse:unitedmasterstranslation:8640483002",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "unitedmasterstranslation",
+    "title": "VP, Engineering",
+    "location": "San Francisco, CA",
+    "posted": "2026-07-20T10:25:27-04:00",
+    "url": "https://job-boards.greenhouse.io/unitedmasterstranslation/jobs/8640483002",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-20T15:02:39.247113+00:00",
+    "emailed_utc": "2026-07-20T15:02:39.247113+00:00"
+  },
+  {
+    "job_id": "lever:smiledigitalhealth:ca53742b-1a9d-4467-9c55-fc9420c6e948",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "smiledigitalhealth",
+    "title": "Staff Software Developer (Remote US)",
+    "location": "United States",
+    "posted": "2026-07-20 14:25 UTC",
+    "url": "https://jobs.lever.co/smiledigitalhealth/ca53742b-1a9d-4467-9c55-fc9420c6e948",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-20T15:02:39.247113+00:00",
+    "emailed_utc": "2026-07-20T15:02:39.247113+00:00"
   }
 ]
