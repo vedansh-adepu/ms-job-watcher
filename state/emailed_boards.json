@@ -33265,5 +33265,44 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-20T15:32:12.637793+00:00",
     "emailed_utc": "2026-07-20T15:32:12.637793+00:00"
+  },
+  {
+    "job_id": "greenhouse:freedomconsulting:5190737007",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Freedomconsulting",
+    "title": "Junior Software Engineer 730",
+    "location": "Annapolis Junction, MD ",
+    "posted": "2026-07-20T09:28:13-04:00",
+    "url": "https://job-boards.greenhouse.io/freedomconsulting/jobs/5190737007",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-20T16:01:11.350217+00:00",
+    "emailed_utc": "2026-07-20T16:01:11.350217+00:00"
+  },
+  {
+    "job_id": "greenhouse:palmettocleantech:5364166008",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Palmettocleantech",
+    "title": "Staff Platform Engineer",
+    "location": "1616 Camden Rd Charlotte, NC 28203; Boston, Massachusetts, United States",
+    "posted": "2026-07-20T10:25:09-04:00",
+    "url": "https://job-boards.greenhouse.io/palmettocleantech/jobs/5364166008",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-20T16:01:11.350217+00:00",
+    "emailed_utc": "2026-07-20T16:01:11.350217+00:00"
+  },
+  {
+    "job_id": "greenhouse:scoutmotors:5182322007",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Scoutmotors",
+    "title": "Specialist, Hardware & Software Variant Management",
+    "location": "Charlotte, North Carolina, United States; Novi, Michigan, United States",
+    "posted": "2026-07-20T10:55:02-04:00",
+    "url": "https://job-boards.greenhouse.io/scoutmotors/jobs/5182322007",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-20T16:01:11.350217+00:00",
+    "emailed_utc": "2026-07-20T16:01:11.350217+00:00"
   }
 ]
