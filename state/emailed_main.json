@@ -3365,5 +3365,18 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-20T04:41:03.741089+00:00",
     "emailed_utc": "2026-07-20T04:41:03.741089+00:00"
+  },
+  {
+    "job_id": "nvidia:893396451366",
+    "pipeline": "main",
+    "platform": "nvidia",
+    "company": "NVIDIA",
+    "title": "Embedded Software Engineer - RISCV",
+    "location": "Santa Clara, CA, US",
+    "posted": "2026-07-20 00:00 UTC",
+    "url": "https://nvidia.eightfold.ai/careers/job/893396451366",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-20T08:51:04.561026+00:00",
+    "emailed_utc": "2026-07-20T08:51:04.561026+00:00"
   }
 ]
