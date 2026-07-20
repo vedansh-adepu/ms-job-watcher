@@ -3638,5 +3638,18 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-20T17:31:22.847996+00:00",
     "emailed_utc": "2026-07-20T17:31:22.847996+00:00"
+  },
+  {
+    "job_id": "amazon:86e9ae14-4fd3-4e21-9145-2fc2c373bcb7",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, Amazon Devices Experience Technology (DeXT)",
+    "location": "US, WA, Seattle",
+    "posted": "July 20, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10479076/software-development-engineer-amazon-devices-experience-technology-dext",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-20T17:41:12.260305+00:00",
+    "emailed_utc": "2026-07-20T17:41:12.260305+00:00"
   }
 ]
