@@ -3599,5 +3599,31 @@
     "bucket": "yes",
     "first_seen_utc": "2026-07-20T17:01:15.091307+00:00",
     "emailed_utc": "2026-07-20T17:01:15.091307+00:00"
+  },
+  {
+    "job_id": "amazon:59ff5732-7c68-42de-bb38-c552be7c57ec",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Senior Applied Scientist, Catalog System Services Science",
+    "location": "US, WA, Seattle",
+    "posted": "July 20, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10479008/senior-applied-scientist-catalog-system-services-science",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-20T17:11:08.122014+00:00",
+    "emailed_utc": "2026-07-20T17:11:08.122014+00:00"
+  },
+  {
+    "job_id": "amazon:0aa09621-638c-422b-ac8d-984e7db67c92",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Manager, Application Security",
+    "location": "US, WA, Seattle",
+    "posted": "July 20, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10479012/software-development-manager-application-security",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-20T17:11:08.122014+00:00",
+    "emailed_utc": "2026-07-20T17:11:08.122014+00:00"
   }
 ]
