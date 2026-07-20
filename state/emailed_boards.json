@@ -35137,5 +35137,44 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-20T20:02:39.666281+00:00",
     "emailed_utc": "2026-07-20T20:02:39.666281+00:00"
+  },
+  {
+    "job_id": "lever:zoox:b5f6f5f4-1a0a-42a2-a72b-f4ed5c3be562",
+    "pipeline": "boards",
+    "platform": "lever",
+    "company": "zoox",
+    "title": "Software Development Engineer in Test, Machine Learning",
+    "location": "Foster City, CA",
+    "posted": "2026-07-17 22:17 UTC",
+    "url": "https://jobs.lever.co/zoox/b5f6f5f4-1a0a-42a2-a72b-f4ed5c3be562",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-20T20:32:04.940284+00:00",
+    "emailed_utc": "2026-07-20T20:32:04.940284+00:00"
+  },
+  {
+    "job_id": "ashby:benchling:5f98903f-739c-44d4-8ce9-80767baf569b",
+    "pipeline": "boards",
+    "platform": "ashby",
+    "company": "Benchling",
+    "title": "Software Engineer, Applications (Scientific Development Solutions) (High Seniority)",
+    "location": "San Francisco, CA",
+    "posted": "",
+    "url": "https://jobs.ashbyhq.com/benchling/5f98903f-739c-44d4-8ce9-80767baf569b",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-20T20:32:04.940284+00:00",
+    "emailed_utc": "2026-07-20T20:32:04.940284+00:00"
+  },
+  {
+    "job_id": "ashby:snowflake:7029c2b5-5b4e-4972-8048-4b4fbae7bc83",
+    "pipeline": "boards",
+    "platform": "ashby",
+    "company": "Snowflake",
+    "title": "Senior Solution Engineer, HCLS",
+    "location": "US-IL-Chicago-MSO",
+    "posted": "",
+    "url": "https://jobs.ashbyhq.com/snowflake/7029c2b5-5b4e-4972-8048-4b4fbae7bc83",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-20T20:32:04.940284+00:00",
+    "emailed_utc": "2026-07-20T20:32:04.940284+00:00"
   }
 ]
