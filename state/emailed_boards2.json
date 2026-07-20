@@ -16417,5 +16417,44 @@
     "bucket": "yes",
     "first_seen_utc": "2026-07-20T05:31:51.474968+00:00",
     "emailed_utc": "2026-07-20T05:31:51.474968+00:00"
+  },
+  {
+    "job_id": "lever:gohighlevel:9f3b293c-74bc-4d29-a9be-9d0516954f2b",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "gohighlevel",
+    "title": "Senior Manager - Analytics Engineering",
+    "location": "United States",
+    "posted": "2026-07-20 04:34 UTC",
+    "url": "https://jobs.lever.co/gohighlevel/9f3b293c-74bc-4d29-a9be-9d0516954f2b",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-20T06:02:35.479492+00:00",
+    "emailed_utc": "2026-07-20T06:02:35.479492+00:00"
+  },
+  {
+    "job_id": "lever:gohighlevel:0129e5bc-74e4-4f7c-9983-891da20542e8",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "gohighlevel",
+    "title": "Staff Data Scientist - Experimentation & Causal Inference",
+    "location": "United States",
+    "posted": "2026-07-20 05:51 UTC",
+    "url": "https://jobs.lever.co/gohighlevel/0129e5bc-74e4-4f7c-9983-891da20542e8",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-20T06:02:35.479492+00:00",
+    "emailed_utc": "2026-07-20T06:02:35.479492+00:00"
+  },
+  {
+    "job_id": "lever:qualdoc:b52bb116-227e-4ba5-a968-94b90dbaf102",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "qualdoc",
+    "title": "Electrical Design Engineer \u2013 Material Handling Systems",
+    "location": "Ashland, VA",
+    "posted": "2026-07-20 05:08 UTC",
+    "url": "https://jobs.lever.co/qualdoc/b52bb116-227e-4ba5-a968-94b90dbaf102",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-20T06:02:35.479492+00:00",
+    "emailed_utc": "2026-07-20T06:02:35.479492+00:00"
   }
 ]
