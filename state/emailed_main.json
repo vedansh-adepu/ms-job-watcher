@@ -3664,5 +3664,18 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-20T17:51:02.774293+00:00",
     "emailed_utc": "2026-07-20T17:51:02.774293+00:00"
+  },
+  {
+    "job_id": "amazon:11c534dc-91c2-4a61-a96d-08f8dc7a0c53",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer II, AWS Data Platform",
+    "location": "US, WA, Seattle",
+    "posted": "July 20, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10479142/software-development-engineer-ii-aws-data-platform",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-20T18:21:08.420310+00:00",
+    "emailed_utc": "2026-07-20T18:21:08.420310+00:00"
   }
 ]
