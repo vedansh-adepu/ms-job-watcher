@@ -33993,5 +33993,70 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-20T17:02:39.934260+00:00",
     "emailed_utc": "2026-07-20T17:02:39.934260+00:00"
+  },
+  {
+    "job_id": "greenhouse:spacex:8637826002",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "SpaceX",
+    "title": "Wireless Software Engineer (Starlink)",
+    "location": "Redmond, WA",
+    "posted": "2026-07-20T12:35:18-04:00",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8637826002?gh_jid=8637826002",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-20T17:32:35.754455+00:00",
+    "emailed_utc": "2026-07-20T17:32:35.754455+00:00"
+  },
+  {
+    "job_id": "greenhouse:spacex:8637814002",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "SpaceX",
+    "title": "Wireless Software Engineer (Starlink)",
+    "location": "Palo Alto, CA",
+    "posted": "2026-07-20T12:35:18-04:00",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8637814002?gh_jid=8637814002",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-20T17:32:35.754455+00:00",
+    "emailed_utc": "2026-07-20T17:32:35.754455+00:00"
+  },
+  {
+    "job_id": "greenhouse:robinhood:8072766",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Robinhood",
+    "title": "Staff Data Scientist, ML (People Analytics & Insights)",
+    "location": "Chicago, IL; Menlo Park, CA; New York, NY",
+    "posted": "2026-07-20T13:00:42-04:00",
+    "url": "https://boards.greenhouse.io/robinhood/jobs/8072766?t=gh_src=&gh_jid=8072766",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-20T17:32:35.754455+00:00",
+    "emailed_utc": "2026-07-20T17:32:35.754455+00:00"
+  },
+  {
+    "job_id": "greenhouse:spacex:8637824002",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "SpaceX",
+    "title": "Sr. Wireless Software Engineer (Starlink)",
+    "location": "Redmond, WA",
+    "posted": "2026-07-20T12:34:58-04:00",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8637824002?gh_jid=8637824002",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-20T17:32:35.754455+00:00",
+    "emailed_utc": "2026-07-20T17:32:35.754455+00:00"
+  },
+  {
+    "job_id": "greenhouse:spacex:8637796002",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "SpaceX",
+    "title": "Sr. Wireless Software Engineer (Starlink)",
+    "location": "Palo Alto, CA",
+    "posted": "2026-07-20T12:34:57-04:00",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8637796002?gh_jid=8637796002",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-20T17:32:35.754455+00:00",
+    "emailed_utc": "2026-07-20T17:32:35.754455+00:00"
   }
 ]
