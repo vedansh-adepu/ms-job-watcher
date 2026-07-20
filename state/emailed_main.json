@@ -3924,5 +3924,18 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-20T22:21:13.727560+00:00",
     "emailed_utc": "2026-07-20T22:21:13.727560+00:00"
+  },
+  {
+    "job_id": "amazon:9ea60354-25cd-4511-a851-9ea1dbe09579",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, EC2 UltraServer Delivery Team",
+    "location": "US, WA, Seattle",
+    "posted": "July 20, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10479459/software-development-engineer-ec2-ultraserver-delivery-team",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-20T23:01:16.110921+00:00",
+    "emailed_utc": "2026-07-20T23:01:16.110921+00:00"
   }
 ]
