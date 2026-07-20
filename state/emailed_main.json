@@ -3391,5 +3391,44 @@
     "bucket": "yes",
     "first_seen_utc": "2026-07-20T12:41:03.285665+00:00",
     "emailed_utc": "2026-07-20T12:41:03.285665+00:00"
+  },
+  {
+    "job_id": "amazon:96fde7df-99d5-4e7c-9561-ce84eba1cb28",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer (L5), Perimeter Protection (Anti-DDoS), NFW",
+    "location": "US, WA, Seattle",
+    "posted": "July 20, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10478561/software-development-engineer-l5-perimeter-protection-anti-ddos-nfw",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-20T13:21:09.192137+00:00",
+    "emailed_utc": "2026-07-20T13:21:09.192137+00:00"
+  },
+  {
+    "job_id": "nvidia:893396464330",
+    "pipeline": "main",
+    "platform": "nvidia",
+    "company": "NVIDIA",
+    "title": "Senior Debug System Engineer, Datacenter",
+    "location": "Santa Clara, CA, US",
+    "posted": "2026-07-20 00:00 UTC",
+    "url": "https://nvidia.eightfold.ai/careers/job/893396464330",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-20T13:21:09.192137+00:00",
+    "emailed_utc": "2026-07-20T13:21:09.192137+00:00"
+  },
+  {
+    "job_id": "nvidia:893396464358",
+    "pipeline": "main",
+    "platform": "nvidia",
+    "company": "NVIDIA",
+    "title": "Senior Software Engineer, Test Infrastructure Development",
+    "location": "Santa Clara, CA, US",
+    "posted": "2026-07-20 00:00 UTC",
+    "url": "https://nvidia.eightfold.ai/careers/job/893396464358",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-20T13:21:09.192137+00:00",
+    "emailed_utc": "2026-07-20T13:21:09.192137+00:00"
   }
 ]
