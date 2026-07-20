@@ -42323,36 +42323,15 @@
     "cursor": null
   },
   {
-    "ts": "2026-07-20T08:02Z",
+    "ts": "2026-07-20T08:10Z",
     "mode": "boards",
     "per_source": {
-      "greenhouse": {
-        "fetched": 4395,
-        "title_ok": 1164,
-        "loc_ok": 490,
-        "new": 0,
-        "emailed": 0
-      },
-      "lever": {
-        "fetched": 617,
-        "title_ok": 126,
-        "loc_ok": 86,
-        "new": 0,
-        "emailed": 0
-      },
-      "ashby": {
-        "fetched": 1,
-        "title_ok": 1,
-        "loc_ok": 0,
-        "new": 0,
-        "emailed": 0
-      },
       "workday": {
-        "fetched": 9584,
-        "title_ok": 2204,
-        "loc_ok": 771,
-        "new": 0,
-        "emailed": 0
+        "fetched": 8677,
+        "title_ok": 521,
+        "loc_ok": 199,
+        "new": 3,
+        "emailed": 39
       }
     },
     "duration_s": 110.3,
