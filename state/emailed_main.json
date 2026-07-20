@@ -3729,5 +3729,18 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-20T19:31:19.160610+00:00",
     "emailed_utc": "2026-07-20T19:31:19.160610+00:00"
+  },
+  {
+    "job_id": "amazon:f3a98667-6529-411b-b6c9-d52fe4096aaa",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, AWS Marketplace",
+    "location": "US, NY, New York",
+    "posted": "July 20, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10479280/software-development-engineer-aws-marketplace",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-20T20:11:12.008718+00:00",
+    "emailed_utc": "2026-07-20T20:11:12.008718+00:00"
   }
 ]
