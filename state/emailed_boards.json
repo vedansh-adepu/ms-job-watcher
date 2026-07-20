@@ -32303,5 +32303,18 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-20T07:01:12.043604+00:00",
     "emailed_utc": "2026-07-20T07:01:12.043604+00:00"
+  },
+  {
+    "job_id": "workday:boeing:EXTERNAL_CAREERS:req:JR2026519306",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Boeing",
+    "title": "Senior Manufacturing Engineer",
+    "location": "USA - Hazelwood, MO",
+    "posted": "Posted Today",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Hazelwood-MO/Senior-Manufacturing-Engineer_JR2026519306-1",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-20T07:32:39.029506+00:00",
+    "emailed_utc": "2026-07-20T07:32:39.029506+00:00"
   }
 ]
