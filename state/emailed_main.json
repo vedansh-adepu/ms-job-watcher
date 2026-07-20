@@ -3573,5 +3573,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-20T16:51:08.580454+00:00",
     "emailed_utc": "2026-07-20T16:51:08.580454+00:00"
+  },
+  {
+    "job_id": "amazon:99dfb94e-2ce1-4002-9e9e-e08ba78251d1",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, Amazon Catalog services team, Amazon Catalog services team",
+    "location": "US, WA, Seattle",
+    "posted": "July 20, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10478988/software-development-engineer-amazon-catalog-services-team-amazon-catalog-services-team",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-20T17:01:15.091307+00:00",
+    "emailed_utc": "2026-07-20T17:01:15.091307+00:00"
+  },
+  {
+    "job_id": "amazon:bb8b4b36-e760-45cf-933d-cb5709a29cb4",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, Amazon Catalog services team, Amazon Catalog services team",
+    "location": "US, WA, Seattle",
+    "posted": "July 20, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10478987/software-development-engineer-amazon-catalog-services-team-amazon-catalog-services-team",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-20T17:01:15.091307+00:00",
+    "emailed_utc": "2026-07-20T17:01:15.091307+00:00"
   }
 ]
