@@ -37321,5 +37321,44 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-21T13:02:50.391739+00:00",
     "emailed_utc": "2026-07-21T13:02:50.391739+00:00"
+  },
+  {
+    "job_id": "greenhouse:lgelectronics:5365039008",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Lgelectronics",
+    "title": "Software Engineer II",
+    "location": "Alpharetta, GA",
+    "posted": "2026-07-21T09:53:10-04:00",
+    "url": "https://job-boards.greenhouse.io/lgelectronics/jobs/5365039008",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-21T14:01:37.949070+00:00",
+    "emailed_utc": "2026-07-21T14:01:37.949070+00:00"
+  },
+  {
+    "job_id": "greenhouse:torcrobotics:8624907002",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Torcrobotics",
+    "title": "Senior, Machine Learning Engineer - 3D Perception",
+    "location": "Remote, U.S, Ann Arbor, MI, Fort Worth, TX, Blacksburg, VA",
+    "posted": "2026-07-21T09:18:20-04:00",
+    "url": "https://job-boards.greenhouse.io/torcrobotics/jobs/8624907002",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-21T14:01:37.949070+00:00",
+    "emailed_utc": "2026-07-21T14:01:37.949070+00:00"
+  },
+  {
+    "job_id": "greenhouse:scoutmotors:5189634007",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Scoutmotors",
+    "title": "Specialist, Diagnostic and Commissioning Engineer",
+    "location": "Blythewood, South Carolina, United States",
+    "posted": "2026-07-21T09:44:20-04:00",
+    "url": "https://job-boards.greenhouse.io/scoutmotors/jobs/5189634007",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-21T14:01:37.949070+00:00",
+    "emailed_utc": "2026-07-21T14:01:37.949070+00:00"
   }
 ]
