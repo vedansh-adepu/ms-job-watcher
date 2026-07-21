@@ -19017,5 +19017,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-21T15:02:49.105752+00:00",
     "emailed_utc": "2026-07-21T15:02:49.105752+00:00"
+  },
+  {
+    "job_id": "greenhouse:noomgrowth:8051435",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "noomgrowth",
+    "title": "Staff Software Engineer",
+    "location": "Princeton, New Jersey, United States",
+    "posted": "2026-07-21T10:19:14-04:00",
+    "url": "https://www.noom.com/careers/job-listings/?gh_jid=8051435",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-21T15:32:12.467098+00:00",
+    "emailed_utc": "2026-07-21T15:32:12.467098+00:00"
+  },
+  {
+    "job_id": "greenhouse:thepacgroup:4318530009",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "thepacgroup",
+    "title": "Material Packaging Engineer",
+    "location": "Troy, MI",
+    "posted": "2026-07-21T10:23:15-04:00",
+    "url": "https://job-boards.greenhouse.io/thepacgroup/jobs/4318530009",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-21T15:32:12.467098+00:00",
+    "emailed_utc": "2026-07-21T15:32:12.467098+00:00"
   }
 ]
