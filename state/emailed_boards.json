@@ -37074,5 +37074,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-21T03:42:53.824425+00:00",
     "emailed_utc": "2026-07-21T03:42:53.824425+00:00"
+  },
+  {
+    "job_id": "greenhouse:spacex:8642274002",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "SpaceX",
+    "title": "Software Engineer (Starfall)",
+    "location": "Hawthorne, CA",
+    "posted": "2026-07-20T23:15:13-04:00",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8642274002?gh_jid=8642274002",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-21T04:02:44.716850+00:00",
+    "emailed_utc": "2026-07-21T04:02:44.716850+00:00"
+  },
+  {
+    "job_id": "greenhouse:spacex:8642277002",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "SpaceX",
+    "title": "Sr. Software Engineer (Starfall)",
+    "location": "Hawthorne, CA",
+    "posted": "2026-07-20T23:19:22-04:00",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8642277002?gh_jid=8642277002",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-21T04:02:44.716850+00:00",
+    "emailed_utc": "2026-07-21T04:02:44.716850+00:00"
   }
 ]
