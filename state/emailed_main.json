@@ -4197,5 +4197,18 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-21T17:01:08.915538+00:00",
     "emailed_utc": "2026-07-21T17:01:08.915538+00:00"
+  },
+  {
+    "job_id": "amazon:f70db214-3a52-4103-a68a-241997b866e9",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Applied Scientist, GenAI Catalog Intelligence, PRISM",
+    "location": "US, CA, Sunnyvale",
+    "posted": "July 21, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10480445/applied-scientist-genai-catalog-intelligence-prism",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-21T17:11:10.618906+00:00",
+    "emailed_utc": "2026-07-21T17:11:10.618906+00:00"
   }
 ]
