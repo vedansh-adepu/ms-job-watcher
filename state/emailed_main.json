@@ -4470,5 +4470,31 @@
     "bucket": "yes",
     "first_seen_utc": "2026-07-21T20:40:58.441276+00:00",
     "emailed_utc": "2026-07-21T20:40:58.441276+00:00"
+  },
+  {
+    "job_id": "amazon:eca8ff7b-3269-4774-83bc-dcc7aa356216",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Frontend Engineer, Kiro",
+    "location": "US, OR, Portland",
+    "posted": "July 21, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10480789/frontend-engineer-kiro",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-21T20:51:05.182566+00:00",
+    "emailed_utc": "2026-07-21T20:51:05.182566+00:00"
+  },
+  {
+    "job_id": "amazon:75bd186e-46f7-42f3-8a3e-463a43d2fd71",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Dev Engineer I - Graviton Software, Annapurna Labs",
+    "location": "US, TX, Austin",
+    "posted": "July 16, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10475663/software-dev-engineer-i-graviton-software-annapurna-labs",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-21T20:51:05.182566+00:00",
+    "emailed_utc": "2026-07-21T20:51:05.182566+00:00"
   }
 ]
