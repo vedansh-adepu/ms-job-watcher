@@ -36879,5 +36879,44 @@
     "bucket": "yes",
     "first_seen_utc": "2026-07-21T02:02:06.943382+00:00",
     "emailed_utc": "2026-07-21T02:02:06.943382+00:00"
+  },
+  {
+    "job_id": "greenhouse:affirm:7804953003",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Affirm",
+    "title": "Analyst II, Full Stack ",
+    "location": "Remote US",
+    "posted": "2026-07-20T21:28:33-04:00",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7804953003",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-21T03:03:00.825959+00:00",
+    "emailed_utc": "2026-07-21T03:03:00.825959+00:00"
+  },
+  {
+    "job_id": "greenhouse:anthropic:5363469008",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Anthropic",
+    "title": "Staff Software Engineer, Growth ",
+    "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+    "posted": "2026-07-20T21:28:26-04:00",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5363469008",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-21T03:03:00.825959+00:00",
+    "emailed_utc": "2026-07-21T03:03:00.825959+00:00"
+  },
+  {
+    "job_id": "greenhouse:andurilindustries:5190515007",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "andurilindustries",
+    "title": "Test & Evaluation Engineer",
+    "location": "Quincy, Massachusetts, United States",
+    "posted": "2026-07-20T20:59:24-04:00",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5190515007?gh_jid=5190515007",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-21T03:03:00.825959+00:00",
+    "emailed_utc": "2026-07-21T03:03:00.825959+00:00"
   }
 ]
