@@ -4275,5 +4275,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-21T18:01:16.737154+00:00",
     "emailed_utc": "2026-07-21T18:01:16.737154+00:00"
+  },
+  {
+    "job_id": "amazon:78ed49ca-33f6-4ba5-862f-de61b815eba3",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Applied Scientist II, Amazon B2B Payments and Lending",
+    "location": "US, WA, Seattle",
+    "posted": "July 20, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10479067/applied-scientist-ii-amazon-b2b-payments-and-lending",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-21T18:11:08.359714+00:00",
+    "emailed_utc": "2026-07-21T18:11:08.359714+00:00"
+  },
+  {
+    "job_id": "amazon:45b7b6b3-dc69-44e7-8622-5d5875cfface",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Dev Engineer II, Shield",
+    "location": "US, WA, Seattle",
+    "posted": "July 21, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10480579/software-dev-engineer-ii-shield",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-21T18:11:08.359714+00:00",
+    "emailed_utc": "2026-07-21T18:11:08.359714+00:00"
   }
 ]
