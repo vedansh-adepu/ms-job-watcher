@@ -36918,5 +36918,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-21T03:03:00.825959+00:00",
     "emailed_utc": "2026-07-21T03:03:00.825959+00:00"
+  },
+  {
+    "job_id": "workday:disney:disneycareer:req:10155719",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Disney",
+    "title": "Health Data Analyst (Project Hire/Internal Assignment)",
+    "location": "Lake Buena Vista, FL, USA",
+    "posted": "Posted Today",
+    "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Lake-Buena-Vista-FL-USA/Health-Data-Analyst--Project-Hire-Internal-Assignment-_10155719",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-21T03:32:46.380396+00:00",
+    "emailed_utc": "2026-07-21T03:32:46.380396+00:00"
+  },
+  {
+    "job_id": "greenhouse:fivetran:7806295003",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Fivetran",
+    "title": "Senior Pricing Data Scientist",
+    "location": "Remote, Illinois, United States, AMER",
+    "posted": "2026-07-20T23:24:47-04:00",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=7806295003",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-21T03:32:46.380396+00:00",
+    "emailed_utc": "2026-07-21T03:32:46.380396+00:00"
   }
 ]
