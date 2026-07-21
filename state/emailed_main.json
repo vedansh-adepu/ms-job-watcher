@@ -4080,5 +4080,18 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-21T03:11:06.396023+00:00",
     "emailed_utc": "2026-07-21T03:11:06.396023+00:00"
+  },
+  {
+    "job_id": "amazon:e8ce1115-a2eb-4418-be1b-f4e3cb4c9e00",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, Prime Video Ads",
+    "location": "US, VA, Arlington",
+    "posted": "July 21, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10479855/software-development-engineer-prime-video-ads",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-21T12:41:06.524873+00:00",
+    "emailed_utc": "2026-07-21T12:41:06.524873+00:00"
   }
 ]
