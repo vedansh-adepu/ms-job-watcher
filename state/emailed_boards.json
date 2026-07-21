@@ -36775,5 +36775,83 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-21T01:02:24.384582+00:00",
     "emailed_utc": "2026-07-21T01:02:24.384582+00:00"
+  },
+  {
+    "job_id": "smartrecruiters:ServiceNow:744000138740839",
+    "pipeline": "boards",
+    "platform": "smartrecruiters",
+    "company": "ServiceNow",
+    "title": "Software Engineering Manager - Build Agent",
+    "location": "Santa Clara, California, us",
+    "posted": "2026-07-20T23:35:02.506Z",
+    "url": "https://jobs.smartrecruiters.com/ServiceNow",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-21T01:32:27.810301+00:00",
+    "emailed_utc": "2026-07-21T01:32:27.810301+00:00"
+  },
+  {
+    "job_id": "greenhouse:spacex:8642250002",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "SpaceX",
+    "title": "Sr. Responsible Engineer - Turbomachinery (Starship)",
+    "location": "McGregor, TX",
+    "posted": "2026-07-20T21:08:46-04:00",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8642250002?gh_jid=8642250002",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-21T01:32:27.810301+00:00",
+    "emailed_utc": "2026-07-21T01:32:27.810301+00:00"
+  },
+  {
+    "job_id": "greenhouse:stabilityai:4932950101",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Stability AI",
+    "title": " Product Design Engineer - Audio",
+    "location": "United States",
+    "posted": "2026-07-20T20:52:27-04:00",
+    "url": "http://stability.ai/careers?gh_jid=4932950101",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-21T01:32:27.810301+00:00",
+    "emailed_utc": "2026-07-21T01:32:27.810301+00:00"
+  },
+  {
+    "job_id": "smartrecruiters:ServiceNow:744000138741349",
+    "pipeline": "boards",
+    "platform": "smartrecruiters",
+    "company": "ServiceNow",
+    "title": "Senior Engineering Manager - Automated Testing Framework",
+    "location": "New York, New York, us",
+    "posted": "2026-07-20T23:45:41.894Z",
+    "url": "https://jobs.smartrecruiters.com/ServiceNow",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-21T01:32:27.810301+00:00",
+    "emailed_utc": "2026-07-21T01:32:27.810301+00:00"
+  },
+  {
+    "job_id": "smartrecruiters:ServiceNow:744000138740959",
+    "pipeline": "boards",
+    "platform": "smartrecruiters",
+    "company": "ServiceNow",
+    "title": "Senior Engineering Manager - Platform",
+    "location": "Santa Clara, California, us",
+    "posted": "2026-07-20T23:37:18.488Z",
+    "url": "https://jobs.smartrecruiters.com/ServiceNow",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-21T01:32:27.810301+00:00",
+    "emailed_utc": "2026-07-21T01:32:27.810301+00:00"
+  },
+  {
+    "job_id": "smartrecruiters:ServiceNow:744000138740919",
+    "pipeline": "boards",
+    "platform": "smartrecruiters",
+    "company": "ServiceNow",
+    "title": "Senior Engineering Manager - Automated Testing Framework",
+    "location": "San Francisco, California, us",
+    "posted": "2026-07-20T23:36:15.521Z",
+    "url": "https://jobs.smartrecruiters.com/ServiceNow",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-21T01:32:27.810301+00:00",
+    "emailed_utc": "2026-07-21T01:32:27.810301+00:00"
   }
 ]
