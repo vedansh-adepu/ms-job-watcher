@@ -4015,5 +4015,57 @@
     "bucket": "yes",
     "first_seen_utc": "2026-07-21T02:31:04.605072+00:00",
     "emailed_utc": "2026-07-21T02:31:04.605072+00:00"
+  },
+  {
+    "job_id": "nvidia:893396474621",
+    "pipeline": "main",
+    "platform": "nvidia",
+    "company": "NVIDIA",
+    "title": "System Software Engineer - GeForce NOW Low Latency Streaming",
+    "location": "Santa Clara, CA, US",
+    "posted": "2026-07-20 00:00 UTC",
+    "url": "https://nvidia.eightfold.ai/careers/job/893396474621",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-21T02:50:54.484354+00:00",
+    "emailed_utc": "2026-07-21T02:50:54.484354+00:00"
+  },
+  {
+    "job_id": "nvidia:893396474615",
+    "pipeline": "main",
+    "platform": "nvidia",
+    "company": "NVIDIA",
+    "title": "Senior Software Engineer - GeForce NOW Video Streaming",
+    "location": "Santa Clara, CA, US",
+    "posted": "2026-07-20 00:00 UTC",
+    "url": "https://nvidia.eightfold.ai/careers/job/893396474615",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-21T02:50:54.484354+00:00",
+    "emailed_utc": "2026-07-21T02:50:54.484354+00:00"
+  },
+  {
+    "job_id": "nvidia:893396474616",
+    "pipeline": "main",
+    "platform": "nvidia",
+    "company": "NVIDIA",
+    "title": "Senior Systems Software Engineer - Fleet Debuggability",
+    "location": "Santa Clara, CA, US",
+    "posted": "2026-07-20 00:00 UTC",
+    "url": "https://nvidia.eightfold.ai/careers/job/893396474616",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-21T02:50:54.484354+00:00",
+    "emailed_utc": "2026-07-21T02:50:54.484354+00:00"
+  },
+  {
+    "job_id": "nvidia:893396474565",
+    "pipeline": "main",
+    "platform": "nvidia",
+    "company": "NVIDIA",
+    "title": "Senior Software Engineer \u2013 Streaming",
+    "location": "Santa Clara, CA, US",
+    "posted": "2026-07-20 00:00 UTC",
+    "url": "https://nvidia.eightfold.ai/careers/job/893396474565",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-21T02:50:54.484354+00:00",
+    "emailed_utc": "2026-07-21T02:50:54.484354+00:00"
   }
 ]
