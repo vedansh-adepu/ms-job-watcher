@@ -4652,5 +4652,31 @@
     "bucket": "yes",
     "first_seen_utc": "2026-07-21T23:41:10.951213+00:00",
     "emailed_utc": "2026-07-21T23:41:10.951213+00:00"
+  },
+  {
+    "job_id": "microsoft:1970393556929429",
+    "pipeline": "main",
+    "platform": "microsoft",
+    "company": "Microsoft",
+    "title": "Senior Software Engineer - Azure Compute",
+    "location": "US",
+    "posted": "2026-07-21 23:22 UTC",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556929429",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-21T23:51:07.029527+00:00",
+    "emailed_utc": "2026-07-21T23:51:07.029527+00:00"
+  },
+  {
+    "job_id": "amazon:ed514492-26c3-4118-990b-166a468296ba",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Embedded Software Dev Engineer II, Amazon Leo for Government - Leo Modem Module Software Team",
+    "location": "US, WA, Redmond",
+    "posted": "July 21, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10480942/embedded-software-dev-engineer-ii-amazon-leo-for-government-leo-modem-module-software-team",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-21T23:51:07.029527+00:00",
+    "emailed_utc": "2026-07-21T23:51:07.029527+00:00"
   }
 ]
