@@ -18276,5 +18276,70 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-20T23:31:58.373806+00:00",
     "emailed_utc": "2026-07-20T23:31:58.373806+00:00"
+  },
+  {
+    "job_id": "greenhouse:hexarmor:7718550003",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "hexarmor",
+    "title": "Data Engineer I",
+    "location": "Grand Rapids, Michigan, United States",
+    "posted": "2026-07-20T20:19:58-04:00",
+    "url": "https://job-boards.greenhouse.io/hexarmor/jobs/7718550003",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-21T00:31:16.090293+00:00",
+    "emailed_utc": "2026-07-21T00:31:16.090293+00:00"
+  },
+  {
+    "job_id": "greenhouse:ethernovia:4704724007",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "ethernovia",
+    "title": "Sr. Embedded Software/Firmware Engineer",
+    "location": "United States - Remote",
+    "posted": "2026-07-20T19:47:43-04:00",
+    "url": "https://job-boards.greenhouse.io/ethernovia/jobs/4704724007",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-21T00:31:16.090293+00:00",
+    "emailed_utc": "2026-07-21T00:31:16.090293+00:00"
+  },
+  {
+    "job_id": "greenhouse:esri:5029064007",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "esri",
+    "title": "Product Engineer II - ArcGIS Online Rest API",
+    "location": "Redlands, CA",
+    "posted": "2026-07-20T18:56:58-04:00",
+    "url": "https://www.esri.com/careers/5029064007?gh_jid=5029064007",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-21T00:31:16.090293+00:00",
+    "emailed_utc": "2026-07-21T00:31:16.090293+00:00"
+  },
+  {
+    "job_id": "greenhouse:flyzipline:7810357003",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "flyzipline",
+    "title": "Test Equipment Design Engineer",
+    "location": "South San Francisco, California, USA",
+    "posted": "2026-07-20T18:41:44-04:00",
+    "url": "https://www.zipline.com/open-roles?gh_jid=7810357003",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-21T00:31:16.090293+00:00",
+    "emailed_utc": "2026-07-21T00:31:16.090293+00:00"
+  },
+  {
+    "job_id": "greenhouse:greenthumbindustries:8073626",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "greenthumbindustries",
+    "title": "Process Engineer - Extraction",
+    "location": "Las Vegas, Nevada, United States",
+    "posted": "2026-07-20T18:47:25-04:00",
+    "url": "https://job-boards.greenhouse.io/greenthumbindustries/jobs/8073626",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-21T00:31:16.090293+00:00",
+    "emailed_utc": "2026-07-21T00:31:16.090293+00:00"
   }
 ]
