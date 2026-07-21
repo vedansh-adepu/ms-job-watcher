@@ -18341,5 +18341,57 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-21T00:31:16.090293+00:00",
     "emailed_utc": "2026-07-21T00:31:16.090293+00:00"
+  },
+  {
+    "job_id": "greenhouse:otterai:7493533003",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "otterai",
+    "title": "Data Scientist, Product",
+    "location": "Mountain View, CA",
+    "posted": "2026-07-20T20:49:14-04:00",
+    "url": "https://otter.ai/careers?gh_jid=7493533003",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-21T01:02:15.333463+00:00",
+    "emailed_utc": "2026-07-21T01:02:15.333463+00:00"
+  },
+  {
+    "job_id": "greenhouse:k2spacecorporation:5365161008",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "k2spacecorporation",
+    "title": "Senior Optomechanical Engineer",
+    "location": "Los Angeles, CA",
+    "posted": "2026-07-20T19:52:56-04:00",
+    "url": "https://job-boards.greenhouse.io/k2spacecorporation/jobs/5365161008",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-21T01:02:15.333463+00:00",
+    "emailed_utc": "2026-07-21T01:02:15.333463+00:00"
+  },
+  {
+    "job_id": "greenhouse:panthalassa:6120111004",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "panthalassa",
+    "title": "Senior Prototype Engineer ",
+    "location": "Portland, OR",
+    "posted": "2026-07-20T20:25:32-04:00",
+    "url": "https://job-boards.greenhouse.io/panthalassa/jobs/6120111004",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-21T01:02:15.333463+00:00",
+    "emailed_utc": "2026-07-21T01:02:15.333463+00:00"
+  },
+  {
+    "job_id": "greenhouse:setpoint:5191690007",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "setpoint",
+    "title": "Staff Analytics Engineer",
+    "location": "Austin, TX (Hybrid)",
+    "posted": "2026-07-20T19:47:35-04:00",
+    "url": "https://job-boards.greenhouse.io/setpoint/jobs/5191690007",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-21T01:02:15.333463+00:00",
+    "emailed_utc": "2026-07-21T01:02:15.333463+00:00"
   }
 ]
