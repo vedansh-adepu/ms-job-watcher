@@ -4509,5 +4509,18 @@
     "bucket": "yes",
     "first_seen_utc": "2026-07-21T21:01:15.819631+00:00",
     "emailed_utc": "2026-07-21T21:01:15.819631+00:00"
+  },
+  {
+    "job_id": "amazon:3e1a9d9f-735e-45f5-9de0-a6b1401d788b",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Sr. Software Dev Engineer",
+    "location": "US, MA, N.reading",
+    "posted": "July 21, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10480818/sr-software-dev-engineer",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-21T21:11:08.650179+00:00",
+    "emailed_utc": "2026-07-21T21:11:08.650179+00:00"
   }
 ]
