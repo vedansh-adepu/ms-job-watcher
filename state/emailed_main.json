@@ -4236,5 +4236,44 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-21T17:51:09.844998+00:00",
     "emailed_utc": "2026-07-21T17:51:09.844998+00:00"
+  },
+  {
+    "job_id": "amazon:3a56d202-791b-4f01-a292-595f28886bee",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Applied Scientist , Amazon Customer Service",
+    "location": "US, WA, Seattle",
+    "posted": "July 21, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10480526/applied-scientist-amazon-customer-service",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-21T18:01:16.737154+00:00",
+    "emailed_utc": "2026-07-21T18:01:16.737154+00:00"
+  },
+  {
+    "job_id": "amazon:e3485ce2-bb0a-485a-ba75-e4a4f3d497ca",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, Amazon Music",
+    "location": "US, CA, San Francisco",
+    "posted": "July 21, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10479793/software-development-engineer-amazon-music",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-21T18:01:16.737154+00:00",
+    "emailed_utc": "2026-07-21T18:01:16.737154+00:00"
+  },
+  {
+    "job_id": "amazon:44cc856c-68ea-47d0-8cf8-20f4816cac16",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Sr.  Applied Scientist, Amazon Customer Service",
+    "location": "US, WA, Seattle",
+    "posted": "July 21, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10480530/sr-applied-scientist-amazon-customer-service",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-21T18:01:16.737154+00:00",
+    "emailed_utc": "2026-07-21T18:01:16.737154+00:00"
   }
 ]
