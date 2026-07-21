@@ -38959,5 +38959,83 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-21T18:02:47.576753+00:00",
     "emailed_utc": "2026-07-21T18:02:47.576753+00:00"
+  },
+  {
+    "job_id": "greenhouse:verkada:5191604007",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "verkada",
+    "title": "Backend Engineer, Alarms",
+    "location": "San Mateo, CA United States",
+    "posted": "2026-07-21T13:53:38-04:00",
+    "url": "https://job-boards.greenhouse.io/verkada/jobs/5191604007",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-21T18:32:07.560339+00:00",
+    "emailed_utc": "2026-07-21T18:32:07.560339+00:00"
+  },
+  {
+    "job_id": "ashby:snowflake:74466b25-9cc8-4e9b-b60b-234c539c455c",
+    "pipeline": "boards",
+    "platform": "ashby",
+    "company": "Snowflake",
+    "title": "Software Engineer",
+    "location": "US-CA-Menlo Park",
+    "posted": "",
+    "url": "https://jobs.ashbyhq.com/snowflake/74466b25-9cc8-4e9b-b60b-234c539c455c",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-21T18:32:07.560339+00:00",
+    "emailed_utc": "2026-07-21T18:32:07.560339+00:00"
+  },
+  {
+    "job_id": "ashby:lime:7112f0e4-f1bb-4372-87a7-c35148f387c3",
+    "pipeline": "boards",
+    "platform": "ashby",
+    "company": "Lime",
+    "title": "Senior Security Engineer",
+    "location": "United States",
+    "posted": "",
+    "url": "https://jobs.ashbyhq.com/lime/7112f0e4-f1bb-4372-87a7-c35148f387c3",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-21T18:32:07.560339+00:00",
+    "emailed_utc": "2026-07-21T18:32:07.560339+00:00"
+  },
+  {
+    "job_id": "ashby:snowflake:93e0949a-bf76-467e-a8e1-b771c32ad7fe",
+    "pipeline": "boards",
+    "platform": "ashby",
+    "company": "Snowflake",
+    "title": "Account Engineer - Public Sector/SLED",
+    "location": "US, Remote",
+    "posted": "",
+    "url": "https://jobs.ashbyhq.com/snowflake/93e0949a-bf76-467e-a8e1-b771c32ad7fe",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-21T18:32:07.560339+00:00",
+    "emailed_utc": "2026-07-21T18:32:07.560339+00:00"
+  },
+  {
+    "job_id": "ashby:snowflake:4674b19c-2a2f-4315-8229-b23a2c1336b4",
+    "pipeline": "boards",
+    "platform": "ashby",
+    "company": "Snowflake",
+    "title": "Director of Engineering, AI Functions",
+    "location": "US-CA-Menlo Park",
+    "posted": "",
+    "url": "https://jobs.ashbyhq.com/snowflake/4674b19c-2a2f-4315-8229-b23a2c1336b4",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-21T18:32:07.560339+00:00",
+    "emailed_utc": "2026-07-21T18:32:07.560339+00:00"
+  },
+  {
+    "job_id": "ashby:g2:9f0311c4-c1b5-436a-93c3-2bd6266659f7",
+    "pipeline": "boards",
+    "platform": "ashby",
+    "company": "G2",
+    "title": "Data Analytics Specialist",
+    "location": "Chicago, IL",
+    "posted": "",
+    "url": "https://jobs.ashbyhq.com/g2/9f0311c4-c1b5-436a-93c3-2bd6266659f7",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-21T18:32:07.560339+00:00",
+    "emailed_utc": "2026-07-21T18:32:07.560339+00:00"
   }
 ]
