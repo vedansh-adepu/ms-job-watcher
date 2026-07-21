@@ -20135,5 +20135,44 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-21T21:01:22.053206+00:00",
     "emailed_utc": "2026-07-21T21:01:22.053206+00:00"
+  },
+  {
+    "job_id": "lever:exowatt:0cfb9bc6-a953-49e9-b507-535e7de5ff5d",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "exowatt",
+    "title": "Mechanical Engineer \u2013 Optical Systems (Miami, FL)",
+    "location": "Miami, FL",
+    "posted": "2026-07-21 21:06 UTC",
+    "url": "https://jobs.lever.co/exowatt/0cfb9bc6-a953-49e9-b507-535e7de5ff5d",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-21T21:32:02.173843+00:00",
+    "emailed_utc": "2026-07-21T21:32:02.173843+00:00"
+  },
+  {
+    "job_id": "lever:extremenetworks:f4c6a82f-315f-4e71-a857-ef534af89038",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "extremenetworks",
+    "title": "Director of Engineering -Exchange",
+    "location": "Seattle, Washington, United States",
+    "posted": "2026-07-21 21:19 UTC",
+    "url": "https://jobs.lever.co/extremenetworks/f4c6a82f-315f-4e71-a857-ef534af89038",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-21T21:32:02.173843+00:00",
+    "emailed_utc": "2026-07-21T21:32:02.173843+00:00"
+  },
+  {
+    "job_id": "lever:inflowfed:d3d76a87-fad7-4b69-8507-bec464faf67d",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "inflowfed",
+    "title": "Nutanix Engineer",
+    "location": "Springfield, VA",
+    "posted": "2024-04-03 13:24 UTC",
+    "url": "https://jobs.lever.co/inflowfed/d3d76a87-fad7-4b69-8507-bec464faf67d",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-21T21:32:02.173843+00:00",
+    "emailed_utc": "2026-07-21T21:32:02.173843+00:00"
   }
 ]
