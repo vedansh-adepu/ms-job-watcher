@@ -36853,5 +36853,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-21T01:32:27.810301+00:00",
     "emailed_utc": "2026-07-21T01:32:27.810301+00:00"
+  },
+  {
+    "job_id": "lever:zoox:d4108968-e83d-4d87-a92c-e4cd1823801c",
+    "pipeline": "boards",
+    "platform": "lever",
+    "company": "zoox",
+    "title": "Software Engineer, ML Platform (ML Training)",
+    "location": "Foster City, CA",
+    "posted": "2026-07-20 22:15 UTC",
+    "url": "https://jobs.lever.co/zoox/d4108968-e83d-4d87-a92c-e4cd1823801c",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-21T02:02:06.943382+00:00",
+    "emailed_utc": "2026-07-21T02:02:06.943382+00:00"
+  },
+  {
+    "job_id": "ashby:replit:07c4c890-0dd4-4022-bba4-8dfba6ff16ee",
+    "pipeline": "boards",
+    "platform": "ashby",
+    "company": "Replit",
+    "title": "Data Scientist, Trust & Safety",
+    "location": "Foster City, CA",
+    "posted": "",
+    "url": "https://jobs.ashbyhq.com/replit/07c4c890-0dd4-4022-bba4-8dfba6ff16ee",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-21T02:02:06.943382+00:00",
+    "emailed_utc": "2026-07-21T02:02:06.943382+00:00"
   }
 ]
