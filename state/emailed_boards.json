@@ -37269,5 +37269,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-21T11:32:44.101018+00:00",
     "emailed_utc": "2026-07-21T11:32:44.101018+00:00"
+  },
+  {
+    "job_id": "workday:ngc:Northrop_Grumman_External_Site:req:R10241230",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Northrop Grumman",
+    "title": "Staff Systems Engineer",
+    "location": "United States-Maryland-Linthicum",
+    "posted": "Posted Today",
+    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Maryland-Linthicum/Staff-Systems-Engineer_R10241230",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-21T12:32:22.683638+00:00",
+    "emailed_utc": "2026-07-21T12:32:22.683638+00:00"
+  },
+  {
+    "job_id": "workday:ngc:Northrop_Grumman_External_Site:req:R10241218",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Northrop Grumman",
+    "title": "Principal/Sr Principal Systems Engineer",
+    "location": "United States-Maryland-Linthicum",
+    "posted": "Posted Today",
+    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Maryland-Linthicum/Principal-Sr-Principal-Systems-Engineer_R10241218",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-21T12:32:22.683638+00:00",
+    "emailed_utc": "2026-07-21T12:32:22.683638+00:00"
   }
 ]
