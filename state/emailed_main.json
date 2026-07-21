@@ -4522,5 +4522,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-21T21:11:08.650179+00:00",
     "emailed_utc": "2026-07-21T21:11:08.650179+00:00"
+  },
+  {
+    "job_id": "amazon:85f529be-53f8-4143-b6c7-2b127e3ccabd",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, Privacy",
+    "location": "US, TX, Austin",
+    "posted": "July 21, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10480857/software-development-engineer-privacy",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-21T21:51:09.249121+00:00",
+    "emailed_utc": "2026-07-21T21:51:09.249121+00:00"
+  },
+  {
+    "job_id": "microsoft:1970393556938985",
+    "pipeline": "main",
+    "platform": "microsoft",
+    "company": "Microsoft",
+    "title": "Critical Environment Mechanical Engineer - CTJ - Top Secret",
+    "location": "Manassas, VA, US",
+    "posted": "2026-07-21 21:48 UTC",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556938985",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-21T21:51:09.249121+00:00",
+    "emailed_utc": "2026-07-21T21:51:09.249121+00:00"
   }
 ]
