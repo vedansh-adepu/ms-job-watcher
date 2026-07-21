@@ -18393,5 +18393,57 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-21T01:02:15.333463+00:00",
     "emailed_utc": "2026-07-21T01:02:15.333463+00:00"
+  },
+  {
+    "job_id": "greenhouse:waymo:7944201",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "waymo",
+    "title": "Senior Software Engineer, Planner Evaluation ",
+    "location": "Mountain View, CA, USA; San Francisco, CA, USA",
+    "posted": "2026-07-20T20:10:12-04:00",
+    "url": "https://careers.withwaymo.com/jobs?gh_jid=7944201",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-21T01:31:53.062685+00:00",
+    "emailed_utc": "2026-07-21T01:31:53.062685+00:00"
+  },
+  {
+    "job_id": "lever:espace:327b5cc7-1500-479c-b317-a77a3a2273fe",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "espace",
+    "title": "Chief Systems Engineer (CSE)",
+    "location": "Saratoga, CA",
+    "posted": "2026-07-20 23:40 UTC",
+    "url": "https://jobs.lever.co/espace/327b5cc7-1500-479c-b317-a77a3a2273fe",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-21T01:31:53.062685+00:00",
+    "emailed_utc": "2026-07-21T01:31:53.062685+00:00"
+  },
+  {
+    "job_id": "lever:perrknight:25c048e1-bf16-462c-a71c-339ebae276f9",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "perrknight",
+    "title": "Senior Full Stack Developer",
+    "location": "Charlotte, NC",
+    "posted": "2026-07-21 00:06 UTC",
+    "url": "https://jobs.lever.co/perrknight/25c048e1-bf16-462c-a71c-339ebae276f9",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-21T01:31:53.062685+00:00",
+    "emailed_utc": "2026-07-21T01:31:53.062685+00:00"
+  },
+  {
+    "job_id": "lever:sonatype:ffebffdc-776a-4c8f-8106-7a8e8331c02d",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "sonatype",
+    "title": "Staff Software Engineer - Agentic First",
+    "location": "US - Remote",
+    "posted": "2026-04-27 16:47 UTC",
+    "url": "https://jobs.lever.co/sonatype/ffebffdc-776a-4c8f-8106-7a8e8331c02d",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-21T01:31:53.062685+00:00",
+    "emailed_utc": "2026-07-21T01:31:53.062685+00:00"
   }
 ]
