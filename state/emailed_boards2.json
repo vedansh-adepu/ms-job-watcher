@@ -18809,5 +18809,70 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-21T13:32:01.451018+00:00",
     "emailed_utc": "2026-07-21T13:32:01.451018+00:00"
+  },
+  {
+    "job_id": "greenhouse:janestreet:8628843002",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "janestreet",
+    "title": "Windows Engineer",
+    "location": "New York, New York, United States",
+    "posted": "2026-07-21T09:14:49-04:00",
+    "url": "https://job-boards.greenhouse.io/janestreet/jobs/8628843002",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-21T14:01:54.639155+00:00",
+    "emailed_utc": "2026-07-21T14:01:54.639155+00:00"
+  },
+  {
+    "job_id": "greenhouse:lpc:5192007007",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "lpc",
+    "title": "Regional Building Engineering Director",
+    "location": "Frisco, TX",
+    "posted": "2026-07-21T09:06:45-04:00",
+    "url": "https://job-boards.greenhouse.io/lpc/jobs/5192007007",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-21T14:01:54.639155+00:00",
+    "emailed_utc": "2026-07-21T14:01:54.639155+00:00"
+  },
+  {
+    "job_id": "greenhouse:optiverus:8402081002",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "optiverus",
+    "title": "Graduate FPGA Engineer (2027 Start - Austin)",
+    "location": "Austin, Texas, United States",
+    "posted": "2026-07-21T08:38:51-04:00",
+    "url": "https://www.optiver.com/join-us/jobs/8402081002/?gh_jid=8402081002",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-21T14:01:54.639155+00:00",
+    "emailed_utc": "2026-07-21T14:01:54.639155+00:00"
+  },
+  {
+    "job_id": "greenhouse:optiverus:8402079002",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "optiverus",
+    "title": "Graduate FPGA Engineer (2027 Start - Chicago)",
+    "location": "Chicago, Illinois, United States",
+    "posted": "2026-07-21T08:38:46-04:00",
+    "url": "https://www.optiver.com/join-us/jobs/8402079002/?gh_jid=8402079002",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-21T14:01:54.639155+00:00",
+    "emailed_utc": "2026-07-21T14:01:54.639155+00:00"
+  },
+  {
+    "job_id": "greenhouse:smxtech:7808402003",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "smxtech",
+    "title": "Cyber Security Engineer (5462)",
+    "location": "United States",
+    "posted": "2026-07-21T09:17:10-04:00",
+    "url": "https://www.smxtech.com/careers/?gh_jid=7808402003",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-21T14:01:54.639155+00:00",
+    "emailed_utc": "2026-07-21T14:01:54.639155+00:00"
   }
 ]
