@@ -4496,5 +4496,18 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-21T20:51:05.182566+00:00",
     "emailed_utc": "2026-07-21T20:51:05.182566+00:00"
+  },
+  {
+    "job_id": "microsoft:1970393556939508",
+    "pipeline": "main",
+    "platform": "microsoft",
+    "company": "Microsoft",
+    "title": "Data Engineer",
+    "location": "Redmond, WA, US",
+    "posted": "2026-07-21 20:42 UTC",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556939508",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-21T21:01:15.819631+00:00",
+    "emailed_utc": "2026-07-21T21:01:15.819631+00:00"
   }
 ]
