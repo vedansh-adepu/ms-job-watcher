@@ -18744,5 +18744,70 @@
     "bucket": "yes",
     "first_seen_utc": "2026-07-21T11:02:28.475807+00:00",
     "emailed_utc": "2026-07-21T11:02:28.475807+00:00"
+  },
+  {
+    "job_id": "greenhouse:googlefiber:6115863004",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "googlefiber",
+    "title": "Backend Engineer, AI Systems",
+    "location": "Sunnyvale, California, United States",
+    "posted": "2026-07-21T09:00:13-04:00",
+    "url": "https://fiber.google.com/careers/job/?gh_jid=6115863004",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-21T13:32:01.451018+00:00",
+    "emailed_utc": "2026-07-21T13:32:01.451018+00:00"
+  },
+  {
+    "job_id": "greenhouse:abacusinsights:8642029002",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "abacusinsights",
+    "title": "Principal Data Engineer",
+    "location": "Remote US",
+    "posted": "2026-07-21T09:13:45-04:00",
+    "url": "https://boards.greenhouse.io/abacusinsights/jobs/8642029002?gh_jid=8642029002",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-21T13:32:01.451018+00:00",
+    "emailed_utc": "2026-07-21T13:32:01.451018+00:00"
+  },
+  {
+    "job_id": "greenhouse:dlrgroup:5361581008",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "dlrgroup",
+    "title": "Civil Engineer, Entry Level ",
+    "location": "Des Moines, Iowa, United States; Omaha, Nebraska, United States",
+    "posted": "2026-07-21T07:35:20-04:00",
+    "url": "https://job-boards.greenhouse.io/dlrgroup/jobs/5361581008",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-21T13:32:01.451018+00:00",
+    "emailed_utc": "2026-07-21T13:32:01.451018+00:00"
+  },
+  {
+    "job_id": "greenhouse:googlefiber:6112463004",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "googlefiber",
+    "title": "HR Application Engineer",
+    "location": "Sunnyvale, California, United States",
+    "posted": "2026-07-21T09:00:12-04:00",
+    "url": "https://fiber.google.com/careers/job/?gh_jid=6112463004",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-21T13:32:01.451018+00:00",
+    "emailed_utc": "2026-07-21T13:32:01.451018+00:00"
+  },
+  {
+    "job_id": "greenhouse:googlefiber:6110633004",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "googlefiber",
+    "title": "Senior SCM Application Engineering Lead",
+    "location": "Sunnyvale, California, United States",
+    "posted": "2026-07-21T09:00:13-04:00",
+    "url": "https://fiber.google.com/careers/job/?gh_jid=6110633004",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-21T13:32:01.451018+00:00",
+    "emailed_utc": "2026-07-21T13:32:01.451018+00:00"
   }
 ]
