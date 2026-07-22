@@ -41338,5 +41338,44 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-21T23:32:00.944496+00:00",
     "emailed_utc": "2026-07-21T23:32:00.944496+00:00"
+  },
+  {
+    "job_id": "greenhouse:glydways:5192917007",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Glydways",
+    "title": "Software Engineer, Onboard Integration",
+    "location": "Richmond, CA",
+    "posted": "2026-07-21T19:01:09-04:00",
+    "url": "https://job-boards.greenhouse.io/glydways/jobs/5192917007",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-22T00:01:00.785581+00:00",
+    "emailed_utc": "2026-07-22T00:01:00.785581+00:00"
+  },
+  {
+    "job_id": "ashby:formenergy:fe13b31d-ade4-44ed-9000-1a6bc5e0415a",
+    "pipeline": "boards",
+    "platform": "ashby",
+    "company": "Form Energy",
+    "title": "Senior Engineering Technician, Prototype Shop",
+    "location": "Berkeley, CA",
+    "posted": "",
+    "url": "https://jobs.ashbyhq.com/formenergy/fe13b31d-ade4-44ed-9000-1a6bc5e0415a",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-22T00:01:00.785581+00:00",
+    "emailed_utc": "2026-07-22T00:01:00.785581+00:00"
+  },
+  {
+    "job_id": "ashby:formenergy:7e308d89-4c08-4de8-b6b3-f12cf06e0c1d",
+    "pipeline": "boards",
+    "platform": "ashby",
+    "company": "Form Energy",
+    "title": "Senior Staff Security Engineer",
+    "location": "Berkeley, CA",
+    "posted": "",
+    "url": "https://jobs.ashbyhq.com/formenergy/7e308d89-4c08-4de8-b6b3-f12cf06e0c1d",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-22T00:01:00.785581+00:00",
+    "emailed_utc": "2026-07-22T00:01:00.785581+00:00"
   }
 ]
