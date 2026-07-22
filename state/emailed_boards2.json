@@ -20746,5 +20746,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-22T12:31:57.948677+00:00",
     "emailed_utc": "2026-07-22T12:31:57.948677+00:00"
+  },
+  {
+    "job_id": "greenhouse:convene:8076660",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "convene",
+    "title": "A1 Audio Engineer, Live Events",
+    "location": "New York, NY",
+    "posted": "2026-07-22T08:10:45-04:00",
+    "url": "https://job-boards.greenhouse.io/convene/jobs/8076660",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-22T13:32:52.733473+00:00",
+    "emailed_utc": "2026-07-22T13:32:52.733473+00:00"
+  },
+  {
+    "job_id": "greenhouse:grafanalabs:6121755004",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "grafanalabs",
+    "title": "Senior Machine Learning Engineer, Developer Advocacy | US | Remote",
+    "location": "United States (Remote)",
+    "posted": "2026-07-22T08:59:45-04:00",
+    "url": "https://job-boards.greenhouse.io/grafanalabs/jobs/6121755004",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-22T13:32:52.733473+00:00",
+    "emailed_utc": "2026-07-22T13:32:52.733473+00:00"
   }
 ]
