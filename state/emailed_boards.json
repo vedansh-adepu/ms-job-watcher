@@ -42495,5 +42495,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-22T14:32:15.466002+00:00",
     "emailed_utc": "2026-07-22T14:32:15.466002+00:00"
+  },
+  {
+    "job_id": "workday:rockwellautomation:External_Rockwell_Automation:url:https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External_Rockwell_Automation/job/Milwaukee-Wisconsin-United-States/Process-Automation-Software-Engineer_R26-4268-1",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Rockwell Automation",
+    "title": "Process Automation Software Engineer",
+    "location": "Milwaukee, Wisconsin, United States",
+    "posted": "Posted Today",
+    "url": "https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External_Rockwell_Automation/job/Milwaukee-Wisconsin-United-States/Process-Automation-Software-Engineer_R26-4268-1",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-22T15:02:40.155601+00:00",
+    "emailed_utc": "2026-07-22T15:02:40.155601+00:00"
+  },
+  {
+    "job_id": "workday:target:targetcareers:req:R0000444767",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Target",
+    "title": "Sr Logistics Analyst - Transportation Analytics & Optimization (TAO)-Hybrid",
+    "location": "1000 Nicollet Mall, Minneapolis,MN 55403-2542",
+    "posted": "Posted Today",
+    "url": "https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/1000-Nicollet-Mall-MinneapolisMN-55403-2542/Sr-Logistics-Analyst---Transportation-Analytics---Optimization--TAO--Hybrid_R0000444767",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-22T15:02:40.155601+00:00",
+    "emailed_utc": "2026-07-22T15:02:40.155601+00:00"
   }
 ]
