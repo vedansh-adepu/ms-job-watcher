@@ -20785,5 +20785,44 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-22T14:02:09.133520+00:00",
     "emailed_utc": "2026-07-22T14:02:09.133520+00:00"
+  },
+  {
+    "job_id": "lever:loftorbital:531e74b5-128c-4c44-8b3b-aebd86c0de7a",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "loftorbital",
+    "title": "Onboard Software Engineer - Deployment & Runtime Environments",
+    "location": "San Francisco, CA",
+    "posted": "2026-07-22 13:44 UTC",
+    "url": "https://jobs.lever.co/loftorbital/531e74b5-128c-4c44-8b3b-aebd86c0de7a",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-22T14:32:21.365270+00:00",
+    "emailed_utc": "2026-07-22T14:32:21.365270+00:00"
+  },
+  {
+    "job_id": "greenhouse:veristainc:5366834008",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "veristainc",
+    "title": "6455 - Senior Project Engineer - HSE Oxygen Depletion Program / Senior Project Engineer",
+    "location": "Indianapolis, IN",
+    "posted": "2026-07-22T08:32:42-04:00",
+    "url": "https://job-boards.greenhouse.io/veristainc/jobs/5366834008",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-22T14:32:21.365270+00:00",
+    "emailed_utc": "2026-07-22T14:32:21.365270+00:00"
+  },
+  {
+    "job_id": "lever:redcanyonsoftware:5c6e8be1-a69c-4cbf-ba09-6bb82e08c217",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "redcanyonsoftware",
+    "title": "Senior GNC Engineer",
+    "location": "United States",
+    "posted": "2026-07-22 13:59 UTC",
+    "url": "https://jobs.lever.co/redcanyonsoftware/5c6e8be1-a69c-4cbf-ba09-6bb82e08c217",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-22T14:32:21.365270+00:00",
+    "emailed_utc": "2026-07-22T14:32:21.365270+00:00"
   }
 ]
