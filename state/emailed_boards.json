@@ -41715,5 +41715,83 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-22T01:32:00.009664+00:00",
     "emailed_utc": "2026-07-22T01:32:00.009664+00:00"
+  },
+  {
+    "job_id": "greenhouse:spacex:8643772002",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "SpaceX",
+    "title": "Application Software Engineer",
+    "location": "Cape Canaveral, FL",
+    "posted": "2026-07-21T20:56:17-04:00",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8643772002?gh_jid=8643772002",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-22T02:02:27.022320+00:00",
+    "emailed_utc": "2026-07-22T02:02:27.022320+00:00"
+  },
+  {
+    "job_id": "greenhouse:ripple:8013611",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Ripple",
+    "title": "Senior Staff Partner Engineer",
+    "location": "San Francisco, CA, United States",
+    "posted": "2026-07-21T19:08:44-04:00",
+    "url": "https://ripple.com/careers/all-jobs/job/8013611?gh_jid=8013611",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-22T02:02:27.022320+00:00",
+    "emailed_utc": "2026-07-22T02:02:27.022320+00:00"
+  },
+  {
+    "job_id": "greenhouse:spacex:8642976002",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "SpaceX",
+    "title": "Sr. Supplier Development Engineer, Data Center (Starlink) ",
+    "location": "Bastrop, TX",
+    "posted": "2026-07-21T20:27:53-04:00",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8642976002?gh_jid=8642976002",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-22T02:02:27.022320+00:00",
+    "emailed_utc": "2026-07-22T02:02:27.022320+00:00"
+  },
+  {
+    "job_id": "greenhouse:trueanomalyinc:5192971007",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "trueanomalyinc",
+    "title": "Spacecraft Mechanical Production Engineer (Senior-Lead)",
+    "location": "Long Beach, CA",
+    "posted": "2026-07-21T20:00:56-04:00",
+    "url": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5192971007",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-22T02:02:27.022320+00:00",
+    "emailed_utc": "2026-07-22T02:02:27.022320+00:00"
+  },
+  {
+    "job_id": "greenhouse:twilio:8065028",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "twilio",
+    "title": "Senior Software Engineer",
+    "location": "Remote - US",
+    "posted": "2026-07-21T21:50:58-04:00",
+    "url": "https://job-boards.greenhouse.io/twilio/jobs/8065028",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-22T02:02:27.022320+00:00",
+    "emailed_utc": "2026-07-22T02:02:27.022320+00:00"
+  },
+  {
+    "job_id": "greenhouse:twilio:8065043",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "twilio",
+    "title": "Staff Software Engineer",
+    "location": "Remote - US",
+    "posted": "2026-07-21T21:50:36-04:00",
+    "url": "https://job-boards.greenhouse.io/twilio/jobs/8065043",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-22T02:02:27.022320+00:00",
+    "emailed_utc": "2026-07-22T02:02:27.022320+00:00"
   }
 ]
