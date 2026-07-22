@@ -22943,5 +22943,18 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-22T22:40:30.235821+00:00",
     "emailed_utc": "2026-07-22T22:40:30.235821+00:00"
+  },
+  {
+    "job_id": "greenhouse:zoominfo:8634703002",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "zoominfo",
+    "title": "Software Engineer III - PA 177",
+    "location": "Bethesda, Maryland, United States",
+    "posted": "2026-07-22T18:38:11-04:00",
+    "url": "https://www.zoominfo.com/careers?gh_jid=8634703002",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-22T23:02:24.244152+00:00",
+    "emailed_utc": "2026-07-22T23:02:24.244152+00:00"
   }
 ]
