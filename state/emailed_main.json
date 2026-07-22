@@ -4808,5 +4808,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-22T16:01:29.584489+00:00",
     "emailed_utc": "2026-07-22T16:01:29.584489+00:00"
+  },
+  {
+    "job_id": "amazon:1608356f-e39a-4788-86e1-1a67a0b5972c",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, CreativeX",
+    "location": "US, NY, New York",
+    "posted": "July 22, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10481469/software-development-engineer-creativex",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-22T16:11:06.641312+00:00",
+    "emailed_utc": "2026-07-22T16:11:06.641312+00:00"
+  },
+  {
+    "job_id": "amazon:079bf5d2-2605-470b-883c-8cf8d3446f63",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, Core Shopping",
+    "location": "US, WA, Seattle",
+    "posted": "July 22, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10481467/software-development-engineer-core-shopping",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-22T16:11:06.641312+00:00",
+    "emailed_utc": "2026-07-22T16:11:06.641312+00:00"
   }
 ]
