@@ -4990,5 +4990,18 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-22T18:51:05.965363+00:00",
     "emailed_utc": "2026-07-22T18:51:05.965363+00:00"
+  },
+  {
+    "job_id": "amazon:55dc9ae7-4bdc-4472-a1d6-97ccd61bf29d",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, Amazon Autos",
+    "location": "US, NY, New York",
+    "posted": "July 22, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10481748/software-development-engineer-amazon-autos",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-22T19:21:00.096864+00:00",
+    "emailed_utc": "2026-07-22T19:21:00.096864+00:00"
   }
 ]
