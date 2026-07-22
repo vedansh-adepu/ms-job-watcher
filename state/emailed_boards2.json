@@ -20889,5 +20889,70 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-22T15:02:09.758195+00:00",
     "emailed_utc": "2026-07-22T15:02:09.758195+00:00"
+  },
+  {
+    "job_id": "greenhouse:koalafi:6104096004",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "koalafi",
+    "title": "Software Engineering Manager - Consumer Experience",
+    "location": "Remote (US), Richmond, VA or Arlington, VA",
+    "posted": "2026-07-22T10:04:51-04:00",
+    "url": "https://boards.greenhouse.io/koalafi/jobs/6104096004?gh_jid=6104096004",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-22T15:31:24.613372+00:00",
+    "emailed_utc": "2026-07-22T15:31:24.613372+00:00"
+  },
+  {
+    "job_id": "greenhouse:metron:5193313007",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "metron",
+    "title": "Autonomous Systems Software Engineer",
+    "location": "Reston, VA",
+    "posted": "2026-07-22T11:09:36-04:00",
+    "url": "https://job-boards.greenhouse.io/metron/jobs/5193313007",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-22T15:31:24.613372+00:00",
+    "emailed_utc": "2026-07-22T15:31:24.613372+00:00"
+  },
+  {
+    "job_id": "greenhouse:oldcastlebuildingenvelope:4327912009",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "oldcastlebuildingenvelope",
+    "title": "Product Engineer (Bill of Materials)",
+    "location": "Wausau, WI",
+    "posted": "2026-07-22T10:52:39-04:00",
+    "url": "https://job-boards.greenhouse.io/oldcastlebuildingenvelope/jobs/4327912009",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-22T15:31:24.613372+00:00",
+    "emailed_utc": "2026-07-22T15:31:24.613372+00:00"
+  },
+  {
+    "job_id": "greenhouse:paperlessparts:4716736005",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "paperlessparts",
+    "title": "Services Engineer",
+    "location": "Boston, MA",
+    "posted": "2026-07-22T10:28:19-04:00",
+    "url": "https://job-boards.greenhouse.io/paperlessparts/jobs/4716736005",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-22T15:31:24.613372+00:00",
+    "emailed_utc": "2026-07-22T15:31:24.613372+00:00"
+  },
+  {
+    "job_id": "greenhouse:temporaltechnologies:5193357007",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "temporaltechnologies",
+    "title": "Senior Developer Advocate, Developer Education",
+    "location": "United States - Remote Opportunity",
+    "posted": "2026-07-22T11:10:28-04:00",
+    "url": "https://job-boards.greenhouse.io/temporaltechnologies/jobs/5193357007",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-22T15:31:24.613372+00:00",
+    "emailed_utc": "2026-07-22T15:31:24.613372+00:00"
   }
 ]
