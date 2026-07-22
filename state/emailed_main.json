@@ -5185,5 +5185,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-22T22:01:08.859085+00:00",
     "emailed_utc": "2026-07-22T22:01:08.859085+00:00"
+  },
+  {
+    "job_id": "amazon:1276eacb-2183-42a8-b53e-0aff8f20aa73",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer - AWS IAM Identity Center, IAM Identity Center - Unified SignIn and Sessions",
+    "location": "US, WA, Seattle",
+    "posted": "July 22, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10481995/software-development-engineer-aws-iam-identity-center-iam-identity-center-unified-signin-and-sessions",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-22T22:21:05.038623+00:00",
+    "emailed_utc": "2026-07-22T22:21:05.038623+00:00"
+  },
+  {
+    "job_id": "amazon:ba1d64e2-bd7f-468f-8430-f6a039a88ed6",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Manager, IAM",
+    "location": "US, NY, New York",
+    "posted": "July 22, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10481990/software-development-manager-iam",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-22T22:21:05.038623+00:00",
+    "emailed_utc": "2026-07-22T22:21:05.038623+00:00"
   }
 ]
