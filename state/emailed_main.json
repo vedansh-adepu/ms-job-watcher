@@ -4704,5 +4704,31 @@
     "bucket": "yes",
     "first_seen_utc": "2026-07-22T00:41:20.961604+00:00",
     "emailed_utc": "2026-07-22T00:41:20.961604+00:00"
+  },
+  {
+    "job_id": "amazon:63b8511b-ccff-45d7-a1b8-c5ab6fe0f548",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, Neuron Foundation Tools",
+    "location": "US, WA, Seattle",
+    "posted": "July 22, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10481056/software-development-engineer-neuron-foundation-tools",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-22T05:01:24.607461+00:00",
+    "emailed_utc": "2026-07-22T05:01:24.607461+00:00"
+  },
+  {
+    "job_id": "amazon:5cd1c305-6859-4bc6-9eaa-78377e636232",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer - CV Test Infrastructure, Annapurna ML, CV Test Infrastructure",
+    "location": "US, TX, Austin",
+    "posted": "July 22, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10481057/software-development-engineer-cv-test-infrastructure-annapurna-ml-cv-test-infrastructure",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-22T05:01:24.607461+00:00",
+    "emailed_utc": "2026-07-22T05:01:24.607461+00:00"
   }
 ]
