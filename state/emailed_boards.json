@@ -42521,5 +42521,44 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-22T15:02:40.155601+00:00",
     "emailed_utc": "2026-07-22T15:02:40.155601+00:00"
+  },
+  {
+    "job_id": "ashby:nomic:21d50c01-ca17-461e-ba8e-7710b505e51a",
+    "pipeline": "boards",
+    "platform": "ashby",
+    "company": "Nomic",
+    "title": "Customer Success Data Analyst",
+    "location": "Remote (Canada or US)",
+    "posted": "",
+    "url": "https://jobs.ashbyhq.com/nomic/21d50c01-ca17-461e-ba8e-7710b505e51a",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-22T15:32:16.968600+00:00",
+    "emailed_utc": "2026-07-22T15:32:16.968600+00:00"
+  },
+  {
+    "job_id": "greenhouse:voyagertechnologiesinc:4326990009",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "voyagertechnologiesinc",
+    "title": "Systems Engineer \u2013 Project Engineer V",
+    "location": "Folsom, CA, Remote Colorado",
+    "posted": "2026-07-22T10:22:36-04:00",
+    "url": "https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4326990009",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-22T15:32:16.968600+00:00",
+    "emailed_utc": "2026-07-22T15:32:16.968600+00:00"
+  },
+  {
+    "job_id": "ashby:snowflake:c72fe39d-d4fb-488e-a33b-ebb5b6cb28c1",
+    "pipeline": "boards",
+    "platform": "ashby",
+    "company": "Snowflake",
+    "title": "Senior Solution Engineer - Defense Industrial Base (DIB)",
+    "location": "US-VA-McLean",
+    "posted": "",
+    "url": "https://jobs.ashbyhq.com/snowflake/c72fe39d-d4fb-488e-a33b-ebb5b6cb28c1",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-22T15:32:16.968600+00:00",
+    "emailed_utc": "2026-07-22T15:32:16.968600+00:00"
   }
 ]
