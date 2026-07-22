@@ -20629,5 +20629,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-22T04:31:22.631499+00:00",
     "emailed_utc": "2026-07-22T04:31:22.631499+00:00"
+  },
+  {
+    "job_id": "greenhouse:xai:5193037007",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "xai",
+    "title": "ML Infrastructure Engineer",
+    "location": "Palo Alto, California, United States",
+    "posted": "2026-07-22T00:04:23-04:00",
+    "url": "https://job-boards.greenhouse.io/xai/jobs/5193037007",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-22T05:02:08.573028+00:00",
+    "emailed_utc": "2026-07-22T05:02:08.573028+00:00"
+  },
+  {
+    "job_id": "lever:grailbio:dad6bcde-ffcd-49f7-b079-26913315e746",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "grailbio",
+    "title": "Staff Software Development Engineer - Enterprise AI Infrastructure - #4898",
+    "location": "Menlo Park, CA",
+    "posted": "2026-07-16 13:15 UTC",
+    "url": "https://jobs.lever.co/grailbio/dad6bcde-ffcd-49f7-b079-26913315e746",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-22T05:02:08.573028+00:00",
+    "emailed_utc": "2026-07-22T05:02:08.573028+00:00"
   }
 ]
