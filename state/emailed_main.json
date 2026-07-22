@@ -5237,5 +5237,44 @@
     "bucket": "yes",
     "first_seen_utc": "2026-07-22T23:11:04.585630+00:00",
     "emailed_utc": "2026-07-22T23:11:04.585630+00:00"
+  },
+  {
+    "job_id": "amazon:4311d387-892b-44cc-8a56-fae75e7f7acb",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Dev Engineer II, AWS Applied AI Solutions",
+    "location": "US, WA, Seattle",
+    "posted": "July 22, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10482048/software-dev-engineer-ii-aws-applied-ai-solutions",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-22T23:41:05.064600+00:00",
+    "emailed_utc": "2026-07-22T23:41:05.064600+00:00"
+  },
+  {
+    "job_id": "amazon:9ebdc00d-6457-4e47-a849-8fe9a01aef2e",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Dev Engineer II, AWS Applied AI Solutions",
+    "location": "US, WA, Seattle",
+    "posted": "July 22, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10482044/software-dev-engineer-ii-aws-applied-ai-solutions",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-22T23:41:05.064600+00:00",
+    "emailed_utc": "2026-07-22T23:41:05.064600+00:00"
+  },
+  {
+    "job_id": "amazon:4e63f9db-acae-42c4-9847-23a6f1dba739",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Manager III, Software Dev, Agentic WorkSpaces",
+    "location": "US, WA, Seattle",
+    "posted": "July 22, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10482046/manager-iii-software-dev-agentic-workspaces",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-22T23:41:05.064600+00:00",
+    "emailed_utc": "2026-07-22T23:41:05.064600+00:00"
   }
 ]
