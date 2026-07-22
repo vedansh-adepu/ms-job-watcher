@@ -5068,5 +5068,18 @@
     "bucket": "yes",
     "first_seen_utc": "2026-07-22T21:01:21.399054+00:00",
     "emailed_utc": "2026-07-22T21:01:21.399054+00:00"
+  },
+  {
+    "job_id": "nvidia:893396517408",
+    "pipeline": "main",
+    "platform": "nvidia",
+    "company": "NVIDIA",
+    "title": "Senior Software Engineer, Quantized Inference",
+    "location": "Redmond, WA, US",
+    "posted": "2026-07-22 00:00 UTC",
+    "url": "https://nvidia.eightfold.ai/careers/job/893396517408",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-22T21:21:07.991202+00:00",
+    "emailed_utc": "2026-07-22T21:21:07.991202+00:00"
   }
 ]
