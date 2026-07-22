@@ -20564,5 +20564,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-22T00:31:22.066232+00:00",
     "emailed_utc": "2026-07-22T00:31:22.066232+00:00"
+  },
+  {
+    "job_id": "greenhouse:ridgeline:7812359003",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "ridgeline",
+    "title": "Full Stack Software Engineer, Client Management",
+    "location": "Reno, NV",
+    "posted": "2026-07-21T20:37:14-04:00",
+    "url": "https://boards.greenhouse.io/ridgeline/jobs/7812359003?gh_jid=7812359003",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-22T02:31:17.585023+00:00",
+    "emailed_utc": "2026-07-22T02:31:17.585023+00:00"
+  },
+  {
+    "job_id": "greenhouse:senrasystems:5361606008",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "senrasystems",
+    "title": "Product Data Analyst ",
+    "location": "Redondo Beach, California, United States",
+    "posted": "2026-07-21T20:44:12-04:00",
+    "url": "https://www.senrasystems.us/join-our-team?gh_jid=5361606008",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-22T02:31:17.585023+00:00",
+    "emailed_utc": "2026-07-22T02:31:17.585023+00:00"
   }
 ]
