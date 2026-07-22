@@ -46811,5 +46811,70 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-22T23:02:20.947688+00:00",
     "emailed_utc": "2026-07-22T23:02:20.947688+00:00"
+  },
+  {
+    "job_id": "ashby:docebo:f004fa75-f98c-4588-969a-93c2653900bb",
+    "pipeline": "boards",
+    "platform": "ashby",
+    "company": "Docebo",
+    "title": "Senior Cloud Engineer I",
+    "location": "Remote USA",
+    "posted": "",
+    "url": "https://jobs.ashbyhq.com/docebo/f004fa75-f98c-4588-969a-93c2653900bb",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-22T23:31:09.891981+00:00",
+    "emailed_utc": "2026-07-22T23:31:09.891981+00:00"
+  },
+  {
+    "job_id": "greenhouse:latitude:8077653",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Latitude",
+    "title": "Staff Software Engineer - Radar Sensors ",
+    "location": "Pittsburgh, PA, Palo Alto, CA, Detroit, MI",
+    "posted": "2026-07-22T17:53:46-04:00",
+    "url": "https://job-boards.greenhouse.io/latitude/jobs/8077653",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-22T23:31:09.891981+00:00",
+    "emailed_utc": "2026-07-22T23:31:09.891981+00:00"
+  },
+  {
+    "job_id": "lever:dodmg:81e8ee20-73a6-43da-915e-a7859d4b74e2",
+    "pipeline": "boards",
+    "platform": "lever",
+    "company": "Dodmg",
+    "title": "Senior Systems Engineer",
+    "location": "Camarillo, CA",
+    "posted": "2026-07-22 21:43 UTC",
+    "url": "https://jobs.lever.co/dodmg/81e8ee20-73a6-43da-915e-a7859d4b74e2",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-22T23:31:09.891981+00:00",
+    "emailed_utc": "2026-07-22T23:31:09.891981+00:00"
+  },
+  {
+    "job_id": "lever:dodmg:b9100670-b734-4384-83b2-cad721ceb2f4",
+    "pipeline": "boards",
+    "platform": "lever",
+    "company": "Dodmg",
+    "title": "Senior Test & Evaluation Engineer",
+    "location": "Malibu, CA",
+    "posted": "2026-07-22 22:00 UTC",
+    "url": "https://jobs.lever.co/dodmg/b9100670-b734-4384-83b2-cad721ceb2f4",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-22T23:31:09.891981+00:00",
+    "emailed_utc": "2026-07-22T23:31:09.891981+00:00"
+  },
+  {
+    "job_id": "lever:field-ai:62338ab8-c160-4656-93b3-15e153b09a1e",
+    "pipeline": "boards",
+    "platform": "lever",
+    "company": "Field Ai",
+    "title": "Senior Software Engineer, Robotics- Behavior & Interaction",
+    "location": "Irvine, CA",
+    "posted": "2026-07-22 22:47 UTC",
+    "url": "https://jobs.lever.co/field-ai/62338ab8-c160-4656-93b3-15e153b09a1e",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-22T23:31:09.891981+00:00",
+    "emailed_utc": "2026-07-22T23:31:09.891981+00:00"
   }
 ]
