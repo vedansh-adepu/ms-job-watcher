@@ -20473,5 +20473,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-21T23:02:05.260498+00:00",
     "emailed_utc": "2026-07-21T23:02:05.260498+00:00"
+  },
+  {
+    "job_id": "greenhouse:2k:7787506003",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "2k",
+    "title": "Staff Data Analyst",
+    "location": "Novato, California, United States",
+    "posted": "2026-07-21T18:38:38-04:00",
+    "url": "https://job-boards.greenhouse.io/2k/jobs/7787506003",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-22T00:01:53.757856+00:00",
+    "emailed_utc": "2026-07-22T00:01:53.757856+00:00"
+  },
+  {
+    "job_id": "greenhouse:eositsolutions:8642926002",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "eositsolutions",
+    "title": "Physical Security Systems Engineer (Avigilon)",
+    "location": "Santa Clara, California, United States",
+    "posted": "2026-07-21T20:00:35-04:00",
+    "url": "https://eosits.com/company/careers/?gh_jid=8642926002",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-22T00:01:53.757856+00:00",
+    "emailed_utc": "2026-07-22T00:01:53.757856+00:00"
   }
 ]
