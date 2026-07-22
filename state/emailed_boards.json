@@ -41897,5 +41897,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-22T05:30:56.253420+00:00",
     "emailed_utc": "2026-07-22T05:30:56.253420+00:00"
+  },
+  {
+    "job_id": "greenhouse:doordashusa:8070993",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "doordashusa",
+    "title": "Hardware Integration Engineer",
+    "location": "San Francisco, CA",
+    "posted": "2026-07-22T02:08:03-04:00",
+    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8070993",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-22T06:32:46.995812+00:00",
+    "emailed_utc": "2026-07-22T06:32:46.995812+00:00"
+  },
+  {
+    "job_id": "greenhouse:doordashusa:8070969",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "doordashusa",
+    "title": "Software Integration Engineer",
+    "location": "San Francisco, CA",
+    "posted": "2026-07-22T02:04:19-04:00",
+    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8070969",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-22T06:32:46.995812+00:00",
+    "emailed_utc": "2026-07-22T06:32:46.995812+00:00"
   }
 ]
