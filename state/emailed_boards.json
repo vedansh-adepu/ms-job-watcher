@@ -44042,5 +44042,44 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-22T17:32:44.181366+00:00",
     "emailed_utc": "2026-07-22T17:32:44.181366+00:00"
+  },
+  {
+    "job_id": "ashby:benchling:6beeaebc-fd49-47d7-a179-dd674bab58b7",
+    "pipeline": "boards",
+    "platform": "ashby",
+    "company": "Benchling",
+    "title": "Software Engineer, Applications (App Foundations) (High Seniority)",
+    "location": "San Francisco, CA",
+    "posted": "",
+    "url": "https://jobs.ashbyhq.com/benchling/6beeaebc-fd49-47d7-a179-dd674bab58b7",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-22T18:02:18.948352+00:00",
+    "emailed_utc": "2026-07-22T18:02:18.948352+00:00"
+  },
+  {
+    "job_id": "lever:waabi:933f2e35-ffaf-41db-b836-56de0323f519",
+    "pipeline": "boards",
+    "platform": "lever",
+    "company": "waabi",
+    "title": "Physical Infrastructure Engineer (On-premise)",
+    "location": "Dallas, TX",
+    "posted": "2026-07-22 16:00 UTC",
+    "url": "https://jobs.lever.co/waabi/933f2e35-ffaf-41db-b836-56de0323f519",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-22T18:02:18.948352+00:00",
+    "emailed_utc": "2026-07-22T18:02:18.948352+00:00"
+  },
+  {
+    "job_id": "lever:woven-by-toyota:b65d2e76-ece7-4423-83bb-0ef521c482a1",
+    "pipeline": "boards",
+    "platform": "lever",
+    "company": "woven-by-toyota",
+    "title": "System Safety Engineer",
+    "location": "Ann Arbor, MI",
+    "posted": "2026-07-21 21:29 UTC",
+    "url": "https://jobs.lever.co/woven-by-toyota/b65d2e76-ece7-4423-83bb-0ef521c482a1",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-22T18:02:18.948352+00:00",
+    "emailed_utc": "2026-07-22T18:02:18.948352+00:00"
   }
 ]
