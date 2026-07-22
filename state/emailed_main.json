@@ -4938,5 +4938,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-22T17:41:07.032304+00:00",
     "emailed_utc": "2026-07-22T17:41:07.032304+00:00"
+  },
+  {
+    "job_id": "amazon:4651c159-5d77-4f79-a190-fd2cc915f4b0",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, Last Mile Delivery, Edge Intelligence",
+    "location": "US, CA, Santa Clara",
+    "posted": "July 17, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10478016/software-development-engineer-last-mile-delivery-edge-intelligence",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-22T18:21:06.039176+00:00",
+    "emailed_utc": "2026-07-22T18:21:06.039176+00:00"
+  },
+  {
+    "job_id": "amazon:0a831c42-c2e5-4d2d-b1b8-c1696f0b5dec",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Amazon Leo Network Development Engineer, Amazon Leo Enterprise Network Infrastructure ",
+    "location": "US, WA, Bellevue",
+    "posted": "July 22, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10481702/amazon-leo-network-development-engineer-amazon-leo-enterprise-network-infrastructure",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-22T18:21:06.039176+00:00",
+    "emailed_utc": "2026-07-22T18:21:06.039176+00:00"
   }
 ]
