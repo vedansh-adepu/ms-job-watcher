@@ -20824,5 +20824,70 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-22T14:32:21.365270+00:00",
     "emailed_utc": "2026-07-22T14:32:21.365270+00:00"
+  },
+  {
+    "job_id": "greenhouse:gruve:5366520008",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "gruve",
+    "title": "AI Software Engineer",
+    "location": "USA (Remote)",
+    "posted": "2026-07-22T10:18:22-04:00",
+    "url": "https://gruve.ai/careers/?gh_jid=5366520008",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-22T15:02:09.758195+00:00",
+    "emailed_utc": "2026-07-22T15:02:09.758195+00:00"
+  },
+  {
+    "job_id": "greenhouse:authenticx:4305373009",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "authenticx",
+    "title": "Forward Deployed Engineer",
+    "location": "Titusville, NJ ",
+    "posted": "2026-07-22T10:08:30-04:00",
+    "url": "https://job-boards.greenhouse.io/authenticx/jobs/4305373009",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-22T15:02:09.758195+00:00",
+    "emailed_utc": "2026-07-22T15:02:09.758195+00:00"
+  },
+  {
+    "job_id": "greenhouse:coreweave:4698973006",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "coreweave",
+    "title": "Production Engineer- Team Lead",
+    "location": "Bellevue, WA",
+    "posted": "2026-07-22T10:56:30-04:00",
+    "url": "https://coreweave.com/careers/job?4698973006&board=coreweave&gh_jid=4698973006",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-22T15:02:09.758195+00:00",
+    "emailed_utc": "2026-07-22T15:02:09.758195+00:00"
+  },
+  {
+    "job_id": "greenhouse:eh2:4717450005",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "eh2",
+    "title": "Senior Network Systems Engineer",
+    "location": "Remote, United States",
+    "posted": "2026-07-22T09:43:53-04:00",
+    "url": "https://eh2.com/careers?gh_jid=4717450005",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-22T15:02:09.758195+00:00",
+    "emailed_utc": "2026-07-22T15:02:09.758195+00:00"
+  },
+  {
+    "job_id": "greenhouse:grvty:4328005009",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "grvty",
+    "title": "Lead LAN/WAN Engineer",
+    "location": "Reston, Virginia, United States; Washington, District of Columbia, United States",
+    "posted": "2026-07-22T09:51:36-04:00",
+    "url": "https://job-boards.greenhouse.io/grvty/jobs/4328005009",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-22T15:02:09.758195+00:00",
+    "emailed_utc": "2026-07-22T15:02:09.758195+00:00"
   }
 ]
