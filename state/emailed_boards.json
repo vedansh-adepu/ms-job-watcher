@@ -45004,5 +45004,57 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-22T20:02:44.981133+00:00",
     "emailed_utc": "2026-07-22T20:02:44.981133+00:00"
+  },
+  {
+    "job_id": "greenhouse:figureai:4699095006",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Figureai",
+    "title": "Helix AI Engineer, XR",
+    "location": "San Jose, CA",
+    "posted": "2026-07-22T15:03:28-04:00",
+    "url": "https://job-boards.greenhouse.io/figureai/jobs/4699095006",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-22T21:01:21.184364+00:00",
+    "emailed_utc": "2026-07-22T21:01:21.184364+00:00"
+  },
+  {
+    "job_id": "greenhouse:torcrobotics:8640387002",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Torcrobotics",
+    "title": "Software Engineer, II - Simulation",
+    "location": "Ann Arbor, MI, Blacksburg, VA",
+    "posted": "2026-07-22T15:01:54-04:00",
+    "url": "https://job-boards.greenhouse.io/torcrobotics/jobs/8640387002",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-22T21:01:21.184364+00:00",
+    "emailed_utc": "2026-07-22T21:01:21.184364+00:00"
+  },
+  {
+    "job_id": "greenhouse:lgelectronics:5367752008",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Lgelectronics",
+    "title": "Design Release Engineer Assistant  - CONTRACTOR",
+    "location": "Troy, MI",
+    "posted": "2026-07-22T15:37:00-04:00",
+    "url": "https://job-boards.greenhouse.io/lgelectronics/jobs/5367752008",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-22T21:01:21.184364+00:00",
+    "emailed_utc": "2026-07-22T21:01:21.184364+00:00"
+  },
+  {
+    "job_id": "greenhouse:neuralink:7813024003",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Neuralink",
+    "title": "Electrical Engineer, Robotics",
+    "location": "Austin, Texas, United States; South San Francisco, California, United States",
+    "posted": "2026-07-22T16:27:56-04:00",
+    "url": "https://boards.greenhouse.io/neuralink/jobs/7813024003?gh_jid=7813024003",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-22T21:01:21.184364+00:00",
+    "emailed_utc": "2026-07-22T21:01:21.184364+00:00"
   }
 ]
