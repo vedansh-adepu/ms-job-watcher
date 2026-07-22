@@ -5211,5 +5211,18 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-22T22:21:05.038623+00:00",
     "emailed_utc": "2026-07-22T22:21:05.038623+00:00"
+  },
+  {
+    "job_id": "amazon:ee85be82-69f4-49ce-81ab-07de7f288201",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, AWS Cognito",
+    "location": "US, WA, Seattle",
+    "posted": "July 22, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10482000/software-development-engineer-aws-cognito",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-22T22:31:13.492877+00:00",
+    "emailed_utc": "2026-07-22T22:31:13.492877+00:00"
   }
 ]
