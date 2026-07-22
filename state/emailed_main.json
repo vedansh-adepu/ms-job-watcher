@@ -5003,5 +5003,31 @@
     "bucket": "yes",
     "first_seen_utc": "2026-07-22T19:21:00.096864+00:00",
     "emailed_utc": "2026-07-22T19:21:00.096864+00:00"
+  },
+  {
+    "job_id": "amazon:fecb6cab-924a-48e7-b938-53ff5cd4f8b3",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, Amazon Security Platform Engineering",
+    "location": "US, CA, San Luis Obispo",
+    "posted": "July 22, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10481756/software-development-engineer-amazon-security-platform-engineering",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-22T19:31:15.414638+00:00",
+    "emailed_utc": "2026-07-22T19:31:15.414638+00:00"
+  },
+  {
+    "job_id": "amazon:902f0a10-9d04-4248-a9f5-a6387e6350a5",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Senior Software Development Engineer, Sponsored Products",
+    "location": "US, NY, New York",
+    "posted": "July 22, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10481758/senior-software-development-engineer-sponsored-products",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-22T19:31:15.414638+00:00",
+    "emailed_utc": "2026-07-22T19:31:15.414638+00:00"
   }
 ]
