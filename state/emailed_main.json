@@ -5133,5 +5133,57 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-22T21:41:22.805504+00:00",
     "emailed_utc": "2026-07-22T21:41:22.805504+00:00"
+  },
+  {
+    "job_id": "microsoft:1970393556940367",
+    "pipeline": "main",
+    "platform": "microsoft",
+    "company": "Microsoft",
+    "title": "Software Engineer",
+    "location": "Redmond, WA, US",
+    "posted": "2026-07-22 21:38 UTC",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556940367",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-22T22:01:08.859085+00:00",
+    "emailed_utc": "2026-07-22T22:01:08.859085+00:00"
+  },
+  {
+    "job_id": "amazon:4ce485ed-a992-4f76-bb2a-ac62bc0ae9af",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, RDS SQL Server",
+    "location": "US, WA, Redmond",
+    "posted": "July 22, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10481970/software-development-engineer-rds-sql-server",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-22T22:01:08.859085+00:00",
+    "emailed_utc": "2026-07-22T22:01:08.859085+00:00"
+  },
+  {
+    "job_id": "nvidia:893396517838",
+    "pipeline": "main",
+    "platform": "nvidia",
+    "company": "NVIDIA",
+    "title": "Senior System Software Engineer -  Halos",
+    "location": "Santa Clara, CA, US",
+    "posted": "2026-07-22 00:00 UTC",
+    "url": "https://nvidia.eightfold.ai/careers/job/893396517838",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-22T22:01:08.859085+00:00",
+    "emailed_utc": "2026-07-22T22:01:08.859085+00:00"
+  },
+  {
+    "job_id": "nvidia:893396517878",
+    "pipeline": "main",
+    "platform": "nvidia",
+    "company": "NVIDIA",
+    "title": "Senior System Software Engineer -  Halos Core and Robotics Platform",
+    "location": "Santa Clara, CA, US",
+    "posted": "2026-07-22 00:00 UTC",
+    "url": "https://nvidia.eightfold.ai/careers/job/893396517878",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-22T22:01:08.859085+00:00",
+    "emailed_utc": "2026-07-22T22:01:08.859085+00:00"
   }
 ]
