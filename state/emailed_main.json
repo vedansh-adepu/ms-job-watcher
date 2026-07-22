@@ -5029,5 +5029,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-22T19:31:15.414638+00:00",
     "emailed_utc": "2026-07-22T19:31:15.414638+00:00"
+  },
+  {
+    "job_id": "amazon:4820c7ab-2783-4f9e-ab16-fcb626d09624",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, Amazon Brand Store",
+    "location": "US, WA, Seattle",
+    "posted": "July 22, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10481886/software-development-engineer-amazon-brand-store",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-22T20:51:07.396281+00:00",
+    "emailed_utc": "2026-07-22T20:51:07.396281+00:00"
+  },
+  {
+    "job_id": "nvidia:893396516912",
+    "pipeline": "main",
+    "platform": "nvidia",
+    "company": "NVIDIA",
+    "title": "Senior Systems Software Engineer \u2013 QoS",
+    "location": "Santa Clara, CA, US",
+    "posted": "2026-07-22 00:00 UTC",
+    "url": "https://nvidia.eightfold.ai/careers/job/893396516912",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-22T20:51:07.396281+00:00",
+    "emailed_utc": "2026-07-22T20:51:07.396281+00:00"
   }
 ]
