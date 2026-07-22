@@ -20590,5 +20590,31 @@
     "bucket": "yes",
     "first_seen_utc": "2026-07-22T02:31:17.585023+00:00",
     "emailed_utc": "2026-07-22T02:31:17.585023+00:00"
+  },
+  {
+    "job_id": "greenhouse:arcboatcompany:5366549008",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "arcboatcompany",
+    "title": "Applications Engineer",
+    "location": "Torrance, CA",
+    "posted": "2026-07-21T22:10:34-04:00",
+    "url": "https://job-boards.greenhouse.io/arcboatcompany/jobs/5366549008",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-22T04:02:45.006158+00:00",
+    "emailed_utc": "2026-07-22T04:02:45.006158+00:00"
+  },
+  {
+    "job_id": "greenhouse:arcboatcompany:5366563008",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "arcboatcompany",
+    "title": "Build Engineer",
+    "location": "Torrance, CA",
+    "posted": "2026-07-21T23:21:07-04:00",
+    "url": "https://job-boards.greenhouse.io/arcboatcompany/jobs/5366563008",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-22T04:02:45.006158+00:00",
+    "emailed_utc": "2026-07-22T04:02:45.006158+00:00"
   }
 ]
