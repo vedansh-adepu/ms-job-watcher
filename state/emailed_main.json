@@ -5081,5 +5081,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-22T21:21:07.991202+00:00",
     "emailed_utc": "2026-07-22T21:21:07.991202+00:00"
+  },
+  {
+    "job_id": "amazon:34ed82a4-dc83-4add-b9f3-2b69a8bc404b",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "EFA Network Software Engineer I, Annapurna Labs",
+    "location": "US, WA, Seattle",
+    "posted": "July 22, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10481932/efa-network-software-engineer-i-annapurna-labs",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-22T21:31:16.530734+00:00",
+    "emailed_utc": "2026-07-22T21:31:16.530734+00:00"
+  },
+  {
+    "job_id": "amazon:345659e1-ab88-4d2b-89b5-55301dbb0f9c",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, Advertiser Growth Engine",
+    "location": "US, NY, New York",
+    "posted": "July 22, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10481936/software-development-engineer-advertiser-growth-engine",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-22T21:31:16.530734+00:00",
+    "emailed_utc": "2026-07-22T21:31:16.530734+00:00"
   }
 ]
