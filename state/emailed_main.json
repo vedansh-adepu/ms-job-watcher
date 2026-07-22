@@ -4912,5 +4912,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-22T17:31:12.561706+00:00",
     "emailed_utc": "2026-07-22T17:31:12.561706+00:00"
+  },
+  {
+    "job_id": "amazon:d11ccce7-9d6f-4c47-907c-d15d75d399bf",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, CloudFront",
+    "location": "US, WA, Seattle",
+    "posted": "July 22, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10481664/software-development-engineer-cloudfront",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-22T17:41:07.032304+00:00",
+    "emailed_utc": "2026-07-22T17:41:07.032304+00:00"
+  },
+  {
+    "job_id": "amazon:89590477-2eef-47d9-bf6b-84f66e0ddb7a",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Senior Applied Science Manager, AWS Analytics Engineering (AAE)",
+    "location": "US, WA, Seattle",
+    "posted": "July 22, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10481653/senior-applied-science-manager-aws-analytics-engineering-aae",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-22T17:41:07.032304+00:00",
+    "emailed_utc": "2026-07-22T17:41:07.032304+00:00"
   }
 ]
