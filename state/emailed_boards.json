@@ -42560,5 +42560,44 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-22T15:32:16.968600+00:00",
     "emailed_utc": "2026-07-22T15:32:16.968600+00:00"
+  },
+  {
+    "job_id": "ashby:n8n:33e46e4f-85b9-49ca-a010-16586c118c50",
+    "pipeline": "boards",
+    "platform": "ashby",
+    "company": "n8n",
+    "title": "Senior Developer Advocate, US",
+    "location": "United States",
+    "posted": "",
+    "url": "https://jobs.ashbyhq.com/n8n/33e46e4f-85b9-49ca-a010-16586c118c50",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-22T16:01:30.456117+00:00",
+    "emailed_utc": "2026-07-22T16:01:30.456117+00:00"
+  },
+  {
+    "job_id": "greenhouse:avepoint:8070487",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Avepoint",
+    "title": "Forward Deployed Engineer - AI",
+    "location": "Jersey City, NJ, United States",
+    "posted": "2026-07-22T10:09:43-04:00",
+    "url": "https://www.avepoint.com/careers/job-detail?gh_jid=8070487",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-22T16:01:30.456117+00:00",
+    "emailed_utc": "2026-07-22T16:01:30.456117+00:00"
+  },
+  {
+    "job_id": "greenhouse:avepoint:8079381",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Avepoint",
+    "title": "Forward Deployed Engineer - AI",
+    "location": "Chicago, IL, United States",
+    "posted": "2026-07-22T10:09:42-04:00",
+    "url": "https://www.avepoint.com/careers/job-detail?gh_jid=8079381",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-22T16:01:30.456117+00:00",
+    "emailed_utc": "2026-07-22T16:01:30.456117+00:00"
   }
 ]

@@ -4769,5 +4769,44 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-22T15:51:16.840788+00:00",
     "emailed_utc": "2026-07-22T15:51:16.840788+00:00"
+  },
+  {
+    "job_id": "microsoft:1970393556870502",
+    "pipeline": "main",
+    "platform": "microsoft",
+    "company": "Microsoft",
+    "title": "Software Engineer II",
+    "location": "Redmond, WA, US",
+    "posted": "2026-07-22 15:50 UTC",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556870502",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-22T16:01:29.584489+00:00",
+    "emailed_utc": "2026-07-22T16:01:29.584489+00:00"
+  },
+  {
+    "job_id": "amazon:997ae606-8d59-42b0-9c86-339c9dbd4477",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "SDE II, Perception and SLAM, Autonomous Mobility",
+    "location": "US, MA, North Reading",
+    "posted": "July 22, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10481449/sde-ii-perception-and-slam-autonomous-mobility",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-22T16:01:29.584489+00:00",
+    "emailed_utc": "2026-07-22T16:01:29.584489+00:00"
+  },
+  {
+    "job_id": "amazon:8e5d6228-0b4d-4b70-95fd-6b6643d577b9",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Senior Software Development Engineer, Ads Agent Identity and Authorization Infrastructure",
+    "location": "US, NY, New York",
+    "posted": "July 14, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10474487/senior-software-development-engineer-ads-agent-identity-and-authorization-infrastructure",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-22T16:01:29.584489+00:00",
+    "emailed_utc": "2026-07-22T16:01:29.584489+00:00"
   }
 ]
