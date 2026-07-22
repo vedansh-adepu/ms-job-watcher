@@ -1,11 +1,11 @@
 {
-  "updated_utc": "2026-07-22T21:41:24.628709+00:00",
+  "updated_utc": "2026-07-22T21:51:07.047269+00:00",
   "consecutive_zeros": {
     "microsoft": 0,
     "amazon": 0,
     "nvidia": 0,
-    "goldman_sachs": 2038,
+    "goldman_sachs": 2039,
     "ibm": 0,
-    "oracle": 1904
+    "oracle": 1905
   }
 }
