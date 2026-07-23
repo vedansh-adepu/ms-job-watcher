@@ -23606,5 +23606,44 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-23T15:03:00.285824+00:00",
     "emailed_utc": "2026-07-23T15:03:00.285824+00:00"
+  },
+  {
+    "job_id": "greenhouse:woolpert:4033350009",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "woolpert",
+    "title": " Transportation Engineering Group Manager",
+    "location": "Houston, TX",
+    "posted": "2026-07-23T10:09:45-04:00",
+    "url": "https://job-boards.greenhouse.io/woolpert/jobs/4033350009",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-23T15:32:09.018823+00:00",
+    "emailed_utc": "2026-07-23T15:32:09.018823+00:00"
+  },
+  {
+    "job_id": "lever:schmidt-entities:5881958c-c8b0-4f7f-9e5a-933f9b9266c8",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "schmidt-entities",
+    "title": "Endpoint Security Engineer",
+    "location": "San Francisco, CA",
+    "posted": "2026-07-17 22:46 UTC",
+    "url": "https://jobs.lever.co/schmidt-entities/5881958c-c8b0-4f7f-9e5a-933f9b9266c8",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-23T15:32:09.018823+00:00",
+    "emailed_utc": "2026-07-23T15:32:09.018823+00:00"
+  },
+  {
+    "job_id": "lever:thalolabs:1660baa0-a16c-463b-b605-b7b3afca863a",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "thalolabs",
+    "title": "Senior Machine Learning Engineer",
+    "location": "New York, NY",
+    "posted": "2026-07-23 15:26 UTC",
+    "url": "https://jobs.lever.co/thalolabs/1660baa0-a16c-463b-b605-b7b3afca863a",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-23T15:32:09.018823+00:00",
+    "emailed_utc": "2026-07-23T15:32:09.018823+00:00"
   }
 ]
