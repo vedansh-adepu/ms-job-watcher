@@ -49710,5 +49710,57 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-23T17:32:30.857146+00:00",
     "emailed_utc": "2026-07-23T17:32:30.857146+00:00"
+  },
+  {
+    "job_id": "lever:whoop:0f7aaef3-a22e-4051-8dc5-a334ad52536f",
+    "pipeline": "boards",
+    "platform": "lever",
+    "company": "Whoop",
+    "title": "Software Engineering Manager (AI Quality)",
+    "location": "Boston, MA",
+    "posted": "2026-07-23 16:18 UTC",
+    "url": "https://jobs.lever.co/whoop/0f7aaef3-a22e-4051-8dc5-a334ad52536f",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-23T18:01:16.176758+00:00",
+    "emailed_utc": "2026-07-23T18:01:16.176758+00:00"
+  },
+  {
+    "job_id": "ashby:formenergy:ee7663de-9d75-4f68-8f0f-fce336350b85",
+    "pipeline": "boards",
+    "platform": "ashby",
+    "company": "Form Energy",
+    "title": "Senior Mechanical Engineer, Module and Enclosure",
+    "location": "Berkeley, CA",
+    "posted": "",
+    "url": "https://jobs.ashbyhq.com/formenergy/ee7663de-9d75-4f68-8f0f-fce336350b85",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-23T18:01:16.176758+00:00",
+    "emailed_utc": "2026-07-23T18:01:16.176758+00:00"
+  },
+  {
+    "job_id": "greenhouse:iovancebiotherapeutics:5365150008",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Iovancebiotherapeutics",
+    "title": "Supervisor, Engineering & Maintenance",
+    "location": "Philadelphia, PA",
+    "posted": "2026-07-23T12:37:32-04:00",
+    "url": "https://job-boards.greenhouse.io/iovancebiotherapeutics/jobs/5365150008",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-23T18:01:16.176758+00:00",
+    "emailed_utc": "2026-07-23T18:01:16.176758+00:00"
+  },
+  {
+    "job_id": "greenhouse:figureai:4603840006",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Figureai",
+    "title": "Senior Network Engineer",
+    "location": "San Jose, CA",
+    "posted": "2026-07-23T13:23:11-04:00",
+    "url": "https://job-boards.greenhouse.io/figureai/jobs/4603840006",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-23T18:01:16.176758+00:00",
+    "emailed_utc": "2026-07-23T18:01:16.176758+00:00"
   }
 ]
