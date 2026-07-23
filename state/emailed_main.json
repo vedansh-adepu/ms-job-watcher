@@ -5302,5 +5302,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-23T01:01:10.370813+00:00",
     "emailed_utc": "2026-07-23T01:01:10.370813+00:00"
+  },
+  {
+    "job_id": "amazon:8090ba95-ea9f-4c2a-99c6-52c187a43421",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Senior Software Development Engineer, Amazon Publisher Monetization (APM) Insights",
+    "location": "US, CA, Palo Alto",
+    "posted": "July 23, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10482072/senior-software-development-engineer-amazon-publisher-monetization-apm-insights",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-23T01:31:11.708081+00:00",
+    "emailed_utc": "2026-07-23T01:31:11.708081+00:00"
+  },
+  {
+    "job_id": "amazon:ac67f4d8-7058-4523-b5f5-895a2fa0e39f",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Sr. Software Engineer - ML and Distributed Systems, Amazon Personalize",
+    "location": "US, CA, Mountain View",
+    "posted": "July 23, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10482073/sr-software-engineer-ml-and-distributed-systems-amazon-personalize",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-23T01:31:11.708081+00:00",
+    "emailed_utc": "2026-07-23T01:31:11.708081+00:00"
   }
 ]
