@@ -5341,5 +5341,18 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-23T02:21:07.173715+00:00",
     "emailed_utc": "2026-07-23T02:21:07.173715+00:00"
+  },
+  {
+    "job_id": "amazon:4e21b160-961d-42df-949a-53e82457bbec",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, Agentic Workspaces",
+    "location": "US, WA, Seattle",
+    "posted": "July 23, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10482153/software-development-engineer-agentic-workspaces",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-23T04:41:09.759732+00:00",
+    "emailed_utc": "2026-07-23T04:41:09.759732+00:00"
   }
 ]
