@@ -23970,5 +23970,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-23T17:02:12.243667+00:00",
     "emailed_utc": "2026-07-23T17:02:12.243667+00:00"
+  },
+  {
+    "job_id": "lever:talentwerx.io:8a9300a8-897a-4529-8e3a-13c8c58b409b",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "talentwerx.io",
+    "title": "E01-L03 Google Cloud Platform Engineer",
+    "location": "Hanscom AFB, MA",
+    "posted": "2026-07-21 18:09 UTC",
+    "url": "https://jobs.lever.co/talentwerx.io/8a9300a8-897a-4529-8e3a-13c8c58b409b",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-23T17:05:36.629827+00:00",
+    "emailed_utc": "2026-07-23T17:05:36.629827+00:00"
+  },
+  {
+    "job_id": "lever:extremenetworks:32eca762-2b8c-47a9-93be-1e674430fb79",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "extremenetworks",
+    "title": "Principal SW Systems Engineer (10036)",
+    "location": "San Jose, California, United States",
+    "posted": "2026-01-28 15:58 UTC",
+    "url": "https://jobs.lever.co/extremenetworks/32eca762-2b8c-47a9-93be-1e674430fb79",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-23T17:05:36.629827+00:00",
+    "emailed_utc": "2026-07-23T17:05:36.629827+00:00"
   }
 ]
