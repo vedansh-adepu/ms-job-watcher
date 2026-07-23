@@ -5692,5 +5692,18 @@
     "bucket": "yes",
     "first_seen_utc": "2026-07-23T22:01:11.769890+00:00",
     "emailed_utc": "2026-07-23T22:01:11.769890+00:00"
+  },
+  {
+    "job_id": "amazon:ad28d6c1-2339-4a57-b85d-9f1b12612a3d",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Manager, AWS DynamoDB",
+    "location": "US, WA, Seattle",
+    "posted": "July 23, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10483003/software-development-manager-aws-dynamodb",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-23T22:41:06.838644+00:00",
+    "emailed_utc": "2026-07-23T22:41:06.838644+00:00"
   }
 ]
