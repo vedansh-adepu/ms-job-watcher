@@ -50919,5 +50919,44 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-23T19:45:14.020528+00:00",
     "emailed_utc": "2026-07-23T19:45:14.020528+00:00"
+  },
+  {
+    "job_id": "lever:whoop:de38a7c3-db3b-43eb-bf6d-326837c986ab",
+    "pipeline": "boards",
+    "platform": "lever",
+    "company": "Whoop",
+    "title": "Software Enineer II (Fullstack, Health)",
+    "location": "Boston, MA",
+    "posted": "2026-07-23 19:34 UTC",
+    "url": "https://jobs.lever.co/whoop/de38a7c3-db3b-43eb-bf6d-326837c986ab",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-23T20:30:59.676963+00:00",
+    "emailed_utc": "2026-07-23T20:30:59.676963+00:00"
+  },
+  {
+    "job_id": "greenhouse:antora:6118945004",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Antora",
+    "title": "Project Developer, US Industrials",
+    "location": "Remote, US",
+    "posted": "2026-07-23T15:34:20-04:00",
+    "url": "https://job-boards.greenhouse.io/antora/jobs/6118945004",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-23T20:30:59.676963+00:00",
+    "emailed_utc": "2026-07-23T20:30:59.676963+00:00"
+  },
+  {
+    "job_id": "lever:field-ai:8a92d84f-7512-4d64-8d3a-c29b304358d6",
+    "pipeline": "boards",
+    "platform": "lever",
+    "company": "Field Ai",
+    "title": "Senior Data Operations Engineer",
+    "location": "Boston, MA",
+    "posted": "2026-07-23 18:48 UTC",
+    "url": "https://jobs.lever.co/field-ai/8a92d84f-7512-4d64-8d3a-c29b304358d6",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-23T20:30:59.676963+00:00",
+    "emailed_utc": "2026-07-23T20:30:59.676963+00:00"
   }
 ]
