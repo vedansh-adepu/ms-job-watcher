@@ -23320,5 +23320,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-23T08:32:12.454196+00:00",
     "emailed_utc": "2026-07-23T08:32:12.454196+00:00"
+  },
+  {
+    "job_id": "greenhouse:assetwatch:4717490005",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "assetwatch",
+    "title": "Senior Full Stack Engineer",
+    "location": "United States",
+    "posted": "2026-07-23T08:58:44-04:00",
+    "url": "https://job-boards.greenhouse.io/assetwatch/jobs/4717490005",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-23T13:02:27.006906+00:00",
+    "emailed_utc": "2026-07-23T13:02:27.006906+00:00"
+  },
+  {
+    "job_id": "greenhouse:d2consulting:5368473008",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "d2consulting",
+    "title": "Linux/Windows Systems Engineer",
+    "location": "Fort Belvoir, VA",
+    "posted": "2026-07-23T08:41:52-04:00",
+    "url": "https://job-boards.greenhouse.io/d2consulting/jobs/5368473008",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-23T13:02:27.006906+00:00",
+    "emailed_utc": "2026-07-23T13:02:27.006906+00:00"
   }
 ]
