@@ -52076,5 +52076,31 @@
     "bucket": "yes",
     "first_seen_utc": "2026-07-23T22:32:06.547878+00:00",
     "emailed_utc": "2026-07-23T22:32:06.547878+00:00"
+  },
+  {
+    "job_id": "greenhouse:scoutmotors:5189054007",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Scoutmotors",
+    "title": "Engineer, Interior / Electrical Accessory Development",
+    "location": "Novi, Michigan, United States",
+    "posted": "2026-07-23T16:49:14-04:00",
+    "url": "https://job-boards.greenhouse.io/scoutmotors/jobs/5189054007",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-23T23:01:01.698515+00:00",
+    "emailed_utc": "2026-07-23T23:01:01.698515+00:00"
+  },
+  {
+    "job_id": "greenhouse:lucidmotors:5194178007",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Lucidmotors",
+    "title": "Senior Engineer - Motion Planning and Controls, Autonomous Driving",
+    "location": "Newark, CA",
+    "posted": "2026-07-23T18:13:47-04:00",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5194178007",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-23T23:01:01.698515+00:00",
+    "emailed_utc": "2026-07-23T23:01:01.698515+00:00"
   }
 ]
