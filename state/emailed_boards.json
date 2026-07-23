@@ -47318,5 +47318,18 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-23T03:02:55.325771+00:00",
     "emailed_utc": "2026-07-23T03:02:55.325771+00:00"
+  },
+  {
+    "job_id": "workday:ngc:Northrop_Grumman_External_Site:req:R10241853",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Northrop Grumman",
+    "title": "Engineering Technician 2/3",
+    "location": "United States-Utah-Corinne",
+    "posted": "Posted Today",
+    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Utah-Corinne/Engineering-Technician-2-3_R10241853",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-23T03:42:31.426672+00:00",
+    "emailed_utc": "2026-07-23T03:42:31.426672+00:00"
   }
 ]
