@@ -5276,5 +5276,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-22T23:41:05.064600+00:00",
     "emailed_utc": "2026-07-22T23:41:05.064600+00:00"
+  },
+  {
+    "job_id": "nvidia:893396474683",
+    "pipeline": "main",
+    "platform": "nvidia",
+    "company": "NVIDIA",
+    "title": "Senior System Software Engineer -  Halos Core and Robotics Platform",
+    "location": "Santa Clara, CA, US",
+    "posted": "2026-07-21 00:00 UTC",
+    "url": "https://nvidia.eightfold.ai/careers/job/893396474683",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-23T01:01:10.370813+00:00",
+    "emailed_utc": "2026-07-23T01:01:10.370813+00:00"
+  },
+  {
+    "job_id": "amazon:7cdc1445-9c16-41a4-8be8-32ecfc4bbd9f",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Sr. Embedded Software Development Engineer, Ring Team",
+    "location": "US, CA, Sunnyvale",
+    "posted": "July 23, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10482065/sr-embedded-software-development-engineer-ring-team",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-23T01:01:10.370813+00:00",
+    "emailed_utc": "2026-07-23T01:01:10.370813+00:00"
   }
 ]
