@@ -23567,5 +23567,44 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-23T14:54:00.885159+00:00",
     "emailed_utc": "2026-07-23T14:54:00.885159+00:00"
+  },
+  {
+    "job_id": "greenhouse:merceradvisors:5324174008",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "merceradvisors",
+    "title": "Senior Manager, Wealth Solutions Strategy and Analytics",
+    "location": "Remote, USA",
+    "posted": "2026-07-23T10:15:26-04:00",
+    "url": "https://job-boards.greenhouse.io/merceradvisors/jobs/5324174008",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-23T15:03:00.285824+00:00",
+    "emailed_utc": "2026-07-23T15:03:00.285824+00:00"
+  },
+  {
+    "job_id": "greenhouse:pindropsecurity:8039363",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "pindropsecurity",
+    "title": "Senior Manager, Software Engineering",
+    "location": "US - Remote; US-Remote",
+    "posted": "2026-07-23T10:57:06-04:00",
+    "url": "https://www.pindrop.com/careers/job-title/?gh_jid=8039363",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-23T15:03:00.285824+00:00",
+    "emailed_utc": "2026-07-23T15:03:00.285824+00:00"
+  },
+  {
+    "job_id": "greenhouse:rebuildmanufacturing:4695223005",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "rebuildmanufacturing",
+    "title": "Information Security Engineer",
+    "location": "Englewood, CO; Greater Boston, MA; Los Angeles, CA; New Kensington, PA; Rochester, NY; Rock Hill, SC; United States",
+    "posted": "2026-07-23T10:54:30-04:00",
+    "url": "https://job-boards.greenhouse.io/rebuildmanufacturing/jobs/4695223005",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-23T15:03:00.285824+00:00",
+    "emailed_utc": "2026-07-23T15:03:00.285824+00:00"
   }
 ]
