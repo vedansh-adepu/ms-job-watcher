@@ -5419,5 +5419,44 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-23T16:21:39.917648+00:00",
     "emailed_utc": "2026-07-23T16:21:39.917648+00:00"
+  },
+  {
+    "job_id": "microsoft:1970393556941610",
+    "pipeline": "main",
+    "platform": "microsoft",
+    "company": "Microsoft",
+    "title": "Software Engineer-II - Azure Core Storage",
+    "location": "US",
+    "posted": "2026-07-22 19:24 UTC",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556941610",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-23T17:21:09.601478+00:00",
+    "emailed_utc": "2026-07-23T17:21:09.601478+00:00"
+  },
+  {
+    "job_id": "amazon:3209899f-1cfc-427f-8811-4a5ad8eed067",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Sr. System Development Engineer, CloudFront",
+    "location": "US, WA, Seattle",
+    "posted": "July 23, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10482669/sr-system-development-engineer-cloudfront",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-23T17:21:09.601478+00:00",
+    "emailed_utc": "2026-07-23T17:21:09.601478+00:00"
+  },
+  {
+    "job_id": "amazon:1276bb21-2a12-44da-9ecc-b69fc52b75fa",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Manager, Incident Command Systems",
+    "location": "US, CA, Irvine",
+    "posted": "July 23, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10482668/software-development-manager-incident-command-systems",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-23T17:21:09.601478+00:00",
+    "emailed_utc": "2026-07-23T17:21:09.601478+00:00"
   }
 ]
