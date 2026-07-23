@@ -48748,5 +48748,83 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-23T16:33:05.286591+00:00",
     "emailed_utc": "2026-07-23T16:33:05.286591+00:00"
+  },
+  {
+    "job_id": "workday:nvidia:NVIDIAExternalCareerSite:req:JR2021823",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "NVIDIA",
+    "title": "Software Engineer, Physical Design Infrastructure - New College Grad 2026",
+    "location": "US, CA, Santa Clara",
+    "posted": "Posted Today",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--Physical-Design-Infrastructure---New-College-Grad-2026_JR2021823",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-23T16:45:23.924636+00:00",
+    "emailed_utc": "2026-07-23T16:45:23.924636+00:00"
+  },
+  {
+    "job_id": "workday:marvell:MarvellCareers:req:2603088",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Marvell",
+    "title": "Senior Staff Physical Verification CAD engineer",
+    "location": "US-TX - Austin",
+    "posted": "Posted Today",
+    "url": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/US-TX---Austin/Senior-Staff-Physical-Verification-CAD-engineer_2603088",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-23T16:45:23.924636+00:00",
+    "emailed_utc": "2026-07-23T16:45:23.924636+00:00"
+  },
+  {
+    "job_id": "workday:ngc:Northrop_Grumman_External_Site:req:R10241766",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Northrop Grumman",
+    "title": "Industrial Engineer / Principal Industrial Engineer",
+    "location": "United States-Georgia-Warner Robins",
+    "posted": "Posted Today",
+    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Georgia-Warner-Robins/Industrial-Engineer---Principal-Industrial-Engineer_R10241766-1",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-23T16:45:23.924636+00:00",
+    "emailed_utc": "2026-07-23T16:45:23.924636+00:00"
+  },
+  {
+    "job_id": "workday:ngc:Northrop_Grumman_External_Site:req:R10241908",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Northrop Grumman",
+    "title": "Network Engineer - Level 2",
+    "location": "United States-California-Redondo Beach",
+    "posted": "Posted Today",
+    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/Network-Engineer---Level-2_R10241908-1",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-23T16:45:23.924636+00:00",
+    "emailed_utc": "2026-07-23T16:45:23.924636+00:00"
+  },
+  {
+    "job_id": "workday:ngc:Northrop_Grumman_External_Site:req:R10241904",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Northrop Grumman",
+    "title": "Sr. Staff Software Architect-Guidance Systems Integration-14255",
+    "location": "United States-Utah-Roy",
+    "posted": "Posted Today",
+    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/Sr-Staff-Software-Architect-Guidance-Systems-Integration-14255_R10241904",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-23T16:45:23.924636+00:00",
+    "emailed_utc": "2026-07-23T16:45:23.924636+00:00"
+  },
+  {
+    "job_id": "workday:ngc:Northrop_Grumman_External_Site:req:R10241408",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Northrop Grumman",
+    "title": "Systems Engineer - Integrator (Principal or Senior Principal Level)",
+    "location": "United States-California-San Diego",
+    "posted": "Posted Today",
+    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/Systems-Engineer---Integrator--Principal-or-Senior-Principal-Level-_R10241408",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-23T16:45:23.924636+00:00",
+    "emailed_utc": "2026-07-23T16:45:23.924636+00:00"
   }
 ]
