@@ -5562,5 +5562,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-23T19:51:06.165739+00:00",
     "emailed_utc": "2026-07-23T19:51:06.165739+00:00"
+  },
+  {
+    "job_id": "amazon:85285f5e-393e-43fa-80c1-ab9e0d0af273",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, Fauna",
+    "location": "US, NY, New York",
+    "posted": "July 23, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10482841/software-development-engineer-fauna",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-23T20:01:14.210732+00:00",
+    "emailed_utc": "2026-07-23T20:01:14.210732+00:00"
+  },
+  {
+    "job_id": "microsoft:1970393556941969",
+    "pipeline": "main",
+    "platform": "microsoft",
+    "company": "Microsoft",
+    "title": "Principal Software Engineer",
+    "location": "US",
+    "posted": "2026-07-23 19:29 UTC",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556941969",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-23T20:01:14.210732+00:00",
+    "emailed_utc": "2026-07-23T20:01:14.210732+00:00"
   }
 ]
