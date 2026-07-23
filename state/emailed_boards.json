@@ -47071,5 +47071,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-23T00:02:56.890409+00:00",
     "emailed_utc": "2026-07-23T00:02:56.890409+00:00"
+  },
+  {
+    "job_id": "workday:jll:jllcareers:req:REQ524081",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "JLL",
+    "title": "Senior Chief Engineer",
+    "location": "New York, NY",
+    "posted": "Posted Today",
+    "url": "https://jll.wd1.myworkdayjobs.com/en-US/jllcareers/job/New-York-NY/Senior-Chief-Engineer_REQ524081-1",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-23T00:32:43.781980+00:00",
+    "emailed_utc": "2026-07-23T00:32:43.781980+00:00"
+  },
+  {
+    "job_id": "workday:leidos:External:req:R-00187927",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Leidos",
+    "title": "Network Systems Engineer - Cyber",
+    "location": "Laurel, MD",
+    "posted": "Posted Today",
+    "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Laurel-MD/Network-Systems-Engineer---Cyber_R-00187927",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-23T00:32:43.781980+00:00",
+    "emailed_utc": "2026-07-23T00:32:43.781980+00:00"
   }
 ]
