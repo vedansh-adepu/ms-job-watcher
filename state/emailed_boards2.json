@@ -23281,5 +23281,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-23T07:31:42.500315+00:00",
     "emailed_utc": "2026-07-23T07:31:42.500315+00:00"
+  },
+  {
+    "job_id": "greenhouse:think-cell:4929167101",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "think-cell",
+    "title": "Solution Engineer",
+    "location": "New York (United States)",
+    "posted": "2026-07-23T03:50:25-04:00",
+    "url": "https://job-boards.eu.greenhouse.io/think-cell/jobs/4929167101",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-23T08:01:32.822426+00:00",
+    "emailed_utc": "2026-07-23T08:01:32.822426+00:00"
+  },
+  {
+    "job_id": "greenhouse:think-cell:4872201101",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "think-cell",
+    "title": "Solution Engineer",
+    "location": "Denver, Colorado (United States)",
+    "posted": "2026-07-23T03:50:58-04:00",
+    "url": "https://job-boards.eu.greenhouse.io/think-cell/jobs/4872201101",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-23T08:01:32.822426+00:00",
+    "emailed_utc": "2026-07-23T08:01:32.822426+00:00"
   }
 ]
