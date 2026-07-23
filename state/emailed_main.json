@@ -5393,5 +5393,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-23T15:01:14.096773+00:00",
     "emailed_utc": "2026-07-23T15:01:14.096773+00:00"
+  },
+  {
+    "job_id": "amazon:c587df21-26aa-46ec-8fbf-acbb24278639",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "SDE, Responsible AI",
+    "location": "US, WA, Seattle",
+    "posted": "July 23, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10482591/sde-responsible-ai",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-23T16:21:39.917648+00:00",
+    "emailed_utc": "2026-07-23T16:21:39.917648+00:00"
+  },
+  {
+    "job_id": "amazon:6c3ca782-d351-4cbe-89bd-6a8a45571365",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Sr. SDE, Responsible AI",
+    "location": "US, WA, Seattle",
+    "posted": "July 23, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10482589/sr-sde-responsible-ai",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-23T16:21:39.917648+00:00",
+    "emailed_utc": "2026-07-23T16:21:39.917648+00:00"
   }
 ]
