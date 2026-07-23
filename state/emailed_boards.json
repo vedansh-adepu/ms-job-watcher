@@ -47513,5 +47513,18 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-23T07:02:33.300374+00:00",
     "emailed_utc": "2026-07-23T07:02:33.300374+00:00"
+  },
+  {
+    "job_id": "workday:intel:External:req:JR0285492",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Intel",
+    "title": "Lab Engineering Technician",
+    "location": "US, Oregon, Hillsboro",
+    "posted": "Posted Today",
+    "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Lab-Engineering-Technician_JR0285492",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-23T08:45:31.917479+00:00",
+    "emailed_utc": "2026-07-23T08:45:31.917479+00:00"
   }
 ]
