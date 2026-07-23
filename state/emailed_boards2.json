@@ -23190,5 +23190,83 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-23T05:31:42.843218+00:00",
     "emailed_utc": "2026-07-23T05:31:42.843218+00:00"
+  },
+  {
+    "job_id": "greenhouse:vestwell:7751400003",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "vestwell",
+    "title": "Software Engineer",
+    "location": "New York, NY | Austin, TX",
+    "posted": "2026-07-23T00:53:33-04:00",
+    "url": "https://job-boards.greenhouse.io/vestwell/jobs/7751400003",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-23T06:32:03.311721+00:00",
+    "emailed_utc": "2026-07-23T06:32:03.311721+00:00"
+  },
+  {
+    "job_id": "lever:qualdoc:7cf03fe6-8e95-4225-8426-985f4cc45fef",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "qualdoc",
+    "title": "Electrical Design Engineer \u2013 Material Handling Systems",
+    "location": "Ashland, VA",
+    "posted": "2026-07-23 05:18 UTC",
+    "url": "https://jobs.lever.co/qualdoc/7cf03fe6-8e95-4225-8426-985f4cc45fef",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-23T06:32:03.311721+00:00",
+    "emailed_utc": "2026-07-23T06:32:03.311721+00:00"
+  },
+  {
+    "job_id": "lever:qualdoc:60d23731-eef9-4adc-a2d1-e1daed1d16a6",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "qualdoc",
+    "title": "Electrical Systems Solutions Engineer",
+    "location": "Columbus, OH",
+    "posted": "2026-07-23 05:09 UTC",
+    "url": "https://jobs.lever.co/qualdoc/60d23731-eef9-4adc-a2d1-e1daed1d16a6",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-23T06:32:03.311721+00:00",
+    "emailed_utc": "2026-07-23T06:32:03.311721+00:00"
+  },
+  {
+    "job_id": "lever:qualdoc:71954c6d-0c49-4a39-845a-637d33b9c467",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "qualdoc",
+    "title": "Junior Power Systems Electrical Engineer",
+    "location": "Marietta, OH",
+    "posted": "2026-07-23 05:10 UTC",
+    "url": "https://jobs.lever.co/qualdoc/71954c6d-0c49-4a39-845a-637d33b9c467",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-23T06:32:03.311721+00:00",
+    "emailed_utc": "2026-07-23T06:32:03.311721+00:00"
+  },
+  {
+    "job_id": "lever:qualdoc:3bdd6bfb-09bd-496d-a2f3-242fc3b38e5e",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "qualdoc",
+    "title": "Mechanical Product Design Engineer",
+    "location": "Chesterfield, VA",
+    "posted": "2026-07-23 05:23 UTC",
+    "url": "https://jobs.lever.co/qualdoc/3bdd6bfb-09bd-496d-a2f3-242fc3b38e5e",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-23T06:32:03.311721+00:00",
+    "emailed_utc": "2026-07-23T06:32:03.311721+00:00"
+  },
+  {
+    "job_id": "lever:qualdoc:de303575-c12c-4302-8226-840b9aa501d9",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "qualdoc",
+    "title": "Product Development Mechanical Engineer",
+    "location": "Marietta, OH",
+    "posted": "2026-07-23 05:15 UTC",
+    "url": "https://jobs.lever.co/qualdoc/de303575-c12c-4302-8226-840b9aa501d9",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-23T06:32:03.311721+00:00",
+    "emailed_utc": "2026-07-23T06:32:03.311721+00:00"
   }
 ]
