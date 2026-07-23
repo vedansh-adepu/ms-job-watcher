@@ -47253,5 +47253,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-23T01:02:58.974117+00:00",
     "emailed_utc": "2026-07-23T01:02:58.974117+00:00"
+  },
+  {
+    "job_id": "greenhouse:silananotechnologies:8080802",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "silananotechnologies",
+    "title": "Mechanical Engineer, Equipment Engineering",
+    "location": "Alameda, CA",
+    "posted": "2026-07-22T20:28:42-04:00",
+    "url": "https://job-boards.greenhouse.io/silananotechnologies/jobs/8080802",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-23T01:32:24.251859+00:00",
+    "emailed_utc": "2026-07-23T01:32:24.251859+00:00"
+  },
+  {
+    "job_id": "greenhouse:silananotechnologies:8069817",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "silananotechnologies",
+    "title": "Senior Process Controls Engineer",
+    "location": "Alameda, CA",
+    "posted": "2026-07-22T20:29:04-04:00",
+    "url": "https://job-boards.greenhouse.io/silananotechnologies/jobs/8069817",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-23T01:32:24.251859+00:00",
+    "emailed_utc": "2026-07-23T01:32:24.251859+00:00"
   }
 ]
