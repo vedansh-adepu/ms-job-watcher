@@ -23008,5 +23008,44 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-23T00:01:58.294500+00:00",
     "emailed_utc": "2026-07-23T00:01:58.294500+00:00"
+  },
+  {
+    "job_id": "greenhouse:nebius:4926274101",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "nebius",
+    "title": "ML Systems Engineer, Large-Scale Model Training & RL Infrastructure",
+    "location": "Palo Alto, California, United States",
+    "posted": "2026-07-22T18:52:25-04:00",
+    "url": "https://careers.nebius.com/?gh_jid=4926274101",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-23T00:31:30.558215+00:00",
+    "emailed_utc": "2026-07-23T00:31:30.558215+00:00"
+  },
+  {
+    "job_id": "greenhouse:nebius:4921549101",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "nebius",
+    "title": "Senior Applied Scientist, Efficient LLM Inference & Model Optimization",
+    "location": "Palo Alto, California, United States",
+    "posted": "2026-07-22T18:53:48-04:00",
+    "url": "https://careers.nebius.com/?gh_jid=4921549101",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-23T00:31:30.558215+00:00",
+    "emailed_utc": "2026-07-23T00:31:30.558215+00:00"
+  },
+  {
+    "job_id": "greenhouse:nebius:4921522101",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "nebius",
+    "title": "Senior Machine Learning Engineer, LLM Inference Optimization",
+    "location": "Palo Alto, California, United States",
+    "posted": "2026-07-22T18:54:04-04:00",
+    "url": "https://careers.nebius.com/?gh_jid=4921522101",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-23T00:31:30.558215+00:00",
+    "emailed_utc": "2026-07-23T00:31:30.558215+00:00"
   }
 ]
