@@ -23996,5 +23996,70 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-23T17:05:36.629827+00:00",
     "emailed_utc": "2026-07-23T17:05:36.629827+00:00"
+  },
+  {
+    "job_id": "greenhouse:ensco:5367312008",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "ensco",
+    "title": "Software Engineer III",
+    "location": "Endicott, New York, United States",
+    "posted": "2026-07-23T13:23:34-04:00",
+    "url": "https://job-boards.greenhouse.io/ensco/jobs/5367312008",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-23T18:02:43.378156+00:00",
+    "emailed_utc": "2026-07-23T18:02:43.378156+00:00"
+  },
+  {
+    "job_id": "greenhouse:agecareers:5368902008",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "agecareers",
+    "title": "Artificial Intelligence (AI) Engineer",
+    "location": "Fort Meade, MD",
+    "posted": "2026-07-23T13:08:36-04:00",
+    "url": "https://job-boards.greenhouse.io/agecareers/jobs/5368902008",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-23T18:02:43.378156+00:00",
+    "emailed_utc": "2026-07-23T18:02:43.378156+00:00"
+  },
+  {
+    "job_id": "greenhouse:agilityrobotics:6113730004",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "agilityrobotics",
+    "title": "Manufacturing Engineering Technician",
+    "location": "Onsite- Salem, OR",
+    "posted": "2026-07-23T12:40:46-04:00",
+    "url": "https://www.agilityrobotics.com/about/job-post?gh_jid=6113730004",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-23T18:02:43.378156+00:00",
+    "emailed_utc": "2026-07-23T18:02:43.378156+00:00"
+  },
+  {
+    "job_id": "greenhouse:asm:4921864101",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "asm",
+    "title": "Senior Engineer I, Field Service",
+    "location": "US > Idaho > Boise",
+    "posted": "2026-07-23T12:34:49-04:00",
+    "url": "https://www.asm.com/open-vacancies/?gh_jid=4921864101",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-23T18:02:43.378156+00:00",
+    "emailed_utc": "2026-07-23T18:02:43.378156+00:00"
+  },
+  {
+    "job_id": "greenhouse:coinbase:8064873",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "coinbase",
+    "title": "Senior Software Engineer, Data Layer",
+    "location": "Remote - USA",
+    "posted": "2026-07-23T13:19:18-04:00",
+    "url": "https://www.coinbase.com/careers/positions/8064873?gh_jid=8064873",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-23T18:02:43.378156+00:00",
+    "emailed_utc": "2026-07-23T18:02:43.378156+00:00"
   }
 ]
