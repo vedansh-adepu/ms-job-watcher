@@ -22956,5 +22956,57 @@
     "bucket": "yes",
     "first_seen_utc": "2026-07-22T23:02:24.244152+00:00",
     "emailed_utc": "2026-07-22T23:02:24.244152+00:00"
+  },
+  {
+    "job_id": "greenhouse:2k:7813375003",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "2k",
+    "title": "Senior Gameplay Engineer",
+    "location": "San Mateo, California, United States",
+    "posted": "2026-07-22T19:24:27-04:00",
+    "url": "https://job-boards.greenhouse.io/2k/jobs/7813375003",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-23T00:01:58.294500+00:00",
+    "emailed_utc": "2026-07-23T00:01:58.294500+00:00"
+  },
+  {
+    "job_id": "greenhouse:31stunion:7807542003",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "31stunion",
+    "title": "Senior Gameplay Engineer",
+    "location": "San Mateo, California, United States",
+    "posted": "2026-07-22T19:24:04-04:00",
+    "url": "https://job-boards.greenhouse.io/31stunion/jobs/7807542003",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-23T00:01:58.294500+00:00",
+    "emailed_utc": "2026-07-23T00:01:58.294500+00:00"
+  },
+  {
+    "job_id": "greenhouse:eudia:4328350009",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "eudia",
+    "title": "Forward Deployed Engineer - Eudia for Government",
+    "location": "Remote, Washington, DC",
+    "posted": "2026-07-22T19:17:10-04:00",
+    "url": "https://job-boards.greenhouse.io/eudia/jobs/4328350009",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-23T00:01:58.294500+00:00",
+    "emailed_utc": "2026-07-23T00:01:58.294500+00:00"
+  },
+  {
+    "job_id": "greenhouse:fireworksai:4329153009",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "fireworksai",
+    "title": "AI Field Engineer - Enterprise",
+    "location": "Remote, USA",
+    "posted": "2026-07-22T18:31:35-04:00",
+    "url": "https://job-boards.greenhouse.io/fireworksai/jobs/4329153009",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-23T00:01:58.294500+00:00",
+    "emailed_utc": "2026-07-23T00:01:58.294500+00:00"
   }
 ]
