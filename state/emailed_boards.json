@@ -48202,5 +48202,44 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-23T15:02:34.927534+00:00",
     "emailed_utc": "2026-07-23T15:02:34.927534+00:00"
+  },
+  {
+    "job_id": "greenhouse:scoutmotors:5192252007",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Scoutmotors",
+    "title": "Engineer,\u00a0Body Systems Engineering Team \u2013 Exteriors/Interiors",
+    "location": "Charlotte, North Carolina, United States",
+    "posted": "2026-07-23T09:13:34-04:00",
+    "url": "https://job-boards.greenhouse.io/scoutmotors/jobs/5192252007",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-23T15:31:22.066552+00:00",
+    "emailed_utc": "2026-07-23T15:31:22.066552+00:00"
+  },
+  {
+    "job_id": "greenhouse:scoutmotors:5192327007",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Scoutmotors",
+    "title": "Engineer,\u00a0Body Systems Engineering Team \u2013\u00a0Body Metals Team",
+    "location": "Charlotte, North Carolina, United States",
+    "posted": "2026-07-23T09:31:43-04:00",
+    "url": "https://job-boards.greenhouse.io/scoutmotors/jobs/5192327007",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-23T15:31:22.066552+00:00",
+    "emailed_utc": "2026-07-23T15:31:22.066552+00:00"
+  },
+  {
+    "job_id": "lever:field-ai:d7e484f9-325c-4a36-a7be-9fa52c509692",
+    "pipeline": "boards",
+    "platform": "lever",
+    "company": "Field Ai",
+    "title": "Field Application Engineer - Abilene, TX - Temporary Part Time",
+    "location": "Abilene, TX",
+    "posted": "2026-07-23 13:56 UTC",
+    "url": "https://jobs.lever.co/field-ai/d7e484f9-325c-4a36-a7be-9fa52c509692",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-23T15:31:22.066552+00:00",
+    "emailed_utc": "2026-07-23T15:31:22.066552+00:00"
   }
 ]
