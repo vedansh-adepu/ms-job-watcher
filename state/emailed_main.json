@@ -5666,5 +5666,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-23T21:51:04.413682+00:00",
     "emailed_utc": "2026-07-23T21:51:04.413682+00:00"
+  },
+  {
+    "job_id": "amazon:46e1b191-f756-4011-9ac0-45b84ad64c20",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer III, EC2 Core Provisioning",
+    "location": "US, WA, Seattle",
+    "posted": "July 23, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10482972/software-development-engineer-iii-ec2-core-provisioning",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-23T22:01:11.769890+00:00",
+    "emailed_utc": "2026-07-23T22:01:11.769890+00:00"
+  },
+  {
+    "job_id": "amazon:1e3e6e66-cafe-486f-9f7d-084680c5748a",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, EC2 Core Provisioning",
+    "location": "US, WA, Seattle",
+    "posted": "July 23, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10482975/software-development-engineer-ec2-core-provisioning",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-23T22:01:11.769890+00:00",
+    "emailed_utc": "2026-07-23T22:01:11.769890+00:00"
   }
 ]
