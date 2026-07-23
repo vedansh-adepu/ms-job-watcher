@@ -5484,5 +5484,31 @@
     "bucket": "yes",
     "first_seen_utc": "2026-07-23T17:31:03.445921+00:00",
     "emailed_utc": "2026-07-23T17:31:03.445921+00:00"
+  },
+  {
+    "job_id": "amazon:03d3ce42-5e42-48ae-aa13-4d4ea5958364",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Engineer, Discovery ",
+    "location": "US, CA, San Francisco",
+    "posted": "July 23, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10482685/software-engineer-discovery",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-23T17:51:10.631393+00:00",
+    "emailed_utc": "2026-07-23T17:51:10.631393+00:00"
+  },
+  {
+    "job_id": "amazon:d4d3643c-547a-4990-b27f-607d13de8106",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer II, AWS Throttling",
+    "location": "US, WA, Seattle",
+    "posted": "July 23, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10482688/software-development-engineer-ii-aws-throttling",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-23T17:51:10.631393+00:00",
+    "emailed_utc": "2026-07-23T17:51:10.631393+00:00"
   }
 ]
