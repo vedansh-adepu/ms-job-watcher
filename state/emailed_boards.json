@@ -48150,5 +48150,44 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-23T14:29:47.081321+00:00",
     "emailed_utc": "2026-07-23T14:29:47.081321+00:00"
+  },
+  {
+    "job_id": "greenhouse:spacex:8647020002",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "SpaceX",
+    "title": "Sr. Thermal Engineer - Fluids Analysis, AI Satellites (Starmind)",
+    "location": "Bastrop, TX",
+    "posted": "2026-07-23T09:55:00-04:00",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8647020002?gh_jid=8647020002",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-23T14:32:40.707230+00:00",
+    "emailed_utc": "2026-07-23T14:32:40.707230+00:00"
+  },
+  {
+    "job_id": "greenhouse:spacex:8647000002",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "SpaceX",
+    "title": "Sr. Thermal Engineer - Spacecraft Analysis, AI Satellites (Starmind)",
+    "location": "Bastrop, TX",
+    "posted": "2026-07-23T09:49:34-04:00",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8647000002?gh_jid=8647000002",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-23T14:32:40.707230+00:00",
+    "emailed_utc": "2026-07-23T14:32:40.707230+00:00"
+  },
+  {
+    "job_id": "greenhouse:topsteptrader:7813599003",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "TopstepTrader",
+    "title": "Senior Software Development Engineer in Test (SDET)",
+    "location": "United States",
+    "posted": "2026-07-23T09:27:03-04:00",
+    "url": "https://job-boards.greenhouse.io/topsteptrader/jobs/7813599003",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-23T14:32:40.707230+00:00",
+    "emailed_utc": "2026-07-23T14:32:40.707230+00:00"
   }
 ]
