@@ -5588,5 +5588,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-23T20:01:14.210732+00:00",
     "emailed_utc": "2026-07-23T20:01:14.210732+00:00"
+  },
+  {
+    "job_id": "amazon:9b5a44d4-3082-472b-8d98-99677163d8a0",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, Transit Gateway",
+    "location": "US, VA, Herndon",
+    "posted": "July 23, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10482848/software-development-engineer-transit-gateway",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-23T20:11:13.118479+00:00",
+    "emailed_utc": "2026-07-23T20:11:13.118479+00:00"
+  },
+  {
+    "job_id": "nvidia:893396382045",
+    "pipeline": "main",
+    "platform": "nvidia",
+    "company": "NVIDIA",
+    "title": "Senior Software Engineer, DGX Cloud Orchestration",
+    "location": "US",
+    "posted": "2026-07-23 00:00 UTC",
+    "url": "https://nvidia.eightfold.ai/careers/job/893396382045",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-23T20:11:13.118479+00:00",
+    "emailed_utc": "2026-07-23T20:11:13.118479+00:00"
   }
 ]
