@@ -47474,5 +47474,44 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-23T06:32:10.757792+00:00",
     "emailed_utc": "2026-07-23T06:32:10.757792+00:00"
+  },
+  {
+    "job_id": "greenhouse:tatari:8646729002",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Tatari",
+    "title": "Senior Data Engineer",
+    "location": "New York, New York, United States",
+    "posted": "2026-07-23T01:23:05-04:00",
+    "url": "https://job-boards.greenhouse.io/tatari/jobs/8646729002",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-23T07:02:33.300374+00:00",
+    "emailed_utc": "2026-07-23T07:02:33.300374+00:00"
+  },
+  {
+    "job_id": "greenhouse:tatari:8646725002",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Tatari",
+    "title": "Senior Data Engineer",
+    "location": "San Francisco, California, United States",
+    "posted": "2026-07-23T01:23:03-04:00",
+    "url": "https://job-boards.greenhouse.io/tatari/jobs/8646725002",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-23T07:02:33.300374+00:00",
+    "emailed_utc": "2026-07-23T07:02:33.300374+00:00"
+  },
+  {
+    "job_id": "greenhouse:tatari:8646727002",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Tatari",
+    "title": "Senior Data Engineer",
+    "location": "Los Angeles, California, United States",
+    "posted": "2026-07-23T01:23:04-04:00",
+    "url": "https://job-boards.greenhouse.io/tatari/jobs/8646727002",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-23T07:02:33.300374+00:00",
+    "emailed_utc": "2026-07-23T07:02:33.300374+00:00"
   }
 ]
