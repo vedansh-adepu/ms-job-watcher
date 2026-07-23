@@ -5458,5 +5458,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-23T17:21:09.601478+00:00",
     "emailed_utc": "2026-07-23T17:21:09.601478+00:00"
+  },
+  {
+    "job_id": "amazon:ec1e22a3-e79b-48b0-817e-294039f3f1e9",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer II, Amazon MSK",
+    "location": "US, WA, Seattle",
+    "posted": "July 23, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10482679/software-development-engineer-ii-amazon-msk",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-23T17:31:03.445921+00:00",
+    "emailed_utc": "2026-07-23T17:31:03.445921+00:00"
+  },
+  {
+    "job_id": "amazon:40058a8a-e55f-4a38-ae95-7e168fef391f",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, AWS Apache Flink",
+    "location": "US, WA, Seattle",
+    "posted": "July 23, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10482676/software-development-engineer-aws-apache-flink",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-23T17:31:03.445921+00:00",
+    "emailed_utc": "2026-07-23T17:31:03.445921+00:00"
   }
 ]
