@@ -47383,5 +47383,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-23T05:01:07.972354+00:00",
     "emailed_utc": "2026-07-23T05:01:07.972354+00:00"
+  },
+  {
+    "job_id": "workday:gdit:External_Career_Site:req:RQ224779",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "General Dynamics Information Technology (GDIT)",
+    "title": "Data Scientist  - TS/SCI w/Poly",
+    "location": "USA VA McLean",
+    "posted": "Posted Today",
+    "url": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-McLean/Data-Scientist----TS-SCI-w-Poly_RQ224779-1",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-23T06:03:01.522217+00:00",
+    "emailed_utc": "2026-07-23T06:03:01.522217+00:00"
+  },
+  {
+    "job_id": "workday:gdit:External_Career_Site:req:RQ224704",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "General Dynamics Information Technology (GDIT)",
+    "title": "Onsite Wireless Installation Engineer",
+    "location": "USA AK Eielson AFB",
+    "posted": "Posted Today",
+    "url": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-AK-Eielson-AFB/Onsite-Wireless-Installation-Engineer_RQ224704-1",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-23T06:03:01.522217+00:00",
+    "emailed_utc": "2026-07-23T06:03:01.522217+00:00"
   }
 ]
