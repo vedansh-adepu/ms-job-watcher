@@ -5939,5 +5939,18 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-24T17:31:09.531630+00:00",
     "emailed_utc": "2026-07-24T17:31:09.531630+00:00"
+  },
+  {
+    "job_id": "amazon:8c21685c-e06d-4309-84b0-ec80a5b64b70",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer II, WW Prime Tech",
+    "location": "US, WA, Seattle",
+    "posted": "July 24, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10483723/software-development-engineer-ii-ww-prime-tech",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-24T17:51:05.920584+00:00",
+    "emailed_utc": "2026-07-24T17:51:05.920584+00:00"
   }
 ]
