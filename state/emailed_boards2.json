@@ -26804,5 +26804,57 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-24T22:41:57.621176+00:00",
     "emailed_utc": "2026-07-24T22:41:57.621176+00:00"
+  },
+  {
+    "job_id": "greenhouse:samsungresearchamerica:8648301002",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "samsungresearchamerica",
+    "title": "Research Engineer, Robot Intelligence",
+    "location": "665 Clyde Avenue, Mountain View,  CA, USA",
+    "posted": "2026-07-24T18:13:03-04:00",
+    "url": "https://job-boards.greenhouse.io/samsungresearchamerica/jobs/8648301002",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-24T23:02:37.349612+00:00",
+    "emailed_utc": "2026-07-24T23:02:37.349612+00:00"
+  },
+  {
+    "job_id": "greenhouse:nerostechnologies:5195889007",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "nerostechnologies",
+    "title": "Senior Electrical Engineer - V&V Lead",
+    "location": "Torrance, California, United States",
+    "posted": "2026-07-24T18:36:11-04:00",
+    "url": "https://job-boards.greenhouse.io/nerostechnologies/jobs/5195889007",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-24T23:02:37.349612+00:00",
+    "emailed_utc": "2026-07-24T23:02:37.349612+00:00"
+  },
+  {
+    "job_id": "greenhouse:redcellpartners:5196084007",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "redcellpartners",
+    "title": "Staff Software Engineer (Product + Platform Development)",
+    "location": "Seattle, WA (Preferred) or McLean, VA or Remote (USA)",
+    "posted": "2026-07-24T17:38:33-04:00",
+    "url": "https://job-boards.greenhouse.io/redcellpartners/jobs/5196084007",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-24T23:02:37.349612+00:00",
+    "emailed_utc": "2026-07-24T23:02:37.349612+00:00"
+  },
+  {
+    "job_id": "greenhouse:rondoenergy:4699846006",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "rondoenergy",
+    "title": "Electrical Systems Engineer - Power and Controls",
+    "location": "Alameda, CA",
+    "posted": "2026-07-24T19:01:48-04:00",
+    "url": "https://job-boards.greenhouse.io/rondoenergy/jobs/4699846006",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-24T23:02:37.349612+00:00",
+    "emailed_utc": "2026-07-24T23:02:37.349612+00:00"
   }
 ]
