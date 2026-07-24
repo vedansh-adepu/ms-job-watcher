@@ -54858,5 +54858,44 @@
     "bucket": "yes",
     "first_seen_utc": "2026-07-24T19:46:06.910855+00:00",
     "emailed_utc": "2026-07-24T19:46:06.910855+00:00"
+  },
+  {
+    "job_id": "greenhouse:scoutmotors:5188310007",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Scoutmotors",
+    "title": "Specialist, Drive Train Engineer",
+    "location": "Columbia, South Carolina, United States",
+    "posted": "2026-07-24T14:28:09-04:00",
+    "url": "https://job-boards.greenhouse.io/scoutmotors/jobs/5188310007",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-24T20:01:21.443852+00:00",
+    "emailed_utc": "2026-07-24T20:01:21.443852+00:00"
+  },
+  {
+    "job_id": "greenhouse:scoutmotors:5188169007",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Scoutmotors",
+    "title": "Specialist, Production Engineer",
+    "location": "Blythewood, South Carolina, United States",
+    "posted": "2026-07-24T15:54:33-04:00",
+    "url": "https://job-boards.greenhouse.io/scoutmotors/jobs/5188169007",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-24T20:01:21.443852+00:00",
+    "emailed_utc": "2026-07-24T20:01:21.443852+00:00"
+  },
+  {
+    "job_id": "lever:shieldai:6df24cd9-5111-4e63-a88a-d76166677000",
+    "pipeline": "boards",
+    "platform": "lever",
+    "company": "Shieldai",
+    "title": "Mechanical Engineer I, Systems Integration (R5344)",
+    "location": "United States",
+    "posted": "2026-07-24 18:23 UTC",
+    "url": "https://jobs.lever.co/shieldai/6df24cd9-5111-4e63-a88a-d76166677000",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-24T20:01:21.443852+00:00",
+    "emailed_utc": "2026-07-24T20:01:21.443852+00:00"
   }
 ]
