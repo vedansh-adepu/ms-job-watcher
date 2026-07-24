@@ -25036,5 +25036,57 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-24T01:31:46.806667+00:00",
     "emailed_utc": "2026-07-24T01:31:46.806667+00:00"
+  },
+  {
+    "job_id": "greenhouse:maymobility:8643940002",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "maymobility",
+    "title": "Senior Systems Engineer II",
+    "location": "Ann Arbor, MI",
+    "posted": "2026-07-23T20:22:14-04:00",
+    "url": "https://job-boards.greenhouse.io/maymobility/jobs/8643940002",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-24T02:01:24.000222+00:00",
+    "emailed_utc": "2026-07-24T02:01:24.000222+00:00"
+  },
+  {
+    "job_id": "greenhouse:nerostechnologies:5195301007",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "nerostechnologies",
+    "title": "Firmware Engineer - Flight Software",
+    "location": "Torrance, California, United States",
+    "posted": "2026-07-23T20:48:57-04:00",
+    "url": "https://job-boards.greenhouse.io/nerostechnologies/jobs/5195301007",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-24T02:01:24.000222+00:00",
+    "emailed_utc": "2026-07-24T02:01:24.000222+00:00"
+  },
+  {
+    "job_id": "greenhouse:nerostechnologies:5195277007",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "nerostechnologies",
+    "title": "Senior Embedded Linux Engineer",
+    "location": "Torrance, California, United States",
+    "posted": "2026-07-23T20:47:23-04:00",
+    "url": "https://job-boards.greenhouse.io/nerostechnologies/jobs/5195277007",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-24T02:01:24.000222+00:00",
+    "emailed_utc": "2026-07-24T02:01:24.000222+00:00"
+  },
+  {
+    "job_id": "greenhouse:nerostechnologies:5195308007",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "nerostechnologies",
+    "title": "Senior Firmware Engineer, Platform",
+    "location": "Torrance, California, United States",
+    "posted": "2026-07-23T20:52:15-04:00",
+    "url": "https://job-boards.greenhouse.io/nerostechnologies/jobs/5195308007",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-24T02:01:24.000222+00:00",
+    "emailed_utc": "2026-07-24T02:01:24.000222+00:00"
   }
 ]
