@@ -6069,5 +6069,44 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-24T21:21:07.791218+00:00",
     "emailed_utc": "2026-07-24T21:21:07.791218+00:00"
+  },
+  {
+    "job_id": "amazon:45ae29a1-c015-4e99-a377-6d539a4a9091",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Engineer II, AWS Continuum for code vulnerabilities",
+    "location": "US, WA, Bellevue",
+    "posted": "July 24, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10483913/software-engineer-ii-aws-continuum-for-code-vulnerabilities",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-24T21:30:58.362723+00:00",
+    "emailed_utc": "2026-07-24T21:30:58.362723+00:00"
+  },
+  {
+    "job_id": "amazon:d3680d15-f6b4-4326-8d70-8b84cf33cea3",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Sr SDE, AWS Service Quotas",
+    "location": "US, WA, Seattle",
+    "posted": "July 24, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10483906/sr-sde-aws-service-quotas",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-24T21:30:58.362723+00:00",
+    "emailed_utc": "2026-07-24T21:30:58.362723+00:00"
+  },
+  {
+    "job_id": "amazon:9849683c-cd67-431c-b42b-1fa7849957f7",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Sr. Software Engineer, AWS Continuum for code vulnerabilities",
+    "location": "US, WA, Bellevue",
+    "posted": "July 24, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10483912/sr-software-engineer-aws-continuum-for-code-vulnerabilities",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-24T21:30:58.362723+00:00",
+    "emailed_utc": "2026-07-24T21:30:58.362723+00:00"
   }
 ]
