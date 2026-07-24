@@ -25413,5 +25413,57 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-24T15:31:55.082008+00:00",
     "emailed_utc": "2026-07-24T15:31:55.082008+00:00"
+  },
+  {
+    "job_id": "greenhouse:preciselyusjobs:4718405005",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "preciselyusjobs",
+    "title": "Software Engineer",
+    "location": "United States",
+    "posted": "2026-07-24T11:43:54-04:00",
+    "url": "https://www.precisely.com/careers-and-culture/us-jobs/job/4718405005?gh_jid=4718405005",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-24T16:01:56.414412+00:00",
+    "emailed_utc": "2026-07-24T16:01:56.414412+00:00"
+  },
+  {
+    "job_id": "greenhouse:tenstorrent:5192671007",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "tenstorrent",
+    "title": "Software Engineer, Metal Runtime (API & Abstractions)",
+    "location": "Austin, Texas, United States; Santa Clara, California, United States; Toronto, Ontario, Canada",
+    "posted": "2026-07-24T11:16:17-04:00",
+    "url": "https://job-boards.greenhouse.io/tenstorrent/jobs/5192671007",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-24T16:01:56.414412+00:00",
+    "emailed_utc": "2026-07-24T16:01:56.414412+00:00"
+  },
+  {
+    "job_id": "greenhouse:leolabsinc:4327722009",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "leolabsinc",
+    "title": "Senior Radar Software Engineer",
+    "location": "Denver, CO",
+    "posted": "2026-07-24T11:29:17-04:00",
+    "url": "https://job-boards.greenhouse.io/leolabsinc/jobs/4327722009",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-24T16:01:56.414412+00:00",
+    "emailed_utc": "2026-07-24T16:01:56.414412+00:00"
+  },
+  {
+    "job_id": "greenhouse:leolabsinc:4327650009",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "leolabsinc",
+    "title": "Staff Radar Systems Engineer",
+    "location": "Denver, CO",
+    "posted": "2026-07-24T11:37:48-04:00",
+    "url": "https://job-boards.greenhouse.io/leolabsinc/jobs/4327650009",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-24T16:01:56.414412+00:00",
+    "emailed_utc": "2026-07-24T16:01:56.414412+00:00"
   }
 ]
