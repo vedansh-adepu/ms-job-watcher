@@ -25322,5 +25322,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-24T14:01:52.178955+00:00",
     "emailed_utc": "2026-07-24T14:01:52.178955+00:00"
+  },
+  {
+    "job_id": "greenhouse:simplesense:4330111009",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "simplesense",
+    "title": "Senior Platform Engineer, Security",
+    "location": "Denver, CO (Hybrid),\u00a0 or Remote (US Based)\u00a0",
+    "posted": "2026-07-24T10:05:00-04:00",
+    "url": "https://job-boards.greenhouse.io/simplesense/jobs/4330111009",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-24T14:25:18.746016+00:00",
+    "emailed_utc": "2026-07-24T14:25:18.746016+00:00"
+  },
+  {
+    "job_id": "greenhouse:stablekernel:6598036003",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "stablekernel",
+    "title": "Principal Software Engineer",
+    "location": "Atlanta, GA",
+    "posted": "2026-07-24T08:42:04-04:00",
+    "url": "https://job-boards.greenhouse.io/stablekernel/jobs/6598036003",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-24T14:25:18.746016+00:00",
+    "emailed_utc": "2026-07-24T14:25:18.746016+00:00"
   }
 ]
