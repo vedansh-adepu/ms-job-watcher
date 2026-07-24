@@ -5770,5 +5770,18 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-24T00:41:01.998012+00:00",
     "emailed_utc": "2026-07-24T00:41:01.998012+00:00"
+  },
+  {
+    "job_id": "amazon:35fc1cba-415c-4751-985a-da200d4eb88a",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, Special Projects",
+    "location": "US, WA, Seattle",
+    "posted": "July 24, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10483102/software-development-engineer-special-projects",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-24T02:51:06.456899+00:00",
+    "emailed_utc": "2026-07-24T02:51:06.456899+00:00"
   }
 ]
