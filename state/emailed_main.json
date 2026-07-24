@@ -5887,5 +5887,44 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-24T16:41:19.563868+00:00",
     "emailed_utc": "2026-07-24T16:41:19.563868+00:00"
+  },
+  {
+    "job_id": "nvidia:893396584094",
+    "pipeline": "main",
+    "platform": "nvidia",
+    "company": "NVIDIA",
+    "title": "Senior Software Engineer, Linux Platform",
+    "location": "CA,US",
+    "posted": "2026-07-24 00:00 UTC",
+    "url": "https://nvidia.eightfold.ai/careers/job/893396584094",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-24T17:21:10.112088+00:00",
+    "emailed_utc": "2026-07-24T17:21:10.112088+00:00"
+  },
+  {
+    "job_id": "nvidia:893396584111",
+    "pipeline": "main",
+    "platform": "nvidia",
+    "company": "NVIDIA",
+    "title": "Principal Engineer - Enterprise Content and AI Data Platform",
+    "location": "Santa Clara, CA, US",
+    "posted": "2026-07-24 00:00 UTC",
+    "url": "https://nvidia.eightfold.ai/careers/job/893396584111",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-24T17:21:10.112088+00:00",
+    "emailed_utc": "2026-07-24T17:21:10.112088+00:00"
+  },
+  {
+    "job_id": "amazon:be5e4731-4531-47c3-8a08-ac59151f9d83",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Sr Software Development Engineer, FireTV",
+    "location": "US, CA, Irvine",
+    "posted": "July 24, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10483704/sr-software-development-engineer-firetv",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-24T17:21:10.112088+00:00",
+    "emailed_utc": "2026-07-24T17:21:10.112088+00:00"
   }
 ]
