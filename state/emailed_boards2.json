@@ -25153,5 +25153,44 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-24T02:31:51.073232+00:00",
     "emailed_utc": "2026-07-24T02:31:51.073232+00:00"
+  },
+  {
+    "job_id": "greenhouse:queracomputinginc:5369462008",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "queracomputinginc",
+    "title": "Scientific Software Engineer - Developer Experience",
+    "location": "Boston, MA, USA",
+    "posted": "2026-07-23T22:10:01-04:00",
+    "url": "https://job-boards.greenhouse.io/queracomputinginc/jobs/5369462008",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-24T03:58:34.563554+00:00",
+    "emailed_utc": "2026-07-24T03:58:34.563554+00:00"
+  },
+  {
+    "job_id": "greenhouse:later:8646566002",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "later",
+    "title": "Senior Engineer (Product) ",
+    "location": "Boston, MA; Vancouver, British Columbia, Canada; Vancouver, Washington, United States",
+    "posted": "2026-07-23T23:33:56-04:00",
+    "url": "https://job-boards.greenhouse.io/later/jobs/8646566002",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-24T03:58:34.563554+00:00",
+    "emailed_utc": "2026-07-24T03:58:34.563554+00:00"
+  },
+  {
+    "job_id": "greenhouse:northpointtechnology:8640121002",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "northpointtechnology",
+    "title": "Controls Engineer - MES",
+    "location": "Novi, Michigan, United States",
+    "posted": "2026-07-23T22:14:05-04:00",
+    "url": "https://job-boards.greenhouse.io/northpointtechnology/jobs/8640121002",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-24T03:58:34.563554+00:00",
+    "emailed_utc": "2026-07-24T03:58:34.563554+00:00"
   }
 ]
