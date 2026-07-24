@@ -25348,5 +25348,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-24T14:25:18.746016+00:00",
     "emailed_utc": "2026-07-24T14:25:18.746016+00:00"
+  },
+  {
+    "job_id": "lever:great-gray-group:5f1164c5-06f7-43e5-b6b7-5e1a04fd9ba4",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "great-gray-group",
+    "title": "Data Scientist",
+    "location": "Remote, USA",
+    "posted": "2026-07-24 14:13 UTC",
+    "url": "https://jobs.lever.co/great-gray-group/5f1164c5-06f7-43e5-b6b7-5e1a04fd9ba4",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-24T14:31:51.231714+00:00",
+    "emailed_utc": "2026-07-24T14:31:51.231714+00:00"
+  },
+  {
+    "job_id": "lever:hatchit:7c4afac2-3862-4c74-b301-a2a6da9eb733",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "hatchit",
+    "title": "Senior Information Assurance Engineer",
+    "location": "Fort Meade, MD",
+    "posted": "2026-07-24 13:19 UTC",
+    "url": "https://jobs.lever.co/hatchit/7c4afac2-3862-4c74-b301-a2a6da9eb733",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-24T14:31:51.231714+00:00",
+    "emailed_utc": "2026-07-24T14:31:51.231714+00:00"
   }
 ]
