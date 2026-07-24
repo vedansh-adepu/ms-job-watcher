@@ -53337,5 +53337,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-24T14:11:00.296626+00:00",
     "emailed_utc": "2026-07-24T14:11:00.296626+00:00"
+  },
+  {
+    "job_id": "greenhouse:latitude:8074450",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Latitude",
+    "title": "Senior Enterprise Systems Engineer",
+    "location": "Pittsburgh, PA, Dearborn, MI",
+    "posted": "2026-07-24T10:56:58-04:00",
+    "url": "https://job-boards.greenhouse.io/latitude/jobs/8074450",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-24T15:01:02.891186+00:00",
+    "emailed_utc": "2026-07-24T15:01:02.891186+00:00"
+  },
+  {
+    "job_id": "greenhouse:lgelectronics:5369321008",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Lgelectronics",
+    "title": "Sr Product Development Engineer ",
+    "location": "Alpharetta, GA",
+    "posted": "2026-07-24T09:02:59-04:00",
+    "url": "https://job-boards.greenhouse.io/lgelectronics/jobs/5369321008",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-24T15:01:02.891186+00:00",
+    "emailed_utc": "2026-07-24T15:01:02.891186+00:00"
   }
 ]
