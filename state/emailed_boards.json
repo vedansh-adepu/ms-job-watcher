@@ -53311,5 +53311,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-24T14:02:34.083736+00:00",
     "emailed_utc": "2026-07-24T14:02:34.083736+00:00"
+  },
+  {
+    "job_id": "greenhouse:twilio:7946610",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "twilio",
+    "title": "Software Engineer (L2)",
+    "location": "Remote - US",
+    "posted": "2026-07-24T10:02:19-04:00",
+    "url": "https://job-boards.greenhouse.io/twilio/jobs/7946610",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-24T14:11:00.296626+00:00",
+    "emailed_utc": "2026-07-24T14:11:00.296626+00:00"
+  },
+  {
+    "job_id": "smartrecruiters:ServiceNow:744000139613750",
+    "pipeline": "boards",
+    "platform": "smartrecruiters",
+    "company": "ServiceNow",
+    "title": "Senior Staff Software Engineer",
+    "location": "San Diego, California, us",
+    "posted": "2026-07-24T14:06:05.366Z",
+    "url": "https://jobs.smartrecruiters.com/ServiceNow",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-24T14:11:00.296626+00:00",
+    "emailed_utc": "2026-07-24T14:11:00.296626+00:00"
   }
 ]
