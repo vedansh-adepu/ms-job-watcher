@@ -52973,5 +52973,44 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-24T02:01:07.493922+00:00",
     "emailed_utc": "2026-07-24T02:01:07.493922+00:00"
+  },
+  {
+    "job_id": "workday:abbott:abbottcareers:req:31156920",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Abbott",
+    "title": "Staff Electrical Engineer, Advanced Development",
+    "location": "United States - Texas - Plano",
+    "posted": "Posted Today",
+    "url": "https://abbott.wd5.myworkdayjobs.com/en-US/abbottcareers/job/United-States---Texas---Plano/Staff-Electrical-Engineer--Advanced-Development_31156920-1",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-24T02:32:45.850209+00:00",
+    "emailed_utc": "2026-07-24T02:32:45.850209+00:00"
+  },
+  {
+    "job_id": "greenhouse:carta:7772786003",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Carta",
+    "title": "Senior Software Engineer II",
+    "location": "Seattle, WA",
+    "posted": "2026-07-23T21:36:54-04:00",
+    "url": "https://job-boards.greenhouse.io/carta/jobs/7772786003",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-24T02:32:45.850209+00:00",
+    "emailed_utc": "2026-07-24T02:32:45.850209+00:00"
+  },
+  {
+    "job_id": "greenhouse:databricks:8611108002",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Databricks",
+    "title": "Forward Deployed Engineer (FDE) - Public Sector",
+    "location": "United States",
+    "posted": "2026-07-23T22:08:42-04:00",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8611108002",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-24T02:32:45.850209+00:00",
+    "emailed_utc": "2026-07-24T02:32:45.850209+00:00"
   }
 ]
