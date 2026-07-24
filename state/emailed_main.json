@@ -5861,5 +5861,31 @@
     "bucket": "yes",
     "first_seen_utc": "2026-07-24T16:35:52.910215+00:00",
     "emailed_utc": "2026-07-24T16:35:52.910215+00:00"
+  },
+  {
+    "job_id": "amazon:fa6b3efa-598d-404a-af99-e7592136eda6",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Manager - AWS S3 Glacier, Glacier Data Retrieval",
+    "location": "US, WA, Seattle",
+    "posted": "July 24, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10483667/software-development-manager-aws-s3-glacier-glacier-data-retrieval",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-24T16:41:19.563868+00:00",
+    "emailed_utc": "2026-07-24T16:41:19.563868+00:00"
+  },
+  {
+    "job_id": "amazon:002bb768-9bfa-483c-8265-7220b51959b7",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Sr. Software Development Engineer, S3, S3",
+    "location": "US, VA, Herndon",
+    "posted": "July 24, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10483666/sr-software-development-engineer-s3-s3",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-24T16:41:19.563868+00:00",
+    "emailed_utc": "2026-07-24T16:41:19.563868+00:00"
   }
 ]
