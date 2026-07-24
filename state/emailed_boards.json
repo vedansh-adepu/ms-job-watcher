@@ -53064,5 +53064,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-24T04:31:18.227144+00:00",
     "emailed_utc": "2026-07-24T04:31:18.227144+00:00"
+  },
+  {
+    "job_id": "workday:gdit:External_Career_Site:req:RQ224582",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "General Dynamics Information Technology (GDIT)",
+    "title": "Software Developer",
+    "location": "USA FL MacDill AFB",
+    "posted": "Posted Today",
+    "url": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-FL-MacDill-AFB/Software-Developer_RQ224582-1",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-24T05:32:44.810174+00:00",
+    "emailed_utc": "2026-07-24T05:32:44.810174+00:00"
+  },
+  {
+    "job_id": "workday:gdit:External_Career_Site:req:RQ224695",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "General Dynamics Information Technology (GDIT)",
+    "title": "RF Engineer",
+    "location": "USA NC Fort Bragg",
+    "posted": "Posted Today",
+    "url": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-NC-Fort-Bragg/RF-Engineer_RQ224695-2",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-24T05:32:44.810174+00:00",
+    "emailed_utc": "2026-07-24T05:32:44.810174+00:00"
   }
 ]
