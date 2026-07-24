@@ -25088,5 +25088,70 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-24T02:01:24.000222+00:00",
     "emailed_utc": "2026-07-24T02:01:24.000222+00:00"
+  },
+  {
+    "job_id": "lever:anavationllc:f9d1d92b-c6fc-47f7-a81a-f8a9ab54922e",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "anavationllc",
+    "title": "Software Developer",
+    "location": "Washington, DC",
+    "posted": "2026-07-24 02:23 UTC",
+    "url": "https://jobs.lever.co/anavationllc/f9d1d92b-c6fc-47f7-a81a-f8a9ab54922e",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-24T02:31:51.073232+00:00",
+    "emailed_utc": "2026-07-24T02:31:51.073232+00:00"
+  },
+  {
+    "job_id": "lever:anavationllc:02f5347c-49d9-40d5-8df1-08dba66c59fd",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "anavationllc",
+    "title": "Senior Cryptocurrency Engineer",
+    "location": "Washington, DC",
+    "posted": "2026-07-24 02:28 UTC",
+    "url": "https://jobs.lever.co/anavationllc/02f5347c-49d9-40d5-8df1-08dba66c59fd",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-24T02:31:51.073232+00:00",
+    "emailed_utc": "2026-07-24T02:31:51.073232+00:00"
+  },
+  {
+    "job_id": "lever:anavationllc:fbdd9d85-d022-4954-8229-b15f361b28b0",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "anavationllc",
+    "title": "Senior Software Developer",
+    "location": "Washington, DC",
+    "posted": "2026-07-24 02:30 UTC",
+    "url": "https://jobs.lever.co/anavationllc/fbdd9d85-d022-4954-8229-b15f361b28b0",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-24T02:31:51.073232+00:00",
+    "emailed_utc": "2026-07-24T02:31:51.073232+00:00"
+  },
+  {
+    "job_id": "lever:brillio-2:efb60d3f-6ea3-4cfd-ac4c-f75db65241bc",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "brillio-2",
+    "title": "Lead Data Engineer - R01568940",
+    "location": "Seattle, Washington, United States",
+    "posted": "2026-07-22 12:27 UTC",
+    "url": "https://jobs.lever.co/brillio-2/efb60d3f-6ea3-4cfd-ac4c-f75db65241bc",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-24T02:31:51.073232+00:00",
+    "emailed_utc": "2026-07-24T02:31:51.073232+00:00"
+  },
+  {
+    "job_id": "lever:cfsenergy:f1d5185d-c2ee-486b-93d8-bc6a40c7fa7e",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "cfsenergy",
+    "title": "Manager, Manufacturing Engineering - Third Shift",
+    "location": "Devens, MA",
+    "posted": "2026-07-24 01:31 UTC",
+    "url": "https://jobs.lever.co/cfsenergy/f1d5185d-c2ee-486b-93d8-bc6a40c7fa7e",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-24T02:31:51.073232+00:00",
+    "emailed_utc": "2026-07-24T02:31:51.073232+00:00"
   }
 ]
