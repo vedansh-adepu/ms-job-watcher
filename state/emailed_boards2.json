@@ -25010,5 +25010,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-24T00:32:01.025723+00:00",
     "emailed_utc": "2026-07-24T00:32:01.025723+00:00"
+  },
+  {
+    "job_id": "greenhouse:arcboatcompany:5369426008",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "arcboatcompany",
+    "title": "Electrical Engineer",
+    "location": "Torrance, CA",
+    "posted": "2026-07-23T20:22:36-04:00",
+    "url": "https://job-boards.greenhouse.io/arcboatcompany/jobs/5369426008",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-24T01:31:46.806667+00:00",
+    "emailed_utc": "2026-07-24T01:31:46.806667+00:00"
+  },
+  {
+    "job_id": "greenhouse:extrahopnetworks:6100830004",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "extrahopnetworks",
+    "title": "Principal Software Engineer  | Data Science",
+    "location": "Seattle, WA",
+    "posted": "2026-07-23T20:16:53-04:00",
+    "url": "https://job-boards.greenhouse.io/extrahopnetworks/jobs/6100830004",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-24T01:31:46.806667+00:00",
+    "emailed_utc": "2026-07-24T01:31:46.806667+00:00"
   }
 ]
