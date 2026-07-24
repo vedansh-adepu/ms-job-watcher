@@ -6108,5 +6108,44 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-24T21:30:58.362723+00:00",
     "emailed_utc": "2026-07-24T21:30:58.362723+00:00"
+  },
+  {
+    "job_id": "microsoft:1970393556943241",
+    "pipeline": "main",
+    "platform": "microsoft",
+    "company": "Microsoft",
+    "title": "Software Engineer II",
+    "location": "Redmond, WA, US",
+    "posted": "2026-07-24 21:16 UTC",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556943241",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-24T22:01:13.295203+00:00",
+    "emailed_utc": "2026-07-24T22:01:13.295203+00:00"
+  },
+  {
+    "job_id": "nvidia:893396598404",
+    "pipeline": "main",
+    "platform": "nvidia",
+    "company": "NVIDIA",
+    "title": "Software Engineer, Linux Graphics",
+    "location": "Santa Clara, CA, US",
+    "posted": "2026-07-24 00:00 UTC",
+    "url": "https://nvidia.eightfold.ai/careers/job/893396598404",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-24T22:01:13.295203+00:00",
+    "emailed_utc": "2026-07-24T22:01:13.295203+00:00"
+  },
+  {
+    "job_id": "nvidia:893396598743",
+    "pipeline": "main",
+    "platform": "nvidia",
+    "company": "NVIDIA",
+    "title": "Machine Learning Engineer, AI Safety",
+    "location": "Santa Clara, CA, US",
+    "posted": "2026-07-24 00:00 UTC",
+    "url": "https://nvidia.eightfold.ai/careers/job/893396598743",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-24T22:01:13.295203+00:00",
+    "emailed_utc": "2026-07-24T22:01:13.295203+00:00"
   }
 ]
