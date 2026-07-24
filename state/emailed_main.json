@@ -5848,5 +5848,18 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-24T15:31:15.338029+00:00",
     "emailed_utc": "2026-07-24T15:31:15.338029+00:00"
+  },
+  {
+    "job_id": "amazon:07bd1792-fe99-4159-acf7-abf8a7987cef",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Applied Scientist , PAE",
+    "location": "US, WA, Seattle",
+    "posted": "July 24, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10483557/applied-scientist-pae",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-24T16:34:35.808996+00:00",
+    "emailed_utc": "2026-07-24T16:34:35.808996+00:00"
   }
 ]
