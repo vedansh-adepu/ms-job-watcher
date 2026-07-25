@@ -27181,5 +27181,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-25T04:01:35.051258+00:00",
     "emailed_utc": "2026-07-25T04:01:35.051258+00:00"
+  },
+  {
+    "job_id": "greenhouse:braincorporation:8650350002",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "braincorporation",
+    "title": "Senior Staff Software Engineer - Cloud (Technical Lead Manager)",
+    "location": "Remote, USA",
+    "posted": "2026-07-25T01:24:07-04:00",
+    "url": "https://braincorp.com/open-positions?gh_jid=8650350002",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-25T06:01:36.500622+00:00",
+    "emailed_utc": "2026-07-25T06:01:36.500622+00:00"
+  },
+  {
+    "job_id": "greenhouse:braincorporation:8650331002",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "braincorporation",
+    "title": "Staff Software Engineer, Applications",
+    "location": "San Diego, CA",
+    "posted": "2026-07-25T00:34:52-04:00",
+    "url": "https://braincorp.com/open-positions?gh_jid=8650331002",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-25T06:01:36.500622+00:00",
+    "emailed_utc": "2026-07-25T06:01:36.500622+00:00"
   }
 ]
