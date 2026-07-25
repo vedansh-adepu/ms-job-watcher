@@ -57094,5 +57094,44 @@
     "bucket": "yes",
     "first_seen_utc": "2026-07-25T01:02:20.377971+00:00",
     "emailed_utc": "2026-07-25T01:02:20.377971+00:00"
+  },
+  {
+    "job_id": "greenhouse:oklo:6127042004",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Oklo",
+    "title": "Instrumentation and Controls Engineer",
+    "location": "Santa Clara, CA or Remote",
+    "posted": "2026-07-24T20:54:55-04:00",
+    "url": "https://job-boards.greenhouse.io/oklo/jobs/6127042004",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-25T01:30:59.440134+00:00",
+    "emailed_utc": "2026-07-25T01:30:59.440134+00:00"
+  },
+  {
+    "job_id": "lever:shieldai:573fb642-d158-44dc-9310-3c293eb2eedc",
+    "pipeline": "boards",
+    "platform": "lever",
+    "company": "Shieldai",
+    "title": "Senior Engineer, AI Engineering (R5450)",
+    "location": "United States",
+    "posted": "2026-07-24 23:27 UTC",
+    "url": "https://jobs.lever.co/shieldai/573fb642-d158-44dc-9310-3c293eb2eedc",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-25T01:30:59.440134+00:00",
+    "emailed_utc": "2026-07-25T01:30:59.440134+00:00"
+  },
+  {
+    "job_id": "lever:shieldai:a32a2559-8aa2-4d18-ae61-41cbfbfb644a",
+    "pipeline": "boards",
+    "platform": "lever",
+    "company": "Shieldai",
+    "title": "Senior Engineer, AI Engineering (R5459)",
+    "location": "United States",
+    "posted": "2026-07-24 23:22 UTC",
+    "url": "https://jobs.lever.co/shieldai/a32a2559-8aa2-4d18-ae61-41cbfbfb644a",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-25T01:30:59.440134+00:00",
+    "emailed_utc": "2026-07-25T01:30:59.440134+00:00"
   }
 ]
