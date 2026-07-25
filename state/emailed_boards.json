@@ -57159,5 +57159,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-25T02:02:42.358724+00:00",
     "emailed_utc": "2026-07-25T02:02:42.358724+00:00"
+  },
+  {
+    "job_id": "workday:gdit:External_Career_Site:req:RQ224961",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "General Dynamics Information Technology (GDIT)",
+    "title": "Systems Engineer Senior",
+    "location": "USA FL MacDill AFB",
+    "posted": "Posted Today",
+    "url": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-FL-MacDill-AFB/Systems-Engineer-Senior_RQ224961-1",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-25T02:32:53.547441+00:00",
+    "emailed_utc": "2026-07-25T02:32:53.547441+00:00"
+  },
+  {
+    "job_id": "workday:gdit:External_Career_Site:req:RQ224938",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "General Dynamics Information Technology (GDIT)",
+    "title": "Power Platform Developer & Task Lead",
+    "location": "USA FL MacDill AFB",
+    "posted": "Posted Today",
+    "url": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-FL-MacDill-AFB/Power-Platform-Developer---Task-Lead_RQ224938-1",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-25T02:32:53.547441+00:00",
+    "emailed_utc": "2026-07-25T02:32:53.547441+00:00"
   }
 ]
