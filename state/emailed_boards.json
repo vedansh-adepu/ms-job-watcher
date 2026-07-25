@@ -57575,5 +57575,18 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-25T04:01:08.152599+00:00",
     "emailed_utc": "2026-07-25T04:01:08.152599+00:00"
+  },
+  {
+    "job_id": "workday:gdit:External_Career_Site:req:RQ224848",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "General Dynamics Information Technology (GDIT)",
+    "title": "Cloud Developer Principal",
+    "location": "USA FL Mary Esther",
+    "posted": "Posted Today",
+    "url": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-FL-Mary-Esther/Cloud-Developer-Principal_RQ224848-1",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-25T05:03:01.676268+00:00",
+    "emailed_utc": "2026-07-25T05:03:01.676268+00:00"
   }
 ]
