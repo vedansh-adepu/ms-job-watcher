@@ -42072,36 +42072,15 @@
     "cursor": null
   },
   {
-    "ts": "2026-07-25T22:02Z",
+    "ts": "2026-07-25T22:07Z",
     "mode": "boards",
     "per_source": {
-      "greenhouse": {
-        "fetched": 5240,
-        "title_ok": 1630,
-        "loc_ok": 762,
-        "new": 0,
-        "emailed": 0
-      },
-      "lever": {
-        "fetched": 999,
-        "title_ok": 214,
-        "loc_ok": 98,
-        "new": 0,
-        "emailed": 0
-      },
-      "smartrecruiters": {
-        "fetched": 717,
-        "title_ok": 159,
-        "loc_ok": 31,
-        "new": 0,
-        "emailed": 0
-      },
       "workday": {
-        "fetched": 7000,
-        "title_ok": 1934,
-        "loc_ok": 659,
-        "new": 0,
-        "emailed": 0
+        "fetched": 9500,
+        "title_ok": 484,
+        "loc_ok": 114,
+        "new": 1,
+        "emailed": 20
       }
     },
     "duration_s": 65.9,
