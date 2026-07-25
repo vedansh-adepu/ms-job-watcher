@@ -42163,15 +42163,15 @@
     "cursor": 1500
   },
   {
-    "ts": "2026-07-25T11:31Z",
+    "ts": "2026-07-25T11:40Z",
     "mode": "boards",
     "per_source": {
-      "greenhouse": {
-        "fetched": 56531,
-        "title_ok": 8746,
-        "loc_ok": 3500,
-        "new": 0,
-        "emailed": 0
+      "workday": {
+        "fetched": 4093,
+        "title_ok": 121,
+        "loc_ok": 43,
+        "new": 11,
+        "emailed": 12
       }
     },
     "duration_s": 13.1,
