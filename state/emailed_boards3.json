@@ -105844,5 +105844,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-25T23:03:12.979857+00:00",
     "emailed_utc": "2026-07-25T23:03:12.979857+00:00"
+  },
+  {
+    "job_id": "workday:harman:harman:req:R-54827",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Harman",
+    "title": "Engineer, Acoustics Engineering",
+    "location": "Northridge - California, USA",
+    "posted": "Posted 3 Days Ago",
+    "url": "https://harman.wd3.myworkdayjobs.com/en-US/harman/job/Northridge---California-USA/Engineer--Acoustics-Engineering_R-54827-2026",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-25T23:32:10.094411+00:00",
+    "emailed_utc": "2026-07-25T23:32:10.094411+00:00"
+  },
+  {
+    "job_id": "workday:harman:harman:req:R-54143",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Harman",
+    "title": "Principal Engineer, Audio System Validation Specialist",
+    "location": "Novi - Michigan, USA - Cabot Drive",
+    "posted": "Posted 3 Days Ago",
+    "url": "https://harman.wd3.myworkdayjobs.com/en-US/harman/job/Novi---Michigan-USA---Cabot-Drive/Principal-DSP---System-Validation-Engineer--Car-Audio_R-54143-2026",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-25T23:32:10.094411+00:00",
+    "emailed_utc": "2026-07-25T23:32:10.094411+00:00"
   }
 ]
