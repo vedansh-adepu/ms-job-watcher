@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-07-26T07:01:22.470130+00:00",
+  "updated_utc": "2026-07-26T07:31:17.254494+00:00",
   "dead_details": {
     "lever:livechatinc": {
       "first_seen_utc": "2026-07-01T19:31:29.430568+00:00",
@@ -760,6 +760,24 @@
     "greenhouse:dbtlabsinc": {
       "first_seen_utc": "2026-07-26T07:01:12.723034+00:00",
       "last_seen_utc": "2026-07-26T07:01:12.723034+00:00",
+      "platform": "greenhouse",
+      "company": "",
+      "board_url": "",
+      "last_status": 404,
+      "last_error": "HTTP 404/410 (board not found)"
+    },
+    "greenhouse:loyal": {
+      "first_seen_utc": "2026-07-26T07:30:58.669697+00:00",
+      "last_seen_utc": "2026-07-26T07:30:58.669697+00:00",
+      "platform": "greenhouse",
+      "company": "",
+      "board_url": "",
+      "last_status": 404,
+      "last_error": "HTTP 404/410 (board not found)"
+    },
+    "greenhouse:myforestfoods": {
+      "first_seen_utc": "2026-07-26T07:31:01.430902+00:00",
+      "last_seen_utc": "2026-07-26T07:31:01.430902+00:00",
       "platform": "greenhouse",
       "company": "",
       "board_url": "",
