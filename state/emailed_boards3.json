@@ -120027,5 +120027,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-26T10:05:15.689630+00:00",
     "emailed_utc": "2026-07-26T10:05:15.689630+00:00"
+  },
+  {
+    "job_id": "workday:alfalaval:alfa_laval_jobs:req:JR0046965",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Alfalaval",
+    "title": "Order Engineer",
+    "location": "Richmond, VA",
+    "posted": "Posted 6 Days Ago",
+    "url": "https://alfalaval.wd3.myworkdayjobs.com/en-US/alfa_laval_jobs/job/Richmond-VA/Project-Manager--Order-Engineer-_JR0046965",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-26T10:32:29.125066+00:00",
+    "emailed_utc": "2026-07-26T10:32:29.125066+00:00"
+  },
+  {
+    "job_id": "workday:alcoa:careers:req:Req-38455",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Alcoa",
+    "title": "Mechanical Engineer \u2013 R&D",
+    "location": "United States, PA, New Kensington",
+    "posted": "Posted 6 Days Ago",
+    "url": "https://alcoa.wd5.myworkdayjobs.com/en-US/careers/job/United-States-PA-New-Kensington/Mechanical-Engineer---R-D_Req-38455",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-26T10:32:29.125066+00:00",
+    "emailed_utc": "2026-07-26T10:32:29.125066+00:00"
   }
 ]
