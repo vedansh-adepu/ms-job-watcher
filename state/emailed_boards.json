@@ -57666,5 +57666,57 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-26T05:32:50.090759+00:00",
     "emailed_utc": "2026-07-26T05:32:50.090759+00:00"
+  },
+  {
+    "job_id": "greenhouse:myfitnesspal:8085122",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "MyFitnessPal",
+    "title": "Manager, Engineering - Subscription Growth",
+    "location": "Remote - US",
+    "posted": "2026-07-26T13:51:03-04:00",
+    "url": "https://job-boards.greenhouse.io/myfitnesspal/jobs/8085122",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-26T19:01:59.917528+00:00",
+    "emailed_utc": "2026-07-26T19:01:59.917528+00:00"
+  },
+  {
+    "job_id": "workday:ngc:Northrop_Grumman_External_Site:req:R10242273",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Northrop Grumman",
+    "title": "Mechanical Engineer - Level 3",
+    "location": "United States-Alabama-Huntsville",
+    "posted": "Posted Today",
+    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/Mechanical-Engineer---Level-3_R10242273",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-26T19:01:59.917528+00:00",
+    "emailed_utc": "2026-07-26T19:01:59.917528+00:00"
+  },
+  {
+    "job_id": "workday:ngc:Northrop_Grumman_External_Site:req:R10242328",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Northrop Grumman",
+    "title": "Sr Principal Electrical Power System Design Engineer",
+    "location": "United States-Florida-Melbourne",
+    "posted": "Posted Today",
+    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Sr-Principal-Electrical-Power-System-Design-Engineer_R10242328",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-26T19:01:59.917528+00:00",
+    "emailed_utc": "2026-07-26T19:01:59.917528+00:00"
+  },
+  {
+    "job_id": "workday:ngc:Northrop_Grumman_External_Site:req:R10242329",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Northrop Grumman",
+    "title": "Staff Electrical Power System Design Engineer",
+    "location": "United States-Florida-Melbourne",
+    "posted": "Posted Today",
+    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Staff-Electrical-Power-System-Design-Engineer_R10242329",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-26T19:01:59.917528+00:00",
+    "emailed_utc": "2026-07-26T19:01:59.917528+00:00"
   }
 ]
