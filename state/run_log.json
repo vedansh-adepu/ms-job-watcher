@@ -1,48 +1,5 @@
 [
   {
-    "ts": "2026-07-19T13:52Z",
-    "mode": "boards",
-    "per_source": {
-      "greenhouse": {
-        "fetched": 10601,
-        "title_ok": 3595,
-        "loc_ok": 2138,
-        "new": 0,
-        "emailed": 0
-      },
-      "lever": {
-        "fetched": 599,
-        "title_ok": 52,
-        "loc_ok": 41,
-        "new": 0,
-        "emailed": 0
-      },
-      "ashby": {
-        "fetched": 138,
-        "title_ok": 40,
-        "loc_ok": 0,
-        "new": 0,
-        "emailed": 0
-      },
-      "smartrecruiters": {
-        "fetched": 1318,
-        "title_ok": 298,
-        "loc_ok": 113,
-        "new": 0,
-        "emailed": 0
-      },
-      "workday": {
-        "fetched": 10651,
-        "title_ok": 2424,
-        "loc_ok": 798,
-        "new": 0,
-        "emailed": 0
-      }
-    },
-    "duration_s": 99.6,
-    "cursor": 200
-  },
-  {
     "ts": "2026-07-19T14:03Z",
     "mode": "boards",
     "per_source": {
@@ -42137,5 +42094,56 @@
     },
     "duration_s": 90.8,
     "cursor": 2120
+  },
+  {
+    "ts": "2026-07-26T01:43Z",
+    "mode": "main",
+    "per_source": {
+      "microsoft": {
+        "fetched": 169,
+        "title_ok": 83,
+        "loc_ok": 83,
+        "new": 0,
+        "emailed": 0
+      },
+      "amazon": {
+        "fetched": 0,
+        "title_ok": 0,
+        "loc_ok": 0,
+        "new": 0,
+        "emailed": 0,
+        "error": "Amazon fetch: ConnectTimeout: HTTPSConnectionPool(host='www.amazon.jobs', port=443): Max retries exceeded with url: /en/search.json?category%5B%5D=machine-learning-science&category%5B%5D=software-development&schedule_type_id%5B%5D=Full-Time&normalized_country_code%5B%5D=USA&radius=100000km&offset=0&result_limit=50&sort=recent&latitude=38.89036&longitude=-77.03196&loc_query=united+states&base_query= (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.amazon.jobs', port=443) at 0x7f8e1fdbf210>, 'Connection to www.amazon.jobs timed out. (connect timeout=30)'))"
+      },
+      "nvidia": {
+        "fetched": 30,
+        "title_ok": 29,
+        "loc_ok": 29,
+        "new": 0,
+        "emailed": 0
+      },
+      "goldman_sachs": {
+        "fetched": 0,
+        "title_ok": 0,
+        "loc_ok": 0,
+        "new": 0,
+        "emailed": 0
+      },
+      "ibm": {
+        "fetched": 2,
+        "title_ok": 2,
+        "loc_ok": 0,
+        "new": 0,
+        "emailed": 0
+      },
+      "oracle": {
+        "fetched": 0,
+        "title_ok": 0,
+        "loc_ok": 0,
+        "new": 0,
+        "emailed": 0
+      }
+    },
+    "duration_s": 130.3,
+    "cursor": null
   }
 ]
