@@ -57627,5 +57627,44 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-26T03:32:04.483967+00:00",
     "emailed_utc": "2026-07-26T03:32:04.483967+00:00"
+  },
+  {
+    "job_id": "workday:gdit:External_Career_Site:req:RQ224958",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "General Dynamics Information Technology (GDIT)",
+    "title": "Network Engineer Senior",
+    "location": "USA VA Langley AFB",
+    "posted": "Posted Today",
+    "url": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-Langley-AFB/Network-Engineer-Senior_RQ224958-1",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-26T05:32:50.090759+00:00",
+    "emailed_utc": "2026-07-26T05:32:50.090759+00:00"
+  },
+  {
+    "job_id": "workday:gdit:External_Career_Site:req:RQ224730",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "General Dynamics Information Technology (GDIT)",
+    "title": "Oracle Database Developer (PL/SQL) - Hybrid",
+    "location": "USA VA Falls Church",
+    "posted": "Posted Today",
+    "url": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-Falls-Church/Oracle-Database-Developer--PL-SQL----Hybrid_RQ224730",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-26T05:32:50.090759+00:00",
+    "emailed_utc": "2026-07-26T05:32:50.090759+00:00"
+  },
+  {
+    "job_id": "workday:gdit:External_Career_Site:req:RQ224920",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "General Dynamics Information Technology (GDIT)",
+    "title": "Systems Engineer & Manager",
+    "location": "USA HI Pearl Harbor",
+    "posted": "Posted Today",
+    "url": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-HI-Pearl-Harbor/Systems-Engineer---Manager_RQ224920-1",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-26T05:32:50.090759+00:00",
+    "emailed_utc": "2026-07-26T05:32:50.090759+00:00"
   }
 ]
