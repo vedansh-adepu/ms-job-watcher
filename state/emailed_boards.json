@@ -59395,5 +59395,57 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-27T17:32:32.355925+00:00",
     "emailed_utc": "2026-07-27T17:32:32.355925+00:00"
+  },
+  {
+    "job_id": "greenhouse:ripple:8088649",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Ripple",
+    "title": "Staff Software Engineer, Financial Crimes",
+    "location": "San Francisco, CA, United States",
+    "posted": "2026-07-27T13:03:28-04:00",
+    "url": "https://ripple.com/careers/all-jobs/job/8088649?gh_jid=8088649",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-27T18:03:15.510180+00:00",
+    "emailed_utc": "2026-07-27T18:03:15.510180+00:00"
+  },
+  {
+    "job_id": "greenhouse:sharkninjaoperatingllc:4698939006",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "sharkninjaoperatingllc",
+    "title": "Design Manager, Engineering - Home Environment",
+    "location": "Needham, MA, United States",
+    "posted": "2026-07-27T13:27:36-04:00",
+    "url": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4698939006",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-27T18:03:15.510180+00:00",
+    "emailed_utc": "2026-07-27T18:03:15.510180+00:00"
+  },
+  {
+    "job_id": "greenhouse:spacex:8648969002",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "SpaceX",
+    "title": "Mechanical Engineer",
+    "location": "McGregor, TX",
+    "posted": "2026-07-27T13:18:13-04:00",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8648969002?gh_jid=8648969002",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-27T18:03:15.510180+00:00",
+    "emailed_utc": "2026-07-27T18:03:15.510180+00:00"
+  },
+  {
+    "job_id": "greenhouse:spacex:8651331002",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "SpaceX",
+    "title": "Sr. Civil Engineer",
+    "location": "McGregor, TX",
+    "posted": "2026-07-27T13:14:19-04:00",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8651331002?gh_jid=8651331002",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-27T18:03:15.510180+00:00",
+    "emailed_utc": "2026-07-27T18:03:15.510180+00:00"
   }
 ]
