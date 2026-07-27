@@ -27623,5 +27623,70 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-27T14:01:56.850692+00:00",
     "emailed_utc": "2026-07-27T14:01:56.850692+00:00"
+  },
+  {
+    "job_id": "lever:ceso:18057a1b-2953-4022-ad4f-071f4e0c3625",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "ceso",
+    "title": "Software Engineering Manager",
+    "location": "Columbus, OH",
+    "posted": "2026-07-20 20:56 UTC",
+    "url": "https://jobs.lever.co/ceso/18057a1b-2953-4022-ad4f-071f4e0c3625",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-27T14:32:24.062145+00:00",
+    "emailed_utc": "2026-07-27T14:32:24.062145+00:00"
+  },
+  {
+    "job_id": "lever:cti-md:e6ae469f-012a-492c-b260-8d8d465c6cb6",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "cti-md",
+    "title": "Software Engineer  - multiple levels - FULLY CLEARED with POLYGRAPH REQUIRED",
+    "location": "Annapolis Junction, MD",
+    "posted": "2026-02-17 15:03 UTC",
+    "url": "https://jobs.lever.co/cti-md/e6ae469f-012a-492c-b260-8d8d465c6cb6",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-27T14:32:24.062145+00:00",
+    "emailed_utc": "2026-07-27T14:32:24.062145+00:00"
+  },
+  {
+    "job_id": "lever:abovelending:fcc81960-193e-4801-8d64-008f9acd6521",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "abovelending",
+    "title": "Senior Data Engineer",
+    "location": "Chicago, IL",
+    "posted": "2026-07-09 21:40 UTC",
+    "url": "https://jobs.lever.co/abovelending/fcc81960-193e-4801-8d64-008f9acd6521",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-27T14:32:24.062145+00:00",
+    "emailed_utc": "2026-07-27T14:32:24.062145+00:00"
+  },
+  {
+    "job_id": "lever:finquery:fa8261d2-4d3c-42e0-9784-228491d85f93",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "finquery",
+    "title": "Sr. UI/UX Engineer",
+    "location": "Atlanta, GA",
+    "posted": "2026-07-27 13:08 UTC",
+    "url": "https://jobs.lever.co/finquery/fa8261d2-4d3c-42e0-9784-228491d85f93",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-27T14:32:24.062145+00:00",
+    "emailed_utc": "2026-07-27T14:32:24.062145+00:00"
+  },
+  {
+    "job_id": "lever:telesat:56671559-5d95-4c76-96f1-153a9e9fbf18",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "telesat",
+    "title": "Senior Network Management System Developer",
+    "location": "Bethesda, MD",
+    "posted": "2025-08-07 22:45 UTC",
+    "url": "https://jobs.lever.co/telesat/56671559-5d95-4c76-96f1-153a9e9fbf18",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-27T14:32:24.062145+00:00",
+    "emailed_utc": "2026-07-27T14:32:24.062145+00:00"
   }
 ]
