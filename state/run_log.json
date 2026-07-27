@@ -1,55 +1,5 @@
 [
   {
-    "ts": "2026-07-20T20:51Z",
-    "mode": "main",
-    "per_source": {
-      "microsoft": {
-        "fetched": 167,
-        "title_ok": 84,
-        "loc_ok": 84,
-        "new": 0,
-        "emailed": 0
-      },
-      "amazon": {
-        "fetched": 300,
-        "title_ok": 256,
-        "loc_ok": 256,
-        "new": 0,
-        "emailed": 0
-      },
-      "nvidia": {
-        "fetched": 20,
-        "title_ok": 20,
-        "loc_ok": 20,
-        "new": 0,
-        "emailed": 0
-      },
-      "goldman_sachs": {
-        "fetched": 0,
-        "title_ok": 0,
-        "loc_ok": 0,
-        "new": 0,
-        "emailed": 0
-      },
-      "ibm": {
-        "fetched": 4,
-        "title_ok": 3,
-        "loc_ok": 0,
-        "new": 0,
-        "emailed": 0
-      },
-      "oracle": {
-        "fetched": 0,
-        "title_ok": 0,
-        "loc_ok": 0,
-        "new": 0,
-        "emailed": 0
-      }
-    },
-    "duration_s": 13.7,
-    "cursor": null
-  },
-  {
     "ts": "2026-07-20T21:03Z",
     "mode": "boards",
     "per_source": {
@@ -41974,5 +41924,49 @@
     },
     "duration_s": 9.2,
     "cursor": null
+  },
+  {
+    "ts": "2026-07-27T08:02Z",
+    "mode": "boards",
+    "per_source": {
+      "greenhouse": {
+        "fetched": 1908,
+        "title_ok": 601,
+        "loc_ok": 298,
+        "new": 0,
+        "emailed": 0
+      },
+      "lever": {
+        "fetched": 571,
+        "title_ok": 241,
+        "loc_ok": 183,
+        "new": 0,
+        "emailed": 0
+      },
+      "smartrecruiters": {
+        "fetched": 193,
+        "title_ok": 49,
+        "loc_ok": 45,
+        "new": 0,
+        "emailed": 0
+      },
+      "ashby": {
+        "fetched": 4643,
+        "title_ok": 1705,
+        "loc_ok": 412,
+        "new": 0,
+        "emailed": 0,
+        "errors": 1
+      },
+      "workday": {
+        "fetched": 2500,
+        "title_ok": 463,
+        "loc_ok": 186,
+        "new": 0,
+        "emailed": 0
+      }
+    },
+    "duration_s": 77.0,
+    "cursor": 1000
   }
 ]
