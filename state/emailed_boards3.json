@@ -151890,5 +151890,18 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-27T09:02:30.512032+00:00",
     "emailed_utc": "2026-07-27T09:02:30.512032+00:00"
+  },
+  {
+    "job_id": "workday:derivaenergy:careers:req:R-200532",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Derivaenergy",
+    "title": "Renewables Development Engineer",
+    "location": "Charlotte, NC",
+    "posted": "Posted 3 Days Ago",
+    "url": "https://derivaenergy.wd501.myworkdayjobs.com/en-US/careers/job/Charlotte-NC/Renewables-Development-Engineer_R-200532",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-27T10:04:33.312233+00:00",
+    "emailed_utc": "2026-07-27T10:04:33.312233+00:00"
   }
 ]
