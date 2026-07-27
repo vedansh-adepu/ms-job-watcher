@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-07-27T06:01:36.720548+00:00",
+  "updated_utc": "2026-07-27T06:31:21.225879+00:00",
   "dead_details": {
     "lever:livechatinc": {
       "first_seen_utc": "2026-07-01T19:31:29.430568+00:00",
@@ -778,6 +778,24 @@
     "greenhouse:myforestfoods": {
       "first_seen_utc": "2026-07-26T07:31:01.430902+00:00",
       "last_seen_utc": "2026-07-26T07:31:01.430902+00:00",
+      "platform": "greenhouse",
+      "company": "",
+      "board_url": "",
+      "last_status": 404,
+      "last_error": "HTTP 404/410 (board not found)"
+    },
+    "greenhouse:nutrabolt": {
+      "first_seen_utc": "2026-07-27T06:31:10.895024+00:00",
+      "last_seen_utc": "2026-07-27T06:31:10.895024+00:00",
+      "platform": "greenhouse",
+      "company": "",
+      "board_url": "",
+      "last_status": 404,
+      "last_error": "HTTP 404/410 (board not found)"
+    },
+    "greenhouse:infomedia": {
+      "first_seen_utc": "2026-07-27T06:31:18.832989+00:00",
+      "last_seen_utc": "2026-07-27T06:31:18.832989+00:00",
       "platform": "greenhouse",
       "company": "",
       "board_url": "",
