@@ -6433,5 +6433,31 @@
     "bucket": "yes",
     "first_seen_utc": "2026-07-27T16:11:12.574564+00:00",
     "emailed_utc": "2026-07-27T16:11:12.574564+00:00"
+  },
+  {
+    "job_id": "amazon:62f14bd7-e004-4e61-b354-c9ecea220085",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer",
+    "location": "US, NJ, Newark",
+    "posted": "July 27, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10484906/software-development-engineer",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-27T16:21:10.947445+00:00",
+    "emailed_utc": "2026-07-27T16:21:10.947445+00:00"
+  },
+  {
+    "job_id": "amazon:3f61d9bd-df86-41ba-821a-ce4ef3b1fa87",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, Creator Marketplace",
+    "location": "US, CA, Culver City",
+    "posted": "July 27, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10484905/software-development-engineer-creator-marketplace",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-27T16:21:10.947445+00:00",
+    "emailed_utc": "2026-07-27T16:21:10.947445+00:00"
   }
 ]
