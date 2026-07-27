@@ -144038,5 +144038,70 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-27T02:36:25.482255+00:00",
     "emailed_utc": "2026-07-27T02:36:25.482255+00:00"
+  },
+  {
+    "job_id": "workday:cigna:cignacareers:req:26009161",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Cigna",
+    "title": "Software Engineering Advisor- Hybrid",
+    "location": "Plano, TX",
+    "posted": "Posted 5 Days Ago",
+    "url": "https://cigna.wd5.myworkdayjobs.com/en-US/cignacareers/job/Plano-TX/Software-Engineering-Advisor--Hybrid_26009161",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-27T03:36:48.521797+00:00",
+    "emailed_utc": "2026-07-27T03:36:48.521797+00:00"
+  },
+  {
+    "job_id": "workday:cigna:cignacareers:req:26002712",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Cigna",
+    "title": "Business Analytics/ SQL Developer- Express Scripts - Hybrid",
+    "location": "St. Louis, MO",
+    "posted": "Posted 3 Days Ago",
+    "url": "https://cigna.wd5.myworkdayjobs.com/en-US/cignacareers/job/St-Louis-MO/Financial-Analysis-Senior-Advisor---Express-Scripts---Hybrid_26002712-1",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-27T03:36:48.521797+00:00",
+    "emailed_utc": "2026-07-27T03:36:48.521797+00:00"
+  },
+  {
+    "job_id": "workday:cigna:cignacareers:req:26009159",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Cigna",
+    "title": "Software Engineering Senior Advisor- Hybrid",
+    "location": "Seattle, WA",
+    "posted": "Posted 5 Days Ago",
+    "url": "https://cigna.wd5.myworkdayjobs.com/en-US/cignacareers/job/Seattle-WA/Software-Engineering-Senior-Advisor--Hybrid_26009159",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-27T03:36:48.521797+00:00",
+    "emailed_utc": "2026-07-27T03:36:48.521797+00:00"
+  },
+  {
+    "job_id": "workday:cigna:cignacareers:req:26009162",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Cigna",
+    "title": "Software Engineering Senior Advisor- Hybrid",
+    "location": "Morris Plains, NJ",
+    "posted": "Posted 5 Days Ago",
+    "url": "https://cigna.wd5.myworkdayjobs.com/en-US/cignacareers/job/Morris-Plains-NJ/Software-Engineering-Senior-Advisor--Hybrid_26009162",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-27T03:36:48.521797+00:00",
+    "emailed_utc": "2026-07-27T03:36:48.521797+00:00"
+  },
+  {
+    "job_id": "workday:cigna:cignacareers:req:26009163",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Cigna",
+    "title": "Software Engineering Senior Advisor- Hybrid",
+    "location": "Morris Plains, NJ",
+    "posted": "Posted 5 Days Ago",
+    "url": "https://cigna.wd5.myworkdayjobs.com/en-US/cignacareers/job/Morris-Plains-NJ/Software-Engineering-Senior-Advisor--Hybrid_26009163",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-27T03:36:48.521797+00:00",
+    "emailed_utc": "2026-07-27T03:36:48.521797+00:00"
   }
 ]
