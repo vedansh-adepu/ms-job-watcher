@@ -6615,5 +6615,31 @@
     "bucket": "yes",
     "first_seen_utc": "2026-07-27T20:11:20.735318+00:00",
     "emailed_utc": "2026-07-27T20:11:20.735318+00:00"
+  },
+  {
+    "job_id": "amazon:be3566b9-89de-403f-b7af-e558ebe6ac4c",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Sr. Software Development Engineer, Annapurna Labs",
+    "location": "US, CA, Cupertino",
+    "posted": "July 27, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10485279/sr-software-development-engineer-annapurna-labs",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-27T20:21:16.481092+00:00",
+    "emailed_utc": "2026-07-27T20:21:16.481092+00:00"
+  },
+  {
+    "job_id": "amazon:dfd341fb-20f9-4f09-b6bc-b5258ceba650",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Senior Software Developer - Amazon Robotics , Autonomous Mobility",
+    "location": "US, MA, North Reading",
+    "posted": "July 27, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10485271/senior-software-developer-amazon-robotics-autonomous-mobility",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-27T20:21:16.481092+00:00",
+    "emailed_utc": "2026-07-27T20:21:16.481092+00:00"
   }
 ]
