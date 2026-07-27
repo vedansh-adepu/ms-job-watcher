@@ -60682,5 +60682,44 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-27T20:33:01.946808+00:00",
     "emailed_utc": "2026-07-27T20:33:01.946808+00:00"
+  },
+  {
+    "job_id": "ashby:render:8815f772-6895-4383-a9e5-6c7bdc2bf141",
+    "pipeline": "boards",
+    "platform": "ashby",
+    "company": "Render",
+    "title": "Software Engineer, User Auth Experience",
+    "location": "Remote: United States",
+    "posted": "",
+    "url": "https://jobs.ashbyhq.com/render/8815f772-6895-4383-a9e5-6c7bdc2bf141",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-27T21:02:13.112998+00:00",
+    "emailed_utc": "2026-07-27T21:02:13.112998+00:00"
+  },
+  {
+    "job_id": "greenhouse:verkada:4585595007",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "verkada",
+    "title": "Senior-Staff Software Engineer, Business Systems",
+    "location": "San Mateo, CA United States",
+    "posted": "2026-07-27T14:34:24-04:00",
+    "url": "https://job-boards.greenhouse.io/verkada/jobs/4585595007",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-27T21:02:13.112998+00:00",
+    "emailed_utc": "2026-07-27T21:02:13.112998+00:00"
+  },
+  {
+    "job_id": "smartrecruiters:Versant3:744000140084739",
+    "pipeline": "boards",
+    "platform": "smartrecruiters",
+    "company": "Versant",
+    "title": "Principal Software Engineer (Cloud Native)",
+    "location": "New York, NY, us",
+    "posted": "2026-07-27T20:05:27.580Z",
+    "url": "https://jobs.smartrecruiters.com/Versant3",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-27T21:02:13.112998+00:00",
+    "emailed_utc": "2026-07-27T21:02:13.112998+00:00"
   }
 ]

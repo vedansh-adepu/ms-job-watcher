@@ -6654,5 +6654,18 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-27T20:51:12.555912+00:00",
     "emailed_utc": "2026-07-27T20:51:12.555912+00:00"
+  },
+  {
+    "job_id": "amazon:83294b6f-55e0-4a58-bb2e-42ab018cd3d2",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Machine Learning Engineer, OIS-Core Engine",
+    "location": "US, TX, Austin",
+    "posted": "July 27, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10485323/machine-learning-engineer-ois-core-engine",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-27T21:01:21.669225+00:00",
+    "emailed_utc": "2026-07-27T21:01:21.669225+00:00"
   }
 ]
