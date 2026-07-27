@@ -57822,5 +57822,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-27T01:32:42.772144+00:00",
     "emailed_utc": "2026-07-27T01:32:42.772144+00:00"
+  },
+  {
+    "job_id": "workday:ngc:Northrop_Grumman_External_Site:req:R10242339",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Northrop Grumman",
+    "title": "Engineer Software",
+    "location": "United States-Florida-Melbourne",
+    "posted": "Posted Today",
+    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Engineer-Software_R10242339-1",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-27T04:00:57.905648+00:00",
+    "emailed_utc": "2026-07-27T04:00:57.905648+00:00"
+  },
+  {
+    "job_id": "workday:ngc:Northrop_Grumman_External_Site:req:R10242338",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Northrop Grumman",
+    "title": "Principal Software Engineer",
+    "location": "United States-Florida-Melbourne",
+    "posted": "Posted Today",
+    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Principal-Software-Engineer_R10242338",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-27T04:00:57.905648+00:00",
+    "emailed_utc": "2026-07-27T04:00:57.905648+00:00"
   }
 ]
