@@ -57770,5 +57770,57 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-27T00:32:39.990301+00:00",
     "emailed_utc": "2026-07-27T00:32:39.990301+00:00"
+  },
+  {
+    "job_id": "greenhouse:spacex:8650988002",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "SpaceX",
+    "title": "Full Stack Software Engineer, Manufacturing",
+    "location": "Starbase, TX",
+    "posted": "2026-07-26T18:41:23-04:00",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8650988002?gh_jid=8650988002",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-27T01:32:42.772144+00:00",
+    "emailed_utc": "2026-07-27T01:32:42.772144+00:00"
+  },
+  {
+    "job_id": "greenhouse:spacex:8651026002",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "SpaceX",
+    "title": "Lead Software Engineer, Starship Manufacturing (Application Software) ",
+    "location": "Starbase, TX",
+    "posted": "2026-07-26T20:10:56-04:00",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8651026002?gh_jid=8651026002",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-27T01:32:42.772144+00:00",
+    "emailed_utc": "2026-07-27T01:32:42.772144+00:00"
+  },
+  {
+    "job_id": "greenhouse:spacex:8650986002",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "SpaceX",
+    "title": "Sr. Full Stack Engineer (Application Software)",
+    "location": "Starbase, TX",
+    "posted": "2026-07-26T18:27:58-04:00",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8650986002?gh_jid=8650986002",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-27T01:32:42.772144+00:00",
+    "emailed_utc": "2026-07-27T01:32:42.772144+00:00"
+  },
+  {
+    "job_id": "greenhouse:spacex:8650989002",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "SpaceX",
+    "title": "Sr. Full Stack Engineer, Manufacturing Systems",
+    "location": "Hawthorne, CA",
+    "posted": "2026-07-26T18:46:02-04:00",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8650989002?gh_jid=8650989002",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-27T01:32:42.772144+00:00",
+    "emailed_utc": "2026-07-27T01:32:42.772144+00:00"
   }
 ]
