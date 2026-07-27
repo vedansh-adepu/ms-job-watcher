@@ -6511,5 +6511,18 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-27T16:51:21.544320+00:00",
     "emailed_utc": "2026-07-27T16:51:21.544320+00:00"
+  },
+  {
+    "job_id": "amazon:5a9afe37-1e05-4bab-a6e1-7eb3f4b956ad",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, Provisioning - Amazon Leo",
+    "location": "US, WA, Redmond",
+    "posted": "July 27, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10484995/software-development-engineer-provisioning-amazon-leo",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-27T17:21:16.060402+00:00",
+    "emailed_utc": "2026-07-27T17:21:16.060402+00:00"
   }
 ]
