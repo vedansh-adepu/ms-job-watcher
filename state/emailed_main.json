@@ -6303,5 +6303,57 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-26T23:41:11.245864+00:00",
     "emailed_utc": "2026-07-26T23:41:11.245864+00:00"
+  },
+  {
+    "job_id": "amazon:b7c5349a-b7d6-41a2-becb-7320788ad7d8",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, Amazon WorkSpaces Applications",
+    "location": "US, WA, Seattle",
+    "posted": "July 27, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10484190/software-development-engineer-amazon-workspaces-applications",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-27T00:51:09.660013+00:00",
+    "emailed_utc": "2026-07-27T00:51:09.660013+00:00"
+  },
+  {
+    "job_id": "amazon:886e65dd-0053-4343-8b6b-371d38e2a64e",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, Amazon WorkSpaces Applications",
+    "location": "US, WA, Seattle",
+    "posted": "July 27, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10484188/software-development-engineer-amazon-workspaces-applications",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-27T00:51:09.660013+00:00",
+    "emailed_utc": "2026-07-27T00:51:09.660013+00:00"
+  },
+  {
+    "job_id": "amazon:43010f06-3276-4d66-afe5-162ab9dd874e",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, Amazon WorkSpaces Applications",
+    "location": "US, CA, Sunnyvale",
+    "posted": "July 27, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10484187/software-development-engineer-amazon-workspaces-applications",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-27T00:51:09.660013+00:00",
+    "emailed_utc": "2026-07-27T00:51:09.660013+00:00"
+  },
+  {
+    "job_id": "amazon:59c427d8-cd86-4f8c-a314-4d34cc3e68e2",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, Amazon WorkSpaces Applications",
+    "location": "US, CA, Sunnyvale",
+    "posted": "July 27, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10484189/software-development-engineer-amazon-workspaces-applications",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-27T00:51:09.660013+00:00",
+    "emailed_utc": "2026-07-27T00:51:09.660013+00:00"
   }
 ]
