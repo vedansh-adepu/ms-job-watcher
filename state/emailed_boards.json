@@ -58602,5 +58602,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-27T15:33:07.717398+00:00",
     "emailed_utc": "2026-07-27T15:33:07.717398+00:00"
+  },
+  {
+    "job_id": "greenhouse:voyagertechnologiesinc:4240629009",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "voyagertechnologiesinc",
+    "title": "Optical Engineering Technician",
+    "location": "San Diego, CA",
+    "posted": "2026-07-27T10:00:04-04:00",
+    "url": "https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4240629009",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-27T16:02:30.962276+00:00",
+    "emailed_utc": "2026-07-27T16:02:30.962276+00:00"
+  },
+  {
+    "job_id": "smartrecruiters:Versant3:744000140031699",
+    "pipeline": "boards",
+    "platform": "smartrecruiters",
+    "company": "Versant",
+    "title": "Staff Software Engineer, Video Platform - Fandango at Home",
+    "location": "Orlando, FL, us",
+    "posted": "2026-07-27T15:00:40.743Z",
+    "url": "https://jobs.smartrecruiters.com/Versant3",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-27T16:02:30.962276+00:00",
+    "emailed_utc": "2026-07-27T16:02:30.962276+00:00"
   }
 ]
