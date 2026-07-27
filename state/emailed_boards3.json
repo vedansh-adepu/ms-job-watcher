@@ -146066,5 +146066,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-27T04:05:52.458168+00:00",
     "emailed_utc": "2026-07-27T04:05:52.458168+00:00"
+  },
+  {
+    "job_id": "workday:clark:clarkexternal:req:R5023856",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Clark",
+    "title": "SAP Datasphere Lead Engineer",
+    "location": "McLean, VA",
+    "posted": "Posted 5 Days Ago",
+    "url": "https://clark.wd503.myworkdayjobs.com/en-US/clarkexternal/job/McLean-VA/SAP-Datasphere-Lead-Engineer_R5023856-1",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-27T04:29:10.982996+00:00",
+    "emailed_utc": "2026-07-27T04:29:10.982996+00:00"
+  },
+  {
+    "job_id": "workday:clark:clarkexternal:req:R5023852",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Clark",
+    "title": "Safety Engineer",
+    "location": "San Francisco, CA",
+    "posted": "Posted 6 Days Ago",
+    "url": "https://clark.wd503.myworkdayjobs.com/en-US/clarkexternal/job/San-Francisco-CA/Safety-Engineer_R5023852",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-27T04:29:10.982996+00:00",
+    "emailed_utc": "2026-07-27T04:29:10.982996+00:00"
   }
 ]
