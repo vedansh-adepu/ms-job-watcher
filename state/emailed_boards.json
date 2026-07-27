@@ -58563,5 +58563,44 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-27T15:12:19.329834+00:00",
     "emailed_utc": "2026-07-27T15:12:19.329834+00:00"
+  },
+  {
+    "job_id": "greenhouse:robinhood:8083951",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Robinhood",
+    "title": "Senior Software Engineer - Data Lake Ingestion",
+    "location": "Bellevue, WA",
+    "posted": "2026-07-27T11:30:26-04:00",
+    "url": "https://boards.greenhouse.io/robinhood/jobs/8083951?t=gh_src=&gh_jid=8083951",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-27T15:33:07.717398+00:00",
+    "emailed_utc": "2026-07-27T15:33:07.717398+00:00"
+  },
+  {
+    "job_id": "greenhouse:robinhood:8083811",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Robinhood",
+    "title": "Senior Software Engineer, Streaming Platform",
+    "location": "Bellevue, WA",
+    "posted": "2026-07-27T11:16:32-04:00",
+    "url": "https://boards.greenhouse.io/robinhood/jobs/8083811?t=gh_src=&gh_jid=8083811",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-27T15:33:07.717398+00:00",
+    "emailed_utc": "2026-07-27T15:33:07.717398+00:00"
+  },
+  {
+    "job_id": "greenhouse:twilio:8081530",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "twilio",
+    "title": "Principal Software Engineer",
+    "location": "Remote - US",
+    "posted": "2026-07-27T10:42:37-04:00",
+    "url": "https://job-boards.greenhouse.io/twilio/jobs/8081530",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-27T15:33:07.717398+00:00",
+    "emailed_utc": "2026-07-27T15:33:07.717398+00:00"
   }
 ]
