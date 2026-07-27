@@ -147600,5 +147600,83 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-27T04:34:00.466252+00:00",
     "emailed_utc": "2026-07-27T04:34:00.466252+00:00"
+  },
+  {
+    "job_id": "workday:cnx:external_global:req:R1748547",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Cnx",
+    "title": "Java Full stack Developer",
+    "location": "Omaha, NE 68179",
+    "posted": "Posted 6 Days Ago",
+    "url": "https://cnx.wd1.myworkdayjobs.com/en-US/external_global/job/Omaha-NE-68179/Java-Full-stack-Developer_R1748547",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-27T05:02:33.135260+00:00",
+    "emailed_utc": "2026-07-27T05:02:33.135260+00:00"
+  },
+  {
+    "job_id": "workday:coffeeandbagelbrands:coffeeandbagelbrands:req:R190406",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Coffeeandbagelbrands",
+    "title": "Business Intelligence Analytics Engineer",
+    "location": "US - Brooklyn Center, MN",
+    "posted": "Posted 4 Days Ago",
+    "url": "https://coffeeandbagelbrands.wd1.myworkdayjobs.com/en-US/coffeeandbagelbrands/job/US---Brooklyn-Center-MN/Business-Intelligence-Analytics-Engineer_R190406",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-27T05:02:33.135260+00:00",
+    "emailed_utc": "2026-07-27T05:02:33.135260+00:00"
+  },
+  {
+    "job_id": "workday:cni:cni:req:R8825",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Cni",
+    "title": "Simulator Engineer",
+    "location": "Oklahoma City, OK",
+    "posted": "Posted 2 Days Ago",
+    "url": "https://cni.wd503.myworkdayjobs.com/en-US/cni/job/Oklahoma-City-OK/Simulator-Software-Engineer_R8825",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-27T05:02:33.135260+00:00",
+    "emailed_utc": "2026-07-27T05:02:33.135260+00:00"
+  },
+  {
+    "job_id": "workday:cohesity:cohesity_careers:req:R03055",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Cohesity",
+    "title": "Senior Software Engineer",
+    "location": "Santa Clara, CA - USA (Office)",
+    "posted": "Posted 5 Days Ago",
+    "url": "https://cohesity.wd5.myworkdayjobs.com/en-US/cohesity_careers/job/Santa-Clara-CA---USA-Office/Senior-Software-Engineer_R03055",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-27T05:02:33.135260+00:00",
+    "emailed_utc": "2026-07-27T05:02:33.135260+00:00"
+  },
+  {
+    "job_id": "workday:cnx:external_global:req:R1749818",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Cnx",
+    "title": "Senior UI/UX Developer",
+    "location": "USA Work at Home",
+    "posted": "Posted 2 Days Ago",
+    "url": "https://cnx.wd1.myworkdayjobs.com/en-US/external_global/job/USA-Work-at-Home/Senior-UI-UX-Developer_R1749818",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-27T05:02:33.135260+00:00",
+    "emailed_utc": "2026-07-27T05:02:33.135260+00:00"
+  },
+  {
+    "job_id": "workday:coffeeandbagelbrands:coffeeandbagelbrands:req:R190407",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Coffeeandbagelbrands",
+    "title": "Data Architect",
+    "location": "US - Brooklyn Center, MN",
+    "posted": "Posted 4 Days Ago",
+    "url": "https://coffeeandbagelbrands.wd1.myworkdayjobs.com/en-US/coffeeandbagelbrands/job/US---Brooklyn-Center-MN/Data-Architect_R190407",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-27T05:02:33.135260+00:00",
+    "emailed_utc": "2026-07-27T05:02:33.135260+00:00"
   }
 ]
