@@ -59512,5 +59512,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-27T18:32:18.984034+00:00",
     "emailed_utc": "2026-07-27T18:32:18.984034+00:00"
+  },
+  {
+    "job_id": "greenhouse:lgelectronics:5371737008",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Lgelectronics",
+    "title": "Product Development Engineer II, LGE HVAC ",
+    "location": "Alpharetta, GA",
+    "posted": "2026-07-27T14:44:20-04:00",
+    "url": "https://job-boards.greenhouse.io/lgelectronics/jobs/5371737008",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-27T19:01:13.228388+00:00",
+    "emailed_utc": "2026-07-27T19:01:13.228388+00:00"
+  },
+  {
+    "job_id": "greenhouse:freedomconsulting:5196743007",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Freedomconsulting",
+    "title": "ServiceNow Developer 741",
+    "location": "McLean, VA",
+    "posted": "2026-07-27T13:06:02-04:00",
+    "url": "https://job-boards.greenhouse.io/freedomconsulting/jobs/5196743007",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-27T19:01:13.228388+00:00",
+    "emailed_utc": "2026-07-27T19:01:13.228388+00:00"
   }
 ]
