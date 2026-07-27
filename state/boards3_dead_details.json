@@ -1,4 +1,14 @@
 {
-  "updated_utc": "2026-07-27T10:34:11.226613+00:00",
-  "dead_details": {}
+  "updated_utc": "2026-07-27T11:03:21.991467+00:00",
+  "dead_details": {
+    "workday:dowjones:sky_news_australia_careers": {
+      "first_seen_utc": "2026-07-27T11:01:10.704279+00:00",
+      "last_seen_utc": "2026-07-27T11:01:10.704279+00:00",
+      "platform": "workday",
+      "company": "",
+      "board_url": "",
+      "last_status": 404,
+      "last_error": "HTTP 404/410 (Workday API not found)"
+    }
+  }
 }
