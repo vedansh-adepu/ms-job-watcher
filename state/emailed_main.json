@@ -6693,5 +6693,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-27T21:41:15.645660+00:00",
     "emailed_utc": "2026-07-27T21:41:15.645660+00:00"
+  },
+  {
+    "job_id": "amazon:ea042fa4-778c-4269-9de6-0b14e07ab6ed",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer II, SKG Team",
+    "location": "US, WA, Seattle",
+    "posted": "July 27, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10485387/software-development-engineer-ii-skg-team",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-27T22:21:11.416461+00:00",
+    "emailed_utc": "2026-07-27T22:21:11.416461+00:00"
+  },
+  {
+    "job_id": "amazon:c8628e8c-1e2b-4809-82e7-1ad81352f649",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer II, SKG Team",
+    "location": "US, WA, Seattle",
+    "posted": "July 27, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10485388/software-development-engineer-ii-skg-team",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-27T22:21:11.416461+00:00",
+    "emailed_utc": "2026-07-27T22:21:11.416461+00:00"
   }
 ]
