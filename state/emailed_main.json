@@ -6459,5 +6459,44 @@
     "bucket": "yes",
     "first_seen_utc": "2026-07-27T16:21:10.947445+00:00",
     "emailed_utc": "2026-07-27T16:21:10.947445+00:00"
+  },
+  {
+    "job_id": "microsoft:1970393556943730",
+    "pipeline": "main",
+    "platform": "microsoft",
+    "company": "Microsoft",
+    "title": "Software Engineer II",
+    "location": "Redmond, WA, US",
+    "posted": "2026-07-24 22:00 UTC",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556943730",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-27T16:41:13.762327+00:00",
+    "emailed_utc": "2026-07-27T16:41:13.762327+00:00"
+  },
+  {
+    "job_id": "amazon:ac5471d2-091f-4aeb-8081-64a8cd0c3728",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Manager, NAT Gateway",
+    "location": "US, WA, Seattle",
+    "posted": "July 27, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10484947/software-development-manager-nat-gateway",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-27T16:41:13.762327+00:00",
+    "emailed_utc": "2026-07-27T16:41:13.762327+00:00"
+  },
+  {
+    "job_id": "amazon:3f634aaa-b16c-4a32-9b11-b1430592c139",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Manager, Shield (Anti-DDoS)",
+    "location": "US, WA, Seattle",
+    "posted": "July 27, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10484946/software-development-manager-shield-anti-ddos",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-27T16:41:13.762327+00:00",
+    "emailed_utc": "2026-07-27T16:41:13.762327+00:00"
   }
 ]
