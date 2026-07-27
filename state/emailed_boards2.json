@@ -27818,5 +27818,83 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-27T15:33:54.497936+00:00",
     "emailed_utc": "2026-07-27T15:33:54.497936+00:00"
+  },
+  {
+    "job_id": "greenhouse:place:4718737005",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "place",
+    "title": "Data Scientist",
+    "location": "Remote - United States",
+    "posted": "2026-07-27T11:12:33-04:00",
+    "url": "https://place.com/corporate-careers/4718737005?gh_jid=4718737005",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-27T16:02:25.049340+00:00",
+    "emailed_utc": "2026-07-27T16:02:25.049340+00:00"
+  },
+  {
+    "job_id": "greenhouse:inovalon:7812110003",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "inovalon",
+    "title": "Senior Process Engineering Specialist",
+    "location": "Remote- United States",
+    "posted": "2026-07-27T10:50:59-04:00",
+    "url": "https://www.inovalon.com/careers/job/?gh_jid=7812110003",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-27T16:02:25.049340+00:00",
+    "emailed_utc": "2026-07-27T16:02:25.049340+00:00"
+  },
+  {
+    "job_id": "greenhouse:optiverus:8639284002",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "optiverus",
+    "title": "Senior Microsoft 365 Engineer",
+    "location": "Chicago, Illinois, United States",
+    "posted": "2026-07-27T11:03:56-04:00",
+    "url": "https://www.optiver.com/join-us/jobs/8639284002/?gh_jid=8639284002",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-27T16:02:25.049340+00:00",
+    "emailed_utc": "2026-07-27T16:02:25.049340+00:00"
+  },
+  {
+    "job_id": "greenhouse:slice:7547314",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "slice",
+    "title": "Staff Software Developer, Services",
+    "location": "United States",
+    "posted": "2026-07-27T11:35:38-04:00",
+    "url": "https://slice.careers/careers-listing?gh_jid=7547314",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-27T16:02:25.049340+00:00",
+    "emailed_utc": "2026-07-27T16:02:25.049340+00:00"
+  },
+  {
+    "job_id": "greenhouse:techholding:4718581005",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "techholding",
+    "title": "Data Architect | Contract | Los Angeles ",
+    "location": "Los Angeles, California, United States",
+    "posted": "2026-07-27T11:17:20-04:00",
+    "url": "https://job-boards.greenhouse.io/techholding/jobs/4718581005",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-27T16:02:25.049340+00:00",
+    "emailed_utc": "2026-07-27T16:02:25.049340+00:00"
+  },
+  {
+    "job_id": "greenhouse:thefarmersdog:8588756002",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "thefarmersdog",
+    "title": "Staff Engineer",
+    "location": "New York, New York, United States",
+    "posted": "2026-07-27T11:40:35-04:00",
+    "url": "https://job-boards.greenhouse.io/thefarmersdog/jobs/8588756002",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-27T16:02:25.049340+00:00",
+    "emailed_utc": "2026-07-27T16:02:25.049340+00:00"
   }
 ]
