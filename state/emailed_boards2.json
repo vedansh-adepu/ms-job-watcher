@@ -28767,5 +28767,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-27T19:31:49.542224+00:00",
     "emailed_utc": "2026-07-27T19:31:49.542224+00:00"
+  },
+  {
+    "job_id": "greenhouse:vardaspace:7817924003",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "vardaspace",
+    "title": "Spacecraft Ground Systems Software Engineer",
+    "location": "El Segundo, California, United States",
+    "posted": "2026-07-27T14:02:37-04:00",
+    "url": "https://job-boards.greenhouse.io/vardaspace/jobs/7817924003",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-27T20:02:40.347758+00:00",
+    "emailed_utc": "2026-07-27T20:02:40.347758+00:00"
+  },
+  {
+    "job_id": "greenhouse:waymo:8087812",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "waymo",
+    "title": "Staff Product Development Mechanical Engineer, Sensors",
+    "location": "Mountain View, CA, USA",
+    "posted": "2026-07-27T14:01:27-04:00",
+    "url": "https://careers.withwaymo.com/jobs?gh_jid=8087812",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-27T20:02:40.347758+00:00",
+    "emailed_utc": "2026-07-27T20:02:40.347758+00:00"
   }
 ]
