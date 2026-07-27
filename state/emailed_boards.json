@@ -59447,5 +59447,70 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-27T18:03:15.510180+00:00",
     "emailed_utc": "2026-07-27T18:03:15.510180+00:00"
+  },
+  {
+    "job_id": "greenhouse:verkada:5195995007",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "verkada",
+    "title": "Software Engineer - Computer Vision",
+    "location": "San Mateo, CA United States",
+    "posted": "2026-07-27T13:40:21-04:00",
+    "url": "https://job-boards.greenhouse.io/verkada/jobs/5195995007",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-27T18:32:18.984034+00:00",
+    "emailed_utc": "2026-07-27T18:32:18.984034+00:00"
+  },
+  {
+    "job_id": "greenhouse:verkada:5189107007",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "verkada",
+    "title": "Enterprise Solutions Engineer, Denver",
+    "location": "Denver, CO United States",
+    "posted": "2026-07-27T12:40:56-04:00",
+    "url": "https://job-boards.greenhouse.io/verkada/jobs/5189107007",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-27T18:32:18.984034+00:00",
+    "emailed_utc": "2026-07-27T18:32:18.984034+00:00"
+  },
+  {
+    "job_id": "greenhouse:voyagertechnologiesinc:4329584009",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "voyagertechnologiesinc",
+    "title": "Systems Engineer V - Systems ",
+    "location": "Reno, NV or Remote-USA or Folsom, CA",
+    "posted": "2026-07-27T13:47:25-04:00",
+    "url": "https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4329584009",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-27T18:32:18.984034+00:00",
+    "emailed_utc": "2026-07-27T18:32:18.984034+00:00"
+  },
+  {
+    "job_id": "ashby:snowflake:4ea34b87-6c23-4e0f-ae93-1cc02eb21ae0",
+    "pipeline": "boards",
+    "platform": "ashby",
+    "company": "Snowflake",
+    "title": "Analyst, Finance Analytics & AI - Deal Desk",
+    "location": "US-CA-Menlo Park",
+    "posted": "",
+    "url": "https://jobs.ashbyhq.com/snowflake/4ea34b87-6c23-4e0f-ae93-1cc02eb21ae0",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-27T18:32:18.984034+00:00",
+    "emailed_utc": "2026-07-27T18:32:18.984034+00:00"
+  },
+  {
+    "job_id": "ashby:openai:d44d9fac-3a9f-4731-a4fc-7a6759ddb427",
+    "pipeline": "boards",
+    "platform": "ashby",
+    "company": "Openai",
+    "title": "Power Land Developer, Development & Power Projects",
+    "location": "Remote - US",
+    "posted": "",
+    "url": "https://jobs.ashbyhq.com/openai/d44d9fac-3a9f-4731-a4fc-7a6759ddb427",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-27T18:32:18.984034+00:00",
+    "emailed_utc": "2026-07-27T18:32:18.984034+00:00"
   }
 ]
