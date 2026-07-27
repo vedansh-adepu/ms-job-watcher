@@ -29248,5 +29248,70 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-27T21:32:09.915919+00:00",
     "emailed_utc": "2026-07-27T21:32:09.915919+00:00"
+  },
+  {
+    "job_id": "greenhouse:grvty:4333058009",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "grvty",
+    "title": "Data Scientist - Mid",
+    "location": "Springfield, Virginia, United States",
+    "posted": "2026-07-27T17:25:27-04:00",
+    "url": "https://job-boards.greenhouse.io/grvty/jobs/4333058009",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-27T22:32:30.253971+00:00",
+    "emailed_utc": "2026-07-27T22:32:30.253971+00:00"
+  },
+  {
+    "job_id": "greenhouse:guild:8083949",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "guild",
+    "title": "VP, Software Engineering",
+    "location": "United States",
+    "posted": "2026-07-27T16:47:27-04:00",
+    "url": "https://www.guild.com/open-positions-at-guild?gh_jid=8083949",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-27T22:32:30.253971+00:00",
+    "emailed_utc": "2026-07-27T22:32:30.253971+00:00"
+  },
+  {
+    "job_id": "greenhouse:altentechnologyusa:5197119007",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "altentechnologyusa",
+    "title": "Robotics Middleware Engineer",
+    "location": "North Reading, MA",
+    "posted": "2026-07-27T18:30:50-04:00",
+    "url": "https://job-boards.greenhouse.io/altentechnologyusa/jobs/5197119007",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-27T22:32:30.253971+00:00",
+    "emailed_utc": "2026-07-27T22:32:30.253971+00:00"
+  },
+  {
+    "job_id": "greenhouse:bugcrowd:8036911",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "bugcrowd",
+    "title": "Manager, Engineering - AI and Data Team Manager",
+    "location": "Remote - US",
+    "posted": "2026-07-27T17:03:13-04:00",
+    "url": "https://boards.greenhouse.io/bugcrowd/jobs/8036911?gh_jid=8036911",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-27T22:32:30.253971+00:00",
+    "emailed_utc": "2026-07-27T22:32:30.253971+00:00"
+  },
+  {
+    "job_id": "greenhouse:clicktherapeutics:8652763002",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "clicktherapeutics",
+    "title": "Senior Software Engineer",
+    "location": "New York, NY",
+    "posted": "2026-07-27T17:08:59-04:00",
+    "url": "https://job-boards.greenhouse.io/clicktherapeutics/jobs/8652763002",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-27T22:32:30.253971+00:00",
+    "emailed_utc": "2026-07-27T22:32:30.253971+00:00"
   }
 ]
