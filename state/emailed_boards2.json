@@ -27532,5 +27532,44 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-27T12:32:23.020415+00:00",
     "emailed_utc": "2026-07-27T12:32:23.020415+00:00"
+  },
+  {
+    "job_id": "greenhouse:ampsortation:7812001003",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "ampsortation",
+    "title": "Vice President, Engineering",
+    "location": "Remote, United States",
+    "posted": "2026-07-27T07:57:57-04:00",
+    "url": "https://job-boards.greenhouse.io/ampsortation/jobs/7812001003",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-27T13:32:03.077222+00:00",
+    "emailed_utc": "2026-07-27T13:32:03.077222+00:00"
+  },
+  {
+    "job_id": "greenhouse:grafanalabs:6100724004",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "grafanalabs",
+    "title": "Senior AI Engineer - Grafana AI/ML | USA | Remote",
+    "location": "United States (Remote)",
+    "posted": "2026-07-27T08:59:09-04:00",
+    "url": "https://job-boards.greenhouse.io/grafanalabs/jobs/6100724004",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-27T13:32:03.077222+00:00",
+    "emailed_utc": "2026-07-27T13:32:03.077222+00:00"
+  },
+  {
+    "job_id": "greenhouse:guidepoint:8648737002",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "guidepoint",
+    "title": "Senior Data Analyst",
+    "location": "New York, New York, United States",
+    "posted": "2026-07-27T09:14:31-04:00",
+    "url": "https://job-boards.greenhouse.io/guidepoint/jobs/8648737002",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-27T13:32:03.077222+00:00",
+    "emailed_utc": "2026-07-27T13:32:03.077222+00:00"
   }
 ]
