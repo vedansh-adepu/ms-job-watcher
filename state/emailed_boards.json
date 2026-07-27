@@ -60721,5 +60721,83 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-27T21:02:13.112998+00:00",
     "emailed_utc": "2026-07-27T21:02:13.112998+00:00"
+  },
+  {
+    "job_id": "ashby:langchain:0f35c8e1-9318-411d-929b-04c60e6d8522",
+    "pipeline": "boards",
+    "platform": "ashby",
+    "company": "LangChain",
+    "title": "Deployed Engineer (Early Career- SF/NY)",
+    "location": "San Francisco, CA",
+    "posted": "",
+    "url": "https://jobs.ashbyhq.com/langchain/0f35c8e1-9318-411d-929b-04c60e6d8522",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-27T21:31:17.907530+00:00",
+    "emailed_utc": "2026-07-27T21:31:17.907530+00:00"
+  },
+  {
+    "job_id": "greenhouse:botauto:5371946008",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Botauto",
+    "title": "Algorithm Engineer, Autonomous Driving Validation",
+    "location": "Houston, TX or San Francisco Bay Area",
+    "posted": "2026-07-27T15:44:55-04:00",
+    "url": "https://job-boards.greenhouse.io/botauto/jobs/5371946008",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-27T21:31:17.907530+00:00",
+    "emailed_utc": "2026-07-27T21:31:17.907530+00:00"
+  },
+  {
+    "job_id": "greenhouse:botauto:5371942008",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Botauto",
+    "title": "Algorithm Engineer, Autonomy Planning & Prediction",
+    "location": "Houston, TX or San Francisco Bay Area",
+    "posted": "2026-07-27T15:43:19-04:00",
+    "url": "https://job-boards.greenhouse.io/botauto/jobs/5371942008",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-27T21:31:17.907530+00:00",
+    "emailed_utc": "2026-07-27T21:31:17.907530+00:00"
+  },
+  {
+    "job_id": "greenhouse:botauto:5371947008",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Botauto",
+    "title": "Algorithm Engineer, Deep Learning & Vision (New Grad)",
+    "location": "Houston, TX or San Francisco Bay Area",
+    "posted": "2026-07-27T15:51:23-04:00",
+    "url": "https://job-boards.greenhouse.io/botauto/jobs/5371947008",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-27T21:31:17.907530+00:00",
+    "emailed_utc": "2026-07-27T21:31:17.907530+00:00"
+  },
+  {
+    "job_id": "greenhouse:botauto:5372100008",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Botauto",
+    "title": "Senior Algorithm Engineer, Deep Learning & Vision",
+    "location": "Houston, TX or SF Bay Area preferred",
+    "posted": "2026-07-27T17:10:32-04:00",
+    "url": "https://job-boards.greenhouse.io/botauto/jobs/5372100008",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-27T21:31:17.907530+00:00",
+    "emailed_utc": "2026-07-27T21:31:17.907530+00:00"
+  },
+  {
+    "job_id": "ashby:airwallex:6e884138-9e2b-441d-864f-a57945fdea4e",
+    "pipeline": "boards",
+    "platform": "ashby",
+    "company": "Airwallex",
+    "title": "Senior Software Engineer - Growth",
+    "location": "US - San Francisco",
+    "posted": "",
+    "url": "https://jobs.ashbyhq.com/airwallex/6e884138-9e2b-441d-864f-a57945fdea4e",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-27T21:31:17.907530+00:00",
+    "emailed_utc": "2026-07-27T21:31:17.907530+00:00"
   }
 ]
