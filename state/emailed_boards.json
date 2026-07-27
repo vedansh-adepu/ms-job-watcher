@@ -59070,5 +59070,83 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-27T17:03:14.848744+00:00",
     "emailed_utc": "2026-07-27T17:03:14.848744+00:00"
+  },
+  {
+    "job_id": "greenhouse:dialpad:8652237002",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Dialpad",
+    "title": "Customer Success Engineer",
+    "location": "Austin, US",
+    "posted": "2026-07-27T13:05:40-04:00",
+    "url": "https://job-boards.greenhouse.io/dialpad/jobs/8652237002",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-27T17:09:34.271120+00:00",
+    "emailed_utc": "2026-07-27T17:09:34.271120+00:00"
+  },
+  {
+    "job_id": "greenhouse:dialpad:8643677002",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Dialpad",
+    "title": "Customer Success Engineer",
+    "location": "Denver, US",
+    "posted": "2026-07-27T13:04:54-04:00",
+    "url": "https://job-boards.greenhouse.io/dialpad/jobs/8643677002",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-27T17:09:34.271120+00:00",
+    "emailed_utc": "2026-07-27T17:09:34.271120+00:00"
+  },
+  {
+    "job_id": "greenhouse:gusto:7993674",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Gusto",
+    "title": "Staff Software Engineer, HR Experiences",
+    "location": "New York, NY",
+    "posted": "2026-07-27T13:03:55-04:00",
+    "url": "https://job-boards.greenhouse.io/gusto/jobs/7993674",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-27T17:09:34.271120+00:00",
+    "emailed_utc": "2026-07-27T17:09:34.271120+00:00"
+  },
+  {
+    "job_id": "workday:disney:disneycareer:req:10149863",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Disney",
+    "title": "Sr Software Engineer",
+    "location": "New York, NY, USA",
+    "posted": "Posted Today",
+    "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/New-York-NY-USA/Sr-Software-Engineer_10149863",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-27T17:09:34.271120+00:00",
+    "emailed_utc": "2026-07-27T17:09:34.271120+00:00"
+  },
+  {
+    "job_id": "workday:gdit:External_Career_Site:req:RQ224820",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "General Dynamics Information Technology (GDIT)",
+    "title": "Instructional Developer",
+    "location": "USA VA Ashburn",
+    "posted": "Posted Today",
+    "url": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-Ashburn/Instructional-Developer_RQ224820-2",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-27T17:09:34.271120+00:00",
+    "emailed_utc": "2026-07-27T17:09:34.271120+00:00"
+  },
+  {
+    "job_id": "workday:jll:jllcareers:req:REQ523732",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "JLL",
+    "title": "Chief Engineer",
+    "location": "Cincinnati, OH",
+    "posted": "Posted Today",
+    "url": "https://jll.wd1.myworkdayjobs.com/en-US/jllcareers/job/Cincinnati-OH/Chief-Engineer_REQ523732",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-27T17:09:34.271120+00:00",
+    "emailed_utc": "2026-07-27T17:09:34.271120+00:00"
   }
 ]
