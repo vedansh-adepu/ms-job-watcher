@@ -57861,5 +57861,83 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-27T06:02:48.618803+00:00",
     "emailed_utc": "2026-07-27T06:02:48.618803+00:00"
+  },
+  {
+    "job_id": "workday:gdit:External_Career_Site:req:RQ224862",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "General Dynamics Information Technology (GDIT)",
+    "title": "Software Engineer - MID",
+    "location": "USA CO Peterson AFB",
+    "posted": "Posted Today",
+    "url": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-CO-Peterson-AFB/Software-Engineer---MID_RQ224862-1",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-27T06:32:49.290197+00:00",
+    "emailed_utc": "2026-07-27T06:32:49.290197+00:00"
+  },
+  {
+    "job_id": "workday:gdit:External_Career_Site:req:RQ224861",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "General Dynamics Information Technology (GDIT)",
+    "title": "Senior Computer Systems Engineer",
+    "location": "USA AZ Fort Huachuca",
+    "posted": "Posted Today",
+    "url": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-AZ-Fort-Huachuca/Senior-Computer-Systems-Engineer_RQ224861-1",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-27T06:32:49.290197+00:00",
+    "emailed_utc": "2026-07-27T06:32:49.290197+00:00"
+  },
+  {
+    "job_id": "workday:gdit:External_Career_Site:req:RQ225007",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "General Dynamics Information Technology (GDIT)",
+    "title": "Circuit Activation Engineer - TS/SCI clearance",
+    "location": "USA VA Arlington",
+    "posted": "Posted Today",
+    "url": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-Arlington/Circuit-Activation-Engineer---TS-SCI-clearance_RQ225007-1",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-27T06:32:49.290197+00:00",
+    "emailed_utc": "2026-07-27T06:32:49.290197+00:00"
+  },
+  {
+    "job_id": "workday:gdit:External_Career_Site:req:RQ224804",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "General Dynamics Information Technology (GDIT)",
+    "title": "Cybersecurity Engineer Principal",
+    "location": "USA LA Bossier City",
+    "posted": "Posted Today",
+    "url": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-LA-Bossier-City/Cybersecurity-Engineer-Principal_RQ224804",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-27T06:32:49.290197+00:00",
+    "emailed_utc": "2026-07-27T06:32:49.290197+00:00"
+  },
+  {
+    "job_id": "workday:gdit:External_Career_Site:req:RQ225014",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "General Dynamics Information Technology (GDIT)",
+    "title": "Senior Network Engineer - Top Secret",
+    "location": "USA VA Arlington",
+    "posted": "Posted Today",
+    "url": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-Arlington/Senior-Network-Engineer---Top-Secret_RQ225014-1",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-27T06:32:49.290197+00:00",
+    "emailed_utc": "2026-07-27T06:32:49.290197+00:00"
+  },
+  {
+    "job_id": "workday:gdit:External_Career_Site:req:RQ225019",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "General Dynamics Information Technology (GDIT)",
+    "title": "Senior Network Engineer - Top Secret",
+    "location": "USA VA Arlington",
+    "posted": "Posted Today",
+    "url": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-Arlington/Senior-Network-Engineer---Top-Secret_RQ225019-1",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-27T06:32:49.290197+00:00",
+    "emailed_utc": "2026-07-27T06:32:49.290197+00:00"
   }
 ]
