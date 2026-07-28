@@ -65271,5 +65271,44 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-28T20:32:18.776588+00:00",
     "emailed_utc": "2026-07-28T20:32:18.776588+00:00"
+  },
+  {
+    "job_id": "greenhouse:systemstechnologyresearch:4700584006",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "systemstechnologyresearch",
+    "title": "Machine Learning Engineer",
+    "location": "Woburn, MA",
+    "posted": "2026-07-28T15:30:23-04:00",
+    "url": "https://job-boards.greenhouse.io/systemstechnologyresearch/jobs/4700584006",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-28T21:03:00.477765+00:00",
+    "emailed_utc": "2026-07-28T21:03:00.477765+00:00"
+  },
+  {
+    "job_id": "greenhouse:systemstechnologyresearch:4700461006",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "systemstechnologyresearch",
+    "title": "Machine Learning Engineer",
+    "location": "Arlington, VA",
+    "posted": "2026-07-28T15:30:10-04:00",
+    "url": "https://job-boards.greenhouse.io/systemstechnologyresearch/jobs/4700461006",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-28T21:03:00.477765+00:00",
+    "emailed_utc": "2026-07-28T21:03:00.477765+00:00"
+  },
+  {
+    "job_id": "greenhouse:riotgames:8049834",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Riot Games",
+    "title": "Principal Data Engineer, Personalization - Central Product Insights",
+    "location": "Los Angeles, USA",
+    "posted": "2026-07-28T16:01:47-04:00",
+    "url": "https://www.riotgames.com/en/work-with-us/job/8049834?gh_jid=8049834",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-28T21:03:00.477765+00:00",
+    "emailed_utc": "2026-07-28T21:03:00.477765+00:00"
   }
 ]
