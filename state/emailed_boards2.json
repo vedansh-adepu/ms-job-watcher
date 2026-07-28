@@ -29807,5 +29807,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-28T11:31:34.733325+00:00",
     "emailed_utc": "2026-07-28T11:31:34.733325+00:00"
+  },
+  {
+    "job_id": "greenhouse:nextinsurance66:7805880003",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "nextinsurance66",
+    "title": "Backend Software Engineer ",
+    "location": "Boston, MA",
+    "posted": "2026-07-28T08:50:06-04:00",
+    "url": "https://job-boards.greenhouse.io/nextinsurance66/jobs/7805880003",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-28T13:02:05.051900+00:00",
+    "emailed_utc": "2026-07-28T13:02:05.051900+00:00"
+  },
+  {
+    "job_id": "greenhouse:kizen:5365385008",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "kizen",
+    "title": "Senior Solutions Engineer",
+    "location": "New York, New York, United States",
+    "posted": "2026-07-28T08:29:34-04:00",
+    "url": "https://kizen.com/jobs?gh_jid=5365385008",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-28T13:02:05.051900+00:00",
+    "emailed_utc": "2026-07-28T13:02:05.051900+00:00"
   }
 ]
