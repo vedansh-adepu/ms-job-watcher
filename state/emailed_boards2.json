@@ -31692,5 +31692,83 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-28T22:02:46.615600+00:00",
     "emailed_utc": "2026-07-28T22:02:46.615600+00:00"
+  },
+  {
+    "job_id": "greenhouse:asm:4935724101",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "asm",
+    "title": "Engineer II, Systems Engineering",
+    "location": "US > Arizona > Phoenix",
+    "posted": "2026-07-28T18:02:32-04:00",
+    "url": "https://www.asm.com/open-vacancies/?gh_jid=4935724101",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-28T22:42:58.588320+00:00",
+    "emailed_utc": "2026-07-28T22:42:58.588320+00:00"
+  },
+  {
+    "job_id": "greenhouse:asm:4935725101",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "asm",
+    "title": "Senior Engineer II, Plasma Sensing Systems Engineer",
+    "location": "US > Arizona > Phoenix",
+    "posted": "2026-07-28T18:04:57-04:00",
+    "url": "https://www.asm.com/open-vacancies/?gh_jid=4935725101",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-28T22:42:58.588320+00:00",
+    "emailed_utc": "2026-07-28T22:42:58.588320+00:00"
+  },
+  {
+    "job_id": "greenhouse:fieldwire:8635948002",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "fieldwire",
+    "title": "Senior Platform Engineer",
+    "location": "United States (Remote)",
+    "posted": "2026-07-28T17:17:14-04:00",
+    "url": "https://www.fieldwire.com/job/8635948002?gh_jid=8635948002",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-28T22:42:58.588320+00:00",
+    "emailed_utc": "2026-07-28T22:42:58.588320+00:00"
+  },
+  {
+    "job_id": "greenhouse:flyzipline:7819715003",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "flyzipline",
+    "title": "Engineering Validation & Reliability Technician \u2013 Ground Systems",
+    "location": "South San Francisco, California, USA",
+    "posted": "2026-07-28T17:11:08-04:00",
+    "url": "https://www.zipline.com/open-roles?gh_jid=7819715003",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-28T22:42:58.588320+00:00",
+    "emailed_utc": "2026-07-28T22:42:58.588320+00:00"
+  },
+  {
+    "job_id": "greenhouse:flyzipline:7819740003",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "flyzipline",
+    "title": "Senior Embedded Software Engineer",
+    "location": "South San Francisco, California, USA",
+    "posted": "2026-07-28T17:11:24-04:00",
+    "url": "https://www.zipline.com/open-roles?gh_jid=7819740003",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-28T22:42:58.588320+00:00",
+    "emailed_utc": "2026-07-28T22:42:58.588320+00:00"
+  },
+  {
+    "job_id": "greenhouse:hugeinc:8084393",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "hugeinc",
+    "title": "Freelance Senior Data Engineer",
+    "location": "United States",
+    "posted": "2026-07-28T17:24:00-04:00",
+    "url": "https://job-boards.greenhouse.io/hugeinc/jobs/8084393",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-28T22:42:58.588320+00:00",
+    "emailed_utc": "2026-07-28T22:42:58.588320+00:00"
   }
 ]
