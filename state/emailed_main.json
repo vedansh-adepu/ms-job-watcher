@@ -7096,5 +7096,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-28T16:48:43.819719+00:00",
     "emailed_utc": "2026-07-28T16:48:43.819719+00:00"
+  },
+  {
+    "job_id": "amazon:8f850569-1f3d-424e-aa2f-f6bf9006fc89",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, AWS Agentic AI",
+    "location": "US, WA, Seattle",
+    "posted": "July 28, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10486378/software-development-engineer-aws-agentic-ai",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-28T17:11:18.095803+00:00",
+    "emailed_utc": "2026-07-28T17:11:18.095803+00:00"
+  },
+  {
+    "job_id": "amazon:c9c236a4-eb94-4a7c-90c6-ab5965be1b3e",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, Ads Security",
+    "location": "US, WA, Bellevue",
+    "posted": "July 28, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10486387/software-development-engineer-ads-security",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-28T17:11:18.095803+00:00",
+    "emailed_utc": "2026-07-28T17:11:18.095803+00:00"
   }
 ]
