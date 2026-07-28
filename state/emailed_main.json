@@ -7122,5 +7122,31 @@
     "bucket": "yes",
     "first_seen_utc": "2026-07-28T17:11:18.095803+00:00",
     "emailed_utc": "2026-07-28T17:11:18.095803+00:00"
+  },
+  {
+    "job_id": "amazon:2918cf1f-39f7-40d0-8a2b-393a0c5b0192",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer II",
+    "location": "US, MA, N.reading",
+    "posted": "July 28, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10486441/software-development-engineer-ii",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-28T17:51:15.517831+00:00",
+    "emailed_utc": "2026-07-28T17:51:15.517831+00:00"
+  },
+  {
+    "job_id": "amazon:8093942e-05bd-45e0-83b2-1b83ff8c6fca",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Director Engineering, Associate Experience, Amazon Customer Service",
+    "location": "US, WA, Seattle",
+    "posted": "July 28, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10486435/director-engineering-associate-experience-amazon-customer-service",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-28T17:51:15.517831+00:00",
+    "emailed_utc": "2026-07-28T17:51:15.517831+00:00"
   }
 ]
