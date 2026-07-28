@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-07-28T02:31:26.075796+00:00",
+  "updated_utc": "2026-07-28T03:02:14.498644+00:00",
   "dead_details": {
     "lever:livechatinc": {
       "first_seen_utc": "2026-07-01T19:31:29.430568+00:00",
@@ -796,6 +796,15 @@
     "greenhouse:infomedia": {
       "first_seen_utc": "2026-07-27T06:31:18.832989+00:00",
       "last_seen_utc": "2026-07-27T06:31:18.832989+00:00",
+      "platform": "greenhouse",
+      "company": "",
+      "board_url": "",
+      "last_status": 404,
+      "last_error": "HTTP 404/410 (board not found)"
+    },
+    "greenhouse:trueclassicteesllc": {
+      "first_seen_utc": "2026-07-28T03:01:12.695058+00:00",
+      "last_seen_utc": "2026-07-28T03:01:12.695058+00:00",
       "platform": "greenhouse",
       "company": "",
       "board_url": "",
