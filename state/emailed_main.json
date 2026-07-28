@@ -7317,5 +7317,31 @@
     "bucket": "yes",
     "first_seen_utc": "2026-07-28T20:41:12.824208+00:00",
     "emailed_utc": "2026-07-28T20:41:12.824208+00:00"
+  },
+  {
+    "job_id": "amazon:70a4db8c-d6a1-4ccf-94ef-fcb348a1a6f4",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, Developer Agents and Experiences, Production Engineering",
+    "location": "US, WA, Seattle",
+    "posted": "July 28, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10486685/software-development-engineer-developer-agents-and-experiences-production-engineering",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-28T21:01:20.646613+00:00",
+    "emailed_utc": "2026-07-28T21:01:20.646613+00:00"
+  },
+  {
+    "job_id": "microsoft:1970393556945520",
+    "pipeline": "main",
+    "platform": "microsoft",
+    "company": "Microsoft",
+    "title": "Senior Quantum Engineer - Readout",
+    "location": "Redmond, WA, US",
+    "posted": "2026-07-28 20:54 UTC",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556945520",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-28T21:01:20.646613+00:00",
+    "emailed_utc": "2026-07-28T21:01:20.646613+00:00"
   }
 ]
