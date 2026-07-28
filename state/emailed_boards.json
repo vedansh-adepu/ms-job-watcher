@@ -62671,5 +62671,83 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-28T14:36:03.111812+00:00",
     "emailed_utc": "2026-07-28T14:36:03.111812+00:00"
+  },
+  {
+    "job_id": "workday:leidos:External:req:R-00188203",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Leidos",
+    "title": "Software Engineer",
+    "location": "Arlington, VA",
+    "posted": "Posted Today",
+    "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Arlington-VA/Software-Engineer_R-00188203",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-28T15:03:11.415069+00:00",
+    "emailed_utc": "2026-07-28T15:03:11.415069+00:00"
+  },
+  {
+    "job_id": "greenhouse:elastic:8066481",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Elastic",
+    "title": "Senior Software Engineer - Search Relevance in ES|QL - Elasticsearch",
+    "location": "United States",
+    "posted": "2026-07-28T08:39:19-04:00",
+    "url": "https://jobs.elastic.co/jobs?gh_jid=8066481&gh_jid=8066481",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-28T15:03:11.415069+00:00",
+    "emailed_utc": "2026-07-28T15:03:11.415069+00:00"
+  },
+  {
+    "job_id": "workday:jll:jllcareers:req:REQ525297",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "JLL",
+    "title": "Sr. Operating Engineer",
+    "location": "Nashville, TN",
+    "posted": "Posted Today",
+    "url": "https://jll.wd1.myworkdayjobs.com/en-US/jllcareers/job/Nashville-TN/Sr-Operating-Engineer_REQ525297",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-28T15:03:11.415069+00:00",
+    "emailed_utc": "2026-07-28T15:03:11.415069+00:00"
+  },
+  {
+    "job_id": "workday:jll:jllcareers:req:REQ518086",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "JLL",
+    "title": "Specialist, Engineering Services",
+    "location": "Chennai, TN",
+    "posted": "Posted Today",
+    "url": "https://jll.wd1.myworkdayjobs.com/en-US/jllcareers/job/Chennai-TN/Specialist--Engineering-Services_REQ518086",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-28T15:03:11.415069+00:00",
+    "emailed_utc": "2026-07-28T15:03:11.415069+00:00"
+  },
+  {
+    "job_id": "workday:leidos:External:req:R-00188236",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Leidos",
+    "title": "Radar Modeling Engineer\u202f",
+    "location": "Huntsville, AL",
+    "posted": "Posted Today",
+    "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Huntsville-AL/Radar-Modeling-Engineer-_R-00188236-1",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-28T15:03:11.415069+00:00",
+    "emailed_utc": "2026-07-28T15:03:11.415069+00:00"
+  },
+  {
+    "job_id": "workday:leidos:External:req:R-00188181",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Leidos",
+    "title": "Environmental Safety and Health Engineer",
+    "location": "Chantilly, VA",
+    "posted": "Posted Today",
+    "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Chantilly-VA/Environmental-Safety-and-Health-Engineer_R-00188181-1",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-28T15:03:11.415069+00:00",
+    "emailed_utc": "2026-07-28T15:03:11.415069+00:00"
   }
 ]
