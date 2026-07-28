@@ -31770,5 +31770,70 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-28T22:42:58.588320+00:00",
     "emailed_utc": "2026-07-28T22:42:58.588320+00:00"
+  },
+  {
+    "job_id": "greenhouse:rhombuspower:7819836003",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "rhombuspower",
+    "title": "Data Engineer, Palo Alto",
+    "location": "Palo Alto, California, United States",
+    "posted": "2026-07-28T17:42:08-04:00",
+    "url": "https://job-boards.greenhouse.io/rhombuspower/jobs/7819836003",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-28T23:01:24.832373+00:00",
+    "emailed_utc": "2026-07-28T23:01:24.832373+00:00"
+  },
+  {
+    "job_id": "greenhouse:later:8635659002",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "later",
+    "title": "Staff Engineer (Product)",
+    "location": "Boston, MA; Chicago, Illinois, United States; Remote; Vancouver, British Columbia, Canada; Vancouver, Washington, United States",
+    "posted": "2026-07-28T17:47:55-04:00",
+    "url": "https://job-boards.greenhouse.io/later/jobs/8635659002",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-28T23:01:24.832373+00:00",
+    "emailed_utc": "2026-07-28T23:01:24.832373+00:00"
+  },
+  {
+    "job_id": "greenhouse:nice:4940225101",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "nice",
+    "title": "Professional Services Engineer",
+    "location": "USA - Richardson, TX",
+    "posted": "2026-07-28T17:32:17-04:00",
+    "url": "https://boards.eu.greenhouse.io/nice/jobs/4940225101?gh_jid=4940225101",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-28T23:01:24.832373+00:00",
+    "emailed_utc": "2026-07-28T23:01:24.832373+00:00"
+  },
+  {
+    "job_id": "greenhouse:nice:4940224101",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "nice",
+    "title": "Professional Services Engineer",
+    "location": "USA - Sandy, UT",
+    "posted": "2026-07-28T17:31:46-04:00",
+    "url": "https://boards.eu.greenhouse.io/nice/jobs/4940224101?gh_jid=4940224101",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-28T23:01:24.832373+00:00",
+    "emailed_utc": "2026-07-28T23:01:24.832373+00:00"
+  },
+  {
+    "job_id": "greenhouse:otter:8538726002",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "otter",
+    "title": "Senior Software Engineer, Revenue Recapture",
+    "location": "Seattle, WA",
+    "posted": "2026-07-28T17:36:47-04:00",
+    "url": "https://job-boards.greenhouse.io/otter/jobs/8538726002",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-28T23:01:24.832373+00:00",
+    "emailed_utc": "2026-07-28T23:01:24.832373+00:00"
   }
 ]
