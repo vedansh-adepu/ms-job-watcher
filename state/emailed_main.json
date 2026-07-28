@@ -7018,5 +7018,44 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-28T15:51:14.157286+00:00",
     "emailed_utc": "2026-07-28T15:51:14.157286+00:00"
+  },
+  {
+    "job_id": "microsoft:1970393556863430",
+    "pipeline": "main",
+    "platform": "microsoft",
+    "company": "Microsoft",
+    "title": "Software Engineer II - CTJ - Poly",
+    "location": "Reston, VA, US",
+    "posted": "2026-06-02 22:30 UTC",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556863430",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-28T16:11:12.917911+00:00",
+    "emailed_utc": "2026-07-28T16:11:12.917911+00:00"
+  },
+  {
+    "job_id": "amazon:9ac0f3a8-33d1-425f-b953-d87c25176ab7",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, Amazon Fulfillment Technology (AFT), Platform Engineering and Services (AFT Rodeo)",
+    "location": "US, WA, Bellevue",
+    "posted": "July 28, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10486128/software-development-engineer-amazon-fulfillment-technology-aft-platform-engineering-and-services-aft-rodeo",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-28T16:11:12.917911+00:00",
+    "emailed_utc": "2026-07-28T16:11:12.917911+00:00"
+  },
+  {
+    "job_id": "amazon:28f530ce-7535-4fde-9b12-deba96733a14",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, Amazon Fulfillment Technology (AFT), Platform Engineering and Services (AFT Rodeo)",
+    "location": "US, WA, Bellevue",
+    "posted": "July 28, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10486129/software-development-engineer-amazon-fulfillment-technology-aft-platform-engineering-and-services-aft-rodeo",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-28T16:11:12.917911+00:00",
+    "emailed_utc": "2026-07-28T16:11:12.917911+00:00"
   }
 ]
