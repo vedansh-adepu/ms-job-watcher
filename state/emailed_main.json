@@ -7369,5 +7369,31 @@
     "bucket": "yes",
     "first_seen_utc": "2026-07-28T21:21:11.476427+00:00",
     "emailed_utc": "2026-07-28T21:21:11.476427+00:00"
+  },
+  {
+    "job_id": "amazon:8d8c8a59-29a4-487c-8fac-4b6579275c33",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, Specialist AI Tooling, Specialist Technology Team",
+    "location": "US, NJ, Jersey City",
+    "posted": "July 28, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10486716/software-development-engineer-specialist-ai-tooling-specialist-technology-team",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-28T21:41:18.655961+00:00",
+    "emailed_utc": "2026-07-28T21:41:18.655961+00:00"
+  },
+  {
+    "job_id": "amazon:2d2b38f2-648d-4308-804d-c997d3a74060",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Manager, Specialist AI Tooling, Specialist Technology Team",
+    "location": "US, TX, Austin",
+    "posted": "July 28, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10486719/software-development-manager-specialist-ai-tooling-specialist-technology-team",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-28T21:41:18.655961+00:00",
+    "emailed_utc": "2026-07-28T21:41:18.655961+00:00"
   }
 ]
