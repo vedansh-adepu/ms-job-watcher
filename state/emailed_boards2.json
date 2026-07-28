@@ -30509,5 +30509,44 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-28T16:32:14.917338+00:00",
     "emailed_utc": "2026-07-28T16:32:14.917338+00:00"
+  },
+  {
+    "job_id": "greenhouse:waymo:8076964",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "waymo",
+    "title": "Safety Engineer Risk Management",
+    "location": "Mountain View CA USA; San Francisco CA USA; Kirkland WA USA",
+    "posted": "2026-07-28T12:36:26-04:00",
+    "url": "https://careers.withwaymo.com/jobs?gh_jid=8076964",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-28T17:02:21.247791+00:00",
+    "emailed_utc": "2026-07-28T17:02:21.247791+00:00"
+  },
+  {
+    "job_id": "lever:bumbleinc:bc469e38-2eed-43ff-91a7-ccce7fd5337e",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "bumbleinc",
+    "title": "Staff Software Engineer, Core Matching & Machine Learning",
+    "location": "US TX Austin",
+    "posted": "2026-07-28 16:47 UTC",
+    "url": "https://jobs.lever.co/bumbleinc/bc469e38-2eed-43ff-91a7-ccce7fd5337e",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-28T17:02:21.247791+00:00",
+    "emailed_utc": "2026-07-28T17:02:21.247791+00:00"
+  },
+  {
+    "job_id": "lever:captivateiq:989edbf1-5377-415a-ada3-15e2263ae58a",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "captivateiq",
+    "title": "Senior Software Engineer - AI Platform (East Coast)",
+    "location": "Remote USA",
+    "posted": "2026-03-25 20:58 UTC",
+    "url": "https://jobs.lever.co/captivateiq/989edbf1-5377-415a-ada3-15e2263ae58a",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-28T17:02:21.247791+00:00",
+    "emailed_utc": "2026-07-28T17:02:21.247791+00:00"
   }
 ]
