@@ -7343,5 +7343,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-28T21:01:20.646613+00:00",
     "emailed_utc": "2026-07-28T21:01:20.646613+00:00"
+  },
+  {
+    "job_id": "amazon:8c9abba5-2b0c-48b9-b6e0-e32b4ccc7b24",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, Kiro",
+    "location": "US, WA, Seattle",
+    "posted": "July 28, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10486697/software-development-engineer-kiro",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-28T21:21:11.476427+00:00",
+    "emailed_utc": "2026-07-28T21:21:11.476427+00:00"
+  },
+  {
+    "job_id": "amazon:38e2db63-5bff-4385-87fe-fbfe8c6f884d",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, Amazon Integrated Security",
+    "location": "US, WA, Seattle",
+    "posted": "July 28, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10486700/software-development-engineer-amazon-integrated-security",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-28T21:21:11.476427+00:00",
+    "emailed_utc": "2026-07-28T21:21:11.476427+00:00"
   }
 ]
