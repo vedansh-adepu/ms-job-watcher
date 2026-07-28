@@ -1,56 +1,5 @@
 [
   {
-    "ts": "2026-07-22T00:41Z",
-    "mode": "main",
-    "per_source": {
-      "microsoft": {
-        "fetched": 175,
-        "title_ok": 89,
-        "loc_ok": 89,
-        "new": 0,
-        "emailed": 0
-      },
-      "amazon": {
-        "fetched": 300,
-        "title_ok": 258,
-        "loc_ok": 258,
-        "new": 1,
-        "emailed": 1
-      },
-      "nvidia": {
-        "fetched": 30,
-        "title_ok": 29,
-        "loc_ok": 29,
-        "new": 0,
-        "emailed": 0
-      },
-      "goldman_sachs": {
-        "fetched": 0,
-        "title_ok": 0,
-        "loc_ok": 0,
-        "new": 0,
-        "emailed": 0
-      },
-      "ibm": {
-        "fetched": 0,
-        "title_ok": 0,
-        "loc_ok": 0,
-        "new": 0,
-        "emailed": 0,
-        "error": "IBM fetch: HTTPError: 502 Server Error: Bad Gateway for url: https://www-api.ibm.com/search/api/v2"
-      },
-      "oracle": {
-        "fetched": 0,
-        "title_ok": 0,
-        "loc_ok": 0,
-        "new": 0,
-        "emailed": 0
-      }
-    },
-    "duration_s": 31.8,
-    "cursor": null
-  },
-  {
     "ts": "2026-07-22T00:51Z",
     "mode": "main",
     "per_source": {
@@ -41873,5 +41822,55 @@
     },
     "duration_s": 111.4,
     "cursor": 200
+  },
+  {
+    "ts": "2026-07-28T11:41Z",
+    "mode": "main",
+    "per_source": {
+      "microsoft": {
+        "fetched": 165,
+        "title_ok": 79,
+        "loc_ok": 79,
+        "new": 0,
+        "emailed": 0
+      },
+      "amazon": {
+        "fetched": 300,
+        "title_ok": 274,
+        "loc_ok": 274,
+        "new": 0,
+        "emailed": 0
+      },
+      "nvidia": {
+        "fetched": 20,
+        "title_ok": 19,
+        "loc_ok": 19,
+        "new": 0,
+        "emailed": 0
+      },
+      "goldman_sachs": {
+        "fetched": 0,
+        "title_ok": 0,
+        "loc_ok": 0,
+        "new": 0,
+        "emailed": 0
+      },
+      "ibm": {
+        "fetched": 2,
+        "title_ok": 2,
+        "loc_ok": 0,
+        "new": 0,
+        "emailed": 0
+      },
+      "oracle": {
+        "fetched": 0,
+        "title_ok": 0,
+        "loc_ok": 0,
+        "new": 0,
+        "emailed": 0
+      }
+    },
+    "duration_s": 15.0,
+    "cursor": null
   }
 ]
