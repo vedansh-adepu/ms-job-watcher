@@ -7239,5 +7239,44 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-28T19:31:15.639955+00:00",
     "emailed_utc": "2026-07-28T19:31:15.639955+00:00"
+  },
+  {
+    "job_id": "nvidia:893396773807",
+    "pipeline": "main",
+    "platform": "nvidia",
+    "company": "NVIDIA",
+    "title": "Senior Software Engineer, Resilience Engineering - DGX Cloud",
+    "location": "US",
+    "posted": "2026-07-28 00:00 UTC",
+    "url": "https://nvidia.eightfold.ai/careers/job/893396773807",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-28T19:41:25.492385+00:00",
+    "emailed_utc": "2026-07-28T19:41:25.492385+00:00"
+  },
+  {
+    "job_id": "nvidia:893396773835",
+    "pipeline": "main",
+    "platform": "nvidia",
+    "company": "NVIDIA",
+    "title": "Senior Software Engineer, Distributed Systems Engineer - DGX Cloud",
+    "location": "US",
+    "posted": "2026-07-28 00:00 UTC",
+    "url": "https://nvidia.eightfold.ai/careers/job/893396773835",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-28T19:41:25.492385+00:00",
+    "emailed_utc": "2026-07-28T19:41:25.492385+00:00"
+  },
+  {
+    "job_id": "amazon:14c0d870-5edf-40ee-a923-1626bfb54163",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Sr. Software Development Engineer, eero Core Network Management",
+    "location": "US, WA, Seattle",
+    "posted": "July 28, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10486590/sr-software-development-engineer-eero-core-network-management",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-28T19:41:25.492385+00:00",
+    "emailed_utc": "2026-07-28T19:41:25.492385+00:00"
   }
 ]
