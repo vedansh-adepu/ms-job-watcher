@@ -7200,5 +7200,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-28T19:11:04.328842+00:00",
     "emailed_utc": "2026-07-28T19:11:04.328842+00:00"
+  },
+  {
+    "job_id": "amazon:80c95524-a7b1-4c20-b6e1-169ba9aba85e",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer II, Amazon Security",
+    "location": "US, WA, Seattle",
+    "posted": "July 28, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10486573/software-development-engineer-ii-amazon-security",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-28T19:21:13.781198+00:00",
+    "emailed_utc": "2026-07-28T19:21:13.781198+00:00"
+  },
+  {
+    "job_id": "amazon:d2308254-e7f9-474b-a163-c0b5780239fa",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Manager, Amazon Security",
+    "location": "US, CA, San Diego",
+    "posted": "July 28, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10486559/software-development-manager-amazon-security",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-28T19:21:13.781198+00:00",
+    "emailed_utc": "2026-07-28T19:21:13.781198+00:00"
   }
 ]
