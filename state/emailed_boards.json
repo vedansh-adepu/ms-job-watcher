@@ -62138,5 +62138,18 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-28T05:32:14.102629+00:00",
     "emailed_utc": "2026-07-28T05:32:14.102629+00:00"
+  },
+  {
+    "job_id": "workday:capitalone:Capital_One:req:R247700",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Capital One",
+    "title": "Lead Software Engineer",
+    "location": "Bangalore, In",
+    "posted": "Posted Today",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Bangalore-In/Lead-Software-Engineer_R247700-1",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-28T06:32:44.443862+00:00",
+    "emailed_utc": "2026-07-28T06:32:44.443862+00:00"
   }
 ]
