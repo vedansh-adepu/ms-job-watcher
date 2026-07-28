@@ -62424,5 +62424,18 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-28T10:02:20.875625+00:00",
     "emailed_utc": "2026-07-28T10:02:20.875625+00:00"
+  },
+  {
+    "job_id": "workday:caci:External:req:329579",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "CACI International",
+    "title": "Manufacturing Engineering Technician",
+    "location": "Orlando, FL, US",
+    "posted": "Posted Today",
+    "url": "https://caci.wd1.myworkdayjobs.com/en-US/External/job/Orlando-FL-US/Manufacturing-Engineering-Technician_329579",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-28T11:32:41.808678+00:00",
+    "emailed_utc": "2026-07-28T11:32:41.808678+00:00"
   }
 ]
