@@ -63087,5 +63087,44 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-28T16:03:08.015443+00:00",
     "emailed_utc": "2026-07-28T16:03:08.015443+00:00"
+  },
+  {
+    "job_id": "greenhouse:verisign:7817954003",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "verisign",
+    "title": "Data Analyst II",
+    "location": "Reston,Virginia,United States",
+    "posted": "2026-07-28T12:01:17-04:00",
+    "url": "https://job-boards.greenhouse.io/verisign/jobs/7817954003",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-28T16:32:19.621159+00:00",
+    "emailed_utc": "2026-07-28T16:32:19.621159+00:00"
+  },
+  {
+    "job_id": "greenhouse:ww:5370248008",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Weight Watchers",
+    "title": "Senior Data Engineer ",
+    "location": "United States - Remote",
+    "posted": "2026-07-28T11:10:07-04:00",
+    "url": "https://job-boards.greenhouse.io/ww/jobs/5370248008",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-28T16:32:19.621159+00:00",
+    "emailed_utc": "2026-07-28T16:32:19.621159+00:00"
+  },
+  {
+    "job_id": "greenhouse:zoro:4689168006",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Zoro",
+    "title": "Staff Platform Software Engineer",
+    "location": "Chicago, Illinois, United States",
+    "posted": "2026-07-28T10:41:56-04:00",
+    "url": "https://www.zoro.com/careers/jobs?gh_jid=4689168006",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-28T16:32:19.621159+00:00",
+    "emailed_utc": "2026-07-28T16:32:19.621159+00:00"
   }
 ]
