@@ -31835,5 +31835,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-28T23:01:24.832373+00:00",
     "emailed_utc": "2026-07-28T23:01:24.832373+00:00"
+  },
+  {
+    "job_id": "greenhouse:vardaspace:7819855003",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "vardaspace",
+    "title": "Data Engineer",
+    "location": "El Segundo, California, United States",
+    "posted": "2026-07-28T18:01:33-04:00",
+    "url": "https://job-boards.greenhouse.io/vardaspace/jobs/7819855003",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-28T23:32:14.193669+00:00",
+    "emailed_utc": "2026-07-28T23:32:14.193669+00:00"
+  },
+  {
+    "job_id": "greenhouse:xai:5198030007",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "xai",
+    "title": "Lead, Hardware Deployment Engineer",
+    "location": "Memphis, Tennessee, United States; Remote",
+    "posted": "2026-07-28T18:03:24-04:00",
+    "url": "https://job-boards.greenhouse.io/xai/jobs/5198030007",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-28T23:32:14.193669+00:00",
+    "emailed_utc": "2026-07-28T23:32:14.193669+00:00"
   }
 ]
