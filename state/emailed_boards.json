@@ -61761,5 +61761,70 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-28T00:01:18.205039+00:00",
     "emailed_utc": "2026-07-28T00:01:18.205039+00:00"
+  },
+  {
+    "job_id": "greenhouse:accenturefederalservices:4700286006",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Accenture Federal Services",
+    "title": "Software Engineer ",
+    "location": "Annapolis Junction, MD",
+    "posted": "2026-07-27T18:13:53-04:00",
+    "url": "https://boards.greenhouse.io/accenturefederalservices/jobs/4700286006?gh_jid=4700286006",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-28T00:32:58.918218+00:00",
+    "emailed_utc": "2026-07-28T00:32:58.918218+00:00"
+  },
+  {
+    "job_id": "greenhouse:accenturefederalservices:4700296006",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Accenture Federal Services",
+    "title": "Software Engineer ",
+    "location": "Annapolis Junction, MD",
+    "posted": "2026-07-27T18:27:10-04:00",
+    "url": "https://boards.greenhouse.io/accenturefederalservices/jobs/4700296006?gh_jid=4700296006",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-28T00:32:58.918218+00:00",
+    "emailed_utc": "2026-07-28T00:32:58.918218+00:00"
+  },
+  {
+    "job_id": "workday:abbott:abbottcareers:req:31156548",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Abbott",
+    "title": "Senior Quality Software Engineer",
+    "location": "United States - Illinois - Lake Forest",
+    "posted": "Posted Today",
+    "url": "https://abbott.wd5.myworkdayjobs.com/en-US/abbottcareers/job/United-States---Illinois---Lake-Forest/Senior-Quality-Software-Engineer_31156548-1",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-28T00:32:58.918218+00:00",
+    "emailed_utc": "2026-07-28T00:32:58.918218+00:00"
+  },
+  {
+    "job_id": "greenhouse:cloverhealth:8089032",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Clover Health",
+    "title": "Director of Engineering, Data Products",
+    "location": "Remote - USA",
+    "posted": "2026-07-27T18:44:17-04:00",
+    "url": "https://job-boards.greenhouse.io/cloverhealth/jobs/8089032",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-28T00:32:58.918218+00:00",
+    "emailed_utc": "2026-07-28T00:32:58.918218+00:00"
+  },
+  {
+    "job_id": "workday:blueorigin:BlueOrigin:req:R64772",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Blue Origin",
+    "title": "Manufacturing Engineer III - Tooling",
+    "location": "Space Coast, FL",
+    "posted": "Posted Today",
+    "url": "https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Space-Coast-FL/Manufacturing-Engineer-III---Tooling_R64772",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-28T00:32:58.918218+00:00",
+    "emailed_utc": "2026-07-28T00:32:58.918218+00:00"
   }
 ]
