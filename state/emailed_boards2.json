@@ -30886,5 +30886,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-28T18:02:14.182088+00:00",
     "emailed_utc": "2026-07-28T18:02:14.182088+00:00"
+  },
+  {
+    "job_id": "greenhouse:woolpert:4326393009",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "woolpert",
+    "title": "Electrical Engineer (EIT)  ",
+    "location": "Coral Gables, FL",
+    "posted": "2026-07-28T13:37:36-04:00",
+    "url": "https://job-boards.greenhouse.io/woolpert/jobs/4326393009",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-28T18:32:47.267535+00:00",
+    "emailed_utc": "2026-07-28T18:32:47.267535+00:00"
+  },
+  {
+    "job_id": "lever:intersect:9f659e4c-3b4f-48f1-a3ef-7c52c36d0597",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "intersect",
+    "title": "PV Performance Engineer",
+    "location": "United States",
+    "posted": "2026-07-28 17:50 UTC",
+    "url": "https://jobs.lever.co/intersect/9f659e4c-3b4f-48f1-a3ef-7c52c36d0597",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-28T18:32:47.267535+00:00",
+    "emailed_utc": "2026-07-28T18:32:47.267535+00:00"
   }
 ]
