@@ -7304,5 +7304,18 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-28T20:31:11.324545+00:00",
     "emailed_utc": "2026-07-28T20:31:11.324545+00:00"
+  },
+  {
+    "job_id": "amazon:91a985a3-ab1e-4fce-8103-339d13d3b9a6",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer II, Personalization",
+    "location": "US, WA, Seattle",
+    "posted": "July 28, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10486664/software-development-engineer-ii-personalization",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-28T20:41:12.824208+00:00",
+    "emailed_utc": "2026-07-28T20:41:12.824208+00:00"
   }
 ]
