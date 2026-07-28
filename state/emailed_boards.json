@@ -65310,5 +65310,44 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-28T21:03:00.477765+00:00",
     "emailed_utc": "2026-07-28T21:03:00.477765+00:00"
+  },
+  {
+    "job_id": "ashby:docker:ae03031e-7080-472c-bcc6-207833a8d2f9",
+    "pipeline": "boards",
+    "platform": "ashby",
+    "company": "Docker",
+    "title": "Senior Software Engineer, Infrastructure",
+    "location": "Seattle, WA",
+    "posted": "",
+    "url": "https://jobs.ashbyhq.com/docker/ae03031e-7080-472c-bcc6-207833a8d2f9",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-28T21:32:20.682400+00:00",
+    "emailed_utc": "2026-07-28T21:32:20.682400+00:00"
+  },
+  {
+    "job_id": "ashby:snowflake:5c3d7798-787c-4ef6-8118-161d6ce2d852",
+    "pipeline": "boards",
+    "platform": "ashby",
+    "company": "Snowflake",
+    "title": "Executive Assistant, Observe, Product & Engineering",
+    "location": "US-CA-Menlo Park",
+    "posted": "",
+    "url": "https://jobs.ashbyhq.com/snowflake/5c3d7798-787c-4ef6-8118-161d6ce2d852",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-28T21:32:20.682400+00:00",
+    "emailed_utc": "2026-07-28T21:32:20.682400+00:00"
+  },
+  {
+    "job_id": "ashby:snowflake:19b73f37-41cb-4758-a028-d349fdaa8ab0",
+    "pipeline": "boards",
+    "platform": "ashby",
+    "company": "Snowflake",
+    "title": "Staff Analytics Engineer - Accounting",
+    "location": "US-CA-Menlo Park",
+    "posted": "",
+    "url": "https://jobs.ashbyhq.com/snowflake/19b73f37-41cb-4758-a028-d349fdaa8ab0",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-28T21:32:20.682400+00:00",
+    "emailed_utc": "2026-07-28T21:32:20.682400+00:00"
   }
 ]
