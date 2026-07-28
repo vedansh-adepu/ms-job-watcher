@@ -65349,5 +65349,70 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-28T21:32:20.682400+00:00",
     "emailed_utc": "2026-07-28T21:32:20.682400+00:00"
+  },
+  {
+    "job_id": "greenhouse:figureai:4700616006",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Figureai",
+    "title": "Helix AI Engineer, iOS",
+    "location": "San Jose, CA",
+    "posted": "2026-07-28T16:09:58-04:00",
+    "url": "https://job-boards.greenhouse.io/figureai/jobs/4700616006",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-28T22:01:35.401617+00:00",
+    "emailed_utc": "2026-07-28T22:01:35.401617+00:00"
+  },
+  {
+    "job_id": "greenhouse:botauto:5373345008",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Botauto",
+    "title": "Senior Software Engineer, Developer Platform",
+    "location": "Houston, TX or San Francisco Bay Area",
+    "posted": "2026-07-28T17:01:43-04:00",
+    "url": "https://job-boards.greenhouse.io/botauto/jobs/5373345008",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-28T22:01:35.401617+00:00",
+    "emailed_utc": "2026-07-28T22:01:35.401617+00:00"
+  },
+  {
+    "job_id": "lever:shieldai:3587ad7b-e57a-4dea-8e14-db52d1808f40",
+    "pipeline": "boards",
+    "platform": "lever",
+    "company": "Shieldai",
+    "title": "Senior Software Engineer, Perception (R5420)",
+    "location": "Washington, DC",
+    "posted": "2026-07-28 21:29 UTC",
+    "url": "https://jobs.lever.co/shieldai/3587ad7b-e57a-4dea-8e14-db52d1808f40",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-28T22:01:35.401617+00:00",
+    "emailed_utc": "2026-07-28T22:01:35.401617+00:00"
+  },
+  {
+    "job_id": "lever:shieldai:e8311cd4-6b45-473b-abba-c9cfdcac615e",
+    "pipeline": "boards",
+    "platform": "lever",
+    "company": "Shieldai",
+    "title": "Senior Staff Software Engineer, Perception (R4985)",
+    "location": "Washington, DC",
+    "posted": "2026-07-28 21:18 UTC",
+    "url": "https://jobs.lever.co/shieldai/e8311cd4-6b45-473b-abba-c9cfdcac615e",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-28T22:01:35.401617+00:00",
+    "emailed_utc": "2026-07-28T22:01:35.401617+00:00"
+  },
+  {
+    "job_id": "lever:shieldai:104a9e83-0848-49c7-9d82-64618bbb39cb",
+    "pipeline": "boards",
+    "platform": "lever",
+    "company": "Shieldai",
+    "title": "Staff Software Engineer, Perception (R5421)",
+    "location": "Washington, DC",
+    "posted": "2026-07-28 21:33 UTC",
+    "url": "https://jobs.lever.co/shieldai/104a9e83-0848-49c7-9d82-64618bbb39cb",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-28T22:01:35.401617+00:00",
+    "emailed_utc": "2026-07-28T22:01:35.401617+00:00"
   }
 ]
