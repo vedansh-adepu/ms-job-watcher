@@ -7876,5 +7876,57 @@
     "bucket": "yes",
     "first_seen_utc": "2026-07-29T19:21:21.478403+00:00",
     "emailed_utc": "2026-07-29T19:21:21.478403+00:00"
+  },
+  {
+    "job_id": "amazon:a5ca78ca-4ee1-4177-b66c-6790e3d8aec3",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer - Apache Flink Engineer, Amazon Managed Service for Apache Flink",
+    "location": "US, WA, Seattle",
+    "posted": "July 29, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10487621/software-development-engineer-apache-flink-engineer-amazon-managed-service-for-apache-flink",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-29T19:41:15.638731+00:00",
+    "emailed_utc": "2026-07-29T19:41:15.638731+00:00"
+  },
+  {
+    "job_id": "amazon:48d115f9-4d24-47d7-83a8-de3c673808f0",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, Fulfillment Planning and Execution",
+    "location": "US, VA, Arlington",
+    "posted": "July 29, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10487617/software-development-engineer-fulfillment-planning-and-execution",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-29T19:41:15.638731+00:00",
+    "emailed_utc": "2026-07-29T19:41:15.638731+00:00"
+  },
+  {
+    "job_id": "amazon:15ec5a57-0dd7-4f06-a525-7ade565033a6",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "AI & AWS Software Development Engineer , Ring/Blink CS Technology Enablement",
+    "location": "US, CA, Hawthorne",
+    "posted": "July 29, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10487631/ai-aws-software-development-engineer-ring-blink-cs-technology-enablement",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-29T19:41:15.638731+00:00",
+    "emailed_utc": "2026-07-29T19:41:15.638731+00:00"
+  },
+  {
+    "job_id": "amazon:12f2c8ad-552a-41dc-8415-8701d0175ab5",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Senior Software Development Engineer, Amazon MSK",
+    "location": "US, WA, Seattle",
+    "posted": "July 29, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10487620/senior-software-development-engineer-amazon-msk",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-29T19:41:15.638731+00:00",
+    "emailed_utc": "2026-07-29T19:41:15.638731+00:00"
   }
 ]
