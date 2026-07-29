@@ -8175,5 +8175,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-29T23:31:22.516774+00:00",
     "emailed_utc": "2026-07-29T23:31:22.516774+00:00"
+  },
+  {
+    "job_id": "microsoft:1970393556945262",
+    "pipeline": "main",
+    "platform": "microsoft",
+    "company": "Microsoft",
+    "title": "Senior Software Engineer",
+    "location": "Redmond, WA, US",
+    "posted": "2026-07-29 23:13 UTC",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556945262",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-29T23:41:02.016400+00:00",
+    "emailed_utc": "2026-07-29T23:41:02.016400+00:00"
+  },
+  {
+    "job_id": "microsoft:1970393556942025",
+    "pipeline": "main",
+    "platform": "microsoft",
+    "company": "Microsoft",
+    "title": "Sr. Software Engineer - CTJ - Secret",
+    "location": "US",
+    "posted": "2026-07-29 22:52 UTC",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556942025",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-29T23:41:02.016400+00:00",
+    "emailed_utc": "2026-07-29T23:41:02.016400+00:00"
   }
 ]
