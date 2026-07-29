@@ -7785,5 +7785,44 @@
     "bucket": "yes",
     "first_seen_utc": "2026-07-29T18:41:16.411110+00:00",
     "emailed_utc": "2026-07-29T18:41:16.411110+00:00"
+  },
+  {
+    "job_id": "amazon:72ce67cc-4ee4-44cc-9560-6eabf4335dd2",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, Amazon MSK",
+    "location": "US, CA, Santa Monica",
+    "posted": "July 29, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10487568/software-development-engineer-amazon-msk",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-29T18:51:18.610691+00:00",
+    "emailed_utc": "2026-07-29T18:51:18.610691+00:00"
+  },
+  {
+    "job_id": "amazon:ebb28636-ece1-4d5f-8a11-5e322b0a1a1a",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Senior Applied Scientist, ASCS AI Lab Team",
+    "location": "US, WA, Seattle",
+    "posted": "July 29, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10487564/senior-applied-scientist-ascs-ai-lab-team",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-29T18:51:18.610691+00:00",
+    "emailed_utc": "2026-07-29T18:51:18.610691+00:00"
+  },
+  {
+    "job_id": "amazon:c26d5aa7-f624-472d-8c64-bcc5d59cf6b6",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Sr. Software Development Engineer, Infrastructure Supply Chain Automation",
+    "location": "US, VA, Arlington",
+    "posted": "July 29, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10487571/sr-software-development-engineer-infrastructure-supply-chain-automation",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-29T18:51:18.610691+00:00",
+    "emailed_utc": "2026-07-29T18:51:18.610691+00:00"
   }
 ]
