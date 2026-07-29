@@ -69015,5 +69015,44 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-29T18:33:20.104600+00:00",
     "emailed_utc": "2026-07-29T18:33:20.104600+00:00"
+  },
+  {
+    "job_id": "greenhouse:verkada:5198815007",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "verkada",
+    "title": "Engineering Manager, Agentic Workflows ",
+    "location": "San Mateo, CA United States",
+    "posted": "2026-07-29T14:56:17-04:00",
+    "url": "https://job-boards.greenhouse.io/verkada/jobs/5198815007",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-29T19:02:17.730017+00:00",
+    "emailed_utc": "2026-07-29T19:02:17.730017+00:00"
+  },
+  {
+    "job_id": "greenhouse:verkada:5198628007",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "verkada",
+    "title": "Senior-Staff Software Engineer, Tooling",
+    "location": "San Mateo, CA United States",
+    "posted": "2026-07-29T12:42:53-04:00",
+    "url": "https://job-boards.greenhouse.io/verkada/jobs/5198628007",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-29T19:02:17.730017+00:00",
+    "emailed_utc": "2026-07-29T19:02:17.730017+00:00"
+  },
+  {
+    "job_id": "ashby:snowflake:6b4e198a-bf26-4b8a-addd-2794783bdb85",
+    "pipeline": "boards",
+    "platform": "ashby",
+    "company": "Snowflake",
+    "title": "Principal Solution Engineer",
+    "location": "US-CA-Menlo Park",
+    "posted": "",
+    "url": "https://jobs.ashbyhq.com/snowflake/6b4e198a-bf26-4b8a-addd-2794783bdb85",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-29T19:02:17.730017+00:00",
+    "emailed_utc": "2026-07-29T19:02:17.730017+00:00"
   }
 ]
