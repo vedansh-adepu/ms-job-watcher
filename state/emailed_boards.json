@@ -67039,5 +67039,57 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-29T04:02:44.302505+00:00",
     "emailed_utc": "2026-07-29T04:02:44.302505+00:00"
+  },
+  {
+    "job_id": "workday:ngc:Northrop_Grumman_External_Site:req:R10242799",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Northrop Grumman",
+    "title": "Sr Principal Software Engineer (26-355)",
+    "location": "United States-Colorado-Colorado Springs",
+    "posted": "Posted Today",
+    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/Sr-Principal-Software-Engineer--26-355-_R10242799",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-29T04:32:04.263476+00:00",
+    "emailed_utc": "2026-07-29T04:32:04.263476+00:00"
+  },
+  {
+    "job_id": "workday:nvidia:NVIDIAExternalCareerSite:req:JR2021643",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "NVIDIA",
+    "title": "Principal Software Engineer - Employee Productivity",
+    "location": "US, CA, Santa Clara",
+    "posted": "Posted Today",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Principal-Software-Engineer---Employee-Productivity_JR2021643-1",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-29T04:32:04.263476+00:00",
+    "emailed_utc": "2026-07-29T04:32:04.263476+00:00"
+  },
+  {
+    "job_id": "workday:nvidia:NVIDIAExternalCareerSite:req:JR2021418",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "NVIDIA",
+    "title": "Senior Cyber Security Engineer - Vulnerability Operation",
+    "location": "US, CA, Remote",
+    "posted": "Posted Today",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Remote/Senior-Cyber-Security-Engineer---Vulnerability-Operation_JR2021418",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-29T04:32:04.263476+00:00",
+    "emailed_utc": "2026-07-29T04:32:04.263476+00:00"
+  },
+  {
+    "job_id": "workday:pfizer:PfizerCareers:req:4960729",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Pfizer",
+    "title": "Process Engineer, Compounding",
+    "location": "United States - Kansas - McPherson",
+    "posted": "Posted Today",
+    "url": "https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/United-States---Kansas---McPherson/Process-Engineer--Compounding_4960729-1",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-29T04:32:04.263476+00:00",
+    "emailed_utc": "2026-07-29T04:32:04.263476+00:00"
   }
 ]
