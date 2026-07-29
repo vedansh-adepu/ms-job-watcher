@@ -7720,5 +7720,44 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-29T18:11:24.210274+00:00",
     "emailed_utc": "2026-07-29T18:11:24.210274+00:00"
+  },
+  {
+    "job_id": "microsoft:1970393556942518",
+    "pipeline": "main",
+    "platform": "microsoft",
+    "company": "Microsoft",
+    "title": "Sourcing Engineer II - Mechanical",
+    "location": "Redmond, WA, US",
+    "posted": "2026-07-29 17:41 UTC",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556942518",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-29T18:21:14.781786+00:00",
+    "emailed_utc": "2026-07-29T18:21:14.781786+00:00"
+  },
+  {
+    "job_id": "nvidia:893396794246",
+    "pipeline": "main",
+    "platform": "nvidia",
+    "company": "NVIDIA",
+    "title": "Senior System Software Engineer, AV Platform - Test Platform Infrastructure, Tools and Simulation",
+    "location": "Santa Clara, CA, US",
+    "posted": "2026-07-29 00:00 UTC",
+    "url": "https://nvidia.eightfold.ai/careers/job/893396794246",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-29T18:21:14.781786+00:00",
+    "emailed_utc": "2026-07-29T18:21:14.781786+00:00"
+  },
+  {
+    "job_id": "amazon:9b585aaf-97a1-4319-aa0d-b17c85c1e3fc",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Sr. Applied Scientist,  Pricing Science",
+    "location": "US, WA, Seattle",
+    "posted": "July 29, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10487538/sr-applied-scientist-pricing-science",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-29T18:21:14.781786+00:00",
+    "emailed_utc": "2026-07-29T18:21:14.781786+00:00"
   }
 ]
