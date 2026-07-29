@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-07-29T12:31:24.120101+00:00",
+  "updated_utc": "2026-07-29T13:02:55.236357+00:00",
   "dead_details": {
     "lever:livechatinc": {
       "first_seen_utc": "2026-07-01T19:31:29.430568+00:00",
@@ -886,6 +886,15 @@
     "greenhouse:pixocial": {
       "first_seen_utc": "2026-07-29T06:31:15.698618+00:00",
       "last_seen_utc": "2026-07-29T06:31:15.698618+00:00",
+      "platform": "greenhouse",
+      "company": "",
+      "board_url": "",
+      "last_status": 404,
+      "last_error": "HTTP 404/410 (board not found)"
+    },
+    "greenhouse:convelocareers": {
+      "first_seen_utc": "2026-07-29T13:02:11.575147+00:00",
+      "last_seen_utc": "2026-07-29T13:02:11.575147+00:00",
       "platform": "greenhouse",
       "company": "",
       "board_url": "",
