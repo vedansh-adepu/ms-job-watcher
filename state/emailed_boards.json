@@ -67299,5 +67299,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-29T12:03:01.503720+00:00",
     "emailed_utc": "2026-07-29T12:03:01.503720+00:00"
+  },
+  {
+    "job_id": "greenhouse:tripactions:8091997",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Navan (TripActions)",
+    "title": "Senior Software Engineer (Backend)",
+    "location": "Bengaluru, IN",
+    "posted": "2026-07-29T08:30:47-04:00",
+    "url": "https://navan.com/careers/openings?gh_jid=8091997",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-29T12:32:25.058271+00:00",
+    "emailed_utc": "2026-07-29T12:32:25.058271+00:00"
+  },
+  {
+    "job_id": "workday:ngc:Northrop_Grumman_External_Site:req:R10241907",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Northrop Grumman",
+    "title": "Sr Principal Engineer Systems",
+    "location": "United States-California-Beale AFB",
+    "posted": "Posted Today",
+    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Beale-AFB/Sr-Principal-Engineer-Systems_R10241907",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-29T12:32:25.058271+00:00",
+    "emailed_utc": "2026-07-29T12:32:25.058271+00:00"
   }
 ]
