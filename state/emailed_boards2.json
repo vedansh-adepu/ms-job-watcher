@@ -32329,5 +32329,44 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-29T10:32:10.341512+00:00",
     "emailed_utc": "2026-07-29T10:32:10.341512+00:00"
+  },
+  {
+    "job_id": "greenhouse:66degrees:6127420004",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "66degrees",
+    "title": "Cloud Engineer, Contract",
+    "location": "Remote, United States",
+    "posted": "2026-07-29T06:01:21-04:00",
+    "url": "https://job-boards.greenhouse.io/66degrees/jobs/6127420004",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-29T11:32:56.406926+00:00",
+    "emailed_utc": "2026-07-29T11:32:56.406926+00:00"
+  },
+  {
+    "job_id": "greenhouse:asm:4933894101",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "asm",
+    "title": "Engineer II, Process Engineering",
+    "location": "US > Arizona > Phoenix",
+    "posted": "2026-07-29T06:00:35-04:00",
+    "url": "https://www.asm.com/open-vacancies/?gh_jid=4933894101",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-29T11:32:56.406926+00:00",
+    "emailed_utc": "2026-07-29T11:32:56.406926+00:00"
+  },
+  {
+    "job_id": "greenhouse:csciconsulting:5115423008",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "csciconsulting",
+    "title": "Senior Network Engineer",
+    "location": "Joint Base Pearl Harbor-Hickam, HI",
+    "posted": "2026-07-29T07:10:40-04:00",
+    "url": "https://job-boards.greenhouse.io/csciconsulting/jobs/5115423008",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-29T11:32:56.406926+00:00",
+    "emailed_utc": "2026-07-29T11:32:56.406926+00:00"
   }
 ]
