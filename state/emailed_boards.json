@@ -70094,5 +70094,44 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-29T21:32:28.947568+00:00",
     "emailed_utc": "2026-07-29T21:32:28.947568+00:00"
+  },
+  {
+    "job_id": "greenhouse:racapitalmanagementllc:4563719008",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Racapitalmanagementllc",
+    "title": "Data Engineer",
+    "location": "Boston, MA",
+    "posted": "2026-07-29T15:47:59-04:00",
+    "url": "https://job-boards.greenhouse.io/racapitalmanagementllc/jobs/4563719008",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-29T22:01:22.552389+00:00",
+    "emailed_utc": "2026-07-29T22:01:22.552389+00:00"
+  },
+  {
+    "job_id": "ashby:formenergy:390e5a15-a787-44f3-9ff5-4d1a1597db20",
+    "pipeline": "boards",
+    "platform": "ashby",
+    "company": "Form Energy",
+    "title": "Staff Materials Engineer, Anode Design",
+    "location": "Somerville, MA",
+    "posted": "",
+    "url": "https://jobs.ashbyhq.com/formenergy/390e5a15-a787-44f3-9ff5-4d1a1597db20",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-29T22:01:22.552389+00:00",
+    "emailed_utc": "2026-07-29T22:01:22.552389+00:00"
+  },
+  {
+    "job_id": "lever:dodmg:c4a2516f-1e3d-4a6e-9712-567913a0078c",
+    "pipeline": "boards",
+    "platform": "lever",
+    "company": "Dodmg",
+    "title": "Semiconductor Device Modeling Engineer",
+    "location": "Malibu, CA",
+    "posted": "2026-07-29 20:21 UTC",
+    "url": "https://jobs.lever.co/dodmg/c4a2516f-1e3d-4a6e-9712-567913a0078c",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-29T22:01:22.552389+00:00",
+    "emailed_utc": "2026-07-29T22:01:22.552389+00:00"
   }
 ]
