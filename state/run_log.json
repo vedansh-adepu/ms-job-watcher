@@ -41754,27 +41754,20 @@
     "cursor": null
   },
   {
-    "ts": "2026-07-29T03:31Z",
+    "ts": "2026-07-29T03:32Z",
     "mode": "boards",
     "per_source": {
-      "ashby": {
-        "fetched": 1918,
-        "title_ok": 671,
-        "loc_ok": 194,
-        "new": 0,
-        "emailed": 0
-      },
       "greenhouse": {
-        "fetched": 4207,
-        "title_ok": 1116,
-        "loc_ok": 664,
-        "new": 0,
-        "emailed": 0
+        "fetched": 14864,
+        "title_ok": 2094,
+        "loc_ok": 821,
+        "new": 1,
+        "emailed": 1
       },
       "lever": {
-        "fetched": 1447,
-        "title_ok": 673,
-        "loc_ok": 241,
+        "fetched": 46734,
+        "title_ok": 5832,
+        "loc_ok": 1845,
         "new": 1,
         "emailed": 1
       }
