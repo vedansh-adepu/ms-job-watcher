@@ -8071,5 +8071,57 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-29T22:01:15.404746+00:00",
     "emailed_utc": "2026-07-29T22:01:15.404746+00:00"
+  },
+  {
+    "job_id": "amazon:c0103a15-3987-4ffa-92ee-655a07f6a55d",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer III, AWS Sagemaker Lakehouse Catalog",
+    "location": "US, CA, East Palo Alto",
+    "posted": "July 29, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10487771/software-development-engineer-iii-aws-sagemaker-lakehouse-catalog",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-29T22:21:08.178260+00:00",
+    "emailed_utc": "2026-07-29T22:21:08.178260+00:00"
+  },
+  {
+    "job_id": "amazon:bbfa706d-0e8c-4bdf-9871-b5e9983e71a8",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Senior Applied Scientist, ASCS AI Lab Team",
+    "location": "US, WA, Seattle",
+    "posted": "July 29, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10487778/senior-applied-scientist-ascs-ai-lab-team",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-29T22:21:08.178260+00:00",
+    "emailed_utc": "2026-07-29T22:21:08.178260+00:00"
+  },
+  {
+    "job_id": "amazon:f5c1102e-70d9-4b85-b1c9-098b73c5381e",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Manager, AWS catalog ",
+    "location": "US, CA, East Palo Alto",
+    "posted": "July 29, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10487772/software-development-manager-aws-catalog",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-29T22:21:08.178260+00:00",
+    "emailed_utc": "2026-07-29T22:21:08.178260+00:00"
+  },
+  {
+    "job_id": "amazon:b9177cd8-7e35-4277-9079-2f41ed67aed9",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Dev Engineer II, AWS catalog ",
+    "location": "US, CA, East Palo Alto",
+    "posted": "July 29, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10487773/software-dev-engineer-ii-aws-catalog",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-29T22:21:08.178260+00:00",
+    "emailed_utc": "2026-07-29T22:21:08.178260+00:00"
   }
 ]
