@@ -33174,5 +33174,70 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-29T16:59:02.681742+00:00",
     "emailed_utc": "2026-07-29T16:59:02.681742+00:00"
+  },
+  {
+    "job_id": "lever:atomcomputing:e6db0921-3a50-4c45-931a-deffbfa8d826",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "atomcomputing",
+    "title": "Software Engineer",
+    "location": "Boulder, CO",
+    "posted": "2026-07-29 17:00 UTC",
+    "url": "https://jobs.lever.co/atomcomputing/e6db0921-3a50-4c45-931a-deffbfa8d826",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-29T17:03:05.966154+00:00",
+    "emailed_utc": "2026-07-29T17:03:05.966154+00:00"
+  },
+  {
+    "job_id": "lever:bellese:c183c7b1-72f7-4d62-b8c6-5abb65068dc9",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "bellese",
+    "title": "Engineer II, Full Stack",
+    "location": "United States",
+    "posted": "2026-03-18 14:49 UTC",
+    "url": "https://jobs.lever.co/bellese/c183c7b1-72f7-4d62-b8c6-5abb65068dc9",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-29T17:03:05.966154+00:00",
+    "emailed_utc": "2026-07-29T17:03:05.966154+00:00"
+  },
+  {
+    "job_id": "lever:lessen:7e37348a-54fc-4e5b-942d-216a0673f7dc",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "lessen",
+    "title": "Machine Learning Engineer II",
+    "location": "Chicago, IL",
+    "posted": "2026-05-30 00:25 UTC",
+    "url": "https://jobs.lever.co/lessen/7e37348a-54fc-4e5b-942d-216a0673f7dc",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-29T17:03:05.966154+00:00",
+    "emailed_utc": "2026-07-29T17:03:05.966154+00:00"
+  },
+  {
+    "job_id": "lever:talentwerx.io:62de385b-d3d9-4be8-b56d-a0a3c4bad4dd",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "talentwerx.io",
+    "title": "E01-S01 Data Integration Engineer",
+    "location": "Schriever SFB, CO",
+    "posted": "2026-07-29 00:03 UTC",
+    "url": "https://jobs.lever.co/talentwerx.io/62de385b-d3d9-4be8-b56d-a0a3c4bad4dd",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-29T17:03:05.966154+00:00",
+    "emailed_utc": "2026-07-29T17:03:05.966154+00:00"
+  },
+  {
+    "job_id": "lever:tevora:e6dea5d8-d882-448f-80cd-e0f4a3b0589d",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "tevora",
+    "title": "Junior Developer",
+    "location": "Irvine, CA",
+    "posted": "2026-07-29 04:38 UTC",
+    "url": "https://jobs.lever.co/tevora/e6dea5d8-d882-448f-80cd-e0f4a3b0589d",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-29T17:03:05.966154+00:00",
+    "emailed_utc": "2026-07-29T17:03:05.966154+00:00"
   }
 ]
