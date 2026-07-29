@@ -7967,5 +7967,31 @@
     "bucket": "yes",
     "first_seen_utc": "2026-07-29T20:11:20.579018+00:00",
     "emailed_utc": "2026-07-29T20:11:20.579018+00:00"
+  },
+  {
+    "job_id": "microsoft:1970393556943137",
+    "pipeline": "main",
+    "platform": "microsoft",
+    "company": "Microsoft",
+    "title": "Senior Software Engineer - Metrics Infrastructure",
+    "location": "Redmond, WA, US",
+    "posted": "2026-07-29 20:06 UTC",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556943137",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-29T20:21:14.481755+00:00",
+    "emailed_utc": "2026-07-29T20:21:14.481755+00:00"
+  },
+  {
+    "job_id": "nvidia:893396795875",
+    "pipeline": "main",
+    "platform": "nvidia",
+    "company": "NVIDIA",
+    "title": "Senior Storage Software Engineer - DGX Cloud",
+    "location": "US",
+    "posted": "2026-07-29 00:00 UTC",
+    "url": "https://nvidia.eightfold.ai/careers/job/893396795875",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-29T20:21:14.481755+00:00",
+    "emailed_utc": "2026-07-29T20:21:14.481755+00:00"
   }
 ]
