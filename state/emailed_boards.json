@@ -67273,5 +67273,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-29T11:31:19.193092+00:00",
     "emailed_utc": "2026-07-29T11:31:19.193092+00:00"
+  },
+  {
+    "job_id": "workday:gdit:External_Career_Site:req:RQ221513",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "General Dynamics Information Technology (GDIT)",
+    "title": "Full Stack API Developer- TS/SCI with Polygraph",
+    "location": "USA VA Chantilly",
+    "posted": "Posted Today",
+    "url": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-Chantilly/Full-Stack-API-Developer--TS-SCI-with-Polygraph_RQ221513-1",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-29T12:03:01.503720+00:00",
+    "emailed_utc": "2026-07-29T12:03:01.503720+00:00"
+  },
+  {
+    "job_id": "workday:hp:ExternalCareerSite:req:3165167",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "HP Inc",
+    "title": "Hypervisor Engineer",
+    "location": "Spring, Texas, United States of America",
+    "posted": "Posted Today",
+    "url": "https://hp.wd5.myworkdayjobs.com/en-US/ExternalCareerSite/job/Spring-Texas-United-States-of-America/Hypervisor-Engineer_3165167-1",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-29T12:03:01.503720+00:00",
+    "emailed_utc": "2026-07-29T12:03:01.503720+00:00"
   }
 ]
