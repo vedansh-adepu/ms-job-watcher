@@ -7577,5 +7577,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-29T15:31:15.840228+00:00",
     "emailed_utc": "2026-07-29T15:31:15.840228+00:00"
+  },
+  {
+    "job_id": "amazon:e449be71-1639-4ce7-a154-e5ca024ef31d",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer AI/ML, Inference Model Enablement, AWS Neuron",
+    "location": "US, CA, Cupertino",
+    "posted": "July 29, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10487278/software-development-engineer-ai-ml-inference-model-enablement-aws-neuron",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-29T15:51:14.461919+00:00",
+    "emailed_utc": "2026-07-29T15:51:14.461919+00:00"
+  },
+  {
+    "job_id": "amazon:cc235136-4be9-4428-9957-b832a31fd47e",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Dev Engineer, AEP (Amazon External Payments), Amazon External Payments",
+    "location": "US, WA, Seattle",
+    "posted": "July 29, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10487269/software-dev-engineer-aep-amazon-external-payments-amazon-external-payments",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-29T15:51:14.461919+00:00",
+    "emailed_utc": "2026-07-29T15:51:14.461919+00:00"
   }
 ]
