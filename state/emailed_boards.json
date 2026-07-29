@@ -70978,5 +70978,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-29T23:02:23.598317+00:00",
     "emailed_utc": "2026-07-29T23:02:23.598317+00:00"
+  },
+  {
+    "job_id": "greenhouse:samsungsemiconductor:7815763003",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "samsungsemiconductor",
+    "title": "Staff Engineer, High-Speed I/O Analog-Mixed Circuit",
+    "location": "San Jose, California, United States",
+    "posted": "2026-07-29T17:25:05-04:00",
+    "url": "https://job-boards.greenhouse.io/samsungsemiconductor/jobs/7815763003",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-29T23:32:57.649258+00:00",
+    "emailed_utc": "2026-07-29T23:32:57.649258+00:00"
+  },
+  {
+    "job_id": "greenhouse:stripe:8075577",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Stripe",
+    "title": "Forward Deployed Engineer, Professional Services",
+    "location": "United States or Canada",
+    "posted": "2026-07-29T17:25:19-04:00",
+    "url": "https://stripe.com/jobs/search?gh_jid=8075577",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-29T23:32:57.649258+00:00",
+    "emailed_utc": "2026-07-29T23:32:57.649258+00:00"
   }
 ]
