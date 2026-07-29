@@ -70042,5 +70042,57 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-29T21:03:03.632371+00:00",
     "emailed_utc": "2026-07-29T21:03:03.632371+00:00"
+  },
+  {
+    "job_id": "greenhouse:upstart:8094141",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "UpStart",
+    "title": "Senior Applied ML Engineer",
+    "location": "United States | Remote",
+    "posted": "2026-07-29T16:34:23-04:00",
+    "url": "https://careers.upstart.com/jobs?gh_jid=8094141",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-29T21:32:28.947568+00:00",
+    "emailed_utc": "2026-07-29T21:32:28.947568+00:00"
+  },
+  {
+    "job_id": "greenhouse:verkada:5199030007",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "verkada",
+    "title": "Staff Frontend Engineer - Design Systems",
+    "location": "San Mateo, CA United States",
+    "posted": "2026-07-29T16:55:06-04:00",
+    "url": "https://job-boards.greenhouse.io/verkada/jobs/5199030007",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-29T21:32:28.947568+00:00",
+    "emailed_utc": "2026-07-29T21:32:28.947568+00:00"
+  },
+  {
+    "job_id": "greenhouse:xpengmotors:8657382002",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "xpengmotors",
+    "title": "Senior Reinforcement Learning Engineer - Robotics",
+    "location": "Santa Clara, CA",
+    "posted": "2026-07-29T16:57:29-04:00",
+    "url": "https://job-boards.greenhouse.io/xpengmotors/jobs/8657382002",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-29T21:32:28.947568+00:00",
+    "emailed_utc": "2026-07-29T21:32:28.947568+00:00"
+  },
+  {
+    "job_id": "smartrecruiters:Versant3:744000140539174",
+    "pipeline": "boards",
+    "platform": "smartrecruiters",
+    "company": "Versant",
+    "title": "Infrastructure Engineer",
+    "location": "Orlando, Florida, us",
+    "posted": "2026-07-29T19:34:32.167Z",
+    "url": "https://jobs.smartrecruiters.com/Versant3",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-29T21:32:28.947568+00:00",
+    "emailed_utc": "2026-07-29T21:32:28.947568+00:00"
   }
 ]
