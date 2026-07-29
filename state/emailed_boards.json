@@ -66584,5 +66584,57 @@
     "bucket": "yes",
     "first_seen_utc": "2026-07-29T00:02:20.359945+00:00",
     "emailed_utc": "2026-07-29T00:02:20.359945+00:00"
+  },
+  {
+    "job_id": "workday:caci:External:req:329754",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "CACI International",
+    "title": "Data Analyst",
+    "location": "Washington, DC, US",
+    "posted": "Posted Today",
+    "url": "https://caci.wd1.myworkdayjobs.com/en-US/External/job/Washington-DC-US/Data-Analyst_329754",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-29T01:03:05.266436+00:00",
+    "emailed_utc": "2026-07-29T01:03:05.266436+00:00"
+  },
+  {
+    "job_id": "greenhouse:amplitude:8654510002",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Amplitude",
+    "title": "Engineering Manager, Data Connections",
+    "location": "San Francisco, CA",
+    "posted": "2026-07-28T19:17:42-04:00",
+    "url": "https://job-boards.greenhouse.io/amplitude/jobs/8654510002",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-29T01:03:05.266436+00:00",
+    "emailed_utc": "2026-07-29T01:03:05.266436+00:00"
+  },
+  {
+    "job_id": "greenhouse:backblaze:5366534008",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "BackBlaze",
+    "title": "Revenue Analytics Lead",
+    "location": "Remote - US",
+    "posted": "2026-07-28T19:16:05-04:00",
+    "url": "https://job-boards.greenhouse.io/backblaze/jobs/5366534008",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-29T01:03:05.266436+00:00",
+    "emailed_utc": "2026-07-29T01:03:05.266436+00:00"
+  },
+  {
+    "job_id": "workday:boeing:EXTERNAL_CAREERS:req:JR2026512043",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Boeing",
+    "title": "Guidance Navigation & Control Engineer (Entry-Level) - Navigation Sys/Inertial Sensor)",
+    "location": "USA - El Segundo, CA",
+    "posted": "Posted Today",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Guidance-Navigation---Control-Engineer--Entry-Level----Navigation-Sys-Inertial-Sensor-_JR2026512043-1",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-29T01:03:05.266436+00:00",
+    "emailed_utc": "2026-07-29T01:03:05.266436+00:00"
   }
 ]
