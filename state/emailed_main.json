@@ -7681,5 +7681,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-29T17:21:10.029132+00:00",
     "emailed_utc": "2026-07-29T17:21:10.029132+00:00"
+  },
+  {
+    "job_id": "amazon:532ae8f8-599f-4735-95bc-46585cfc85f6",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, AWS Config, AWS Config",
+    "location": "US, WA, Seattle",
+    "posted": "July 29, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10487479/software-development-engineer-aws-config-aws-config",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-29T17:41:16.846079+00:00",
+    "emailed_utc": "2026-07-29T17:41:16.846079+00:00"
+  },
+  {
+    "job_id": "amazon:6e8372c0-012e-4a77-acaf-0e73098339b5",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, AWS Config, AWS Config",
+    "location": "US, WA, Seattle",
+    "posted": "July 29, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10487481/software-development-engineer-aws-config-aws-config",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-29T17:41:16.846079+00:00",
+    "emailed_utc": "2026-07-29T17:41:16.846079+00:00"
   }
 ]
