@@ -7759,5 +7759,18 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-29T18:21:14.781786+00:00",
     "emailed_utc": "2026-07-29T18:21:14.781786+00:00"
+  },
+  {
+    "job_id": "amazon:7dd051e4-e4d5-4f08-bee3-82dd2b7feab0",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, Amazon MSK",
+    "location": "US, CA, Santa Monica",
+    "posted": "July 29, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10487545/software-development-engineer-amazon-msk",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-29T18:31:15.806533+00:00",
+    "emailed_utc": "2026-07-29T18:31:15.806533+00:00"
   }
 ]
