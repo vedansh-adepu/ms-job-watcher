@@ -71589,5 +71589,70 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-30T02:02:19.395484+00:00",
     "emailed_utc": "2026-07-30T02:02:19.395484+00:00"
+  },
+  {
+    "job_id": "greenhouse:robinhood:7489707",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Robinhood",
+    "title": "Staff Software Engineer, Observability ",
+    "location": "Menlo Park, CA",
+    "posted": "2026-07-29T20:38:17-04:00",
+    "url": "https://boards.greenhouse.io/robinhood/jobs/7489707?t=gh_src=&gh_jid=7489707",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-30T02:32:55.529417+00:00",
+    "emailed_utc": "2026-07-30T02:32:55.529417+00:00"
+  },
+  {
+    "job_id": "greenhouse:spacex:8649939002",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "SpaceX",
+    "title": "Electrical Engineer, Facilities (Starlink)",
+    "location": "Redmond, WA",
+    "posted": "2026-07-29T20:48:57-04:00",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8649939002?gh_jid=8649939002",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-30T02:32:55.529417+00:00",
+    "emailed_utc": "2026-07-30T02:32:55.529417+00:00"
+  },
+  {
+    "job_id": "greenhouse:spacex:8649975002",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "SpaceX",
+    "title": "Facilities Engineer, Electrical (Starlink)",
+    "location": "Redmond, WA",
+    "posted": "2026-07-29T20:48:45-04:00",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8649975002?gh_jid=8649975002",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-30T02:32:55.529417+00:00",
+    "emailed_utc": "2026-07-30T02:32:55.529417+00:00"
+  },
+  {
+    "job_id": "greenhouse:spacex:8649976002",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "SpaceX",
+    "title": "Power Systems Engineer (Starlink)",
+    "location": "Redmond, WA",
+    "posted": "2026-07-29T20:48:46-04:00",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8649976002?gh_jid=8649976002",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-30T02:32:55.529417+00:00",
+    "emailed_utc": "2026-07-30T02:32:55.529417+00:00"
+  },
+  {
+    "job_id": "greenhouse:trueanomalyinc:5199213007",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "trueanomalyinc",
+    "title": "Fluids and Propulsion Production Engineer (Senior-Lead)",
+    "location": "Long Beach, CA",
+    "posted": "2026-07-29T21:16:38-04:00",
+    "url": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5199213007",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-30T02:32:55.529417+00:00",
+    "emailed_utc": "2026-07-30T02:32:55.529417+00:00"
   }
 ]
