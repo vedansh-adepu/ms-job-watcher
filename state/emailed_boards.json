@@ -71745,5 +71745,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-30T07:03:42.401953+00:00",
     "emailed_utc": "2026-07-30T07:03:42.401953+00:00"
+  },
+  {
+    "job_id": "greenhouse:tripactions:8083522",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Navan (TripActions)",
+    "title": "Sr. Android Engineer",
+    "location": "Bengaluru, IN",
+    "posted": "2026-07-30T07:31:19-04:00",
+    "url": "https://navan.com/careers/openings?gh_jid=8083522",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-30T12:32:16.874915+00:00",
+    "emailed_utc": "2026-07-30T12:32:16.874915+00:00"
+  },
+  {
+    "job_id": "workday:ngc:Northrop_Grumman_External_Site:req:R10243020",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Northrop Grumman",
+    "title": "Engineer Systems",
+    "location": "United States-Florida-Melbourne",
+    "posted": "Posted Today",
+    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Engineer-Systems_R10243020",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-30T12:32:16.874915+00:00",
+    "emailed_utc": "2026-07-30T12:32:16.874915+00:00"
   }
 ]
