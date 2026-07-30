@@ -8708,5 +8708,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-30T23:11:07.895349+00:00",
     "emailed_utc": "2026-07-30T23:11:07.895349+00:00"
+  },
+  {
+    "job_id": "amazon:da30e6f1-e2b2-4084-bc94-55fe1d8572dc",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, Amazon Customer Service",
+    "location": "US, WA, Seattle",
+    "posted": "July 30, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10488838/software-development-engineer-amazon-customer-service",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-30T23:31:17.412710+00:00",
+    "emailed_utc": "2026-07-30T23:31:17.412710+00:00"
+  },
+  {
+    "job_id": "nvidia:893396811312",
+    "pipeline": "main",
+    "platform": "nvidia",
+    "company": "NVIDIA",
+    "title": "Senior System Software Engineer, CUDA Driver for Windows",
+    "location": "US",
+    "posted": "2026-07-30 00:00 UTC",
+    "url": "https://nvidia.eightfold.ai/careers/job/893396811312",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-30T23:31:17.412710+00:00",
+    "emailed_utc": "2026-07-30T23:31:17.412710+00:00"
   }
 ]
