@@ -71771,5 +71771,44 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-30T12:32:16.874915+00:00",
     "emailed_utc": "2026-07-30T12:32:16.874915+00:00"
+  },
+  {
+    "job_id": "greenhouse:verisign:7814384003",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "verisign",
+    "title": "DDI Engineer - Infoblox ",
+    "location": "Reston,Virginia,United States",
+    "posted": "2026-07-30T09:01:04-04:00",
+    "url": "https://job-boards.greenhouse.io/verisign/jobs/7814384003",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-30T13:32:15.647839+00:00",
+    "emailed_utc": "2026-07-30T13:32:15.647839+00:00"
+  },
+  {
+    "job_id": "ashby:elevenlabs:87edb030-4d51-428a-8dd0-837733ca07e9",
+    "pipeline": "boards",
+    "platform": "ashby",
+    "company": "ElevenLabs",
+    "title": "People Analytics Lead",
+    "location": "United States",
+    "posted": "",
+    "url": "https://jobs.ashbyhq.com/elevenlabs/87edb030-4d51-428a-8dd0-837733ca07e9",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-30T13:32:15.647839+00:00",
+    "emailed_utc": "2026-07-30T13:32:15.647839+00:00"
+  },
+  {
+    "job_id": "ashby:rula:e088c86d-1a3c-4da9-81f5-d75990344f20",
+    "pipeline": "boards",
+    "platform": "ashby",
+    "company": "Rula",
+    "title": "Sr. Software Engineer - AI Platform Experience (Remote)",
+    "location": "Remote - United States",
+    "posted": "",
+    "url": "https://jobs.ashbyhq.com/rula/e088c86d-1a3c-4da9-81f5-d75990344f20",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-30T13:32:15.647839+00:00",
+    "emailed_utc": "2026-07-30T13:32:15.647839+00:00"
   }
 ]
