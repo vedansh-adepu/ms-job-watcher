@@ -8617,5 +8617,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-30T22:06:15.472404+00:00",
     "emailed_utc": "2026-07-30T22:06:15.472404+00:00"
+  },
+  {
+    "job_id": "amazon:00639ed1-e3e7-43e2-8ed0-f0864d27c183",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, Amazon Kinesis Data Streams & Firehose",
+    "location": "US, CA, East Palo Alto",
+    "posted": "July 30, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10488807/software-development-engineer-amazon-kinesis-data-streams-firehose",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-30T22:11:14.080657+00:00",
+    "emailed_utc": "2026-07-30T22:11:14.080657+00:00"
+  },
+  {
+    "job_id": "amazon:6fe62a89-9bb5-49b3-97c1-cde46af80ccc",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, Amazon Security Platform Engineering",
+    "location": "US, CA, San Luis Obispo",
+    "posted": "July 30, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10488805/software-development-engineer-amazon-security-platform-engineering",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-30T22:11:14.080657+00:00",
+    "emailed_utc": "2026-07-30T22:11:14.080657+00:00"
   }
 ]
