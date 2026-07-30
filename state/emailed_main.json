@@ -8396,5 +8396,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-30T18:01:30.518021+00:00",
     "emailed_utc": "2026-07-30T18:01:30.518021+00:00"
+  },
+  {
+    "job_id": "amazon:2c092aa6-0b74-4eda-bfb3-4563e9c3d7fc",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer II, AWS Transactional Services (Database & Distributed Systems) ",
+    "location": "US, WA, Seattle",
+    "posted": "July 30, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10488609/software-development-engineer-ii-aws-transactional-services-database-distributed-systems",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-30T18:21:22.105144+00:00",
+    "emailed_utc": "2026-07-30T18:21:22.105144+00:00"
+  },
+  {
+    "job_id": "amazon:ef508eb7-1aae-4153-b5e1-e42fb34ca49c",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer",
+    "location": "US, CA, Santa Clara",
+    "posted": "July 30, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10488610/software-development-engineer",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-30T18:21:22.105144+00:00",
+    "emailed_utc": "2026-07-30T18:21:22.105144+00:00"
   }
 ]
