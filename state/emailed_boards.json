@@ -73656,5 +73656,57 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-30T19:02:49.232454+00:00",
     "emailed_utc": "2026-07-30T19:02:49.232454+00:00"
+  },
+  {
+    "job_id": "greenhouse:attentive:4340650009",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Attentive",
+    "title": "Staff Software Engineer, Backend",
+    "location": "San Francisco, CA",
+    "posted": "2026-07-30T14:16:06-04:00",
+    "url": "https://job-boards.greenhouse.io/attentive/jobs/4340650009",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-30T19:31:14.460720+00:00",
+    "emailed_utc": "2026-07-30T19:31:14.460720+00:00"
+  },
+  {
+    "job_id": "greenhouse:lumosfiber:5375256008",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Lumosfiber",
+    "title": "OSP Project Engineer",
+    "location": "United States of America (USA), Remote",
+    "posted": "2026-07-30T15:26:04-04:00",
+    "url": "https://job-boards.greenhouse.io/lumosfiber/jobs/5375256008",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-30T19:31:14.460720+00:00",
+    "emailed_utc": "2026-07-30T19:31:14.460720+00:00"
+  },
+  {
+    "job_id": "greenhouse:axs:8658843002",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Axs",
+    "title": "Sr. Software Engineer II - Front End (Apex Platform)",
+    "location": "Scottsdale, AZ",
+    "posted": "2026-07-30T12:49:59-04:00",
+    "url": "https://job-boards.greenhouse.io/axs/jobs/8658843002",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-30T19:31:14.460720+00:00",
+    "emailed_utc": "2026-07-30T19:31:14.460720+00:00"
+  },
+  {
+    "job_id": "greenhouse:axs:8400412002",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Axs",
+    "title": "Sr. Software Engineer II - Front End (Apex Platform)",
+    "location": "Los Angeles, CA",
+    "posted": "2026-07-30T12:48:45-04:00",
+    "url": "https://job-boards.greenhouse.io/axs/jobs/8400412002",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-30T19:31:14.460720+00:00",
+    "emailed_utc": "2026-07-30T19:31:14.460720+00:00"
   }
 ]
