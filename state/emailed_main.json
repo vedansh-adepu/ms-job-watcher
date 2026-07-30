@@ -8344,5 +8344,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-30T16:01:23.725707+00:00",
     "emailed_utc": "2026-07-30T16:01:23.725707+00:00"
+  },
+  {
+    "job_id": "amazon:06cfbc57-e32c-4401-83fa-78fc9a3a3aee",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Engineering Manager, Amazon Software Builder Experience (ASBX) - Agentic Ecosystem",
+    "location": "US, WA, Seattle",
+    "posted": "July 30, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10488455/software-engineering-manager-amazon-software-builder-experience-asbx-agentic-ecosystem",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-30T16:11:13.631961+00:00",
+    "emailed_utc": "2026-07-30T16:11:13.631961+00:00"
+  },
+  {
+    "job_id": "amazon:eb1a865a-e10c-448c-bd33-acf731341599",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Front-End Engineer, Kiro",
+    "location": "US, WA, Seattle",
+    "posted": "July 30, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10488461/front-end-engineer-kiro",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-30T16:11:13.631961+00:00",
+    "emailed_utc": "2026-07-30T16:11:13.631961+00:00"
   }
 ]
