@@ -72837,5 +72837,44 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-30T16:32:04.010442+00:00",
     "emailed_utc": "2026-07-30T16:32:04.010442+00:00"
+  },
+  {
+    "job_id": "greenhouse:freedomconsulting:5199607007",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Freedomconsulting",
+    "title": "Junior Software Engineer 744",
+    "location": "Annapolis Junction, MD ",
+    "posted": "2026-07-30T11:50:11-04:00",
+    "url": "https://job-boards.greenhouse.io/freedomconsulting/jobs/5199607007",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-30T16:46:25.485149+00:00",
+    "emailed_utc": "2026-07-30T16:46:25.485149+00:00"
+  },
+  {
+    "job_id": "ashby:formenergy:b66cbfea-12d4-46d2-952d-ecdd4012fd7e",
+    "pipeline": "boards",
+    "platform": "ashby",
+    "company": "Form Energy",
+    "title": "Process Engineer, Welding",
+    "location": "Weirton, WV",
+    "posted": "",
+    "url": "https://jobs.ashbyhq.com/formenergy/b66cbfea-12d4-46d2-952d-ecdd4012fd7e",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-30T16:46:25.485149+00:00",
+    "emailed_utc": "2026-07-30T16:46:25.485149+00:00"
+  },
+  {
+    "job_id": "ashby:formenergy:951334f1-5d09-4c02-aa23-ae64811223f1",
+    "pipeline": "boards",
+    "platform": "ashby",
+    "company": "Form Energy",
+    "title": "Senior Staff Mechanical Engineer, Advanced Product Development",
+    "location": "Somerville, MA",
+    "posted": "",
+    "url": "https://jobs.ashbyhq.com/formenergy/951334f1-5d09-4c02-aa23-ae64811223f1",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-30T16:46:25.485149+00:00",
+    "emailed_utc": "2026-07-30T16:46:25.485149+00:00"
   }
 ]
