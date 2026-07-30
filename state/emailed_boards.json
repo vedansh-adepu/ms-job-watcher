@@ -71719,5 +71719,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-30T04:32:14.178918+00:00",
     "emailed_utc": "2026-07-30T04:32:14.178918+00:00"
+  },
+  {
+    "job_id": "workday:jll:jllcareers:req:REQ522941",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "JLL",
+    "title": "MEP Engineer",
+    "location": "Bhubaneswar, OR",
+    "posted": "Posted Today",
+    "url": "https://jll.wd1.myworkdayjobs.com/en-US/jllcareers/job/Bhubaneswar-OR/MEP-Engineer_REQ522941",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-30T07:03:42.401953+00:00",
+    "emailed_utc": "2026-07-30T07:03:42.401953+00:00"
+  },
+  {
+    "job_id": "workday:jll:jllcareers:req:REQ522943",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "JLL",
+    "title": "Engineer - Electrical",
+    "location": "Bhubaneswar, OR",
+    "posted": "Posted Today",
+    "url": "https://jll.wd1.myworkdayjobs.com/en-US/jllcareers/job/Bhubaneswar-OR/Engineer---Electrical_REQ522943",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-30T07:03:42.401953+00:00",
+    "emailed_utc": "2026-07-30T07:03:42.401953+00:00"
   }
 ]
