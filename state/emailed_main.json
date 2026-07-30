@@ -8422,5 +8422,44 @@
     "bucket": "yes",
     "first_seen_utc": "2026-07-30T18:21:22.105144+00:00",
     "emailed_utc": "2026-07-30T18:21:22.105144+00:00"
+  },
+  {
+    "job_id": "amazon:b89de7e5-b365-44e4-821c-ca148fdffed8",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer II, AWS Transform, AWS Transform",
+    "location": "US, TX, Dallas",
+    "posted": "July 30, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10488611/software-development-engineer-ii-aws-transform-aws-transform",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-30T18:31:33.696236+00:00",
+    "emailed_utc": "2026-07-30T18:31:33.696236+00:00"
+  },
+  {
+    "job_id": "amazon:c76b79c0-bfde-40cd-b87e-bde210858bc4",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Data Engineer, Specialist Technology Team (STT), Centralized Data & Analytics",
+    "location": "US, WA, Seattle",
+    "posted": "July 30, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10488614/data-engineer-specialist-technology-team-stt-centralized-data-analytics",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-30T18:31:33.696236+00:00",
+    "emailed_utc": "2026-07-30T18:31:33.696236+00:00"
+  },
+  {
+    "job_id": "amazon:be25ac54-e3f2-40b2-8e12-5a7207153890",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Sr. Applied Scientist, PXT Central Science",
+    "location": "US, CA, San Francisco",
+    "posted": "July 30, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10488615/sr-applied-scientist-pxt-central-science",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-30T18:31:33.696236+00:00",
+    "emailed_utc": "2026-07-30T18:31:33.696236+00:00"
   }
 ]
