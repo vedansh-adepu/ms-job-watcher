@@ -74748,5 +74748,44 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-30T21:03:08.728332+00:00",
     "emailed_utc": "2026-07-30T21:03:08.728332+00:00"
+  },
+  {
+    "job_id": "greenhouse:veeamsoftware:4871523101",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Veeam Software",
+    "title": "Senior Domain Engineering Specialist- VDP & Cloud",
+    "location": "Remote, United States",
+    "posted": "2026-07-30T15:06:07-04:00",
+    "url": "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4871523101",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-30T21:32:10.965374+00:00",
+    "emailed_utc": "2026-07-30T21:32:10.965374+00:00"
+  },
+  {
+    "job_id": "ashby:1password:df6afe6a-7e62-4d57-be23-22583d0cdeb9",
+    "pipeline": "boards",
+    "platform": "ashby",
+    "company": "1password",
+    "title": "Senior IT Engineer",
+    "location": "Remote (United States | Canada)",
+    "posted": "",
+    "url": "https://jobs.ashbyhq.com/1password/df6afe6a-7e62-4d57-be23-22583d0cdeb9",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-30T21:32:10.965374+00:00",
+    "emailed_utc": "2026-07-30T21:32:10.965374+00:00"
+  },
+  {
+    "job_id": "ashby:writer:fec4202f-23ed-4378-a10a-62e55a762ff0",
+    "pipeline": "boards",
+    "platform": "ashby",
+    "company": "Writer",
+    "title": "Infrastructure engineer",
+    "location": "New York City, NY",
+    "posted": "",
+    "url": "https://jobs.ashbyhq.com/writer/fec4202f-23ed-4378-a10a-62e55a762ff0",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-30T21:32:10.965374+00:00",
+    "emailed_utc": "2026-07-30T21:32:10.965374+00:00"
   }
 ]
