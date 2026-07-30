@@ -36489,5 +36489,57 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-30T23:01:27.222888+00:00",
     "emailed_utc": "2026-07-30T23:01:27.222888+00:00"
+  },
+  {
+    "job_id": "lever:rgi:567aacb1-0323-4f9e-bdc8-cc475715d662",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "rgi",
+    "title": "Software Engineer",
+    "location": "Richardson, TX",
+    "posted": "2026-07-30 22:28 UTC",
+    "url": "https://jobs.lever.co/rgi/567aacb1-0323-4f9e-bdc8-cc475715d662",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-30T23:32:43.605718+00:00",
+    "emailed_utc": "2026-07-30T23:32:43.605718+00:00"
+  },
+  {
+    "job_id": "greenhouse:vast:4701358006",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "vast",
+    "title": "Subcontracts Specialist, IT Support, Software ",
+    "location": "Long Beach, California, United States",
+    "posted": "2026-07-30T18:45:22-04:00",
+    "url": "https://boards.greenhouse.io/vast/jobs/4701358006?gh_jid=4701358006",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-30T23:32:43.605718+00:00",
+    "emailed_utc": "2026-07-30T23:32:43.605718+00:00"
+  },
+  {
+    "job_id": "greenhouse:vast:4701302006",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "vast",
+    "title": "Systems Engineer",
+    "location": "Long Beach, California, United States",
+    "posted": "2026-07-30T18:31:26-04:00",
+    "url": "https://boards.greenhouse.io/vast/jobs/4701302006?gh_jid=4701302006",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-30T23:32:43.605718+00:00",
+    "emailed_utc": "2026-07-30T23:32:43.605718+00:00"
+  },
+  {
+    "job_id": "greenhouse:wundercapital:7698581002",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "wundercapital",
+    "title": "Associate Development Engineer",
+    "location": "Boulder, CO",
+    "posted": "2026-07-30T19:16:20-04:00",
+    "url": "https://job-boards.greenhouse.io/wundercapital/jobs/7698581002",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-30T23:32:43.605718+00:00",
+    "emailed_utc": "2026-07-30T23:32:43.605718+00:00"
   }
 ]
