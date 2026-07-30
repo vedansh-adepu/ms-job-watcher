@@ -36060,5 +36060,57 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-30T20:07:57.043927+00:00",
     "emailed_utc": "2026-07-30T20:07:57.043927+00:00"
+  },
+  {
+    "job_id": "greenhouse:1800contacts:8097027",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "1800contacts",
+    "title": "Digital Analytics & Engineering Manager",
+    "location": "Draper, UT (Hybrid)",
+    "posted": "2026-07-30T16:44:35-04:00",
+    "url": "https://job-boards.greenhouse.io/1800contacts/jobs/8097027",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-30T21:01:27.662445+00:00",
+    "emailed_utc": "2026-07-30T21:01:27.662445+00:00"
+  },
+  {
+    "job_id": "greenhouse:coupanginternal:8095493",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "coupanginternal",
+    "title": "Senior Data Analyst",
+    "location": "Seattle, USA",
+    "posted": "2026-07-30T16:52:42-04:00",
+    "url": "https://boards.greenhouse.io/coupanginternal/jobs/8095493?gh_jid=8095493",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-30T21:01:27.662445+00:00",
+    "emailed_utc": "2026-07-30T21:01:27.662445+00:00"
+  },
+  {
+    "job_id": "greenhouse:coupang:8095492",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "coupang",
+    "title": "Senior Data Analyst",
+    "location": "Seattle, USA",
+    "posted": "2026-07-30T16:51:56-04:00",
+    "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8095492",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-30T21:01:27.662445+00:00",
+    "emailed_utc": "2026-07-30T21:01:27.662445+00:00"
+  },
+  {
+    "job_id": "greenhouse:debtbook:4664865005",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "debtbook",
+    "title": "Senior Software Engineer",
+    "location": "Charlotte, NC",
+    "posted": "2026-07-30T16:14:59-04:00",
+    "url": "https://job-boards.greenhouse.io/debtbook/jobs/4664865005",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-30T21:01:27.662445+00:00",
+    "emailed_utc": "2026-07-30T21:01:27.662445+00:00"
   }
 ]
