@@ -35059,5 +35059,83 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-30T14:32:00.173957+00:00",
     "emailed_utc": "2026-07-30T14:32:00.173957+00:00"
+  },
+  {
+    "job_id": "greenhouse:netsage:7821488003",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "netsage",
+    "title": "Application Developer-Mid",
+    "location": "Annapolis Junction, Maryland, United States",
+    "posted": "2026-07-30T10:47:10-04:00",
+    "url": "https://netsage.com/careers/current-openings/job?gh_jid=7821488003",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-30T14:56:33.258096+00:00",
+    "emailed_utc": "2026-07-30T14:56:33.258096+00:00"
+  },
+  {
+    "job_id": "greenhouse:nationallifeinsurancecompany:4338221009",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "nationallifeinsurancecompany",
+    "title": "Sr. Business Data Analyst",
+    "location": "Addison, TX; Montpelier, VT",
+    "posted": "2026-07-30T09:59:34-04:00",
+    "url": "https://job-boards.greenhouse.io/nationallifeinsurancecompany/jobs/4338221009",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-30T14:56:33.258096+00:00",
+    "emailed_utc": "2026-07-30T14:56:33.258096+00:00"
+  },
+  {
+    "job_id": "greenhouse:netsage:7821504003",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "netsage",
+    "title": "AI Software Engineer-Principal",
+    "location": "Annapolis Junction, Maryland, United States",
+    "posted": "2026-07-30T10:54:49-04:00",
+    "url": "https://netsage.com/careers/current-openings/job?gh_jid=7821504003",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-30T14:56:33.258096+00:00",
+    "emailed_utc": "2026-07-30T14:56:33.258096+00:00"
+  },
+  {
+    "job_id": "greenhouse:netsage:7821495003",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "netsage",
+    "title": "AI Systems Engineer-Senior",
+    "location": "Annapolis Junction, Maryland, United States",
+    "posted": "2026-07-30T10:50:17-04:00",
+    "url": "https://netsage.com/careers/current-openings/job?gh_jid=7821495003",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-30T14:56:33.258096+00:00",
+    "emailed_utc": "2026-07-30T14:56:33.258096+00:00"
+  },
+  {
+    "job_id": "greenhouse:netsage:7821498003",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "netsage",
+    "title": "AI Systems Integration Engineer-Senior",
+    "location": "Annapolis Junction, Maryland, United States",
+    "posted": "2026-07-30T10:53:02-04:00",
+    "url": "https://netsage.com/careers/current-openings/job?gh_jid=7821498003",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-30T14:56:33.258096+00:00",
+    "emailed_utc": "2026-07-30T14:56:33.258096+00:00"
+  },
+  {
+    "job_id": "greenhouse:stablekernel:7818091003",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "stablekernel",
+    "title": "Principal Software Engineer (Go)",
+    "location": "Atlanta, GA",
+    "posted": "2026-07-30T10:51:00-04:00",
+    "url": "https://job-boards.greenhouse.io/stablekernel/jobs/7818091003",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-30T14:56:33.258096+00:00",
+    "emailed_utc": "2026-07-30T14:56:33.258096+00:00"
   }
 ]
