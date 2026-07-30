@@ -71004,5 +71004,44 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-29T23:32:57.649258+00:00",
     "emailed_utc": "2026-07-29T23:32:57.649258+00:00"
+  },
+  {
+    "job_id": "greenhouse:verkada:5195862007",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "verkada",
+    "title": "Embedded Engineer - Streaming",
+    "location": "San Mateo, CA United States",
+    "posted": "2026-07-29T18:49:40-04:00",
+    "url": "https://job-boards.greenhouse.io/verkada/jobs/5195862007",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-30T00:02:03.305858+00:00",
+    "emailed_utc": "2026-07-30T00:02:03.305858+00:00"
+  },
+  {
+    "job_id": "ashby:snowflake:81f44bce-ec85-4674-b07e-1c9bda452788",
+    "pipeline": "boards",
+    "platform": "ashby",
+    "company": "Snowflake",
+    "title": "Principal Software Engineer - Semantic Views",
+    "location": "US-CA-Menlo Park",
+    "posted": "",
+    "url": "https://jobs.ashbyhq.com/snowflake/81f44bce-ec85-4674-b07e-1c9bda452788",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-30T00:02:03.305858+00:00",
+    "emailed_utc": "2026-07-30T00:02:03.305858+00:00"
+  },
+  {
+    "job_id": "ashby:snowflake:1d34ad09-5d5f-4efc-bdb5-43b9350800ce",
+    "pipeline": "boards",
+    "platform": "ashby",
+    "company": "Snowflake",
+    "title": "Senior Software Engineer - NatSec ",
+    "location": "US-VA-Remote",
+    "posted": "",
+    "url": "https://jobs.ashbyhq.com/snowflake/1d34ad09-5d5f-4efc-bdb5-43b9350800ce",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-30T00:02:03.305858+00:00",
+    "emailed_utc": "2026-07-30T00:02:03.305858+00:00"
   }
 ]
