@@ -34786,5 +34786,31 @@
     "bucket": "yes",
     "first_seen_utc": "2026-07-30T01:31:54.608592+00:00",
     "emailed_utc": "2026-07-30T01:31:54.608592+00:00"
+  },
+  {
+    "job_id": "greenhouse:onenergy:4339537009",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "onenergy",
+    "title": "Principal Power Electronics Engineer",
+    "location": "Houston, Texas, United States; Miami, Florida, United States; Reston, Virginia, United States",
+    "posted": "2026-07-29T20:01:28-04:00",
+    "url": "https://job-boards.greenhouse.io/onenergy/jobs/4339537009",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-30T02:01:28.262668+00:00",
+    "emailed_utc": "2026-07-30T02:01:28.262668+00:00"
+  },
+  {
+    "job_id": "greenhouse:orcasecurity:6126974004",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "orcasecurity",
+    "title": "Customer Success Engineer",
+    "location": "United States",
+    "posted": "2026-07-29T21:45:07-04:00",
+    "url": "https://orca.security/about/careers/6126974004?gh_jid=6126974004",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-30T02:01:28.262668+00:00",
+    "emailed_utc": "2026-07-30T02:01:28.262668+00:00"
   }
 ]
