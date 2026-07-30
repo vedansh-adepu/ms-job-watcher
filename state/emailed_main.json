@@ -8201,5 +8201,18 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-29T23:41:02.016400+00:00",
     "emailed_utc": "2026-07-29T23:41:02.016400+00:00"
+  },
+  {
+    "job_id": "amazon:21ee7408-fd06-4c82-8865-57030a62fa8b",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, Ads Campaign Management ",
+    "location": "US, NY, New York",
+    "posted": "July 30, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10487902/software-development-engineer-ads-campaign-management",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-30T01:31:22.546844+00:00",
+    "emailed_utc": "2026-07-30T01:31:22.546844+00:00"
   }
 ]
