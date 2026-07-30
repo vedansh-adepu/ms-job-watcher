@@ -35709,5 +35709,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-30T18:32:31.125754+00:00",
     "emailed_utc": "2026-07-30T18:32:31.125754+00:00"
+  },
+  {
+    "job_id": "lever:valkyrietrading:b9907031-0625-49f9-9fbe-7b5618e3640c",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "valkyrietrading",
+    "title": "Junior Software Engineer",
+    "location": "Chicago, IL",
+    "posted": "2021-10-20 23:01 UTC",
+    "url": "https://jobs.lever.co/valkyrietrading/b9907031-0625-49f9-9fbe-7b5618e3640c",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-30T19:01:32.228372+00:00",
+    "emailed_utc": "2026-07-30T19:01:32.228372+00:00"
+  },
+  {
+    "job_id": "lever:wachter:62f44c16-1fea-4b9f-9123-f6b8db84ef77",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "wachter",
+    "title": "A/V  Field Engineer",
+    "location": "Philadelphia, PA",
+    "posted": "2026-06-18 16:58 UTC",
+    "url": "https://jobs.lever.co/wachter/62f44c16-1fea-4b9f-9123-f6b8db84ef77",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-30T19:01:32.228372+00:00",
+    "emailed_utc": "2026-07-30T19:01:32.228372+00:00"
   }
 ]
