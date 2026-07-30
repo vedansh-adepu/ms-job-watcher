@@ -73604,5 +73604,57 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-30T18:32:53.188030+00:00",
     "emailed_utc": "2026-07-30T18:32:53.188030+00:00"
+  },
+  {
+    "job_id": "lever:woven-by-toyota:e5ebcad9-b648-4d04-8c15-0d8dffb36190",
+    "pipeline": "boards",
+    "platform": "lever",
+    "company": "woven-by-toyota",
+    "title": "Software Engineer, Calibration (Analysis/Tool)",
+    "location": "Ann Arbor, MI",
+    "posted": "2026-07-30 18:15 UTC",
+    "url": "https://jobs.lever.co/woven-by-toyota/e5ebcad9-b648-4d04-8c15-0d8dffb36190",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-30T19:02:49.232454+00:00",
+    "emailed_utc": "2026-07-30T19:02:49.232454+00:00"
+  },
+  {
+    "job_id": "ashby:writer:15611b2e-7825-47f2-8f10-8a4e04706b17",
+    "pipeline": "boards",
+    "platform": "ashby",
+    "company": "Writer",
+    "title": "AI deployment engineer (Central)",
+    "location": "Chicago, IL",
+    "posted": "",
+    "url": "https://jobs.ashbyhq.com/writer/15611b2e-7825-47f2-8f10-8a4e04706b17",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-30T19:02:49.232454+00:00",
+    "emailed_utc": "2026-07-30T19:02:49.232454+00:00"
+  },
+  {
+    "job_id": "ashby:writer:b3c2a1d8-f21c-44cd-906e-114188575e42",
+    "pipeline": "boards",
+    "platform": "ashby",
+    "company": "Writer",
+    "title": "AI deployment engineer (East)",
+    "location": "New York City, NY",
+    "posted": "",
+    "url": "https://jobs.ashbyhq.com/writer/b3c2a1d8-f21c-44cd-906e-114188575e42",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-30T19:02:49.232454+00:00",
+    "emailed_utc": "2026-07-30T19:02:49.232454+00:00"
+  },
+  {
+    "job_id": "ashby:writer:9b90ebc6-be50-4818-85de-91d0f2416465",
+    "pipeline": "boards",
+    "platform": "ashby",
+    "company": "Writer",
+    "title": "AI deployment engineer (West)",
+    "location": "San Francisco, CA",
+    "posted": "",
+    "url": "https://jobs.ashbyhq.com/writer/9b90ebc6-be50-4818-85de-91d0f2416465",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-30T19:02:49.232454+00:00",
+    "emailed_utc": "2026-07-30T19:02:49.232454+00:00"
   }
 ]
