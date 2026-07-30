@@ -35033,5 +35033,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-30T13:32:03.894066+00:00",
     "emailed_utc": "2026-07-30T13:32:03.894066+00:00"
+  },
+  {
+    "job_id": "greenhouse:apexcompanies:5374986008",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "apexcompanies",
+    "title": "Civil Engineer - Transportation ",
+    "location": "Portland, OR",
+    "posted": "2026-07-30T09:39:42-04:00",
+    "url": "https://job-boards.greenhouse.io/apexcompanies/jobs/5374986008",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-30T14:32:00.173957+00:00",
+    "emailed_utc": "2026-07-30T14:32:00.173957+00:00"
+  },
+  {
+    "job_id": "greenhouse:coinbase:8095252",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "coinbase",
+    "title": "Senior Software Engineer",
+    "location": "Remote - USA",
+    "posted": "2026-07-30T09:25:46-04:00",
+    "url": "https://www.coinbase.com/careers/positions/8095252?gh_jid=8095252",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-30T14:32:00.173957+00:00",
+    "emailed_utc": "2026-07-30T14:32:00.173957+00:00"
   }
 ]
