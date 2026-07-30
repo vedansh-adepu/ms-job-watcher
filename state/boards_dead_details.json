@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-07-30T17:33:16.914924+00:00",
+  "updated_utc": "2026-07-30T18:02:41.059819+00:00",
   "dead_details": {
     "greenhouse:auth0": {
       "first_seen_utc": "2026-02-16T03:03:47.356270+00:00",
@@ -8483,6 +8483,15 @@
       "first_seen_utc": "2026-07-27T01:01:30.299292+00:00",
       "last_seen_utc": "2026-07-27T01:01:30.299292+00:00",
       "platform": "lever",
+      "company": "",
+      "board_url": "",
+      "last_status": 404,
+      "last_error": "HTTP 404/410 (board not found)"
+    },
+    "greenhouse:natera": {
+      "first_seen_utc": "2026-07-30T18:01:21.463664+00:00",
+      "last_seen_utc": "2026-07-30T18:01:21.463664+00:00",
+      "platform": "greenhouse",
       "company": "",
       "board_url": "",
       "last_status": 404,
