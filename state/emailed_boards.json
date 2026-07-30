@@ -71056,5 +71056,57 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-30T00:31:22.097484+00:00",
     "emailed_utc": "2026-07-30T00:31:22.097484+00:00"
+  },
+  {
+    "job_id": "workday:bah:BAH_Jobs:req:R0245622",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Booz Allen Hamilton",
+    "title": "Data Scientist, Mid",
+    "location": "Arlington, VA",
+    "posted": "Posted Today",
+    "url": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/Data-Scientist--Mid_R0245622",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-30T01:02:52.834336+00:00",
+    "emailed_utc": "2026-07-30T01:02:52.834336+00:00"
+  },
+  {
+    "job_id": "workday:boeing:EXTERNAL_CAREERS:req:JR2026520482",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Boeing",
+    "title": "Technical Specialist Engineer (Experienced or Senior)",
+    "location": "USA - Long Beach, CA",
+    "posted": "Posted Today",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Long-Beach-CA/Technical-Specialist-Engineer--Experienced-or-Senior-_JR2026520482-1",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-30T01:02:52.834336+00:00",
+    "emailed_utc": "2026-07-30T01:02:52.834336+00:00"
+  },
+  {
+    "job_id": "workday:boeing:EXTERNAL_CAREERS:req:JR2026520487",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Boeing",
+    "title": "Wiring Design and Installation Engineer\u00a0(Expert)",
+    "location": "USA - Charleston, SC",
+    "posted": "Posted Today",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Charleston-SC/Wiring-Design-and-Installation-Engineer--Expert-_JR2026520487-1",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-30T01:02:52.834336+00:00",
+    "emailed_utc": "2026-07-30T01:02:52.834336+00:00"
+  },
+  {
+    "job_id": "workday:caci:External:req:329817",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "CACI International",
+    "title": "Early Career NASA Network and Computer Systems Engineer",
+    "location": "Houston, TX, US",
+    "posted": "Posted Today",
+    "url": "https://caci.wd1.myworkdayjobs.com/en-US/External/job/Houston-TX-US/Early-Career-NASA-Network-and-Computer-Systems-Engineer_329817",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-30T01:02:52.834336+00:00",
+    "emailed_utc": "2026-07-30T01:02:52.834336+00:00"
   }
 ]
