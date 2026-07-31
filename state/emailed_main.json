@@ -9046,5 +9046,18 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-31T20:11:30.056943+00:00",
     "emailed_utc": "2026-07-31T20:11:30.056943+00:00"
+  },
+  {
+    "job_id": "amazon:966253ab-5bd4-46d9-8474-6e288fd81165",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer II, Amazon DocumentDB",
+    "location": "US, WA, Seattle",
+    "posted": "July 31, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10489742/software-development-engineer-ii-amazon-documentdb",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-31T20:21:57.273109+00:00",
+    "emailed_utc": "2026-07-31T20:21:57.273109+00:00"
   }
 ]
