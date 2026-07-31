@@ -76100,5 +76100,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-31T03:31:09.566031+00:00",
     "emailed_utc": "2026-07-31T03:31:09.566031+00:00"
+  },
+  {
+    "job_id": "workday:gdit:External_Career_Site:req:RQ224189",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "General Dynamics Information Technology (GDIT)",
+    "title": "TOC Engineer",
+    "location": "USA MD Bethesda - 6555 Rock Spring Dr (MDC097)",
+    "posted": "Posted Today",
+    "url": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-MD-Bethesda---6555-Rock-Spring-Dr-MDC097/TOC-Engineer_RQ224189-1",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-31T04:03:02.440897+00:00",
+    "emailed_utc": "2026-07-31T04:03:02.440897+00:00"
+  },
+  {
+    "job_id": "workday:gdit:External_Career_Site:req:RQ225150",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "General Dynamics Information Technology (GDIT)",
+    "title": "Virtualization Administrator/Engineer",
+    "location": "USA VA Falls Church",
+    "posted": "Posted Today",
+    "url": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-Falls-Church/Virtualization-Administrator-Engineer_RQ225150-2",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-31T04:03:02.440897+00:00",
+    "emailed_utc": "2026-07-31T04:03:02.440897+00:00"
   }
 ]
