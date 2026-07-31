@@ -8877,5 +8877,18 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-31T15:31:16.876667+00:00",
     "emailed_utc": "2026-07-31T15:31:16.876667+00:00"
+  },
+  {
+    "job_id": "amazon:8952d3b2-7caa-4e0d-b99a-e2f850b102fb",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer",
+    "location": "US, MA, Cambridge",
+    "posted": "July 31, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10489298/software-development-engineer",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-31T15:41:18.919007+00:00",
+    "emailed_utc": "2026-07-31T15:41:18.919007+00:00"
   }
 ]
