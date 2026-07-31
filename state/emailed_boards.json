@@ -75736,5 +75736,57 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-31T00:31:27.399461+00:00",
     "emailed_utc": "2026-07-31T00:31:27.399461+00:00"
+  },
+  {
+    "job_id": "workday:bah:BAH_Jobs:req:R0245751",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Booz Allen Hamilton",
+    "title": "Embedded Software Engineer",
+    "location": "Colorado Springs, CO",
+    "posted": "Posted Today",
+    "url": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Colorado-Springs-CO/Embedded-Software-Engineer_R0245751",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-31T01:02:57.145855+00:00",
+    "emailed_utc": "2026-07-31T01:02:57.145855+00:00"
+  },
+  {
+    "job_id": "greenhouse:andurilindustries:5199707007",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "andurilindustries",
+    "title": "Senior Wire Harness Design Engineer",
+    "location": "Costa Mesa, California, United States",
+    "posted": "2026-07-30T18:39:04-04:00",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5199707007?gh_jid=5199707007",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-31T01:02:57.145855+00:00",
+    "emailed_utc": "2026-07-31T01:02:57.145855+00:00"
+  },
+  {
+    "job_id": "workday:abbott:abbottcareers:req:31157830",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Abbott",
+    "title": "Manufacturing Engineer - Nutrition - Casa Grande, AZ",
+    "location": "United States - Arizona - Casa Grande",
+    "posted": "Posted Today",
+    "url": "https://abbott.wd5.myworkdayjobs.com/en-US/abbottcareers/job/United-States---Arizona---Casa-Grande/Manufacturing-Engineer---Nutrition---Casa-Grande--AZ_31157830-1",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-31T01:02:57.145855+00:00",
+    "emailed_utc": "2026-07-31T01:02:57.145855+00:00"
+  },
+  {
+    "job_id": "workday:blueorigin:BlueOrigin:req:R69418",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Blue Origin",
+    "title": "Multi Mission Industrial Engineer",
+    "location": "Space Coast, FL",
+    "posted": "Posted Today",
+    "url": "https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Space-Coast-FL/Multi-Mission-Industrial-Engineer_R69418",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-31T01:02:57.145855+00:00",
+    "emailed_utc": "2026-07-31T01:02:57.145855+00:00"
   }
 ]
