@@ -38062,5 +38062,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-31T22:31:24.896515+00:00",
     "emailed_utc": "2026-07-31T22:31:24.896515+00:00"
+  },
+  {
+    "job_id": "lever:mashgin:f91e5dad-8a9d-48ce-8891-1f5b6fb70e82",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "mashgin",
+    "title": "Senior Software Engineer, Video",
+    "location": "Palo Alto, CA",
+    "posted": "2026-07-31 21:54 UTC",
+    "url": "https://jobs.lever.co/mashgin/f91e5dad-8a9d-48ce-8891-1f5b6fb70e82",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-31T22:42:30.766094+00:00",
+    "emailed_utc": "2026-07-31T22:42:30.766094+00:00"
+  },
+  {
+    "job_id": "lever:qrypt:545ce743-5432-43b7-a097-e0846ed124ea",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "qrypt",
+    "title": "Senior Cloud Engineer",
+    "location": "Austin, TX",
+    "posted": "2026-07-31 21:22 UTC",
+    "url": "https://jobs.lever.co/qrypt/545ce743-5432-43b7-a097-e0846ed124ea",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-31T22:42:30.766094+00:00",
+    "emailed_utc": "2026-07-31T22:42:30.766094+00:00"
   }
 ]
