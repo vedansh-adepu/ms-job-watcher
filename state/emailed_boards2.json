@@ -36619,5 +36619,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-31T01:01:48.070081+00:00",
     "emailed_utc": "2026-07-31T01:01:48.070081+00:00"
+  },
+  {
+    "job_id": "lever:h1:05d083e8-7bb9-4cc6-a8ff-a1abae2048f8",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "h1",
+    "title": "Full-Stack Software Engineer",
+    "location": "US Remote",
+    "posted": "2026-05-26 21:11 UTC",
+    "url": "https://jobs.lever.co/h1/05d083e8-7bb9-4cc6-a8ff-a1abae2048f8",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-31T01:32:10.883551+00:00",
+    "emailed_utc": "2026-07-31T01:32:10.883551+00:00"
+  },
+  {
+    "job_id": "lever:arsiem:740c647a-adce-44b4-aa51-37c9aa1a5ad9",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "arsiem",
+    "title": "359 - Sr. AI Engineer",
+    "location": "Linthicum, MD",
+    "posted": "2026-03-31 17:15 UTC",
+    "url": "https://jobs.lever.co/arsiem/740c647a-adce-44b4-aa51-37c9aa1a5ad9",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-31T01:32:10.883551+00:00",
+    "emailed_utc": "2026-07-31T01:32:10.883551+00:00"
   }
 ]
