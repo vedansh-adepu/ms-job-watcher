@@ -9124,5 +9124,18 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-31T22:41:18.357674+00:00",
     "emailed_utc": "2026-07-31T22:41:18.357674+00:00"
+  },
+  {
+    "job_id": "amazon:412e7b7c-2c62-4544-97b0-c1e773df0010",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer II - Amazon MSK, Managed Streaming Kafka (MSK)",
+    "location": "US, WA, Seattle",
+    "posted": "July 31, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10489822/software-development-engineer-ii-amazon-msk-managed-streaming-kafka-msk",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-31T22:51:14.166541+00:00",
+    "emailed_utc": "2026-07-31T22:51:14.166541+00:00"
   }
 ]
