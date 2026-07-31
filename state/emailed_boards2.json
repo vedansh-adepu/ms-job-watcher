@@ -36840,5 +36840,44 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-31T14:32:27.989795+00:00",
     "emailed_utc": "2026-07-31T14:32:27.989795+00:00"
+  },
+  {
+    "job_id": "greenhouse:aperiasolutions:5200477007",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "aperiasolutions",
+    "title": "Software Developer (.NET + AI/LLMs)",
+    "location": "Alpharetta, Georgia, United States; Frisco, Texas, United States; Omaha, Nebraska, United States",
+    "posted": "2026-07-31T10:42:21-04:00",
+    "url": "https://job-boards.greenhouse.io/aperiasolutions/jobs/5200477007",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-31T15:09:51.359386+00:00",
+    "emailed_utc": "2026-07-31T15:09:51.359386+00:00"
+  },
+  {
+    "job_id": "greenhouse:beaconbiosignals:4341499009",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "beaconbiosignals",
+    "title": "Principal Data Engineer",
+    "location": "Boston, MA / Remote",
+    "posted": "2026-07-31T09:36:41-04:00",
+    "url": "https://job-boards.greenhouse.io/beaconbiosignals/jobs/4341499009",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-31T15:09:51.359386+00:00",
+    "emailed_utc": "2026-07-31T15:09:51.359386+00:00"
+  },
+  {
+    "job_id": "greenhouse:beaconbiosignals:4341474009",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "beaconbiosignals",
+    "title": "Principal Software Engineer, Data",
+    "location": "Boston, MA / Remote",
+    "posted": "2026-07-31T09:35:50-04:00",
+    "url": "https://job-boards.greenhouse.io/beaconbiosignals/jobs/4341474009",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-31T15:09:51.359386+00:00",
+    "emailed_utc": "2026-07-31T15:09:51.359386+00:00"
   }
 ]
