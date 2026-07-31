@@ -36541,5 +36541,57 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-30T23:32:43.605718+00:00",
     "emailed_utc": "2026-07-30T23:32:43.605718+00:00"
+  },
+  {
+    "job_id": "greenhouse:goldenstate:8097873",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "goldenstate",
+    "title": "Data Engineer",
+    "location": "San Francisco, CA",
+    "posted": "2026-07-30T20:08:37-04:00",
+    "url": "https://job-boards.greenhouse.io/goldenstate/jobs/8097873",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-31T00:31:35.377550+00:00",
+    "emailed_utc": "2026-07-31T00:31:35.377550+00:00"
+  },
+  {
+    "job_id": "greenhouse:goldenstate:8097864",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "goldenstate",
+    "title": "Data Scientist",
+    "location": "San Francisco, CA",
+    "posted": "2026-07-30T20:04:57-04:00",
+    "url": "https://job-boards.greenhouse.io/goldenstate/jobs/8097864",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-31T00:31:35.377550+00:00",
+    "emailed_utc": "2026-07-31T00:31:35.377550+00:00"
+  },
+  {
+    "job_id": "greenhouse:goldenstate:8097904",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "goldenstate",
+    "title": "Web Developer",
+    "location": "San Francisco, CA",
+    "posted": "2026-07-30T20:11:35-04:00",
+    "url": "https://job-boards.greenhouse.io/goldenstate/jobs/8097904",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-31T00:31:35.377550+00:00",
+    "emailed_utc": "2026-07-31T00:31:35.377550+00:00"
+  },
+  {
+    "job_id": "greenhouse:honeycomb:5373987008",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "honeycomb",
+    "title": "Senior Software Engineer II - Agentic Intelligence",
+    "location": "Remote - United States",
+    "posted": "2026-07-30T19:21:10-04:00",
+    "url": "https://job-boards.greenhouse.io/honeycomb/jobs/5373987008",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-31T00:31:35.377550+00:00",
+    "emailed_utc": "2026-07-31T00:31:35.377550+00:00"
   }
 ]
