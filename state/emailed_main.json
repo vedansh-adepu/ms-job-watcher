@@ -9007,5 +9007,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-31T19:51:18.854320+00:00",
     "emailed_utc": "2026-07-31T19:51:18.854320+00:00"
+  },
+  {
+    "job_id": "amazon:5060b6bc-9006-436c-b9a1-160d6dd0330b",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, Provisioning - Amazon Leo",
+    "location": "US, WA, Redmond",
+    "posted": "July 31, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10489709/software-development-engineer-provisioning-amazon-leo",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-31T20:01:18.643077+00:00",
+    "emailed_utc": "2026-07-31T20:01:18.643077+00:00"
+  },
+  {
+    "job_id": "amazon:52a00faf-2760-4a64-9dfb-c54c11938237",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, AWS Fintech",
+    "location": "US, WA, Seattle",
+    "posted": "July 31, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10489702/software-development-engineer-aws-fintech",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-31T20:01:18.643077+00:00",
+    "emailed_utc": "2026-07-31T20:01:18.643077+00:00"
   }
 ]
