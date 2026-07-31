@@ -37321,5 +37321,57 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-31T18:38:03.440183+00:00",
     "emailed_utc": "2026-07-31T18:38:03.440183+00:00"
+  },
+  {
+    "job_id": "greenhouse:roblox:8083944",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "roblox",
+    "title": "Software Engineer, Communications",
+    "location": "San Mateo, CA, United States",
+    "posted": "2026-07-31T14:31:57-04:00",
+    "url": "https://careers.roblox.com/jobs/8083944?gh_jid=8083944",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-31T19:02:44.557432+00:00",
+    "emailed_utc": "2026-07-31T19:02:44.557432+00:00"
+  },
+  {
+    "job_id": "greenhouse:life360:8659990002",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "life360",
+    "title": "Senior Analytics Engineer",
+    "location": "Remote, USA ; Remote, Canada",
+    "posted": "2026-07-31T13:41:37-04:00",
+    "url": "https://job-boards.greenhouse.io/life360/jobs/8659990002",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-31T19:02:44.557432+00:00",
+    "emailed_utc": "2026-07-31T19:02:44.557432+00:00"
+  },
+  {
+    "job_id": "greenhouse:ninjatrader:4698792006",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "ninjatrader",
+    "title": "Operational Resiliency Engineer",
+    "location": "Chicago, IL",
+    "posted": "2026-07-31T13:21:16-04:00",
+    "url": "https://job-boards.greenhouse.io/ninjatrader/jobs/4698792006",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-31T19:02:44.557432+00:00",
+    "emailed_utc": "2026-07-31T19:02:44.557432+00:00"
+  },
+  {
+    "job_id": "greenhouse:sagent:6132131004",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "sagent",
+    "title": "Data Services Engineer SR",
+    "location": "Remote U.S.",
+    "posted": "2026-07-31T14:11:42-04:00",
+    "url": "https://job-boards.greenhouse.io/sagent/jobs/6132131004",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-31T19:02:44.557432+00:00",
+    "emailed_utc": "2026-07-31T19:02:44.557432+00:00"
   }
 ]
