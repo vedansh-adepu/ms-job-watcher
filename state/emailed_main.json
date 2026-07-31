@@ -8812,5 +8812,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-31T14:11:21.139475+00:00",
     "emailed_utc": "2026-07-31T14:11:21.139475+00:00"
+  },
+  {
+    "job_id": "amazon:d359cccb-2ece-4508-bf71-d7b27532fad6",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, Quick",
+    "location": "US, WA, Bellevue",
+    "posted": "July 31, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10489220/software-development-engineer-quick",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-31T15:11:25.297570+00:00",
+    "emailed_utc": "2026-07-31T15:11:25.297570+00:00"
+  },
+  {
+    "job_id": "amazon:483dcbc7-a7fb-4313-bb83-5f75ba39be52",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Manager, AWS Network Firewall",
+    "location": "US, VA, Herndon",
+    "posted": "July 31, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10489214/software-development-manager-aws-network-firewall",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-31T15:11:25.297570+00:00",
+    "emailed_utc": "2026-07-31T15:11:25.297570+00:00"
   }
 ]
