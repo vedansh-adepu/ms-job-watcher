@@ -41794,29 +41794,22 @@
     "cursor": null
   },
   {
-    "ts": "2026-07-31T14:31Z",
+    "ts": "2026-07-31T14:32Z",
     "mode": "boards",
     "per_source": {
-      "ashby": {
-        "fetched": 1936,
-        "title_ok": 671,
-        "loc_ok": 199,
-        "new": 0,
-        "emailed": 0
-      },
       "greenhouse": {
-        "fetched": 4214,
-        "title_ok": 1115,
-        "loc_ok": 663,
+        "fetched": 14867,
+        "title_ok": 2089,
+        "loc_ok": 833,
         "new": 0,
         "emailed": 0
       },
       "lever": {
-        "fetched": 1456,
-        "title_ok": 682,
-        "loc_ok": 246,
-        "new": 0,
-        "emailed": 0
+        "fetched": 46657,
+        "title_ok": 5831,
+        "loc_ok": 1837,
+        "new": 1,
+        "emailed": 1
       }
     },
     "duration_s": 7.2,
