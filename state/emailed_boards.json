@@ -75788,5 +75788,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-31T01:02:57.145855+00:00",
     "emailed_utc": "2026-07-31T01:02:57.145855+00:00"
+  },
+  {
+    "job_id": "greenhouse:harbingermotors:4869232007",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "harbingermotors",
+    "title": "Electrical Systems Engineer",
+    "location": "Garden Grove, CA",
+    "posted": "2026-07-30T21:26:12-04:00",
+    "url": "https://job-boards.greenhouse.io/harbingermotors/jobs/4869232007",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-31T01:32:54.285270+00:00",
+    "emailed_utc": "2026-07-31T01:32:54.285270+00:00"
+  },
+  {
+    "job_id": "workday:intel:External:req:JR0285639",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Intel",
+    "title": "Intel Foundry Module Development Engineer",
+    "location": "US, Oregon, Hillsboro",
+    "posted": "Posted Today",
+    "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Intel-Foundry-Module-Development-Engineer_JR0285639",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-31T01:32:54.285270+00:00",
+    "emailed_utc": "2026-07-31T01:32:54.285270+00:00"
   }
 ]
