@@ -78687,5 +78687,57 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-31T20:32:22.846330+00:00",
     "emailed_utc": "2026-07-31T20:32:22.846330+00:00"
+  },
+  {
+    "job_id": "greenhouse:twilio:8100236",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "twilio",
+    "title": "Software Engineer (L2)",
+    "location": "Remote - US",
+    "posted": "2026-07-31T17:00:52-04:00",
+    "url": "https://job-boards.greenhouse.io/twilio/jobs/8100236",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-31T21:03:05.470938+00:00",
+    "emailed_utc": "2026-07-31T21:03:05.470938+00:00"
+  },
+  {
+    "job_id": "greenhouse:robinhood:8100160",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Robinhood",
+    "title": "Senior Android Engineer, Crypto Expansion",
+    "location": "Menlo Park, CA",
+    "posted": "2026-07-31T16:09:23-04:00",
+    "url": "https://boards.greenhouse.io/robinhood/jobs/8100160?t=gh_src=&gh_jid=8100160",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-31T21:03:05.470938+00:00",
+    "emailed_utc": "2026-07-31T21:03:05.470938+00:00"
+  },
+  {
+    "job_id": "greenhouse:robinhood:8100213",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Robinhood",
+    "title": "Senior Software Engineer, Data Lake",
+    "location": "Bellevue, WA",
+    "posted": "2026-07-31T16:43:35-04:00",
+    "url": "https://boards.greenhouse.io/robinhood/jobs/8100213?t=gh_src=&gh_jid=8100213",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-31T21:03:05.470938+00:00",
+    "emailed_utc": "2026-07-31T21:03:05.470938+00:00"
+  },
+  {
+    "job_id": "workday:target:targetcareers:req:R0000440450",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Target",
+    "title": "Sr. Engineer - Tech Inventory Engineering (Frontend)",
+    "location": "7000 Target Pkwy N,NCD-0375 Brooklyn Park,MN 55445",
+    "posted": "Posted Today",
+    "url": "https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/7000-Target-Pkwy-NNCD-0375-Brooklyn-ParkMN-55445/Sr-Engineer---Data-Center-Automation--Frontend-_R0000440450",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-31T21:03:05.470938+00:00",
+    "emailed_utc": "2026-07-31T21:03:05.470938+00:00"
   }
 ]
