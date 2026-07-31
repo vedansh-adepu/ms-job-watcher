@@ -38088,5 +38088,44 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-31T22:42:30.766094+00:00",
     "emailed_utc": "2026-07-31T22:42:30.766094+00:00"
+  },
+  {
+    "job_id": "greenhouse:allcareers:8662850002",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "allcareers",
+    "title": "Senior AI Data Engineer",
+    "location": "San Diego, CA",
+    "posted": "2026-07-31T18:07:12-04:00",
+    "url": "https://job-boards.greenhouse.io/allcareers/jobs/8662850002",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-31T23:32:00.033600+00:00",
+    "emailed_utc": "2026-07-31T23:32:00.033600+00:00"
+  },
+  {
+    "job_id": "greenhouse:asteralabs:4720576005",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "asteralabs",
+    "title": "Senior Principal Engineer, Offensive Security (2026-345)",
+    "location": "San Jose, California, United States",
+    "posted": "2026-07-31T19:15:52-04:00",
+    "url": "https://job-boards.greenhouse.io/asteralabs/jobs/4720576005",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-31T23:32:00.033600+00:00",
+    "emailed_utc": "2026-07-31T23:32:00.033600+00:00"
+  },
+  {
+    "job_id": "greenhouse:debutbiotech25:5201062007",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "debutbiotech25",
+    "title": "Staff Process Engineer",
+    "location": "San Diego, CA",
+    "posted": "2026-07-31T18:40:19-04:00",
+    "url": "https://job-boards.greenhouse.io/debutbiotech25/jobs/5201062007",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-31T23:32:00.033600+00:00",
+    "emailed_utc": "2026-07-31T23:32:00.033600+00:00"
   }
 ]
