@@ -8942,5 +8942,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-31T17:01:22.767344+00:00",
     "emailed_utc": "2026-07-31T17:01:22.767344+00:00"
+  },
+  {
+    "job_id": "amazon:b4271bce-4839-4ce6-b82d-5d899459ed16",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, International Emerging Stores Sub-same Day",
+    "location": "US, WA, Bellevue",
+    "posted": "July 31, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10488905/software-development-engineer-international-emerging-stores-sub-same-day",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-31T18:01:28.855276+00:00",
+    "emailed_utc": "2026-07-31T18:01:28.855276+00:00"
+  },
+  {
+    "job_id": "microsoft:1970393556942068",
+    "pipeline": "main",
+    "platform": "microsoft",
+    "company": "Microsoft",
+    "title": "Software Engineer II and/or Senior Software Engineer - AI Compilers",
+    "location": "US",
+    "posted": "2026-07-31 17:23 UTC",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556942068",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-31T18:01:28.855276+00:00",
+    "emailed_utc": "2026-07-31T18:01:28.855276+00:00"
   }
 ]
