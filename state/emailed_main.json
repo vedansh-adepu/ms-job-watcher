@@ -8838,5 +8838,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-31T15:11:25.297570+00:00",
     "emailed_utc": "2026-07-31T15:11:25.297570+00:00"
+  },
+  {
+    "job_id": "amazon:89a1c54f-b764-45e6-9b99-a2305eb252ff",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer",
+    "location": "US, CA, Santa Clara",
+    "posted": "July 31, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10489267/software-development-engineer",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-31T15:22:05.540517+00:00",
+    "emailed_utc": "2026-07-31T15:22:05.540517+00:00"
+  },
+  {
+    "job_id": "amazon:e4e40787-aece-4c26-8cdf-04dd04851550",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer",
+    "location": "US, CA, Santa Clara",
+    "posted": "July 31, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10489268/software-development-engineer",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-31T15:22:05.540517+00:00",
+    "emailed_utc": "2026-07-31T15:22:05.540517+00:00"
   }
 ]
