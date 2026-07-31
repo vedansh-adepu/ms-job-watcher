@@ -8734,5 +8734,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-30T23:31:17.412710+00:00",
     "emailed_utc": "2026-07-30T23:31:17.412710+00:00"
+  },
+  {
+    "job_id": "amazon:f1ed9b9c-108a-417e-a47a-cd7cb0ce7c2e",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, AWS Catalog",
+    "location": "US, CA, East Palo Alto",
+    "posted": "July 31, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10488872/software-development-engineer-aws-catalog",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-31T00:51:16.122125+00:00",
+    "emailed_utc": "2026-07-31T00:51:16.122125+00:00"
+  },
+  {
+    "job_id": "amazon:0f5f14ad-105f-4039-9a47-04a33e7c703d",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, AWS Catalog",
+    "location": "US, CA, East Palo Alto",
+    "posted": "July 31, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10488871/software-development-engineer-aws-catalog",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-31T00:51:16.122125+00:00",
+    "emailed_utc": "2026-07-31T00:51:16.122125+00:00"
   }
 ]
