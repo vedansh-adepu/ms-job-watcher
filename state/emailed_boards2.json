@@ -36879,5 +36879,57 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-31T15:09:51.359386+00:00",
     "emailed_utc": "2026-07-31T15:09:51.359386+00:00"
+  },
+  {
+    "job_id": "greenhouse:optiverus:7962512002",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "optiverus",
+    "title": "AI Engineer",
+    "location": "Chicago, Illinois, United States; New York, New York",
+    "posted": "2026-07-31T10:58:02-04:00",
+    "url": "https://www.optiver.com/join-us/jobs/7962512002/?gh_jid=7962512002",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-31T15:32:02.022902+00:00",
+    "emailed_utc": "2026-07-31T15:32:02.022902+00:00"
+  },
+  {
+    "job_id": "greenhouse:temporaltechnologies:5134414007",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "temporaltechnologies",
+    "title": "Software Engineer II, AI Foundations",
+    "location": "United States or Canada - Remote Opportunity",
+    "posted": "2026-07-31T10:54:25-04:00",
+    "url": "https://job-boards.greenhouse.io/temporaltechnologies/jobs/5134414007",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-31T15:32:02.022902+00:00",
+    "emailed_utc": "2026-07-31T15:32:02.022902+00:00"
+  },
+  {
+    "job_id": "greenhouse:nebius:4942682101",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "nebius",
+    "title": "Forward Deployment Engineering Manager ",
+    "location": "United States",
+    "posted": "2026-07-31T10:20:57-04:00",
+    "url": "https://careers.nebius.com/?gh_jid=4942682101",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-31T15:32:02.022902+00:00",
+    "emailed_utc": "2026-07-31T15:32:02.022902+00:00"
+  },
+  {
+    "job_id": "greenhouse:nexamp:8660665002",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "nexamp",
+    "title": "Senior Full Stack Software Developer",
+    "location": "Boston, MA",
+    "posted": "2026-07-31T10:13:46-04:00",
+    "url": "https://nexamp.com//careers?gh_jid=8660665002#Open%20Roles",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-07-31T15:32:02.022902+00:00",
+    "emailed_utc": "2026-07-31T15:32:02.022902+00:00"
   }
 ]
