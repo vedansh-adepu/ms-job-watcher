@@ -8786,5 +8786,18 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-31T04:01:27.578912+00:00",
     "emailed_utc": "2026-07-31T04:01:27.578912+00:00"
+  },
+  {
+    "job_id": "amazon:cd9fc7b8-fb7f-40db-be0a-fdc0a70b645e",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, Ads Core Services",
+    "location": "US, NY, New York",
+    "posted": "July 31, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10488930/software-development-engineer-ads-core-services",
+    "bucket": "yes",
+    "first_seen_utc": "2026-07-31T04:11:07.497276+00:00",
+    "emailed_utc": "2026-07-31T04:11:07.497276+00:00"
   }
 ]
