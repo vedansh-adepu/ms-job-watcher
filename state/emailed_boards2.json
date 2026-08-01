@@ -38179,5 +38179,44 @@
     "bucket": "yes",
     "first_seen_utc": "2026-08-01T00:32:31.765501+00:00",
     "emailed_utc": "2026-08-01T00:32:31.765501+00:00"
+  },
+  {
+    "job_id": "greenhouse:a16z:7724142003",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "a16z",
+    "title": "DevX Software Engineer (Partner 16, Partner 18), ASG",
+    "location": "San Francisco, California, United States",
+    "posted": "2026-07-31T21:19:51-04:00",
+    "url": "https://a16z.com/about/jobs/?gh_jid=7724142003",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-01T01:31:37.107226+00:00",
+    "emailed_utc": "2026-08-01T01:31:37.107226+00:00"
+  },
+  {
+    "job_id": "greenhouse:asteralabs:4720575005",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "asteralabs",
+    "title": "Senior Principal Engineer, Security Architect (2026- 346)",
+    "location": "San Jose, California, United States",
+    "posted": "2026-07-31T19:38:24-04:00",
+    "url": "https://job-boards.greenhouse.io/asteralabs/jobs/4720575005",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-01T01:31:37.107226+00:00",
+    "emailed_utc": "2026-08-01T01:31:37.107226+00:00"
+  },
+  {
+    "job_id": "greenhouse:day1academies:8662869002",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "day1academies",
+    "title": "Director, Data Engineering & Analytics",
+    "location": "Seattle, Washington, United States",
+    "posted": "2026-07-31T19:37:25-04:00",
+    "url": "https://job-boards.greenhouse.io/day1academies/jobs/8662869002",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-01T01:31:37.107226+00:00",
+    "emailed_utc": "2026-08-01T01:31:37.107226+00:00"
   }
 ]
