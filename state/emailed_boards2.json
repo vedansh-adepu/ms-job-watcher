@@ -38127,5 +38127,44 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-31T23:32:00.033600+00:00",
     "emailed_utc": "2026-07-31T23:32:00.033600+00:00"
+  },
+  {
+    "job_id": "greenhouse:mobentertainment:5200040007",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "mobentertainment",
+    "title": "Contract-Gameplay Systems Engineer",
+    "location": "United States",
+    "posted": "2026-07-31T19:10:11-04:00",
+    "url": "https://job-boards.greenhouse.io/mobentertainment/jobs/5200040007",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-01T00:03:29.731311+00:00",
+    "emailed_utc": "2026-08-01T00:03:29.731311+00:00"
+  },
+  {
+    "job_id": "greenhouse:mochihealth:5377103008",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "mochihealth",
+    "title": "Senior React Native / Expo Engineer ",
+    "location": "San Francisco, CA",
+    "posted": "2026-07-31T19:45:45-04:00",
+    "url": "https://job-boards.greenhouse.io/mochihealth/jobs/5377103008",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-01T00:03:29.731311+00:00",
+    "emailed_utc": "2026-08-01T00:03:29.731311+00:00"
+  },
+  {
+    "job_id": "greenhouse:syndio:6132475004",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "syndio",
+    "title": "Senior Software Engineer, AI Platform (US  - Remote or Calgary)",
+    "location": "Calgary, Alberta, Canada; Remote Home Office - United States",
+    "posted": "2026-07-31T19:52:12-04:00",
+    "url": "https://synd.io/careers/?gh_jid=6132475004",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-01T00:03:29.731311+00:00",
+    "emailed_utc": "2026-08-01T00:03:29.731311+00:00"
   }
 ]
