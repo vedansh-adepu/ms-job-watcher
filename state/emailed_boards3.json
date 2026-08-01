@@ -173756,5 +173756,44 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-01T22:46:57.003390+00:00",
     "emailed_utc": "2026-08-01T22:46:57.003390+00:00"
+  },
+  {
+    "job_id": "workday:huntington:hnbcareers:req:R0074531",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Huntington",
+    "title": "Financial Relationship Banker - Dresden",
+    "location": "Dresden, TN",
+    "posted": "Posted Yesterday",
+    "url": "https://huntington.wd12.myworkdayjobs.com/en-US/hnbcareers/job/Dresden-TN/Financial-Relationship-Banker---Dredsen_R0074531",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-01T23:04:11.811328+00:00",
+    "emailed_utc": "2026-08-01T23:04:11.811328+00:00"
+  },
+  {
+    "job_id": "workday:hubinternational:hubinternational:req:R0037805",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Hubinternational",
+    "title": "Data Engineer",
+    "location": "Chicago, IL",
+    "posted": "Posted 3 Days Ago",
+    "url": "https://hubinternational.wd1.myworkdayjobs.com/en-US/hubinternational/job/Chicago-IL/Data-Engineer_R0037805",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-01T23:04:11.811328+00:00",
+    "emailed_utc": "2026-08-01T23:04:11.811328+00:00"
+  },
+  {
+    "job_id": "workday:hubinternational:hubinternational:req:R0037828",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Hubinternational",
+    "title": "Senior End Point Engineer",
+    "location": "Chicago, IL",
+    "posted": "Posted 3 Days Ago",
+    "url": "https://hubinternational.wd1.myworkdayjobs.com/en-US/hubinternational/job/Chicago-IL/Senior-End-Point-Engineer_R0037828",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-01T23:04:11.811328+00:00",
+    "emailed_utc": "2026-08-01T23:04:11.811328+00:00"
   }
 ]
