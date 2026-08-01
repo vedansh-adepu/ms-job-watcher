@@ -79324,5 +79324,57 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-01T01:02:58.880383+00:00",
     "emailed_utc": "2026-08-01T01:02:58.880383+00:00"
+  },
+  {
+    "job_id": "greenhouse:epicgames:6122979004",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Epic Games",
+    "title": "Senior Backend Engineer",
+    "location": "Bellevue,Washington,United States",
+    "posted": "2026-07-31T20:25:08-04:00",
+    "url": "https://epicgames.com/careers/jobs/6122979004?gh_jid=6122979004",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-01T01:33:01.300467+00:00",
+    "emailed_utc": "2026-08-01T01:33:01.300467+00:00"
+  },
+  {
+    "job_id": "greenhouse:fivetran:7822951003",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Fivetran",
+    "title": "Senior Business Value Engineer",
+    "location": "Remote, Washington, United States, AMER",
+    "posted": "2026-07-31T19:15:13-04:00",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=7822951003",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-01T01:33:01.300467+00:00",
+    "emailed_utc": "2026-08-01T01:33:01.300467+00:00"
+  },
+  {
+    "job_id": "workday:gdit:External_Career_Site:req:RQ225500",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "General Dynamics Information Technology (GDIT)",
+    "title": "Platform Engineering Lead",
+    "location": "USA VA Arlington",
+    "posted": "Posted Today",
+    "url": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-Arlington/Platform-Engineering-Lead_RQ225500-1",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-01T01:33:01.300467+00:00",
+    "emailed_utc": "2026-08-01T01:33:01.300467+00:00"
+  },
+  {
+    "job_id": "workday:intel:External:req:JR0286043",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Intel",
+    "title": "SW engineer - Silicon CAD tool development",
+    "location": "US, California, Santa Clara",
+    "posted": "Posted Today",
+    "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Santa-Clara/SW-engineer---Silicon-CAD-tool-development_JR0286043",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-01T01:33:01.300467+00:00",
+    "emailed_utc": "2026-08-01T01:33:01.300467+00:00"
   }
 ]
