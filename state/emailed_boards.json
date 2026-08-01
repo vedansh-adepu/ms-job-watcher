@@ -79272,5 +79272,57 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-01T00:31:12.591463+00:00",
     "emailed_utc": "2026-08-01T00:31:12.591463+00:00"
+  },
+  {
+    "job_id": "greenhouse:andurilindustries:5190519007",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "andurilindustries",
+    "title": "Senior Materials Engineer, Composites",
+    "location": "Costa Mesa, California, United States",
+    "posted": "2026-07-31T20:40:14-04:00",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5190519007?gh_jid=5190519007",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-01T01:02:58.880383+00:00",
+    "emailed_utc": "2026-08-01T01:02:58.880383+00:00"
+  },
+  {
+    "job_id": "greenhouse:andurilindustries:5200549007",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "andurilindustries",
+    "title": "Staff Metrology Engineer",
+    "location": "Ashville, Ohio, United States",
+    "posted": "2026-07-31T20:00:37-04:00",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5200549007?gh_jid=5200549007",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-01T01:02:58.880383+00:00",
+    "emailed_utc": "2026-08-01T01:02:58.880383+00:00"
+  },
+  {
+    "job_id": "workday:abbott:abbottcareers:req:31157627",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Abbott",
+    "title": "Manager Manufacturing Process Engineering",
+    "location": "United States > Pleasanton : 6101 Stoneridge Dr",
+    "posted": "Posted Today",
+    "url": "https://abbott.wd5.myworkdayjobs.com/en-US/abbottcareers/job/United-States--Pleasanton--6101-Stoneridge-Dr/Manager-Manufacturing-Process-Engineering_31157627-1",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-01T01:02:58.880383+00:00",
+    "emailed_utc": "2026-08-01T01:02:58.880383+00:00"
+  },
+  {
+    "job_id": "workday:bah:BAH_Jobs:req:R0245960",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Booz Allen Hamilton",
+    "title": "Systems Engineer",
+    "location": "Beavercreek, OH",
+    "posted": "Posted Today",
+    "url": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Beavercreek-OH/Systems-Engineer_R0245960",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-01T01:02:58.880383+00:00",
+    "emailed_utc": "2026-08-01T01:02:58.880383+00:00"
   }
 ]
