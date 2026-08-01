@@ -79246,5 +79246,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-07-31T23:32:46.882529+00:00",
     "emailed_utc": "2026-07-31T23:32:46.882529+00:00"
+  },
+  {
+    "job_id": "greenhouse:parallel:5201100007",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Parallel",
+    "title": "Embedded Software Engineer, Perception (All Levels)",
+    "location": "Los Angeles, CA",
+    "posted": "2026-07-31T20:30:04-04:00",
+    "url": "https://boards.greenhouse.io/parallel/jobs/5201100007?gh_jid=5201100007",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-01T00:31:12.591463+00:00",
+    "emailed_utc": "2026-08-01T00:31:12.591463+00:00"
+  },
+  {
+    "job_id": "greenhouse:instawork:4701739006",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Instawork",
+    "title": "Webflow Developer",
+    "location": "Remote, United States",
+    "posted": "2026-07-31T19:38:01-04:00",
+    "url": "https://job-boards.greenhouse.io/instawork/jobs/4701739006",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-01T00:31:12.591463+00:00",
+    "emailed_utc": "2026-08-01T00:31:12.591463+00:00"
   }
 ]
