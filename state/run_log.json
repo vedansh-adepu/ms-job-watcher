@@ -42348,13 +42348,42 @@
     "cursor": null
   },
   {
-    "ts": "2026-08-01T08:31Z",
+    "ts": "2026-08-01T08:32Z",
     "mode": "boards",
     "per_source": {
+      "greenhouse": {
+        "fetched": 1922,
+        "title_ok": 622,
+        "loc_ok": 303,
+        "new": 0,
+        "emailed": 0
+      },
       "lever": {
-        "fetched": 9506,
-        "title_ok": 730,
-        "loc_ok": 172,
+        "fetched": 568,
+        "title_ok": 239,
+        "loc_ok": 179,
+        "new": 0,
+        "emailed": 0
+      },
+      "smartrecruiters": {
+        "fetched": 190,
+        "title_ok": 49,
+        "loc_ok": 45,
+        "new": 0,
+        "emailed": 0
+      },
+      "ashby": {
+        "fetched": 4772,
+        "title_ok": 1726,
+        "loc_ok": 408,
+        "new": 0,
+        "emailed": 0,
+        "errors": 1
+      },
+      "workday": {
+        "fetched": 2500,
+        "title_ok": 622,
+        "loc_ok": 151,
         "new": 0,
         "emailed": 0
       }
