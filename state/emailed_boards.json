@@ -79415,5 +79415,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-01T02:33:00.776361+00:00",
     "emailed_utc": "2026-08-01T02:33:00.776361+00:00"
+  },
+  {
+    "job_id": "lever:field-ai:e3b7bac7-5410-44bb-964c-02815fbd0c97",
+    "pipeline": "boards",
+    "platform": "lever",
+    "company": "Field Ai",
+    "title": "Software Engineer, Data Engineering",
+    "location": "Irvine, CA",
+    "posted": "2026-08-01 01:03 UTC",
+    "url": "https://jobs.lever.co/field-ai/e3b7bac7-5410-44bb-964c-02815fbd0c97",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-01T03:31:03.723114+00:00",
+    "emailed_utc": "2026-08-01T03:31:03.723114+00:00"
+  },
+  {
+    "job_id": "lever:field-ai:b6a02c7e-8726-47b7-b0b0-899644613c47",
+    "pipeline": "boards",
+    "platform": "lever",
+    "company": "Field Ai",
+    "title": "Software Engineer, DevOps",
+    "location": "Irvine, CA",
+    "posted": "2026-08-01 00:42 UTC",
+    "url": "https://jobs.lever.co/field-ai/b6a02c7e-8726-47b7-b0b0-899644613c47",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-01T03:31:03.723114+00:00",
+    "emailed_utc": "2026-08-01T03:31:03.723114+00:00"
   }
 ]
