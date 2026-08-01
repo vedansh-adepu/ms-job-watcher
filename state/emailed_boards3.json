@@ -164487,5 +164487,83 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-01T16:03:43.260388+00:00",
     "emailed_utc": "2026-08-01T16:03:43.260388+00:00"
+  },
+  {
+    "job_id": "workday:gevernova:only_confidential_executive_recruiting:req:R5040945",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Gevernova",
+    "title": "Lead Electrical Engineer",
+    "location": "Charleroi USA",
+    "posted": "Posted 4 Days Ago",
+    "url": "https://gevernova.wd5.myworkdayjobs.com/en-US/only_confidential_executive_recruiting/job/Charleroi-USA/Lead-Electrical-Module-Engineer_R5040945",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-01T16:38:55.305101+00:00",
+    "emailed_utc": "2026-08-01T16:38:55.305101+00:00"
+  },
+  {
+    "job_id": "workday:gevernova:only_confidential_executive_recruiting:req:R5045705",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Gevernova",
+    "title": "Lead Engineer - Simulation Assisted Engineering",
+    "location": "Wilmington NC USA",
+    "posted": "Posted 5 Days Ago",
+    "url": "https://gevernova.wd5.myworkdayjobs.com/en-US/only_confidential_executive_recruiting/job/Wilmington-NC-USA/Lead-Engineer---Simulation-Assisted-Engineering_R5045705",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-01T16:38:55.305101+00:00",
+    "emailed_utc": "2026-08-01T16:38:55.305101+00:00"
+  },
+  {
+    "job_id": "workday:gevernova:vernova_externalsite:req:R5040945",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Gevernova",
+    "title": "Lead Electrical Engineer",
+    "location": "Charleroi USA",
+    "posted": "Posted 4 Days Ago",
+    "url": "https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Charleroi-USA/Lead-Electrical-Module-Engineer_R5040945-1",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-01T16:38:55.305101+00:00",
+    "emailed_utc": "2026-08-01T16:38:55.305101+00:00"
+  },
+  {
+    "job_id": "workday:genpt:careers:req:0000024987",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Genpt",
+    "title": "Principal Engineer - Store Systems",
+    "location": "USA GPC Windy Hill",
+    "posted": "Posted Yesterday",
+    "url": "https://genpt.wd1.myworkdayjobs.com/en-US/careers/job/USA-GPC-Windy-Hill/Principal-Engineer---Store-Systems_R26_0000024987",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-01T16:38:55.305101+00:00",
+    "emailed_utc": "2026-08-01T16:38:55.305101+00:00"
+  },
+  {
+    "job_id": "workday:genpt:careers:req:0000024816",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Genpt",
+    "title": "Engineer II",
+    "location": "Salisbury, NC, USA",
+    "posted": "Posted Yesterday",
+    "url": "https://genpt.wd1.myworkdayjobs.com/en-US/careers/job/Salisbury-NC-USA/Engineer-II_R26_0000024816",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-01T16:38:55.305101+00:00",
+    "emailed_utc": "2026-08-01T16:38:55.305101+00:00"
+  },
+  {
+    "job_id": "workday:genpt:careers:req:0000023430",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Genpt",
+    "title": "Activation Engineer, Supply Chain",
+    "location": "Atlanta, GA, USA",
+    "posted": "Posted 3 Days Ago",
+    "url": "https://genpt.wd1.myworkdayjobs.com/en-US/careers/job/Atlanta-GA-USA/Activation-Engineer--Supply-Chain_R26_0000023430",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-01T16:38:55.305101+00:00",
+    "emailed_utc": "2026-08-01T16:38:55.305101+00:00"
   }
 ]
