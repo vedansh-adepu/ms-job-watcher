@@ -159417,5 +159417,18 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-01T10:02:44.816558+00:00",
     "emailed_utc": "2026-08-01T10:02:44.816558+00:00"
+  },
+  {
+    "job_id": "workday:farmerfocus:farmerfocus:req:JR1657",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Farmerfocus",
+    "title": "IT Data Analyst",
+    "location": "Harrisonburg, VA",
+    "posted": "Posted 4 Days Ago",
+    "url": "https://farmerfocus.wd5.myworkdayjobs.com/en-US/farmerfocus/job/Harrisonburg-VA/IT-Data-Analyst_JR1657",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-01T10:33:36.070661+00:00",
+    "emailed_utc": "2026-08-01T10:33:36.070661+00:00"
   }
 ]
