@@ -42209,15 +42209,15 @@
     "cursor": 6000
   },
   {
-    "ts": "2026-08-01T20:01Z",
+    "ts": "2026-08-01T20:02Z",
     "mode": "boards",
     "per_source": {
-      "lever": {
-        "fetched": 9504,
-        "title_ok": 730,
-        "loc_ok": 172,
-        "new": 0,
-        "emailed": 0
+      "workday": {
+        "fetched": 5297,
+        "title_ok": 1150,
+        "loc_ok": 240,
+        "new": 13,
+        "emailed": 35
       }
     },
     "duration_s": 9.5,
