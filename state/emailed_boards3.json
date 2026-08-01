@@ -169232,5 +169232,18 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-01T17:34:27.103430+00:00",
     "emailed_utc": "2026-08-01T17:34:27.103430+00:00"
+  },
+  {
+    "job_id": "workday:graco:graco_careers:req:R0023080",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Graco",
+    "title": "Associate Engineering Technician",
+    "location": "Rogers, Minnesota, USA (David Koch Center)",
+    "posted": "Posted 5 Days Ago",
+    "url": "https://graco.wd501.myworkdayjobs.com/en-US/graco_careers/job/Rogers-Minnesota-USA-David-Koch-Center/Associate-Engineering-Technician_R0023080",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-01T18:05:38.280383+00:00",
+    "emailed_utc": "2026-08-01T18:05:38.280383+00:00"
   }
 ]
