@@ -79441,5 +79441,57 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-01T03:31:03.723114+00:00",
     "emailed_utc": "2026-08-01T03:31:03.723114+00:00"
+  },
+  {
+    "job_id": "workday:gdit:External_Career_Site:req:RQ225306",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "General Dynamics Information Technology (GDIT)",
+    "title": "Data Analyst",
+    "location": "USA MD West Bethesda",
+    "posted": "Posted Today",
+    "url": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-MD-West-Bethesda/Data-Analyst_RQ225306-2",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-01T04:02:58.743419+00:00",
+    "emailed_utc": "2026-08-01T04:02:58.743419+00:00"
+  },
+  {
+    "job_id": "workday:gdit:External_Career_Site:req:RQ225316",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "General Dynamics Information Technology (GDIT)",
+    "title": "Mission Coordinator, Scheduler, and Data Analyst",
+    "location": "USA CA Beale AFB",
+    "posted": "Posted Today",
+    "url": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-CA-Beale-AFB/Mission-Coordinator--Scheduler--and-Data-Analyst_RQ225316-1",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-01T04:02:58.743419+00:00",
+    "emailed_utc": "2026-08-01T04:02:58.743419+00:00"
+  },
+  {
+    "job_id": "workday:gdit:External_Career_Site:req:RQ225319",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "General Dynamics Information Technology (GDIT)",
+    "title": "Mission Coordinator, Scheduler, and Data Analyst",
+    "location": "USA CA Beale AFB",
+    "posted": "Posted Today",
+    "url": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-CA-Beale-AFB/Mission-Coordinator--Scheduler--and-Data-Analyst_RQ225319-1",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-01T04:02:58.743419+00:00",
+    "emailed_utc": "2026-08-01T04:02:58.743419+00:00"
+  },
+  {
+    "job_id": "workday:gdit:External_Career_Site:req:RQ225235",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "General Dynamics Information Technology (GDIT)",
+    "title": "Aircraft Survivability Equipment (ASE) Engineer",
+    "location": "USA WA Joint Base Lewis-McChord",
+    "posted": "Posted Today",
+    "url": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-WA-Joint-Base-Lewis-McChord/Aircraft-Survivability-Equipment--ASE--Engineer_RQ225235-1",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-01T04:02:58.743419+00:00",
+    "emailed_utc": "2026-08-01T04:02:58.743419+00:00"
   }
 ]
