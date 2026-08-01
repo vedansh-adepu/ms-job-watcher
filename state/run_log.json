@@ -42333,44 +42333,15 @@
     "cursor": null
   },
   {
-    "ts": "2026-08-01T08:32Z",
+    "ts": "2026-08-01T08:40Z",
     "mode": "boards",
     "per_source": {
-      "greenhouse": {
-        "fetched": 1922,
-        "title_ok": 622,
-        "loc_ok": 303,
-        "new": 0,
-        "emailed": 0
-      },
-      "lever": {
-        "fetched": 568,
-        "title_ok": 239,
-        "loc_ok": 179,
-        "new": 0,
-        "emailed": 0
-      },
-      "smartrecruiters": {
-        "fetched": 190,
-        "title_ok": 49,
-        "loc_ok": 45,
-        "new": 0,
-        "emailed": 0
-      },
-      "ashby": {
-        "fetched": 4772,
-        "title_ok": 1726,
-        "loc_ok": 408,
-        "new": 0,
-        "emailed": 0,
-        "errors": 1
-      },
       "workday": {
-        "fetched": 2500,
-        "title_ok": 622,
-        "loc_ok": 151,
-        "new": 0,
-        "emailed": 0
+        "fetched": 7606,
+        "title_ok": 194,
+        "loc_ok": 39,
+        "new": 1,
+        "emailed": 1
       }
     },
     "duration_s": 19.7,
