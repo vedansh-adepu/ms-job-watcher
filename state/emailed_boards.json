@@ -79545,5 +79545,44 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-01T13:02:13.438066+00:00",
     "emailed_utc": "2026-08-01T13:02:13.438066+00:00"
+  },
+  {
+    "job_id": "greenhouse:lgelectronics:5377041008",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Lgelectronics",
+    "title": "Power Electronics Senior Application Engineer",
+    "location": "Troy, MI",
+    "posted": "2026-08-01T08:48:07-04:00",
+    "url": "https://job-boards.greenhouse.io/lgelectronics/jobs/5377041008",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-01T14:01:16.481080+00:00",
+    "emailed_utc": "2026-08-01T14:01:16.481080+00:00"
+  },
+  {
+    "job_id": "greenhouse:lgelectronics:5377033008",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Lgelectronics",
+    "title": "Quality Electrical Engineer",
+    "location": "Troy, MI",
+    "posted": "2026-08-01T08:50:30-04:00",
+    "url": "https://job-boards.greenhouse.io/lgelectronics/jobs/5377033008",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-01T14:01:16.481080+00:00",
+    "emailed_utc": "2026-08-01T14:01:16.481080+00:00"
+  },
+  {
+    "job_id": "greenhouse:lgelectronics:5377047008",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Lgelectronics",
+    "title": "Quality NVH Engineer- Electric Motors",
+    "location": "Troy, MI",
+    "posted": "2026-08-01T08:49:57-04:00",
+    "url": "https://job-boards.greenhouse.io/lgelectronics/jobs/5377047008",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-01T14:01:16.481080+00:00",
+    "emailed_utc": "2026-08-01T14:01:16.481080+00:00"
   }
 ]
