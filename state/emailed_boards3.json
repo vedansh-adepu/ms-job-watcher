@@ -188316,5 +188316,70 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-02T09:35:30.167890+00:00",
     "emailed_utc": "2026-08-02T09:35:30.167890+00:00"
+  },
+  {
+    "job_id": "workday:americanredcross:american_red_cross_careers:req:RC90083",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Americanredcross",
+    "title": "Lead Data Engineer",
+    "location": "Statewide, NC",
+    "posted": "Posted 6 Days Ago",
+    "url": "https://americanredcross.wd1.myworkdayjobs.com/en-US/american_red_cross_careers/job/Statewide-NC/Lead-Data-Engineer_RC90083",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-02T10:02:30.379122+00:00",
+    "emailed_utc": "2026-08-02T10:02:30.379122+00:00"
+  },
+  {
+    "job_id": "workday:amgen:careers:req:R-251340",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Amgen",
+    "title": "Senior Manufacturing Systems Engineer - DeltaV/PLC",
+    "location": "US - California - Thousand Oaks",
+    "posted": "Posted 2 Days Ago",
+    "url": "https://amgen.wd1.myworkdayjobs.com/en-US/careers/job/US---California---Thousand-Oaks/Senior-Manufacturing-Systems-Engineer---DeltaV-PLC_R-251340",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-02T10:02:30.379122+00:00",
+    "emailed_utc": "2026-08-02T10:02:30.379122+00:00"
+  },
+  {
+    "job_id": "workday:amgen:careers:req:R-251177",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Amgen",
+    "title": "Senior Engineer System Owner Compliance",
+    "location": "US - North Carolina - Holly Springs",
+    "posted": "Posted 2 Days Ago",
+    "url": "https://amgen.wd1.myworkdayjobs.com/en-US/careers/job/US---North-Carolina---Holly-Springs/Senior-Engineer-System-Owner-Compliance_R-251177",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-02T10:02:30.379122+00:00",
+    "emailed_utc": "2026-08-02T10:02:30.379122+00:00"
+  },
+  {
+    "job_id": "workday:amgen:careers:req:R-250596",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Amgen",
+    "title": "Engineer System Owner - Packaging",
+    "location": "US - Puerto Rico - Juncos",
+    "posted": "Posted 5 Days Ago",
+    "url": "https://amgen.wd1.myworkdayjobs.com/en-US/careers/job/US---Puerto-Rico---Juncos/Engineer-System-Owner---Packaging_R-250596",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-02T10:02:30.379122+00:00",
+    "emailed_utc": "2026-08-02T10:02:30.379122+00:00"
+  },
+  {
+    "job_id": "workday:amgen:careers:req:R-236403",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Amgen",
+    "title": "Global Pricing Analytics Lead",
+    "location": "US - California - Los Angeles",
+    "posted": "Posted 6 Days Ago",
+    "url": "https://amgen.wd1.myworkdayjobs.com/en-US/careers/job/US---California---Los-Angeles/Global-Pricing-Analytics-Lead_R-236403",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-02T10:02:30.379122+00:00",
+    "emailed_utc": "2026-08-02T10:02:30.379122+00:00"
   }
 ]
