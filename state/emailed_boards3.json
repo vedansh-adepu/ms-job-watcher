@@ -205541,5 +205541,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-02T17:33:02.389293+00:00",
     "emailed_utc": "2026-08-02T17:33:02.389293+00:00"
+  },
+  {
+    "job_id": "workday:bristolmyerssquibb:bms:req:R1604806",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Bristolmyerssquibb",
+    "title": "Engineer, Analytical AI Engineering",
+    "location": "Princeton - NJ - US",
+    "posted": "Posted 3 Days Ago",
+    "url": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/en-US/bms/job/Princeton---NJ---US/Engineer--Analytical-AI-Engineering_R1604806-1",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-02T18:36:45.834250+00:00",
+    "emailed_utc": "2026-08-02T18:36:45.834250+00:00"
+  },
+  {
+    "job_id": "workday:bristolmyerssquibb:bms:req:R1602782",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Bristolmyerssquibb",
+    "title": "Associate Director, Analytical Engineering",
+    "location": "Princeton - NJ - US",
+    "posted": "Posted 3 Days Ago",
+    "url": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/en-US/bms/job/Princeton---NJ---US/Associate-Director--Analytical-Engineering_R1602782-1",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-02T18:36:45.834250+00:00",
+    "emailed_utc": "2026-08-02T18:36:45.834250+00:00"
   }
 ]
