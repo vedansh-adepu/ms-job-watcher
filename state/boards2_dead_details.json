@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-08-02T05:31:47.669740+00:00",
+  "updated_utc": "2026-08-02T06:01:31.553284+00:00",
   "dead_details": {
     "lever:livechatinc": {
       "first_seen_utc": "2026-07-01T19:31:29.430568+00:00",
@@ -1048,6 +1048,15 @@
     "greenhouse:reach": {
       "first_seen_utc": "2026-08-01T07:31:19.609098+00:00",
       "last_seen_utc": "2026-08-01T07:31:19.609098+00:00",
+      "platform": "greenhouse",
+      "company": "",
+      "board_url": "",
+      "last_status": 404,
+      "last_error": "HTTP 404/410 (board not found)"
+    },
+    "greenhouse:shyftsolutionsllc": {
+      "first_seen_utc": "2026-08-02T06:01:24.494583+00:00",
+      "last_seen_utc": "2026-08-02T06:01:24.494583+00:00",
       "platform": "greenhouse",
       "company": "",
       "board_url": "",
