@@ -42118,15 +42118,15 @@
     "cursor": 0
   },
   {
-    "ts": "2026-08-02T09:01Z",
+    "ts": "2026-08-02T09:03Z",
     "mode": "boards",
     "per_source": {
-      "greenhouse": {
-        "fetched": 56409,
-        "title_ok": 8932,
-        "loc_ok": 3547,
-        "new": 0,
-        "emailed": 0
+      "workday": {
+        "fetched": 9737,
+        "title_ok": 120,
+        "loc_ok": 27,
+        "new": 1,
+        "emailed": 1
       }
     },
     "duration_s": 13.7,
