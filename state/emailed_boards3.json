@@ -185586,5 +185586,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-02T06:04:14.178281+00:00",
     "emailed_utc": "2026-08-02T06:04:14.178281+00:00"
+  },
+  {
+    "job_id": "workday:airliquidehr:airliquideexternalcareer:req:R10096607",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Airliquidehr",
+    "title": "Customer Site Controls Engineer",
+    "location": "Hillsboro, OR (Office)",
+    "posted": "Posted 3 Days Ago",
+    "url": "https://airliquidehr.wd3.myworkdayjobs.com/en-US/airliquideexternalcareer/job/Hillsboro-OR-Office/Customer-Site-Controls-Engineer_R10096607-1",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-02T06:33:56.929563+00:00",
+    "emailed_utc": "2026-08-02T06:33:56.929563+00:00"
+  },
+  {
+    "job_id": "workday:airliquidehr:airliquideexternalcareer:req:R10096919",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Airliquidehr",
+    "title": "Field Service Engineer - Semiconductor Gas Systems",
+    "location": "Dallas, TX - LBJ Office - Sales",
+    "posted": "Posted 4 Days Ago",
+    "url": "https://airliquidehr.wd3.myworkdayjobs.com/en-US/airliquideexternalcareer/job/Dallas-TX---LBJ-Office---Sales/Field-Service-Engineer---Semiconductor-Gas-Systems_R10096919",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-02T06:33:56.929563+00:00",
+    "emailed_utc": "2026-08-02T06:33:56.929563+00:00"
   }
 ]
