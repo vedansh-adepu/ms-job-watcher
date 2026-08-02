@@ -79623,5 +79623,57 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-02T04:02:34.614869+00:00",
     "emailed_utc": "2026-08-02T04:02:34.614869+00:00"
+  },
+  {
+    "job_id": "workday:gdit:External_Career_Site:req:RQ225355",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "General Dynamics Information Technology (GDIT)",
+    "title": "IT Services Sustainment Engineer",
+    "location": "USA VA Virginia Beach",
+    "posted": "Posted Today",
+    "url": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-Virginia-Beach/IT-Services-Sustainment-Engineer_RQ225355-1",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-02T04:32:55.525407+00:00",
+    "emailed_utc": "2026-08-02T04:32:55.525407+00:00"
+  },
+  {
+    "job_id": "workday:gdit:External_Career_Site:req:RQ225428",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "General Dynamics Information Technology (GDIT)",
+    "title": "Junior DS Engineer",
+    "location": "USA HI Hickam AFB",
+    "posted": "Posted Today",
+    "url": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-HI-Hickam-AFB/Junior-DS-Engineer_RQ225428-1",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-02T04:32:55.525407+00:00",
+    "emailed_utc": "2026-08-02T04:32:55.525407+00:00"
+  },
+  {
+    "job_id": "workday:gdit:External_Career_Site:req:RQ225337",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "General Dynamics Information Technology (GDIT)",
+    "title": "Network Engineer  - TS/SCI w/ Poly",
+    "location": "USA VA Herndon",
+    "posted": "Posted Today",
+    "url": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-Herndon/Network-Engineer----TS-SCI-w--Poly_RQ225337-1",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-02T04:32:55.525407+00:00",
+    "emailed_utc": "2026-08-02T04:32:55.525407+00:00"
+  },
+  {
+    "job_id": "workday:gdit:External_Career_Site:req:RQ225378",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "General Dynamics Information Technology (GDIT)",
+    "title": "Onsite Wireless Installation Engineer",
+    "location": "USA HI Hickam AFB",
+    "posted": "Posted Today",
+    "url": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-HI-Hickam-AFB/Onsite-Wireless-Installation-Engineer_RQ225378-1",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-02T04:32:55.525407+00:00",
+    "emailed_utc": "2026-08-02T04:32:55.525407+00:00"
   }
 ]
