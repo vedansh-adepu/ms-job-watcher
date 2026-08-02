@@ -180542,5 +180542,44 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-02T02:33:30.126499+00:00",
     "emailed_utc": "2026-08-02T02:33:30.126499+00:00"
+  },
+  {
+    "job_id": "workday:2020companies:external_careers:req:109133",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "2020Companies",
+    "title": "Microsoft Fabric Sr. Data Engineer",
+    "location": "Southlake, TX",
+    "posted": "Posted Yesterday",
+    "url": "https://2020companies.wd1.myworkdayjobs.com/en-US/external_careers/job/Southlake-TX/Microsoft-Fabric-Sr-Data-Engineer_REQ_109133",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-02T03:34:12.413412+00:00",
+    "emailed_utc": "2026-08-02T03:34:12.413412+00:00"
+  },
+  {
+    "job_id": "workday:2020companies:external_careers:req:109134",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "2020Companies",
+    "title": "Chromebook Retail Insights & Analytics Manager",
+    "location": "Austin, TX",
+    "posted": "Posted 4 Days Ago",
+    "url": "https://2020companies.wd1.myworkdayjobs.com/en-US/external_careers/job/Austin-TX/Chromebook-Retail-Insights---Analytics-Manager_REQ_109134",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-02T03:34:12.413412+00:00",
+    "emailed_utc": "2026-08-02T03:34:12.413412+00:00"
+  },
+  {
+    "job_id": "workday:aah:external:req:R255096",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Aah",
+    "title": "Stationary Engineer I",
+    "location": "Atrium Health Wake Forest Baptist - Medical Center Blvd, Winston Salem, NC",
+    "posted": "Posted Yesterday",
+    "url": "https://aah.wd5.myworkdayjobs.com/en-US/external/job/Atrium-Health-Wake-Forest-Baptist---Medical-Center-Blvd-Winston-Salem-NC/Stationary-Engineer-I_R255096",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-02T03:34:12.413412+00:00",
+    "emailed_utc": "2026-08-02T03:34:12.413412+00:00"
   }
 ]
