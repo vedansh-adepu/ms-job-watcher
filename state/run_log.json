@@ -42120,15 +42120,15 @@
     "cursor": 340
   },
   {
-    "ts": "2026-08-02T11:09Z",
+    "ts": "2026-08-02T11:10Z",
     "mode": "boards",
     "per_source": {
-      "greenhouse": {
-        "fetched": 56157,
-        "title_ok": 8609,
-        "loc_ok": 3475,
-        "new": 0,
-        "emailed": 0
+      "workday": {
+        "fetched": 8170,
+        "title_ok": 799,
+        "loc_ok": 375,
+        "new": 2,
+        "emailed": 2
       }
     },
     "duration_s": 119.0,
