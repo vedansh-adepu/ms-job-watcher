@@ -174354,5 +174354,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-02T00:06:24.423517+00:00",
     "emailed_utc": "2026-08-02T00:06:24.423517+00:00"
+  },
+  {
+    "job_id": "workday:iff:iff_careers:req:R20094",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Iff",
+    "title": "AI & Data Scientist",
+    "location": "Wilmington, DE, USA",
+    "posted": "Posted 2 Days Ago",
+    "url": "https://iff.wd5.myworkdayjobs.com/en-US/iff_careers/job/Wilmington-DE-USA/AI---Data-Scientist_R20094",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-02T00:34:24.180992+00:00",
+    "emailed_utc": "2026-08-02T00:34:24.180992+00:00"
+  },
+  {
+    "job_id": "workday:iff:iff_careers:req:R20315",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Iff",
+    "title": "Senior Bioprocess Scientist/Engineer",
+    "location": "Palo Alto, CA, USA",
+    "posted": "Posted 2 Days Ago",
+    "url": "https://iff.wd5.myworkdayjobs.com/en-US/iff_careers/job/Palo-Alto-CA-USA/Senior-Bioprocess-Scientist-Engineer_R20315",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-02T00:34:24.180992+00:00",
+    "emailed_utc": "2026-08-02T00:34:24.180992+00:00"
   }
 ]
