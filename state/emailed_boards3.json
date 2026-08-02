@@ -181023,5 +181023,70 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-02T04:12:33.999820+00:00",
     "emailed_utc": "2026-08-02T04:12:33.999820+00:00"
+  },
+  {
+    "job_id": "workday:ace:careers:req:JR202638227",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Ace",
+    "title": "ECM Platform Engineer",
+    "location": "Coppell, TX",
+    "posted": "Posted Yesterday",
+    "url": "https://ace.wd5.myworkdayjobs.com/en-US/careers/job/Coppell-TX/ECM-Platform-Engineer_JR202638227",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-02T04:24:25.225935+00:00",
+    "emailed_utc": "2026-08-02T04:24:25.225935+00:00"
+  },
+  {
+    "job_id": "workday:ace:careers:req:JR202634429",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Ace",
+    "title": "ECM Platform Engineer",
+    "location": "Coppell, TX",
+    "posted": "Posted 4 Days Ago",
+    "url": "https://ace.wd5.myworkdayjobs.com/en-US/careers/job/Coppell-TX/Sr-DevOps-Engineer_JR202634429",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-02T04:24:25.225935+00:00",
+    "emailed_utc": "2026-08-02T04:24:25.225935+00:00"
+  },
+  {
+    "job_id": "workday:ace:careers:req:JR202638216",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Ace",
+    "title": "Data Engineering & Operations Manager",
+    "location": "Costa Mesa, CA",
+    "posted": "Posted Yesterday",
+    "url": "https://ace.wd5.myworkdayjobs.com/en-US/careers/job/Costa-Mesa-CA/Data-Engineering---Operations-Manager_JR202638216",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-02T04:24:25.225935+00:00",
+    "emailed_utc": "2026-08-02T04:24:25.225935+00:00"
+  },
+  {
+    "job_id": "workday:ace:careers:req:JR202638118",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Ace",
+    "title": "Data Scientist Lead",
+    "location": "Costa Mesa, CA",
+    "posted": "Posted 4 Days Ago",
+    "url": "https://ace.wd5.myworkdayjobs.com/en-US/careers/job/Costa-Mesa-CA/Data-Scientist-Lead_JR202638118",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-02T04:24:25.225935+00:00",
+    "emailed_utc": "2026-08-02T04:24:25.225935+00:00"
+  },
+  {
+    "job_id": "workday:accelentertainment:accelentertainment_careers:req:R-101330",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Accelentertainment",
+    "title": "Jr. Systems Developer-Gaming Systems",
+    "location": "Las Vegas, NV",
+    "posted": "Posted Yesterday",
+    "url": "https://accelentertainment.wd12.myworkdayjobs.com/en-US/accelentertainment_careers/job/Las-Vegas-NV/Jr-Systems-Developer-Gaming-Systems_R-101330",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-02T04:24:25.225935+00:00",
+    "emailed_utc": "2026-08-02T04:24:25.225935+00:00"
   }
 ]
