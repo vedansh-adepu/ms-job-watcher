@@ -79597,5 +79597,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-01T16:02:31.147398+00:00",
     "emailed_utc": "2026-08-01T16:02:31.147398+00:00"
+  },
+  {
+    "job_id": "workday:capitalone:Capital_One:req:R248273",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Capital One",
+    "title": "Senior Data Analyst - Analytics & Transformation",
+    "location": "McLean, VA",
+    "posted": "Posted Today",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Senior-Data-Analyst---Analytics---Transformation_R248273-1",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-02T04:02:34.614869+00:00",
+    "emailed_utc": "2026-08-02T04:02:34.614869+00:00"
+  },
+  {
+    "job_id": "workday:capitalone:Capital_One:req:R248275",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Capital One",
+    "title": "Data Analysis Manager - Analytics & Transformation",
+    "location": "McLean, VA",
+    "posted": "Posted Today",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Data-Analysis-Manager---Analytics---Transformation_R248275-2",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-02T04:02:34.614869+00:00",
+    "emailed_utc": "2026-08-02T04:02:34.614869+00:00"
   }
 ]
