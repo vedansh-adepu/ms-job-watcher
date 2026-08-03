@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-08-03T16:32:53.108889+00:00",
+  "updated_utc": "2026-08-03T17:03:03.102454+00:00",
   "dead_details": {
     "greenhouse:auth0": {
       "first_seen_utc": "2026-02-16T03:03:47.356270+00:00",
@@ -8509,6 +8509,15 @@
     "greenhouse:coursera": {
       "first_seen_utc": "2026-07-31T14:33:07.442679+00:00",
       "last_seen_utc": "2026-07-31T14:33:07.442679+00:00",
+      "platform": "greenhouse",
+      "company": "",
+      "board_url": "",
+      "last_status": 404,
+      "last_error": "HTTP 404/410 (board not found)"
+    },
+    "greenhouse:tekion": {
+      "first_seen_utc": "2026-08-03T17:01:35.690950+00:00",
+      "last_seen_utc": "2026-08-03T17:01:35.690950+00:00",
       "platform": "greenhouse",
       "company": "",
       "board_url": "",
