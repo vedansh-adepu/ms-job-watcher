@@ -38478,5 +38478,83 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-03T12:32:06.551703+00:00",
     "emailed_utc": "2026-08-03T12:32:06.551703+00:00"
+  },
+  {
+    "job_id": "greenhouse:sesolabor:4720111005",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "sesolabor",
+    "title": "Software Engineer, AI/Agents ",
+    "location": "Remote US",
+    "posted": "2026-08-03T09:45:41-04:00",
+    "url": "https://job-boards.greenhouse.io/sesolabor/jobs/4720111005",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-03T14:02:14.653674+00:00",
+    "emailed_utc": "2026-08-03T14:02:14.653674+00:00"
+  },
+  {
+    "job_id": "greenhouse:lilasciences:4286513009",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "lilasciences",
+    "title": "Senior Engineer I/II, Drug Discovery Platform",
+    "location": "Cambridge, MA USA",
+    "posted": "2026-08-03T09:42:32-04:00",
+    "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4286513009",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-03T14:02:14.653674+00:00",
+    "emailed_utc": "2026-08-03T14:02:14.653674+00:00"
+  },
+  {
+    "job_id": "greenhouse:lilasciences:4340149009",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "lilasciences",
+    "title": "Staff  Research Engineer, Scientific Computing and ML/Physics Infrastructure",
+    "location": "Cambridge, MA USA; London, UK; San Francisco, CA USA",
+    "posted": "2026-08-03T09:42:38-04:00",
+    "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4340149009",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-03T14:02:14.653674+00:00",
+    "emailed_utc": "2026-08-03T14:02:14.653674+00:00"
+  },
+  {
+    "job_id": "greenhouse:metrostarsystems:7824007003",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "metrostarsystems",
+    "title": "Sr. PostgreSQL Database Engineer I (6719)",
+    "location": "Washington, DC",
+    "posted": "2026-08-03T08:01:22-04:00",
+    "url": "https://metrostar.com/job-post/?gh_jid=7824007003",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-03T14:02:14.653674+00:00",
+    "emailed_utc": "2026-08-03T14:02:14.653674+00:00"
+  },
+  {
+    "job_id": "greenhouse:placerlabs:7597819003",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "placerlabs",
+    "title": "Solutions Engineer",
+    "location": "United States, Remote",
+    "posted": "2026-08-03T10:00:22-04:00",
+    "url": "https://placer.ai/company/we-are-hiring/?gh_jid=7597819003",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-03T14:02:14.653674+00:00",
+    "emailed_utc": "2026-08-03T14:02:14.653674+00:00"
+  },
+  {
+    "job_id": "greenhouse:queracomputinginc:5377654008",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "queracomputinginc",
+    "title": "Laser Safety Engineer",
+    "location": "Boston, MA, USA",
+    "posted": "2026-08-03T09:08:59-04:00",
+    "url": "https://job-boards.greenhouse.io/queracomputinginc/jobs/5377654008",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-03T14:02:14.653674+00:00",
+    "emailed_utc": "2026-08-03T14:02:14.653674+00:00"
   }
 ]
