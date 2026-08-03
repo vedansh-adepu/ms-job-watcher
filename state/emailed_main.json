@@ -9631,5 +9631,31 @@
     "bucket": "yes",
     "first_seen_utc": "2026-08-03T18:51:18.065177+00:00",
     "emailed_utc": "2026-08-03T18:51:18.065177+00:00"
+  },
+  {
+    "job_id": "microsoft:1970393556952536",
+    "pipeline": "main",
+    "platform": "microsoft",
+    "company": "Microsoft",
+    "title": "Software Engineer 2 - CoreAI",
+    "location": "Redmond, WA, US",
+    "posted": "2026-08-03 18:46 UTC",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556952536",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-03T19:01:31.370242+00:00",
+    "emailed_utc": "2026-08-03T19:01:31.370242+00:00"
+  },
+  {
+    "job_id": "amazon:392f6944-cbbc-4ea0-a63d-98c844df3f46",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Systems Development Engineer, Amazon Core Search",
+    "location": "US, WA, Seattle",
+    "posted": "August  3, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10490811/systems-development-engineer-amazon-core-search",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-03T19:01:31.370242+00:00",
+    "emailed_utc": "2026-08-03T19:01:31.370242+00:00"
   }
 ]
