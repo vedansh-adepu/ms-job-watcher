@@ -39102,5 +39102,44 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-03T18:02:53.092539+00:00",
     "emailed_utc": "2026-08-03T18:02:53.092539+00:00"
+  },
+  {
+    "job_id": "lever:uvcyber:496fa1b1-00d0-4991-8bf3-5e68f2187c1e",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "uvcyber",
+    "title": "Senior Security Engineer - Crowdstrike",
+    "location": "National Harbor, MD",
+    "posted": "2026-08-03 17:57 UTC",
+    "url": "https://jobs.lever.co/uvcyber/496fa1b1-00d0-4991-8bf3-5e68f2187c1e",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-03T18:31:34.140658+00:00",
+    "emailed_utc": "2026-08-03T18:31:34.140658+00:00"
+  },
+  {
+    "job_id": "lever:venusaero:a9df21e0-c18c-46d5-8f62-d2c5f31c6011",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "venusaero",
+    "title": "Principal Avionics Engineer",
+    "location": "Houston, TX",
+    "posted": "2026-08-03 17:16 UTC",
+    "url": "https://jobs.lever.co/venusaero/a9df21e0-c18c-46d5-8f62-d2c5f31c6011",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-03T18:31:34.140658+00:00",
+    "emailed_utc": "2026-08-03T18:31:34.140658+00:00"
+  },
+  {
+    "job_id": "lever:venusaero:5a5e0a3b-f593-4317-822e-b7c7b448fd3f",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "venusaero",
+    "title": "Principal GNC Engineer",
+    "location": "Houston, TX",
+    "posted": "2026-08-03 17:24 UTC",
+    "url": "https://jobs.lever.co/venusaero/5a5e0a3b-f593-4317-822e-b7c7b448fd3f",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-03T18:31:34.140658+00:00",
+    "emailed_utc": "2026-08-03T18:31:34.140658+00:00"
   }
 ]
