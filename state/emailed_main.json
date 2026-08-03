@@ -9761,5 +9761,44 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-03T20:11:26.638201+00:00",
     "emailed_utc": "2026-08-03T20:11:26.638201+00:00"
+  },
+  {
+    "job_id": "amazon:1337845f-c599-4072-856b-b920b3965df4",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Applied Scientist, Alexa for Shopping (Rufus) Experience Science ",
+    "location": "US, CA, Palo Alto",
+    "posted": "August  3, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10490903/applied-scientist-alexa-for-shopping-rufus-experience-science",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-03T20:21:19.665201+00:00",
+    "emailed_utc": "2026-08-03T20:21:19.665201+00:00"
+  },
+  {
+    "job_id": "amazon:c99a4b83-50ac-4af7-bf60-a1890015fc07",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer - Release Engineering, Network Product Development",
+    "location": "US, CA, Cupertino",
+    "posted": "August  3, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10490909/software-development-engineer-release-engineering-network-product-development",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-03T20:21:19.665201+00:00",
+    "emailed_utc": "2026-08-03T20:21:19.665201+00:00"
+  },
+  {
+    "job_id": "amazon:7e83a28e-ee10-4e6d-aed8-40fdba890ad9",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Manager, AWS Core Networking",
+    "location": "US, WA, Seattle",
+    "posted": "August  3, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10490910/software-development-manager-aws-core-networking",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-03T20:21:19.665201+00:00",
+    "emailed_utc": "2026-08-03T20:21:19.665201+00:00"
   }
 ]
