@@ -9293,5 +9293,18 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-03T04:51:22.841445+00:00",
     "emailed_utc": "2026-08-03T04:51:22.841445+00:00"
+  },
+  {
+    "job_id": "amazon:f45ca0fc-f642-4354-a62f-66726d3a7bcc",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, Amazon Brand Store",
+    "location": "US, WA, Seattle",
+    "posted": "August  3, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10490378/software-development-engineer-amazon-brand-store",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-03T14:21:23.959091+00:00",
+    "emailed_utc": "2026-08-03T14:21:23.959091+00:00"
   }
 ]
