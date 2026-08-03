@@ -212600,5 +212600,57 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-03T00:34:01.592860+00:00",
     "emailed_utc": "2026-08-03T00:34:01.592860+00:00"
+  },
+  {
+    "job_id": "workday:clark:clarkexternal:req:R5022985",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Clark",
+    "title": "Project Engineer",
+    "location": "Kelso, WA; Seattle, WA",
+    "posted": "Posted 2 Days Ago",
+    "url": "https://clark.wd503.myworkdayjobs.com/en-US/clarkexternal/job/Kelso-WA/Project-Engineer_R5022985",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-03T01:01:44.357723+00:00",
+    "emailed_utc": "2026-08-03T01:01:44.357723+00:00"
+  },
+  {
+    "job_id": "workday:claytonhomes:claytoncareers:req:JR132926",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Claytonhomes",
+    "title": "Industrial Engineer (Continuous Improvement Specialist)",
+    "location": "Waco, TX",
+    "posted": "Posted 4 Days Ago",
+    "url": "https://claytonhomes.wd1.myworkdayjobs.com/en-US/claytoncareers/job/Waco-TX/Industrial-Engineer--Continuous-Improvement-Specialist-_JR132926",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-03T01:01:44.357723+00:00",
+    "emailed_utc": "2026-08-03T01:01:44.357723+00:00"
+  },
+  {
+    "job_id": "workday:clark:shirleyexternal:req:R5024123",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Clark",
+    "title": "Engineer (Civil Construction Management)",
+    "location": "Strasburg, VA; Fredericksburg, VA; Fairfax, VA; Chantilly, VA",
+    "posted": "Posted 6 Days Ago",
+    "url": "https://clark.wd503.myworkdayjobs.com/en-US/shirleyexternal/job/Chantilly-VA/Engineer--Civil-Construction-Management-_R5024123",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-03T01:01:44.357723+00:00",
+    "emailed_utc": "2026-08-03T01:01:44.357723+00:00"
+  },
+  {
+    "job_id": "workday:clark:shirleyexternal:req:R5024122",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Clark",
+    "title": "Engineer (Civil Construction)",
+    "location": "Richmond, VA; Hampton, VA; Louisa, VA; New Kent, VA; Chesterfield, VA",
+    "posted": "Posted 6 Days Ago",
+    "url": "https://clark.wd503.myworkdayjobs.com/en-US/shirleyexternal/job/Richmond-VA/Engineer--Civil-Construction-_R5024122",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-03T01:01:44.357723+00:00",
+    "emailed_utc": "2026-08-03T01:01:44.357723+00:00"
   }
 ]
