@@ -39050,5 +39050,57 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-03T17:31:54.706663+00:00",
     "emailed_utc": "2026-08-03T17:31:54.706663+00:00"
+  },
+  {
+    "job_id": "lever:lumafield:181866d7-ffa5-4e12-b25c-aa4f1fd0bb11",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "lumafield",
+    "title": "Applications Engineer",
+    "location": "Boston, MA",
+    "posted": "2026-08-03 17:12 UTC",
+    "url": "https://jobs.lever.co/lumafield/181866d7-ffa5-4e12-b25c-aa4f1fd0bb11",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-03T18:02:53.092539+00:00",
+    "emailed_utc": "2026-08-03T18:02:53.092539+00:00"
+  },
+  {
+    "job_id": "lever:coatesgroup:336f1f12-f6ed-4b63-9128-a125e4dd3ad0",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "coatesgroup",
+    "title": "Tech Lead, Data Engineering",
+    "location": "Chicago, IL",
+    "posted": "2026-08-03 17:48 UTC",
+    "url": "https://jobs.lever.co/coatesgroup/336f1f12-f6ed-4b63-9128-a125e4dd3ad0",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-03T18:02:53.092539+00:00",
+    "emailed_utc": "2026-08-03T18:02:53.092539+00:00"
+  },
+  {
+    "job_id": "lever:loftorbital:2377be51-dc32-4206-b7e3-9c66fb32c6e7",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "loftorbital",
+    "title": "Manufacturing Engineer",
+    "location": "Golden, CO",
+    "posted": "2026-08-03 16:56 UTC",
+    "url": "https://jobs.lever.co/loftorbital/2377be51-dc32-4206-b7e3-9c66fb32c6e7",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-03T18:02:53.092539+00:00",
+    "emailed_utc": "2026-08-03T18:02:53.092539+00:00"
+  },
+  {
+    "job_id": "lever:mainspringenergy:f8ef0996-6d98-4a5c-83e8-1bb1ab94e4d1",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "mainspringenergy",
+    "title": "Mechanical Engineer - Frame and Air Spring",
+    "location": "Menlo Park, CA",
+    "posted": "2026-07-27 15:47 UTC",
+    "url": "https://jobs.lever.co/mainspringenergy/f8ef0996-6d98-4a5c-83e8-1bb1ab94e4d1",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-03T18:02:53.092539+00:00",
+    "emailed_utc": "2026-08-03T18:02:53.092539+00:00"
   }
 ]
