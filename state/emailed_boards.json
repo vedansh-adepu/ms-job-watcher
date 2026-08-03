@@ -83081,5 +83081,44 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-03T22:02:51.693180+00:00",
     "emailed_utc": "2026-08-03T22:02:51.693180+00:00"
+  },
+  {
+    "job_id": "smartrecruiters:Versant3:744000141342889",
+    "pipeline": "boards",
+    "platform": "smartrecruiters",
+    "company": "Versant",
+    "title": "IT & Broadcast Engineer",
+    "location": "Orlando, Florida, us",
+    "posted": "2026-08-03T20:33:01.245Z",
+    "url": "https://jobs.smartrecruiters.com/Versant3",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-03T22:18:12.931272+00:00",
+    "emailed_utc": "2026-08-03T22:18:12.931272+00:00"
+  },
+  {
+    "job_id": "lever:zoox:4d58c75b-57a0-43f9-860c-2d4b146b299e",
+    "pipeline": "boards",
+    "platform": "lever",
+    "company": "zoox",
+    "title": "Senior/Staff Software Engineer - Embedded Linux Operating Systems",
+    "location": "Foster City, CA",
+    "posted": "2026-08-03 19:54 UTC",
+    "url": "https://jobs.lever.co/zoox/4d58c75b-57a0-43f9-860c-2d4b146b299e",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-03T22:18:12.931272+00:00",
+    "emailed_utc": "2026-08-03T22:18:12.931272+00:00"
+  },
+  {
+    "job_id": "ashby:close:bbd78474-bee4-4fdc-a670-9234457bcf29",
+    "pipeline": "boards",
+    "platform": "ashby",
+    "company": "Close",
+    "title": "Senior Frontend Engineer - Growth (USA Only - 100% Remote)",
+    "location": "USA - Remote",
+    "posted": "",
+    "url": "https://jobs.ashbyhq.com/close/bbd78474-bee4-4fdc-a670-9234457bcf29",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-03T22:18:12.931272+00:00",
+    "emailed_utc": "2026-08-03T22:18:12.931272+00:00"
   }
 ]
