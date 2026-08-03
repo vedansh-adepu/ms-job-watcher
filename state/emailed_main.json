@@ -9722,5 +9722,44 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-03T19:51:19.479249+00:00",
     "emailed_utc": "2026-08-03T19:51:19.479249+00:00"
+  },
+  {
+    "job_id": "amazon:11261be1-283a-4576-a15b-4beb4a33da25",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer III, Selection Economics Tech",
+    "location": "US, WA, Seattle",
+    "posted": "August  3, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10490900/software-development-engineer-iii-selection-economics-tech",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-03T20:11:26.638201+00:00",
+    "emailed_utc": "2026-08-03T20:11:26.638201+00:00"
+  },
+  {
+    "job_id": "amazon:c02244c4-eed9-452f-a88c-5d9f214c992c",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer",
+    "location": "US, WA, Seattle",
+    "posted": "August  3, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10490833/software-development-engineer",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-03T20:11:26.638201+00:00",
+    "emailed_utc": "2026-08-03T20:11:26.638201+00:00"
+  },
+  {
+    "job_id": "microsoft:1970393556945539",
+    "pipeline": "main",
+    "platform": "microsoft",
+    "company": "Microsoft",
+    "title": "Hardware Engineer",
+    "location": "Redmond, WA, US",
+    "posted": "2026-08-03 19:40 UTC",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556945539",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-03T20:11:26.638201+00:00",
+    "emailed_utc": "2026-08-03T20:11:26.638201+00:00"
   }
 ]
