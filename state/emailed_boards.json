@@ -79831,5 +79831,44 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-03T12:02:37.569165+00:00",
     "emailed_utc": "2026-08-03T12:02:37.569165+00:00"
+  },
+  {
+    "job_id": "lever:anomali:abc3d0c2-2f3a-44cf-b32f-e37b5907131f",
+    "pipeline": "boards",
+    "platform": "lever",
+    "company": "Anomali",
+    "title": "Senior Account Executive with SIEM / Security Analytics (US Remote - NY/NJ)",
+    "location": "New York, NY",
+    "posted": "2026-08-03 11:50 UTC",
+    "url": "https://jobs.lever.co/anomali/abc3d0c2-2f3a-44cf-b32f-e37b5907131f",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-03T13:03:23.348721+00:00",
+    "emailed_utc": "2026-08-03T13:03:23.348721+00:00"
+  },
+  {
+    "job_id": "workday:capitalone:Capital_One:req:R247812",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Capital One",
+    "title": "Senior Lead Software Engineer, Back End",
+    "location": "McLean, VA",
+    "posted": "Posted Today",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Senior-Lead-Software-Engineer--Back-End_R247812-1",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-03T13:03:23.348721+00:00",
+    "emailed_utc": "2026-08-03T13:03:23.348721+00:00"
+  },
+  {
+    "job_id": "workday:capitalone:Capital_One:req:R248118",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Capital One",
+    "title": "Senior Associate - Software Engineering (Fullstack)",
+    "location": "Bangalore, In",
+    "posted": "Posted Today",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Bangalore-In/Senior-Associate---Software-Engineering--Fullstack-_R248118-1",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-03T13:03:23.348721+00:00",
+    "emailed_utc": "2026-08-03T13:03:23.348721+00:00"
   }
 ]
