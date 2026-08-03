@@ -79688,5 +79688,18 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-02T15:02:58.825350+00:00",
     "emailed_utc": "2026-08-02T15:02:58.825350+00:00"
+  },
+  {
+    "job_id": "workday:gdit:External_Career_Site:req:RQ225441",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "General Dynamics Information Technology (GDIT)",
+    "title": "Network Engineer",
+    "location": "USA NC Fort Liberty",
+    "posted": "Posted Today",
+    "url": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-NC-Fort-Liberty/Network-Engineer_RQ225441-1",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-03T04:32:51.785554+00:00",
+    "emailed_utc": "2026-08-03T04:32:51.785554+00:00"
   }
 ]
