@@ -210949,5 +210949,44 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-02T23:33:37.087774+00:00",
     "emailed_utc": "2026-08-02T23:33:37.087774+00:00"
+  },
+  {
+    "job_id": "workday:cigna:cignacareers:req:26007761",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Cigna",
+    "title": "Software Engineering Advisor \u2013 Forward Deployed Engineer (FDE)",
+    "location": "Plano, TX",
+    "posted": "Posted 5 Days Ago",
+    "url": "https://cigna.wd5.myworkdayjobs.com/en-US/cignacareers/job/Plano-TX/Software-Engineering-Advisor---Forward-Deployed-Engineer--FDE-_26007761-1",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-03T00:10:41.608788+00:00",
+    "emailed_utc": "2026-08-03T00:10:41.608788+00:00"
+  },
+  {
+    "job_id": "workday:cigna:cignacareers:req:26007744",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Cigna",
+    "title": "Software Engineering Advisor \u2013 Forward Deployed Engineer (FDE)",
+    "location": "Louisville, KY",
+    "posted": "Posted 5 Days Ago",
+    "url": "https://cigna.wd5.myworkdayjobs.com/en-US/cignacareers/job/Louisville-KY/Software-Engineering-Advisor---Forward-Deployed-Engineer--FDE-_26007744-1",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-03T00:10:41.608788+00:00",
+    "emailed_utc": "2026-08-03T00:10:41.608788+00:00"
+  },
+  {
+    "job_id": "workday:cigna:cignacareers:req:26004640",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Cigna",
+    "title": "Software Engineering Director",
+    "location": "United States Work at Home",
+    "posted": "Posted 3 Days Ago",
+    "url": "https://cigna.wd5.myworkdayjobs.com/en-US/cignacareers/job/United-States-Work-at-Home/Software-Engineering-Director_26004640",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-03T00:10:41.608788+00:00",
+    "emailed_utc": "2026-08-03T00:10:41.608788+00:00"
   }
 ]
