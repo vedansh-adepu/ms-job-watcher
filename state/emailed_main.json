@@ -9397,5 +9397,57 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-03T16:21:19.870975+00:00",
     "emailed_utc": "2026-08-03T16:21:19.870975+00:00"
+  },
+  {
+    "job_id": "amazon:6af6a052-506d-4b6b-b51a-dea7410d0f13",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, Conversational Ads Experience",
+    "location": "US, NY, New York",
+    "posted": "August  3, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10490604/software-development-engineer-conversational-ads-experience",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-03T16:41:26.267340+00:00",
+    "emailed_utc": "2026-08-03T16:41:26.267340+00:00"
+  },
+  {
+    "job_id": "amazon:acf33316-d5a4-48ea-9912-8bcbd43d2492",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, Conversational Ads Experience",
+    "location": "US, WA, Seattle",
+    "posted": "August  3, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10490605/software-development-engineer-conversational-ads-experience",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-03T16:41:26.267340+00:00",
+    "emailed_utc": "2026-08-03T16:41:26.267340+00:00"
+  },
+  {
+    "job_id": "amazon:9da0554a-6c1f-4cc0-8ded-cc79694d3b32",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, Amazon Customer Service AI powered Content Solutions",
+    "location": "US, WA, Seattle",
+    "posted": "July 28, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10485867/software-development-engineer-amazon-customer-service-ai-powered-content-solutions",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-03T16:41:26.267340+00:00",
+    "emailed_utc": "2026-08-03T16:41:26.267340+00:00"
+  },
+  {
+    "job_id": "nvidia:893396845387",
+    "pipeline": "main",
+    "platform": "nvidia",
+    "company": "NVIDIA",
+    "title": "Senior Machine Learning Engineer",
+    "location": "US",
+    "posted": "2026-08-03 00:00 UTC",
+    "url": "https://nvidia.eightfold.ai/careers/job/893396845387",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-03T16:41:26.267340+00:00",
+    "emailed_utc": "2026-08-03T16:41:26.267340+00:00"
   }
 ]
