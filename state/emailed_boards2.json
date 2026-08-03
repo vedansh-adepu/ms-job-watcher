@@ -39570,5 +39570,83 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-03T21:01:57.836871+00:00",
     "emailed_utc": "2026-08-03T21:01:57.836871+00:00"
+  },
+  {
+    "job_id": "greenhouse:xai:5202187007",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "xai",
+    "title": "Software Engineer - Platform Core (C++, C)",
+    "location": "Palo Alto, California, United States; Seattle, Washington, United States",
+    "posted": "2026-08-03T16:27:25-04:00",
+    "url": "https://job-boards.greenhouse.io/xai/jobs/5202187007",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-03T21:32:19.979681+00:00",
+    "emailed_utc": "2026-08-03T21:32:19.979681+00:00"
+  },
+  {
+    "job_id": "lever:pattern:85786cfb-6f7b-4853-9aad-31b7c3241278",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "pattern",
+    "title": "Data Engineer",
+    "location": "Lehi, UT, US",
+    "posted": "2025-06-26 21:34 UTC",
+    "url": "https://jobs.lever.co/pattern/85786cfb-6f7b-4853-9aad-31b7c3241278",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-03T21:32:19.979681+00:00",
+    "emailed_utc": "2026-08-03T21:32:19.979681+00:00"
+  },
+  {
+    "job_id": "greenhouse:valaratomics:4338435009",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "valaratomics",
+    "title": "Turbomachinery Aerodynamics Engineer ",
+    "location": "Torrance, CA",
+    "posted": "2026-08-03T16:42:37-04:00",
+    "url": "https://job-boards.greenhouse.io/valaratomics/jobs/4338435009",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-03T21:32:19.979681+00:00",
+    "emailed_utc": "2026-08-03T21:32:19.979681+00:00"
+  },
+  {
+    "job_id": "lever:cfsenergy:2b9eea3f-c30c-46ef-935e-e65fb67a2caf",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "cfsenergy",
+    "title": "Senior Manager, Manufacturing Engineering",
+    "location": "Devens, MA",
+    "posted": "2026-08-03 21:18 UTC",
+    "url": "https://jobs.lever.co/cfsenergy/2b9eea3f-c30c-46ef-935e-e65fb67a2caf",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-03T21:32:19.979681+00:00",
+    "emailed_utc": "2026-08-03T21:32:19.979681+00:00"
+  },
+  {
+    "job_id": "lever:getsquire:7f438d8d-be9e-4da1-8649-cb7abc023e58",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "getsquire",
+    "title": "Director, Analytics & Insights",
+    "location": "United States",
+    "posted": "2026-08-03 21:13 UTC",
+    "url": "https://jobs.lever.co/getsquire/7f438d8d-be9e-4da1-8649-cb7abc023e58",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-03T21:32:19.979681+00:00",
+    "emailed_utc": "2026-08-03T21:32:19.979681+00:00"
+  },
+  {
+    "job_id": "lever:triallibrary:f4814c71-7637-4cdb-9b80-c688ebce87f3",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "triallibrary",
+    "title": "Head of Engineering",
+    "location": "San Francisco, CA",
+    "posted": "2026-08-03 21:12 UTC",
+    "url": "https://jobs.lever.co/triallibrary/f4814c71-7637-4cdb-9b80-c688ebce87f3",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-03T21:32:19.979681+00:00",
+    "emailed_utc": "2026-08-03T21:32:19.979681+00:00"
   }
 ]
