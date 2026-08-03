@@ -38998,5 +38998,57 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-03T17:29:21.258984+00:00",
     "emailed_utc": "2026-08-03T17:29:21.258984+00:00"
+  },
+  {
+    "job_id": "greenhouse:orkes:5378021008",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "orkes",
+    "title": "Senior Backend Engineer (Full-Stack Capable)",
+    "location": "In Office - Santa Clara, CA ",
+    "posted": "2026-08-03T12:56:02-04:00",
+    "url": "https://job-boards.greenhouse.io/orkes/jobs/5378021008",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-03T17:31:54.706663+00:00",
+    "emailed_utc": "2026-08-03T17:31:54.706663+00:00"
+  },
+  {
+    "job_id": "greenhouse:orkes:5378025008",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "orkes",
+    "title": "Senior Frontend Engineer (Full-Stack Capable)",
+    "location": "In Office - Santa Clara, CA ",
+    "posted": "2026-08-03T12:58:34-04:00",
+    "url": "https://job-boards.greenhouse.io/orkes/jobs/5378025008",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-03T17:31:54.706663+00:00",
+    "emailed_utc": "2026-08-03T17:31:54.706663+00:00"
+  },
+  {
+    "job_id": "greenhouse:orkes:5378028008",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "orkes",
+    "title": "Senior Security Engineer",
+    "location": "In Office - Santa Clara, CA ",
+    "posted": "2026-08-03T13:00:48-04:00",
+    "url": "https://job-boards.greenhouse.io/orkes/jobs/5378028008",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-03T17:31:54.706663+00:00",
+    "emailed_utc": "2026-08-03T17:31:54.706663+00:00"
+  },
+  {
+    "job_id": "greenhouse:striveworks:7823300003",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "striveworks",
+    "title": "Senior Data Scientist (Active Secret Clearance)",
+    "location": "Austin, Texas, United States",
+    "posted": "2026-08-03T12:07:44-04:00",
+    "url": "https://job-boards.greenhouse.io/striveworks/jobs/7823300003",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-03T17:31:54.706663+00:00",
+    "emailed_utc": "2026-08-03T17:31:54.706663+00:00"
   }
 ]
