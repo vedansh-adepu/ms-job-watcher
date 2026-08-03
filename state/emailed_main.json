@@ -9605,5 +9605,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-03T18:11:31.370449+00:00",
     "emailed_utc": "2026-08-03T18:11:31.370449+00:00"
+  },
+  {
+    "job_id": "amazon:ed619bc3-4f29-4444-857a-9c723c49ca82",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Applied Scientist II, Core Shopping Data Science",
+    "location": "US, WA, Seattle",
+    "posted": "August  3, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10490800/applied-scientist-ii-core-shopping-data-science",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-03T18:51:18.065177+00:00",
+    "emailed_utc": "2026-08-03T18:51:18.065177+00:00"
+  },
+  {
+    "job_id": "amazon:9c1dc927-72ed-403b-baba-68b2d2020fda",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, Alexa Communications",
+    "location": "US, CA, Sunnyvale",
+    "posted": "August  3, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10490776/software-development-engineer-alexa-communications",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-03T18:51:18.065177+00:00",
+    "emailed_utc": "2026-08-03T18:51:18.065177+00:00"
   }
 ]
