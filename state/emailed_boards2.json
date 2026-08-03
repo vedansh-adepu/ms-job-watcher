@@ -38816,5 +38816,83 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-03T16:03:04.429531+00:00",
     "emailed_utc": "2026-08-03T16:03:04.429531+00:00"
+  },
+  {
+    "job_id": "greenhouse:zoominfo:8658371002",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "zoominfo",
+    "title": "Senior Software Engineer ",
+    "location": "Remote-US-NY",
+    "posted": "2026-08-03T11:49:22-04:00",
+    "url": "https://www.zoominfo.com/careers?gh_jid=8658371002",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-03T16:32:27.020106+00:00",
+    "emailed_utc": "2026-08-03T16:32:27.020106+00:00"
+  },
+  {
+    "job_id": "greenhouse:zoominfo:8658369002",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "zoominfo",
+    "title": "Senior Software Engineer - IDP ",
+    "location": "Remote-US-NY",
+    "posted": "2026-08-03T11:44:48-04:00",
+    "url": "https://www.zoominfo.com/careers?gh_jid=8658369002",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-03T16:32:27.020106+00:00",
+    "emailed_utc": "2026-08-03T16:32:27.020106+00:00"
+  },
+  {
+    "job_id": "lever:ceso:a0495469-b6f9-4e16-abae-8f058c3b8977",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "ceso",
+    "title": "Project Engineer I",
+    "location": "Brentwood, TN",
+    "posted": "2026-07-28 20:41 UTC",
+    "url": "https://jobs.lever.co/ceso/a0495469-b6f9-4e16-abae-8f058c3b8977",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-03T16:32:27.020106+00:00",
+    "emailed_utc": "2026-08-03T16:32:27.020106+00:00"
+  },
+  {
+    "job_id": "lever:crestoperations:60c87c40-6699-4c7d-86d8-1f04bbdb8f64",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "crestoperations",
+    "title": "Senior Substation Engineer",
+    "location": "United States",
+    "posted": "2026-08-03 15:27 UTC",
+    "url": "https://jobs.lever.co/crestoperations/60c87c40-6699-4c7d-86d8-1f04bbdb8f64",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-03T16:32:27.020106+00:00",
+    "emailed_utc": "2026-08-03T16:32:27.020106+00:00"
+  },
+  {
+    "job_id": "lever:crestoperations:ddaa4cb6-59e0-46dd-b255-27aac35a4ffa",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "crestoperations",
+    "title": "Transmission Engineering Manager",
+    "location": "United States",
+    "posted": "2026-08-03 15:31 UTC",
+    "url": "https://jobs.lever.co/crestoperations/ddaa4cb6-59e0-46dd-b255-27aac35a4ffa",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-03T16:32:27.020106+00:00",
+    "emailed_utc": "2026-08-03T16:32:27.020106+00:00"
+  },
+  {
+    "job_id": "lever:kpaonline:95e2152d-9da8-41bc-8262-52b4b0ae461d",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "kpaonline",
+    "title": "Senior Security Engineer",
+    "location": "Lafayette, CO",
+    "posted": "2026-08-03 14:44 UTC",
+    "url": "https://jobs.lever.co/kpaonline/95e2152d-9da8-41bc-8262-52b4b0ae461d",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-03T16:32:27.020106+00:00",
+    "emailed_utc": "2026-08-03T16:32:27.020106+00:00"
   }
 ]
