@@ -79870,5 +79870,57 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-03T13:03:23.348721+00:00",
     "emailed_utc": "2026-08-03T13:03:23.348721+00:00"
+  },
+  {
+    "job_id": "workday:freddiemac:External:req:JR17440",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Freddie Mac",
+    "title": "Single Family Data Analyst",
+    "location": "McLean, VA",
+    "posted": "Posted Today",
+    "url": "https://freddiemac.wd5.myworkdayjobs.com/en-US/External/job/McLean-VA/Single-Family-Data-Analyst_JR17440",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-03T13:33:32.185217+00:00",
+    "emailed_utc": "2026-08-03T13:33:32.185217+00:00"
+  },
+  {
+    "job_id": "workday:freddiemac:External:req:JR17441",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Freddie Mac",
+    "title": "Single Family Software Analyst",
+    "location": "McLean, VA",
+    "posted": "Posted Today",
+    "url": "https://freddiemac.wd5.myworkdayjobs.com/en-US/External/job/McLean-VA/Single-Family-Software-Analyst_JR17441",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-03T13:33:32.185217+00:00",
+    "emailed_utc": "2026-08-03T13:33:32.185217+00:00"
+  },
+  {
+    "job_id": "workday:globalfoundries:External:req:JR-2603435",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Global Foundries",
+    "title": "UPW and WWT Technician Facilities Engineering (D Shift)",
+    "location": "USA - New York - Malta",
+    "posted": "Posted Today",
+    "url": "https://globalfoundries.wd1.myworkdayjobs.com/en-US/External/job/USA---New-York---Malta/UPW-and-WWT-Technician-Facilities-Engineering--D-Shift-_JR-2603435",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-03T13:33:32.185217+00:00",
+    "emailed_utc": "2026-08-03T13:33:32.185217+00:00"
+  },
+  {
+    "job_id": "workday:jll:jllcareers:req:REQ525364",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "JLL",
+    "title": "Operating Engineer",
+    "location": "Nashville, TN",
+    "posted": "Posted Today",
+    "url": "https://jll.wd1.myworkdayjobs.com/en-US/jllcareers/job/Nashville-TN/Operating-Engineer_REQ525364",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-03T13:33:32.185217+00:00",
+    "emailed_utc": "2026-08-03T13:33:32.185217+00:00"
   }
 ]
