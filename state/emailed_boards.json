@@ -80039,5 +80039,57 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-03T14:32:50.797434+00:00",
     "emailed_utc": "2026-08-03T14:32:50.797434+00:00"
+  },
+  {
+    "job_id": "greenhouse:voyagertechnologiesinc:4079284009",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "voyagertechnologiesinc",
+    "title": "Accelerated Physics Simulation Engineer \u2013 Agentic Computational Engineering (ACE)",
+    "location": "Los Angeles, CA; Washington D.C; Seattle, WA",
+    "posted": "2026-08-03T08:34:36-04:00",
+    "url": "https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4079284009",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-03T15:02:40.958492+00:00",
+    "emailed_utc": "2026-08-03T15:02:40.958492+00:00"
+  },
+  {
+    "job_id": "greenhouse:yugabyte:4682542006",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "YugaByte",
+    "title": "Senior Principal Solutions Engineer",
+    "location": "Remote, USA",
+    "posted": "2026-08-03T09:31:41-04:00",
+    "url": "https://job-boards.greenhouse.io/yugabyte/jobs/4682542006",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-03T15:02:40.958492+00:00",
+    "emailed_utc": "2026-08-03T15:02:40.958492+00:00"
+  },
+  {
+    "job_id": "ashby:snowflake:d214f0fa-9da1-4591-bc61-432ab92f735c",
+    "pipeline": "boards",
+    "platform": "ashby",
+    "company": "Snowflake",
+    "title": "Senior Analyst, Customer Experience Analytics",
+    "location": "US-CA-Menlo Park",
+    "posted": "",
+    "url": "https://jobs.ashbyhq.com/snowflake/d214f0fa-9da1-4591-bc61-432ab92f735c",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-03T15:02:40.958492+00:00",
+    "emailed_utc": "2026-08-03T15:02:40.958492+00:00"
+  },
+  {
+    "job_id": "ashby:1password:5cea0067-467b-4e1a-9ae5-089541ecd827",
+    "pipeline": "boards",
+    "platform": "ashby",
+    "company": "1password",
+    "title": "Senior Developer, CI Architecture",
+    "location": "Remote (United States | Canada)",
+    "posted": "",
+    "url": "https://jobs.ashbyhq.com/1password/5cea0067-467b-4e1a-9ae5-089541ecd827",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-03T15:02:40.958492+00:00",
+    "emailed_utc": "2026-08-03T15:02:40.958492+00:00"
   }
 ]
