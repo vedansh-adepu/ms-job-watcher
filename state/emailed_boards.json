@@ -83120,5 +83120,44 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-03T22:18:12.931272+00:00",
     "emailed_utc": "2026-08-03T22:18:12.931272+00:00"
+  },
+  {
+    "job_id": "greenhouse:lgelectronics:5378493008",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Lgelectronics",
+    "title": "Data Scientist / AI Engineer",
+    "location": "Huntsville, AL",
+    "posted": "2026-08-03T16:50:33-04:00",
+    "url": "https://job-boards.greenhouse.io/lgelectronics/jobs/5378493008",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-03T22:31:20.676066+00:00",
+    "emailed_utc": "2026-08-03T22:31:20.676066+00:00"
+  },
+  {
+    "job_id": "greenhouse:scoutmotors:5201286007",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Scoutmotors",
+    "title": "AI Infrastructure Engineer",
+    "location": "Charlotte, North Carolina, United States",
+    "posted": "2026-08-03T16:02:33-04:00",
+    "url": "https://job-boards.greenhouse.io/scoutmotors/jobs/5201286007",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-03T22:31:20.676066+00:00",
+    "emailed_utc": "2026-08-03T22:31:20.676066+00:00"
+  },
+  {
+    "job_id": "greenhouse:youcom:4528457008",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Youcom",
+    "title": "Senior Back End Engineer",
+    "location": "San Francisco, CA, New York, NY (Remote)",
+    "posted": "2026-08-03T17:28:28-04:00",
+    "url": "https://job-boards.greenhouse.io/youcom/jobs/4528457008",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-03T22:31:20.676066+00:00",
+    "emailed_utc": "2026-08-03T22:31:20.676066+00:00"
   }
 ]
