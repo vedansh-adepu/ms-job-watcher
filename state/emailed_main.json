@@ -9514,5 +9514,44 @@
     "bucket": "yes",
     "first_seen_utc": "2026-08-03T17:21:30.044781+00:00",
     "emailed_utc": "2026-08-03T17:21:30.044781+00:00"
+  },
+  {
+    "job_id": "amazon:b5ba36ab-d7c3-4ada-bc35-a86694542271",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer II, AWS Healthcare AI",
+    "location": "US, WA, Seattle",
+    "posted": "August  3, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10490705/software-development-engineer-ii-aws-healthcare-ai",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-03T17:46:30.568489+00:00",
+    "emailed_utc": "2026-08-03T17:46:30.568489+00:00"
+  },
+  {
+    "job_id": "amazon:0a61f340-f453-4ae2-8a03-ac7571a50f83",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer II, Network Configuration Lifecycle Management",
+    "location": "US, TX, Austin",
+    "posted": "August  3, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10490706/software-development-engineer-ii-network-configuration-lifecycle-management",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-03T17:46:30.568489+00:00",
+    "emailed_utc": "2026-08-03T17:46:30.568489+00:00"
+  },
+  {
+    "job_id": "amazon:be089f00-15ea-4004-bb70-5191d222b17b",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Applied Scientist, Search Ranking",
+    "location": "US, WA, Seattle",
+    "posted": "August  3, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10490697/applied-scientist-search-ranking",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-03T17:46:30.568489+00:00",
+    "emailed_utc": "2026-08-03T17:46:30.568489+00:00"
   }
 ]
