@@ -80091,5 +80091,44 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-03T15:02:40.958492+00:00",
     "emailed_utc": "2026-08-03T15:02:40.958492+00:00"
+  },
+  {
+    "job_id": "ashby:langchain:385313eb-bff4-4019-8106-42714dc9879a",
+    "pipeline": "boards",
+    "platform": "ashby",
+    "company": "LangChain",
+    "title": "Deployed Engineer (Houston)",
+    "location": "Houston, TX",
+    "posted": "",
+    "url": "https://jobs.ashbyhq.com/langchain/385313eb-bff4-4019-8106-42714dc9879a",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-03T15:14:03.984522+00:00",
+    "emailed_utc": "2026-08-03T15:14:03.984522+00:00"
+  },
+  {
+    "job_id": "greenhouse:scoutmotors:5200457007",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Scoutmotors",
+    "title": "Engineer, Whole Vehicle Test Requirements and Validation \u2013 Body\u00a0Exterior",
+    "location": "Novi, Michigan, United States",
+    "posted": "2026-08-03T09:30:32-04:00",
+    "url": "https://job-boards.greenhouse.io/scoutmotors/jobs/5200457007",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-03T15:14:03.984522+00:00",
+    "emailed_utc": "2026-08-03T15:14:03.984522+00:00"
+  },
+  {
+    "job_id": "greenhouse:scoutmotors:5200423007",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Scoutmotors",
+    "title": "Engineer, Whole Vehicle Test Requirements and Validation \u2013 Propulsion",
+    "location": "Novi, Michigan, United States",
+    "posted": "2026-08-03T09:30:38-04:00",
+    "url": "https://job-boards.greenhouse.io/scoutmotors/jobs/5200423007",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-03T15:14:03.984522+00:00",
+    "emailed_utc": "2026-08-03T15:14:03.984522+00:00"
   }
 ]
