@@ -9566,5 +9566,44 @@
     "bucket": "yes",
     "first_seen_utc": "2026-08-03T18:01:35.782343+00:00",
     "emailed_utc": "2026-08-03T18:01:35.782343+00:00"
+  },
+  {
+    "job_id": "amazon:d00ef73d-13ee-4e4d-ab3d-faf03fc51d76",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer I \u2013 AI/ML Network Infrastructure, Annapurna Labs",
+    "location": "US, CA, Cupertino",
+    "posted": "August  3, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10490741/software-development-engineer-i-ai-ml-network-infrastructure-annapurna-labs",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-03T18:11:31.370449+00:00",
+    "emailed_utc": "2026-08-03T18:11:31.370449+00:00"
+  },
+  {
+    "job_id": "amazon:0baaf322-27a4-4864-8533-74c92cd303b4",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, Kiro",
+    "location": "US, WA, Seattle",
+    "posted": "August  3, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10490739/software-development-engineer-kiro",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-03T18:11:31.370449+00:00",
+    "emailed_utc": "2026-08-03T18:11:31.370449+00:00"
+  },
+  {
+    "job_id": "amazon:efc4f5cf-4aa3-4787-9884-d3e38d740096",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Sr. Software Development Engineer, Kiro",
+    "location": "US, WA, Seattle",
+    "posted": "August  3, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10490738/sr-software-development-engineer-kiro",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-03T18:11:31.370449+00:00",
+    "emailed_utc": "2026-08-03T18:11:31.370449+00:00"
   }
 ]
