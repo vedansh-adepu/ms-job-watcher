@@ -39375,5 +39375,44 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-03T19:32:03.303256+00:00",
     "emailed_utc": "2026-08-03T19:32:03.303256+00:00"
+  },
+  {
+    "job_id": "lever:dnb:85bdfae2-74bc-4032-9151-436608cedd04",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "dnb",
+    "title": "Senior O365 Engineer (R-19417)",
+    "location": "Florham Park - New Jersey - United States",
+    "posted": "2026-08-03 19:01 UTC",
+    "url": "https://jobs.lever.co/dnb/85bdfae2-74bc-4032-9151-436608cedd04",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-03T20:03:11.377289+00:00",
+    "emailed_utc": "2026-08-03T20:03:11.377289+00:00"
+  },
+  {
+    "job_id": "lever:getcircuit:8c3333cf-9469-4efd-aef7-3af464bfa1b2",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "getcircuit",
+    "title": "Staff Backend Engineer",
+    "location": "Austin, TX",
+    "posted": "2026-08-03 18:54 UTC",
+    "url": "https://jobs.lever.co/getcircuit/8c3333cf-9469-4efd-aef7-3af464bfa1b2",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-03T20:03:11.377289+00:00",
+    "emailed_utc": "2026-08-03T20:03:11.377289+00:00"
+  },
+  {
+    "job_id": "lever:getcircuit:8a3787fe-9fb2-4c51-ac10-bfa6478191d0",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "getcircuit",
+    "title": "Staff Frontend Engineer",
+    "location": "Austin, TX",
+    "posted": "2026-08-03 18:38 UTC",
+    "url": "https://jobs.lever.co/getcircuit/8a3787fe-9fb2-4c51-ac10-bfa6478191d0",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-03T20:03:11.377289+00:00",
+    "emailed_utc": "2026-08-03T20:03:11.377289+00:00"
   }
 ]
