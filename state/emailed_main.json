@@ -9657,5 +9657,57 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-03T19:01:31.370242+00:00",
     "emailed_utc": "2026-08-03T19:01:31.370242+00:00"
+  },
+  {
+    "job_id": "amazon:19ddf7f5-d337-487c-9acd-e7f5d88b42ec",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, AWS Config, AWS Config",
+    "location": "US, VA, Arlington",
+    "posted": "August  3, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10490837/software-development-engineer-aws-config-aws-config",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-03T19:21:06.743690+00:00",
+    "emailed_utc": "2026-08-03T19:21:06.743690+00:00"
+  },
+  {
+    "job_id": "amazon:78bd99cc-d519-49e5-a51a-93ff46498baa",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, AWS Config, AWS Config",
+    "location": "US, VA, Arlington",
+    "posted": "August  3, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10490839/software-development-engineer-aws-config-aws-config",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-03T19:21:06.743690+00:00",
+    "emailed_utc": "2026-08-03T19:21:06.743690+00:00"
+  },
+  {
+    "job_id": "amazon:72d0024f-f1f2-42d6-bb2e-61549dfe43f7",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, AWS Config, AWS Config",
+    "location": "US, VA, Arlington",
+    "posted": "August  3, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10490838/software-development-engineer-aws-config-aws-config",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-03T19:21:06.743690+00:00",
+    "emailed_utc": "2026-08-03T19:21:06.743690+00:00"
+  },
+  {
+    "job_id": "amazon:5383406b-08ef-4306-a971-4c8682f1b533",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, AWS Cognito",
+    "location": "US, WA, Seattle",
+    "posted": "August  3, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10490840/software-development-engineer-aws-cognito",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-03T19:21:06.743690+00:00",
+    "emailed_utc": "2026-08-03T19:21:06.743690+00:00"
   }
 ]
