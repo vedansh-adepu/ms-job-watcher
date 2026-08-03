@@ -79766,5 +79766,44 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-03T07:03:11.662664+00:00",
     "emailed_utc": "2026-08-03T07:03:11.662664+00:00"
+  },
+  {
+    "job_id": "greenhouse:tripactions:8092002",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Navan (TripActions)",
+    "title": "Sr. Fullstack Engineer",
+    "location": "Bengaluru, IN",
+    "posted": "2026-08-03T03:22:16-04:00",
+    "url": "https://navan.com/careers/openings?gh_jid=8092002",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-03T08:02:47.897252+00:00",
+    "emailed_utc": "2026-08-03T08:02:47.897252+00:00"
+  },
+  {
+    "job_id": "workday:nvidia:NVIDIAExternalCareerSite:req:JR2020850",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "NVIDIA",
+    "title": "Senior DFT Methodology - Data Analytics and Applied AI Engineer",
+    "location": "US, CA, Santa Clara",
+    "posted": "Posted Today",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-DFT-Methodology---Data-Analytics-and-Applied-AI-Engineer_JR2020850",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-03T08:02:47.897252+00:00",
+    "emailed_utc": "2026-08-03T08:02:47.897252+00:00"
+  },
+  {
+    "job_id": "workday:nvidia:NVIDIAExternalCareerSite:req:JR2022411",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "NVIDIA",
+    "title": "Principal Software Architect, Networking AI",
+    "location": "US, CA, Santa Clara",
+    "posted": "Posted Yesterday",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Principal-Software-Architect--Networking-AI_JR2022411",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-03T08:02:47.897252+00:00",
+    "emailed_utc": "2026-08-03T08:02:47.897252+00:00"
   }
 ]
