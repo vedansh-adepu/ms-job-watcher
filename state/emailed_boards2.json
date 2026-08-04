@@ -39817,5 +39817,83 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-04T00:02:39.284546+00:00",
     "emailed_utc": "2026-08-04T00:02:39.284546+00:00"
+  },
+  {
+    "job_id": "greenhouse:inversionspace:4720992005",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "inversionspace",
+    "title": "Front-End Software Engineer II",
+    "location": "Playa Vista, California, United States",
+    "posted": "2026-08-03T19:24:21-04:00",
+    "url": "https://job-boards.greenhouse.io/inversionspace/jobs/4720992005",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-04T00:31:57.100323+00:00",
+    "emailed_utc": "2026-08-04T00:31:57.100323+00:00"
+  },
+  {
+    "job_id": "greenhouse:stage:6109540004",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "stage",
+    "title": "Software Engineer - Investment Systems",
+    "location": "San Francisco, California, United States",
+    "posted": "2026-08-03T19:10:09-04:00",
+    "url": "https://www.kkr.com/careers/career-opportunities/post?gh_jid=6109540004",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-04T00:31:57.100323+00:00",
+    "emailed_utc": "2026-08-04T00:31:57.100323+00:00"
+  },
+  {
+    "job_id": "greenhouse:life360:8675235002",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "life360",
+    "title": "Staff Firmware Engineer, AI Native, Edge ML",
+    "location": "Remote, USA; Remote, Canada",
+    "posted": "2026-08-03T19:23:16-04:00",
+    "url": "https://job-boards.greenhouse.io/life360/jobs/8675235002",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-04T00:31:57.100323+00:00",
+    "emailed_utc": "2026-08-04T00:31:57.100323+00:00"
+  },
+  {
+    "job_id": "greenhouse:roblox:8089039",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "roblox",
+    "title": "Senior Software Engineer - Consoles",
+    "location": "San Mateo, CA, United States",
+    "posted": "2026-08-03T19:44:44-04:00",
+    "url": "https://careers.roblox.com/jobs/8089039?gh_jid=8089039",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-04T00:31:57.100323+00:00",
+    "emailed_utc": "2026-08-04T00:31:57.100323+00:00"
+  },
+  {
+    "job_id": "greenhouse:revolutionmedicines:7720223003",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "revolutionmedicines",
+    "title": "Director Machine Learning, Drug Discovery Analytics",
+    "location": "Redwood City, California, United States",
+    "posted": "2026-08-03T20:12:11-04:00",
+    "url": "https://www.revmed.com/careers-list/?gh_jid=7720223003",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-04T00:31:57.100323+00:00",
+    "emailed_utc": "2026-08-04T00:31:57.100323+00:00"
+  },
+  {
+    "job_id": "greenhouse:telixus:4702119006",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "telixus",
+    "title": "Principal Manufacturing Engineer ",
+    "location": "USA- Remote",
+    "posted": "2026-08-03T19:24:34-04:00",
+    "url": "https://telixpharma.com/careers/find-a-job/?region=telixus&gh_jid=4702119006",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-04T00:31:57.100323+00:00",
+    "emailed_utc": "2026-08-04T00:31:57.100323+00:00"
   }
 ]
