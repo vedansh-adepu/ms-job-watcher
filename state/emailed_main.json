@@ -10294,5 +10294,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-04T18:43:58.348463+00:00",
     "emailed_utc": "2026-08-04T18:43:58.348463+00:00"
+  },
+  {
+    "job_id": "amazon:0d8ac72f-2a41-4b86-9f89-6113f497c353",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, Bottlerocket",
+    "location": "US, WA, Seattle",
+    "posted": "August  4, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10492048/software-development-engineer-bottlerocket",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-04T18:53:37.143852+00:00",
+    "emailed_utc": "2026-08-04T18:53:37.143852+00:00"
+  },
+  {
+    "job_id": "amazon:9f282659-d4c9-4061-8132-5b600069bd39",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, Bottlerocket",
+    "location": "US, WA, Seattle",
+    "posted": "August  4, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10492049/software-development-engineer-bottlerocket",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-04T18:53:37.143852+00:00",
+    "emailed_utc": "2026-08-04T18:53:37.143852+00:00"
   }
 ]
