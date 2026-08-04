@@ -40155,5 +40155,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-04T12:32:13.495736+00:00",
     "emailed_utc": "2026-08-04T12:32:13.495736+00:00"
+  },
+  {
+    "job_id": "greenhouse:smxtech:7824828003",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "smxtech",
+    "title": "Software Engineer (5489) (Boulder, CO) (Secret)",
+    "location": "Boulder, CO",
+    "posted": "2026-08-04T08:48:36-04:00",
+    "url": "https://www.smxtech.com/careers/?gh_jid=7824828003",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-04T13:02:41.646493+00:00",
+    "emailed_utc": "2026-08-04T13:02:41.646493+00:00"
+  },
+  {
+    "job_id": "greenhouse:synerg:6131732004",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "synerg",
+    "title": "Facilities Engineer",
+    "location": "Boston, Massachusetts, United States",
+    "posted": "2026-08-04T08:58:38-04:00",
+    "url": "https://job-boards.greenhouse.io/synerg/jobs/6131732004",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-04T13:02:41.646493+00:00",
+    "emailed_utc": "2026-08-04T13:02:41.646493+00:00"
   }
 ]
