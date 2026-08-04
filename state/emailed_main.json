@@ -9917,5 +9917,31 @@
     "bucket": "yes",
     "first_seen_utc": "2026-08-04T01:51:24.409148+00:00",
     "emailed_utc": "2026-08-04T01:51:24.409148+00:00"
+  },
+  {
+    "job_id": "amazon:d1ab328f-0fc4-4247-ab5e-685c36a42c1f",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "ML Software Engineer, Data Plane",
+    "location": "US, CA, Cupertino",
+    "posted": "August  4, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10491191/ml-software-engineer-data-plane",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-04T04:21:23.753220+00:00",
+    "emailed_utc": "2026-08-04T04:21:23.753220+00:00"
+  },
+  {
+    "job_id": "amazon:287de850-c5a4-444d-b6bf-2a9f27b67adf",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Senior ML Software Engineer, Data Plane",
+    "location": "US, CA, Cupertino",
+    "posted": "August  4, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10491192/senior-ml-software-engineer-data-plane",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-04T04:21:23.753220+00:00",
+    "emailed_utc": "2026-08-04T04:21:23.753220+00:00"
   }
 ]
