@@ -41738,7 +41738,7 @@
     "cursor": null
   },
   {
-    "ts": "2026-08-04T11:31Z",
+    "ts": "2026-08-04T11:32Z",
     "mode": "main",
     "per_source": {
       "microsoft": {
@@ -41756,9 +41756,9 @@
         "emailed": 0
       },
       "nvidia": {
-        "fetched": 30,
-        "title_ok": 25,
-        "loc_ok": 25,
+        "fetched": 20,
+        "title_ok": 16,
+        "loc_ok": 16,
         "new": 0,
         "emailed": 0
       },
@@ -41784,7 +41784,7 @@
         "emailed": 0
       }
     },
-    "duration_s": 12.4,
+    "duration_s": 10.5,
     "cursor": null
   },
   {
