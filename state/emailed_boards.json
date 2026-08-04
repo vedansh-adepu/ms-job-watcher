@@ -87332,5 +87332,57 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-04T19:32:35.783017+00:00",
     "emailed_utc": "2026-08-04T19:32:35.783017+00:00"
+  },
+  {
+    "job_id": "greenhouse:tailscale:4721289005",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Tailscale",
+    "title": "Analytics Engineer, Data",
+    "location": "Remote (United States)",
+    "posted": "2026-08-04T14:21:42-04:00",
+    "url": "https://job-boards.greenhouse.io/tailscale/jobs/4721289005",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-04T19:57:25.001181+00:00",
+    "emailed_utc": "2026-08-04T19:57:25.001181+00:00"
+  },
+  {
+    "job_id": "greenhouse:twilio:8026203",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "twilio",
+    "title": "Software Engineer (L3) Email",
+    "location": "Remote - US",
+    "posted": "2026-08-04T15:52:01-04:00",
+    "url": "https://job-boards.greenhouse.io/twilio/jobs/8026203",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-04T19:57:25.001181+00:00",
+    "emailed_utc": "2026-08-04T19:57:25.001181+00:00"
+  },
+  {
+    "job_id": "greenhouse:spacex:8677846002",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "SpaceX",
+    "title": "GNC Engineer - Embedded Controls, AI Satellites (Starmind)",
+    "location": "Bastrop, TX",
+    "posted": "2026-08-04T15:38:56-04:00",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8677846002?gh_jid=8677846002",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-04T19:57:25.001181+00:00",
+    "emailed_utc": "2026-08-04T19:57:25.001181+00:00"
+  },
+  {
+    "job_id": "smartrecruiters:ServiceNow:744000141563299",
+    "pipeline": "boards",
+    "platform": "smartrecruiters",
+    "company": "ServiceNow",
+    "title": "Senior Engineering Manager - Platform",
+    "location": "Santa Clara, California, us",
+    "posted": "2026-08-04T18:49:58.134Z",
+    "url": "https://jobs.smartrecruiters.com/ServiceNow",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-04T19:57:25.001181+00:00",
+    "emailed_utc": "2026-08-04T19:57:25.001181+00:00"
   }
 ]

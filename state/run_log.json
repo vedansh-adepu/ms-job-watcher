@@ -1,56 +1,5 @@
 [
   {
-    "ts": "2026-07-29T10:21Z",
-    "mode": "main",
-    "per_source": {
-      "microsoft": {
-        "fetched": 0,
-        "title_ok": 0,
-        "loc_ok": 0,
-        "new": 0,
-        "emailed": 0,
-        "error": "Microsoft fetch: HTTPError: 429 Client Error: TOO MANY REQUESTS for url: https://apply.careers.microsoft.com/api/pcsx/search?domain=microsoft.com&query=&location=United+States%2C+Multiple+Locations%2C+Multiple+Locations&start=0&sort_by=timestamp&filter_include_remote=1&filter_seniority=Entry&filter_seniority=Mid-Level"
-      },
-      "amazon": {
-        "fetched": 300,
-        "title_ok": 276,
-        "loc_ok": 276,
-        "new": 0,
-        "emailed": 0
-      },
-      "nvidia": {
-        "fetched": 20,
-        "title_ok": 20,
-        "loc_ok": 20,
-        "new": 0,
-        "emailed": 0
-      },
-      "goldman_sachs": {
-        "fetched": 0,
-        "title_ok": 0,
-        "loc_ok": 0,
-        "new": 0,
-        "emailed": 0
-      },
-      "ibm": {
-        "fetched": 2,
-        "title_ok": 2,
-        "loc_ok": 0,
-        "new": 0,
-        "emailed": 0
-      },
-      "oracle": {
-        "fetched": 0,
-        "title_ok": 0,
-        "loc_ok": 0,
-        "new": 0,
-        "emailed": 0
-      }
-    },
-    "duration_s": 7.7,
-    "cursor": null
-  },
-  {
     "ts": "2026-07-29T10:32Z",
     "mode": "boards",
     "per_source": {
@@ -41902,5 +41851,48 @@
     },
     "duration_s": 11.2,
     "cursor": null
+  },
+  {
+    "ts": "2026-08-04T19:57Z",
+    "mode": "boards",
+    "per_source": {
+      "greenhouse": {
+        "fetched": 8458,
+        "title_ok": 2854,
+        "loc_ok": 1885,
+        "new": 3,
+        "emailed": 3
+      },
+      "smartrecruiters": {
+        "fetched": 1407,
+        "title_ok": 276,
+        "loc_ok": 162,
+        "new": 1,
+        "emailed": 1
+      },
+      "lever": {
+        "fetched": 240,
+        "title_ok": 103,
+        "loc_ok": 59,
+        "new": 0,
+        "emailed": 0
+      },
+      "ashby": {
+        "fetched": 121,
+        "title_ok": 46,
+        "loc_ok": 14,
+        "new": 0,
+        "emailed": 0
+      },
+      "workday": {
+        "fetched": 6500,
+        "title_ok": 1921,
+        "loc_ok": 140,
+        "new": 0,
+        "emailed": 0
+      }
+    },
+    "duration_s": 105.1,
+    "cursor": 800
   }
 ]
