@@ -84641,5 +84641,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-04T11:35:43.555360+00:00",
     "emailed_utc": "2026-08-04T11:35:43.555360+00:00"
+  },
+  {
+    "job_id": "workday:caci:External:req:330022",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "CACI International",
+    "title": "Staff AI/ML Engineer (Large Language Model)",
+    "location": "King of Prussia, PA, US",
+    "posted": "Posted Today",
+    "url": "https://caci.wd1.myworkdayjobs.com/en-US/External/job/King-of-Prussia-PA-US/Staff-AI-ML-Engineer--Large-Language-Model-_330022",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-04T13:03:20.048723+00:00",
+    "emailed_utc": "2026-08-04T13:03:20.048723+00:00"
+  },
+  {
+    "job_id": "workday:caci:External:req:329784",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "CACI International",
+    "title": "Linux Systems Engineer",
+    "location": "Sterling, VA, US",
+    "posted": "Posted Today",
+    "url": "https://caci.wd1.myworkdayjobs.com/en-US/External/job/Sterling-VA-US/Linux-Systems-Engineer_329784",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-04T13:03:20.048723+00:00",
+    "emailed_utc": "2026-08-04T13:03:20.048723+00:00"
   }
 ]
