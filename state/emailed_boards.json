@@ -84589,5 +84589,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-04T06:02:52.417800+00:00",
     "emailed_utc": "2026-08-04T06:02:52.417800+00:00"
+  },
+  {
+    "job_id": "greenhouse:spacex:8675315002",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "SpaceX",
+    "title": "Sr. Process Engineer, Starship Materials Production",
+    "location": "Hawthorne, CA",
+    "posted": "2026-08-04T02:22:17-04:00",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8675315002?gh_jid=8675315002",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-04T08:54:03.270945+00:00",
+    "emailed_utc": "2026-08-04T08:54:03.270945+00:00"
+  },
+  {
+    "job_id": "smartrecruiters:ServiceNow:744000141430384",
+    "pipeline": "boards",
+    "platform": "smartrecruiters",
+    "company": "ServiceNow",
+    "title": "Principal Systems Engineer",
+    "location": "Frankfurt, de",
+    "posted": "2026-08-04T07:55:04.031Z",
+    "url": "https://jobs.smartrecruiters.com/ServiceNow",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-04T08:54:03.270945+00:00",
+    "emailed_utc": "2026-08-04T08:54:03.270945+00:00"
   }
 ]
