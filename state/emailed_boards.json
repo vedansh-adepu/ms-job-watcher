@@ -84368,5 +84368,57 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-04T03:35:22.100612+00:00",
     "emailed_utc": "2026-08-04T03:35:22.100612+00:00"
+  },
+  {
+    "job_id": "lever:cyngn:e6d50b73-7689-4740-8ebf-33bf2d1a2968",
+    "pipeline": "boards",
+    "platform": "lever",
+    "company": "Cyngn",
+    "title": "Software Engineer, Autonomy - Calibration, Mapping & Localization",
+    "location": "Mountain View, CA",
+    "posted": "2026-08-04 03:10 UTC",
+    "url": "https://jobs.lever.co/cyngn/e6d50b73-7689-4740-8ebf-33bf2d1a2968",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-04T04:32:48.811585+00:00",
+    "emailed_utc": "2026-08-04T04:32:48.811585+00:00"
+  },
+  {
+    "job_id": "workday:blueorigin:BlueOrigin:req:R69547",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Blue Origin",
+    "title": "Port Engineer",
+    "location": "Space Coast, FL",
+    "posted": "Posted Today",
+    "url": "https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Space-Coast-FL/Port-Engineer_R69547",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-04T04:32:48.811585+00:00",
+    "emailed_utc": "2026-08-04T04:32:48.811585+00:00"
+  },
+  {
+    "job_id": "workday:boeing:EXTERNAL_CAREERS:req:JR2026519959",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Boeing",
+    "title": "First-Line Air Proprietary 2 Systems Engineering Manager",
+    "location": "USA - Berkeley, MO",
+    "posted": "Posted Today",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Berkeley-MO/First-Line-Air-Proprietary-2-Systems-Engineering-Manager_JR2026519959-1",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-04T04:32:48.811585+00:00",
+    "emailed_utc": "2026-08-04T04:32:48.811585+00:00"
+  },
+  {
+    "job_id": "workday:boeing:EXTERNAL_CAREERS:req:JR2026520148",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Boeing",
+    "title": "Senior Engineering Manager \u2013 Cloud Engineering",
+    "location": "USA - Hazelwood, MO",
+    "posted": "Posted Today",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Hazelwood-MO/Senior-Engineering-Manager---Cloud-Engineering_JR2026520148",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-04T04:32:48.811585+00:00",
+    "emailed_utc": "2026-08-04T04:32:48.811585+00:00"
   }
 ]
