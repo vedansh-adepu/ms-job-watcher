@@ -10359,5 +10359,18 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-04T19:52:45.136620+00:00",
     "emailed_utc": "2026-08-04T19:52:45.136620+00:00"
+  },
+  {
+    "job_id": "amazon:dc55e571-a044-49ef-b2d7-978157fa669b",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Engineer - MSE, Manufacturing Systems Engineering",
+    "location": "US, WA, Redmond",
+    "posted": "August  4, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10492194/software-engineer-mse-manufacturing-systems-engineering",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-04T20:01:30.594779+00:00",
+    "emailed_utc": "2026-08-04T20:01:30.594779+00:00"
   }
 ]
