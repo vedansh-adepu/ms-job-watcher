@@ -9943,5 +9943,83 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-04T04:21:23.753220+00:00",
     "emailed_utc": "2026-08-04T04:21:23.753220+00:00"
+  },
+  {
+    "job_id": "amazon:a1bfff1a-ed48-4141-be4d-f9dcb782811b",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, STRADA",
+    "location": "US, MN, Minneapolis",
+    "posted": "August  4, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10491453/software-development-engineer-strada",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-04T14:41:30.288995+00:00",
+    "emailed_utc": "2026-08-04T14:41:30.288995+00:00"
+  },
+  {
+    "job_id": "amazon:75f0a8b8-6dca-425c-a807-aaa83a6a5726",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "SDE II, Amazon Endpoint Guardian, Enterprise Engineering",
+    "location": "US, WA, Seattle",
+    "posted": "August  3, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10490921/sde-ii-amazon-endpoint-guardian-enterprise-engineering",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-04T14:41:30.288995+00:00",
+    "emailed_utc": "2026-08-04T14:41:30.288995+00:00"
+  },
+  {
+    "job_id": "amazon:ff60b28a-21c5-48ed-95a0-bf5109ff1ecc",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Sr. Software Dev Engineer, Benefits Experience and Technology (BXT)",
+    "location": "US, WA, Seattle",
+    "posted": "August  4, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10491557/sr-software-dev-engineer-benefits-experience-and-technology-bxt",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-04T14:41:30.288995+00:00",
+    "emailed_utc": "2026-08-04T14:41:30.288995+00:00"
+  },
+  {
+    "job_id": "amazon:e62a926e-09b0-444f-a4e0-3202dc325cc0",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Senior Software Dev Engineer, Enrollment Experience - Benefits Experience & Technology (BXT)",
+    "location": "US, WA, Seattle",
+    "posted": "August  4, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10491560/senior-software-dev-engineer-enrollment-experience-benefits-experience-technology-bxt",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-04T14:41:30.288995+00:00",
+    "emailed_utc": "2026-08-04T14:41:30.288995+00:00"
+  },
+  {
+    "job_id": "amazon:35ae616b-f363-4bc2-bea7-0691e533aafb",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Dev Engineer, IESP Tech",
+    "location": "US, WA, Seattle",
+    "posted": "August  4, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10491190/software-dev-engineer-iesp-tech",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-04T14:41:30.288995+00:00",
+    "emailed_utc": "2026-08-04T14:41:30.288995+00:00"
+  },
+  {
+    "job_id": "amazon:8eec89a0-aa9e-4931-944d-5237209eac7b",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Sr. Software Development Engineer, MONA",
+    "location": "US, CA, Santa Clara",
+    "posted": "August  3, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10490925/sr-software-development-engineer-mona",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-04T14:41:30.288995+00:00",
+    "emailed_utc": "2026-08-04T14:41:30.288995+00:00"
   }
 ]
