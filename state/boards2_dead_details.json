@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-08-04T17:32:05.558858+00:00",
+  "updated_utc": "2026-08-04T18:02:54.919937+00:00",
   "dead_details": {
     "lever:livechatinc": {
       "first_seen_utc": "2026-07-01T19:31:29.430568+00:00",
@@ -1129,6 +1129,15 @@
     "greenhouse:spade": {
       "first_seen_utc": "2026-08-04T15:01:45.367374+00:00",
       "last_seen_utc": "2026-08-04T15:01:45.367374+00:00",
+      "platform": "greenhouse",
+      "company": "",
+      "board_url": "",
+      "last_status": 404,
+      "last_error": "HTTP 404/410 (board not found)"
+    },
+    "greenhouse:thinkingmachines": {
+      "first_seen_utc": "2026-08-04T18:02:51.330997+00:00",
+      "last_seen_utc": "2026-08-04T18:02:51.330997+00:00",
       "platform": "greenhouse",
       "company": "",
       "board_url": "",

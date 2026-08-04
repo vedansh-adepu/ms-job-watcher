@@ -85824,5 +85824,70 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-04T17:33:18.357587+00:00",
     "emailed_utc": "2026-08-04T17:33:18.357587+00:00"
+  },
+  {
+    "job_id": "greenhouse:neuralink:7823342003",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Neuralink",
+    "title": "Design Verification Engineer",
+    "location": "South San Francisco, California, United States",
+    "posted": "2026-08-04T11:40:50-04:00",
+    "url": "https://boards.greenhouse.io/neuralink/jobs/7823342003?gh_jid=7823342003",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-04T18:01:38.496332+00:00",
+    "emailed_utc": "2026-08-04T18:01:38.496332+00:00"
+  },
+  {
+    "job_id": "greenhouse:oklo:6130371004",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Oklo",
+    "title": "Radiological Waste Engineering Lead - Early Deployments",
+    "location": "Idaho Falls, ID or Remote",
+    "posted": "2026-08-04T13:53:28-04:00",
+    "url": "https://job-boards.greenhouse.io/oklo/jobs/6130371004",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-04T18:01:38.496332+00:00",
+    "emailed_utc": "2026-08-04T18:01:38.496332+00:00"
+  },
+  {
+    "job_id": "greenhouse:torcrobotics:8596542002",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Torcrobotics",
+    "title": "Senior SOTIF Engineer",
+    "location": "Remote, U.S, Ann Arbor, MI, Fort Worth, TX, Blacksburg, VA",
+    "posted": "2026-08-04T13:36:32-04:00",
+    "url": "https://job-boards.greenhouse.io/torcrobotics/jobs/8596542002",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-04T18:01:38.496332+00:00",
+    "emailed_utc": "2026-08-04T18:01:38.496332+00:00"
+  },
+  {
+    "job_id": "greenhouse:torcrobotics:8651134002",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Torcrobotics",
+    "title": "Staff, ML Engineer - Scene Generation",
+    "location": "Remote - US, Ann Arbor, MI ",
+    "posted": "2026-08-04T12:55:21-04:00",
+    "url": "https://job-boards.greenhouse.io/torcrobotics/jobs/8651134002",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-04T18:01:38.496332+00:00",
+    "emailed_utc": "2026-08-04T18:01:38.496332+00:00"
+  },
+  {
+    "job_id": "greenhouse:torcrobotics:8670853002",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Torcrobotics",
+    "title": "Systems Engineer, Cybersecurity",
+    "location": "Ann Arbor, MI",
+    "posted": "2026-08-04T13:00:00-04:00",
+    "url": "https://job-boards.greenhouse.io/torcrobotics/jobs/8670853002",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-04T18:01:38.496332+00:00",
+    "emailed_utc": "2026-08-04T18:01:38.496332+00:00"
   }
 ]
