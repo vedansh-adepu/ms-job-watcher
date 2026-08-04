@@ -10021,5 +10021,83 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-04T14:41:30.288995+00:00",
     "emailed_utc": "2026-08-04T14:41:30.288995+00:00"
+  },
+  {
+    "job_id": "amazon:659c8df8-733e-42e9-82db-73b4835f5fb4",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, Kiro Web",
+    "location": "US, OR, Portland",
+    "posted": "August  4, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10491873/software-development-engineer-kiro-web",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-04T16:53:30.798208+00:00",
+    "emailed_utc": "2026-08-04T16:53:30.798208+00:00"
+  },
+  {
+    "job_id": "amazon:983f91bb-2e1c-4255-b56d-626cff8e9495",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, Kiro Web",
+    "location": "US, WA, Seattle",
+    "posted": "August  4, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10491871/software-development-engineer-kiro-web",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-04T16:53:30.798208+00:00",
+    "emailed_utc": "2026-08-04T16:53:30.798208+00:00"
+  },
+  {
+    "job_id": "amazon:779105e1-28f5-464a-8f9b-598a803fe3f3",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, Kiro Web",
+    "location": "US, WA, Seattle",
+    "posted": "August  4, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10491870/software-development-engineer-kiro-web",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-04T16:53:30.798208+00:00",
+    "emailed_utc": "2026-08-04T16:53:30.798208+00:00"
+  },
+  {
+    "job_id": "amazon:f98e26c1-9c90-4342-b379-dd631a946e9f",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, Sponsored Products and Brands",
+    "location": "US, NY, New York",
+    "posted": "August  4, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10491862/software-development-engineer-sponsored-products-and-brands",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-04T16:53:30.798208+00:00",
+    "emailed_utc": "2026-08-04T16:53:30.798208+00:00"
+  },
+  {
+    "job_id": "amazon:e28c610f-45cb-4994-9957-bfee1678d236",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Manager, Managed Streaming for Apache Kafka",
+    "location": "US, CA, Santa Monica",
+    "posted": "August  4, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10491872/software-development-manager-managed-streaming-for-apache-kafka",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-04T16:53:30.798208+00:00",
+    "emailed_utc": "2026-08-04T16:53:30.798208+00:00"
+  },
+  {
+    "job_id": "amazon:9e8a82dd-eadc-44da-bea1-d55042deeb2f",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Sr. Software Development Engineer, Kiro Web",
+    "location": "US, WA, Seattle",
+    "posted": "August  4, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10491868/sr-software-development-engineer-kiro-web",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-04T16:53:30.798208+00:00",
+    "emailed_utc": "2026-08-04T16:53:30.798208+00:00"
   }
 ]
