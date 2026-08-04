@@ -40077,5 +40077,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-04T04:32:22.320780+00:00",
     "emailed_utc": "2026-08-04T04:32:22.320780+00:00"
+  },
+  {
+    "job_id": "greenhouse:amperesand:4062231009",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "amperesand",
+    "title": "Software Engineer",
+    "location": "Reno, Nevada, United States; San Francisco, California, United States",
+    "posted": "2026-08-04T02:56:42-04:00",
+    "url": "https://job-boards.greenhouse.io/amperesand/jobs/4062231009",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-04T07:31:23.820870+00:00",
+    "emailed_utc": "2026-08-04T07:31:23.820870+00:00"
+  },
+  {
+    "job_id": "greenhouse:amperesand:4354013009",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "amperesand",
+    "title": "Senior Electronics Design Engineer",
+    "location": "Reno, Nevada, United States",
+    "posted": "2026-08-04T02:42:32-04:00",
+    "url": "https://job-boards.greenhouse.io/amperesand/jobs/4354013009",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-04T07:31:23.820870+00:00",
+    "emailed_utc": "2026-08-04T07:31:23.820870+00:00"
   }
 ]
