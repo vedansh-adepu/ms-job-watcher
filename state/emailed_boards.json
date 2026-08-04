@@ -84290,5 +84290,70 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-04T02:33:24.886693+00:00",
     "emailed_utc": "2026-08-04T02:33:24.886693+00:00"
+  },
+  {
+    "job_id": "greenhouse:newsbreak:4702106006",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "newsbreak",
+    "title": "Growth Data Scientist \u2014 Measurement Lead",
+    "location": "Mountain View, California, United States",
+    "posted": "2026-08-03T20:42:52-04:00",
+    "url": "https://job-boards.greenhouse.io/newsbreak/jobs/4702106006",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-04T03:02:37.480616+00:00",
+    "emailed_utc": "2026-08-04T03:02:37.480616+00:00"
+  },
+  {
+    "job_id": "workday:ngc:Northrop_Grumman_External_Site:req:R10243586",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Northrop Grumman",
+    "title": "Cyber Systems Engineer \u2013 Level 3 (26-367)",
+    "location": "United States-Colorado-Schriever AFB",
+    "posted": "Posted Today",
+    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Colorado-Schriever-AFB/Cyber-Systems-Engineer---Level-3--26-367-_R10243586",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-04T03:02:37.480616+00:00",
+    "emailed_utc": "2026-08-04T03:02:37.480616+00:00"
+  },
+  {
+    "job_id": "workday:ngc:Northrop_Grumman_External_Site:req:R10243457",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Northrop Grumman",
+    "title": "Engineer Quality",
+    "location": "United States-Alabama-Huntsville",
+    "posted": "Posted Today",
+    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/Engineer-Quality_R10243457",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-04T03:02:37.480616+00:00",
+    "emailed_utc": "2026-08-04T03:02:37.480616+00:00"
+  },
+  {
+    "job_id": "workday:ngc:Northrop_Grumman_External_Site:req:R10243391",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Northrop Grumman",
+    "title": "NATO Principal or Sr. Principal System Engineer",
+    "location": "United States-California-San Diego",
+    "posted": "Posted Today",
+    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/NATO-Principal-or-Sr-Principal-System-Engineer_R10243391-1",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-04T03:02:37.480616+00:00",
+    "emailed_utc": "2026-08-04T03:02:37.480616+00:00"
+  },
+  {
+    "job_id": "workday:nvidia:NVIDIAExternalCareerSite:req:JR2022589",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "NVIDIA",
+    "title": "Global Account Manager, Developer Relations - Google",
+    "location": "US, Remote",
+    "posted": "Posted Today",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-Remote/Global-Account-Manager--Developer-Relations---Google_JR2022589",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-04T03:02:37.480616+00:00",
+    "emailed_utc": "2026-08-04T03:02:37.480616+00:00"
   }
 ]
