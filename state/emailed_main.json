@@ -9865,5 +9865,18 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-03T23:41:19.770517+00:00",
     "emailed_utc": "2026-08-03T23:41:19.770517+00:00"
+  },
+  {
+    "job_id": "amazon:10327dea-e710-4bd6-8fe1-6e5bc4435687",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, Amazon S3 Index",
+    "location": "US, WA, Seattle",
+    "posted": "August  4, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10491102/software-development-engineer-amazon-s3-index",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-04T00:11:32.793881+00:00",
+    "emailed_utc": "2026-08-04T00:11:32.793881+00:00"
   }
 ]
