@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-08-04T17:05:51.001983+00:00",
+  "updated_utc": "2026-08-04T17:33:18.443685+00:00",
   "seen_ids": [
     "ashby:1password:0e9a990d-5750-44c6-b399-887eae1fba49",
     "ashby:1password:0efcd7aa-0bcf-4c65-b7dd-627833d90f37",
@@ -1209,6 +1209,7 @@
     "ashby:snowflake:e9269d2e-f5c1-48e1-bfbb-1214ef18e318",
     "ashby:snowflake:eacac37f-9bba-4503-b329-72864edb822c",
     "ashby:snowflake:eb704210-4c4a-4ab7-8838-8ba7abd55af3",
+    "ashby:snowflake:ecd08904-f188-4336-bf8c-f75f97df1a02",
     "ashby:snowflake:ed704306-6585-4a76-ba8c-d23565ae6b9c",
     "ashby:snowflake:eee8ba60-b03b-484f-aad4-ee600ca2a847",
     "ashby:snowflake:ef4a5f8b-76c5-4b98-a52a-6e65aef426ba",
@@ -18153,6 +18154,7 @@
     "greenhouse:verkada:5187946007",
     "greenhouse:verkada:5188171007",
     "greenhouse:verkada:5188708007",
+    "greenhouse:verkada:5188795007",
     "greenhouse:verkada:5189107007",
     "greenhouse:verkada:5189218007",
     "greenhouse:verkada:5191604007",
@@ -20174,6 +20176,7 @@
     "lever:zoox:2ef807a0-f80d-47ba-a1a1-578ebe195592",
     "lever:zoox:2f65fc0e-16f1-48a9-b34d-5ca5dcf76800",
     "lever:zoox:2f731f68-74fa-4214-87bd-30155a0baff5",
+    "lever:zoox:2fe0dd1c-1899-4c07-bdf1-459ddd298e81",
     "lever:zoox:2fff0bf7-bbcc-4685-9361-24eed9128c78",
     "lever:zoox:31c14ea2-3273-4784-9d37-006f19f84781",
     "lever:zoox:31ffc0c1-0d82-4414-bd1b-bbd280d6af74",
@@ -20185,6 +20188,7 @@
     "lever:zoox:38dd64ad-bbaf-41b2-a6a0-91b25920284f",
     "lever:zoox:3d951aa1-611b-4abd-ae2d-447c5361a679",
     "lever:zoox:3e02c5aa-2f28-46bd-8ba6-566973724363",
+    "lever:zoox:3e74f14a-667a-4381-9f8e-2e8b9f1b92d3",
     "lever:zoox:3f187c4f-71a2-4738-9489-19961485c502",
     "lever:zoox:3f63f90f-dccd-4c44-9e79-3b62751ddd9c",
     "lever:zoox:3fa162d1-0953-4971-8a88-3d910dba2f8b",

@@ -85772,5 +85772,57 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-04T17:05:50.922742+00:00",
     "emailed_utc": "2026-08-04T17:05:50.922742+00:00"
+  },
+  {
+    "job_id": "ashby:snowflake:ecd08904-f188-4336-bf8c-f75f97df1a02",
+    "pipeline": "boards",
+    "platform": "ashby",
+    "company": "Snowflake",
+    "title": "Data Engineering Solutions Specialist ",
+    "location": "US-NY-New York",
+    "posted": "",
+    "url": "https://jobs.ashbyhq.com/snowflake/ecd08904-f188-4336-bf8c-f75f97df1a02",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-04T17:33:18.357587+00:00",
+    "emailed_utc": "2026-08-04T17:33:18.357587+00:00"
+  },
+  {
+    "job_id": "greenhouse:verkada:5188795007",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "verkada",
+    "title": "Channel Solutions Engineer",
+    "location": "San Mateo, CA United States",
+    "posted": "2026-08-04T12:50:58-04:00",
+    "url": "https://job-boards.greenhouse.io/verkada/jobs/5188795007",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-04T17:33:18.357587+00:00",
+    "emailed_utc": "2026-08-04T17:33:18.357587+00:00"
+  },
+  {
+    "job_id": "lever:zoox:2fe0dd1c-1899-4c07-bdf1-459ddd298e81",
+    "pipeline": "boards",
+    "platform": "lever",
+    "company": "zoox",
+    "title": "Senior / Staff Lidar Engineer",
+    "location": "Foster City, CA",
+    "posted": "2026-08-04 16:55 UTC",
+    "url": "https://jobs.lever.co/zoox/2fe0dd1c-1899-4c07-bdf1-459ddd298e81",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-04T17:33:18.357587+00:00",
+    "emailed_utc": "2026-08-04T17:33:18.357587+00:00"
+  },
+  {
+    "job_id": "lever:zoox:3e74f14a-667a-4381-9f8e-2e8b9f1b92d3",
+    "pipeline": "boards",
+    "platform": "lever",
+    "company": "zoox",
+    "title": "Senior Systems Engineer, Fail Operational Capabilities",
+    "location": "Foster City, CA",
+    "posted": "2026-08-04 16:19 UTC",
+    "url": "https://jobs.lever.co/zoox/3e74f14a-667a-4381-9f8e-2e8b9f1b92d3",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-04T17:33:18.357587+00:00",
+    "emailed_utc": "2026-08-04T17:33:18.357587+00:00"
   }
 ]
