@@ -10125,5 +10125,70 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-04T17:23:33.703215+00:00",
     "emailed_utc": "2026-08-04T17:23:33.703215+00:00"
+  },
+  {
+    "job_id": "amazon:ef62ba95-aa41-4653-a21c-2d75ebe57c25",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Applied Scientist - Computational Modeling, OMHS SCS",
+    "location": "US, MA, N.reading",
+    "posted": "August  4, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10491961/applied-scientist-computational-modeling-omhs-scs",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-04T17:33:51.800939+00:00",
+    "emailed_utc": "2026-08-04T17:33:51.800939+00:00"
+  },
+  {
+    "job_id": "amazon:55d6cf79-4419-4a94-87f2-cc7a2448e494",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Applied Scientist - Computational Modeling, OMHS SCS",
+    "location": "US, MA, N.reading",
+    "posted": "August  4, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10491962/applied-scientist-computational-modeling-omhs-scs",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-04T17:33:51.800939+00:00",
+    "emailed_utc": "2026-08-04T17:33:51.800939+00:00"
+  },
+  {
+    "job_id": "amazon:4f3c31bb-18e9-4d73-a9f9-1d28de9ccf63",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Sr SDE - AFX, AFX",
+    "location": "US, TX, Dallas",
+    "posted": "August  4, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10491960/sr-sde-afx-afx",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-04T17:33:51.800939+00:00",
+    "emailed_utc": "2026-08-04T17:33:51.800939+00:00"
+  },
+  {
+    "job_id": "amazon:1e63ef23-02fd-4c0a-af51-3da0f9e891b5",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Senior Applied Scientist, APEX",
+    "location": "US, WA, Bellevue",
+    "posted": "August  4, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10491688/senior-applied-scientist-apex",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-04T17:33:51.800939+00:00",
+    "emailed_utc": "2026-08-04T17:33:51.800939+00:00"
+  },
+  {
+    "job_id": "amazon:7fcbe2f9-90b3-44e5-9ff2-9760e8fc6ba2",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Sr. Manager, Software Development, Elastic File System",
+    "location": "US, MA, Boston",
+    "posted": "August  4, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10491867/sr-manager-software-development-elastic-file-system",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-04T17:33:51.800939+00:00",
+    "emailed_utc": "2026-08-04T17:33:51.800939+00:00"
   }
 ]
