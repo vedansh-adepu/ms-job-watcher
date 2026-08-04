@@ -40103,5 +40103,18 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-04T07:31:23.820870+00:00",
     "emailed_utc": "2026-08-04T07:31:23.820870+00:00"
+  },
+  {
+    "job_id": "greenhouse:grvty:4353601009",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "grvty",
+    "title": "Software Engineer",
+    "location": "Laurel, Maryland, United States",
+    "posted": "2026-08-04T06:39:49-04:00",
+    "url": "https://job-boards.greenhouse.io/grvty/jobs/4353601009",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-04T11:01:47.679653+00:00",
+    "emailed_utc": "2026-08-04T11:01:47.679653+00:00"
   }
 ]
