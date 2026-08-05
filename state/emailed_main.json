@@ -10762,5 +10762,57 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-05T17:21:19.006078+00:00",
     "emailed_utc": "2026-08-05T17:21:19.006078+00:00"
+  },
+  {
+    "job_id": "amazon:86d00711-297e-41be-be8e-1e4a7cd979c1",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, Amazon ECS",
+    "location": "US, WA, Seattle",
+    "posted": "August  5, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10493228/software-development-engineer-amazon-ecs",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-05T17:41:27.040350+00:00",
+    "emailed_utc": "2026-08-05T17:41:27.040350+00:00"
+  },
+  {
+    "job_id": "amazon:b3c38a8f-6dad-41f3-a371-eff2f3940ee1",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, ECS",
+    "location": "US, WA, Seattle",
+    "posted": "August  5, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10493225/software-development-engineer-ecs",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-05T17:41:27.040350+00:00",
+    "emailed_utc": "2026-08-05T17:41:27.040350+00:00"
+  },
+  {
+    "job_id": "amazon:433f734f-627a-4369-8b51-3d8bc9fd4a8e",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Data Engineer II, Data Management Team",
+    "location": "US, WA, Seattle",
+    "posted": "August  5, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10493224/data-engineer-ii-data-management-team",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-05T17:41:27.040350+00:00",
+    "emailed_utc": "2026-08-05T17:41:27.040350+00:00"
+  },
+  {
+    "job_id": "microsoft:1970393556924350",
+    "pipeline": "main",
+    "platform": "microsoft",
+    "company": "Microsoft",
+    "title": "Principal Signal Integrity Simulation Engineer",
+    "location": "Redmond, WA, US",
+    "posted": "2026-07-17 19:15 UTC",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556924350",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-05T17:41:27.040350+00:00",
+    "emailed_utc": "2026-08-05T17:41:27.040350+00:00"
   }
 ]
