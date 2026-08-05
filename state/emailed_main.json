@@ -10970,5 +10970,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-05T22:31:24.860782+00:00",
     "emailed_utc": "2026-08-05T22:31:24.860782+00:00"
+  },
+  {
+    "job_id": "amazon:ee0dcfb4-bb13-4a9e-a852-c9ed5091fa4a",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, Selection Economics Tech",
+    "location": "US, WA, Seattle",
+    "posted": "August  5, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10493591/software-development-engineer-selection-economics-tech",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-05T22:41:29.094123+00:00",
+    "emailed_utc": "2026-08-05T22:41:29.094123+00:00"
+  },
+  {
+    "job_id": "amazon:376dc596-248d-4551-87b3-cc8d5acec83e",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Sr Software Dev Engineer , S3 Foundation",
+    "location": "US, VA, Arlington",
+    "posted": "August  5, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10493595/sr-software-dev-engineer-s3-foundation",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-05T22:41:29.094123+00:00",
+    "emailed_utc": "2026-08-05T22:41:29.094123+00:00"
   }
 ]
