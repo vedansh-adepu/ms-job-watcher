@@ -42066,5 +42066,44 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-05T01:32:10.955475+00:00",
     "emailed_utc": "2026-08-05T01:32:10.955475+00:00"
+  },
+  {
+    "job_id": "greenhouse:coupanginternal:8036988",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "coupanginternal",
+    "title": "Staff Machine Learning Engineer - Ads",
+    "location": "Mountain View, USA",
+    "posted": "2026-08-04T22:13:37-04:00",
+    "url": "https://boards.greenhouse.io/coupanginternal/jobs/8036988?gh_jid=8036988",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-05T02:31:40.783354+00:00",
+    "emailed_utc": "2026-08-05T02:31:40.783354+00:00"
+  },
+  {
+    "job_id": "greenhouse:coupang:8036987",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "coupang",
+    "title": "Staff Machine Learning Engineer - Ads",
+    "location": "Mountain View, USA",
+    "posted": "2026-08-04T22:13:37-04:00",
+    "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8036987",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-05T02:31:40.783354+00:00",
+    "emailed_utc": "2026-08-05T02:31:40.783354+00:00"
+  },
+  {
+    "job_id": "greenhouse:freestar:8681165002",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "freestar",
+    "title": "Senior Software Engineer - Javascript (Remote- US only)",
+    "location": "Remote- US only",
+    "posted": "2026-08-04T21:31:10-04:00",
+    "url": "https://freestar.io/careers/?gh_jid=8681165002",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-05T02:31:40.783354+00:00",
+    "emailed_utc": "2026-08-05T02:31:40.783354+00:00"
   }
 ]
