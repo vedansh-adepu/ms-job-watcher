@@ -10879,5 +10879,31 @@
     "bucket": "yes",
     "first_seen_utc": "2026-08-05T19:21:23.711418+00:00",
     "emailed_utc": "2026-08-05T19:21:23.711418+00:00"
+  },
+  {
+    "job_id": "amazon:f22deea9-474c-4065-ba75-49d256acb49b",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Applied Scientist, Search Ranking",
+    "location": "US, WA, Seattle",
+    "posted": "August  5, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10493467/applied-scientist-search-ranking",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-05T20:31:29.702931+00:00",
+    "emailed_utc": "2026-08-05T20:31:29.702931+00:00"
+  },
+  {
+    "job_id": "amazon:1fa7f579-0956-44bd-9a65-ef1d0dcf900d",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, RDS SQL Server",
+    "location": "US, WA, Redmond",
+    "posted": "August  5, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10493470/software-development-engineer-rds-sql-server",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-05T20:31:29.702931+00:00",
+    "emailed_utc": "2026-08-05T20:31:29.702931+00:00"
   }
 ]
