@@ -90322,5 +90322,44 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-05T14:34:13.708646+00:00",
     "emailed_utc": "2026-08-05T14:34:13.708646+00:00"
+  },
+  {
+    "job_id": "greenhouse:ripple:8106921",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Ripple",
+    "title": "Manager, Software Engineering",
+    "location": "Chicago, Illinois, United States",
+    "posted": "2026-08-05T10:30:50-04:00",
+    "url": "https://ripple.com/careers/all-jobs/job/8106921?gh_jid=8106921",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-05T15:02:56.865390+00:00",
+    "emailed_utc": "2026-08-05T15:02:56.865390+00:00"
+  },
+  {
+    "job_id": "greenhouse:ripple:8106886",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Ripple",
+    "title": "Senior Software Engineer",
+    "location": "Chicago, Illinois, United States",
+    "posted": "2026-08-05T10:41:01-04:00",
+    "url": "https://ripple.com/careers/all-jobs/job/8106886?gh_jid=8106886",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-05T15:02:56.865390+00:00",
+    "emailed_utc": "2026-08-05T15:02:56.865390+00:00"
+  },
+  {
+    "job_id": "greenhouse:sharkninjaoperatingllc:4701150006",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "sharkninjaoperatingllc",
+    "title": "Director, Data Engineering",
+    "location": "Needham, MA, United States",
+    "posted": "2026-08-05T09:18:00-04:00",
+    "url": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4701150006",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-05T15:02:56.865390+00:00",
+    "emailed_utc": "2026-08-05T15:02:56.865390+00:00"
   }
 ]
