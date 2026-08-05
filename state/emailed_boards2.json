@@ -42248,5 +42248,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-05T11:46:01.142218+00:00",
     "emailed_utc": "2026-08-05T11:46:01.142218+00:00"
+  },
+  {
+    "job_id": "greenhouse:dragos:5362133008",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "dragos",
+    "title": "Senior Systems Engineer",
+    "location": "United States",
+    "posted": "2026-08-05T08:48:08-04:00",
+    "url": "https://job-boards.greenhouse.io/dragos/jobs/5362133008",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-05T13:02:00.298238+00:00",
+    "emailed_utc": "2026-08-05T13:02:00.298238+00:00"
+  },
+  {
+    "job_id": "greenhouse:forbes:6134501004",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "forbes",
+    "title": "Engineer II, Infrastructure",
+    "location": "Jersey City, NJ",
+    "posted": "2026-08-05T08:36:20-04:00",
+    "url": "https://job-boards.greenhouse.io/forbes/jobs/6134501004",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-05T13:02:00.298238+00:00",
+    "emailed_utc": "2026-08-05T13:02:00.298238+00:00"
   }
 ]
