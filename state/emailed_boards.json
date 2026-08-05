@@ -92584,5 +92584,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-05T19:53:38.548975+00:00",
     "emailed_utc": "2026-08-05T19:53:38.548975+00:00"
+  },
+  {
+    "job_id": "greenhouse:tailscale:4721714005",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Tailscale",
+    "title": "Software Engineer, Strategic Projects",
+    "location": "Remote (United States)",
+    "posted": "2026-08-05T15:04:38-04:00",
+    "url": "https://job-boards.greenhouse.io/tailscale/jobs/4721714005",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-05T20:03:12.318255+00:00",
+    "emailed_utc": "2026-08-05T20:03:12.318255+00:00"
+  },
+  {
+    "job_id": "greenhouse:rocketlab:7827082003",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "rocketlab",
+    "title": "Spacecraft Mechanical Engineer I",
+    "location": "Long Beach, CA",
+    "posted": "2026-08-05T14:50:08-04:00",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7827082003",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-05T20:03:12.318255+00:00",
+    "emailed_utc": "2026-08-05T20:03:12.318255+00:00"
   }
 ]
