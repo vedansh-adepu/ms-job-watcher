@@ -41975,5 +41975,83 @@
     "bucket": "yes",
     "first_seen_utc": "2026-08-05T00:32:12.229540+00:00",
     "emailed_utc": "2026-08-05T00:32:12.229540+00:00"
+  },
+  {
+    "job_id": "greenhouse:lightmatter:5379870008",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "lightmatter",
+    "title": "Electrical Design Engineer",
+    "location": "Mountain View, CA",
+    "posted": "2026-08-04T20:25:18-04:00",
+    "url": "https://boards.greenhouse.io/lightmatter/jobs/5379870008?gh_jid=5379870008",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-05T01:02:51.109397+00:00",
+    "emailed_utc": "2026-08-05T01:02:51.109397+00:00"
+  },
+  {
+    "job_id": "greenhouse:mavenrobotics:5378870008",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "mavenrobotics",
+    "title": "Lead Fleet Operations Software Engineer",
+    "location": "San Francisco Bay Area, California USA",
+    "posted": "2026-08-04T20:06:21-04:00",
+    "url": "https://boards.greenhouse.io/mavenrobotics/jobs/5378870008?gh_jid=5378870008",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-05T01:02:51.109397+00:00",
+    "emailed_utc": "2026-08-05T01:02:51.109397+00:00"
+  },
+  {
+    "job_id": "greenhouse:mavenrobotics:5378869008",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "mavenrobotics",
+    "title": "Modeling and Simulation Engineer",
+    "location": "San Francisco Bay Area, California USA",
+    "posted": "2026-08-04T20:10:38-04:00",
+    "url": "https://boards.greenhouse.io/mavenrobotics/jobs/5378869008?gh_jid=5378869008",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-05T01:02:51.109397+00:00",
+    "emailed_utc": "2026-08-05T01:02:51.109397+00:00"
+  },
+  {
+    "job_id": "greenhouse:nice:4931025101",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "nice",
+    "title": "Partner Success Implementation Engineer",
+    "location": "USA - Remote",
+    "posted": "2026-08-04T19:23:09-04:00",
+    "url": "https://boards.eu.greenhouse.io/nice/jobs/4931025101?gh_jid=4931025101",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-05T01:02:51.109397+00:00",
+    "emailed_utc": "2026-08-05T01:02:51.109397+00:00"
+  },
+  {
+    "job_id": "greenhouse:stratolaunch:5380315008",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "stratolaunch",
+    "title": "Sr. Manufacturing Engineer- CNC Programmer",
+    "location": "Mojave, CA",
+    "posted": "2026-08-04T20:42:21-04:00",
+    "url": "https://job-boards.greenhouse.io/stratolaunch/jobs/5380315008",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-05T01:02:51.109397+00:00",
+    "emailed_utc": "2026-08-05T01:02:51.109397+00:00"
+  },
+  {
+    "job_id": "greenhouse:stratolaunch:5380323008",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "stratolaunch",
+    "title": "Tooling and Systems Manufacturing Engineer",
+    "location": "Mojave, CA",
+    "posted": "2026-08-04T20:51:16-04:00",
+    "url": "https://job-boards.greenhouse.io/stratolaunch/jobs/5380323008",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-05T01:02:51.109397+00:00",
+    "emailed_utc": "2026-08-05T01:02:51.109397+00:00"
   }
 ]
