@@ -43080,5 +43080,83 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-05T19:02:44.873176+00:00",
     "emailed_utc": "2026-08-05T19:02:44.873176+00:00"
+  },
+  {
+    "job_id": "greenhouse:zestai:6135604004",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "zestai",
+    "title": "Data Analyst",
+    "location": "United States",
+    "posted": "2026-08-05T15:21:11-04:00",
+    "url": "https://job-boards.greenhouse.io/zestai/jobs/6135604004",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-05T19:32:29.524945+00:00",
+    "emailed_utc": "2026-08-05T19:32:29.524945+00:00"
+  },
+  {
+    "job_id": "greenhouse:xai:5204393007",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "xai",
+    "title": "Operational Technology Engineer ",
+    "location": "Memphis, Tennessee, United States; Southaven, Mississippi, United States",
+    "posted": "2026-08-05T15:26:31-04:00",
+    "url": "https://job-boards.greenhouse.io/xai/jobs/5204393007",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-05T19:32:29.524945+00:00",
+    "emailed_utc": "2026-08-05T19:32:29.524945+00:00"
+  },
+  {
+    "job_id": "greenhouse:zscaler:5043554007",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "zscaler",
+    "title": "Principal Rust Developer",
+    "location": "San Jose, California, USA",
+    "posted": "2026-08-05T15:16:53-04:00",
+    "url": "https://job-boards.greenhouse.io/zscaler/jobs/5043554007",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-05T19:32:29.524945+00:00",
+    "emailed_utc": "2026-08-05T19:32:29.524945+00:00"
+  },
+  {
+    "job_id": "lever:charmindustrial:65d1b1dd-977c-4a27-aafa-7fd8ac7289aa",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "charmindustrial",
+    "title": "Staff Industrial Site Development Engineer",
+    "location": "Fort Lupton, CO",
+    "posted": "2026-08-05 16:30 UTC",
+    "url": "https://jobs.lever.co/charmindustrial/65d1b1dd-977c-4a27-aafa-7fd8ac7289aa",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-05T19:32:29.524945+00:00",
+    "emailed_utc": "2026-08-05T19:32:29.524945+00:00"
+  },
+  {
+    "job_id": "lever:flowlife:835e26e3-4036-4420-b5fd-b8c40674dc35",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "flowlife",
+    "title": "Chief Engineer",
+    "location": "Miami, FL",
+    "posted": "2026-08-05 19:06 UTC",
+    "url": "https://jobs.lever.co/flowlife/835e26e3-4036-4420-b5fd-b8c40674dc35",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-05T19:32:29.524945+00:00",
+    "emailed_utc": "2026-08-05T19:32:29.524945+00:00"
+  },
+  {
+    "job_id": "lever:magnetforensics:47785d97-dde1-481c-b60b-dfbff4db9873",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "magnetforensics",
+    "title": "Senior Embedded Firmware Engineer",
+    "location": "United States",
+    "posted": "2026-08-05 18:47 UTC",
+    "url": "https://jobs.lever.co/magnetforensics/47785d97-dde1-481c-b60b-dfbff4db9873",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-05T19:32:29.524945+00:00",
+    "emailed_utc": "2026-08-05T19:32:29.524945+00:00"
   }
 ]
