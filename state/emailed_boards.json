@@ -93975,5 +93975,70 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-05T23:02:31.953506+00:00",
     "emailed_utc": "2026-08-05T23:02:31.953506+00:00"
+  },
+  {
+    "job_id": "greenhouse:axs:8685689002",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Axs",
+    "title": "VP, Data Platform Engineering",
+    "location": "San Francisco, CA",
+    "posted": "2026-08-05T17:58:27-04:00",
+    "url": "https://job-boards.greenhouse.io/axs/jobs/8685689002",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-05T23:31:05.547487+00:00",
+    "emailed_utc": "2026-08-05T23:31:05.547487+00:00"
+  },
+  {
+    "job_id": "greenhouse:axs:8524201002",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Axs",
+    "title": "VP, Data Platform Engineering",
+    "location": "Los Angeles, CA",
+    "posted": "2026-08-05T17:58:26-04:00",
+    "url": "https://job-boards.greenhouse.io/axs/jobs/8524201002",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-05T23:31:05.547487+00:00",
+    "emailed_utc": "2026-08-05T23:31:05.547487+00:00"
+  },
+  {
+    "job_id": "greenhouse:torcrobotics:8677422002",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Torcrobotics",
+    "title": "Software Engineer, II - Autonomy Data ",
+    "location": "Remote - US, Blacksburg, VA",
+    "posted": "2026-08-05T18:59:25-04:00",
+    "url": "https://job-boards.greenhouse.io/torcrobotics/jobs/8677422002",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-05T23:31:05.547487+00:00",
+    "emailed_utc": "2026-08-05T23:31:05.547487+00:00"
+  },
+  {
+    "job_id": "greenhouse:attentive:4355309009",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Attentive",
+    "title": "Senior Software Engineer, Intelligent Messaging, AI Journeys",
+    "location": "San Francisco, CA",
+    "posted": "2026-08-05T18:34:53-04:00",
+    "url": "https://job-boards.greenhouse.io/attentive/jobs/4355309009",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-05T23:31:05.547487+00:00",
+    "emailed_utc": "2026-08-05T23:31:05.547487+00:00"
+  },
+  {
+    "job_id": "lever:rigetti:a4dd3204-aefc-479c-a81b-6c427444f8b0",
+    "pipeline": "boards",
+    "platform": "lever",
+    "company": "Rigetti",
+    "title": "IT Engineer",
+    "location": "Fremont, CA",
+    "posted": "2026-08-04 16:03 UTC",
+    "url": "https://jobs.lever.co/rigetti/a4dd3204-aefc-479c-a81b-6c427444f8b0",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-05T23:31:05.547487+00:00",
+    "emailed_utc": "2026-08-05T23:31:05.547487+00:00"
   }
 ]
