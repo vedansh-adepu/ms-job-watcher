@@ -89035,5 +89035,57 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-04T23:33:05.799048+00:00",
     "emailed_utc": "2026-08-04T23:33:05.799048+00:00"
+  },
+  {
+    "job_id": "workday:gdit:External_Career_Site:req:RQ225737",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "General Dynamics Information Technology (GDIT)",
+    "title": "Junior DS Engineer",
+    "location": "USA AK Eielson AFB",
+    "posted": "Posted Today",
+    "url": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-AK-Eielson-AFB/Junior-DS-Engineer_RQ225737-1",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-05T00:03:21.290692+00:00",
+    "emailed_utc": "2026-08-05T00:03:21.290692+00:00"
+  },
+  {
+    "job_id": "workday:thehartford:Careers_External:req:R2626276",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Hartford",
+    "title": "Risk Engineering Lab Technician",
+    "location": "Hartford, CT",
+    "posted": "Posted Today",
+    "url": "https://thehartford.wd5.myworkdayjobs.com/en-US/Careers_External/job/Hartford-CT/Risk-Engineering-Lab-Technician_R2626276",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-05T00:03:21.290692+00:00",
+    "emailed_utc": "2026-08-05T00:03:21.290692+00:00"
+  },
+  {
+    "job_id": "workday:jll:jllcareers:req:REQ526784",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "JLL",
+    "title": "Operating Engineer - Event Facility",
+    "location": "O'Fallon, MO",
+    "posted": "Posted Today",
+    "url": "https://jll.wd1.myworkdayjobs.com/en-US/jllcareers/job/OFallon-MO/Operating-Engineer---Event-Facility_REQ526784",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-05T00:03:21.290692+00:00",
+    "emailed_utc": "2026-08-05T00:03:21.290692+00:00"
+  },
+  {
+    "job_id": "workday:jll:jllcareers:req:REQ526134",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "JLL",
+    "title": "Chief Engineer",
+    "location": "West Palm Beach, FL",
+    "posted": "Posted Today",
+    "url": "https://jll.wd1.myworkdayjobs.com/en-US/jllcareers/job/West-Palm-Beach-FL/Chief-Engineer_REQ526134",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-05T00:03:21.290692+00:00",
+    "emailed_utc": "2026-08-05T00:03:21.290692+00:00"
   }
 ]
