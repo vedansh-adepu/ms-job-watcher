@@ -10697,5 +10697,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-05T16:52:39.216376+00:00",
     "emailed_utc": "2026-08-05T16:52:39.216376+00:00"
+  },
+  {
+    "job_id": "amazon:900cc74b-b86c-442d-9f54-db60a8ae1185",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, Transit Gateway",
+    "location": "US, VA, Herndon",
+    "posted": "August  5, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10493150/software-development-engineer-transit-gateway",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-05T17:01:27.083154+00:00",
+    "emailed_utc": "2026-08-05T17:01:27.083154+00:00"
+  },
+  {
+    "job_id": "amazon:ff54af53-e958-43db-be09-96d7a73ca39b",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Sr Atlassian Admin Engineer, Amazon Leo Productivity Engineering Application Services (ALPEAS)",
+    "location": "US, VA, Arlington",
+    "posted": "August  5, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10493148/sr-atlassian-admin-engineer-amazon-leo-productivity-engineering-application-services-alpeas",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-05T17:01:27.083154+00:00",
+    "emailed_utc": "2026-08-05T17:01:27.083154+00:00"
   }
 ]
