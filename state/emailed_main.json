@@ -10866,5 +10866,18 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-05T18:31:24.976681+00:00",
     "emailed_utc": "2026-08-05T18:31:24.976681+00:00"
+  },
+  {
+    "job_id": "amazon:2ecebc73-91d5-43d8-8477-088e039a1adf",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, Amazon Customer Service",
+    "location": "US, WA, Seattle",
+    "posted": "August  5, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10493369/software-development-engineer-amazon-customer-service",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-05T19:21:23.711418+00:00",
+    "emailed_utc": "2026-08-05T19:21:23.711418+00:00"
   }
 ]
