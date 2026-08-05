@@ -10840,5 +10840,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-05T18:11:38.115659+00:00",
     "emailed_utc": "2026-08-05T18:11:38.115659+00:00"
+  },
+  {
+    "job_id": "amazon:481de8da-9350-414b-bf49-666c105469f8",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Systems Development Engineer II, AWS Cross Domain Services (CDS)",
+    "location": "US, WA, Seattle",
+    "posted": "August  5, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10493298/systems-development-engineer-ii-aws-cross-domain-services-cds",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-05T18:31:24.976681+00:00",
+    "emailed_utc": "2026-08-05T18:31:24.976681+00:00"
+  },
+  {
+    "job_id": "amazon:863cc69e-ca7b-405b-9c1f-4b458e930d2f",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Senior Software Development Engineer, Consumer Domains",
+    "location": "US, NJ, Newark",
+    "posted": "August  5, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10493307/senior-software-development-engineer-consumer-domains",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-05T18:31:24.976681+00:00",
+    "emailed_utc": "2026-08-05T18:31:24.976681+00:00"
   }
 ]
