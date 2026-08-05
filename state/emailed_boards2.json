@@ -42807,5 +42807,44 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-05T17:11:28.692439+00:00",
     "emailed_utc": "2026-08-05T17:11:28.692439+00:00"
+  },
+  {
+    "job_id": "greenhouse:unlockhealth:5189177007",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "unlockhealth",
+    "title": "Creative Data Analyst",
+    "location": "Chicago, Illinois, United States; Nashville, Tennessee, United States",
+    "posted": "2026-08-05T12:37:34-04:00",
+    "url": "https://job-boards.greenhouse.io/unlockhealth/jobs/5189177007",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-05T17:32:32.527566+00:00",
+    "emailed_utc": "2026-08-05T17:32:32.527566+00:00"
+  },
+  {
+    "job_id": "greenhouse:uniteus:8684088002",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "uniteus",
+    "title": "Senior Analytics Consultant ",
+    "location": "United States",
+    "posted": "2026-08-05T12:48:02-04:00",
+    "url": "https://job-boards.greenhouse.io/uniteus/jobs/8684088002",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-05T17:32:32.527566+00:00",
+    "emailed_utc": "2026-08-05T17:32:32.527566+00:00"
+  },
+  {
+    "job_id": "lever:fullspectrumsoftware:22ff1647-9fb0-475d-9b99-2d950742289f",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "fullspectrumsoftware",
+    "title": "Staff Embedded C++ Software Engineer - Robotics",
+    "location": "Westborough, MA",
+    "posted": "2026-08-05 17:15 UTC",
+    "url": "https://jobs.lever.co/fullspectrumsoftware/22ff1647-9fb0-475d-9b99-2d950742289f",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-05T17:32:32.527566+00:00",
+    "emailed_utc": "2026-08-05T17:32:32.527566+00:00"
   }
 ]
