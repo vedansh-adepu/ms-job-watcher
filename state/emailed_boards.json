@@ -91505,5 +91505,70 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-05T18:02:25.717601+00:00",
     "emailed_utc": "2026-08-05T18:02:25.717601+00:00"
+  },
+  {
+    "job_id": "greenhouse:lucidmotors:5202054007",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Lucidmotors",
+    "title": "Software Developer",
+    "location": "Newark, CA",
+    "posted": "2026-08-05T14:10:14-04:00",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5202054007",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-05T18:31:28.325156+00:00",
+    "emailed_utc": "2026-08-05T18:31:28.325156+00:00"
+  },
+  {
+    "job_id": "ashby:formenergy:e7a042b2-d15e-428e-9348-7c2c662a20cb",
+    "pipeline": "boards",
+    "platform": "ashby",
+    "company": "Form Energy",
+    "title": "Senior Controls Engineer",
+    "location": "Weirton, WV",
+    "posted": "",
+    "url": "https://jobs.ashbyhq.com/formenergy/e7a042b2-d15e-428e-9348-7c2c662a20cb",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-05T18:31:28.325156+00:00",
+    "emailed_utc": "2026-08-05T18:31:28.325156+00:00"
+  },
+  {
+    "job_id": "greenhouse:oklo:6135392004",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Oklo",
+    "title": "Mechanical Design Engineer - Core Mechanical Design",
+    "location": "Santa Clara, CA or Remote",
+    "posted": "2026-08-05T13:08:47-04:00",
+    "url": "https://job-boards.greenhouse.io/oklo/jobs/6135392004",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-05T18:31:28.325156+00:00",
+    "emailed_utc": "2026-08-05T18:31:28.325156+00:00"
+  },
+  {
+    "job_id": "greenhouse:hellofresh:8104082",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Hellofresh",
+    "title": "Specialist, Sourcing Analytics",
+    "location": "Boulder, Colorado, United States; New York, NY, United States",
+    "posted": "2026-08-05T13:57:02-04:00",
+    "url": "https://careers.hellofresh.com/global/en/job/8104082?gh_jid=8104082",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-05T18:31:28.325156+00:00",
+    "emailed_utc": "2026-08-05T18:31:28.325156+00:00"
+  },
+  {
+    "job_id": "lever:field-ai:049691f0-8f8a-4675-9d75-257ac46c715d",
+    "pipeline": "boards",
+    "platform": "lever",
+    "company": "Field Ai",
+    "title": "Senior Field Application Engineer - Irvine, CA",
+    "location": "Irvine, CA",
+    "posted": "2026-08-05 18:02 UTC",
+    "url": "https://jobs.lever.co/field-ai/049691f0-8f8a-4675-9d75-257ac46c715d",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-05T18:31:28.325156+00:00",
+    "emailed_utc": "2026-08-05T18:31:28.325156+00:00"
   }
 ]
