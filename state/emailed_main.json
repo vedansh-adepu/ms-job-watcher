@@ -10814,5 +10814,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-05T17:41:27.040350+00:00",
     "emailed_utc": "2026-08-05T17:41:27.040350+00:00"
+  },
+  {
+    "job_id": "amazon:d2bc9b3d-6786-4d65-ad7f-69d6b8aaaba8",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, Amazon Search Autocomplete and Navigation AI",
+    "location": "US, WA, Seattle",
+    "posted": "August  5, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10493280/software-development-engineer-amazon-search-autocomplete-and-navigation-ai",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-05T18:11:38.115659+00:00",
+    "emailed_utc": "2026-08-05T18:11:38.115659+00:00"
+  },
+  {
+    "job_id": "amazon:2d334ec6-cdf2-4b0f-812a-5a03ce0ba2c7",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Senior Software Development Engineer",
+    "location": "US, NJ, Newark",
+    "posted": "August  5, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10493266/senior-software-development-engineer",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-05T18:11:38.115659+00:00",
+    "emailed_utc": "2026-08-05T18:11:38.115659+00:00"
   }
 ]
