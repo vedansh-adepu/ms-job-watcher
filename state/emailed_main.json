@@ -10671,5 +10671,18 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-05T16:31:47.101127+00:00",
     "emailed_utc": "2026-08-05T16:31:47.101127+00:00"
+  },
+  {
+    "job_id": "amazon:e6fdc8b3-a832-4cca-a8f2-51aa52ad7f81",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, Compute Services ",
+    "location": "US, WA, Seattle",
+    "posted": "August  5, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10493115/software-development-engineer-compute-services",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-05T16:41:08.555769+00:00",
+    "emailed_utc": "2026-08-05T16:41:08.555769+00:00"
   }
 ]
