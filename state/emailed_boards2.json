@@ -43626,5 +43626,44 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-05T21:02:38.186450+00:00",
     "emailed_utc": "2026-08-05T21:02:38.186450+00:00"
+  },
+  {
+    "job_id": "lever:viome:13ef7e9d-263e-4305-89f8-e5f063982c10",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "viome",
+    "title": "Full-Stack Software Engineer Innovation",
+    "location": "Bellevue, WA",
+    "posted": "2026-04-13 21:00 UTC",
+    "url": "https://jobs.lever.co/viome/13ef7e9d-263e-4305-89f8-e5f063982c10",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-05T21:31:23.722902+00:00",
+    "emailed_utc": "2026-08-05T21:31:23.722902+00:00"
+  },
+  {
+    "job_id": "lever:velo3d:c55a863e-ebb3-475f-a558-0bcfdb9da23d",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "velo3d",
+    "title": "Senior Additive Manufacturing Engineer",
+    "location": "Fremont, CA",
+    "posted": "2026-08-05 20:14 UTC",
+    "url": "https://jobs.lever.co/velo3d/c55a863e-ebb3-475f-a558-0bcfdb9da23d",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-05T21:31:23.722902+00:00",
+    "emailed_utc": "2026-08-05T21:31:23.722902+00:00"
+  },
+  {
+    "job_id": "lever:velo3d:fc174884-0ea0-4fbf-a668-bb04b3044add",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "velo3d",
+    "title": "Staff Additive Manufacturing Engineer",
+    "location": "Fremont, CA",
+    "posted": "2026-08-05 20:19 UTC",
+    "url": "https://jobs.lever.co/velo3d/fc174884-0ea0-4fbf-a668-bb04b3044add",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-05T21:31:23.722902+00:00",
+    "emailed_utc": "2026-08-05T21:31:23.722902+00:00"
   }
 ]
