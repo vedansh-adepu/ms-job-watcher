@@ -1,48 +1,5 @@
 [
   {
-    "ts": "2026-07-29T17:03Z",
-    "mode": "boards",
-    "per_source": {
-      "greenhouse": {
-        "fetched": 10589,
-        "title_ok": 3642,
-        "loc_ok": 2191,
-        "new": 3,
-        "emailed": 3
-      },
-      "lever": {
-        "fetched": 611,
-        "title_ok": 54,
-        "loc_ok": 40,
-        "new": 0,
-        "emailed": 0
-      },
-      "ashby": {
-        "fetched": 153,
-        "title_ok": 44,
-        "loc_ok": 0,
-        "new": 0,
-        "emailed": 0
-      },
-      "smartrecruiters": {
-        "fetched": 1292,
-        "title_ok": 290,
-        "loc_ok": 116,
-        "new": 0,
-        "emailed": 0
-      },
-      "workday": {
-        "fetched": 10655,
-        "title_ok": 2505,
-        "loc_ok": 848,
-        "new": 25,
-        "emailed": 25
-      }
-    },
-    "duration_s": 155.4,
-    "cursor": 200
-  },
-  {
     "ts": "2026-07-29T17:11Z",
     "mode": "main",
     "per_source": {
@@ -41970,6 +41927,56 @@
       }
     },
     "duration_s": 9.8,
+    "cursor": null
+  },
+  {
+    "ts": "2026-08-05T03:01Z",
+    "mode": "main",
+    "per_source": {
+      "microsoft": {
+        "fetched": 182,
+        "title_ok": 83,
+        "loc_ok": 83,
+        "new": 0,
+        "emailed": 0
+      },
+      "amazon": {
+        "fetched": 100,
+        "title_ok": 99,
+        "loc_ok": 99,
+        "new": 0,
+        "emailed": 0
+      },
+      "nvidia": {
+        "fetched": 50,
+        "title_ok": 46,
+        "loc_ok": 46,
+        "new": 0,
+        "emailed": 0
+      },
+      "goldman_sachs": {
+        "fetched": 0,
+        "title_ok": 0,
+        "loc_ok": 0,
+        "new": 0,
+        "emailed": 0
+      },
+      "ibm": {
+        "fetched": 2,
+        "title_ok": 2,
+        "loc_ok": 0,
+        "new": 0,
+        "emailed": 0
+      },
+      "oracle": {
+        "fetched": 0,
+        "title_ok": 0,
+        "loc_ok": 0,
+        "new": 0,
+        "emailed": 0
+      }
+    },
+    "duration_s": 12.0,
     "cursor": null
   }
 ]
