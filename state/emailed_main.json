@@ -10723,5 +10723,44 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-05T17:01:27.083154+00:00",
     "emailed_utc": "2026-08-05T17:01:27.083154+00:00"
+  },
+  {
+    "job_id": "nvidia:893396884970",
+    "pipeline": "main",
+    "platform": "nvidia",
+    "company": "NVIDIA",
+    "title": "Software Engineer, CUDA Deep Learning Systems",
+    "location": "Santa Clara, CA, US",
+    "posted": "2026-08-05 00:00 UTC",
+    "url": "https://nvidia.eightfold.ai/careers/job/893396884970",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-05T17:21:19.006078+00:00",
+    "emailed_utc": "2026-08-05T17:21:19.006078+00:00"
+  },
+  {
+    "job_id": "nvidia:893396884957",
+    "pipeline": "main",
+    "platform": "nvidia",
+    "company": "NVIDIA",
+    "title": "Senior Software Engineer, CUDA Deep Learning Systems",
+    "location": "Santa Clara, CA, US",
+    "posted": "2026-08-05 00:00 UTC",
+    "url": "https://nvidia.eightfold.ai/careers/job/893396884957",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-05T17:21:19.006078+00:00",
+    "emailed_utc": "2026-08-05T17:21:19.006078+00:00"
+  },
+  {
+    "job_id": "amazon:cb4811a0-94da-44d4-a179-f62a228103ee",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Systems Development Engineer II, AWS Cross Domain Services (CDS) ",
+    "location": "US, WA, Seattle",
+    "posted": "August  5, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10493180/systems-development-engineer-ii-aws-cross-domain-services-cds",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-05T17:21:19.006078+00:00",
+    "emailed_utc": "2026-08-05T17:21:19.006078+00:00"
   }
 ]
