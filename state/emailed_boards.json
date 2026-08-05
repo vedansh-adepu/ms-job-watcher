@@ -92974,5 +92974,70 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-05T20:32:31.625124+00:00",
     "emailed_utc": "2026-08-05T20:32:31.625124+00:00"
+  },
+  {
+    "job_id": "greenhouse:lucidmotors:5199878007",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Lucidmotors",
+    "title": "Perception Machine Learning Engineer \u2013 ADAS ",
+    "location": "Southfield, MI",
+    "posted": "2026-08-05T15:56:55-04:00",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5199878007",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-05T21:01:38.450349+00:00",
+    "emailed_utc": "2026-08-05T21:01:38.450349+00:00"
+  },
+  {
+    "job_id": "lever:shieldai:cc7f8c05-cff0-4222-9319-db05c7d544f3",
+    "pipeline": "boards",
+    "platform": "lever",
+    "company": "Shieldai",
+    "title": "Senior Software Engineer, Autonomy Capabilities - Space",
+    "location": "Boston, MA",
+    "posted": "2026-08-05 19:38 UTC",
+    "url": "https://jobs.lever.co/shieldai/cc7f8c05-cff0-4222-9319-db05c7d544f3",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-05T21:01:38.450349+00:00",
+    "emailed_utc": "2026-08-05T21:01:38.450349+00:00"
+  },
+  {
+    "job_id": "lever:shieldai:769cc40d-1eca-4aef-a560-eec86b2047ec",
+    "pipeline": "boards",
+    "platform": "lever",
+    "company": "Shieldai",
+    "title": "Senior Staff Engineer, Autonomy Capabilities - Space",
+    "location": "Washington, DC",
+    "posted": "2026-08-05 19:43 UTC",
+    "url": "https://jobs.lever.co/shieldai/769cc40d-1eca-4aef-a560-eec86b2047ec",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-05T21:01:38.450349+00:00",
+    "emailed_utc": "2026-08-05T21:01:38.450349+00:00"
+  },
+  {
+    "job_id": "lever:shieldai:87f4734b-fff5-461b-a90a-6cc65c9bb972",
+    "pipeline": "boards",
+    "platform": "lever",
+    "company": "Shieldai",
+    "title": "Senior Staff Engineer, Test Director (R5445)",
+    "location": "United States",
+    "posted": "2026-08-05 20:37 UTC",
+    "url": "https://jobs.lever.co/shieldai/87f4734b-fff5-461b-a90a-6cc65c9bb972",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-05T21:01:38.450349+00:00",
+    "emailed_utc": "2026-08-05T21:01:38.450349+00:00"
+  },
+  {
+    "job_id": "lever:shieldai:93f53ebc-7b99-468e-956b-07a82af2a315",
+    "pipeline": "boards",
+    "platform": "lever",
+    "company": "Shieldai",
+    "title": "Staff Software Engineer, Autonomy Capabilities - Space",
+    "location": "Boston, MA",
+    "posted": "2026-08-05 19:49 UTC",
+    "url": "https://jobs.lever.co/shieldai/93f53ebc-7b99-468e-956b-07a82af2a315",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-05T21:01:38.450349+00:00",
+    "emailed_utc": "2026-08-05T21:01:38.450349+00:00"
   }
 ]
