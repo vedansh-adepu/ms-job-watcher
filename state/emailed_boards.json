@@ -90387,5 +90387,44 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-05T15:33:03.181536+00:00",
     "emailed_utc": "2026-08-05T15:33:03.181536+00:00"
+  },
+  {
+    "job_id": "greenhouse:scoutmotors:5204197007",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Scoutmotors",
+    "title": "Lead Engineer \u2013 L1 Integration",
+    "location": "Novi, Michigan, United States",
+    "posted": "2026-08-05T09:59:49-04:00",
+    "url": "https://job-boards.greenhouse.io/scoutmotors/jobs/5204197007",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-05T16:01:32.302377+00:00",
+    "emailed_utc": "2026-08-05T16:01:32.302377+00:00"
+  },
+  {
+    "job_id": "greenhouse:scoutmotors:5202899007",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Scoutmotors",
+    "title": "Senior Full Stack Developer",
+    "location": "Charlotte, North Carolina, United States",
+    "posted": "2026-08-05T10:48:54-04:00",
+    "url": "https://job-boards.greenhouse.io/scoutmotors/jobs/5202899007",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-05T16:01:32.302377+00:00",
+    "emailed_utc": "2026-08-05T16:01:32.302377+00:00"
+  },
+  {
+    "job_id": "greenhouse:lumosfiber:5379149008",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Lumosfiber",
+    "title": "NOC Engineer I - Outage Management",
+    "location": "United States of America (USA), Remote",
+    "posted": "2026-08-05T11:23:57-04:00",
+    "url": "https://job-boards.greenhouse.io/lumosfiber/jobs/5379149008",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-05T16:01:32.302377+00:00",
+    "emailed_utc": "2026-08-05T16:01:32.302377+00:00"
   }
 ]
