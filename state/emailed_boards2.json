@@ -42443,5 +42443,70 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-05T15:32:03.841200+00:00",
     "emailed_utc": "2026-08-05T15:32:03.841200+00:00"
+  },
+  {
+    "job_id": "lever:cfsenergy:ca1ae177-9781-4ea1-8fd3-f22c43e9e094",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "cfsenergy",
+    "title": "Control Software Engineer",
+    "location": "Devens, MA",
+    "posted": "2026-08-05 14:07 UTC",
+    "url": "https://jobs.lever.co/cfsenergy/ca1ae177-9781-4ea1-8fd3-f22c43e9e094",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-05T16:03:31.865351+00:00",
+    "emailed_utc": "2026-08-05T16:03:31.865351+00:00"
+  },
+  {
+    "job_id": "lever:thinkahead:b08878b6-5483-4285-83d4-6d2bd7e09062",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "thinkahead",
+    "title": "SOAR and AI Engineer - Managed Security",
+    "location": "United States",
+    "posted": "2026-08-04 17:13 UTC",
+    "url": "https://jobs.lever.co/thinkahead/b08878b6-5483-4285-83d4-6d2bd7e09062",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-05T16:03:31.865351+00:00",
+    "emailed_utc": "2026-08-05T16:03:31.865351+00:00"
+  },
+  {
+    "job_id": "lever:cfsenergy:41ced08d-7830-4aa5-b587-26de3bed605d",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "cfsenergy",
+    "title": "Metrology Engineer",
+    "location": "Devens, MA",
+    "posted": "2026-08-05 14:17 UTC",
+    "url": "https://jobs.lever.co/cfsenergy/41ced08d-7830-4aa5-b587-26de3bed605d",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-05T16:03:31.865351+00:00",
+    "emailed_utc": "2026-08-05T16:03:31.865351+00:00"
+  },
+  {
+    "job_id": "lever:innovativesol-2:108e6245-b482-404d-8025-25dd758e1833",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "innovativesol-2",
+    "title": "AI Solutions Engineer",
+    "location": "Reports into Rochester, NY",
+    "posted": "2026-08-05 14:28 UTC",
+    "url": "https://jobs.lever.co/innovativesol-2/108e6245-b482-404d-8025-25dd758e1833",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-05T16:03:31.865351+00:00",
+    "emailed_utc": "2026-08-05T16:03:31.865351+00:00"
+  },
+  {
+    "job_id": "lever:telesat:76941578-8b0b-497f-bbc6-4cb5ae7cd518",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "telesat",
+    "title": "Customer Solutions Engineer - LATAM",
+    "location": "Bethesda, MD",
+    "posted": "2026-03-18 22:14 UTC",
+    "url": "https://jobs.lever.co/telesat/76941578-8b0b-497f-bbc6-4cb5ae7cd518",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-05T16:03:31.865351+00:00",
+    "emailed_utc": "2026-08-05T16:03:31.865351+00:00"
   }
 ]
