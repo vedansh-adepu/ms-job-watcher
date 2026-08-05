@@ -42222,5 +42222,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-05T11:31:46.000210+00:00",
     "emailed_utc": "2026-08-05T11:31:46.000210+00:00"
+  },
+  {
+    "job_id": "greenhouse:onenergy:4300358009",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "onenergy",
+    "title": "Senior Electrical Engineer \u2013 Battery Systems, Controls & EMS Integration",
+    "location": "Atlanta; Miami, Florida, United States; Tysons",
+    "posted": "2026-08-05T07:45:03-04:00",
+    "url": "https://job-boards.greenhouse.io/onenergy/jobs/4300358009",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-05T11:46:01.142218+00:00",
+    "emailed_utc": "2026-08-05T11:46:01.142218+00:00"
+  },
+  {
+    "job_id": "greenhouse:penninteractive:6134345004",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "penninteractive",
+    "title": "Senior Full Stack Engineer, Client Platform",
+    "location": " United States, Remote",
+    "posted": "2026-08-05T07:43:37-04:00",
+    "url": "https://job-boards.greenhouse.io/penninteractive/jobs/6134345004",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-05T11:46:01.142218+00:00",
+    "emailed_utc": "2026-08-05T11:46:01.142218+00:00"
   }
 ]
