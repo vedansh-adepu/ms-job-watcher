@@ -89828,5 +89828,70 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-05T03:34:00.638934+00:00",
     "emailed_utc": "2026-08-05T03:34:00.638934+00:00"
+  },
+  {
+    "job_id": "greenhouse:spacex:8675909002",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "SpaceX",
+    "title": "Application Software Engineer",
+    "location": "Hawthorne, CA",
+    "posted": "2026-08-04T21:35:15-04:00",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8675909002?gh_jid=8675909002",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-05T04:02:51.365361+00:00",
+    "emailed_utc": "2026-08-05T04:02:51.365361+00:00"
+  },
+  {
+    "job_id": "greenhouse:spacex:8681166002",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "SpaceX",
+    "title": "Full Stack Engineer (Application Software)",
+    "location": "Hawthorne, CA",
+    "posted": "2026-08-04T21:35:16-04:00",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8681166002?gh_jid=8681166002",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-05T04:02:51.365361+00:00",
+    "emailed_utc": "2026-08-05T04:02:51.365361+00:00"
+  },
+  {
+    "job_id": "greenhouse:spacex:8681167002",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "SpaceX",
+    "title": "Full Stack Software Engineer, Internal Systems ",
+    "location": "Hawthorne, CA",
+    "posted": "2026-08-04T21:36:29-04:00",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8681167002?gh_jid=8681167002",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-05T04:02:51.365361+00:00",
+    "emailed_utc": "2026-08-05T04:02:51.365361+00:00"
+  },
+  {
+    "job_id": "greenhouse:spacex:8679026002",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "SpaceX",
+    "title": "Manufacturing Engineer (Raptor Valves Machining)",
+    "location": "Hawthorne, CA",
+    "posted": "2026-08-04T21:13:12-04:00",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8679026002?gh_jid=8679026002",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-05T04:02:51.365361+00:00",
+    "emailed_utc": "2026-08-05T04:02:51.365361+00:00"
+  },
+  {
+    "job_id": "greenhouse:spacex:8681151002",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "SpaceX",
+    "title": "Mechanical Design Engineer (Falcon)",
+    "location": "Hawthorne, CA",
+    "posted": "2026-08-04T21:22:31-04:00",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8681151002?gh_jid=8681151002",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-05T04:02:51.365361+00:00",
+    "emailed_utc": "2026-08-05T04:02:51.365361+00:00"
   }
 ]
