@@ -43002,5 +43002,83 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-05T18:32:21.768315+00:00",
     "emailed_utc": "2026-08-05T18:32:21.768315+00:00"
+  },
+  {
+    "job_id": "greenhouse:stratolaunch:5381049008",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "stratolaunch",
+    "title": "Data Analyst",
+    "location": "Mojave, CA",
+    "posted": "2026-08-05T14:16:13-04:00",
+    "url": "https://job-boards.greenhouse.io/stratolaunch/jobs/5381049008",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-05T19:02:44.873176+00:00",
+    "emailed_utc": "2026-08-05T19:02:44.873176+00:00"
+  },
+  {
+    "job_id": "greenhouse:iterable:8093074",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "iterable",
+    "title": "Senior Cloud Security Engineer",
+    "location": "Atlanta, Georgia; Austin, Texas; Boston, Massachusetts; Chicago, Illinois; Denver, Colorado; New York, New York; REMOTE - US; San Francisco, California",
+    "posted": "2026-08-05T13:24:59-04:00",
+    "url": "https://job-boards.greenhouse.io/iterable/jobs/8093074",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-05T19:02:44.873176+00:00",
+    "emailed_utc": "2026-08-05T19:02:44.873176+00:00"
+  },
+  {
+    "job_id": "greenhouse:iterable:7901481",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "iterable",
+    "title": "Senior Manager, Engineering (Nova)",
+    "location": "Atlanta, Georgia; Boston, Massachusetts; Chicago, Illinois; Denver, Colorado; New York, New York; REMOTE - US; San Francisco, California",
+    "posted": "2026-08-05T13:58:11-04:00",
+    "url": "https://job-boards.greenhouse.io/iterable/jobs/7901481",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-05T19:02:44.873176+00:00",
+    "emailed_utc": "2026-08-05T19:02:44.873176+00:00"
+  },
+  {
+    "job_id": "greenhouse:rebuildmanufacturing:4719138005",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "rebuildmanufacturing",
+    "title": "Senior Electrical Engineer ",
+    "location": "Wilmington, MA",
+    "posted": "2026-08-05T14:54:26-04:00",
+    "url": "https://job-boards.greenhouse.io/rebuildmanufacturing/jobs/4719138005",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-05T19:02:44.873176+00:00",
+    "emailed_utc": "2026-08-05T19:02:44.873176+00:00"
+  },
+  {
+    "job_id": "greenhouse:scopely:5372408008",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "scopely",
+    "title": "Senior Software Engineer (Gaming Backend) - WWE Champions",
+    "location": "CA - Canada; MX - Mexico City, Mexico; US - United States",
+    "posted": "2026-08-05T14:20:28-04:00",
+    "url": "https://job-boards.greenhouse.io/scopely/jobs/5372408008?gh_jid=5372408008",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-05T19:02:44.873176+00:00",
+    "emailed_utc": "2026-08-05T19:02:44.873176+00:00"
+  },
+  {
+    "job_id": "greenhouse:tomorrow:7828590003",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "tomorrow",
+    "title": "Systems Engineer",
+    "location": "Golden, Colorado, United States",
+    "posted": "2026-08-05T14:23:03-04:00",
+    "url": "https://boards.greenhouse.io/tomorrow/jobs/7828590003?gh_jid=7828590003",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-05T19:02:44.873176+00:00",
+    "emailed_utc": "2026-08-05T19:02:44.873176+00:00"
   }
 ]
