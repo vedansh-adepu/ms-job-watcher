@@ -94599,5 +94599,44 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-06T01:33:02.486621+00:00",
     "emailed_utc": "2026-08-06T01:33:02.486621+00:00"
+  },
+  {
+    "job_id": "ashby:formenergy:bf36a815-d0dc-40bf-b198-f2aa4fcfa5a2",
+    "pipeline": "boards",
+    "platform": "ashby",
+    "company": "Form Energy",
+    "title": "Mechanical Design Engineer II, Structures",
+    "location": "Berkeley, CA",
+    "posted": "",
+    "url": "https://jobs.ashbyhq.com/formenergy/bf36a815-d0dc-40bf-b198-f2aa4fcfa5a2",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-06T02:31:18.931200+00:00",
+    "emailed_utc": "2026-08-06T02:31:18.931200+00:00"
+  },
+  {
+    "job_id": "ashby:formenergy:b271995b-a17b-4153-abf2-f1ab4c2283f2",
+    "pipeline": "boards",
+    "platform": "ashby",
+    "company": "Form Energy",
+    "title": "Staff Forward Deployed Engineer",
+    "location": "Somerville, MA",
+    "posted": "",
+    "url": "https://jobs.ashbyhq.com/formenergy/b271995b-a17b-4153-abf2-f1ab4c2283f2",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-06T02:31:18.931200+00:00",
+    "emailed_utc": "2026-08-06T02:31:18.931200+00:00"
+  },
+  {
+    "job_id": "greenhouse:botauto:5381550008",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Botauto",
+    "title": "GPU Engineer",
+    "location": "Houston, TX or San Francisco Bay Area",
+    "posted": "2026-08-05T19:53:21-04:00",
+    "url": "https://job-boards.greenhouse.io/botauto/jobs/5381550008",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-06T02:31:18.931200+00:00",
+    "emailed_utc": "2026-08-06T02:31:18.931200+00:00"
   }
 ]
