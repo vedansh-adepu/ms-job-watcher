@@ -11087,5 +11087,31 @@
     "bucket": "yes",
     "first_seen_utc": "2026-08-06T14:51:30.397660+00:00",
     "emailed_utc": "2026-08-06T14:51:30.397660+00:00"
+  },
+  {
+    "job_id": "amazon:37af2fc5-42f1-43ca-8151-6cded17011ba",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer II, AWS AI & Strategic Partner Engineering",
+    "location": "US, WA, Seattle",
+    "posted": "August  6, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10494569/software-development-engineer-ii-aws-ai-strategic-partner-engineering",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-06T15:01:30.172641+00:00",
+    "emailed_utc": "2026-08-06T15:01:30.172641+00:00"
+  },
+  {
+    "job_id": "amazon:b977d889-57ff-45c0-b0c9-5fb99524a85a",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Senior Software Engineer, AWS Commercial Application Services",
+    "location": "US, CA, Santa Clara",
+    "posted": "August  6, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10494570/senior-software-engineer-aws-commercial-application-services",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-06T15:01:30.172641+00:00",
+    "emailed_utc": "2026-08-06T15:01:30.172641+00:00"
   }
 ]
