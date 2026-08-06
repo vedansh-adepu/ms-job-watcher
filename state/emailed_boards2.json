@@ -44510,5 +44510,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-06T13:02:33.521180+00:00",
     "emailed_utc": "2026-08-06T13:02:33.521180+00:00"
+  },
+  {
+    "job_id": "lever:picklerobot:78403d71-9909-488b-a49f-ebfb09c41f77",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "picklerobot",
+    "title": "Senior Mechanical Design Engineer",
+    "location": "Charlestown, MA",
+    "posted": "2026-01-23 17:17 UTC",
+    "url": "https://jobs.lever.co/picklerobot/78403d71-9909-488b-a49f-ebfb09c41f77",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-06T13:32:29.739589+00:00",
+    "emailed_utc": "2026-08-06T13:32:29.739589+00:00"
+  },
+  {
+    "job_id": "lever:qualdoc:95f385bb-848b-411b-ba95-6dae74c45253",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "qualdoc",
+    "title": "Electrical Controls & Integration Engineer",
+    "location": "Virginia Beach, VA",
+    "posted": "2026-08-06 12:20 UTC",
+    "url": "https://jobs.lever.co/qualdoc/95f385bb-848b-411b-ba95-6dae74c45253",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-06T13:32:29.739589+00:00",
+    "emailed_utc": "2026-08-06T13:32:29.739589+00:00"
   }
 ]
