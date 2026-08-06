@@ -94963,5 +94963,18 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-06T07:33:02.327399+00:00",
     "emailed_utc": "2026-08-06T07:33:02.327399+00:00"
+  },
+  {
+    "job_id": "workday:ngc:Northrop_Grumman_External_Site:req:R10244181",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Northrop Grumman",
+    "title": "Engineering Technician Level 4",
+    "location": "United States-Arizona-Gilbert",
+    "posted": "Posted Today",
+    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Arizona-Gilbert/Engineering-Technician-Level-4_R10244181",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-06T09:32:27.013447+00:00",
+    "emailed_utc": "2026-08-06T09:32:27.013447+00:00"
   }
 ]
