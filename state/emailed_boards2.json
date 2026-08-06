@@ -44989,8 +44989,8 @@
     "posted": "2026-08-06T14:51:34-04:00",
     "url": "https://job-boards.greenhouse.io/redcellpartners/jobs/5205467007",
     "bucket": "yes",
-    "first_seen_utc": "2026-08-06T19:36:55.003799+00:00",
-    "emailed_utc": "2026-08-06T19:36:55.003799+00:00"
+    "first_seen_utc": "2026-08-06T20:12:19.517593+00:00",
+    "emailed_utc": "2026-08-06T20:12:19.517593+00:00"
   },
   {
     "job_id": "greenhouse:janestreet:8687494002",
@@ -45002,8 +45002,8 @@
     "posted": "2026-08-06T13:54:06-04:00",
     "url": "https://www.janestreet.com/join-jane-street/apply/8687494002?gh_jid=8687494002",
     "bucket": "maybe",
-    "first_seen_utc": "2026-08-06T19:36:55.003799+00:00",
-    "emailed_utc": "2026-08-06T19:36:55.003799+00:00"
+    "first_seen_utc": "2026-08-06T20:12:19.517593+00:00",
+    "emailed_utc": "2026-08-06T20:12:19.517593+00:00"
   },
   {
     "job_id": "greenhouse:kinders:5382161008",
@@ -45015,8 +45015,8 @@
     "posted": "2026-08-06T13:44:45-04:00",
     "url": "https://job-boards.greenhouse.io/kinders/jobs/5382161008",
     "bucket": "maybe",
-    "first_seen_utc": "2026-08-06T19:36:55.003799+00:00",
-    "emailed_utc": "2026-08-06T19:36:55.003799+00:00"
+    "first_seen_utc": "2026-08-06T20:12:19.517593+00:00",
+    "emailed_utc": "2026-08-06T20:12:19.517593+00:00"
   },
   {
     "job_id": "greenhouse:kodiak:4292539009",
@@ -45028,8 +45028,8 @@
     "posted": "2026-08-06T12:09:58-04:00",
     "url": "https://job-boards.greenhouse.io/kodiak/jobs/4292539009",
     "bucket": "maybe",
-    "first_seen_utc": "2026-08-06T19:36:55.003799+00:00",
-    "emailed_utc": "2026-08-06T19:36:55.003799+00:00"
+    "first_seen_utc": "2026-08-06T20:12:19.517593+00:00",
+    "emailed_utc": "2026-08-06T20:12:19.517593+00:00"
   },
   {
     "job_id": "greenhouse:komodohealth:8687460002",
@@ -45041,8 +45041,21 @@
     "posted": "2026-08-06T13:12:28-04:00",
     "url": "https://job-boards.greenhouse.io/komodohealth/jobs/8687460002",
     "bucket": "maybe",
-    "first_seen_utc": "2026-08-06T19:36:55.003799+00:00",
-    "emailed_utc": "2026-08-06T19:36:55.003799+00:00"
+    "first_seen_utc": "2026-08-06T20:12:19.517593+00:00",
+    "emailed_utc": "2026-08-06T20:12:19.517593+00:00"
+  },
+  {
+    "job_id": "greenhouse:lilasciences:4337828009",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "lilasciences",
+    "title": "Senior II/Staff Mechatronics Engineer",
+    "location": "Cambridge, MA USA",
+    "posted": "2026-08-06T15:39:34-04:00",
+    "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4337828009",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-06T20:12:19.517593+00:00",
+    "emailed_utc": "2026-08-06T20:12:19.517593+00:00"
   },
   {
     "job_id": "greenhouse:machinifyinc:4357730009",
@@ -45054,8 +45067,8 @@
     "posted": "2026-08-06T15:15:02-04:00",
     "url": "https://job-boards.greenhouse.io/machinifyinc/jobs/4357730009",
     "bucket": "maybe",
-    "first_seen_utc": "2026-08-06T19:36:55.003799+00:00",
-    "emailed_utc": "2026-08-06T19:36:55.003799+00:00"
+    "first_seen_utc": "2026-08-06T20:12:19.517593+00:00",
+    "emailed_utc": "2026-08-06T20:12:19.517593+00:00"
   },
   {
     "job_id": "greenhouse:oldcastlebuildingenvelope:4357363009",
@@ -45067,8 +45080,8 @@
     "posted": "2026-08-06T11:34:26-04:00",
     "url": "https://job-boards.greenhouse.io/oldcastlebuildingenvelope/jobs/4357363009",
     "bucket": "maybe",
-    "first_seen_utc": "2026-08-06T19:36:55.003799+00:00",
-    "emailed_utc": "2026-08-06T19:36:55.003799+00:00"
+    "first_seen_utc": "2026-08-06T20:12:19.517593+00:00",
+    "emailed_utc": "2026-08-06T20:12:19.517593+00:00"
   },
   {
     "job_id": "greenhouse:oldcastlebuildingenvelope:4357442009",
@@ -45080,21 +45093,8 @@
     "posted": "2026-08-06T14:00:44-04:00",
     "url": "https://job-boards.greenhouse.io/oldcastlebuildingenvelope/jobs/4357442009",
     "bucket": "maybe",
-    "first_seen_utc": "2026-08-06T19:36:55.003799+00:00",
-    "emailed_utc": "2026-08-06T19:36:55.003799+00:00"
-  },
-  {
-    "job_id": "greenhouse:oscar:6836361",
-    "pipeline": "boards2",
-    "platform": "greenhouse",
-    "company": "oscar",
-    "title": "Senior Software Engineer, Fullstack",
-    "location": "New York, New York, United States",
-    "posted": "2026-08-06T12:26:34-04:00",
-    "url": "http://www.hioscar.com/careers/6836361?gh_jid=6836361",
-    "bucket": "maybe",
-    "first_seen_utc": "2026-08-06T19:36:55.003799+00:00",
-    "emailed_utc": "2026-08-06T19:36:55.003799+00:00"
+    "first_seen_utc": "2026-08-06T20:12:19.517593+00:00",
+    "emailed_utc": "2026-08-06T20:12:19.517593+00:00"
   },
   {
     "job_id": "greenhouse:otterai:7832658003",
@@ -45106,8 +45106,8 @@
     "posted": "2026-08-06T13:23:19-04:00",
     "url": "https://otter.ai/careers?gh_jid=7832658003",
     "bucket": "maybe",
-    "first_seen_utc": "2026-08-06T19:36:55.003799+00:00",
-    "emailed_utc": "2026-08-06T19:36:55.003799+00:00"
+    "first_seen_utc": "2026-08-06T20:12:19.517593+00:00",
+    "emailed_utc": "2026-08-06T20:12:19.517593+00:00"
   },
   {
     "job_id": "greenhouse:otterai:7832661003",
@@ -45119,8 +45119,21 @@
     "posted": "2026-08-06T13:26:04-04:00",
     "url": "https://otter.ai/careers?gh_jid=7832661003",
     "bucket": "maybe",
-    "first_seen_utc": "2026-08-06T19:36:55.003799+00:00",
-    "emailed_utc": "2026-08-06T19:36:55.003799+00:00"
+    "first_seen_utc": "2026-08-06T20:12:19.517593+00:00",
+    "emailed_utc": "2026-08-06T20:12:19.517593+00:00"
+  },
+  {
+    "job_id": "greenhouse:oscar:6836361",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "oscar",
+    "title": "Senior Software Engineer, Fullstack",
+    "location": "New York, New York, United States",
+    "posted": "2026-08-06T12:26:34-04:00",
+    "url": "http://www.hioscar.com/careers/6836361?gh_jid=6836361",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-06T20:12:19.517593+00:00",
+    "emailed_utc": "2026-08-06T20:12:19.517593+00:00"
   },
   {
     "job_id": "greenhouse:pokemoncareers:7828571003",
@@ -45132,8 +45145,8 @@
     "posted": "2026-08-06T12:21:01-04:00",
     "url": "https://job-boards.greenhouse.io/pokemoncareers/jobs/7828571003",
     "bucket": "maybe",
-    "first_seen_utc": "2026-08-06T19:36:55.003799+00:00",
-    "emailed_utc": "2026-08-06T19:36:55.003799+00:00"
+    "first_seen_utc": "2026-08-06T20:12:19.517593+00:00",
+    "emailed_utc": "2026-08-06T20:12:19.517593+00:00"
   },
   {
     "job_id": "greenhouse:roblox:8036287",
@@ -45142,11 +45155,11 @@
     "company": "roblox",
     "title": "Principal Rendering Engineer",
     "location": "San Mateo, CA, United States",
-    "posted": "2026-08-06T14:41:14-04:00",
+    "posted": "2026-08-06T16:09:50-04:00",
     "url": "https://careers.roblox.com/jobs/8036287?gh_jid=8036287",
     "bucket": "maybe",
-    "first_seen_utc": "2026-08-06T19:36:55.003799+00:00",
-    "emailed_utc": "2026-08-06T19:36:55.003799+00:00"
+    "first_seen_utc": "2026-08-06T20:12:19.517593+00:00",
+    "emailed_utc": "2026-08-06T20:12:19.517593+00:00"
   },
   {
     "job_id": "greenhouse:roblox:8079795",
@@ -45155,11 +45168,11 @@
     "company": "roblox",
     "title": "Senior Software Engineer - Studio Tools ",
     "location": "San Mateo, CA, United States",
-    "posted": "2026-08-06T14:32:40-04:00",
+    "posted": "2026-08-06T16:01:37-04:00",
     "url": "https://careers.roblox.com/jobs/8079795?gh_jid=8079795",
     "bucket": "maybe",
-    "first_seen_utc": "2026-08-06T19:36:55.003799+00:00",
-    "emailed_utc": "2026-08-06T19:36:55.003799+00:00"
+    "first_seen_utc": "2026-08-06T20:12:19.517593+00:00",
+    "emailed_utc": "2026-08-06T20:12:19.517593+00:00"
   },
   {
     "job_id": "greenhouse:standardmetrics:4718932005",
@@ -45171,8 +45184,8 @@
     "posted": "2026-08-06T14:14:05-04:00",
     "url": "https://job-boards.greenhouse.io/standardmetrics/jobs/4718932005",
     "bucket": "maybe",
-    "first_seen_utc": "2026-08-06T19:36:55.003799+00:00",
-    "emailed_utc": "2026-08-06T19:36:55.003799+00:00"
+    "first_seen_utc": "2026-08-06T20:12:19.517593+00:00",
+    "emailed_utc": "2026-08-06T20:12:19.517593+00:00"
   },
   {
     "job_id": "greenhouse:thoughtworksreferral:8112884",
@@ -45186,5 +45199,252 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-06T19:36:55.003799+00:00",
     "emailed_utc": "2026-08-06T19:36:55.003799+00:00"
+  },
+  {
+    "job_id": "lever:pt78:e6ec9344-3571-475a-94f3-082020af28b5",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "pt78",
+    "title": "Data Engineering SME",
+    "location": "Herndon, VA",
+    "posted": "2026-08-06 17:41 UTC",
+    "url": "https://jobs.lever.co/pt78/e6ec9344-3571-475a-94f3-082020af28b5",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-06T20:17:27.314500+00:00",
+    "emailed_utc": "2026-08-06T20:17:27.314500+00:00"
+  },
+  {
+    "job_id": "lever:sunwatercapital:8f57e7a2-250e-4b84-8a01-d3c186361003",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "sunwatercapital",
+    "title": "Junior Data Analyst \u2014 Legis1",
+    "location": "North Bethesda, MD",
+    "posted": "2026-08-06 16:45 UTC",
+    "url": "https://jobs.lever.co/sunwatercapital/8f57e7a2-250e-4b84-8a01-d3c186361003",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-06T20:17:27.314500+00:00",
+    "emailed_utc": "2026-08-06T20:17:27.314500+00:00"
+  },
+  {
+    "job_id": "greenhouse:vulcanelements:5381418008",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "vulcanelements",
+    "title": "Mechanical Engineer",
+    "location": "Research Triangle Park, NC",
+    "posted": "2026-08-06T12:08:33-04:00",
+    "url": "https://job-boards.greenhouse.io/vulcanelements/jobs/5381418008",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-06T20:17:27.314500+00:00",
+    "emailed_utc": "2026-08-06T20:17:27.314500+00:00"
+  },
+  {
+    "job_id": "greenhouse:waymo:8110366",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "waymo",
+    "title": "Staff Software Engineer, Collision Avoidance Testing ",
+    "location": "Mountain View, Ca, USA;San Francisco, Ca, USA",
+    "posted": "2026-08-06T12:53:25-04:00",
+    "url": "https://careers.withwaymo.com/jobs?gh_jid=8110366",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-06T20:17:27.314500+00:00",
+    "emailed_utc": "2026-08-06T20:17:27.314500+00:00"
+  },
+  {
+    "job_id": "greenhouse:woolpert:4355894009",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "woolpert",
+    "title": "BIM Engineering Designer",
+    "location": "Remote - United States",
+    "posted": "2026-08-06T13:38:25-04:00",
+    "url": "https://job-boards.greenhouse.io/woolpert/jobs/4355894009",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-06T20:17:27.314500+00:00",
+    "emailed_utc": "2026-08-06T20:17:27.314500+00:00"
+  },
+  {
+    "job_id": "lever:bluesight:e51efb52-0290-4cb7-80fe-4c786e0e3e7b",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "bluesight",
+    "title": "Firmware Engineer -KitCheck",
+    "location": "Austin, TX",
+    "posted": "2026-08-05 14:28 UTC",
+    "url": "https://jobs.lever.co/bluesight/e51efb52-0290-4cb7-80fe-4c786e0e3e7b",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-06T20:17:27.314500+00:00",
+    "emailed_utc": "2026-08-06T20:17:27.314500+00:00"
+  },
+  {
+    "job_id": "lever:bounteous:a9de4851-4a71-4ae9-b417-49ce94d534ba",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "bounteous",
+    "title": "Lead Analytics Consultant",
+    "location": "United States",
+    "posted": "2026-08-06 19:19 UTC",
+    "url": "https://jobs.lever.co/bounteous/a9de4851-4a71-4ae9-b417-49ce94d534ba",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-06T20:17:27.314500+00:00",
+    "emailed_utc": "2026-08-06T20:17:27.314500+00:00"
+  },
+  {
+    "job_id": "lever:disher:6ac1cfb7-fadc-4471-a76c-1d974d0d223b",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "disher",
+    "title": "Controls Design Engineer",
+    "location": "Grand Rapids, MI",
+    "posted": "2026-08-06 18:22 UTC",
+    "url": "https://jobs.lever.co/disher/6ac1cfb7-fadc-4471-a76c-1d974d0d223b",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-06T20:17:27.314500+00:00",
+    "emailed_utc": "2026-08-06T20:17:27.314500+00:00"
+  },
+  {
+    "job_id": "lever:disher:8ff8d62a-8348-4d7d-b062-fbb75a3b1237",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "disher",
+    "title": "Mechanical Design Engineer",
+    "location": "Grand Rapids, MI",
+    "posted": "2026-08-06 18:13 UTC",
+    "url": "https://jobs.lever.co/disher/8ff8d62a-8348-4d7d-b062-fbb75a3b1237",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-06T20:17:27.314500+00:00",
+    "emailed_utc": "2026-08-06T20:17:27.314500+00:00"
+  },
+  {
+    "job_id": "lever:ecosystem:2c5555e9-9afc-4ac5-b44a-f17590069f56",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "ecosystem",
+    "title": "Project Engineer (Energy, Mechanical & Decarbonization)",
+    "location": "New York, NY",
+    "posted": "2026-03-06 22:21 UTC",
+    "url": "https://jobs.lever.co/ecosystem/2c5555e9-9afc-4ac5-b44a-f17590069f56",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-06T20:17:27.314500+00:00",
+    "emailed_utc": "2026-08-06T20:17:27.314500+00:00"
+  },
+  {
+    "job_id": "lever:goodleap:8a6f91c5-1d10-4ebf-9b9d-b415a809a240",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "goodleap",
+    "title": "Senior Director, Software Engineering",
+    "location": "San Francisco, CA",
+    "posted": "2026-08-06 18:28 UTC",
+    "url": "https://jobs.lever.co/goodleap/8a6f91c5-1d10-4ebf-9b9d-b415a809a240",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-06T20:17:27.314500+00:00",
+    "emailed_utc": "2026-08-06T20:17:27.314500+00:00"
+  },
+  {
+    "job_id": "lever:gridware:dd25acdc-a24b-45a1-b3b4-e98b22105b13",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "gridware",
+    "title": "Senior Software Engineer, Grid Communications & Platform",
+    "location": "San Francisco, CA",
+    "posted": "2026-08-06 19:45 UTC",
+    "url": "https://jobs.lever.co/gridware/dd25acdc-a24b-45a1-b3b4-e98b22105b13",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-06T20:17:27.314500+00:00",
+    "emailed_utc": "2026-08-06T20:17:27.314500+00:00"
+  },
+  {
+    "job_id": "lever:inflowfed:56af296a-bb56-4836-bef3-a6c0ad0deefa",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "inflowfed",
+    "title": "Sr Software Engineer (API)",
+    "location": "Springfield, VA",
+    "posted": "2024-02-08 19:29 UTC",
+    "url": "https://jobs.lever.co/inflowfed/56af296a-bb56-4836-bef3-a6c0ad0deefa",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-06T20:17:27.314500+00:00",
+    "emailed_utc": "2026-08-06T20:17:27.314500+00:00"
+  },
+  {
+    "job_id": "lever:landmarkbio:00a51802-9782-4c94-beae-b5d10dfcc6e1",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "landmarkbio",
+    "title": "Research Associate: Analytics, Cell & Gene Therapies",
+    "location": "Watertown, MA",
+    "posted": "2026-08-06 16:06 UTC",
+    "url": "https://jobs.lever.co/landmarkbio/00a51802-9782-4c94-beae-b5d10dfcc6e1",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-06T20:17:27.314500+00:00",
+    "emailed_utc": "2026-08-06T20:17:27.314500+00:00"
+  },
+  {
+    "job_id": "lever:nexuse-group:e0ffdcd5-18a9-43ec-accc-20e7738a1cee",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "nexuse-group",
+    "title": "Senior Substation Engineer \u2013 Protection & Controls",
+    "location": "Cleveland, OH",
+    "posted": "2026-07-27 15:56 UTC",
+    "url": "https://jobs.lever.co/nexuse-group/e0ffdcd5-18a9-43ec-accc-20e7738a1cee",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-06T20:17:27.314500+00:00",
+    "emailed_utc": "2026-08-06T20:17:27.314500+00:00"
+  },
+  {
+    "job_id": "lever:outreach:4b20d94b-ecae-4761-86ae-4f474d091adc",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "outreach",
+    "title": "Staff Software Engineer, Identity and Access Platform",
+    "location": "Seattle, WA",
+    "posted": "2024-09-24 18:33 UTC",
+    "url": "https://jobs.lever.co/outreach/4b20d94b-ecae-4761-86ae-4f474d091adc",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-06T20:17:27.314500+00:00",
+    "emailed_utc": "2026-08-06T20:17:27.314500+00:00"
+  },
+  {
+    "job_id": "lever:pt78:89c65a58-bae3-47bf-854c-c6685e749bfe",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "pt78",
+    "title": "Senior Software Engineer",
+    "location": "Herndon, VA",
+    "posted": "2026-08-06 17:40 UTC",
+    "url": "https://jobs.lever.co/pt78/89c65a58-bae3-47bf-854c-c6685e749bfe",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-06T20:17:27.314500+00:00",
+    "emailed_utc": "2026-08-06T20:17:27.314500+00:00"
+  },
+  {
+    "job_id": "lever:radformation:c34817f9-1f23-4a27-a786-5d958be0bbd4",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "radformation",
+    "title": "Senior Software Engineer, ChartCheck",
+    "location": "Remote US",
+    "posted": "2026-05-19 20:27 UTC",
+    "url": "https://jobs.lever.co/radformation/c34817f9-1f23-4a27-a786-5d958be0bbd4",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-06T20:17:27.314500+00:00",
+    "emailed_utc": "2026-08-06T20:17:27.314500+00:00"
+  },
+  {
+    "job_id": "lever:sugarcrm:1c2c73cd-0518-4e44-a286-448f811ecdb5",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "sugarcrm",
+    "title": "Senior Data Engineer - Databricks",
+    "location": "US - Remote",
+    "posted": "2026-08-06 15:56 UTC",
+    "url": "https://jobs.lever.co/sugarcrm/1c2c73cd-0518-4e44-a286-448f811ecdb5",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-06T20:17:27.314500+00:00",
+    "emailed_utc": "2026-08-06T20:17:27.314500+00:00"
   }
 ]
