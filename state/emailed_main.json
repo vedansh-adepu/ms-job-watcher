@@ -11269,5 +11269,70 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-06T20:15:11.708171+00:00",
     "emailed_utc": "2026-08-06T20:15:11.708171+00:00"
+  },
+  {
+    "job_id": "amazon:f43163ad-1eaf-466d-8ebe-9b6c95ff29c2",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer - II, AWS Field Experience",
+    "location": "US, TX, Dallas",
+    "posted": "August  5, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10493221/software-development-engineer-ii-aws-field-experience",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-06T21:38:22.630396+00:00",
+    "emailed_utc": "2026-08-06T21:38:22.630396+00:00"
+  },
+  {
+    "job_id": "amazon:eec16684-c3eb-4b2b-bfeb-48837f68d655",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Senior Applied Scientist, Agentic WorkSpaces AI",
+    "location": "US, NY, New York",
+    "posted": "August  6, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10495107/senior-applied-scientist-agentic-workspaces-ai",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-06T21:38:22.630396+00:00",
+    "emailed_utc": "2026-08-06T21:38:22.630396+00:00"
+  },
+  {
+    "job_id": "amazon:0fd8c4b6-7621-4520-bee8-1c34a49e67ec",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Manager, Customer Experience and Business Trends",
+    "location": "US, VA, Arlington",
+    "posted": "August  6, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10495010/software-development-manager-customer-experience-and-business-trends",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-06T21:38:22.630396+00:00",
+    "emailed_utc": "2026-08-06T21:38:22.630396+00:00"
+  },
+  {
+    "job_id": "amazon:6ece48e8-1e63-431c-a653-060a9cb44673",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Dev Engineer II, ECR - Private",
+    "location": "US, NY, New York",
+    "posted": "August  6, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10494943/software-dev-engineer-ii-ecr-private",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-06T21:38:22.630396+00:00",
+    "emailed_utc": "2026-08-06T21:38:22.630396+00:00"
+  },
+  {
+    "job_id": "amazon:6c1d56de-dfc1-4e1f-b368-8723cbdc5814",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Senior Software Engineer, AWS Container Registry",
+    "location": "US, NY, New York",
+    "posted": "August  6, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10494945/senior-software-engineer-aws-container-registry",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-06T21:38:22.630396+00:00",
+    "emailed_utc": "2026-08-06T21:38:22.630396+00:00"
   }
 ]
