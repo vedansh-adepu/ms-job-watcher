@@ -11113,5 +11113,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-06T15:01:30.172641+00:00",
     "emailed_utc": "2026-08-06T15:01:30.172641+00:00"
+  },
+  {
+    "job_id": "amazon:f7735d5f-4408-4aaa-99ec-6fb16edd87bc",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Engineer II, AWS Continuum for code vulnerabilities",
+    "location": "US, WA, Bellevue",
+    "posted": "August  6, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10494580/software-engineer-ii-aws-continuum-for-code-vulnerabilities",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-06T15:11:28.975104+00:00",
+    "emailed_utc": "2026-08-06T15:11:28.975104+00:00"
+  },
+  {
+    "job_id": "amazon:ae2e6d0b-62a2-441b-8999-9164e1f2b0c7",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Senior Software Development Engineer, AWS Fintech",
+    "location": "US, WA, Seattle",
+    "posted": "August  6, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10494586/senior-software-development-engineer-aws-fintech",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-06T15:11:28.975104+00:00",
+    "emailed_utc": "2026-08-06T15:11:28.975104+00:00"
   }
 ]
