@@ -44640,5 +44640,83 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-06T14:32:03.877487+00:00",
     "emailed_utc": "2026-08-06T14:32:03.877487+00:00"
+  },
+  {
+    "job_id": "greenhouse:legion:7819549003",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "legion",
+    "title": " Director of Production Engineering ",
+    "location": "San Francisco Bay Area, USA",
+    "posted": "2026-08-06T10:12:13-04:00",
+    "url": "https://job-boards.greenhouse.io/legion/jobs/7819549003",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-06T15:03:36.688522+00:00",
+    "emailed_utc": "2026-08-06T15:03:36.688522+00:00"
+  },
+  {
+    "job_id": "greenhouse:nearform:7831952003",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "nearform",
+    "title": "Senior Software Engineer - React",
+    "location": "United States",
+    "posted": "2026-08-06T09:20:51-04:00",
+    "url": "https://job-boards.greenhouse.io/nearform/jobs/7831952003",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-06T15:03:36.688522+00:00",
+    "emailed_utc": "2026-08-06T15:03:36.688522+00:00"
+  },
+  {
+    "job_id": "greenhouse:nyiso:5068869007",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "nyiso",
+    "title": "Market Solutions Engineer",
+    "location": "Rensselaer, New York, United States",
+    "posted": "2026-08-06T10:53:11-04:00",
+    "url": "https://job-boards.greenhouse.io/nyiso/jobs/5068869007",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-06T15:03:36.688522+00:00",
+    "emailed_utc": "2026-08-06T15:03:36.688522+00:00"
+  },
+  {
+    "job_id": "greenhouse:sentinellabs:7823236003",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "sentinellabs",
+    "title": "Senior AI Platform Engineer, Infrastructure Services",
+    "location": "United States - Remote",
+    "posted": "2026-08-06T10:00:30-04:00",
+    "url": "https://www.sentinelone.com/jobs/?gh_jid=7823236003",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-06T15:03:36.688522+00:00",
+    "emailed_utc": "2026-08-06T15:03:36.688522+00:00"
+  },
+  {
+    "job_id": "greenhouse:sentinellabs:7823203003",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "sentinellabs",
+    "title": "Staff AI Platform Engineer, Infrastructure Services",
+    "location": "United States - Remote",
+    "posted": "2026-08-06T10:00:48-04:00",
+    "url": "https://www.sentinelone.com/jobs/?gh_jid=7823203003",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-06T15:03:36.688522+00:00",
+    "emailed_utc": "2026-08-06T15:03:36.688522+00:00"
+  },
+  {
+    "job_id": "greenhouse:spsnorthamerica:5375741008",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "spsnorthamerica",
+    "title": "Service Now Developer (Lead)",
+    "location": "New York, New York, United States",
+    "posted": "2026-08-06T10:52:49-04:00",
+    "url": "https://job-boards.greenhouse.io/spsnorthamerica/jobs/5375741008",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-06T15:03:36.688522+00:00",
+    "emailed_utc": "2026-08-06T15:03:36.688522+00:00"
   }
 ]
