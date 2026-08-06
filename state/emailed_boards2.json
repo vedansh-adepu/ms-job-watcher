@@ -44224,5 +44224,57 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-06T01:32:15.448874+00:00",
     "emailed_utc": "2026-08-06T01:32:15.448874+00:00"
+  },
+  {
+    "job_id": "greenhouse:k2spacecorporation:5381571008",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "k2spacecorporation",
+    "title": "Senior Fluids Manufacturing Engineer",
+    "location": "Los Angeles, CA",
+    "posted": "2026-08-05T21:12:50-04:00",
+    "url": "https://job-boards.greenhouse.io/k2spacecorporation/jobs/5381571008",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-06T02:01:32.115563+00:00",
+    "emailed_utc": "2026-08-06T02:01:32.115563+00:00"
+  },
+  {
+    "job_id": "greenhouse:oldcastlebuildingenvelope:4356994009",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "oldcastlebuildingenvelope",
+    "title": "Process Engineering Manager",
+    "location": "Midway, TN",
+    "posted": "2026-08-05T20:39:19-04:00",
+    "url": "https://job-boards.greenhouse.io/oldcastlebuildingenvelope/jobs/4356994009",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-06T02:01:32.115563+00:00",
+    "emailed_utc": "2026-08-06T02:01:32.115563+00:00"
+  },
+  {
+    "job_id": "greenhouse:oldcastlebuildingenvelope:4356979009",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "oldcastlebuildingenvelope",
+    "title": "Process Engineering Manager",
+    "location": "Terrell, TX",
+    "posted": "2026-08-05T20:34:44-04:00",
+    "url": "https://job-boards.greenhouse.io/oldcastlebuildingenvelope/jobs/4356979009",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-06T02:01:32.115563+00:00",
+    "emailed_utc": "2026-08-06T02:01:32.115563+00:00"
+  },
+  {
+    "job_id": "greenhouse:roblox:8094717",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "roblox",
+    "title": "Senior Privacy Engineer",
+    "location": "San Mateo, CA, United States",
+    "posted": "2026-08-05T21:10:25-04:00",
+    "url": "https://careers.roblox.com/jobs/8094717?gh_jid=8094717",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-06T02:01:32.115563+00:00",
+    "emailed_utc": "2026-08-06T02:01:32.115563+00:00"
   }
 ]
