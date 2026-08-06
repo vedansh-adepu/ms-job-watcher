@@ -44471,5 +44471,18 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-06T09:31:32.623706+00:00",
     "emailed_utc": "2026-08-06T09:31:32.623706+00:00"
+  },
+  {
+    "job_id": "greenhouse:66degrees:6135129004",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "66degrees",
+    "title": "Backend Engineer (Typescript and go), Contract to hire.",
+    "location": "United States, Remote",
+    "posted": "2026-08-06T05:35:08-04:00",
+    "url": "https://job-boards.greenhouse.io/66degrees/jobs/6135129004",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-06T11:01:38.917435+00:00",
+    "emailed_utc": "2026-08-06T11:01:38.917435+00:00"
   }
 ]
