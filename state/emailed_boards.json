@@ -94690,5 +94690,57 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-06T03:02:55.345141+00:00",
     "emailed_utc": "2026-08-06T03:02:55.345141+00:00"
+  },
+  {
+    "job_id": "greenhouse:flexport:8110413",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Flexport",
+    "title": "Forward Deployed Engineer - Supply Chain Solutions",
+    "location": "San Francisco, California, United States",
+    "posted": "2026-08-05T20:54:09-04:00",
+    "url": "https://job-boards.greenhouse.io/flexport/jobs/8110413",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-06T03:36:10.229458+00:00",
+    "emailed_utc": "2026-08-06T03:36:10.229458+00:00"
+  },
+  {
+    "job_id": "greenhouse:gitlab:8646544002",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "GitLab",
+    "title": "Staff Backend Engineer, Architecture Engineering: Nonlinear Productivity",
+    "location": "Remote, Canada; Remote, United States",
+    "posted": "2026-08-05T20:44:04-04:00",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8646544002",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-06T03:36:10.229458+00:00",
+    "emailed_utc": "2026-08-06T03:36:10.229458+00:00"
+  },
+  {
+    "job_id": "workday:gdit:External_Career_Site:req:RQ225733",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "General Dynamics Information Technology (GDIT)",
+    "title": "Network Engineer Senior \u2013 TS/SCI required",
+    "location": "USA VA Charlottesville",
+    "posted": "Posted Today",
+    "url": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-Charlottesville/Network-Engineer-Senior---TS-SCI-required_RQ225733",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-06T03:36:10.229458+00:00",
+    "emailed_utc": "2026-08-06T03:36:10.229458+00:00"
+  },
+  {
+    "job_id": "workday:jll:jllcareers:req:REQ525665",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "JLL",
+    "title": "Lead Building Engineer",
+    "location": "Costa Mesa, CA",
+    "posted": "Posted Today",
+    "url": "https://jll.wd1.myworkdayjobs.com/en-US/jllcareers/job/Costa-Mesa-CA/Lead-Building-Engineer_REQ525665",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-06T03:36:10.229458+00:00",
+    "emailed_utc": "2026-08-06T03:36:10.229458+00:00"
   }
 ]
