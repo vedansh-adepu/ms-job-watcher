@@ -44989,8 +44989,8 @@
     "posted": "2026-08-06T14:51:34-04:00",
     "url": "https://job-boards.greenhouse.io/redcellpartners/jobs/5205467007",
     "bucket": "yes",
-    "first_seen_utc": "2026-08-06T19:36:55.003799+00:00",
-    "emailed_utc": "2026-08-06T19:36:55.003799+00:00"
+    "first_seen_utc": "2026-08-06T20:12:19.517593+00:00",
+    "emailed_utc": "2026-08-06T20:12:19.517593+00:00"
   },
   {
     "job_id": "greenhouse:janestreet:8687494002",
@@ -45002,8 +45002,8 @@
     "posted": "2026-08-06T13:54:06-04:00",
     "url": "https://www.janestreet.com/join-jane-street/apply/8687494002?gh_jid=8687494002",
     "bucket": "maybe",
-    "first_seen_utc": "2026-08-06T19:36:55.003799+00:00",
-    "emailed_utc": "2026-08-06T19:36:55.003799+00:00"
+    "first_seen_utc": "2026-08-06T20:12:19.517593+00:00",
+    "emailed_utc": "2026-08-06T20:12:19.517593+00:00"
   },
   {
     "job_id": "greenhouse:kinders:5382161008",
@@ -45015,8 +45015,8 @@
     "posted": "2026-08-06T13:44:45-04:00",
     "url": "https://job-boards.greenhouse.io/kinders/jobs/5382161008",
     "bucket": "maybe",
-    "first_seen_utc": "2026-08-06T19:36:55.003799+00:00",
-    "emailed_utc": "2026-08-06T19:36:55.003799+00:00"
+    "first_seen_utc": "2026-08-06T20:12:19.517593+00:00",
+    "emailed_utc": "2026-08-06T20:12:19.517593+00:00"
   },
   {
     "job_id": "greenhouse:kodiak:4292539009",
@@ -45028,8 +45028,8 @@
     "posted": "2026-08-06T12:09:58-04:00",
     "url": "https://job-boards.greenhouse.io/kodiak/jobs/4292539009",
     "bucket": "maybe",
-    "first_seen_utc": "2026-08-06T19:36:55.003799+00:00",
-    "emailed_utc": "2026-08-06T19:36:55.003799+00:00"
+    "first_seen_utc": "2026-08-06T20:12:19.517593+00:00",
+    "emailed_utc": "2026-08-06T20:12:19.517593+00:00"
   },
   {
     "job_id": "greenhouse:komodohealth:8687460002",
@@ -45041,8 +45041,21 @@
     "posted": "2026-08-06T13:12:28-04:00",
     "url": "https://job-boards.greenhouse.io/komodohealth/jobs/8687460002",
     "bucket": "maybe",
-    "first_seen_utc": "2026-08-06T19:36:55.003799+00:00",
-    "emailed_utc": "2026-08-06T19:36:55.003799+00:00"
+    "first_seen_utc": "2026-08-06T20:12:19.517593+00:00",
+    "emailed_utc": "2026-08-06T20:12:19.517593+00:00"
+  },
+  {
+    "job_id": "greenhouse:lilasciences:4337828009",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "lilasciences",
+    "title": "Senior II/Staff Mechatronics Engineer",
+    "location": "Cambridge, MA USA",
+    "posted": "2026-08-06T15:39:34-04:00",
+    "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4337828009",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-06T20:12:19.517593+00:00",
+    "emailed_utc": "2026-08-06T20:12:19.517593+00:00"
   },
   {
     "job_id": "greenhouse:machinifyinc:4357730009",
@@ -45054,8 +45067,8 @@
     "posted": "2026-08-06T15:15:02-04:00",
     "url": "https://job-boards.greenhouse.io/machinifyinc/jobs/4357730009",
     "bucket": "maybe",
-    "first_seen_utc": "2026-08-06T19:36:55.003799+00:00",
-    "emailed_utc": "2026-08-06T19:36:55.003799+00:00"
+    "first_seen_utc": "2026-08-06T20:12:19.517593+00:00",
+    "emailed_utc": "2026-08-06T20:12:19.517593+00:00"
   },
   {
     "job_id": "greenhouse:oldcastlebuildingenvelope:4357363009",
@@ -45067,8 +45080,8 @@
     "posted": "2026-08-06T11:34:26-04:00",
     "url": "https://job-boards.greenhouse.io/oldcastlebuildingenvelope/jobs/4357363009",
     "bucket": "maybe",
-    "first_seen_utc": "2026-08-06T19:36:55.003799+00:00",
-    "emailed_utc": "2026-08-06T19:36:55.003799+00:00"
+    "first_seen_utc": "2026-08-06T20:12:19.517593+00:00",
+    "emailed_utc": "2026-08-06T20:12:19.517593+00:00"
   },
   {
     "job_id": "greenhouse:oldcastlebuildingenvelope:4357442009",
@@ -45080,21 +45093,8 @@
     "posted": "2026-08-06T14:00:44-04:00",
     "url": "https://job-boards.greenhouse.io/oldcastlebuildingenvelope/jobs/4357442009",
     "bucket": "maybe",
-    "first_seen_utc": "2026-08-06T19:36:55.003799+00:00",
-    "emailed_utc": "2026-08-06T19:36:55.003799+00:00"
-  },
-  {
-    "job_id": "greenhouse:oscar:6836361",
-    "pipeline": "boards2",
-    "platform": "greenhouse",
-    "company": "oscar",
-    "title": "Senior Software Engineer, Fullstack",
-    "location": "New York, New York, United States",
-    "posted": "2026-08-06T12:26:34-04:00",
-    "url": "http://www.hioscar.com/careers/6836361?gh_jid=6836361",
-    "bucket": "maybe",
-    "first_seen_utc": "2026-08-06T19:36:55.003799+00:00",
-    "emailed_utc": "2026-08-06T19:36:55.003799+00:00"
+    "first_seen_utc": "2026-08-06T20:12:19.517593+00:00",
+    "emailed_utc": "2026-08-06T20:12:19.517593+00:00"
   },
   {
     "job_id": "greenhouse:otterai:7832658003",
@@ -45106,8 +45106,8 @@
     "posted": "2026-08-06T13:23:19-04:00",
     "url": "https://otter.ai/careers?gh_jid=7832658003",
     "bucket": "maybe",
-    "first_seen_utc": "2026-08-06T19:36:55.003799+00:00",
-    "emailed_utc": "2026-08-06T19:36:55.003799+00:00"
+    "first_seen_utc": "2026-08-06T20:12:19.517593+00:00",
+    "emailed_utc": "2026-08-06T20:12:19.517593+00:00"
   },
   {
     "job_id": "greenhouse:otterai:7832661003",
@@ -45119,8 +45119,21 @@
     "posted": "2026-08-06T13:26:04-04:00",
     "url": "https://otter.ai/careers?gh_jid=7832661003",
     "bucket": "maybe",
-    "first_seen_utc": "2026-08-06T19:36:55.003799+00:00",
-    "emailed_utc": "2026-08-06T19:36:55.003799+00:00"
+    "first_seen_utc": "2026-08-06T20:12:19.517593+00:00",
+    "emailed_utc": "2026-08-06T20:12:19.517593+00:00"
+  },
+  {
+    "job_id": "greenhouse:oscar:6836361",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "oscar",
+    "title": "Senior Software Engineer, Fullstack",
+    "location": "New York, New York, United States",
+    "posted": "2026-08-06T12:26:34-04:00",
+    "url": "http://www.hioscar.com/careers/6836361?gh_jid=6836361",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-06T20:12:19.517593+00:00",
+    "emailed_utc": "2026-08-06T20:12:19.517593+00:00"
   },
   {
     "job_id": "greenhouse:pokemoncareers:7828571003",
@@ -45132,8 +45145,8 @@
     "posted": "2026-08-06T12:21:01-04:00",
     "url": "https://job-boards.greenhouse.io/pokemoncareers/jobs/7828571003",
     "bucket": "maybe",
-    "first_seen_utc": "2026-08-06T19:36:55.003799+00:00",
-    "emailed_utc": "2026-08-06T19:36:55.003799+00:00"
+    "first_seen_utc": "2026-08-06T20:12:19.517593+00:00",
+    "emailed_utc": "2026-08-06T20:12:19.517593+00:00"
   },
   {
     "job_id": "greenhouse:roblox:8036287",
@@ -45142,11 +45155,11 @@
     "company": "roblox",
     "title": "Principal Rendering Engineer",
     "location": "San Mateo, CA, United States",
-    "posted": "2026-08-06T14:41:14-04:00",
+    "posted": "2026-08-06T16:09:50-04:00",
     "url": "https://careers.roblox.com/jobs/8036287?gh_jid=8036287",
     "bucket": "maybe",
-    "first_seen_utc": "2026-08-06T19:36:55.003799+00:00",
-    "emailed_utc": "2026-08-06T19:36:55.003799+00:00"
+    "first_seen_utc": "2026-08-06T20:12:19.517593+00:00",
+    "emailed_utc": "2026-08-06T20:12:19.517593+00:00"
   },
   {
     "job_id": "greenhouse:roblox:8079795",
@@ -45155,11 +45168,11 @@
     "company": "roblox",
     "title": "Senior Software Engineer - Studio Tools ",
     "location": "San Mateo, CA, United States",
-    "posted": "2026-08-06T14:32:40-04:00",
+    "posted": "2026-08-06T16:01:37-04:00",
     "url": "https://careers.roblox.com/jobs/8079795?gh_jid=8079795",
     "bucket": "maybe",
-    "first_seen_utc": "2026-08-06T19:36:55.003799+00:00",
-    "emailed_utc": "2026-08-06T19:36:55.003799+00:00"
+    "first_seen_utc": "2026-08-06T20:12:19.517593+00:00",
+    "emailed_utc": "2026-08-06T20:12:19.517593+00:00"
   },
   {
     "job_id": "greenhouse:standardmetrics:4718932005",
@@ -45171,8 +45184,8 @@
     "posted": "2026-08-06T14:14:05-04:00",
     "url": "https://job-boards.greenhouse.io/standardmetrics/jobs/4718932005",
     "bucket": "maybe",
-    "first_seen_utc": "2026-08-06T19:36:55.003799+00:00",
-    "emailed_utc": "2026-08-06T19:36:55.003799+00:00"
+    "first_seen_utc": "2026-08-06T20:12:19.517593+00:00",
+    "emailed_utc": "2026-08-06T20:12:19.517593+00:00"
   },
   {
     "job_id": "greenhouse:thoughtworksreferral:8112884",
