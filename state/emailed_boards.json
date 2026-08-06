@@ -94859,5 +94859,70 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-06T06:02:58.428041+00:00",
     "emailed_utc": "2026-08-06T06:02:58.428041+00:00"
+  },
+  {
+    "job_id": "workday:gdit:External_Career_Site:req:RQ225481",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "General Dynamics Information Technology (GDIT)",
+    "title": "ADNS Field Engineer",
+    "location": "USA VA Portsmouth",
+    "posted": "Posted Today",
+    "url": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-Portsmouth/ADNS-Field-Engineer_RQ225481-1",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-06T06:33:15.365715+00:00",
+    "emailed_utc": "2026-08-06T06:33:15.365715+00:00"
+  },
+  {
+    "job_id": "workday:gdit:External_Career_Site:req:RQ225674",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "General Dynamics Information Technology (GDIT)",
+    "title": "NCIS Network Engineer | Shift Work | Active TS/SCI clearance",
+    "location": "USA VA Quantico",
+    "posted": "Posted Today",
+    "url": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-Quantico/NCIS-Network-Engineer---Shift-Work---Active-TS-SCI-clearance_RQ225674-1",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-06T06:33:15.365715+00:00",
+    "emailed_utc": "2026-08-06T06:33:15.365715+00:00"
+  },
+  {
+    "job_id": "workday:gdit:External_Career_Site:req:RQ225557",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "General Dynamics Information Technology (GDIT)",
+    "title": "Principal Network Engineer",
+    "location": "USA MD Rockville",
+    "posted": "Posted Today",
+    "url": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-MD-Rockville/Principal-Network-Engineer_RQ225557-1",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-06T06:33:15.365715+00:00",
+    "emailed_utc": "2026-08-06T06:33:15.365715+00:00"
+  },
+  {
+    "job_id": "workday:gdit:External_Career_Site:req:RQ225591",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "General Dynamics Information Technology (GDIT)",
+    "title": "Senior Network Engineer  - Tuesday - Saturday (6:00am - 2:30pm)",
+    "location": "USA VA Arlington",
+    "posted": "Posted Today",
+    "url": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-Arlington/Senior-Network-Engineer----Tuesday---Saturday--6-00am---2-30pm-_RQ225591-1",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-06T06:33:15.365715+00:00",
+    "emailed_utc": "2026-08-06T06:33:15.365715+00:00"
+  },
+  {
+    "job_id": "workday:gdit:External_Career_Site:req:RQ225598",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "General Dynamics Information Technology (GDIT)",
+    "title": "Senior Network Engineer - Tuesday - Saturday (2:00p - 10:30pm)",
+    "location": "USA VA Arlington",
+    "posted": "Posted Today",
+    "url": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-Arlington/Senior-Network-Engineer---Tuesday---Saturday--2-00p---10-30pm-_RQ225598-1",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-06T06:33:15.365715+00:00",
+    "emailed_utc": "2026-08-06T06:33:15.365715+00:00"
   }
 ]
