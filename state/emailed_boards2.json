@@ -44042,5 +44042,57 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-05T23:31:32.230622+00:00",
     "emailed_utc": "2026-08-05T23:31:32.230622+00:00"
+  },
+  {
+    "job_id": "greenhouse:loenbro:4356954009",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "loenbro",
+    "title": "Project Engineer",
+    "location": "Phoenix, AZ",
+    "posted": "2026-08-05T19:45:23-04:00",
+    "url": "https://job-boards.greenhouse.io/loenbro/jobs/4356954009",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-06T00:02:15.652861+00:00",
+    "emailed_utc": "2026-08-06T00:02:15.652861+00:00"
+  },
+  {
+    "job_id": "greenhouse:neuraflash:5722605004",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "neuraflash",
+    "title": "Sr. AWS Developer",
+    "location": "Remote - United States",
+    "posted": "2026-08-05T20:01:14-04:00",
+    "url": "https://job-boards.greenhouse.io/neuraflash/jobs/5722605004",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-06T00:02:15.652861+00:00",
+    "emailed_utc": "2026-08-06T00:02:15.652861+00:00"
+  },
+  {
+    "job_id": "greenhouse:pokemoncareers:7829640003",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "pokemoncareers",
+    "title": "Cloud Information Security Engineer",
+    "location": "Bellevue, Washington, United States",
+    "posted": "2026-08-05T20:01:03-04:00",
+    "url": "https://job-boards.greenhouse.io/pokemoncareers/jobs/7829640003",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-06T00:02:15.652861+00:00",
+    "emailed_utc": "2026-08-06T00:02:15.652861+00:00"
+  },
+  {
+    "job_id": "greenhouse:stanley1913-us:5326623008",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "stanley1913-us",
+    "title": "Senior Packaging Engineer",
+    "location": "Seattle, WA",
+    "posted": "2026-08-05T18:51:37-04:00",
+    "url": "https://job-boards.greenhouse.io/stanley1913-us/jobs/5326623008",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-06T00:02:15.652861+00:00",
+    "emailed_utc": "2026-08-06T00:02:15.652861+00:00"
   }
 ]
