@@ -11061,5 +11061,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-06T13:51:10.862503+00:00",
     "emailed_utc": "2026-08-06T13:51:10.862503+00:00"
+  },
+  {
+    "job_id": "amazon:8917ef11-f2b0-42de-85e5-3dd3f3f865b7",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, Prime Video Sports News and Linear",
+    "location": "US, TX, Austin",
+    "posted": "August  6, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10494557/software-development-engineer-prime-video-sports-news-and-linear",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-06T14:51:30.397660+00:00",
+    "emailed_utc": "2026-08-06T14:51:30.397660+00:00"
+  },
+  {
+    "job_id": "amazon:bc14e461-8cd9-4ea1-b243-98458d9580b9",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Applied Scientist, Prime Video - Content Reasoning, Enrichment & Localization",
+    "location": "US, WA, Seattle",
+    "posted": "August  6, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10494554/applied-scientist-prime-video-content-reasoning-enrichment-localization",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-06T14:51:30.397660+00:00",
+    "emailed_utc": "2026-08-06T14:51:30.397660+00:00"
   }
 ]
