@@ -44094,5 +44094,44 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-06T00:02:15.652861+00:00",
     "emailed_utc": "2026-08-06T00:02:15.652861+00:00"
+  },
+  {
+    "job_id": "greenhouse:yurtsai:5205127007",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "yurtsai",
+    "title": "Senior Software Engineer - Machine Learning (Remote US)",
+    "location": "USA",
+    "posted": "2026-08-05T19:24:55-04:00",
+    "url": "https://job-boards.greenhouse.io/yurtsai/jobs/5205127007",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-06T00:32:16.260711+00:00",
+    "emailed_utc": "2026-08-06T00:32:16.260711+00:00"
+  },
+  {
+    "job_id": "lever:intersect:81a4a26a-b109-4f7b-886d-b0f018347463",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "intersect",
+    "title": "OT Network & Site Infrastructure Engineer",
+    "location": "Haskell County, TX",
+    "posted": "2026-08-06 00:11 UTC",
+    "url": "https://jobs.lever.co/intersect/81a4a26a-b109-4f7b-886d-b0f018347463",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-06T00:32:16.260711+00:00",
+    "emailed_utc": "2026-08-06T00:32:16.260711+00:00"
+  },
+  {
+    "job_id": "lever:lessen:3f81dd73-db0a-4f18-8375-2f141d41fb5d",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "lessen",
+    "title": "Systems Engineer I",
+    "location": "Chicago, IL",
+    "posted": "2026-08-05 23:10 UTC",
+    "url": "https://jobs.lever.co/lessen/3f81dd73-db0a-4f18-8375-2f141d41fb5d",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-06T00:32:16.260711+00:00",
+    "emailed_utc": "2026-08-06T00:32:16.260711+00:00"
   }
 ]
