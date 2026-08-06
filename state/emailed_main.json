@@ -11035,5 +11035,18 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-06T02:51:22.369882+00:00",
     "emailed_utc": "2026-08-06T02:51:22.369882+00:00"
+  },
+  {
+    "job_id": "nvidia:893396890713",
+    "pipeline": "main",
+    "platform": "nvidia",
+    "company": "NVIDIA",
+    "title": "System Software Engineer, UEFI Firmware",
+    "location": "Santa Clara, CA, US",
+    "posted": "2026-08-05 00:00 UTC",
+    "url": "https://nvidia.eightfold.ai/careers/job/893396890713",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-06T04:21:16.747030+00:00",
+    "emailed_utc": "2026-08-06T04:21:16.747030+00:00"
   }
 ]
