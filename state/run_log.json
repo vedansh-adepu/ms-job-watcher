@@ -1,48 +1,5 @@
 [
   {
-    "ts": "2026-07-31T01:02Z",
-    "mode": "boards",
-    "per_source": {
-      "lever": {
-        "fetched": 612,
-        "title_ok": 55,
-        "loc_ok": 40,
-        "new": 0,
-        "emailed": 0
-      },
-      "greenhouse": {
-        "fetched": 10641,
-        "title_ok": 3666,
-        "loc_ok": 2214,
-        "new": 1,
-        "emailed": 1
-      },
-      "ashby": {
-        "fetched": 153,
-        "title_ok": 44,
-        "loc_ok": 0,
-        "new": 0,
-        "emailed": 0
-      },
-      "smartrecruiters": {
-        "fetched": 1305,
-        "title_ok": 295,
-        "loc_ok": 115,
-        "new": 0,
-        "emailed": 0
-      },
-      "workday": {
-        "fetched": 10132,
-        "title_ok": 2302,
-        "loc_ok": 856,
-        "new": 3,
-        "emailed": 3
-      }
-    },
-    "duration_s": 109.1,
-    "cursor": 200
-  },
-  {
     "ts": "2026-07-31T01:11Z",
     "mode": "main",
     "per_source": {
@@ -41890,6 +41847,56 @@
   },
   {
     "ts": "2026-08-06T12:11Z",
+    "mode": "main",
+    "per_source": {
+      "microsoft": {
+        "fetched": 176,
+        "title_ok": 80,
+        "loc_ok": 80,
+        "new": 0,
+        "emailed": 0
+      },
+      "amazon": {
+        "fetched": 300,
+        "title_ok": 289,
+        "loc_ok": 289,
+        "new": 0,
+        "emailed": 0
+      },
+      "nvidia": {
+        "fetched": 30,
+        "title_ok": 29,
+        "loc_ok": 29,
+        "new": 0,
+        "emailed": 0
+      },
+      "goldman_sachs": {
+        "fetched": 0,
+        "title_ok": 0,
+        "loc_ok": 0,
+        "new": 0,
+        "emailed": 0
+      },
+      "ibm": {
+        "fetched": 2,
+        "title_ok": 2,
+        "loc_ok": 0,
+        "new": 0,
+        "emailed": 0
+      },
+      "oracle": {
+        "fetched": 0,
+        "title_ok": 0,
+        "loc_ok": 0,
+        "new": 0,
+        "emailed": 0
+      }
+    },
+    "duration_s": 10.3,
+    "cursor": null
+  },
+  {
+    "ts": "2026-08-06T12:21Z",
     "mode": "main",
     "per_source": {
       "microsoft": {
