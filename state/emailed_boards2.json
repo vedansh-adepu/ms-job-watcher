@@ -44276,5 +44276,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-06T02:01:32.115563+00:00",
     "emailed_utc": "2026-08-06T02:01:32.115563+00:00"
+  },
+  {
+    "job_id": "greenhouse:xai:5205179007",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "xai",
+    "title": "Software Engineer - Search Infrastructure",
+    "location": "Palo Alto, California, United States",
+    "posted": "2026-08-05T21:04:10-04:00",
+    "url": "https://job-boards.greenhouse.io/xai/jobs/5205179007",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-06T02:32:05.200074+00:00",
+    "emailed_utc": "2026-08-06T02:32:05.200074+00:00"
+  },
+  {
+    "job_id": "lever:pt78:1d3bbf94-215a-4ea7-aa01-4696c7627e2f",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "pt78",
+    "title": "Senior Software Engineer",
+    "location": "Herndon, VA",
+    "posted": "2026-08-06 02:25 UTC",
+    "url": "https://jobs.lever.co/pt78/1d3bbf94-215a-4ea7-aa01-4696c7627e2f",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-06T02:32:05.200074+00:00",
+    "emailed_utc": "2026-08-06T02:32:05.200074+00:00"
   }
 ]
