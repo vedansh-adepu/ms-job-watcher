@@ -41832,15 +41832,29 @@
     "cursor": 1000
   },
   {
-    "ts": "2026-08-06T19:36Z",
+    "ts": "2026-08-06T20:13Z",
     "mode": "boards",
     "per_source": {
+      "ashby": {
+        "fetched": 1945,
+        "title_ok": 685,
+        "loc_ok": 208,
+        "new": 1,
+        "emailed": 1
+      },
       "greenhouse": {
-        "fetched": 56562,
-        "title_ok": 8577,
-        "loc_ok": 3463,
-        "new": 16,
-        "emailed": 16
+        "fetched": 4217,
+        "title_ok": 1117,
+        "loc_ok": 660,
+        "new": 3,
+        "emailed": 3
+      },
+      "lever": {
+        "fetched": 1438,
+        "title_ok": 695,
+        "loc_ok": 246,
+        "new": 4,
+        "emailed": 4
       }
     },
     "duration_s": 22.8,
