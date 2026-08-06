@@ -11347,5 +11347,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-06T22:21:36.304951+00:00",
     "emailed_utc": "2026-08-06T22:21:36.304951+00:00"
+  },
+  {
+    "job_id": "amazon:fdf12ee2-ce42-4ac9-8173-5ac2217073b8",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Embedded Software Development Engineer II, Amazon Robotics Embedded Safety Systems",
+    "location": "US, MA, North Reading",
+    "posted": "August  6, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10495359/embedded-software-development-engineer-ii-amazon-robotics-embedded-safety-systems",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-06T22:31:35.202819+00:00",
+    "emailed_utc": "2026-08-06T22:31:35.202819+00:00"
+  },
+  {
+    "job_id": "amazon:2a43e9dc-1249-49f8-a541-5f48d04c3a3f",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Robot Embedded Senior Software Engineer",
+    "location": "US, MA, North Reading",
+    "posted": "August  6, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10495361/robot-embedded-senior-software-engineer",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-06T22:31:35.202819+00:00",
+    "emailed_utc": "2026-08-06T22:31:35.202819+00:00"
   }
 ]
