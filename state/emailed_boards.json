@@ -94638,5 +94638,57 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-06T02:31:18.931200+00:00",
     "emailed_utc": "2026-08-06T02:31:18.931200+00:00"
+  },
+  {
+    "job_id": "greenhouse:andurilindustries:5205178007",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "andurilindustries",
+    "title": "Senior Technical Sourcer, Software",
+    "location": "Boston, Massachusetts, United States",
+    "posted": "2026-08-05T20:45:19-04:00",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5205178007?gh_jid=5205178007",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-06T03:02:55.345141+00:00",
+    "emailed_utc": "2026-08-06T03:02:55.345141+00:00"
+  },
+  {
+    "job_id": "workday:abbott:abbottcareers:req:31158218",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Abbott",
+    "title": "Field Service Engineer II- Phoenix, AZ",
+    "location": "United States - Arizona - Phoenix",
+    "posted": "Posted Today",
+    "url": "https://abbott.wd5.myworkdayjobs.com/en-US/abbottcareers/job/United-States---Arizona---Phoenix/Field-Service-Engineer-II--Phoenix--AZ_31158218-1",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-06T03:02:55.345141+00:00",
+    "emailed_utc": "2026-08-06T03:02:55.345141+00:00"
+  },
+  {
+    "job_id": "workday:abbott:abbottcareers:req:31157062",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Abbott",
+    "title": "Field Service Engineer II- Honolulu, Hawaii",
+    "location": "United States - Hawaii - Honolulu",
+    "posted": "Posted Today",
+    "url": "https://abbott.wd5.myworkdayjobs.com/en-US/abbottcareers/job/United-States---Hawaii---Honolulu/Field-Service-Engineer-II--Honolulu--Hawaii_31157062-2",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-06T03:02:55.345141+00:00",
+    "emailed_utc": "2026-08-06T03:02:55.345141+00:00"
+  },
+  {
+    "job_id": "workday:citi:2:req:26983853",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Citigroup",
+    "title": "Forward Deployed Engineer, AI Transformation - Director",
+    "location": "New York New York United States",
+    "posted": "Posted Today",
+    "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/New-York-New-York-United-States/Forward-Deployed-Engineer--AI-Transformation---Director_26983853",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-06T03:02:55.345141+00:00",
+    "emailed_utc": "2026-08-06T03:02:55.345141+00:00"
   }
 ]
