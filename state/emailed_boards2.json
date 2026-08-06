@@ -44718,5 +44718,44 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-06T15:03:36.688522+00:00",
     "emailed_utc": "2026-08-06T15:03:36.688522+00:00"
+  },
+  {
+    "job_id": "greenhouse:wehrtyou:8097335",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "wehrtyou",
+    "title": "Endpoint Engineer - macOS",
+    "location": "London, United Kingdom; New York, NY, United States",
+    "posted": "2026-08-06T09:45:52-04:00",
+    "url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8097335",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-06T15:32:33.981517+00:00",
+    "emailed_utc": "2026-08-06T15:32:33.981517+00:00"
+  },
+  {
+    "job_id": "lever:brillio-2:be7d7223-7843-4cac-9cfb-184b5e7087b3",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "brillio-2",
+    "title": "Node.js Developer (AWS)- R01568706",
+    "location": "Saint Louis, Missouri, United States",
+    "posted": "2026-07-20 04:48 UTC",
+    "url": "https://jobs.lever.co/brillio-2/be7d7223-7843-4cac-9cfb-184b5e7087b3",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-06T15:32:33.981517+00:00",
+    "emailed_utc": "2026-08-06T15:32:33.981517+00:00"
+  },
+  {
+    "job_id": "lever:extremenetworks:528e47ff-0996-4ac9-b772-7155ed785b59",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "extremenetworks",
+    "title": "Systems Engineer",
+    "location": "Texas, United States",
+    "posted": "2026-07-31 20:12 UTC",
+    "url": "https://jobs.lever.co/extremenetworks/528e47ff-0996-4ac9-b772-7155ed785b59",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-06T15:32:33.981517+00:00",
+    "emailed_utc": "2026-08-06T15:32:33.981517+00:00"
   }
 ]
