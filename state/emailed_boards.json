@@ -99695,5 +99695,44 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-07T10:32:45.312619+00:00",
     "emailed_utc": "2026-08-07T10:32:45.312619+00:00"
+  },
+  {
+    "job_id": "greenhouse:clearstreet:8113916",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Clear Street",
+    "title": "Data Analytics Engineer",
+    "location": "New York, NY",
+    "posted": "2026-08-07T09:13:39-04:00",
+    "url": "https://job-boards.greenhouse.io/clearstreet/jobs/8113916",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-07T13:33:08.274838+00:00",
+    "emailed_utc": "2026-08-07T13:33:08.274838+00:00"
+  },
+  {
+    "job_id": "workday:caci:External:req:330287",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "CACI International",
+    "title": "Data Analyst (Temporary, remote assignment)",
+    "location": "Alexandria, VA, US",
+    "posted": "Posted Today",
+    "url": "https://caci.wd1.myworkdayjobs.com/en-US/External/job/Alexandria-VA-US/Data-Analyst--Temporary--remote-assignment-_330287",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-07T13:33:08.274838+00:00",
+    "emailed_utc": "2026-08-07T13:33:08.274838+00:00"
+  },
+  {
+    "job_id": "greenhouse:clearstreet:8113885",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Clear Street",
+    "title": "Senior Software Engineer",
+    "location": "New York, NY",
+    "posted": "2026-08-07T09:11:19-04:00",
+    "url": "https://job-boards.greenhouse.io/clearstreet/jobs/8113885",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-07T13:33:08.274838+00:00",
+    "emailed_utc": "2026-08-07T13:33:08.274838+00:00"
   }
 ]
