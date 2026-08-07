@@ -11776,5 +11776,18 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-07T19:51:29.388205+00:00",
     "emailed_utc": "2026-08-07T19:51:29.388205+00:00"
+  },
+  {
+    "job_id": "amazon:d28232dc-54ea-4197-8a16-319055761fde",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Applied Scientist, Safe RL, Robotics, SAF Lab",
+    "location": "US, CA, Pasadena",
+    "posted": "August  7, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10496287/applied-scientist-safe-rl-robotics-saf-lab",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-07T20:01:21.953039+00:00",
+    "emailed_utc": "2026-08-07T20:01:21.953039+00:00"
   }
 ]

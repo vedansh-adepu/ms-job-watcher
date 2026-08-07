@@ -102932,5 +102932,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-07T19:33:02.237937+00:00",
     "emailed_utc": "2026-08-07T19:33:02.237937+00:00"
+  },
+  {
+    "job_id": "lever:zoox:89d5927e-db67-443b-9dd2-53d367c11f9b",
+    "pipeline": "boards",
+    "platform": "lever",
+    "company": "zoox",
+    "title": "Release Engineer",
+    "location": "Foster City, CA",
+    "posted": "2026-08-07 19:13 UTC",
+    "url": "https://jobs.lever.co/zoox/89d5927e-db67-443b-9dd2-53d367c11f9b",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-07T20:02:24.311314+00:00",
+    "emailed_utc": "2026-08-07T20:02:24.311314+00:00"
+  },
+  {
+    "job_id": "ashby:render:f1ed029b-9119-4c3d-bd3c-2ce0b9717ee8",
+    "pipeline": "boards",
+    "platform": "ashby",
+    "company": "Render",
+    "title": "Engineering Manager, Product",
+    "location": "Remote: United States",
+    "posted": "",
+    "url": "https://jobs.ashbyhq.com/render/f1ed029b-9119-4c3d-bd3c-2ce0b9717ee8",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-07T20:02:24.311314+00:00",
+    "emailed_utc": "2026-08-07T20:02:24.311314+00:00"
   }
 ]
