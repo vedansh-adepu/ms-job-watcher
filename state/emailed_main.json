@@ -11685,5 +11685,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-07T19:01:30.922479+00:00",
     "emailed_utc": "2026-08-07T19:01:30.922479+00:00"
+  },
+  {
+    "job_id": "amazon:7bfca5a5-4518-4508-81c8-dff0d14c9227",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer II, AWS Catalog",
+    "location": "US, WA, Bellevue",
+    "posted": "August  7, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10496235/software-development-engineer-ii-aws-catalog",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-07T19:11:33.615916+00:00",
+    "emailed_utc": "2026-08-07T19:11:33.615916+00:00"
+  },
+  {
+    "job_id": "amazon:2985da74-6063-4c9c-a276-c3305c93a41d",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Manager, Amazon S3",
+    "location": "US, WA, Seattle",
+    "posted": "August  7, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10496230/software-development-manager-amazon-s3",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-07T19:11:33.615916+00:00",
+    "emailed_utc": "2026-08-07T19:11:33.615916+00:00"
   }
 ]
