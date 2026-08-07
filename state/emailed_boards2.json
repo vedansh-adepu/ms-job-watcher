@@ -46434,5 +46434,83 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-07T15:32:11.631576+00:00",
     "emailed_utc": "2026-08-07T15:32:11.631576+00:00"
+  },
+  {
+    "job_id": "lever:protolabs:9da2126b-76e7-4d10-aee7-ec97cbff5bec",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "protolabs",
+    "title": "Associate Software Engineer \u2013 C++ (Computer Aided Manufacturing)",
+    "location": "Plymouth, MN",
+    "posted": "2026-06-25 17:37 UTC",
+    "url": "https://jobs.lever.co/protolabs/9da2126b-76e7-4d10-aee7-ec97cbff5bec",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-07T16:03:05.646172+00:00",
+    "emailed_utc": "2026-08-07T16:03:05.646172+00:00"
+  },
+  {
+    "job_id": "greenhouse:vardaspace:7835810003",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "vardaspace",
+    "title": "Space Avionics Systems Engineer",
+    "location": "El Segundo, California, United States",
+    "posted": "2026-08-07T11:12:49-04:00",
+    "url": "https://job-boards.greenhouse.io/vardaspace/jobs/7835810003",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-07T16:03:05.646172+00:00",
+    "emailed_utc": "2026-08-07T16:03:05.646172+00:00"
+  },
+  {
+    "job_id": "greenhouse:zscaler:5189377007",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "zscaler",
+    "title": "Sr Staff Software Engineer (Quality & Automation)",
+    "location": "San Jose, California, USA",
+    "posted": "2026-08-07T11:15:35-04:00",
+    "url": "https://job-boards.greenhouse.io/zscaler/jobs/5189377007",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-07T16:03:05.646172+00:00",
+    "emailed_utc": "2026-08-07T16:03:05.646172+00:00"
+  },
+  {
+    "job_id": "greenhouse:veristainc:5150378008",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "veristainc",
+    "title": "6244 - CIP (Clean-in-Place) Engineer",
+    "location": "Apex, NC",
+    "posted": "2026-08-07T11:55:09-04:00",
+    "url": "https://job-boards.greenhouse.io/veristainc/jobs/5150378008",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-07T16:03:05.646172+00:00",
+    "emailed_utc": "2026-08-07T16:03:05.646172+00:00"
+  },
+  {
+    "job_id": "lever:makpar:8f13bb8a-2739-4832-9e3c-8f9ba3f60b59",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "makpar",
+    "title": "Software Systems Engineer II",
+    "location": "Remote, US-Based",
+    "posted": "2026-08-07 14:33 UTC",
+    "url": "https://jobs.lever.co/makpar/8f13bb8a-2739-4832-9e3c-8f9ba3f60b59",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-07T16:03:05.646172+00:00",
+    "emailed_utc": "2026-08-07T16:03:05.646172+00:00"
+  },
+  {
+    "job_id": "lever:sunsrce:588f3e00-7117-42e6-9f63-8065586404d1",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "sunsrce",
+    "title": "Systems Designer/Engineer",
+    "location": "Hartland, WI 53029",
+    "posted": "2026-08-07 15:12 UTC",
+    "url": "https://jobs.lever.co/sunsrce/588f3e00-7117-42e6-9f63-8065586404d1",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-07T16:03:05.646172+00:00",
+    "emailed_utc": "2026-08-07T16:03:05.646172+00:00"
   }
 ]
