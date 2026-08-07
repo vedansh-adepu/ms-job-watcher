@@ -11867,5 +11867,18 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-07T22:31:29.982828+00:00",
     "emailed_utc": "2026-08-07T22:31:29.982828+00:00"
+  },
+  {
+    "job_id": "amazon:5e9e0b06-66be-4490-aea5-1b3d48ebfada",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, AI/ML, AWS Neuron, Model Inference",
+    "location": "US, CA, Cupertino",
+    "posted": "August  7, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10496432/software-development-engineer-ai-ml-aws-neuron-model-inference",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-07T22:51:21.678041+00:00",
+    "emailed_utc": "2026-08-07T22:51:21.678041+00:00"
   }
 ]
