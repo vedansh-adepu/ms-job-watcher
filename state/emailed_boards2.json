@@ -46161,5 +46161,70 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-07T03:31:45.154682+00:00",
     "emailed_utc": "2026-08-07T03:31:45.154682+00:00"
+  },
+  {
+    "job_id": "greenhouse:morsecorp:7834006003",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "morsecorp",
+    "title": "Bayesian Data Scientist",
+    "location": "Cambridge, MA, Arlington, VA ",
+    "posted": "2026-08-06T22:29:46-04:00",
+    "url": "https://boards.greenhouse.io/morsecorp/jobs/7834006003?gh_jid=7834006003",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-07T03:39:15.823424+00:00",
+    "emailed_utc": "2026-08-07T03:39:15.823424+00:00"
+  },
+  {
+    "job_id": "greenhouse:morsecorp:7834095003",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "morsecorp",
+    "title": "C++ Software Engineer",
+    "location": "Cambridge, MA",
+    "posted": "2026-08-06T23:13:01-04:00",
+    "url": "https://boards.greenhouse.io/morsecorp/jobs/7834095003?gh_jid=7834095003",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-07T03:39:15.823424+00:00",
+    "emailed_utc": "2026-08-07T03:39:15.823424+00:00"
+  },
+  {
+    "job_id": "greenhouse:morsecorp:7834009003",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "morsecorp",
+    "title": "Machine Learning Engineer",
+    "location": "Cambridge, MA, Arlington, VA, Seattle, WA",
+    "posted": "2026-08-06T22:39:28-04:00",
+    "url": "https://boards.greenhouse.io/morsecorp/jobs/7834009003?gh_jid=7834009003",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-07T03:39:15.823424+00:00",
+    "emailed_utc": "2026-08-07T03:39:15.823424+00:00"
+  },
+  {
+    "job_id": "greenhouse:roblox:7991993",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "roblox",
+    "title": "Principal Software Engineer, Engineering Acceleration",
+    "location": "San Mateo, CA, United States",
+    "posted": "2026-08-06T23:02:52-04:00",
+    "url": "https://careers.roblox.com/jobs/7991993?gh_jid=7991993",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-07T03:39:15.823424+00:00",
+    "emailed_utc": "2026-08-07T03:39:15.823424+00:00"
+  },
+  {
+    "job_id": "greenhouse:sentinellabs:7834099003",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "sentinellabs",
+    "title": "Staff Endpoint Software Engineer, Prompt (Python & OS Internals)",
+    "location": "United States - Remote",
+    "posted": "2026-08-06T23:18:34-04:00",
+    "url": "https://www.sentinelone.com/jobs/?gh_jid=7834099003",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-07T03:39:15.823424+00:00",
+    "emailed_utc": "2026-08-07T03:39:15.823424+00:00"
   }
 ]
