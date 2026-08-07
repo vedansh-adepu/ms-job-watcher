@@ -99240,5 +99240,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-07T00:15:25.466185+00:00",
     "emailed_utc": "2026-08-07T00:15:25.466185+00:00"
+  },
+  {
+    "job_id": "workday:hp:ExternalCareerSite:req:3163597",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "HP Inc",
+    "title": "AI Software Engineer - HP IQ",
+    "location": "San Francisco, California, United States of America",
+    "posted": "Posted Today",
+    "url": "https://hp.wd5.myworkdayjobs.com/en-US/ExternalCareerSite/job/San-Francisco-California-United-States-of-America/AI-Software-Engineer---HP-IQ_3163597-2",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-07T00:32:57.449611+00:00",
+    "emailed_utc": "2026-08-07T00:32:57.449611+00:00"
+  },
+  {
+    "job_id": "workday:disney:disneycareer:req:10155301",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Disney",
+    "title": "Sr Manager, Software Data Engineering",
+    "location": "Burbank, CA, USA",
+    "posted": "Posted Today",
+    "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Burbank-CA-USA/Sr-Manager--Software-Data-Engineering_10155301",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-07T00:32:57.449611+00:00",
+    "emailed_utc": "2026-08-07T00:32:57.449611+00:00"
   }
 ]
