@@ -47214,5 +47214,70 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-07T20:32:00.246990+00:00",
     "emailed_utc": "2026-08-07T20:32:00.246990+00:00"
+  },
+  {
+    "job_id": "greenhouse:verifone:7812087003",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "verifone",
+    "title": "People Analytics Analyst",
+    "location": "Atlanta, Georgia, United States",
+    "posted": "2026-08-07T16:29:27-04:00",
+    "url": "https://job-boards.greenhouse.io/verifone/jobs/7812087003",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-07T21:02:30.953696+00:00",
+    "emailed_utc": "2026-08-07T21:02:30.953696+00:00"
+  },
+  {
+    "job_id": "greenhouse:uberfreight:5366033008",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "uberfreight",
+    "title": "Staff Data Architect",
+    "location": "Frisco, TX 75034, United States",
+    "posted": "2026-08-07T16:28:17-04:00",
+    "url": "https://job-boards.greenhouse.io/uberfreight/jobs/5366033008",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-07T21:02:30.953696+00:00",
+    "emailed_utc": "2026-08-07T21:02:30.953696+00:00"
+  },
+  {
+    "job_id": "greenhouse:uberfreight:5383461008",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "uberfreight",
+    "title": "Staff Data Architect",
+    "location": "Chicago, IL 60607, United States",
+    "posted": "2026-08-07T16:28:18-04:00",
+    "url": "https://job-boards.greenhouse.io/uberfreight/jobs/5383461008",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-07T21:02:30.953696+00:00",
+    "emailed_utc": "2026-08-07T21:02:30.953696+00:00"
+  },
+  {
+    "job_id": "lever:cfsenergy:dc92eb6c-20cf-4013-8497-e2560f57fa87",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "cfsenergy",
+    "title": "Staff Modeling and Simulation Engineer",
+    "location": "Milpitas, CA",
+    "posted": "2026-08-07 19:40 UTC",
+    "url": "https://jobs.lever.co/cfsenergy/dc92eb6c-20cf-4013-8497-e2560f57fa87",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-07T21:02:30.953696+00:00",
+    "emailed_utc": "2026-08-07T21:02:30.953696+00:00"
+  },
+  {
+    "job_id": "lever:makpar:49718bfb-1271-4b71-ac1f-840797aa1c89",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "makpar",
+    "title": "Lead Web Content Developer",
+    "location": "Remote, US-Based",
+    "posted": "2026-08-07 19:37 UTC",
+    "url": "https://jobs.lever.co/makpar/49718bfb-1271-4b71-ac1f-840797aa1c89",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-07T21:02:30.953696+00:00",
+    "emailed_utc": "2026-08-07T21:02:30.953696+00:00"
   }
 ]
