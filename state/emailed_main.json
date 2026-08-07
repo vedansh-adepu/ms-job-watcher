@@ -11724,5 +11724,44 @@
     "bucket": "yes",
     "first_seen_utc": "2026-08-07T19:21:26.898338+00:00",
     "emailed_utc": "2026-08-07T19:21:26.898338+00:00"
+  },
+  {
+    "job_id": "amazon:1c3a55e5-7918-43c2-bc1a-cf45e2b3076e",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer - EKS, AWS Controllers for Kubernetes",
+    "location": "US, WA, Seattle",
+    "posted": "August  7, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10496265/software-development-engineer-eks-aws-controllers-for-kubernetes",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-07T19:31:23.886117+00:00",
+    "emailed_utc": "2026-08-07T19:31:23.886117+00:00"
+  },
+  {
+    "job_id": "amazon:e244708f-58e7-4578-8852-2167a8bbe055",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer II, AWS EKS",
+    "location": "US, WA, Seattle",
+    "posted": "August  7, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10496268/software-development-engineer-ii-aws-eks",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-07T19:31:23.886117+00:00",
+    "emailed_utc": "2026-08-07T19:31:23.886117+00:00"
+  },
+  {
+    "job_id": "amazon:49bd2c00-8d3c-436c-ae09-b462ea7bc7ed",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Dev Engineer II",
+    "location": "US, WA, Seattle",
+    "posted": "August  7, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10496263/software-dev-engineer-ii",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-07T19:31:23.886117+00:00",
+    "emailed_utc": "2026-08-07T19:31:23.886117+00:00"
   }
 ]
