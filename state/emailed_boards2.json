@@ -46317,5 +46317,44 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-07T13:32:18.332322+00:00",
     "emailed_utc": "2026-08-07T13:32:18.332322+00:00"
+  },
+  {
+    "job_id": "greenhouse:urbancompass:8114060",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "urbancompass",
+    "title": "17708 Software Engineer II",
+    "location": "Seattle, Washington, United States",
+    "posted": "2026-08-07T09:58:32-04:00",
+    "url": "https://www.compass.com/careers?gh_jid=8114060",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-07T14:03:14.444539+00:00",
+    "emailed_utc": "2026-08-07T14:03:14.444539+00:00"
+  },
+  {
+    "job_id": "greenhouse:urbancompass:8114011",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "urbancompass",
+    "title": "Software Engineer II",
+    "location": "Boston, Massachusetts, United States",
+    "posted": "2026-08-07T09:58:00-04:00",
+    "url": "https://www.compass.com/careers?gh_jid=8114011",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-07T14:03:14.444539+00:00",
+    "emailed_utc": "2026-08-07T14:03:14.444539+00:00"
+  },
+  {
+    "job_id": "greenhouse:urbancompass:8114010",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "urbancompass",
+    "title": "Software Engineer II - Integrated Services",
+    "location": "Manhattan, New York, United States",
+    "posted": "2026-08-07T09:52:42-04:00",
+    "url": "https://www.compass.com/careers?gh_jid=8114010",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-07T14:03:14.444539+00:00",
+    "emailed_utc": "2026-08-07T14:03:14.444539+00:00"
   }
 ]
