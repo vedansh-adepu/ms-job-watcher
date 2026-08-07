@@ -99994,5 +99994,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-07T14:33:09.455539+00:00",
     "emailed_utc": "2026-08-07T14:33:09.455539+00:00"
+  },
+  {
+    "job_id": "greenhouse:cartesiansystems:4360092009",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Cartesiansystems",
+    "title": "Machine Learning Engineer",
+    "location": "Cambridge, MA",
+    "posted": "2026-08-07T10:30:50-04:00",
+    "url": "https://job-boards.greenhouse.io/cartesiansystems/jobs/4360092009",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-07T15:31:35.451871+00:00",
+    "emailed_utc": "2026-08-07T15:31:35.451871+00:00"
+  },
+  {
+    "job_id": "greenhouse:torcrobotics:8651349002",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Torcrobotics",
+    "title": "ML Engineer, II - Simulation Enablement",
+    "location": "Remote - US, Ann Arbor, MI ",
+    "posted": "2026-08-07T10:00:04-04:00",
+    "url": "https://job-boards.greenhouse.io/torcrobotics/jobs/8651349002",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-07T15:31:35.451871+00:00",
+    "emailed_utc": "2026-08-07T15:31:35.451871+00:00"
   }
 ]
