@@ -11802,5 +11802,44 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-07T20:51:24.469814+00:00",
     "emailed_utc": "2026-08-07T20:51:24.469814+00:00"
+  },
+  {
+    "job_id": "amazon:f27c445e-532f-4068-b664-6100fbc7cb8f",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Embedded Software Engineer, Leo Autopilot",
+    "location": "US, WA, Redmond",
+    "posted": "August  7, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10496348/embedded-software-engineer-leo-autopilot",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-07T21:01:28.921210+00:00",
+    "emailed_utc": "2026-08-07T21:01:28.921210+00:00"
+  },
+  {
+    "job_id": "amazon:6206491a-5ed7-40d2-a264-21a30ae12c33",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Applied Scientist, Alexa-PAPI",
+    "location": "US, CA, Sunnyvale",
+    "posted": "August  7, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10496248/applied-scientist-alexa-papi",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-07T21:01:28.921210+00:00",
+    "emailed_utc": "2026-08-07T21:01:28.921210+00:00"
+  },
+  {
+    "job_id": "amazon:c68a1038-ba00-4768-bdf2-39e9038ee5c0",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Dev Engineer II, AWS Networking Reasoning Team",
+    "location": "US, WA, Seattle",
+    "posted": "August  7, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10496340/software-dev-engineer-ii-aws-networking-reasoning-team",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-07T21:01:28.921210+00:00",
+    "emailed_utc": "2026-08-07T21:01:28.921210+00:00"
   }
 ]
