@@ -46070,5 +46070,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-07T00:02:40.927570+00:00",
     "emailed_utc": "2026-08-07T00:02:40.927570+00:00"
+  },
+  {
+    "job_id": "greenhouse:vast:4703197006",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "vast",
+    "title": "Senior Manufacturing Engineer, Thermal Controls Systems",
+    "location": "Long Beach, California, United States",
+    "posted": "2026-08-06T19:27:41-04:00",
+    "url": "https://boards.greenhouse.io/vast/jobs/4703197006?gh_jid=4703197006",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-07T00:33:35.576811+00:00",
+    "emailed_utc": "2026-08-07T00:33:35.576811+00:00"
+  },
+  {
+    "job_id": "lever:sugarcrm:d602d856-4c32-412d-95e5-3af31e064377",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "sugarcrm",
+    "title": "Senior Data Engineer - Databricks",
+    "location": "Denver, CO",
+    "posted": "2026-08-06 21:10 UTC",
+    "url": "https://jobs.lever.co/sugarcrm/d602d856-4c32-412d-95e5-3af31e064377",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-07T00:33:35.576811+00:00",
+    "emailed_utc": "2026-08-07T00:33:35.576811+00:00"
   }
 ]
