@@ -99526,5 +99526,44 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-07T02:31:20.729674+00:00",
     "emailed_utc": "2026-08-07T02:31:20.729674+00:00"
+  },
+  {
+    "job_id": "greenhouse:andurilindustries:5149344007",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "andurilindustries",
+    "title": "Chief Engineer, Ground Maneuver",
+    "location": "Costa Mesa, California, United States",
+    "posted": "2026-08-06T20:20:23-04:00",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5149344007?gh_jid=5149344007",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-07T03:02:57.640306+00:00",
+    "emailed_utc": "2026-08-07T03:02:57.640306+00:00"
+  },
+  {
+    "job_id": "greenhouse:andurilindustries:5206580007",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "andurilindustries",
+    "title": "Senior Software Engineer, Video ",
+    "location": "Seattle, Washington, United States",
+    "posted": "2026-08-06T20:57:02-04:00",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5206580007?gh_jid=5206580007",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-07T03:02:57.640306+00:00",
+    "emailed_utc": "2026-08-07T03:02:57.640306+00:00"
+  },
+  {
+    "job_id": "workday:abbott:abbottcareers:req:31158457",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Abbott",
+    "title": "Field Service Engineer I- Nashville, TN",
+    "location": "United States - Tennessee - Nashville",
+    "posted": "Posted Today",
+    "url": "https://abbott.wd5.myworkdayjobs.com/en-US/abbottcareers/job/United-States---Tennessee---Nashville/Field-Service-Engineer-I--Nashville--TN_31158457",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-07T03:02:57.640306+00:00",
+    "emailed_utc": "2026-08-07T03:02:57.640306+00:00"
   }
 ]
