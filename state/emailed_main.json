@@ -11646,5 +11646,44 @@
     "bucket": "yes",
     "first_seen_utc": "2026-08-07T18:51:16.815876+00:00",
     "emailed_utc": "2026-08-07T18:51:16.815876+00:00"
+  },
+  {
+    "job_id": "amazon:2caecde1-2911-4a17-a81a-037961682751",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer II, AWS Catalog",
+    "location": "US, WA, Bellevue",
+    "posted": "August  7, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10496215/software-development-engineer-ii-aws-catalog",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-07T19:01:30.922479+00:00",
+    "emailed_utc": "2026-08-07T19:01:30.922479+00:00"
+  },
+  {
+    "job_id": "amazon:347e456e-e692-411c-866c-94d46401ba5e",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, Billing Data Services",
+    "location": "US, WA, Seattle",
+    "posted": "August  6, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10495378/software-development-engineer-billing-data-services",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-07T19:01:30.922479+00:00",
+    "emailed_utc": "2026-08-07T19:01:30.922479+00:00"
+  },
+  {
+    "job_id": "amazon:c0e4d27c-03f2-4695-905c-3745067d3d44",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Senior Applied Scientist, Shopping Convo Foundations - Pre-purchases Science ",
+    "location": "US, WA, Seattle",
+    "posted": "August  7, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10496208/senior-applied-scientist-shopping-convo-foundations-pre-purchases-science",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-07T19:01:30.922479+00:00",
+    "emailed_utc": "2026-08-07T19:01:30.922479+00:00"
   }
 ]
