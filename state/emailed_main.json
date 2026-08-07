@@ -11542,5 +11542,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-07T17:51:21.428525+00:00",
     "emailed_utc": "2026-08-07T17:51:21.428525+00:00"
+  },
+  {
+    "job_id": "amazon:bc74cec7-522d-464a-af7c-f2f83f1770ce",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, Amazon Connect Customer",
+    "location": "US, NY, New York",
+    "posted": "August  7, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10496150/software-development-engineer-amazon-connect-customer",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-07T18:04:43.895610+00:00",
+    "emailed_utc": "2026-08-07T18:04:43.895610+00:00"
+  },
+  {
+    "job_id": "amazon:4e579101-3ff8-4663-a4be-b4f3dc9e95a9",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Sr. Software Development Engineer, AWS Marketplace Buyer Fulfillment",
+    "location": "US, NY, New York",
+    "posted": "August  7, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10496148/sr-software-development-engineer-aws-marketplace-buyer-fulfillment",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-07T18:04:43.895610+00:00",
+    "emailed_utc": "2026-08-07T18:04:43.895610+00:00"
   }
 ]
