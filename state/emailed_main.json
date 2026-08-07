@@ -11425,5 +11425,18 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-07T06:51:18.456607+00:00",
     "emailed_utc": "2026-08-07T06:51:18.456607+00:00"
+  },
+  {
+    "job_id": "amazon:9928a321-4e3b-4868-9789-64662bdbddfb",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer II - Threat Intelligence Systems, ACTI Engineering",
+    "location": "US, VA, Herndon",
+    "posted": "August  7, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10495807/software-development-engineer-ii-threat-intelligence-systems-acti-engineering",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-07T14:21:31.391689+00:00",
+    "emailed_utc": "2026-08-07T14:21:31.391689+00:00"
   }
 ]
