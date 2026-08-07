@@ -99643,5 +99643,44 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-07T06:32:24.930927+00:00",
     "emailed_utc": "2026-08-07T06:32:24.930927+00:00"
+  },
+  {
+    "job_id": "smartrecruiters:ServiceNow:744000142057526",
+    "pipeline": "boards",
+    "platform": "smartrecruiters",
+    "company": "ServiceNow",
+    "title": "Staff Software Engineer - Cloud Platform\u2014 Kubernetes, Hyperscalers & Distributed Systems",
+    "location": "Hyderabad, in",
+    "posted": "2026-08-07T06:47:33.354Z",
+    "url": "https://jobs.smartrecruiters.com/ServiceNow",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-07T07:03:00.219625+00:00",
+    "emailed_utc": "2026-08-07T07:03:00.219625+00:00"
+  },
+  {
+    "job_id": "smartrecruiters:ServiceNow:744000142055094",
+    "pipeline": "boards",
+    "platform": "smartrecruiters",
+    "company": "ServiceNow",
+    "title": "Sr Software Engineer - Cloud Platform\u2014Kubernetes, Hyperscalers & Distributed Systems",
+    "location": "Hyderabad, in",
+    "posted": "2026-08-07T06:41:17.612Z",
+    "url": "https://jobs.smartrecruiters.com/ServiceNow",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-07T07:03:00.219625+00:00",
+    "emailed_utc": "2026-08-07T07:03:00.219625+00:00"
+  },
+  {
+    "job_id": "greenhouse:ultimagenomics:6138361004",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "ultimagenomics",
+    "title": "Field Service Engineer II, Arizona",
+    "location": "Phoenix, Arizona, United States",
+    "posted": "2026-08-07T02:04:02-04:00",
+    "url": "https://job-boards.greenhouse.io/ultimagenomics/jobs/6138361004",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-07T07:03:00.219625+00:00",
+    "emailed_utc": "2026-08-07T07:03:00.219625+00:00"
   }
 ]
