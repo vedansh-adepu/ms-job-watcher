@@ -47032,5 +47032,83 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-07T19:32:33.335793+00:00",
     "emailed_utc": "2026-08-07T19:32:33.335793+00:00"
+  },
+  {
+    "job_id": "greenhouse:abnormalsecurity:7833508003",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "abnormalsecurity",
+    "title": "Enterprise Platform Engineer",
+    "location": "Remote - USA",
+    "posted": "2026-08-07T15:01:22-04:00",
+    "url": "https://abnormal.ai/careers/jobs/7833508003?gh_jid=7833508003",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-07T20:03:11.126421+00:00",
+    "emailed_utc": "2026-08-07T20:03:11.126421+00:00"
+  },
+  {
+    "job_id": "greenhouse:agilityrobotics:6138236004",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "agilityrobotics",
+    "title": "Principal Robotics Functional Safety Engineer",
+    "location": "Hybrid- Fremont, CA",
+    "posted": "2026-08-07T14:32:54-04:00",
+    "url": "https://www.agilityrobotics.com/about/job-post?gh_jid=6138236004",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-07T20:03:11.126421+00:00",
+    "emailed_utc": "2026-08-07T20:03:11.126421+00:00"
+  },
+  {
+    "job_id": "greenhouse:asteralabs:4713208005",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "asteralabs",
+    "title": "Tech Lead Design Engineer",
+    "location": "San Jose, California, United States",
+    "posted": "2026-08-07T15:34:12-04:00",
+    "url": "https://job-boards.greenhouse.io/asteralabs/jobs/4713208005",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-07T20:03:11.126421+00:00",
+    "emailed_utc": "2026-08-07T20:03:11.126421+00:00"
+  },
+  {
+    "job_id": "greenhouse:chaosindustries:5207341007",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "chaosindustries",
+    "title": "Mechanical Engineer, Structures",
+    "location": "El Segundo, California, United States",
+    "posted": "2026-08-07T15:53:26-04:00",
+    "url": "https://job-boards.greenhouse.io/chaosindustries/jobs/5207341007",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-07T20:03:11.126421+00:00",
+    "emailed_utc": "2026-08-07T20:03:11.126421+00:00"
+  },
+  {
+    "job_id": "greenhouse:disco:8691419002",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "disco",
+    "title": "Value Engineering Analyst",
+    "location": "Austin, TX",
+    "posted": "2026-08-07T14:53:24-04:00",
+    "url": "https://www.csdisco.com/careers-listing?gh_jid=8691419002",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-07T20:03:11.126421+00:00",
+    "emailed_utc": "2026-08-07T20:03:11.126421+00:00"
+  },
+  {
+    "job_id": "greenhouse:getbuilt:4722400005",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "getbuilt",
+    "title": "Staff Innovation Engineer, Marketplace",
+    "location": "Nashville, TN (Hybrid) or Remote",
+    "posted": "2026-08-07T15:31:06-04:00",
+    "url": "https://job-boards.greenhouse.io/getbuilt/jobs/4722400005",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-07T20:03:11.126421+00:00",
+    "emailed_utc": "2026-08-07T20:03:11.126421+00:00"
   }
 ]
