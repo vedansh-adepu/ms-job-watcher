@@ -103790,5 +103790,70 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-07T21:54:56.955684+00:00",
     "emailed_utc": "2026-08-07T21:54:56.955684+00:00"
+  },
+  {
+    "job_id": "greenhouse:robinhood:8109753",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Robinhood",
+    "title": "Privacy Engineer",
+    "location": "New York, NY",
+    "posted": "2026-08-07T15:57:06-04:00",
+    "url": "https://boards.greenhouse.io/robinhood/jobs/8109753?t=gh_src=&gh_jid=8109753",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-07T22:02:47.590256+00:00",
+    "emailed_utc": "2026-08-07T22:02:47.590256+00:00"
+  },
+  {
+    "job_id": "greenhouse:samsara:8064742",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Samsara",
+    "title": "Staff Software Engineer",
+    "location": "Remote - US",
+    "posted": "2026-08-07T17:28:57-04:00",
+    "url": "https://www.samsara.com/company/careers/roles/8064742?gh_jid=8064742",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-07T22:02:47.590256+00:00",
+    "emailed_utc": "2026-08-07T22:02:47.590256+00:00"
+  },
+  {
+    "job_id": "greenhouse:samsara:7588828",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Samsara",
+    "title": "Staff Software Engineer - CAM",
+    "location": "Remote - US",
+    "posted": "2026-08-07T17:37:29-04:00",
+    "url": "https://www.samsara.com/company/careers/roles/7588828?gh_jid=7588828",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-07T22:02:47.590256+00:00",
+    "emailed_utc": "2026-08-07T22:02:47.590256+00:00"
+  },
+  {
+    "job_id": "smartrecruiters:ServiceNow:744000142223189",
+    "pipeline": "boards",
+    "platform": "smartrecruiters",
+    "company": "ServiceNow",
+    "title": "Senior Software Engineering Manager - FinOps Platform Services",
+    "location": "Pleasanton, California, us",
+    "posted": "2026-08-07T22:00:56.946Z",
+    "url": "https://jobs.smartrecruiters.com/ServiceNow",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-07T22:02:47.590256+00:00",
+    "emailed_utc": "2026-08-07T22:02:47.590256+00:00"
+  },
+  {
+    "job_id": "workday:target:targetcareers:req:R0000448660",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Target",
+    "title": "Lead Engineer - Cloud Security (Cloud Security Platform & CSPM)",
+    "location": "7000 Target Pkwy N,NCD-0375 Brooklyn Park,MN 55445",
+    "posted": "Posted Today",
+    "url": "https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/7000-Target-Pkwy-NNCD-0375-Brooklyn-ParkMN-55445/Lead-Engineer---Cloud-Security--Cloud-Security-Platform---CSPM-_R0000448660",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-07T22:02:47.590256+00:00",
+    "emailed_utc": "2026-08-07T22:02:47.590256+00:00"
   }
 ]
