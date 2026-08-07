@@ -47617,5 +47617,57 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-07T22:18:55.613613+00:00",
     "emailed_utc": "2026-08-07T22:18:55.613613+00:00"
+  },
+  {
+    "job_id": "greenhouse:welbehealth:8599687002",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "welbehealth",
+    "title": "AI Engineer I",
+    "location": "Remote, CA, USA",
+    "posted": "2026-08-07T17:28:42-04:00",
+    "url": "https://job-boards.greenhouse.io/welbehealth/jobs/8599687002",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-07T22:32:02.823994+00:00",
+    "emailed_utc": "2026-08-07T22:32:02.823994+00:00"
+  },
+  {
+    "job_id": "greenhouse:xai:5063490007",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "xai",
+    "title": "AI Tutor - Software Engineering Specialist",
+    "location": "Remote United States",
+    "posted": "2026-08-07T18:09:09-04:00",
+    "url": "https://job-boards.greenhouse.io/xai/jobs/5063490007",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-07T22:32:02.823994+00:00",
+    "emailed_utc": "2026-08-07T22:32:02.823994+00:00"
+  },
+  {
+    "job_id": "lever:lindblad-expeditions:5d94dd00-a947-49d3-91c8-fcdef41e5e13",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "lindblad-expeditions",
+    "title": "Analytics Engineer",
+    "location": "New York, NY",
+    "posted": "2026-08-04 21:08 UTC",
+    "url": "https://jobs.lever.co/lindblad-expeditions/5d94dd00-a947-49d3-91c8-fcdef41e5e13",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-07T22:32:02.823994+00:00",
+    "emailed_utc": "2026-08-07T22:32:02.823994+00:00"
+  },
+  {
+    "job_id": "lever:talentwerx.io:24d334c0-dba4-4efe-90ce-174d41ce141a",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "talentwerx.io",
+    "title": "E01-M01 Senior Propulsion Engineer",
+    "location": "Dayton, OH",
+    "posted": "2026-08-07 21:03 UTC",
+    "url": "https://jobs.lever.co/talentwerx.io/24d334c0-dba4-4efe-90ce-174d41ce141a",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-07T22:32:02.823994+00:00",
+    "emailed_utc": "2026-08-07T22:32:02.823994+00:00"
   }
 ]
