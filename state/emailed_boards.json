@@ -103855,5 +103855,44 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-07T22:02:47.590256+00:00",
     "emailed_utc": "2026-08-07T22:02:47.590256+00:00"
+  },
+  {
+    "job_id": "greenhouse:verkada:4129304007",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "verkada",
+    "title": "Software Engineer - Data Platform",
+    "location": "San Mateo, CA United States",
+    "posted": "2026-08-07T16:46:36-04:00",
+    "url": "https://job-boards.greenhouse.io/verkada/jobs/4129304007",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-07T22:32:29.294982+00:00",
+    "emailed_utc": "2026-08-07T22:32:29.294982+00:00"
+  },
+  {
+    "job_id": "greenhouse:zoro:4703454006",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Zoro",
+    "title": "Sr. Software Engineer, Data Products",
+    "location": "Chicago, Illinois, United States",
+    "posted": "2026-08-07T16:17:11-04:00",
+    "url": "https://www.zoro.com/careers/jobs?gh_jid=4703454006",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-07T22:32:29.294982+00:00",
+    "emailed_utc": "2026-08-07T22:32:29.294982+00:00"
+  },
+  {
+    "job_id": "lever:zoox:29f666af-ab09-48e8-ac1e-09b4d87d0595",
+    "pipeline": "boards",
+    "platform": "lever",
+    "company": "zoox",
+    "title": "Senior Materials Engineer (Metals, Forming & Castings)",
+    "location": "Foster City, CA",
+    "posted": "2026-08-06 21:51 UTC",
+    "url": "https://jobs.lever.co/zoox/29f666af-ab09-48e8-ac1e-09b4d87d0595",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-07T22:32:29.294982+00:00",
+    "emailed_utc": "2026-08-07T22:32:29.294982+00:00"
   }
 ]
