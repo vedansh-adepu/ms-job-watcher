@@ -11893,5 +11893,31 @@
     "bucket": "yes",
     "first_seen_utc": "2026-08-07T23:21:27.465425+00:00",
     "emailed_utc": "2026-08-07T23:21:27.465425+00:00"
+  },
+  {
+    "job_id": "ibm:fb651ec102b707177397cf8661992e9c377181140a0a1039970d9f12f2985ff5",
+    "pipeline": "main",
+    "platform": "ibm",
+    "company": "IBM",
+    "title": "Federal Associate Data Scientist 2027",
+    "location": "United States",
+    "posted": "",
+    "url": "https://careers.ibm.com/careers/JobDetail?jobId=127790",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-07T23:31:22.807355+00:00",
+    "emailed_utc": "2026-08-07T23:31:22.807355+00:00"
+  },
+  {
+    "job_id": "ibm:73238afd8e55aa0fe3ca42e1af371b9dc78d098b41b6dd7370809295afb9b31d",
+    "pipeline": "main",
+    "platform": "ibm",
+    "company": "IBM",
+    "title": "Federal Associate Developer 2027",
+    "location": "United States",
+    "posted": "",
+    "url": "https://careers.ibm.com/careers/JobDetail?jobId=127789",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-07T23:31:22.807355+00:00",
+    "emailed_utc": "2026-08-07T23:31:22.807355+00:00"
   }
 ]
