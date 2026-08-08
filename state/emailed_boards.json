@@ -104856,5 +104856,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-08T02:33:06.241587+00:00",
     "emailed_utc": "2026-08-08T02:33:06.241587+00:00"
+  },
+  {
+    "job_id": "lever:prosper:65960f5f-fbf2-4137-9eef-12098fce7e8e",
+    "pipeline": "boards",
+    "platform": "lever",
+    "company": "Prosper",
+    "title": "Sr. Director, Credit Risk Analytics",
+    "location": "United States",
+    "posted": "2026-08-08 01:35 UTC",
+    "url": "https://jobs.lever.co/prosper/65960f5f-fbf2-4137-9eef-12098fce7e8e",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-08T03:02:35.949139+00:00",
+    "emailed_utc": "2026-08-08T03:02:35.949139+00:00"
+  },
+  {
+    "job_id": "workday:ngc:Northrop_Grumman_External_Site:req:R10244607",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Northrop Grumman",
+    "title": "Staff Systems Engineer - NATO ISS Lead",
+    "location": "United States-California-San Diego",
+    "posted": "Posted Today",
+    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/Staff-Systems-Engineer---NATO-ISS-Lead_R10244607",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-08T03:02:35.949139+00:00",
+    "emailed_utc": "2026-08-08T03:02:35.949139+00:00"
   }
 ]
