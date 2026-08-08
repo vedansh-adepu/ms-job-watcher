@@ -104492,5 +104492,57 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-08T00:32:43.653010+00:00",
     "emailed_utc": "2026-08-08T00:32:43.653010+00:00"
+  },
+  {
+    "job_id": "greenhouse:rocketlab:7829368003",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "rocketlab",
+    "title": "Senior Spacecraft Thermal Engineer I",
+    "location": "Long Beach, CA",
+    "posted": "2026-08-07T18:01:22-04:00",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7829368003",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-08T01:02:51.660320+00:00",
+    "emailed_utc": "2026-08-08T01:02:51.660320+00:00"
+  },
+  {
+    "job_id": "greenhouse:rocketlab:7829366003",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "rocketlab",
+    "title": "Spacecraft Thermal Engineer I/II",
+    "location": "Long Beach, CA",
+    "posted": "2026-08-07T18:21:00-04:00",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7829366003",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-08T01:02:51.660320+00:00",
+    "emailed_utc": "2026-08-08T01:02:51.660320+00:00"
+  },
+  {
+    "job_id": "greenhouse:samsungsemiconductor:7824908003",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "samsungsemiconductor",
+    "title": "Senior Staff Engineer, CAE Infrastructure & R&D Software",
+    "location": "San Jose, California, United States",
+    "posted": "2026-08-07T18:06:16-04:00",
+    "url": "https://job-boards.greenhouse.io/samsungsemiconductor/jobs/7824908003",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-08T01:02:51.660320+00:00",
+    "emailed_utc": "2026-08-08T01:02:51.660320+00:00"
+  },
+  {
+    "job_id": "greenhouse:toast:8054326",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Toast",
+    "title": "Senior Principal Software Engineer, Machine Learning",
+    "location": "Remote, US",
+    "posted": "2026-08-07T20:32:10-04:00",
+    "url": "https://careers.toasttab.com/jobs?gh_jid=8054326",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-08T01:02:51.660320+00:00",
+    "emailed_utc": "2026-08-08T01:02:51.660320+00:00"
   }
 ]
