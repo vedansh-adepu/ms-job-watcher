@@ -241603,5 +241603,18 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-08T16:08:56.221516+00:00",
     "emailed_utc": "2026-08-08T16:08:56.221516+00:00"
+  },
+  {
+    "job_id": "workday:ghafari:ghafari_careers:req:R-100355",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Ghafari",
+    "title": "Mechanical Engineer",
+    "location": "Chicago, IL",
+    "posted": "Posted 4 Days Ago",
+    "url": "https://ghafari.wd5.myworkdayjobs.com/en-US/ghafari_careers/job/Chicago-IL/Mechanical-Engineer_R-100355",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-08T16:17:51.908989+00:00",
+    "emailed_utc": "2026-08-08T16:17:51.908989+00:00"
   }
 ]
