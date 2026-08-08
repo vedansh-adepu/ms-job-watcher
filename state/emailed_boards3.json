@@ -237391,5 +237391,18 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-08T13:02:29.930138+00:00",
     "emailed_utc": "2026-08-08T13:02:29.930138+00:00"
+  },
+  {
+    "job_id": "workday:fox:domestic:req:R50033531",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Fox",
+    "title": "Senior Manager, Analytics Engineering",
+    "location": "Los Angeles, California, USA",
+    "posted": "Posted 4 Days Ago",
+    "url": "https://fox.wd1.myworkdayjobs.com/en-US/domestic/job/Los-Angeles-California-USA/Senior-Manager--Analytics-Engineering_R50033531",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-08T13:32:31.239370+00:00",
+    "emailed_utc": "2026-08-08T13:32:31.239370+00:00"
   }
 ]
