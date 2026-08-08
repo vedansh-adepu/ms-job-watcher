@@ -104934,5 +104934,44 @@
     "bucket": "yes",
     "first_seen_utc": "2026-08-08T04:33:06.459095+00:00",
     "emailed_utc": "2026-08-08T04:33:06.459095+00:00"
+  },
+  {
+    "job_id": "workday:gdit:External_Career_Site:req:RQ225443",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "General Dynamics Information Technology (GDIT)",
+    "title": "Data Engineer",
+    "location": "USA VA Falls Church",
+    "posted": "Posted Today",
+    "url": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-Falls-Church/Data-Engineer_RQ225443-1",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-08T05:03:10.861848+00:00",
+    "emailed_utc": "2026-08-08T05:03:10.861848+00:00"
+  },
+  {
+    "job_id": "workday:gdit:External_Career_Site:req:RQ225774",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "General Dynamics Information Technology (GDIT)",
+    "title": "Field Engineering Manager",
+    "location": "USA VA Chesapeake",
+    "posted": "Posted Today",
+    "url": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-Chesapeake/Field-Engineering-Manager_RQ225774-1",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-08T05:03:10.861848+00:00",
+    "emailed_utc": "2026-08-08T05:03:10.861848+00:00"
+  },
+  {
+    "job_id": "workday:gdit:External_Career_Site:req:RQ225770",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "General Dynamics Information Technology (GDIT)",
+    "title": "Field Engineering Sr Manager",
+    "location": "USA VA Chesapeake",
+    "posted": "Posted Today",
+    "url": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-Chesapeake/Field-Engineering-Sr-Manager_RQ225770-2",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-08T05:03:10.861848+00:00",
+    "emailed_utc": "2026-08-08T05:03:10.861848+00:00"
   }
 ]
