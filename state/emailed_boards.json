@@ -104817,5 +104817,44 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-08T01:32:22.681353+00:00",
     "emailed_utc": "2026-08-08T01:32:22.681353+00:00"
+  },
+  {
+    "job_id": "greenhouse:elastic:8111876",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Elastic",
+    "title": "Principal Partner Value Engineer",
+    "location": "United States",
+    "posted": "2026-08-07T20:05:06-04:00",
+    "url": "https://jobs.elastic.co/jobs?gh_jid=8111876&gh_jid=8111876",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-08T02:33:06.241587+00:00",
+    "emailed_utc": "2026-08-08T02:33:06.241587+00:00"
+  },
+  {
+    "job_id": "greenhouse:gitlab:8646573002",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "GitLab",
+    "title": "Staff Backend Engineer (Ruby), AI Engineering: DAP Repository Flows",
+    "location": "Remote, Canada; Remote, United States",
+    "posted": "2026-08-07T21:00:24-04:00",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8646573002",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-08T02:33:06.241587+00:00",
+    "emailed_utc": "2026-08-08T02:33:06.241587+00:00"
+  },
+  {
+    "job_id": "workday:intel:External:req:JR0286301",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Intel",
+    "title": "CPU Physical Design Engineer",
+    "location": "US, Texas, Austin",
+    "posted": "Posted Today",
+    "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Texas-Austin/CPU-Physical-Design-Engineer_JR0286301",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-08T02:33:06.241587+00:00",
+    "emailed_utc": "2026-08-08T02:33:06.241587+00:00"
   }
 ]
