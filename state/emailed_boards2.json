@@ -47812,5 +47812,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-08T01:31:38.008577+00:00",
     "emailed_utc": "2026-08-08T01:31:38.008577+00:00"
+  },
+  {
+    "job_id": "greenhouse:scopely:5379053008",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "scopely",
+    "title": "Staff Software Engineer, Game Development (Unity & Cloud)",
+    "location": "US - Bellevue, United States",
+    "posted": "2026-08-07T20:31:16-04:00",
+    "url": "https://job-boards.greenhouse.io/scopely/jobs/5379053008?gh_jid=5379053008",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-08T02:01:56.671740+00:00",
+    "emailed_utc": "2026-08-08T02:01:56.671740+00:00"
+  },
+  {
+    "job_id": "greenhouse:solidpower:6139375004",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "solidpower",
+    "title": "Senior Product Engineer",
+    "location": "Thornton, CO",
+    "posted": "2026-08-07T20:22:44-04:00",
+    "url": "https://job-boards.greenhouse.io/solidpower/jobs/6139375004",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-08T02:01:56.671740+00:00",
+    "emailed_utc": "2026-08-08T02:01:56.671740+00:00"
   }
 ]
