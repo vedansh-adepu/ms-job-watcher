@@ -12049,5 +12049,44 @@
     "bucket": "yes",
     "first_seen_utc": "2026-08-08T01:41:21.574210+00:00",
     "emailed_utc": "2026-08-08T01:41:21.574210+00:00"
+  },
+  {
+    "job_id": "amazon:3bc2b8de-04ec-495a-8bf8-30ccd35f0115",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, Amazon Lists",
+    "location": "US, WA, Seattle",
+    "posted": "August  8, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10496467/software-development-engineer-amazon-lists",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-08T03:21:19.127678+00:00",
+    "emailed_utc": "2026-08-08T03:21:19.127678+00:00"
+  },
+  {
+    "job_id": "amazon:acfcc04b-5ecd-49a0-a431-583e08c65ec9",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, Core Shopping",
+    "location": "US, WA, Seattle",
+    "posted": "August  8, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10496469/software-development-engineer-core-shopping",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-08T03:21:19.127678+00:00",
+    "emailed_utc": "2026-08-08T03:21:19.127678+00:00"
+  },
+  {
+    "job_id": "amazon:ac3b0f9f-8f66-4f08-ac5a-d29a67632a45",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, Core Shopping",
+    "location": "US, WA, Seattle",
+    "posted": "August  8, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10496471/software-development-engineer-core-shopping",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-08T03:21:19.127678+00:00",
+    "emailed_utc": "2026-08-08T03:21:19.127678+00:00"
   }
 ]
