@@ -253992,5 +253992,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-08T23:05:32.688649+00:00",
     "emailed_utc": "2026-08-08T23:05:32.688649+00:00"
+  },
+  {
+    "job_id": "workday:iff:iff_careers:req:R20294",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Iff",
+    "title": "Quality Improvement Engineer",
+    "location": "Madison, WI, USA",
+    "posted": "Posted 3 Days Ago",
+    "url": "https://iff.wd5.myworkdayjobs.com/en-US/iff_careers/job/Madison-WI-USA/Quality-Improvement-Engineer_R20294",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-08T23:35:23.649753+00:00",
+    "emailed_utc": "2026-08-08T23:35:23.649753+00:00"
+  },
+  {
+    "job_id": "workday:iff:iff_careers:req:R20541",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Iff",
+    "title": "Senior Engineer, H&B Yeast Manufacturing",
+    "location": "Cedar Rapids, IA, USA",
+    "posted": "Posted 5 Days Ago",
+    "url": "https://iff.wd5.myworkdayjobs.com/en-US/iff_careers/job/Cedar-Rapids-IA-USA/Senior-Engineer--H-B-Yeast-Manufacturing_R20541",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-08T23:35:23.649753+00:00",
+    "emailed_utc": "2026-08-08T23:35:23.649753+00:00"
   }
 ]
