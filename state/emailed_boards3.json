@@ -227238,5 +227238,18 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-03T10:11:47.102195+00:00",
     "emailed_utc": "2026-08-03T10:11:47.102195+00:00"
+  },
+  {
+    "job_id": "workday:entandallergy:careers:req:R-100755",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Entandallergy",
+    "title": "Analyst, Strategy and Data Analytics",
+    "location": "Tarrytown, NY 10591",
+    "posted": "Posted 3 Days Ago",
+    "url": "https://entandallergy.wd501.myworkdayjobs.com/en-US/careers/job/Tarrytown-NY-10591/Analyst--Strategy-and-Data-Analytics_R-100755",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-08T08:01:11.351347+00:00",
+    "emailed_utc": "2026-08-08T08:01:11.351347+00:00"
   }
 ]
