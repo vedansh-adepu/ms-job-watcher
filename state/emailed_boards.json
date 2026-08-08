@@ -104882,5 +104882,44 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-08T03:02:35.949139+00:00",
     "emailed_utc": "2026-08-08T03:02:35.949139+00:00"
+  },
+  {
+    "job_id": "greenhouse:spacex:8692493002",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "SpaceX",
+    "title": "Lead Software Engineer, Application Software (Finance)",
+    "location": "Hawthorne, CA",
+    "posted": "2026-08-07T21:47:06-04:00",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8692493002?gh_jid=8692493002",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-08T03:32:55.453344+00:00",
+    "emailed_utc": "2026-08-08T03:32:55.453344+00:00"
+  },
+  {
+    "job_id": "greenhouse:spacex:8692498002",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "SpaceX",
+    "title": "Sr. Full Stack Engineer, Finance  ",
+    "location": "Hawthorne, CA",
+    "posted": "2026-08-07T21:08:25-04:00",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8692498002?gh_jid=8692498002",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-08T03:32:55.453344+00:00",
+    "emailed_utc": "2026-08-08T03:32:55.453344+00:00"
+  },
+  {
+    "job_id": "workday:target:targetcareers:req:R0000448693",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Target",
+    "title": "Lead Engineer - Cloud Security (Software Engineering)",
+    "location": "7000 Target Pkwy N,NCD-0375 Brooklyn Park,MN 55445",
+    "posted": "Posted Today",
+    "url": "https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/7000-Target-Pkwy-NNCD-0375-Brooklyn-ParkMN-55445/Lead-Engineer---Cloud-Security--Software-Engineering-_R0000448693-1",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-08T03:32:55.453344+00:00",
+    "emailed_utc": "2026-08-08T03:32:55.453344+00:00"
   }
 ]
