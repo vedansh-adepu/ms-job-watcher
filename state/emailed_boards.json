@@ -104999,5 +104999,18 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-08T06:03:09.024039+00:00",
     "emailed_utc": "2026-08-08T06:03:09.024039+00:00"
+  },
+  {
+    "job_id": "workday:capitalone:Capital_One:req:R248687",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Capital One",
+    "title": "Lead Software Engineer, Full Stack (Golang, Python, Java, AWS)",
+    "location": "McLean, VA",
+    "posted": "Posted Today",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Lead-Software-Engineer--Full-Stack--Golang--Python--Java--AWS-_R248687-1",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-08T15:02:56.988619+00:00",
+    "emailed_utc": "2026-08-08T15:02:56.988619+00:00"
   }
 ]
