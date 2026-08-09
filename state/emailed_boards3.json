@@ -256579,5 +256579,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-09T03:16:07.302803+00:00",
     "emailed_utc": "2026-08-09T03:16:07.302803+00:00"
+  },
+  {
+    "job_id": "workday:ace:careers:req:JR202638253",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Ace",
+    "title": "Entry Level Data Scientist",
+    "location": "Coppell, TX",
+    "posted": "Posted Yesterday",
+    "url": "https://ace.wd5.myworkdayjobs.com/en-US/careers/job/Coppell-TX/Entry-Level-Data-Scientist_JR202638253",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-09T03:37:34.337503+00:00",
+    "emailed_utc": "2026-08-09T03:37:34.337503+00:00"
+  },
+  {
+    "job_id": "workday:ace:careers:req:JR202638352",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Ace",
+    "title": "Data Engineering & Operations Manager",
+    "location": "Coppell, TX",
+    "posted": "Posted 2 Days Ago",
+    "url": "https://ace.wd5.myworkdayjobs.com/en-US/careers/job/Coppell-TX/Data-Engineering---Operations-Manager_JR202638352-1",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-09T03:37:34.337503+00:00",
+    "emailed_utc": "2026-08-09T03:37:34.337503+00:00"
   }
 ]
