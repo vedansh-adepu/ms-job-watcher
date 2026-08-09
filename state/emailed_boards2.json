@@ -48020,5 +48020,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-09T13:37:43.288163+00:00",
     "emailed_utc": "2026-08-09T13:37:43.288163+00:00"
+  },
+  {
+    "job_id": "greenhouse:verse:5383955008",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "verse",
+    "title": "Software Engineer, Distributed Systems",
+    "location": "San Francisco, CA",
+    "posted": "2026-08-09T16:28:11-04:00",
+    "url": "https://job-boards.greenhouse.io/verse/jobs/5383955008",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-09T20:31:54.129900+00:00",
+    "emailed_utc": "2026-08-09T20:31:54.129900+00:00"
+  },
+  {
+    "job_id": "greenhouse:verse:5383226008",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "verse",
+    "title": "Senior Software Engineer, Fleet Telemetry & Control/Rust",
+    "location": "San Francisco, CA",
+    "posted": "2026-08-09T15:40:26-04:00",
+    "url": "https://job-boards.greenhouse.io/verse/jobs/5383226008",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-09T20:31:54.129900+00:00",
+    "emailed_utc": "2026-08-09T20:31:54.129900+00:00"
   }
 ]
