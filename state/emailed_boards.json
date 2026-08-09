@@ -105246,5 +105246,18 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-09T21:48:05.318244+00:00",
     "emailed_utc": "2026-08-09T21:48:05.318244+00:00"
+  },
+  {
+    "job_id": "workday:gdit:External_Career_Site:req:RQ226008",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "General Dynamics Information Technology (GDIT)",
+    "title": "Linux Systems Engineer - TS/SCI with Polygraph",
+    "location": "USA VA Chantilly",
+    "posted": "Posted Today",
+    "url": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-Chantilly/Linux-Systems-Engineer---TS-SCI-with-Polygraph_RQ226008-1",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-09T22:03:08.268941+00:00",
+    "emailed_utc": "2026-08-09T22:03:08.268941+00:00"
   }
 ]
