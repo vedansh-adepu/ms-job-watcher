@@ -268266,5 +268266,18 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-09T11:32:22.142148+00:00",
     "emailed_utc": "2026-08-09T11:32:22.142148+00:00"
+  },
+  {
+    "job_id": "workday:atriumhospitality:atriumhospitality:req:R49547",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Atriumhospitality",
+    "title": "Engineering Supervisor",
+    "location": "Nashville, TN",
+    "posted": "Posted 3 Days Ago",
+    "url": "https://atriumhospitality.wd5.myworkdayjobs.com/en-US/atriumhospitality/job/Nashville-TN/Engineering-Supervisor_R49547",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-09T12:02:57.006412+00:00",
+    "emailed_utc": "2026-08-09T12:02:57.006412+00:00"
   }
 ]
