@@ -105090,5 +105090,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-08T21:02:26.712146+00:00",
     "emailed_utc": "2026-08-08T21:02:26.712146+00:00"
+  },
+  {
+    "job_id": "workday:gdit:External_Career_Site:req:RQ225874",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "General Dynamics Information Technology (GDIT)",
+    "title": "Network Engineer - TS/SCI Required",
+    "location": "USA VA Arlington",
+    "posted": "Posted Today",
+    "url": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-Arlington/Network-Engineer---TS-SCI-Required_RQ225874-1",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-09T04:32:55.464690+00:00",
+    "emailed_utc": "2026-08-09T04:32:55.464690+00:00"
+  },
+  {
+    "job_id": "workday:gdit:External_Career_Site:req:RQ225946",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "General Dynamics Information Technology (GDIT)",
+    "title": "Software Development Manager",
+    "location": "USA FL MacDill AFB",
+    "posted": "Posted Today",
+    "url": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-FL-MacDill-AFB/Software-Development-Manager_RQ225946-1",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-09T04:32:55.464690+00:00",
+    "emailed_utc": "2026-08-09T04:32:55.464690+00:00"
   }
 ]
