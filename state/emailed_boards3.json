@@ -283918,5 +283918,57 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-09T19:02:37.226588+00:00",
     "emailed_utc": "2026-08-09T19:02:37.226588+00:00"
+  },
+  {
+    "job_id": "workday:campbellsoup:externalcareers_globalsite:req:Req-67260",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Campbellsoup",
+    "title": "Data Engineer",
+    "location": "USA - NJ - Camden",
+    "posted": "Posted 2 Days Ago",
+    "url": "https://campbellsoup.wd5.myworkdayjobs.com/en-US/externalcareers_globalsite/job/USA---NJ---Camden/Data-Engineer_Req-67260-1",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-09T19:26:38.120622+00:00",
+    "emailed_utc": "2026-08-09T19:26:38.120622+00:00"
+  },
+  {
+    "job_id": "workday:campingworld:jobs:req:07646",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Campingworld",
+    "title": "Software Development Engineer in Test (SDET)",
+    "location": "Lincolnshire, IL",
+    "posted": "Posted 2 Days Ago",
+    "url": "https://campingworld.wd5.myworkdayjobs.com/en-US/jobs/job/Lincolnshire-IL/Software-Development-Engineer-in-Test--SDET-_26_07646",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-09T19:26:38.120622+00:00",
+    "emailed_utc": "2026-08-09T19:26:38.120622+00:00"
+  },
+  {
+    "job_id": "workday:campbellsoup:externalcareers_globalsite:req:Req-67236",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Campbellsoup",
+    "title": "Manufacturing Execution System (MES) Engineer",
+    "location": "USA - CA - Dixon",
+    "posted": "Posted 2 Days Ago",
+    "url": "https://campbellsoup.wd5.myworkdayjobs.com/en-US/externalcareers_globalsite/job/USA---CA---Dixon/Manufacturing-Execution-System--MES--Engineer_Req-67236",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-09T19:26:38.120622+00:00",
+    "emailed_utc": "2026-08-09T19:26:38.120622+00:00"
+  },
+  {
+    "job_id": "workday:campbellsoup:externalcareers_globalsite:req:Req-67244",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Campbellsoup",
+    "title": "Plant Project Engineer",
+    "location": "USA - PA - Denver",
+    "posted": "Posted 3 Days Ago",
+    "url": "https://campbellsoup.wd5.myworkdayjobs.com/en-US/externalcareers_globalsite/job/USA---PA---Denver/Plant-Project-Engineer_Req-67244",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-09T19:26:38.120622+00:00",
+    "emailed_utc": "2026-08-09T19:26:38.120622+00:00"
   }
 ]
