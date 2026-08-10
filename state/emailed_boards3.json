@@ -301715,5 +301715,18 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-10T07:35:15.547514+00:00",
     "emailed_utc": "2026-08-10T07:35:15.547514+00:00"
+  },
+  {
+    "job_id": "workday:enovis:enovis:req:R0033782",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Enovis",
+    "title": "Software Engineer II",
+    "location": "USA, Texas, Austin",
+    "posted": "Posted 7 Days Ago",
+    "url": "https://enovis.wd5.myworkdayjobs.com/en-US/enovis/job/USA-Texas-Austin/Software-Engineer-II_R0033782",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-10T08:27:52.971523+00:00",
+    "emailed_utc": "2026-08-10T08:27:52.971523+00:00"
   }
 ]
