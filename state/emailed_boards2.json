@@ -50698,5 +50698,31 @@
     "bucket": "yes",
     "first_seen_utc": "2026-08-10T23:01:32.003705+00:00",
     "emailed_utc": "2026-08-10T23:01:32.003705+00:00"
+  },
+  {
+    "job_id": "greenhouse:billcom:6135712004",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "billcom",
+    "title": "Risk Data Analyst, Staff",
+    "location": "United States",
+    "posted": "2026-08-10T19:17:04-04:00",
+    "url": "https://www.bill.com/job?6135712004&gh_jid=6135712004",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-10T23:32:38.288106+00:00",
+    "emailed_utc": "2026-08-10T23:32:38.288106+00:00"
+  },
+  {
+    "job_id": "greenhouse:astspacemobile:4722981005",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "astspacemobile",
+    "title": "RAN Systems Engineer",
+    "location": "Lanham, Maryland, United States",
+    "posted": "2026-08-10T18:43:34-04:00",
+    "url": "https://ast-science.com/company/careers/?gh_jid=4722981005",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-10T23:32:38.288106+00:00",
+    "emailed_utc": "2026-08-10T23:32:38.288106+00:00"
   }
 ]
