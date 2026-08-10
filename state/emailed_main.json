@@ -12192,5 +12192,18 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-10T15:21:26.099448+00:00",
     "emailed_utc": "2026-08-10T15:21:26.099448+00:00"
+  },
+  {
+    "job_id": "amazon:bf46ebe4-5788-4422-8add-698d99a80702",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Engineer, NPD Forwarding Stack, NetSync, NPD Forwarding Stack, NetSync",
+    "location": "US, NC, Raleigh",
+    "posted": "August 10, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10497121/software-engineer-npd-forwarding-stack-netsync-npd-forwarding-stack-netsync",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-10T16:01:47.109198+00:00",
+    "emailed_utc": "2026-08-10T16:01:47.109198+00:00"
   }
 ]
