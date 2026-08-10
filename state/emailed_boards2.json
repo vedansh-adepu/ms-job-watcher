@@ -49424,5 +49424,44 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-10T19:02:20.785024+00:00",
     "emailed_utc": "2026-08-10T19:02:20.785024+00:00"
+  },
+  {
+    "job_id": "greenhouse:waymo:8116188",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "waymo",
+    "title": "Lead Noise, Vibration, and Harshness (NVH) Engineer",
+    "location": "Mountain View, California, USA",
+    "posted": "2026-08-10T14:36:26-04:00",
+    "url": "https://careers.withwaymo.com/jobs?gh_jid=8116188",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-10T19:32:36.460111+00:00",
+    "emailed_utc": "2026-08-10T19:32:36.460111+00:00"
+  },
+  {
+    "job_id": "greenhouse:waymo:8110214",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "waymo",
+    "title": "Senior Vehicle Interior Engineer",
+    "location": "Mountain View, Ca USA;Novi, Mi, USA",
+    "posted": "2026-08-10T14:21:07-04:00",
+    "url": "https://careers.withwaymo.com/jobs?gh_jid=8110214",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-10T19:32:36.460111+00:00",
+    "emailed_utc": "2026-08-10T19:32:36.460111+00:00"
+  },
+  {
+    "job_id": "lever:alertus:384f5b1a-2600-4512-8c9d-03e512d5db75",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "alertus",
+    "title": "Lead Frontend Engineer",
+    "location": "Baltimore, MD",
+    "posted": "2026-08-10 17:34 UTC",
+    "url": "https://jobs.lever.co/alertus/384f5b1a-2600-4512-8c9d-03e512d5db75",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-10T19:32:36.460111+00:00",
+    "emailed_utc": "2026-08-10T19:32:36.460111+00:00"
   }
 ]
