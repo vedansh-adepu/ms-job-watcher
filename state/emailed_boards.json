@@ -105259,5 +105259,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-09T22:03:08.268941+00:00",
     "emailed_utc": "2026-08-09T22:03:08.268941+00:00"
+  },
+  {
+    "job_id": "workday:ngc:Northrop_Grumman_External_Site:req:R10244660",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Northrop Grumman",
+    "title": "Embedded Flight Software Engineer \u2013 Level 3 or 4 (AHT)",
+    "location": "United States-Maryland-Linthicum",
+    "posted": "Posted Today",
+    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Maryland-Linthicum/Embedded-Flight-Software-Engineer---Level-3-or-4--AHT-_R10244660",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-10T01:32:34.757305+00:00",
+    "emailed_utc": "2026-08-10T01:32:34.757305+00:00"
+  },
+  {
+    "job_id": "workday:ngc:Northrop_Grumman_External_Site:req:R10244649",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Northrop Grumman",
+    "title": "Embedded Flight Software Engineer \u2013 Level 5",
+    "location": "United States-Maryland-Linthicum",
+    "posted": "Posted Today",
+    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Maryland-Linthicum/Embedded-Flight-Software-Engineer---Level-5_R10244649",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-10T01:32:34.757305+00:00",
+    "emailed_utc": "2026-08-10T01:32:34.757305+00:00"
   }
 ]
