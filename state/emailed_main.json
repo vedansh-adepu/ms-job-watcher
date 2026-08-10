@@ -12244,5 +12244,44 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-10T16:41:32.563206+00:00",
     "emailed_utc": "2026-08-10T16:41:32.563206+00:00"
+  },
+  {
+    "job_id": "amazon:b402326e-3af4-4e2d-a9c3-87713373570a",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, AWS - Amazon EKS",
+    "location": "US, WA, Seattle",
+    "posted": "August 10, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10497270/software-development-engineer-aws-amazon-eks",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-10T17:01:36.846845+00:00",
+    "emailed_utc": "2026-08-10T17:01:36.846845+00:00"
+  },
+  {
+    "job_id": "amazon:399df452-9485-477c-9d02-85d81234038d",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, AWS - Amazon EKS",
+    "location": "US, WA, Seattle",
+    "posted": "August 10, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10497267/software-development-engineer-aws-amazon-eks",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-10T17:01:36.846845+00:00",
+    "emailed_utc": "2026-08-10T17:01:36.846845+00:00"
+  },
+  {
+    "job_id": "amazon:6548fa5d-39be-467f-bb1f-8c357c39740a",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Applied Scientist II - Personalization, Customer Intent Science",
+    "location": "US, WA, Seattle",
+    "posted": "August  8, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10496447/applied-scientist-ii-personalization-customer-intent-science",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-10T17:01:36.846845+00:00",
+    "emailed_utc": "2026-08-10T17:01:36.846845+00:00"
   }
 ]
