@@ -12400,5 +12400,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-10T19:21:33.351343+00:00",
     "emailed_utc": "2026-08-10T19:21:33.351343+00:00"
+  },
+  {
+    "job_id": "amazon:4092f737-ca76-4a9a-ab7e-026c9ae35cab",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Applied Scientist, Stores Economics & Science (SEAS)",
+    "location": "US, WA, Seattle",
+    "posted": "August 10, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10497766/applied-scientist-stores-economics-science-seas",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-10T19:41:35.243557+00:00",
+    "emailed_utc": "2026-08-10T19:41:35.243557+00:00"
+  },
+  {
+    "job_id": "amazon:0b808d68-de02-4be7-b060-f4c0c4fad4a5",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Sr. Software Dev Engineer, Healthcare AI",
+    "location": "US, WA, Seattle",
+    "posted": "August 10, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10497769/sr-software-dev-engineer-healthcare-ai",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-10T19:41:35.243557+00:00",
+    "emailed_utc": "2026-08-10T19:41:35.243557+00:00"
   }
 ]
