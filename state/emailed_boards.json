@@ -107287,5 +107287,57 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-10T18:03:59.807551+00:00",
     "emailed_utc": "2026-08-10T18:03:59.807551+00:00"
+  },
+  {
+    "job_id": "ashby:render:06377f8a-a255-412a-8032-18ace1d005a5",
+    "pipeline": "boards",
+    "platform": "ashby",
+    "company": "Render",
+    "title": "Software Engineer, Expansion (all levels)",
+    "location": "Remote: United States",
+    "posted": "",
+    "url": "https://jobs.ashbyhq.com/render/06377f8a-a255-412a-8032-18ace1d005a5",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-10T18:32:34.721901+00:00",
+    "emailed_utc": "2026-08-10T18:32:34.721901+00:00"
+  },
+  {
+    "job_id": "greenhouse:vianttechnology:4354529009",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "vianttechnology",
+    "title": "Sr. Software Engineer",
+    "location": "Irvine, California, United States; Los Angeles, California, United States",
+    "posted": "2026-08-10T13:12:27-04:00",
+    "url": "https://job-boards.greenhouse.io/vianttechnology/jobs/4354529009",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-10T18:32:34.721901+00:00",
+    "emailed_utc": "2026-08-10T18:32:34.721901+00:00"
+  },
+  {
+    "job_id": "smartrecruiters:Versant3:744000142696149",
+    "pipeline": "boards",
+    "platform": "smartrecruiters",
+    "company": "Versant",
+    "title": "Senior ML Engineer, StockStory",
+    "location": "Englewood Cliffs, NEW JERSEY, us",
+    "posted": "2026-08-10T16:41:34.613Z",
+    "url": "https://jobs.smartrecruiters.com/Versant3",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-10T18:32:34.721901+00:00",
+    "emailed_utc": "2026-08-10T18:32:34.721901+00:00"
+  },
+  {
+    "job_id": "smartrecruiters:Versant3:744000142691657",
+    "pipeline": "boards",
+    "platform": "smartrecruiters",
+    "company": "Versant",
+    "title": "Senior AI Engineer, StockStory",
+    "location": "Englewood Cliffs, NEW JERSEY, us",
+    "posted": "2026-08-10T16:16:50.710Z",
+    "url": "https://jobs.smartrecruiters.com/Versant3",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-10T18:32:34.721901+00:00",
+    "emailed_utc": "2026-08-10T18:32:34.721901+00:00"
   }
 ]
