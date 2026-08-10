@@ -12140,5 +12140,18 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-10T14:21:52.026609+00:00",
     "emailed_utc": "2026-08-10T14:21:52.026609+00:00"
+  },
+  {
+    "job_id": "amazon:9a4cc9a4-6dbd-4d8c-83d6-3d8db800db60",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, AWS Security, HawkEye",
+    "location": "US, MD, Annapolis Junction",
+    "posted": "August 10, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10496986/software-development-engineer-aws-security-hawkeye",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-10T14:31:38.595473+00:00",
+    "emailed_utc": "2026-08-10T14:31:38.595473+00:00"
   }
 ]
