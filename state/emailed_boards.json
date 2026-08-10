@@ -108275,5 +108275,57 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-10T20:33:43.527513+00:00",
     "emailed_utc": "2026-08-10T20:33:43.527513+00:00"
+  },
+  {
+    "job_id": "smartrecruiters:Versant3:744000142733109",
+    "pipeline": "boards",
+    "platform": "smartrecruiters",
+    "company": "Versant",
+    "title": "Senior Applied ML Engineer \u2013 LLMs & NLP",
+    "location": "Englewood Cliffs, NEW JERSEY, us",
+    "posted": "2026-08-10T20:43:38.625Z",
+    "url": "https://jobs.smartrecruiters.com/Versant3",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-10T21:02:34.762631+00:00",
+    "emailed_utc": "2026-08-10T21:02:34.762631+00:00"
+  },
+  {
+    "job_id": "smartrecruiters:Versant3:744000142732749",
+    "pipeline": "boards",
+    "platform": "smartrecruiters",
+    "company": "Versant",
+    "title": "Senior AI Systems Engineer \u2013 LLM & Agentic Systems",
+    "location": "Englewood Cliffs, NEW JERSEY, us",
+    "posted": "2026-08-10T20:41:34.988Z",
+    "url": "https://jobs.smartrecruiters.com/Versant3",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-10T21:02:34.762631+00:00",
+    "emailed_utc": "2026-08-10T21:02:34.762631+00:00"
+  },
+  {
+    "job_id": "smartrecruiters:Versant3:744000142727869",
+    "pipeline": "boards",
+    "platform": "smartrecruiters",
+    "company": "Versant",
+    "title": "Lead ML Engineer",
+    "location": "Englewood Cliffs, NEW JERSEY, us",
+    "posted": "2026-08-10T20:03:46.995Z",
+    "url": "https://jobs.smartrecruiters.com/Versant3",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-10T21:02:34.762631+00:00",
+    "emailed_utc": "2026-08-10T21:02:34.762631+00:00"
+  },
+  {
+    "job_id": "ashby:docker:8faa282d-9783-4957-bace-ab29abd9e470",
+    "pipeline": "boards",
+    "platform": "ashby",
+    "company": "Docker",
+    "title": "Senior Software Engineer, Docker Desktop, Desktop Systems Focus (East Coast)",
+    "location": "United States",
+    "posted": "",
+    "url": "https://jobs.ashbyhq.com/docker/8faa282d-9783-4957-bace-ab29abd9e470",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-10T21:02:34.762631+00:00",
+    "emailed_utc": "2026-08-10T21:02:34.762631+00:00"
   }
 ]
