@@ -107339,5 +107339,83 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-10T18:32:34.721901+00:00",
     "emailed_utc": "2026-08-10T18:32:34.721901+00:00"
+  },
+  {
+    "job_id": "greenhouse:lucidmotors:5199841007",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Lucidmotors",
+    "title": "Software Engineer, Data Infrastructure",
+    "location": "Southfield, MI",
+    "posted": "2026-08-10T12:09:07-04:00",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5199841007",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-10T19:02:09.650311+00:00",
+    "emailed_utc": "2026-08-10T19:02:09.650311+00:00"
+  },
+  {
+    "job_id": "greenhouse:latitude:8119676",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Latitude",
+    "title": "Senior Enterprise Systems Engineer",
+    "location": "Pittsburgh, PA, Dearborn, MI",
+    "posted": "2026-08-10T12:19:12-04:00",
+    "url": "https://job-boards.greenhouse.io/latitude/jobs/8119676",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-10T19:02:09.650311+00:00",
+    "emailed_utc": "2026-08-10T19:02:09.650311+00:00"
+  },
+  {
+    "job_id": "greenhouse:avepoint:8119298",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Avepoint",
+    "title": "Chief Data and Analytics Officer",
+    "location": "New York, NY, USA",
+    "posted": "2026-08-10T14:43:05-04:00",
+    "url": "https://www.avepoint.com/careers/job-detail?gh_jid=8119298",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-10T19:02:09.650311+00:00",
+    "emailed_utc": "2026-08-10T19:02:09.650311+00:00"
+  },
+  {
+    "job_id": "greenhouse:torcrobotics:8640183002",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Torcrobotics",
+    "title": "Senior, ML Engineer - 3D Reconstruction",
+    "location": "Ann Arbor, MI, Remote - US",
+    "posted": "2026-08-10T14:55:45-04:00",
+    "url": "https://job-boards.greenhouse.io/torcrobotics/jobs/8640183002",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-10T19:02:09.650311+00:00",
+    "emailed_utc": "2026-08-10T19:02:09.650311+00:00"
+  },
+  {
+    "job_id": "greenhouse:torcrobotics:8640185002",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Torcrobotics",
+    "title": "Senior, Software Engineer - AutoTagging",
+    "location": "Ann Arbor, MI, Remote - US",
+    "posted": "2026-08-10T14:56:54-04:00",
+    "url": "https://job-boards.greenhouse.io/torcrobotics/jobs/8640185002",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-10T19:02:09.650311+00:00",
+    "emailed_utc": "2026-08-10T19:02:09.650311+00:00"
+  },
+  {
+    "job_id": "greenhouse:torcrobotics:8634727002",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Torcrobotics",
+    "title": "Senior, Software Engineer - ML Data Delivery",
+    "location": "Ann Arbor, MI, Remote - US",
+    "posted": "2026-08-10T14:57:10-04:00",
+    "url": "https://job-boards.greenhouse.io/torcrobotics/jobs/8634727002",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-10T19:02:09.650311+00:00",
+    "emailed_utc": "2026-08-10T19:02:09.650311+00:00"
   }
 ]
