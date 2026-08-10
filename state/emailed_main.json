@@ -12660,5 +12660,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-10T23:11:42.472725+00:00",
     "emailed_utc": "2026-08-10T23:11:42.472725+00:00"
+  },
+  {
+    "job_id": "amazon:e0fc2db5-1f47-47e3-a3af-360fd0136980",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, Personalization, Amazon Personalization",
+    "location": "US, WA, Seattle",
+    "posted": "August 10, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10497095/software-development-engineer-personalization-amazon-personalization",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-10T23:21:35.224621+00:00",
+    "emailed_utc": "2026-08-10T23:21:35.224621+00:00"
+  },
+  {
+    "job_id": "microsoft:1970393556957444",
+    "pipeline": "main",
+    "platform": "microsoft",
+    "company": "Microsoft",
+    "title": "Senior EPMS Engineer - Regional Datacenter Engineering",
+    "location": "US",
+    "posted": "2026-08-10 22:55 UTC",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556957444",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-10T23:21:35.224621+00:00",
+    "emailed_utc": "2026-08-10T23:21:35.224621+00:00"
   }
 ]
