@@ -12101,5 +12101,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-08T18:41:26.058505+00:00",
     "emailed_utc": "2026-08-08T18:41:26.058505+00:00"
+  },
+  {
+    "job_id": "nvidia:893396942354",
+    "pipeline": "main",
+    "platform": "nvidia",
+    "company": "NVIDIA",
+    "title": "Senior Software Engineer, DGX Cloud Orchestration",
+    "location": "US",
+    "posted": "2026-08-09 00:00 UTC",
+    "url": "https://nvidia.eightfold.ai/careers/job/893396942354",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-10T02:11:19.694648+00:00",
+    "emailed_utc": "2026-08-10T02:11:19.694648+00:00"
+  },
+  {
+    "job_id": "nvidia:893396942356",
+    "pipeline": "main",
+    "platform": "nvidia",
+    "company": "NVIDIA",
+    "title": "Senior Software Engineer - Scientific Evaluation",
+    "location": "Santa Clara, CA, US",
+    "posted": "2026-08-09 00:00 UTC",
+    "url": "https://nvidia.eightfold.ai/careers/job/893396942356",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-10T02:11:19.694648+00:00",
+    "emailed_utc": "2026-08-10T02:11:19.694648+00:00"
   }
 ]
