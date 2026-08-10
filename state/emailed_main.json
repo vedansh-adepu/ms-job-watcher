@@ -12491,5 +12491,44 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-10T19:51:37.442199+00:00",
     "emailed_utc": "2026-08-10T19:51:37.442199+00:00"
+  },
+  {
+    "job_id": "amazon:08b33638-2b9a-4720-b9f3-a8d4a163f55f",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Applied Scientist II, Search Ranking",
+    "location": "US, CA, Palo Alto",
+    "posted": "August 10, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10497788/applied-scientist-ii-search-ranking",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-10T20:01:42.622308+00:00",
+    "emailed_utc": "2026-08-10T20:01:42.622308+00:00"
+  },
+  {
+    "job_id": "amazon:46974805-e044-4569-835f-98356228c031",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Applied Scientist, Customer360",
+    "location": "US, WA, Seattle",
+    "posted": "August 10, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10497801/applied-scientist-customer360",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-10T20:01:42.622308+00:00",
+    "emailed_utc": "2026-08-10T20:01:42.622308+00:00"
+  },
+  {
+    "job_id": "amazon:0b797553-77aa-416a-b501-82315ab9b49b",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Sr. Applied Scientist, Amazon Personalization - Customer 360",
+    "location": "US, WA, Seattle",
+    "posted": "August 10, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10497800/sr-applied-scientist-amazon-personalization-customer-360",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-10T20:01:42.622308+00:00",
+    "emailed_utc": "2026-08-10T20:01:42.622308+00:00"
   }
 ]
