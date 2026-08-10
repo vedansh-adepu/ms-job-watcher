@@ -50685,5 +50685,18 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-10T22:32:30.545911+00:00",
     "emailed_utc": "2026-08-10T22:32:30.545911+00:00"
+  },
+  {
+    "job_id": "lever:wealthfront:a4a9fd4e-d33a-4767-995f-7a2286bc9762",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "wealthfront",
+    "title": "Software Engineer, Frontend",
+    "location": "Palo Alto, CA",
+    "posted": "2026-05-12 20:36 UTC",
+    "url": "https://jobs.lever.co/wealthfront/a4a9fd4e-d33a-4767-995f-7a2286bc9762",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-10T23:01:32.003705+00:00",
+    "emailed_utc": "2026-08-10T23:01:32.003705+00:00"
   }
 ]
