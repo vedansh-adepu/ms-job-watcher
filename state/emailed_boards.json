@@ -105610,5 +105610,18 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-10T04:32:35.471771+00:00",
     "emailed_utc": "2026-08-10T04:32:35.471771+00:00"
+  },
+  {
+    "job_id": "workday:fmr:FidelityCareers:req:2133532",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Fidelity Investments",
+    "title": "Senior Front-End Developer",
+    "location": "Westlake, TX",
+    "posted": "Posted Today",
+    "url": "https://fmr.wd1.myworkdayjobs.com/en-US/FidelityCareers/job/Westlake-TX/Senior-Front-End-Developer_2133532",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-10T06:33:15.930154+00:00",
+    "emailed_utc": "2026-08-10T06:33:15.930154+00:00"
   }
 ]
