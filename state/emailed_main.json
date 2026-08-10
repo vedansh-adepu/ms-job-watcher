@@ -12608,5 +12608,18 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-10T22:21:34.186103+00:00",
     "emailed_utc": "2026-08-10T22:21:34.186103+00:00"
+  },
+  {
+    "job_id": "amazon:8834deb3-99cd-4523-833c-fadfdac67958",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, Product Knowledge",
+    "location": "US, WA, Seattle",
+    "posted": "August 10, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10497991/software-development-engineer-product-knowledge",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-10T22:31:34.812707+00:00",
+    "emailed_utc": "2026-08-10T22:31:34.812707+00:00"
   }
 ]
