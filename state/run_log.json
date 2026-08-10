@@ -42209,13 +42209,13 @@
     "cursor": null
   },
   {
-    "ts": "2026-08-10T04:50Z",
+    "ts": "2026-08-10T04:51Z",
     "mode": "main",
     "per_source": {
       "microsoft": {
-        "fetched": 181,
-        "title_ok": 85,
-        "loc_ok": 85,
+        "fetched": 182,
+        "title_ok": 86,
+        "loc_ok": 86,
         "new": 0,
         "emailed": 0
       },
@@ -42255,7 +42255,7 @@
         "emailed": 0
       }
     },
-    "duration_s": 9.7,
+    "duration_s": 9.1,
     "cursor": null
   },
   {
