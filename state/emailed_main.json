@@ -12686,5 +12686,18 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-10T23:21:35.224621+00:00",
     "emailed_utc": "2026-08-10T23:21:35.224621+00:00"
+  },
+  {
+    "job_id": "amazon:edc97523-edfb-481d-9fdf-78708308a798",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "SDE2, External Systems Integrations",
+    "location": "US, WA, Seattle",
+    "posted": "August 10, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10498036/sde2-external-systems-integrations",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-10T23:51:28.810843+00:00",
+    "emailed_utc": "2026-08-10T23:51:28.810843+00:00"
   }
 ]
