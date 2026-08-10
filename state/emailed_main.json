@@ -12335,5 +12335,57 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-10T18:51:30.625026+00:00",
     "emailed_utc": "2026-08-10T18:51:30.625026+00:00"
+  },
+  {
+    "job_id": "amazon:c0b05f52-a50e-4590-951b-bad336d57a40",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer II, AWS SageMaker",
+    "location": "US, WA, Bellevue",
+    "posted": "August 10, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10497277/software-development-engineer-ii-aws-sagemaker",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-10T19:01:18.515653+00:00",
+    "emailed_utc": "2026-08-10T19:01:18.515653+00:00"
+  },
+  {
+    "job_id": "amazon:62bb298b-0aa1-4aff-83e9-9d58e1b315c9",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Manager, AWS EBS Data Plane",
+    "location": "US, MA, Boston",
+    "posted": "August 10, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10497687/software-development-manager-aws-ebs-data-plane",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-10T19:01:18.515653+00:00",
+    "emailed_utc": "2026-08-10T19:01:18.515653+00:00"
+  },
+  {
+    "job_id": "amazon:5d288648-a764-4959-96a4-3ccb2a2cd7b8",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Sr. Software Dev Engineer, EBS",
+    "location": "US, MA, Boston",
+    "posted": "August 10, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10497690/sr-software-dev-engineer-ebs",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-10T19:01:18.515653+00:00",
+    "emailed_utc": "2026-08-10T19:01:18.515653+00:00"
+  },
+  {
+    "job_id": "amazon:0396ab19-0539-45fd-9812-904b53898dd3",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Sr Software Development Engineer, Amazon Music- Big Screens",
+    "location": "US, CA, San Francisco",
+    "posted": "August 10, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10497709/sr-software-development-engineer-amazon-music-big-screens",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-10T19:01:18.515653+00:00",
+    "emailed_utc": "2026-08-10T19:01:18.515653+00:00"
   }
 ]
