@@ -12426,5 +12426,70 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-10T19:41:35.243557+00:00",
     "emailed_utc": "2026-08-10T19:41:35.243557+00:00"
+  },
+  {
+    "job_id": "amazon:0631bdd2-55bb-4f02-956e-fff0919a73e4",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, Ads Console Frameworks",
+    "location": "US, NY, New York",
+    "posted": "August 10, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10497777/software-development-engineer-ads-console-frameworks",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-10T19:51:37.442199+00:00",
+    "emailed_utc": "2026-08-10T19:51:37.442199+00:00"
+  },
+  {
+    "job_id": "nvidia:893392771290",
+    "pipeline": "main",
+    "platform": "nvidia",
+    "company": "NVIDIA",
+    "title": "Senior Software Development Engineer in Test - Datacenter Server OS",
+    "location": "Santa Clara, CA, US",
+    "posted": "2026-08-10 00:00 UTC",
+    "url": "https://nvidia.eightfold.ai/careers/job/893392771290",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-10T19:51:37.442199+00:00",
+    "emailed_utc": "2026-08-10T19:51:37.442199+00:00"
+  },
+  {
+    "job_id": "nvidia:893392771293",
+    "pipeline": "main",
+    "platform": "nvidia",
+    "company": "NVIDIA",
+    "title": "Senior Software Development Engineer in Test - Datacenter Server OS",
+    "location": "Santa Clara, CA, US",
+    "posted": "2026-08-10 00:00 UTC",
+    "url": "https://nvidia.eightfold.ai/careers/job/893392771293",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-10T19:51:37.442199+00:00",
+    "emailed_utc": "2026-08-10T19:51:37.442199+00:00"
+  },
+  {
+    "job_id": "nvidia:893396953463",
+    "pipeline": "main",
+    "platform": "nvidia",
+    "company": "NVIDIA",
+    "title": "Senior System Software Engineer - Simulation Software",
+    "location": "Santa Clara, CA, US",
+    "posted": "2026-08-10 00:00 UTC",
+    "url": "https://nvidia.eightfold.ai/careers/job/893396953463",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-10T19:51:37.442199+00:00",
+    "emailed_utc": "2026-08-10T19:51:37.442199+00:00"
+  },
+  {
+    "job_id": "nvidia:893396953470",
+    "pipeline": "main",
+    "platform": "nvidia",
+    "company": "NVIDIA",
+    "title": "Senior Security Software Engineer",
+    "location": "Santa Clara, CA, US",
+    "posted": "2026-08-10 00:00 UTC",
+    "url": "https://nvidia.eightfold.ai/careers/job/893396953470",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-10T19:51:37.442199+00:00",
+    "emailed_utc": "2026-08-10T19:51:37.442199+00:00"
   }
 ]
