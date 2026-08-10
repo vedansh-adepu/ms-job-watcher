@@ -12582,5 +12582,31 @@
     "bucket": "yes",
     "first_seen_utc": "2026-08-10T21:41:22.528049+00:00",
     "emailed_utc": "2026-08-10T21:41:22.528049+00:00"
+  },
+  {
+    "job_id": "amazon:d9e950fc-6e60-4043-84cf-f03fb133cb14",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Dev Engineer, AWS Bill Simulation",
+    "location": "US, NY, New York",
+    "posted": "August 10, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10497969/software-dev-engineer-aws-bill-simulation",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-10T22:21:34.186103+00:00",
+    "emailed_utc": "2026-08-10T22:21:34.186103+00:00"
+  },
+  {
+    "job_id": "amazon:e05a3092-e709-4fa3-8e7c-faa4922bca5d",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Manager, S3, Amazon S3 Index",
+    "location": "US, WA, Seattle",
+    "posted": "August 10, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10497980/software-development-manager-s3-amazon-s3-index",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-10T22:21:34.186103+00:00",
+    "emailed_utc": "2026-08-10T22:21:34.186103+00:00"
   }
 ]
