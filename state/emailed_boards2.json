@@ -48202,5 +48202,70 @@
     "bucket": "yes",
     "first_seen_utc": "2026-08-10T03:01:40.663727+00:00",
     "emailed_utc": "2026-08-10T03:01:40.663727+00:00"
+  },
+  {
+    "job_id": "greenhouse:vardaspace:7846480003",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "vardaspace",
+    "title": "Ground Systems Software Engineer",
+    "location": "El Segundo, California, United States",
+    "posted": "2026-08-09T23:58:27-04:00",
+    "url": "https://job-boards.greenhouse.io/vardaspace/jobs/7846480003",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-10T05:11:34.314206+00:00",
+    "emailed_utc": "2026-08-10T05:11:34.314206+00:00"
+  },
+  {
+    "job_id": "greenhouse:vardaspace:7846478003",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "vardaspace",
+    "title": "Mission Software Engineer",
+    "location": "El Segundo, California, United States",
+    "posted": "2026-08-09T23:56:59-04:00",
+    "url": "https://job-boards.greenhouse.io/vardaspace/jobs/7846478003",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-10T05:11:34.314206+00:00",
+    "emailed_utc": "2026-08-10T05:11:34.314206+00:00"
+  },
+  {
+    "job_id": "greenhouse:vardaspace:7846484003",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "vardaspace",
+    "title": "Senior Ground Support Equipment Engineer - Python & Beckhoff",
+    "location": "El Segundo, California, United States",
+    "posted": "2026-08-10T00:07:31-04:00",
+    "url": "https://job-boards.greenhouse.io/vardaspace/jobs/7846484003",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-10T05:11:34.314206+00:00",
+    "emailed_utc": "2026-08-10T05:11:34.314206+00:00"
+  },
+  {
+    "job_id": "greenhouse:vardaspace:7846479003",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "vardaspace",
+    "title": "Senior Ground Systems Software Engineer",
+    "location": "El Segundo, California, United States",
+    "posted": "2026-08-09T23:57:51-04:00",
+    "url": "https://job-boards.greenhouse.io/vardaspace/jobs/7846479003",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-10T05:11:34.314206+00:00",
+    "emailed_utc": "2026-08-10T05:11:34.314206+00:00"
+  },
+  {
+    "job_id": "greenhouse:vardaspace:7846477003",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "vardaspace",
+    "title": "Senior Mission Software Engineer",
+    "location": "El Segundo, California, United States",
+    "posted": "2026-08-09T23:54:23-04:00",
+    "url": "https://job-boards.greenhouse.io/vardaspace/jobs/7846477003",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-10T05:11:34.314206+00:00",
+    "emailed_utc": "2026-08-10T05:11:34.314206+00:00"
   }
 ]
