@@ -49021,5 +49021,83 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-10T17:02:49.453972+00:00",
     "emailed_utc": "2026-08-10T17:02:49.453972+00:00"
+  },
+  {
+    "job_id": "lever:anavationllc:3bba9df8-4987-4ee3-b878-b13cb8828763",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "anavationllc",
+    "title": "Software Engineer",
+    "location": "Hanover, MD",
+    "posted": "2026-08-10 16:14 UTC",
+    "url": "https://jobs.lever.co/anavationllc/3bba9df8-4987-4ee3-b878-b13cb8828763",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-10T17:32:45.789495+00:00",
+    "emailed_utc": "2026-08-10T17:32:45.789495+00:00"
+  },
+  {
+    "job_id": "greenhouse:zetaglobal:6139713004",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "zetaglobal",
+    "title": "Senior Data Engineer -  Healthcare Data & Audience Applications",
+    "location": "Nashville, TN",
+    "posted": "2026-08-10T12:20:21-04:00",
+    "url": "https://job-boards.greenhouse.io/zetaglobal/jobs/6139713004",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-10T17:32:45.789495+00:00",
+    "emailed_utc": "2026-08-10T17:32:45.789495+00:00"
+  },
+  {
+    "job_id": "greenhouse:zetaglobal:6135841004",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "zetaglobal",
+    "title": "Senior Data Engineer -  Healthcare Data & Audience Applications",
+    "location": "Remote - United States",
+    "posted": "2026-08-10T12:20:20-04:00",
+    "url": "https://job-boards.greenhouse.io/zetaglobal/jobs/6135841004",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-10T17:32:45.789495+00:00",
+    "emailed_utc": "2026-08-10T17:32:45.789495+00:00"
+  },
+  {
+    "job_id": "lever:anavationllc:0660611b-e9a5-4b22-9d8a-c33a218c58ca",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "anavationllc",
+    "title": "CNO Reverse Engineer",
+    "location": "Hanover, MD",
+    "posted": "2026-08-10 16:09 UTC",
+    "url": "https://jobs.lever.co/anavationllc/0660611b-e9a5-4b22-9d8a-c33a218c58ca",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-10T17:32:45.789495+00:00",
+    "emailed_utc": "2026-08-10T17:32:45.789495+00:00"
+  },
+  {
+    "job_id": "lever:anavationllc:1fbbbedb-3f10-484c-a4e2-7a385751024e",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "anavationllc",
+    "title": "Cybersecurity Architect/Engineer",
+    "location": "San Antonio, TX",
+    "posted": "2026-08-10 16:29 UTC",
+    "url": "https://jobs.lever.co/anavationllc/1fbbbedb-3f10-484c-a4e2-7a385751024e",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-10T17:32:45.789495+00:00",
+    "emailed_utc": "2026-08-10T17:32:45.789495+00:00"
+  },
+  {
+    "job_id": "lever:anavationllc:df923ff7-71b9-49d4-b591-390b69939862",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "anavationllc",
+    "title": "Information Systems Security Engineer (ISSE)",
+    "location": "San Antonio, TX",
+    "posted": "2026-08-10 16:36 UTC",
+    "url": "https://jobs.lever.co/anavationllc/df923ff7-71b9-49d4-b591-390b69939862",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-10T17:32:45.789495+00:00",
+    "emailed_utc": "2026-08-10T17:32:45.789495+00:00"
   }
 ]
