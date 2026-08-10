@@ -49944,5 +49944,83 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-10T20:02:22.365183+00:00",
     "emailed_utc": "2026-08-10T20:02:22.365183+00:00"
+  },
+  {
+    "job_id": "greenhouse:observeai:5383979008",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "observeai",
+    "title": "Software Engineer I - AI Agents",
+    "location": "Redwood City, CA (Hybrid)",
+    "posted": "2026-08-10T15:25:01-04:00",
+    "url": "https://www.observe.ai/position?gh_jid=5383979008",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-10T20:31:57.040653+00:00",
+    "emailed_utc": "2026-08-10T20:31:57.040653+00:00"
+  },
+  {
+    "job_id": "greenhouse:place:4722896005",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "place",
+    "title": "Software Developer (Frontend)",
+    "location": "Bellingham, WA",
+    "posted": "2026-08-10T16:20:03-04:00",
+    "url": "https://place.com/corporate-careers/4722896005?gh_jid=4722896005",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-10T20:31:57.040653+00:00",
+    "emailed_utc": "2026-08-10T20:31:57.040653+00:00"
+  },
+  {
+    "job_id": "greenhouse:keeleyconstruction:4722813005",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "keeleyconstruction",
+    "title": "Safety Engineer",
+    "location": "St. Louis, Missouri, United States",
+    "posted": "2026-08-10T15:28:41-04:00",
+    "url": "https://job-boards.greenhouse.io/keeleyconstruction/jobs/4722813005",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-10T20:31:57.040653+00:00",
+    "emailed_utc": "2026-08-10T20:31:57.040653+00:00"
+  },
+  {
+    "job_id": "greenhouse:optoinvest:7850073003",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "optoinvest",
+    "title": "Infrastructure Engineer",
+    "location": "New York, New York, United States; Remote; San Francisco, California, United States",
+    "posted": "2026-08-10T15:56:06-04:00",
+    "url": "https://job-boards.greenhouse.io/optoinvest/jobs/7850073003",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-10T20:31:57.040653+00:00",
+    "emailed_utc": "2026-08-10T20:31:57.040653+00:00"
+  },
+  {
+    "job_id": "greenhouse:selffinancial:6138318004",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "selffinancial",
+    "title": "Senior Software Engineer - Business Systems",
+    "location": "Austin, TX",
+    "posted": "2026-08-10T16:13:43-04:00",
+    "url": "https://job-boards.greenhouse.io/selffinancial/jobs/6138318004",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-10T20:31:57.040653+00:00",
+    "emailed_utc": "2026-08-10T20:31:57.040653+00:00"
+  },
+  {
+    "job_id": "greenhouse:taketwo:8079989",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "taketwo",
+    "title": "Threat Intelligence Engineer",
+    "location": "Austin, Texas, United States",
+    "posted": "2026-08-10T15:42:43-04:00",
+    "url": "https://job-boards.greenhouse.io/taketwo/jobs/8079989",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-10T20:31:57.040653+00:00",
+    "emailed_utc": "2026-08-10T20:31:57.040653+00:00"
   }
 ]
