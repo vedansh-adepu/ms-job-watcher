@@ -51764,5 +51764,83 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-11T17:02:17.145493+00:00",
     "emailed_utc": "2026-08-11T17:02:17.145493+00:00"
+  },
+  {
+    "job_id": "lever:flowlife:822b0d60-29d3-4eb1-b98a-bec445b7c15e",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "flowlife",
+    "title": "Software Engineer",
+    "location": "New York, NY",
+    "posted": "2026-08-11 16:35 UTC",
+    "url": "https://jobs.lever.co/flowlife/822b0d60-29d3-4eb1-b98a-bec445b7c15e",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-11T17:32:27.971607+00:00",
+    "emailed_utc": "2026-08-11T17:32:27.971607+00:00"
+  },
+  {
+    "job_id": "greenhouse:vulcanelements:5376079008",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "vulcanelements",
+    "title": "OT Network & Security Engineer",
+    "location": "Research Triangle Park, NC",
+    "posted": "2026-08-11T12:05:46-04:00",
+    "url": "https://job-boards.greenhouse.io/vulcanelements/jobs/5376079008",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-11T17:32:27.971607+00:00",
+    "emailed_utc": "2026-08-11T17:32:27.971607+00:00"
+  },
+  {
+    "job_id": "lever:allegiantair:ab3312f9-44c8-418d-9d2f-6b7022f912bc",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "allegiantair",
+    "title": "Manager, Customer Intelligence & Analytics",
+    "location": "Las Vegas, NV",
+    "posted": "2026-03-06 20:16 UTC",
+    "url": "https://jobs.lever.co/allegiantair/ab3312f9-44c8-418d-9d2f-6b7022f912bc",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-11T17:32:27.971607+00:00",
+    "emailed_utc": "2026-08-11T17:32:27.971607+00:00"
+  },
+  {
+    "job_id": "lever:atomcomputing:22f24648-854d-4dad-b6bc-194969c7e8ac",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "atomcomputing",
+    "title": "Systems Engineer",
+    "location": "Boulder, CO",
+    "posted": "2026-08-11 16:23 UTC",
+    "url": "https://jobs.lever.co/atomcomputing/22f24648-854d-4dad-b6bc-194969c7e8ac",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-11T17:32:27.971607+00:00",
+    "emailed_utc": "2026-08-11T17:32:27.971607+00:00"
+  },
+  {
+    "job_id": "lever:disher:ff367447-ccda-43ed-9c43-ebb724ea2f60",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "disher",
+    "title": "Engineering Manager",
+    "location": "Grand Rapids, MI",
+    "posted": "2026-08-11 17:01 UTC",
+    "url": "https://jobs.lever.co/disher/ff367447-ccda-43ed-9c43-ebb724ea2f60",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-11T17:32:27.971607+00:00",
+    "emailed_utc": "2026-08-11T17:32:27.971607+00:00"
+  },
+  {
+    "job_id": "lever:disher:1e7a3776-3e93-48af-a182-d88cb0549dcd",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "disher",
+    "title": "Mechanical Design Engineer",
+    "location": "Zeeland, MI",
+    "posted": "2026-08-11 16:59 UTC",
+    "url": "https://jobs.lever.co/disher/1e7a3776-3e93-48af-a182-d88cb0549dcd",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-11T17:32:27.971607+00:00",
+    "emailed_utc": "2026-08-11T17:32:27.971607+00:00"
   }
 ]
