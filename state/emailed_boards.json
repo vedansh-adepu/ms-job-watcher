@@ -109783,5 +109783,70 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-11T02:31:25.045199+00:00",
     "emailed_utc": "2026-08-11T02:31:25.045199+00:00"
+  },
+  {
+    "job_id": "workday:bah:BAH_Jobs:req:R0246463",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Booz Allen Hamilton",
+    "title": "Data Scientist, Mid",
+    "location": "Reston, VA",
+    "posted": "Posted Today",
+    "url": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Reston-VA/Data-Scientist--Mid_R0246463",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-11T03:02:44.462663+00:00",
+    "emailed_utc": "2026-08-11T03:02:44.462663+00:00"
+  },
+  {
+    "job_id": "greenhouse:backblaze:5378831008",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "BackBlaze",
+    "title": "Lead Software Engineer",
+    "location": "Remote - US",
+    "posted": "2026-08-10T21:24:08-04:00",
+    "url": "https://job-boards.greenhouse.io/backblaze/jobs/5378831008",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-11T03:02:44.462663+00:00",
+    "emailed_utc": "2026-08-11T03:02:44.462663+00:00"
+  },
+  {
+    "job_id": "greenhouse:backblaze:5378821008",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "BackBlaze",
+    "title": "Senior Software Engineer",
+    "location": "Remote - US",
+    "posted": "2026-08-10T22:29:48-04:00",
+    "url": "https://job-boards.greenhouse.io/backblaze/jobs/5378821008",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-11T03:02:44.462663+00:00",
+    "emailed_utc": "2026-08-11T03:02:44.462663+00:00"
+  },
+  {
+    "job_id": "workday:abbott:abbottcareers:req:31158723",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Abbott",
+    "title": "Senior Database Engineer II",
+    "location": "United States - California - San Diego",
+    "posted": "Posted Today",
+    "url": "https://abbott.wd5.myworkdayjobs.com/en-US/abbottcareers/job/United-States---California---San-Diego/Senior-Database-Engineer-II_31158723-1",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-11T03:02:44.462663+00:00",
+    "emailed_utc": "2026-08-11T03:02:44.462663+00:00"
+  },
+  {
+    "job_id": "greenhouse:databricks:8693320002",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Databricks",
+    "title": "Director, Field Engineering (CPG & Retail)",
+    "location": "United States",
+    "posted": "2026-08-10T22:18:48-04:00",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8693320002",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-11T03:02:44.462663+00:00",
+    "emailed_utc": "2026-08-11T03:02:44.462663+00:00"
   }
 ]
