@@ -13245,5 +13245,57 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-11T20:21:31.131573+00:00",
     "emailed_utc": "2026-08-11T20:21:31.131573+00:00"
+  },
+  {
+    "job_id": "amazon:30e57ea5-137d-42ef-b2cd-a1e9b7cab559",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, AWS AI Agentic Automated Reasoning (AR)",
+    "location": "US, WA, Seattle",
+    "posted": "August 11, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10499065/software-development-engineer-aws-ai-agentic-automated-reasoning-ar",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-11T20:31:32.393200+00:00",
+    "emailed_utc": "2026-08-11T20:31:32.393200+00:00"
+  },
+  {
+    "job_id": "amazon:d03ea14b-2f20-4e8b-b760-9b6a625e365f",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, AWS AI Agentic Automated Reasoning (AR)",
+    "location": "US, WA, Seattle",
+    "posted": "August 11, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10499066/software-development-engineer-aws-ai-agentic-automated-reasoning-ar",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-11T20:31:32.393200+00:00",
+    "emailed_utc": "2026-08-11T20:31:32.393200+00:00"
+  },
+  {
+    "job_id": "microsoft:1970393556933657",
+    "pipeline": "main",
+    "platform": "microsoft",
+    "company": "Microsoft",
+    "title": "Senior Data Engineer",
+    "location": "Redmond, WA, US",
+    "posted": "2026-08-06 22:34 UTC",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556933657",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-11T20:31:32.393200+00:00",
+    "emailed_utc": "2026-08-11T20:31:32.393200+00:00"
+  },
+  {
+    "job_id": "amazon:66d959ce-a447-4205-890d-e520517840b5",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Sr. Software Development Engineer, AWS AI Agentic Automated Reasoning (AR)",
+    "location": "US, WA, Seattle",
+    "posted": "August 11, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10499067/sr-software-development-engineer-aws-ai-agentic-automated-reasoning-ar",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-11T20:31:32.393200+00:00",
+    "emailed_utc": "2026-08-11T20:31:32.393200+00:00"
   }
 ]
