@@ -111083,5 +111083,70 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-11T16:32:43.549480+00:00",
     "emailed_utc": "2026-08-11T16:32:43.549480+00:00"
+  },
+  {
+    "job_id": "greenhouse:rocketlab:7850732003",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "rocketlab",
+    "title": "Senior Equipment Engineer I - Facilities ",
+    "location": "Albuquerque, NM",
+    "posted": "2026-08-11T11:26:43-04:00",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7850732003",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-11T17:03:14.925171+00:00",
+    "emailed_utc": "2026-08-11T17:03:14.925171+00:00"
+  },
+  {
+    "job_id": "greenhouse:simplisafe:8112955",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "SimpliSafe",
+    "title": "Senior Software Engineer, CLV Monitoring ",
+    "location": "Boston, MA",
+    "posted": "2026-08-11T12:26:56-04:00",
+    "url": "https://job-boards.greenhouse.io/simplisafe/jobs/8112955",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-11T17:03:14.925171+00:00",
+    "emailed_utc": "2026-08-11T17:03:14.925171+00:00"
+  },
+  {
+    "job_id": "smartrecruiters:ServiceNow:744000142923140",
+    "pipeline": "boards",
+    "platform": "smartrecruiters",
+    "company": "ServiceNow",
+    "title": "Sr. Dir., AI Engineering ",
+    "location": "Santa Clara, CALIFORNIA, us",
+    "posted": "2026-08-11T16:07:31.014Z",
+    "url": "https://jobs.smartrecruiters.com/ServiceNow",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-11T17:03:14.925171+00:00",
+    "emailed_utc": "2026-08-11T17:03:14.925171+00:00"
+  },
+  {
+    "job_id": "smartrecruiters:ServiceNow:744000142919585",
+    "pipeline": "boards",
+    "platform": "smartrecruiters",
+    "company": "ServiceNow",
+    "title": "Sr Software Engineer - Access Review- Veza",
+    "location": "Kirkland, Washington, us",
+    "posted": "2026-08-11T15:59:15.805Z",
+    "url": "https://jobs.smartrecruiters.com/ServiceNow",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-11T17:03:14.925171+00:00",
+    "emailed_utc": "2026-08-11T17:03:14.925171+00:00"
+  },
+  {
+    "job_id": "greenhouse:tanium:8113497",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Tanium",
+    "title": "RVP, Solution Engineering - Central",
+    "location": "Remote, US",
+    "posted": "2026-08-11T12:02:10-04:00",
+    "url": "https://job-boards.greenhouse.io/tanium/jobs/8113497",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-11T17:03:14.925171+00:00",
+    "emailed_utc": "2026-08-11T17:03:14.925171+00:00"
   }
 ]
