@@ -51101,5 +51101,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-11T12:02:13.503175+00:00",
     "emailed_utc": "2026-08-11T12:02:13.503175+00:00"
+  },
+  {
+    "job_id": "greenhouse:usconec:4308970009",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "usconec",
+    "title": "Data Scientist - Metrology",
+    "location": "Hickory, North Carolina, United States",
+    "posted": "2026-08-11T08:21:25-04:00",
+    "url": "https://job-boards.greenhouse.io/usconec/jobs/4308970009",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-11T12:32:22.265810+00:00",
+    "emailed_utc": "2026-08-11T12:32:22.265810+00:00"
+  },
+  {
+    "job_id": "lever:careernowbrands:48e61dd7-e47e-402d-8bed-9cb370e57c1e",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "careernowbrands",
+    "title": "Data Platform Engineer",
+    "location": "Royal Oak, MI",
+    "posted": "2026-08-11 12:24 UTC",
+    "url": "https://jobs.lever.co/careernowbrands/48e61dd7-e47e-402d-8bed-9cb370e57c1e",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-11T12:32:22.265810+00:00",
+    "emailed_utc": "2026-08-11T12:32:22.265810+00:00"
   }
 ]
