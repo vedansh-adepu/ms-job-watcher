@@ -50724,5 +50724,44 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-10T23:32:38.288106+00:00",
     "emailed_utc": "2026-08-10T23:32:38.288106+00:00"
+  },
+  {
+    "job_id": "greenhouse:relativity:8693685002",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "relativity",
+    "title": "Staff Integration and Test Responsible Engineer",
+    "location": "Long Beach, California, United States",
+    "posted": "2026-08-10T19:31:05-04:00",
+    "url": "https://boards.greenhouse.io/relativity/jobs/8693685002?gh_jid=8693685002",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-11T00:02:04.544617+00:00",
+    "emailed_utc": "2026-08-11T00:02:04.544617+00:00"
+  },
+  {
+    "job_id": "greenhouse:stackav:5207120007",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "stackav",
+    "title": "Senior Software Engineer, Onboard Infrastructure",
+    "location": "Pittsburgh, PA or Remote",
+    "posted": "2026-08-10T19:53:40-04:00",
+    "url": "https://job-boards.greenhouse.io/stackav/jobs/5207120007",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-11T00:02:04.544617+00:00",
+    "emailed_utc": "2026-08-11T00:02:04.544617+00:00"
+  },
+  {
+    "job_id": "greenhouse:supernal:7850773003",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "supernal",
+    "title": "Senior Engineer, Airframe Stress Analysis",
+    "location": "Irvine, CA ",
+    "posted": "2026-08-10T19:04:14-04:00",
+    "url": "https://job-boards.greenhouse.io/supernal/jobs/7850773003",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-11T00:02:04.544617+00:00",
+    "emailed_utc": "2026-08-11T00:02:04.544617+00:00"
   }
 ]
