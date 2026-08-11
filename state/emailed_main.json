@@ -13024,5 +13024,44 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-11T17:41:27.122569+00:00",
     "emailed_utc": "2026-08-11T17:41:27.122569+00:00"
+  },
+  {
+    "job_id": "amazon:5a162624-890a-4aba-bdaf-e1edf2609fba",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Applied Scientist II, AGI ",
+    "location": "US, CA, Sunnyvale",
+    "posted": "August 11, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10498913/applied-scientist-ii-agi",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-11T18:31:09.484406+00:00",
+    "emailed_utc": "2026-08-11T18:31:09.484406+00:00"
+  },
+  {
+    "job_id": "microsoft:1970393556956342",
+    "pipeline": "main",
+    "platform": "microsoft",
+    "company": "Microsoft",
+    "title": "Construction Project Engineer",
+    "location": "Wenatchee, WA, US",
+    "posted": "2026-08-11 18:12 UTC",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556956342",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-11T18:31:09.484406+00:00",
+    "emailed_utc": "2026-08-11T18:31:09.484406+00:00"
+  },
+  {
+    "job_id": "amazon:6187cd13-6316-4eb6-94ec-301c6038c5d6",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Sr. Applied Scientist, AGI",
+    "location": "US, CA, Sunnyvale",
+    "posted": "August 11, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10498914/sr-applied-scientist-agi",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-11T18:31:09.484406+00:00",
+    "emailed_utc": "2026-08-11T18:31:09.484406+00:00"
   }
 ]
