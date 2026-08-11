@@ -110004,5 +110004,44 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-11T07:03:04.938049+00:00",
     "emailed_utc": "2026-08-11T07:03:04.938049+00:00"
+  },
+  {
+    "job_id": "workday:autodesk:Ext:url:https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/San-Francisco-CA-USA/Software-Engineer_26WD100510",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Autodesk Inc",
+    "title": "Software Engineer",
+    "location": "San Francisco, CA, USA",
+    "posted": "Posted Today",
+    "url": "https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/San-Francisco-CA-USA/Software-Engineer_26WD100510",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-11T08:03:03.015516+00:00",
+    "emailed_utc": "2026-08-11T08:03:03.015516+00:00"
+  },
+  {
+    "job_id": "workday:autodesk:Ext:url:https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/San-Francisco-CA-USA/Information-Systems-Engineer_26WD100505",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Autodesk Inc",
+    "title": "Information Systems Engineer",
+    "location": "San Francisco, CA, USA",
+    "posted": "Posted Today",
+    "url": "https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/San-Francisco-CA-USA/Information-Systems-Engineer_26WD100505",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-11T08:03:03.015516+00:00",
+    "emailed_utc": "2026-08-11T08:03:03.015516+00:00"
+  },
+  {
+    "job_id": "workday:autodesk:Ext:url:https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/San-Francisco-CA-USA/Software-Engineer--ECAD-Architect_26WD100513",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Autodesk Inc",
+    "title": "Software Engineer, ECAD Architect",
+    "location": "San Francisco, CA, USA",
+    "posted": "Posted Today",
+    "url": "https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/San-Francisco-CA-USA/Software-Engineer--ECAD-Architect_26WD100513",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-11T08:03:03.015516+00:00",
+    "emailed_utc": "2026-08-11T08:03:03.015516+00:00"
   }
 ]
