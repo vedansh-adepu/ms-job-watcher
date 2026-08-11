@@ -13453,5 +13453,44 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-11T21:31:36.319823+00:00",
     "emailed_utc": "2026-08-11T21:31:36.319823+00:00"
+  },
+  {
+    "job_id": "amazon:8ce4ddd2-cc49-467b-ab5b-88c030206d4b",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, AWS Bill Generation ",
+    "location": "US, NY, New York",
+    "posted": "August 11, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10499192/software-development-engineer-aws-bill-generation",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-11T21:41:37.494939+00:00",
+    "emailed_utc": "2026-08-11T21:41:37.494939+00:00"
+  },
+  {
+    "job_id": "amazon:9456ecfe-ea7e-4a47-ab59-aefd3b5fec63",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, AWS Bill Generation Fulfillment Tracking",
+    "location": "US, NY, New York",
+    "posted": "August 11, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10499191/software-development-engineer-aws-bill-generation-fulfillment-tracking",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-11T21:41:37.494939+00:00",
+    "emailed_utc": "2026-08-11T21:41:37.494939+00:00"
+  },
+  {
+    "job_id": "amazon:b37d1931-0186-4161-b5bc-6278ce3da6bc",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Structural Design Analysis Engineer, Structural Design Integrity",
+    "location": "US, CA, Sunnyvale",
+    "posted": "August 11, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10499185/structural-design-analysis-engineer-structural-design-integrity",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-11T21:41:37.494939+00:00",
+    "emailed_utc": "2026-08-11T21:41:37.494939+00:00"
   }
 ]
