@@ -113111,5 +113111,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-11T20:32:41.971434+00:00",
     "emailed_utc": "2026-08-11T20:32:41.971434+00:00"
+  },
+  {
+    "job_id": "greenhouse:attentive:4363395009",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Attentive",
+    "title": "Software Engineer II, Integrations",
+    "location": "United States",
+    "posted": "2026-08-11T14:21:16-04:00",
+    "url": "https://job-boards.greenhouse.io/attentive/jobs/4363395009",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-11T21:01:39.132274+00:00",
+    "emailed_utc": "2026-08-11T21:01:39.132274+00:00"
+  },
+  {
+    "job_id": "greenhouse:torcrobotics:8695202002",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Torcrobotics",
+    "title": "Machine Learning Engineer, II - 3D Perception",
+    "location": "Remote, U.S, Ann Arbor, MI, Fort Worth, TX, Blacksburg, VA",
+    "posted": "2026-08-11T14:34:22-04:00",
+    "url": "https://job-boards.greenhouse.io/torcrobotics/jobs/8695202002",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-11T21:01:39.132274+00:00",
+    "emailed_utc": "2026-08-11T21:01:39.132274+00:00"
   }
 ]
