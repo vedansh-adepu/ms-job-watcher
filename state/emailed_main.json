@@ -12946,5 +12946,44 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-11T16:41:25.623166+00:00",
     "emailed_utc": "2026-08-11T16:41:25.623166+00:00"
+  },
+  {
+    "job_id": "microsoft:1970393556924230",
+    "pipeline": "main",
+    "platform": "microsoft",
+    "company": "Microsoft",
+    "title": "Software Engineer - Microsoft Defender for Endpoint",
+    "location": "Redmond, WA, US",
+    "posted": "2026-08-11 16:49 UTC",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556924230",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-11T17:01:29.011687+00:00",
+    "emailed_utc": "2026-08-11T17:01:29.011687+00:00"
+  },
+  {
+    "job_id": "amazon:864dd757-3c56-412d-a5d4-9b59172cce43",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer , Project Leo",
+    "location": "US, WA, Redmond",
+    "posted": "August 11, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10498809/software-development-engineer-project-leo",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-11T17:01:29.011687+00:00",
+    "emailed_utc": "2026-08-11T17:01:29.011687+00:00"
+  },
+  {
+    "job_id": "amazon:6e0d98d3-2edb-4521-8407-090546f90a69",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Manager, AI Foundations",
+    "location": "US, WA, Redmond",
+    "posted": "August 11, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10498805/software-development-manager-ai-foundations",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-11T17:01:29.011687+00:00",
+    "emailed_utc": "2026-08-11T17:01:29.011687+00:00"
   }
 ]
