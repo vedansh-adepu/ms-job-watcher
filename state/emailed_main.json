@@ -12985,5 +12985,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-11T17:01:29.011687+00:00",
     "emailed_utc": "2026-08-11T17:01:29.011687+00:00"
+  },
+  {
+    "job_id": "amazon:a002a37e-7eb3-4a55-b071-4708e3810f89",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, APM Insights",
+    "location": "US, CA, Palo Alto",
+    "posted": "August 11, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10498844/software-development-engineer-apm-insights",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-11T17:31:33.359513+00:00",
+    "emailed_utc": "2026-08-11T17:31:33.359513+00:00"
+  },
+  {
+    "job_id": "amazon:0becb522-40d8-4760-9d32-e12bbe7334fc",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Sr. Manager, Software Development, Managed Streaming for Apache Kafka, MSK",
+    "location": "US, WA, Seattle",
+    "posted": "August 11, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10498851/sr-manager-software-development-managed-streaming-for-apache-kafka-msk",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-11T17:31:33.359513+00:00",
+    "emailed_utc": "2026-08-11T17:31:33.359513+00:00"
   }
 ]
