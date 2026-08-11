@@ -109848,5 +109848,44 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-11T03:02:44.462663+00:00",
     "emailed_utc": "2026-08-11T03:02:44.462663+00:00"
+  },
+  {
+    "job_id": "greenhouse:graphcore:8558960002",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "graphcore",
+    "title": "Staff System Tests & Diagnostics Engineer",
+    "location": "Austin, Texas, United States",
+    "posted": "2026-08-10T21:25:56-04:00",
+    "url": "https://job-boards.greenhouse.io/graphcore/jobs/8558960002",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-11T03:33:10.414422+00:00",
+    "emailed_utc": "2026-08-11T03:33:10.414422+00:00"
+  },
+  {
+    "job_id": "greenhouse:graphcore:8558952002",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "graphcore",
+    "title": "Technical Lead - System Tests & Diagnostics Engineer",
+    "location": "Austin, Texas, United States",
+    "posted": "2026-08-10T21:21:55-04:00",
+    "url": "https://job-boards.greenhouse.io/graphcore/jobs/8558952002",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-11T03:33:10.414422+00:00",
+    "emailed_utc": "2026-08-11T03:33:10.414422+00:00"
+  },
+  {
+    "job_id": "workday:jll:jllcareers:req:REQ525815",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "JLL",
+    "title": "Operating Engineer",
+    "location": "Reston, VA",
+    "posted": "Posted Today",
+    "url": "https://jll.wd1.myworkdayjobs.com/en-US/jllcareers/job/Reston-VA/Operating-Engineer_REQ525815",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-11T03:33:10.414422+00:00",
+    "emailed_utc": "2026-08-11T03:33:10.414422+00:00"
   }
 ]
