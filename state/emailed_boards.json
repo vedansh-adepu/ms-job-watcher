@@ -114073,5 +114073,44 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-11T23:03:36.390483+00:00",
     "emailed_utc": "2026-08-11T23:03:36.390483+00:00"
+  },
+  {
+    "job_id": "ashby:snowflake:10f51a30-17eb-4eed-80b0-bb03c9d473c6",
+    "pipeline": "boards",
+    "platform": "ashby",
+    "company": "Snowflake",
+    "title": "Senior Security Engineer, AI Incident Response",
+    "location": "US-CA-Menlo Park",
+    "posted": "",
+    "url": "https://jobs.ashbyhq.com/snowflake/10f51a30-17eb-4eed-80b0-bb03c9d473c6",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-11T23:32:39.283892+00:00",
+    "emailed_utc": "2026-08-11T23:32:39.283892+00:00"
+  },
+  {
+    "job_id": "ashby:snowflake:6cb3d18f-da62-4465-9eda-1c2cec33b3a0",
+    "pipeline": "boards",
+    "platform": "ashby",
+    "company": "Snowflake",
+    "title": "Senior Security Engineer, AI Incident Response",
+    "location": "US-USA-Remote",
+    "posted": "",
+    "url": "https://jobs.ashbyhq.com/snowflake/6cb3d18f-da62-4465-9eda-1c2cec33b3a0",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-11T23:32:39.283892+00:00",
+    "emailed_utc": "2026-08-11T23:32:39.283892+00:00"
+  },
+  {
+    "job_id": "ashby:snowflake:bab0bb6f-9eab-4dbb-a72d-dec05ac59d8c",
+    "pipeline": "boards",
+    "platform": "ashby",
+    "company": "Snowflake",
+    "title": "Staff Software Engineer, Product Security",
+    "location": "US-CA-Menlo Park",
+    "posted": "",
+    "url": "https://jobs.ashbyhq.com/snowflake/bab0bb6f-9eab-4dbb-a72d-dec05ac59d8c",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-11T23:32:39.283892+00:00",
+    "emailed_utc": "2026-08-11T23:32:39.283892+00:00"
   }
 ]
