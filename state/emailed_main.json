@@ -13297,5 +13297,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-11T20:31:32.393200+00:00",
     "emailed_utc": "2026-08-11T20:31:32.393200+00:00"
+  },
+  {
+    "job_id": "amazon:6e82b18e-7d4a-4a73-b982-2dc68d355747",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Sr. Software Development Engineer, Kiro",
+    "location": "US, WA, Seattle",
+    "posted": "August 11, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10499083/sr-software-development-engineer-kiro",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-11T20:41:34.677775+00:00",
+    "emailed_utc": "2026-08-11T20:41:34.677775+00:00"
+  },
+  {
+    "job_id": "amazon:f18fa571-3b65-4945-ac01-1894be01385f",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Sr. Software Development Engineer, AWS AI Agentic Automated Reasoning (AR)",
+    "location": "US, WA, Seattle",
+    "posted": "August 11, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10499084/sr-software-development-engineer-aws-ai-agentic-automated-reasoning-ar",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-11T20:41:34.677775+00:00",
+    "emailed_utc": "2026-08-11T20:41:34.677775+00:00"
   }
 ]
