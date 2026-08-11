@@ -51530,5 +51530,57 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-11T15:32:41.980992+00:00",
     "emailed_utc": "2026-08-11T15:32:41.980992+00:00"
+  },
+  {
+    "job_id": "greenhouse:waymo:8108995",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "waymo",
+    "title": "Senior Seating and Restraints Architecture Engineer",
+    "location": "Mountain View, CA, US",
+    "posted": "2026-08-11T11:23:02-04:00",
+    "url": "https://careers.withwaymo.com/jobs?gh_jid=8108995",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-11T16:02:45.419432+00:00",
+    "emailed_utc": "2026-08-11T16:02:45.419432+00:00"
+  },
+  {
+    "job_id": "greenhouse:zetaglobal:6141018004",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "zetaglobal",
+    "title": "Senior Engineering Manager - Loyalty Product",
+    "location": "New York, NY",
+    "posted": "2026-08-11T10:21:33-04:00",
+    "url": "https://job-boards.greenhouse.io/zetaglobal/jobs/6141018004",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-11T16:02:45.419432+00:00",
+    "emailed_utc": "2026-08-11T16:02:45.419432+00:00"
+  },
+  {
+    "job_id": "greenhouse:zetaglobal:6132234004",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "zetaglobal",
+    "title": "Senior Engineering Manager - Loyalty Product",
+    "location": "Remote - United States",
+    "posted": "2026-08-11T10:21:31-04:00",
+    "url": "https://job-boards.greenhouse.io/zetaglobal/jobs/6132234004",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-11T16:02:45.419432+00:00",
+    "emailed_utc": "2026-08-11T16:02:45.419432+00:00"
+  },
+  {
+    "job_id": "lever:orcabiosystems:865ba798-7425-488e-adad-277343065b74",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "orcabiosystems",
+    "title": "Senior Engineer, Process Validation - Cell Therapy",
+    "location": "Sacramento, CA",
+    "posted": "2026-08-11 05:03 UTC",
+    "url": "https://jobs.lever.co/orcabiosystems/865ba798-7425-488e-adad-277343065b74",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-11T16:02:45.419432+00:00",
+    "emailed_utc": "2026-08-11T16:02:45.419432+00:00"
   }
 ]
