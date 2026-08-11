@@ -13323,5 +13323,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-11T20:41:34.677775+00:00",
     "emailed_utc": "2026-08-11T20:41:34.677775+00:00"
+  },
+  {
+    "job_id": "amazon:9360a907-564b-4834-acfb-8ecee4fc5ca7",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, Amazon Customer Service",
+    "location": "US, WA, Seattle",
+    "posted": "August 11, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10499104/software-development-engineer-amazon-customer-service",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-11T20:52:31.811685+00:00",
+    "emailed_utc": "2026-08-11T20:52:31.811685+00:00"
+  },
+  {
+    "job_id": "nvidia:893396973442",
+    "pipeline": "main",
+    "platform": "nvidia",
+    "company": "NVIDIA",
+    "title": "Senior System Software Engineer Platform - OpenBMC",
+    "location": "US",
+    "posted": "2026-08-11 00:00 UTC",
+    "url": "https://nvidia.eightfold.ai/careers/job/893396973442",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-11T20:52:31.811685+00:00",
+    "emailed_utc": "2026-08-11T20:52:31.811685+00:00"
   }
 ]
