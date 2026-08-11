@@ -110069,5 +110069,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-11T11:32:29.594230+00:00",
     "emailed_utc": "2026-08-11T11:32:29.594230+00:00"
+  },
+  {
+    "job_id": "ashby:airwallex:c7187986-bca1-4b04-9d8d-2c24b4be9981",
+    "pipeline": "boards",
+    "platform": "ashby",
+    "company": "Airwallex",
+    "title": "Engineering Director, Payments Platform",
+    "location": "US - San Francisco",
+    "posted": "",
+    "url": "https://jobs.ashbyhq.com/airwallex/c7187986-bca1-4b04-9d8d-2c24b4be9981",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-11T13:01:23.703088+00:00",
+    "emailed_utc": "2026-08-11T13:01:23.703088+00:00"
+  },
+  {
+    "job_id": "greenhouse:latitude:8120242",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Latitude",
+    "title": "Senior Software Engineering Manager - Multi-Object Tracking & State Estimation",
+    "location": "Pittsburgh, PA, Palo Alto, CA, Detroit, MI",
+    "posted": "2026-08-11T07:25:08-04:00",
+    "url": "https://job-boards.greenhouse.io/latitude/jobs/8120242",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-11T13:01:23.703088+00:00",
+    "emailed_utc": "2026-08-11T13:01:23.703088+00:00"
   }
 ]
