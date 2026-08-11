@@ -52674,5 +52674,70 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-11T21:31:34.601454+00:00",
     "emailed_utc": "2026-08-11T21:31:34.601454+00:00"
+  },
+  {
+    "job_id": "greenhouse:blend:6141420004",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "blend",
+    "title": "Software Engineer - AI Native (Full Stack)",
+    "location": "Raleigh, NC",
+    "posted": "2026-08-11T16:03:08-04:00",
+    "url": "https://job-boards.greenhouse.io/blend/jobs/6141420004",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-11T22:01:43.468915+00:00",
+    "emailed_utc": "2026-08-11T22:01:43.468915+00:00"
+  },
+  {
+    "job_id": "greenhouse:britive:6140096004",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "britive",
+    "title": "Senior Customer Success Engineer",
+    "location": "Remote, US",
+    "posted": "2026-08-11T16:19:32-04:00",
+    "url": "https://job-boards.greenhouse.io/britive/jobs/6140096004",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-11T22:01:43.468915+00:00",
+    "emailed_utc": "2026-08-11T22:01:43.468915+00:00"
+  },
+  {
+    "job_id": "greenhouse:coherehealth:7855803003",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "coherehealth",
+    "title": "Lead Software Engineer - Integrations ",
+    "location": "United States",
+    "posted": "2026-08-11T16:33:15-04:00",
+    "url": "https://job-boards.greenhouse.io/coherehealth/jobs/7855803003",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-11T22:01:43.468915+00:00",
+    "emailed_utc": "2026-08-11T22:01:43.468915+00:00"
+  },
+  {
+    "job_id": "greenhouse:fanduel:8122850",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "fanduel",
+    "title": "Senior Platform Engineering Manager",
+    "location": "Atlanta, Georgia, United States",
+    "posted": "2026-08-11T17:10:33-04:00",
+    "url": "https://www.fanduel.careers/open-positions?gh_jid=8122850",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-11T22:01:43.468915+00:00",
+    "emailed_utc": "2026-08-11T22:01:43.468915+00:00"
+  },
+  {
+    "job_id": "greenhouse:formativgroup:4329725009",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "formativgroup",
+    "title": "Staff Software Engineer - Data Integration",
+    "location": "Remote/United States- Full-Time",
+    "posted": "2026-08-11T17:50:49-04:00",
+    "url": "https://job-boards.greenhouse.io/formativgroup/jobs/4329725009",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-11T22:01:43.468915+00:00",
+    "emailed_utc": "2026-08-11T22:01:43.468915+00:00"
   }
 ]
