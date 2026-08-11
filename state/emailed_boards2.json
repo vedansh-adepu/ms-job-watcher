@@ -50880,5 +50880,57 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-11T01:32:02.971899+00:00",
     "emailed_utc": "2026-08-11T01:32:02.971899+00:00"
+  },
+  {
+    "job_id": "greenhouse:nintendo:4094452009",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "nintendo",
+    "title": "Software Engineer I, Game Development (NST)",
+    "location": "Redmond, WA",
+    "posted": "2026-08-10T20:09:53-04:00",
+    "url": "https://careers.nintendo.com/?gh_jid=4094452009",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-11T02:02:39.390635+00:00",
+    "emailed_utc": "2026-08-11T02:02:39.390635+00:00"
+  },
+  {
+    "job_id": "greenhouse:stackav:5208820007",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "stackav",
+    "title": "Software Engineer, Onboard Infrastructure",
+    "location": "Pittsburgh, PA or Remote",
+    "posted": "2026-08-10T21:14:53-04:00",
+    "url": "https://job-boards.greenhouse.io/stackav/jobs/5208820007",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-11T02:02:39.390635+00:00",
+    "emailed_utc": "2026-08-11T02:02:39.390635+00:00"
+  },
+  {
+    "job_id": "greenhouse:k2spacecorporation:5385617008",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "k2spacecorporation",
+    "title": "Senior FPGA Engineer (TS/SCI)",
+    "location": "Los Angeles, CA",
+    "posted": "2026-08-10T21:15:42-04:00",
+    "url": "https://job-boards.greenhouse.io/k2spacecorporation/jobs/5385617008",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-11T02:02:39.390635+00:00",
+    "emailed_utc": "2026-08-11T02:02:39.390635+00:00"
+  },
+  {
+    "job_id": "greenhouse:terranorbitalcorporation:4362652009",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "terranorbitalcorporation",
+    "title": "Systems Integration Engineer (I/II) (Weekday Shift)",
+    "location": "Irvine, CA ",
+    "posted": "2026-08-10T21:01:47-04:00",
+    "url": "https://job-boards.greenhouse.io/terranorbitalcorporation/jobs/4362652009",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-11T02:02:39.390635+00:00",
+    "emailed_utc": "2026-08-11T02:02:39.390635+00:00"
   }
 ]
