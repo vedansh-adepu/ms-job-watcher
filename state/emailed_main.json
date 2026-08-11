@@ -13349,5 +13349,70 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-11T20:52:31.811685+00:00",
     "emailed_utc": "2026-08-11T20:52:31.811685+00:00"
+  },
+  {
+    "job_id": "amazon:00eaf339-c8bf-4806-9e5e-7762244b0b39",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, Advengers - Amazon Ads Brand & Video",
+    "location": "US, NY, New York",
+    "posted": "August 11, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10499117/software-development-engineer-advengers-amazon-ads-brand-video",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-11T21:11:31.847096+00:00",
+    "emailed_utc": "2026-08-11T21:11:31.847096+00:00"
+  },
+  {
+    "job_id": "amazon:87644f3b-0ec7-401a-babe-55820645c5b0",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, Advengers - Amazon Ads Brand & Video",
+    "location": "US, NY, New York",
+    "posted": "August 11, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10499118/software-development-engineer-advengers-amazon-ads-brand-video",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-11T21:11:31.847096+00:00",
+    "emailed_utc": "2026-08-11T21:11:31.847096+00:00"
+  },
+  {
+    "job_id": "microsoft:1970393556952670",
+    "pipeline": "main",
+    "platform": "microsoft",
+    "company": "Microsoft",
+    "title": "Critical Environment Mechanical Engineer",
+    "location": "Atlanta, GA, US",
+    "posted": "2026-08-11 20:39 UTC",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556952670",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-11T21:11:31.847096+00:00",
+    "emailed_utc": "2026-08-11T21:11:31.847096+00:00"
+  },
+  {
+    "job_id": "amazon:68dc8ba4-b8ab-4f9c-a537-7faf3a92c4f9",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Manager, AWS Identity, Access Analyzer",
+    "location": "US, CA, Santa Clara",
+    "posted": "August 11, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10499120/software-development-manager-aws-identity-access-analyzer",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-11T21:11:31.847096+00:00",
+    "emailed_utc": "2026-08-11T21:11:31.847096+00:00"
+  },
+  {
+    "job_id": "amazon:f017fc29-c982-4b84-b781-7e7ab7531ea4",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Sr. Software Development Engineer, Advengers - Amazon Ads Brand & Video",
+    "location": "US, NY, New York",
+    "posted": "August 11, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10499116/sr-software-development-engineer-advengers-amazon-ads-brand-video",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-11T21:11:31.847096+00:00",
+    "emailed_utc": "2026-08-11T21:11:31.847096+00:00"
   }
 ]
