@@ -1,55 +1,5 @@
 [
   {
-    "ts": "2026-08-04T12:21Z",
-    "mode": "main",
-    "per_source": {
-      "microsoft": {
-        "fetched": 175,
-        "title_ok": 85,
-        "loc_ok": 85,
-        "new": 0,
-        "emailed": 0
-      },
-      "amazon": {
-        "fetched": 100,
-        "title_ok": 100,
-        "loc_ok": 100,
-        "new": 0,
-        "emailed": 0
-      },
-      "nvidia": {
-        "fetched": 20,
-        "title_ok": 17,
-        "loc_ok": 17,
-        "new": 0,
-        "emailed": 0
-      },
-      "goldman_sachs": {
-        "fetched": 0,
-        "title_ok": 0,
-        "loc_ok": 0,
-        "new": 0,
-        "emailed": 0
-      },
-      "ibm": {
-        "fetched": 2,
-        "title_ok": 2,
-        "loc_ok": 0,
-        "new": 0,
-        "emailed": 0
-      },
-      "oracle": {
-        "fetched": 0,
-        "title_ok": 0,
-        "loc_ok": 0,
-        "new": 0,
-        "emailed": 0
-      }
-    },
-    "duration_s": 9.9,
-    "cursor": null
-  },
-  {
     "ts": "2026-08-04T12:32Z",
     "mode": "boards",
     "per_source": {
@@ -41939,5 +41889,41 @@
     },
     "duration_s": 11.2,
     "cursor": null
+  },
+  {
+    "ts": "2026-08-11T01:32Z",
+    "mode": "boards",
+    "per_source": {
+      "greenhouse": {
+        "fetched": 5137,
+        "title_ok": 1600,
+        "loc_ok": 744,
+        "new": 0,
+        "emailed": 0
+      },
+      "lever": {
+        "fetched": 1011,
+        "title_ok": 227,
+        "loc_ok": 107,
+        "new": 0,
+        "emailed": 0
+      },
+      "smartrecruiters": {
+        "fetched": 754,
+        "title_ok": 170,
+        "loc_ok": 29,
+        "new": 0,
+        "emailed": 0
+      },
+      "workday": {
+        "fetched": 7000,
+        "title_ok": 1917,
+        "loc_ok": 609,
+        "new": 17,
+        "emailed": 17
+      }
+    },
+    "duration_s": 73.9,
+    "cursor": 600
   }
 ]
