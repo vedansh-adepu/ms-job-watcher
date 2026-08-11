@@ -51127,5 +51127,44 @@
     "bucket": "yes",
     "first_seen_utc": "2026-08-11T12:32:22.265810+00:00",
     "emailed_utc": "2026-08-11T12:32:22.265810+00:00"
+  },
+  {
+    "job_id": "greenhouse:dlrgroup:5385828008",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "dlrgroup",
+    "title": "Senior Electrical Engineer",
+    "location": "Des Moines, Iowa, United States",
+    "posted": "2026-08-11T08:48:09-04:00",
+    "url": "https://job-boards.greenhouse.io/dlrgroup/jobs/5385828008",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-11T13:32:07.612100+00:00",
+    "emailed_utc": "2026-08-11T13:32:07.612100+00:00"
+  },
+  {
+    "job_id": "greenhouse:branch:7853999003",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "branch",
+    "title": "Enterprise Engineer",
+    "location": "Remote, US",
+    "posted": "2026-08-11T09:09:12-04:00",
+    "url": "https://job-boards.greenhouse.io/branch/jobs/7853999003",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-11T13:32:07.612100+00:00",
+    "emailed_utc": "2026-08-11T13:32:07.612100+00:00"
+  },
+  {
+    "job_id": "greenhouse:branch:7854037003",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "branch",
+    "title": "Senior Enterprise Engineer",
+    "location": "Remote, US",
+    "posted": "2026-08-11T09:13:31-04:00",
+    "url": "https://job-boards.greenhouse.io/branch/jobs/7854037003",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-11T13:32:07.612100+00:00",
+    "emailed_utc": "2026-08-11T13:32:07.612100+00:00"
   }
 ]
