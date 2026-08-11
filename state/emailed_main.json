@@ -12855,5 +12855,18 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-11T15:11:29.233644+00:00",
     "emailed_utc": "2026-08-11T15:11:29.233644+00:00"
+  },
+  {
+    "job_id": "amazon:bd4d84c4-4f86-44ca-aeac-0cd836686fe9",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Data Engineer I, Amazon Publisher Monetization, Analytics",
+    "location": "US, WA, Seattle",
+    "posted": "August 11, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10498577/data-engineer-i-amazon-publisher-monetization-analytics",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-11T15:51:44.910069+00:00",
+    "emailed_utc": "2026-08-11T15:51:44.910069+00:00"
   }
 ]
