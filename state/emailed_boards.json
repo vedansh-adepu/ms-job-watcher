@@ -109744,5 +109744,31 @@
     "bucket": "yes",
     "first_seen_utc": "2026-08-11T02:03:10.124283+00:00",
     "emailed_utc": "2026-08-11T02:03:10.124283+00:00"
+  },
+  {
+    "job_id": "greenhouse:voyagertechnologiesinc:4355026009",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "voyagertechnologiesinc",
+    "title": "Software Engineer",
+    "location": "San Diego, CA",
+    "posted": "2026-08-10T19:59:14-04:00",
+    "url": "https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4355026009",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-11T02:26:33.795515+00:00",
+    "emailed_utc": "2026-08-11T02:26:33.795515+00:00"
+  },
+  {
+    "job_id": "greenhouse:zuora:8059695",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Zuora",
+    "title": "Customer Solution Engineer",
+    "location": "Remote - United States",
+    "posted": "2026-08-10T20:13:40-04:00",
+    "url": "https://boards.greenhouse.io/zuora/jobs/8059695?gh_jid=8059695",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-11T02:26:33.795515+00:00",
+    "emailed_utc": "2026-08-11T02:26:33.795515+00:00"
   }
 ]
