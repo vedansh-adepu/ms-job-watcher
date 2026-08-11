@@ -110095,5 +110095,18 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-11T13:01:23.703088+00:00",
     "emailed_utc": "2026-08-11T13:01:23.703088+00:00"
+  },
+  {
+    "job_id": "workday:caci:External:req:330261",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "CACI International",
+    "title": "Full Stack Developer",
+    "location": "Chantilly, VA, US",
+    "posted": "Posted Today",
+    "url": "https://caci.wd1.myworkdayjobs.com/en-US/External/job/Chantilly-VA-US/Full-Stack-Developer_330261",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-11T13:33:08.821597+00:00",
+    "emailed_utc": "2026-08-11T13:33:08.821597+00:00"
   }
 ]
