@@ -50854,5 +50854,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-11T00:32:44.737495+00:00",
     "emailed_utc": "2026-08-11T00:32:44.737495+00:00"
+  },
+  {
+    "job_id": "greenhouse:carvana:8120638",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "carvana",
+    "title": "Software Engineer",
+    "location": "Carmel, IN",
+    "posted": "2026-08-10T20:00:54-04:00",
+    "url": "https://www.carvana.com/careers/apply?gh_jid=8120638",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-11T01:32:02.971899+00:00",
+    "emailed_utc": "2026-08-11T01:32:02.971899+00:00"
+  },
+  {
+    "job_id": "greenhouse:eositsolutions:8691165002",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "eositsolutions",
+    "title": "Network Cloud Security Engineer",
+    "location": "United States of America ",
+    "posted": "2026-08-10T20:18:09-04:00",
+    "url": "https://eosits.com/company/careers/?gh_jid=8691165002",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-11T01:32:02.971899+00:00",
+    "emailed_utc": "2026-08-11T01:32:02.971899+00:00"
   }
 ]
