@@ -109952,5 +109952,18 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-11T04:33:00.929618+00:00",
     "emailed_utc": "2026-08-11T04:33:00.929618+00:00"
+  },
+  {
+    "job_id": "workday:autodesk:Ext:url:https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Atlanta-GA-USA/Technical-Course-Developer_26WD100511",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Autodesk Inc",
+    "title": "Technical Course Developer",
+    "location": "Atlanta, GA, USA",
+    "posted": "Posted Today",
+    "url": "https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Atlanta-GA-USA/Technical-Course-Developer_26WD100511",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-11T05:32:42.831409+00:00",
+    "emailed_utc": "2026-08-11T05:32:42.831409+00:00"
   }
 ]
