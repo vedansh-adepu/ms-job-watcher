@@ -13154,5 +13154,57 @@
     "bucket": "yes",
     "first_seen_utc": "2026-08-11T19:31:36.606662+00:00",
     "emailed_utc": "2026-08-11T19:31:36.606662+00:00"
+  },
+  {
+    "job_id": "amazon:5a78aa28-48ce-4f5b-84f8-de10decfadc0",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Dev Engineer, Shield",
+    "location": "US, WA, Seattle",
+    "posted": "August 11, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10499025/software-dev-engineer-shield",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-11T19:41:33.783709+00:00",
+    "emailed_utc": "2026-08-11T19:41:33.783709+00:00"
+  },
+  {
+    "job_id": "amazon:675c4e21-03bb-4544-a7fe-077f5cc0c714",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Sr Software Development Engineer, Shield (Anti-DDoS)",
+    "location": "US, WA, Seattle",
+    "posted": "August 11, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10499020/sr-software-development-engineer-shield-anti-ddos",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-11T19:41:33.783709+00:00",
+    "emailed_utc": "2026-08-11T19:41:33.783709+00:00"
+  },
+  {
+    "job_id": "amazon:9df530c5-e976-4d3d-b9f4-2cabd9c4d7a8",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Dev Engineer, Shield",
+    "location": "US, WA, Seattle",
+    "posted": "August 11, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10499019/software-dev-engineer-shield",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-11T19:41:33.783709+00:00",
+    "emailed_utc": "2026-08-11T19:41:33.783709+00:00"
+  },
+  {
+    "job_id": "amazon:3063370f-9573-424e-96c7-e85d7e51433e",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Dev Engineer, Shield",
+    "location": "US, WA, Seattle",
+    "posted": "August 11, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10499023/software-dev-engineer-shield",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-11T19:41:33.783709+00:00",
+    "emailed_utc": "2026-08-11T19:41:33.783709+00:00"
   }
 ]
