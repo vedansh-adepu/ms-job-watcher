@@ -52960,5 +52960,70 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-11T22:32:35.179341+00:00",
     "emailed_utc": "2026-08-11T22:32:35.179341+00:00"
+  },
+  {
+    "job_id": "greenhouse:growthloop:4723408005",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "growthloop",
+    "title": "Analytics Engineer",
+    "location": "Remote, United States ",
+    "posted": "2026-08-11T19:00:55-04:00",
+    "url": "https://job-boards.greenhouse.io/growthloop/jobs/4723408005",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-11T23:31:38.440595+00:00",
+    "emailed_utc": "2026-08-11T23:31:38.440595+00:00"
+  },
+  {
+    "job_id": "greenhouse:akunacapital:8096516",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "akunacapital",
+    "title": "Software Engineer - Python, Business Operations",
+    "location": "Chicago, IL",
+    "posted": "2026-08-11T18:16:36-04:00",
+    "url": "https://www.akunacapital.com/careers/job/8096516/?gh_jid=8096516",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-11T23:31:38.440595+00:00",
+    "emailed_utc": "2026-08-11T23:31:38.440595+00:00"
+  },
+  {
+    "job_id": "greenhouse:asm:4768167101",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "asm",
+    "title": "Senior Engineer I, Field Service ",
+    "location": "(US -> Education fields required)",
+    "posted": "2026-08-11T18:21:44-04:00",
+    "url": "https://www.asm.com/open-vacancies/?gh_jid=4768167101",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-11T23:31:38.440595+00:00",
+    "emailed_utc": "2026-08-11T23:31:38.440595+00:00"
+  },
+  {
+    "job_id": "greenhouse:astspacemobile:4723400005",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "astspacemobile",
+    "title": "Principal Infrastructure and Deployment Engineer",
+    "location": "Dallas, Texas, United States",
+    "posted": "2026-08-11T18:52:56-04:00",
+    "url": "https://ast-science.com/company/careers/?gh_jid=4723400005",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-11T23:31:38.440595+00:00",
+    "emailed_utc": "2026-08-11T23:31:38.440595+00:00"
+  },
+  {
+    "job_id": "greenhouse:bridgebio:5209772007",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "bridgebio",
+    "title": "Sr. Director, Population Health Strategy and Analytics",
+    "location": "Remote - USA",
+    "posted": "2026-08-11T18:31:38-04:00",
+    "url": "https://job-boards.greenhouse.io/bridgebio/jobs/5209772007",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-11T23:31:38.440595+00:00",
+    "emailed_utc": "2026-08-11T23:31:38.440595+00:00"
   }
 ]
