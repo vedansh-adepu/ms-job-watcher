@@ -51270,5 +51270,57 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-11T14:03:04.551140+00:00",
     "emailed_utc": "2026-08-11T14:03:04.551140+00:00"
+  },
+  {
+    "job_id": "greenhouse:zetaglobal:6140943004",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "zetaglobal",
+    "title": "Senior Engineering Manager - Platform Engineering",
+    "location": "Remote - United States",
+    "posted": "2026-08-11T09:24:24-04:00",
+    "url": "https://job-boards.greenhouse.io/zetaglobal/jobs/6140943004",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-11T14:08:40.220825+00:00",
+    "emailed_utc": "2026-08-11T14:08:40.220825+00:00"
+  },
+  {
+    "job_id": "greenhouse:zetaglobal:6135156004",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "zetaglobal",
+    "title": "Senior Engineering Manager - Platform Engineering",
+    "location": "New York, NY",
+    "posted": "2026-08-11T09:24:22-04:00",
+    "url": "https://job-boards.greenhouse.io/zetaglobal/jobs/6135156004",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-11T14:08:40.220825+00:00",
+    "emailed_utc": "2026-08-11T14:08:40.220825+00:00"
+  },
+  {
+    "job_id": "lever:disher:35997a44-5377-450f-9faf-612465efc532",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "disher",
+    "title": "Mechanical Design Engineer",
+    "location": "Zeeland, MI",
+    "posted": "2026-08-11 12:54 UTC",
+    "url": "https://jobs.lever.co/disher/35997a44-5377-450f-9faf-612465efc532",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-11T14:08:40.220825+00:00",
+    "emailed_utc": "2026-08-11T14:08:40.220825+00:00"
+  },
+  {
+    "job_id": "lever:kickmaker:a5d8e612-a389-4f3e-8a3d-82eb75b3403c",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "kickmaker",
+    "title": "Electronics Engineer",
+    "location": "San Francisco, CA",
+    "posted": "2026-08-11 12:41 UTC",
+    "url": "https://jobs.lever.co/kickmaker/a5d8e612-a389-4f3e-8a3d-82eb75b3403c",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-11T14:08:40.220825+00:00",
+    "emailed_utc": "2026-08-11T14:08:40.220825+00:00"
   }
 ]
