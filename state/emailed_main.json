@@ -12881,5 +12881,57 @@
     "bucket": "yes",
     "first_seen_utc": "2026-08-11T16:01:32.168232+00:00",
     "emailed_utc": "2026-08-11T16:01:32.168232+00:00"
+  },
+  {
+    "job_id": "amazon:830c349b-c47b-4a2e-809c-5c72a9604050",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, AWS Identity",
+    "location": "US, WA, Seattle",
+    "posted": "August 11, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10498625/software-development-engineer-aws-identity",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-11T16:21:15.802981+00:00",
+    "emailed_utc": "2026-08-11T16:21:15.802981+00:00"
+  },
+  {
+    "job_id": "amazon:8e7f982a-ea0a-40ad-8148-dfaf0ef1a989",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Machine Learning Engineer, AppStar Data Analytics & Engineering",
+    "location": "US, NY, New York",
+    "posted": "August 10, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10498023/machine-learning-engineer-appstar-data-analytics-engineering",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-11T16:21:15.802981+00:00",
+    "emailed_utc": "2026-08-11T16:21:15.802981+00:00"
+  },
+  {
+    "job_id": "amazon:67e49b5e-2894-4fca-a866-7ce3420a326e",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Manager III, Healthcare Security",
+    "location": "US, WA, Seattle",
+    "posted": "August 11, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10498503/software-development-manager-iii-healthcare-security",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-11T16:21:15.802981+00:00",
+    "emailed_utc": "2026-08-11T16:21:15.802981+00:00"
+  },
+  {
+    "job_id": "amazon:065c3501-aa28-4d0b-8259-7ea94896f4e3",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Sr. Applied Scientist, AppStar Data Analytics & Engineering",
+    "location": "US, NY, New York",
+    "posted": "August 10, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10498024/sr-applied-scientist-appstar-data-analytics-engineering",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-11T16:21:15.802981+00:00",
+    "emailed_utc": "2026-08-11T16:21:15.802981+00:00"
   }
 ]
