@@ -54377,5 +54377,44 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-12T20:32:04.829522+00:00",
     "emailed_utc": "2026-08-12T20:32:04.829522+00:00"
+  },
+  {
+    "job_id": "lever:bazaarvoice:cb084257-9d69-4301-a6f4-101db9713123",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "bazaarvoice",
+    "title": "Software Engineer",
+    "location": "Remote, United States",
+    "posted": "2026-08-05 14:32 UTC",
+    "url": "https://jobs.lever.co/bazaarvoice/cb084257-9d69-4301-a6f4-101db9713123",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-12T21:03:04.334142+00:00",
+    "emailed_utc": "2026-08-12T21:03:04.334142+00:00"
+  },
+  {
+    "job_id": "lever:brainchildbio:28cd3a4a-f957-4fc3-9395-4e942d92f357",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "brainchildbio",
+    "title": "Process Engineer",
+    "location": "Seattle, WA",
+    "posted": "2026-08-12 20:40 UTC",
+    "url": "https://jobs.lever.co/brainchildbio/28cd3a4a-f957-4fc3-9395-4e942d92f357",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-12T21:03:04.334142+00:00",
+    "emailed_utc": "2026-08-12T21:03:04.334142+00:00"
+  },
+  {
+    "job_id": "lever:redhorsecorp:c5e5d50b-e992-4640-b49f-40475eb136d6",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "redhorsecorp",
+    "title": "Senior Data Architect",
+    "location": "Huntsville, AL",
+    "posted": "2026-08-12 19:44 UTC",
+    "url": "https://jobs.lever.co/redhorsecorp/c5e5d50b-e992-4640-b49f-40475eb136d6",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-12T21:03:04.334142+00:00",
+    "emailed_utc": "2026-08-12T21:03:04.334142+00:00"
   }
 ]
