@@ -13674,5 +13674,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-12T17:21:38.033538+00:00",
     "emailed_utc": "2026-08-12T17:21:38.033538+00:00"
+  },
+  {
+    "job_id": "microsoft:1970393556956375",
+    "pipeline": "main",
+    "platform": "microsoft",
+    "company": "Microsoft",
+    "title": "Software Engineer 2 - Azure Functions",
+    "location": "Redmond, WA, US",
+    "posted": "2026-08-12 17:27 UTC",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556956375",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-12T17:31:43.947478+00:00",
+    "emailed_utc": "2026-08-12T17:31:43.947478+00:00"
+  },
+  {
+    "job_id": "amazon:6788fc7f-d30e-41a7-822c-2df6304b9acf",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Dev Engineer II, Offers Platform, Catalog Systems, ASCS",
+    "location": "US, WA, Seattle",
+    "posted": "August 12, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10499987/software-dev-engineer-ii-offers-platform-catalog-systems-ascs",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-12T17:31:43.947478+00:00",
+    "emailed_utc": "2026-08-12T17:31:43.947478+00:00"
   }
 ]
