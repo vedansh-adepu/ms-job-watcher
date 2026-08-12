@@ -13622,5 +13622,18 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-12T15:31:41.478968+00:00",
     "emailed_utc": "2026-08-12T15:31:41.478968+00:00"
+  },
+  {
+    "job_id": "amazon:0723018d-bc78-439e-9ff9-bfefaa8dba78",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, Elastic Block Store (EBS), AWS (L5), EBS Stats",
+    "location": "US, WA, Seattle",
+    "posted": "August 12, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10499845/software-development-engineer-elastic-block-store-ebs-aws-l5-ebs-stats",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-12T15:52:10.563276+00:00",
+    "emailed_utc": "2026-08-12T15:52:10.563276+00:00"
   }
 ]
