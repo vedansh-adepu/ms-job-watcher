@@ -13765,5 +13765,18 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-12T19:31:44.340663+00:00",
     "emailed_utc": "2026-08-12T19:31:44.340663+00:00"
+  },
+  {
+    "job_id": "amazon:6e8a4bf7-b975-44f8-b704-bbe9e7782a38",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, Amazon Route 53, Route 53 Resolver Firewall & Profiles",
+    "location": "US, VA, Arlington",
+    "posted": "August 12, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10500157/software-development-engineer-amazon-route-53-route-53-resolver-firewall-profiles",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-12T19:41:36.170799+00:00",
+    "emailed_utc": "2026-08-12T19:41:36.170799+00:00"
   }
 ]
