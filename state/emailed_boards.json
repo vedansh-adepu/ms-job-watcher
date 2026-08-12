@@ -117115,5 +117115,44 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-12T18:02:45.744185+00:00",
     "emailed_utc": "2026-08-12T18:02:45.744185+00:00"
+  },
+  {
+    "job_id": "greenhouse:planetlabs:8096079",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Planetlabs",
+    "title": "Software Engineer",
+    "location": "San Francisco, CA",
+    "posted": "2026-08-12T13:39:18-04:00",
+    "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8096079",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-12T18:31:43.420554+00:00",
+    "emailed_utc": "2026-08-12T18:31:43.420554+00:00"
+  },
+  {
+    "job_id": "greenhouse:torcrobotics:8654323002",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Torcrobotics",
+    "title": "Software Engineer II - Build Tools ",
+    "location": "Remote (US); Ann Arbor, MI",
+    "posted": "2026-08-12T14:28:21-04:00",
+    "url": "https://job-boards.greenhouse.io/torcrobotics/jobs/8654323002",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-12T18:31:43.420554+00:00",
+    "emailed_utc": "2026-08-12T18:31:43.420554+00:00"
+  },
+  {
+    "job_id": "greenhouse:armada:5386576008",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Armada",
+    "title": "Electrical Design Engineer",
+    "location": "United States (Remote)",
+    "posted": "2026-08-12T12:04:08-04:00",
+    "url": "https://job-boards.greenhouse.io/armada/jobs/5386576008",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-12T18:31:43.420554+00:00",
+    "emailed_utc": "2026-08-12T18:31:43.420554+00:00"
   }
 ]
