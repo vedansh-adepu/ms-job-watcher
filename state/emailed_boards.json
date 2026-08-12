@@ -114567,5 +114567,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-12T01:32:25.206348+00:00",
     "emailed_utc": "2026-08-12T01:32:25.206348+00:00"
+  },
+  {
+    "job_id": "greenhouse:rocketlab:7856496003",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "rocketlab",
+    "title": "Senior Flight Dynamics Engineer II",
+    "location": "Littleton, CO",
+    "posted": "2026-08-11T19:27:21-04:00",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7856496003",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-12T02:03:09.168725+00:00",
+    "emailed_utc": "2026-08-12T02:03:09.168725+00:00"
+  },
+  {
+    "job_id": "greenhouse:spacex:8698258002",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "SpaceX",
+    "title": "IT Storage Engineer",
+    "location": "Redmond, WA",
+    "posted": "2026-08-11T19:03:05-04:00",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8698258002?gh_jid=8698258002",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-12T02:03:09.168725+00:00",
+    "emailed_utc": "2026-08-12T02:03:09.168725+00:00"
   }
 ]
