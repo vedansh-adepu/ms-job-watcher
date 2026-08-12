@@ -54650,5 +54650,57 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-12T22:24:54.776131+00:00",
     "emailed_utc": "2026-08-12T22:24:54.776131+00:00"
+  },
+  {
+    "job_id": "greenhouse:zscaler:5210035007",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "zscaler",
+    "title": "Sr. Staff Production Engineer",
+    "location": "Bellevue, Washington, USA; San Jose, California, USA",
+    "posted": "2026-08-12T17:55:17-04:00",
+    "url": "https://job-boards.greenhouse.io/zscaler/jobs/5210035007",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-12T22:32:41.741431+00:00",
+    "emailed_utc": "2026-08-12T22:32:41.741431+00:00"
+  },
+  {
+    "job_id": "lever:gridware:2e8e63d4-bf3d-44a1-b4cc-a50c65459409",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "gridware",
+    "title": "Senior Director, Full Stack Product",
+    "location": "San Francisco, CA",
+    "posted": "2026-08-12 22:11 UTC",
+    "url": "https://jobs.lever.co/gridware/2e8e63d4-bf3d-44a1-b4cc-a50c65459409",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-12T22:32:41.741431+00:00",
+    "emailed_utc": "2026-08-12T22:32:41.741431+00:00"
+  },
+  {
+    "job_id": "lever:lumafield:7af170cc-41f3-4af5-b420-e3d8f2ada675",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "lumafield",
+    "title": "Field Service Engineer",
+    "location": "San Francisco, CA",
+    "posted": "2026-08-12 21:26 UTC",
+    "url": "https://jobs.lever.co/lumafield/7af170cc-41f3-4af5-b420-e3d8f2ada675",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-12T22:32:41.741431+00:00",
+    "emailed_utc": "2026-08-12T22:32:41.741431+00:00"
+  },
+  {
+    "job_id": "lever:redhorsecorp:66c3344c-1d4c-456b-bd5f-f56042339806",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "redhorsecorp",
+    "title": "Senior Database Developer",
+    "location": "Huntsville, AL",
+    "posted": "2026-08-12 21:40 UTC",
+    "url": "https://jobs.lever.co/redhorsecorp/66c3344c-1d4c-456b-bd5f-f56042339806",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-12T22:32:41.741431+00:00",
+    "emailed_utc": "2026-08-12T22:32:41.741431+00:00"
   }
 ]
