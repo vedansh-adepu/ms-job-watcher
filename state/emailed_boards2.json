@@ -54702,5 +54702,83 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-12T22:32:41.741431+00:00",
     "emailed_utc": "2026-08-12T22:32:41.741431+00:00"
+  },
+  {
+    "job_id": "greenhouse:generalmatter:5375987008",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "generalmatter",
+    "title": "Software Engineer (New Grad) ",
+    "location": "Los Angeles, CA",
+    "posted": "2026-08-12T18:08:54-04:00",
+    "url": "https://job-boards.greenhouse.io/generalmatter/jobs/5375987008",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-12T23:31:35.616795+00:00",
+    "emailed_utc": "2026-08-12T23:31:35.616795+00:00"
+  },
+  {
+    "job_id": "greenhouse:8thlightrebuild:7861362003",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "8thlightrebuild",
+    "title": "Lead Software Engineer (Remote)",
+    "location": "United States",
+    "posted": "2026-08-12T18:58:24-04:00",
+    "url": "https://job-boards.greenhouse.io/8thlightrebuild/jobs/7861362003",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-12T23:31:35.616795+00:00",
+    "emailed_utc": "2026-08-12T23:31:35.616795+00:00"
+  },
+  {
+    "job_id": "greenhouse:8thlightrebuild:7861363003",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "8thlightrebuild",
+    "title": "Principal Software Engineer (Remote)",
+    "location": "United States",
+    "posted": "2026-08-12T19:00:40-04:00",
+    "url": "https://job-boards.greenhouse.io/8thlightrebuild/jobs/7861363003",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-12T23:31:35.616795+00:00",
+    "emailed_utc": "2026-08-12T23:31:35.616795+00:00"
+  },
+  {
+    "job_id": "greenhouse:generalmatter:5375941008",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "generalmatter",
+    "title": "Manufacturing Engineer (New Grad)",
+    "location": "Los Angeles, CA",
+    "posted": "2026-08-12T18:04:12-04:00",
+    "url": "https://job-boards.greenhouse.io/generalmatter/jobs/5375941008",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-12T23:31:35.616795+00:00",
+    "emailed_utc": "2026-08-12T23:31:35.616795+00:00"
+  },
+  {
+    "job_id": "greenhouse:generalmatter:5375956008",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "generalmatter",
+    "title": "Mechanical Engineer (New Grad)",
+    "location": "Los Angeles, CA",
+    "posted": "2026-08-12T18:06:49-04:00",
+    "url": "https://job-boards.greenhouse.io/generalmatter/jobs/5375956008",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-12T23:31:35.616795+00:00",
+    "emailed_utc": "2026-08-12T23:31:35.616795+00:00"
+  },
+  {
+    "job_id": "greenhouse:generalmatter:5375999008",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "generalmatter",
+    "title": "Structural Engineer - Buildings (New Grad) ",
+    "location": "Los Angeles, CA",
+    "posted": "2026-08-12T18:13:24-04:00",
+    "url": "https://job-boards.greenhouse.io/generalmatter/jobs/5375999008",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-12T23:31:35.616795+00:00",
+    "emailed_utc": "2026-08-12T23:31:35.616795+00:00"
   }
 ]
