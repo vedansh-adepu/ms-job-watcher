@@ -115152,5 +115152,18 @@
     "bucket": "yes",
     "first_seen_utc": "2026-08-12T10:03:22.394489+00:00",
     "emailed_utc": "2026-08-12T10:03:22.394489+00:00"
+  },
+  {
+    "job_id": "workday:nvidia:NVIDIAExternalCareerSite:req:JR2023102",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "NVIDIA",
+    "title": "Senior AI Product Engineer",
+    "location": "US, CA, Santa Clara",
+    "posted": "Posted Today",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-AI-Product-Engineer_JR2023102",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-12T12:02:40.541581+00:00",
+    "emailed_utc": "2026-08-12T12:02:40.541581+00:00"
   }
 ]
