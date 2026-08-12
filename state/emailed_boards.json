@@ -115438,5 +115438,57 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-12T14:32:44.113511+00:00",
     "emailed_utc": "2026-08-12T14:32:44.113511+00:00"
+  },
+  {
+    "job_id": "greenhouse:spacex:8700413002",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "SpaceX",
+    "title": "Sr. Wet Process Equipment Engineer, Solar Cells (Starlink)",
+    "location": "Bastrop, TX",
+    "posted": "2026-08-12T10:55:16-04:00",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8700413002?gh_jid=8700413002",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-12T15:03:21.583336+00:00",
+    "emailed_utc": "2026-08-12T15:03:21.583336+00:00"
+  },
+  {
+    "job_id": "greenhouse:tanium:8122668",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Tanium",
+    "title": "Senior Solution Engineer - Washington, D.C.",
+    "location": "Remote, US",
+    "posted": "2026-08-12T10:18:53-04:00",
+    "url": "https://job-boards.greenhouse.io/tanium/jobs/8122668",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-12T15:03:21.583336+00:00",
+    "emailed_utc": "2026-08-12T15:03:21.583336+00:00"
+  },
+  {
+    "job_id": "greenhouse:tenableinc:5387057008",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Tenable",
+    "title": "Senior Software Engineer - Java/Microservices",
+    "location": "US - Headquarters - Maryland - Columbia, US - Remote - California - Bay Area , MA - Boston - Office",
+    "posted": "2026-08-12T10:21:35-04:00",
+    "url": "https://job-boards.greenhouse.io/tenableinc/jobs/5387057008",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-12T15:03:21.583336+00:00",
+    "emailed_utc": "2026-08-12T15:03:21.583336+00:00"
+  },
+  {
+    "job_id": "workday:target:targetcareers:req:R0000448674",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Target",
+    "title": "Sr. Technical Field Engineer - Returns Center - Upper Marlboro, MD",
+    "location": "16070 Leeland Rd, Upper Marlboro,MD 20774-8528",
+    "posted": "Posted Today",
+    "url": "https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/16070-Leeland-Rd-Upper-MarlboroMD-20774-8528/Sr-Technical-Field-Engineer---Returns-Center---Upper-Marlboro--MD_R0000448674",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-12T15:03:21.583336+00:00",
+    "emailed_utc": "2026-08-12T15:03:21.583336+00:00"
   }
 ]
