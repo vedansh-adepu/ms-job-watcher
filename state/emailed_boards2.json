@@ -53545,5 +53545,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-12T15:02:55.722400+00:00",
     "emailed_utc": "2026-08-12T15:02:55.722400+00:00"
+  },
+  {
+    "job_id": "greenhouse:metrostarsystems:7859682003",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "metrostarsystems",
+    "title": "Sr. Kubernetes Platform Engineer III (6730)",
+    "location": "Washington, DC",
+    "posted": "2026-08-12T11:22:27-04:00",
+    "url": "https://metrostar.com/job-post/?gh_jid=7859682003",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-12T15:31:55.045306+00:00",
+    "emailed_utc": "2026-08-12T15:31:55.045306+00:00"
+  },
+  {
+    "job_id": "greenhouse:nerostechnologies:5209589007",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "nerostechnologies",
+    "title": "PCB Design Engineer",
+    "location": "Torrance, California, United States",
+    "posted": "2026-08-12T11:31:26-04:00",
+    "url": "https://job-boards.greenhouse.io/nerostechnologies/jobs/5209589007",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-12T15:31:55.045306+00:00",
+    "emailed_utc": "2026-08-12T15:31:55.045306+00:00"
   }
 ]
