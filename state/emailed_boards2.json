@@ -54208,5 +54208,83 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-12T19:47:53.263161+00:00",
     "emailed_utc": "2026-08-12T19:47:53.263161+00:00"
+  },
+  {
+    "job_id": "greenhouse:attaintalent:5378113008",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "attaintalent",
+    "title": "Cloud Engineer",
+    "location": "United States - Remote",
+    "posted": "2026-08-12T15:48:02-04:00",
+    "url": "https://job-boards.greenhouse.io/attaintalent/jobs/5378113008",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-12T20:03:13.312338+00:00",
+    "emailed_utc": "2026-08-12T20:03:13.312338+00:00"
+  },
+  {
+    "job_id": "greenhouse:crexi:4723615005",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "crexi",
+    "title": "Senior AI Engineer",
+    "location": "United States",
+    "posted": "2026-08-12T15:26:49-04:00",
+    "url": "https://job-boards.greenhouse.io/crexi/jobs/4723615005",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-12T20:03:13.312338+00:00",
+    "emailed_utc": "2026-08-12T20:03:13.312338+00:00"
+  },
+  {
+    "job_id": "greenhouse:cribl:6133820004",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "cribl",
+    "title": "Sr Software Engineer, Cribl AI",
+    "location": "Remote - United States",
+    "posted": "2026-08-12T14:48:56-04:00",
+    "url": "https://cribl.io/job-detail/?gh_jid=6133820004",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-12T20:03:13.312338+00:00",
+    "emailed_utc": "2026-08-12T20:03:13.312338+00:00"
+  },
+  {
+    "job_id": "greenhouse:dillards:5210642007",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "dillards",
+    "title": "ServiceNow Developer",
+    "location": "Little Rock, AR",
+    "posted": "2026-08-12T14:37:53-04:00",
+    "url": "https://job-boards.greenhouse.io/dillards/jobs/5210642007",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-12T20:03:13.312338+00:00",
+    "emailed_utc": "2026-08-12T20:03:13.312338+00:00"
+  },
+  {
+    "job_id": "greenhouse:elevatebio:6140053004",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "elevatebio",
+    "title": "Engineer II, Facilities",
+    "location": "Waltham, Massachusetts, United States",
+    "posted": "2026-08-12T14:58:18-04:00",
+    "url": "https://elevate.bio/about/jobs/6140053004?gh_jid=6140053004",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-12T20:03:13.312338+00:00",
+    "emailed_utc": "2026-08-12T20:03:13.312338+00:00"
+  },
+  {
+    "job_id": "greenhouse:finitestate:6142344004",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "finitestate",
+    "title": "PSC Engineer",
+    "location": "United States or Canada",
+    "posted": "2026-08-12T15:12:10-04:00",
+    "url": "https://job-boards.greenhouse.io/finitestate/jobs/6142344004",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-12T20:03:13.312338+00:00",
+    "emailed_utc": "2026-08-12T20:03:13.312338+00:00"
   }
 ]
