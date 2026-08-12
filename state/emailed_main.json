@@ -13570,5 +13570,18 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-12T02:31:44.934836+00:00",
     "emailed_utc": "2026-08-12T02:31:44.934836+00:00"
+  },
+  {
+    "job_id": "amazon:404a5af2-9791-478e-abbb-5710de75b053",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer , Inventory Accounting",
+    "location": "US, WA, Redmond",
+    "posted": "August 11, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10498468/software-development-engineer-inventory-accounting",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-12T04:21:28.495917+00:00",
+    "emailed_utc": "2026-08-12T04:21:28.495917+00:00"
   }
 ]
