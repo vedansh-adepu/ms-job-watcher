@@ -118324,5 +118324,83 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-12T20:32:54.145631+00:00",
     "emailed_utc": "2026-08-12T20:32:54.145631+00:00"
+  },
+  {
+    "job_id": "ashby:formenergy:c4fcd913-ad61-4660-93ad-d800609c9960",
+    "pipeline": "boards",
+    "platform": "ashby",
+    "company": "Form Energy",
+    "title": "Principal Battery Engineer",
+    "location": "Berkeley, CA",
+    "posted": "",
+    "url": "https://jobs.ashbyhq.com/formenergy/c4fcd913-ad61-4660-93ad-d800609c9960",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-12T21:01:39.619017+00:00",
+    "emailed_utc": "2026-08-12T21:01:39.619017+00:00"
+  },
+  {
+    "job_id": "greenhouse:attentive:4366925009",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Attentive",
+    "title": "Staff Software Engineer, BI Tooling and Platform",
+    "location": "United States",
+    "posted": "2026-08-12T15:38:16-04:00",
+    "url": "https://job-boards.greenhouse.io/attentive/jobs/4366925009",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-12T21:01:39.619017+00:00",
+    "emailed_utc": "2026-08-12T21:01:39.619017+00:00"
+  },
+  {
+    "job_id": "greenhouse:freeformfuturecorp:7860773003",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Freeformfuturecorp",
+    "title": "Senior Full Stack Engineer (Manufacturing Systems)",
+    "location": "Los Angeles, CA (On-site)",
+    "posted": "2026-08-12T16:35:25-04:00",
+    "url": "https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7860773003",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-12T21:01:39.619017+00:00",
+    "emailed_utc": "2026-08-12T21:01:39.619017+00:00"
+  },
+  {
+    "job_id": "greenhouse:scoutai:5387985008",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Scoutai",
+    "title": "Senior Embedded Software Engineer",
+    "location": "Sunnyvale, CA",
+    "posted": "2026-08-12T15:59:49-04:00",
+    "url": "https://job-boards.greenhouse.io/scoutai/jobs/5387985008",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-12T21:01:39.619017+00:00",
+    "emailed_utc": "2026-08-12T21:01:39.619017+00:00"
+  },
+  {
+    "job_id": "greenhouse:scoutmotors:5210859007",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Scoutmotors",
+    "title": "Senior Software Engineer, Backend",
+    "location": "Fremont, California, United States",
+    "posted": "2026-08-12T16:32:32-04:00",
+    "url": "https://job-boards.greenhouse.io/scoutmotors/jobs/5210859007",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-12T21:01:39.619017+00:00",
+    "emailed_utc": "2026-08-12T21:01:39.619017+00:00"
+  },
+  {
+    "job_id": "lever:dodmg:568b5b94-f9d9-42fc-b54f-0046c764e5c6",
+    "pipeline": "boards",
+    "platform": "lever",
+    "company": "Dodmg",
+    "title": "Materials Engineer: Metal Additive Manufacturing",
+    "location": "Malibu, CA",
+    "posted": "2026-08-12 20:31 UTC",
+    "url": "https://jobs.lever.co/dodmg/568b5b94-f9d9-42fc-b54f-0046c764e5c6",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-12T21:01:39.619017+00:00",
+    "emailed_utc": "2026-08-12T21:01:39.619017+00:00"
   }
 ]
