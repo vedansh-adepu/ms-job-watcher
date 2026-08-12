@@ -115139,5 +115139,18 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-12T08:33:10.004367+00:00",
     "emailed_utc": "2026-08-12T08:33:10.004367+00:00"
+  },
+  {
+    "job_id": "lever:spotify:514d9f1b-c930-4945-88db-e7fda5f18b76",
+    "pipeline": "boards",
+    "platform": "lever",
+    "company": "spotify",
+    "title": "Fullstack Engineer - Podcast",
+    "location": "New York, NY",
+    "posted": "2026-07-14 10:42 UTC",
+    "url": "https://jobs.lever.co/spotify/514d9f1b-c930-4945-88db-e7fda5f18b76",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-12T10:03:22.394489+00:00",
+    "emailed_utc": "2026-08-12T10:03:22.394489+00:00"
   }
 ]
