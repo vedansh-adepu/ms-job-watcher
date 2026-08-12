@@ -53571,5 +53571,44 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-12T15:31:55.045306+00:00",
     "emailed_utc": "2026-08-12T15:31:55.045306+00:00"
+  },
+  {
+    "job_id": "greenhouse:valaratomics:4321922009",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "valaratomics",
+    "title": "TRISO Chemical Plant Process Engineer",
+    "location": "Orangeville, Utah, United States; Torrance, California, United States",
+    "posted": "2026-08-12T11:37:57-04:00",
+    "url": "https://job-boards.greenhouse.io/valaratomics/jobs/4321922009",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-12T16:02:54.601581+00:00",
+    "emailed_utc": "2026-08-12T16:02:54.601581+00:00"
+  },
+  {
+    "job_id": "greenhouse:veranahealth:8700261002",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "veranahealth",
+    "title": "Senior Software Engineer",
+    "location": "San Francisco, California, United States, New York, New York, United States ",
+    "posted": "2026-08-12T10:30:49-04:00",
+    "url": "https://job-boards.greenhouse.io/veranahealth/jobs/8700261002",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-12T16:02:54.601581+00:00",
+    "emailed_utc": "2026-08-12T16:02:54.601581+00:00"
+  },
+  {
+    "job_id": "lever:oomnitza:79a782f2-3d8f-4f3a-bc07-f3b23095f80f",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "oomnitza",
+    "title": "UX Design Engineer (US Remote)",
+    "location": "San Francisco, CA",
+    "posted": "2026-08-12 15:20 UTC",
+    "url": "https://jobs.lever.co/oomnitza/79a782f2-3d8f-4f3a-bc07-f3b23095f80f",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-12T16:02:54.601581+00:00",
+    "emailed_utc": "2026-08-12T16:02:54.601581+00:00"
   }
 ]
