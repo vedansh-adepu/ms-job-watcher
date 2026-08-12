@@ -13700,5 +13700,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-12T17:31:43.947478+00:00",
     "emailed_utc": "2026-08-12T17:31:43.947478+00:00"
+  },
+  {
+    "job_id": "amazon:95ac06d5-a5a2-484c-9ce9-f3b3f2ba7f25",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Applied Scientist, AWS Applied AI Solutions",
+    "location": "US, WA, Seattle",
+    "posted": "August 12, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10500009/applied-scientist-aws-applied-ai-solutions",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-12T17:41:50.822993+00:00",
+    "emailed_utc": "2026-08-12T17:41:50.822993+00:00"
+  },
+  {
+    "job_id": "amazon:18d800f2-8271-4f39-8405-da4be234b01b",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, Amazon Fuse",
+    "location": "US, WA, Seattle",
+    "posted": "August 12, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10500005/software-development-engineer-amazon-fuse",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-12T17:41:50.822993+00:00",
+    "emailed_utc": "2026-08-12T17:41:50.822993+00:00"
   }
 ]
