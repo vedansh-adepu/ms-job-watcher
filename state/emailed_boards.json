@@ -119325,5 +119325,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-12T23:03:01.032495+00:00",
     "emailed_utc": "2026-08-12T23:03:01.032495+00:00"
+  },
+  {
+    "job_id": "greenhouse:verkada:5209693007",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "verkada",
+    "title": "Engineering Manager, Access Control",
+    "location": "San Mateo, CA United States",
+    "posted": "2026-08-12T17:39:10-04:00",
+    "url": "https://job-boards.greenhouse.io/verkada/jobs/5209693007",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-12T23:32:32.130132+00:00",
+    "emailed_utc": "2026-08-12T23:32:32.130132+00:00"
+  },
+  {
+    "job_id": "greenhouse:xpengmotors:8702836002",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "xpengmotors",
+    "title": "Senior Machine Learning Engineer \u2013 Predictive World Model ",
+    "location": "Santa Clara, CA",
+    "posted": "2026-08-12T18:06:41-04:00",
+    "url": "https://job-boards.greenhouse.io/xpengmotors/jobs/8702836002",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-12T23:32:32.130132+00:00",
+    "emailed_utc": "2026-08-12T23:32:32.130132+00:00"
   }
 ]
