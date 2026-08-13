@@ -122094,5 +122094,44 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-13T17:33:18.563709+00:00",
     "emailed_utc": "2026-08-13T17:33:18.563709+00:00"
+  },
+  {
+    "job_id": "ashby:benchling:d627fcc2-2e34-4bde-9be2-242c89c19436",
+    "pipeline": "boards",
+    "platform": "ashby",
+    "company": "Benchling",
+    "title": "Software Engineer, Full Stack (Document Canvas)",
+    "location": "San Francisco, CA",
+    "posted": "",
+    "url": "https://jobs.ashbyhq.com/benchling/d627fcc2-2e34-4bde-9be2-242c89c19436",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-13T18:02:40.546918+00:00",
+    "emailed_utc": "2026-08-13T18:02:40.546918+00:00"
+  },
+  {
+    "job_id": "ashby:snowflake:c6034a32-de0f-407f-b9cb-7e05b4d20c99",
+    "pipeline": "boards",
+    "platform": "ashby",
+    "company": "Snowflake",
+    "title": "Staff Analyst, GTM Analytics",
+    "location": "US-CA-Menlo Park",
+    "posted": "",
+    "url": "https://jobs.ashbyhq.com/snowflake/c6034a32-de0f-407f-b9cb-7e05b4d20c99",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-13T18:02:40.546918+00:00",
+    "emailed_utc": "2026-08-13T18:02:40.546918+00:00"
+  },
+  {
+    "job_id": "ashby:clickup:ffb3db62-0f3f-4eea-aca9-9c004fa28285",
+    "pipeline": "boards",
+    "platform": "ashby",
+    "company": "Clickup",
+    "title": "Senior Manager, Engineering - Identity & Access Management ",
+    "location": "United States",
+    "posted": "",
+    "url": "https://jobs.ashbyhq.com/clickup/ffb3db62-0f3f-4eea-aca9-9c004fa28285",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-13T18:02:40.546918+00:00",
+    "emailed_utc": "2026-08-13T18:02:40.546918+00:00"
   }
 ]
