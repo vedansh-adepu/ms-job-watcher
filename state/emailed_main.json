@@ -14402,5 +14402,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-13T20:21:51.788950+00:00",
     "emailed_utc": "2026-08-13T20:21:51.788950+00:00"
+  },
+  {
+    "job_id": "amazon:801aad30-2c6d-4a44-be79-e84e89a39c9d",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Applied Scientist, Long Term Planning & Forecasting",
+    "location": "US, WA, Bellevue",
+    "posted": "August 13, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10501450/applied-scientist-long-term-planning-forecasting",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-13T20:31:37.446263+00:00",
+    "emailed_utc": "2026-08-13T20:31:37.446263+00:00"
+  },
+  {
+    "job_id": "ibm:5d38aaa4ed2899390fb83615f169bc24577426659a19bfeb8b3cfa0e2bd1cf1a",
+    "pipeline": "main",
+    "platform": "ibm",
+    "company": "IBM",
+    "title": "Associate Data Engineer \u2013 AI & Analytics - 2027",
+    "location": "Hybrid",
+    "posted": "",
+    "url": "https://careers.ibm.com/careers/JobDetail?jobId=128809",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-13T20:31:37.446263+00:00",
+    "emailed_utc": "2026-08-13T20:31:37.446263+00:00"
   }
 ]
