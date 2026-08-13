@@ -13986,5 +13986,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-13T13:51:42.964974+00:00",
     "emailed_utc": "2026-08-13T13:51:42.964974+00:00"
+  },
+  {
+    "job_id": "amazon:d45a3a75-e7b4-40ab-bf34-e125dbd98801",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, STRADA",
+    "location": "US, MN, Minneapolis",
+    "posted": "August 13, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10500766/software-development-engineer-strada",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-13T14:01:42.306558+00:00",
+    "emailed_utc": "2026-08-13T14:01:42.306558+00:00"
+  },
+  {
+    "job_id": "amazon:b73a6a38-c039-4e0c-afe2-6424bb94ab7a",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, STRADA",
+    "location": "US, MN, Minneapolis",
+    "posted": "August 13, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10500767/software-development-engineer-strada",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-13T14:01:42.306558+00:00",
+    "emailed_utc": "2026-08-13T14:01:42.306558+00:00"
   }
 ]
