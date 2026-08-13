@@ -304328,5 +304328,44 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-13T05:38:35.424321+00:00",
     "emailed_utc": "2026-08-13T05:38:35.424321+00:00"
+  },
+  {
+    "job_id": "workday:fis:searchjobs:req:JR0308863",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Fis",
+    "title": "Software Engineer Specialists: Banking Solutions- Full Stack Developer",
+    "location": "US FL JAX 347",
+    "posted": "Posted Yesterday",
+    "url": "https://fis.wd5.myworkdayjobs.com/en-US/searchjobs/job/US-FL-JAX-347/Software-Engineer-Specialists--Banking-Solutions--Full-Stack-Developer_JR0308863",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-13T06:05:28.281347+00:00",
+    "emailed_utc": "2026-08-13T06:05:28.281347+00:00"
+  },
+  {
+    "job_id": "workday:fis:searchjobs:req:JR0308861",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Fis",
+    "title": "AAI Data Engineer \u2013 Enterprise Platform",
+    "location": "US FL JAX 347",
+    "posted": "Posted Yesterday",
+    "url": "https://fis.wd5.myworkdayjobs.com/en-US/searchjobs/job/US-FL-JAX-347/AAI-Data-Engineer---Enterprise-Platform_JR0308861",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-13T06:05:28.281347+00:00",
+    "emailed_utc": "2026-08-13T06:05:28.281347+00:00"
+  },
+  {
+    "job_id": "workday:fis:searchjobs:req:JR0308859",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Fis",
+    "title": "Software Engineer Seniors Global Banking Technologies",
+    "location": "US FL JAX 347",
+    "posted": "Posted Yesterday",
+    "url": "https://fis.wd5.myworkdayjobs.com/en-US/searchjobs/job/US-FL-JAX-347/Software-Engineer-Seniors-Global-Banking-Technologies_JR0308859",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-13T06:05:28.281347+00:00",
+    "emailed_utc": "2026-08-13T06:05:28.281347+00:00"
   }
 ]
