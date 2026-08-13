@@ -56964,5 +56964,44 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-13T22:24:58.611725+00:00",
     "emailed_utc": "2026-08-13T22:24:58.611725+00:00"
+  },
+  {
+    "job_id": "greenhouse:vast:4705109006",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "vast",
+    "title": "Manufacturing Engineer II",
+    "location": "Long Beach, California, United States",
+    "posted": "2026-08-13T18:05:33-04:00",
+    "url": "https://boards.greenhouse.io/vast/jobs/4705109006?gh_jid=4705109006",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-13T22:33:11.899059+00:00",
+    "emailed_utc": "2026-08-13T22:33:11.899059+00:00"
+  },
+  {
+    "job_id": "greenhouse:wppmedia:5031896008",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "wppmedia",
+    "title": "Manager, Analytics",
+    "location": "New York, United States",
+    "posted": "2026-08-13T18:13:22-04:00",
+    "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5031896008",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-13T22:33:11.899059+00:00",
+    "emailed_utc": "2026-08-13T22:33:11.899059+00:00"
+  },
+  {
+    "job_id": "greenhouse:wppmedia:5350419008",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "wppmedia",
+    "title": "Senior Associate, Analytics",
+    "location": "New York, United States",
+    "posted": "2026-08-13T18:12:10-04:00",
+    "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5350419008",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-13T22:33:11.899059+00:00",
+    "emailed_utc": "2026-08-13T22:33:11.899059+00:00"
   }
 ]
