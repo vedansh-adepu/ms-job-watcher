@@ -121067,5 +121067,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-13T09:32:30.108278+00:00",
     "emailed_utc": "2026-08-13T09:32:30.108278+00:00"
+  },
+  {
+    "job_id": "workday:ngc:Northrop_Grumman_External_Site:req:R10245585",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Northrop Grumman",
+    "title": "Calling all Secret-Cleared Embedded Software Engineers! (Chandler)",
+    "location": "United States-Arizona-Chandler",
+    "posted": "Posted Today",
+    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Arizona-Chandler/Calling-all-Secret-Cleared-Embedded-Software-Engineers---Chandler-_R10245585-1",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-13T12:02:49.320915+00:00",
+    "emailed_utc": "2026-08-13T12:02:49.320915+00:00"
+  },
+  {
+    "job_id": "greenhouse:tripactions:8121592",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Navan (TripActions)",
+    "title": "Data Integration Engineer",
+    "location": "Bengaluru, IN",
+    "posted": "2026-08-13T07:53:46-04:00",
+    "url": "https://navan.com/careers/openings?gh_jid=8121592",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-13T12:02:49.320915+00:00",
+    "emailed_utc": "2026-08-13T12:02:49.320915+00:00"
   }
 ]
