@@ -40884,22 +40884,15 @@
     "cursor": null
   },
   {
-    "ts": "2026-08-13T16:03Z",
+    "ts": "2026-08-13T16:06Z",
     "mode": "boards",
     "per_source": {
-      "greenhouse": {
-        "fetched": 14877,
-        "title_ok": 2087,
-        "loc_ok": 797,
-        "new": 15,
-        "emailed": 15
-      },
-      "lever": {
-        "fetched": 45740,
-        "title_ok": 5873,
-        "loc_ok": 1864,
-        "new": 7,
-        "emailed": 7
+      "workday": {
+        "fetched": 9200,
+        "title_ok": 947,
+        "loc_ok": 291,
+        "new": 28,
+        "emailed": 104
       }
     },
     "duration_s": 113.0,
