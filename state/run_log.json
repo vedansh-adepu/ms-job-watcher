@@ -41454,44 +41454,15 @@
     "cursor": null
   },
   {
-    "ts": "2026-08-13T02:32Z",
+    "ts": "2026-08-13T02:43Z",
     "mode": "boards",
     "per_source": {
-      "greenhouse": {
-        "fetched": 1868,
-        "title_ok": 618,
-        "loc_ok": 322,
-        "new": 0,
-        "emailed": 0
-      },
-      "lever": {
-        "fetched": 571,
-        "title_ok": 244,
-        "loc_ok": 177,
-        "new": 0,
-        "emailed": 0
-      },
-      "smartrecruiters": {
-        "fetched": 174,
-        "title_ok": 43,
-        "loc_ok": 39,
-        "new": 0,
-        "emailed": 0
-      },
-      "ashby": {
-        "fetched": 4820,
-        "title_ok": 1690,
-        "loc_ok": 390,
-        "new": 0,
-        "emailed": 0,
-        "errors": 1
-      },
       "workday": {
-        "fetched": 2500,
-        "title_ok": 643,
-        "loc_ok": 235,
-        "new": 1,
-        "emailed": 21
+        "fetched": 7612,
+        "title_ok": 176,
+        "loc_ok": 60,
+        "new": 7,
+        "emailed": 28
       }
     },
     "duration_s": 64.8,
