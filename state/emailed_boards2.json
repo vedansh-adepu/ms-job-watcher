@@ -56132,5 +56132,83 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-13T18:32:01.018648+00:00",
     "emailed_utc": "2026-08-13T18:32:01.018648+00:00"
+  },
+  {
+    "job_id": "greenhouse:orioninnovation:4705002006",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "orioninnovation",
+    "title": "AI & Data Engineer",
+    "location": "Lawrence Township, New Jersey, United States",
+    "posted": "2026-08-13T14:50:38-04:00",
+    "url": "https://www.orioninc.com/careers/job/?gh_jid=4705002006",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-13T19:02:13.520893+00:00",
+    "emailed_utc": "2026-08-13T19:02:13.520893+00:00"
+  },
+  {
+    "job_id": "greenhouse:mitratech:8056298",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "mitratech",
+    "title": "Senior AI Engineer",
+    "location": "Remote US",
+    "posted": "2026-08-13T13:54:26-04:00",
+    "url": "https://job-boards.greenhouse.io/mitratech/jobs/8056298",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-13T19:02:13.520893+00:00",
+    "emailed_utc": "2026-08-13T19:02:13.520893+00:00"
+  },
+  {
+    "job_id": "greenhouse:pvminc:5211586007",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "pvminc",
+    "title": "Forward Deployed Engineer ",
+    "location": "Atlanta, GA",
+    "posted": "2026-08-13T13:29:55-04:00",
+    "url": "https://job-boards.greenhouse.io/pvminc/jobs/5211586007",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-13T19:02:13.520893+00:00",
+    "emailed_utc": "2026-08-13T19:02:13.520893+00:00"
+  },
+  {
+    "job_id": "greenhouse:relativity:8614326002",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "relativity",
+    "title": "Facilities Engineer I",
+    "location": "Mississippi, United States",
+    "posted": "2026-08-13T14:01:04-04:00",
+    "url": "https://boards.greenhouse.io/relativity/jobs/8614326002?gh_jid=8614326002",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-13T19:02:13.520893+00:00",
+    "emailed_utc": "2026-08-13T19:02:13.520893+00:00"
+  },
+  {
+    "job_id": "greenhouse:springhealth66:4723968005",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "springhealth66",
+    "title": "Senior Machine Learning Engineer I, AI & ML Platform",
+    "location": "San Francisco, CA (Hybrid)",
+    "posted": "2026-08-13T13:48:03-04:00",
+    "url": "https://job-boards.greenhouse.io/springhealth66/jobs/4723968005",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-13T19:02:13.520893+00:00",
+    "emailed_utc": "2026-08-13T19:02:13.520893+00:00"
+  },
+  {
+    "job_id": "greenhouse:range:5211636007",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "range",
+    "title": "Sr. Analytics Manager, Revenue Optimization",
+    "location": "United States",
+    "posted": "2026-08-13T14:32:07-04:00",
+    "url": "https://job-boards.greenhouse.io/range/jobs/5211636007",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-13T19:02:13.520893+00:00",
+    "emailed_utc": "2026-08-13T19:02:13.520893+00:00"
   }
 ]
