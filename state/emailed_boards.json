@@ -120716,5 +120716,44 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-13T06:03:07.427350+00:00",
     "emailed_utc": "2026-08-13T06:03:07.427350+00:00"
+  },
+  {
+    "job_id": "workday:gdit:External_Career_Site:req:RQ226086",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "General Dynamics Information Technology (GDIT)",
+    "title": "Statistician/Data Analyst",
+    "location": "USA DC Washington",
+    "posted": "Posted Today",
+    "url": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-DC-Washington/Statistician-Data-Analyst_RQ226086-2",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-13T06:33:11.841714+00:00",
+    "emailed_utc": "2026-08-13T06:33:11.841714+00:00"
+  },
+  {
+    "job_id": "workday:gdit:External_Career_Site:req:RQ226077",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "General Dynamics Information Technology (GDIT)",
+    "title": "HPC Engineer",
+    "location": "USA MD Rockville",
+    "posted": "Posted Today",
+    "url": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-MD-Rockville/HPC-Engineer_RQ226077-1",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-13T06:33:11.841714+00:00",
+    "emailed_utc": "2026-08-13T06:33:11.841714+00:00"
+  },
+  {
+    "job_id": "workday:gdit:External_Career_Site:req:RQ226062",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "General Dynamics Information Technology (GDIT)",
+    "title": "Secure Enclave System Engineering Lead",
+    "location": "USA VA McLean",
+    "posted": "Posted Today",
+    "url": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-McLean/Secure-Enclave-System-Engineering-Lead_RQ226062-1",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-13T06:33:11.841714+00:00",
+    "emailed_utc": "2026-08-13T06:33:11.841714+00:00"
   }
 ]
