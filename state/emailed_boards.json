@@ -119351,5 +119351,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-12T23:32:32.130132+00:00",
     "emailed_utc": "2026-08-12T23:32:32.130132+00:00"
+  },
+  {
+    "job_id": "ashby:formenergy:58edccef-1cac-4723-b444-bbfcb8851250",
+    "pipeline": "boards",
+    "platform": "ashby",
+    "company": "Form Energy",
+    "title": "Staff Manufacturing Engineer, Robotics",
+    "location": "Weirton, WV",
+    "posted": "",
+    "url": "https://jobs.ashbyhq.com/formenergy/58edccef-1cac-4723-b444-bbfcb8851250",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-13T00:01:24.689198+00:00",
+    "emailed_utc": "2026-08-13T00:01:24.689198+00:00"
+  },
+  {
+    "job_id": "lever:rigetti:c23b1efb-102c-4487-b9d0-c714384fbd8e",
+    "pipeline": "boards",
+    "platform": "lever",
+    "company": "Rigetti",
+    "title": "Senior Process Engineer - Physical Vapor Deposition (PVD)",
+    "location": "Fremont, CA",
+    "posted": "2026-07-09 20:13 UTC",
+    "url": "https://jobs.lever.co/rigetti/c23b1efb-102c-4487-b9d0-c714384fbd8e",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-13T00:01:24.689198+00:00",
+    "emailed_utc": "2026-08-13T00:01:24.689198+00:00"
   }
 ]
