@@ -307747,5 +307747,57 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-13T09:34:20.662112+00:00",
     "emailed_utc": "2026-08-13T09:34:20.662112+00:00"
+  },
+  {
+    "job_id": "workday:genpt:careers:req:0000025462",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Genpt",
+    "title": "BI Data Analyst",
+    "location": "Ogden, UT, USA",
+    "posted": "Posted 2 Days Ago",
+    "url": "https://genpt.wd1.myworkdayjobs.com/en-US/careers/job/Ogden-UT-USA/BI-Data-Analyst_R26_0000025462",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-13T10:09:38.122808+00:00",
+    "emailed_utc": "2026-08-13T10:09:38.122808+00:00"
+  },
+  {
+    "job_id": "workday:gevernova:only_confidential_executive_recruiting:req:R5049720",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Gevernova",
+    "title": "Electrical Component Engineer",
+    "location": "Charleroi USA",
+    "posted": "Posted 3 Days Ago",
+    "url": "https://gevernova.wd5.myworkdayjobs.com/en-US/only_confidential_executive_recruiting/job/Charleroi-USA/Electrical-Component-Engineer_R5049720-1",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-13T10:09:38.122808+00:00",
+    "emailed_utc": "2026-08-13T10:09:38.122808+00:00"
+  },
+  {
+    "job_id": "workday:gevernova:vernova_externalsite:req:R5049720",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Gevernova",
+    "title": "Electrical Component Engineer",
+    "location": "Charleroi USA",
+    "posted": "Posted 3 Days Ago",
+    "url": "https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Charleroi-USA/Electrical-Component-Engineer_R5049720-2",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-13T10:09:38.122808+00:00",
+    "emailed_utc": "2026-08-13T10:09:38.122808+00:00"
+  },
+  {
+    "job_id": "workday:genpt:careers:req:0000025979",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Genpt",
+    "title": "Mechanical Engineer",
+    "location": "West Monroe, LA, USA",
+    "posted": "Posted 3 Days Ago",
+    "url": "https://genpt.wd1.myworkdayjobs.com/en-US/careers/job/West-Monroe-LA-USA/Mechanical-Engineer_R26_0000025979",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-13T10:09:38.122808+00:00",
+    "emailed_utc": "2026-08-13T10:09:38.122808+00:00"
   }
 ]
