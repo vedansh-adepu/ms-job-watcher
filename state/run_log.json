@@ -41280,15 +41280,15 @@
     "cursor": 1000
   },
   {
-    "ts": "2026-08-13T08:01Z",
+    "ts": "2026-08-13T08:04Z",
     "mode": "boards",
     "per_source": {
-      "lever": {
-        "fetched": 9524,
-        "title_ok": 748,
-        "loc_ok": 186,
-        "new": 0,
-        "emailed": 0
+      "workday": {
+        "fetched": 8614,
+        "title_ok": 740,
+        "loc_ok": 64,
+        "new": 4,
+        "emailed": 37
       }
     },
     "duration_s": 12.2,
