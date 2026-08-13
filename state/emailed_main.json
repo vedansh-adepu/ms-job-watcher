@@ -14350,5 +14350,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-13T19:32:13.581188+00:00",
     "emailed_utc": "2026-08-13T19:32:13.581188+00:00"
+  },
+  {
+    "job_id": "amazon:d50f224a-a839-47c8-8d37-622f2787f0f3",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": " Software Development Engineer, AWS OpenSearch",
+    "location": "US, CA, Santa Clara",
+    "posted": "August 13, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10501404/software-development-engineer-aws-opensearch",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-13T19:51:21.030577+00:00",
+    "emailed_utc": "2026-08-13T19:51:21.030577+00:00"
+  },
+  {
+    "job_id": "amazon:47e0351a-4fb2-428c-ae69-9f88ac94864a",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": " Software Dev Engineer II, AWS OpenSearch",
+    "location": "US, CA, Santa Clara",
+    "posted": "August 13, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10501405/software-dev-engineer-ii-aws-opensearch",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-13T19:51:21.030577+00:00",
+    "emailed_utc": "2026-08-13T19:51:21.030577+00:00"
   }
 ]
