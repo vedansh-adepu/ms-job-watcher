@@ -14064,5 +14064,44 @@
     "bucket": "yes",
     "first_seen_utc": "2026-08-13T15:11:38.752852+00:00",
     "emailed_utc": "2026-08-13T15:11:38.752852+00:00"
+  },
+  {
+    "job_id": "amazon:31fd492f-6ceb-4953-86f5-095ab7d2050f",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, EC2 VPC",
+    "location": "US, VA, Herndon",
+    "posted": "August 13, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10500968/software-development-engineer-ec2-vpc",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-13T15:31:41.607621+00:00",
+    "emailed_utc": "2026-08-13T15:31:41.607621+00:00"
+  },
+  {
+    "job_id": "amazon:76379cc7-ef7d-4498-8e50-092de6f80a9e",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "SDE, MLA hardware/software co-design, Annapurna Labs Machine Learning Acceleration",
+    "location": "US, TX, Austin",
+    "posted": "August 13, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10500976/sde-mla-hardware-software-co-design-annapurna-labs-machine-learning-acceleration",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-13T15:31:41.607621+00:00",
+    "emailed_utc": "2026-08-13T15:31:41.607621+00:00"
+  },
+  {
+    "job_id": "amazon:eeff36a8-d775-4550-b819-77ac256cbbd2",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "ASIC Design Engineer, Cloud-Scale Machine Learning Acceleration team - Annapurna Labs ",
+    "location": "US, CA, Cupertino",
+    "posted": "August 13, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10500974/asic-design-engineer-cloud-scale-machine-learning-acceleration-team-annapurna-labs",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-13T15:31:41.607621+00:00",
+    "emailed_utc": "2026-08-13T15:31:41.607621+00:00"
   }
 ]
