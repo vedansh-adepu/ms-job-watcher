@@ -14194,5 +14194,57 @@
     "bucket": "yes",
     "first_seen_utc": "2026-08-13T17:31:39.065461+00:00",
     "emailed_utc": "2026-08-13T17:31:39.065461+00:00"
+  },
+  {
+    "job_id": "amazon:195d8da8-561a-401f-80d4-3b8221a2a96e",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, Android",
+    "location": "US, MA, Cambridge",
+    "posted": "August 13, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10501178/software-development-engineer-android",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-13T17:51:17.274097+00:00",
+    "emailed_utc": "2026-08-13T17:51:17.274097+00:00"
+  },
+  {
+    "job_id": "ibm:cd178da40227525b9b7b68667f2006a9343ab6566e5671fd5bbc619c7455331d",
+    "pipeline": "main",
+    "platform": "ibm",
+    "company": "IBM",
+    "title": "Associate Data Engineer 2027",
+    "location": "United States",
+    "posted": "",
+    "url": "https://careers.ibm.com/careers/JobDetail?jobId=128750",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-13T17:51:17.274097+00:00",
+    "emailed_utc": "2026-08-13T17:51:17.274097+00:00"
+  },
+  {
+    "job_id": "ibm:76dff5d345ff1f3ef7c49cefd60d86354dde564e6e94c54ed00d95d10c012816",
+    "pipeline": "main",
+    "platform": "ibm",
+    "company": "IBM",
+    "title": "Associate Data Engineer 2027",
+    "location": "United States",
+    "posted": "",
+    "url": "https://careers.ibm.com/careers/JobDetail?jobId=128702",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-13T17:51:17.274097+00:00",
+    "emailed_utc": "2026-08-13T17:51:17.274097+00:00"
+  },
+  {
+    "job_id": "ibm:3c30b062805d0ca12a74a8c326e0dfd69de509efa915cc629d1638d99f6d3c3c",
+    "pipeline": "main",
+    "platform": "ibm",
+    "company": "IBM",
+    "title": "Associate Data Engineer 2027",
+    "location": "United States",
+    "posted": "",
+    "url": "https://careers.ibm.com/careers/JobDetail?jobId=129118",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-13T17:51:17.274097+00:00",
+    "emailed_utc": "2026-08-13T17:51:17.274097+00:00"
   }
 ]
