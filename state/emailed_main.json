@@ -14376,5 +14376,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-13T19:51:21.030577+00:00",
     "emailed_utc": "2026-08-13T19:51:21.030577+00:00"
+  },
+  {
+    "job_id": "amazon:f1ee2750-9db7-4f56-b2da-803c0d35f8cc",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Applied Scientist II - Robotics Simulation, Amazon Robotics R&D",
+    "location": "US, MA, Boston",
+    "posted": "August 13, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10501206/applied-scientist-ii-robotics-simulation-amazon-robotics-r-d",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-13T20:21:51.788950+00:00",
+    "emailed_utc": "2026-08-13T20:21:51.788950+00:00"
+  },
+  {
+    "job_id": "amazon:e8076dd6-1c54-4d62-bae0-4c17e78e79c7",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Principal Data Scientist, AWS Analytics Engineering (AAE)",
+    "location": "US, WA, Seattle",
+    "posted": "August 13, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10501433/principal-data-scientist-aws-analytics-engineering-aae",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-13T20:21:51.788950+00:00",
+    "emailed_utc": "2026-08-13T20:21:51.788950+00:00"
   }
 ]
