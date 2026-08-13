@@ -40856,15 +40856,15 @@
     "cursor": null
   },
   {
-    "ts": "2026-08-13T16:31Z",
+    "ts": "2026-08-13T16:34Z",
     "mode": "boards",
     "per_source": {
-      "lever": {
-        "fetched": 9516,
-        "title_ok": 748,
-        "loc_ok": 184,
-        "new": 0,
-        "emailed": 0
+      "workday": {
+        "fetched": 9025,
+        "title_ok": 312,
+        "loc_ok": 101,
+        "new": 1,
+        "emailed": 1
       }
     },
     "duration_s": 20.2,
