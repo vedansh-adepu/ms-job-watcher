@@ -14558,5 +14558,18 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-13T22:51:32.788844+00:00",
     "emailed_utc": "2026-08-13T22:51:32.788844+00:00"
+  },
+  {
+    "job_id": "microsoft:1970393556962230",
+    "pipeline": "main",
+    "platform": "microsoft",
+    "company": "Microsoft",
+    "title": "Software Engineer",
+    "location": "Redmond, WA, US",
+    "posted": "2026-08-13 23:08 UTC",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556962230",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-13T23:11:44.500772+00:00",
+    "emailed_utc": "2026-08-13T23:11:44.500772+00:00"
   }
 ]
