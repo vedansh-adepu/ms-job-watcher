@@ -122991,5 +122991,18 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-13T20:03:15.691292+00:00",
     "emailed_utc": "2026-08-13T20:03:15.691292+00:00"
+  },
+  {
+    "job_id": "lever:lendbuzz:f0987140-7abb-4f27-a43d-b8bb2f5c5905",
+    "pipeline": "boards",
+    "platform": "lever",
+    "company": "Lendbuzz",
+    "title": "Engineering Manager (Full Stack - Backend)",
+    "location": "Boston, MA",
+    "posted": "2026-08-13 20:50 UTC",
+    "url": "https://jobs.lever.co/lendbuzz/f0987140-7abb-4f27-a43d-b8bb2f5c5905",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-13T21:01:45.966851+00:00",
+    "emailed_utc": "2026-08-13T21:01:45.966851+00:00"
   }
 ]
