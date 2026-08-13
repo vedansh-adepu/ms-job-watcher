@@ -14519,5 +14519,44 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-13T22:01:44.486774+00:00",
     "emailed_utc": "2026-08-13T22:01:44.486774+00:00"
+  },
+  {
+    "job_id": "amazon:cb0acbff-6830-4a76-95bc-bee67473796d",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer II - Amazon MSK, Managed Streaming Kafka (MSK)",
+    "location": "US, WA, Seattle",
+    "posted": "August 13, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10501776/software-development-engineer-ii-amazon-msk-managed-streaming-kafka-msk",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-13T22:51:32.788844+00:00",
+    "emailed_utc": "2026-08-13T22:51:32.788844+00:00"
+  },
+  {
+    "job_id": "amazon:2a702ce5-9491-432a-92dd-63cc1a6bf1e8",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer II - Amazon MSK, Managed Streaming Kafka (MSK)",
+    "location": "US, WA, Seattle",
+    "posted": "August 13, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10501774/software-development-engineer-ii-amazon-msk-managed-streaming-kafka-msk",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-13T22:51:32.788844+00:00",
+    "emailed_utc": "2026-08-13T22:51:32.788844+00:00"
+  },
+  {
+    "job_id": "amazon:05e5bd5a-d625-4108-a23e-33fd09eecd0b",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Senior Software Development Engineer, Amazon MSK",
+    "location": "US, WA, Seattle",
+    "posted": "August 13, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10501773/senior-software-development-engineer-amazon-msk",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-13T22:51:32.788844+00:00",
+    "emailed_utc": "2026-08-13T22:51:32.788844+00:00"
   }
 ]
