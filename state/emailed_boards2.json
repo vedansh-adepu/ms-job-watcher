@@ -58771,5 +58771,70 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-14T21:02:55.687175+00:00",
     "emailed_utc": "2026-08-14T21:02:55.687175+00:00"
+  },
+  {
+    "job_id": "greenhouse:applovin:4705264006",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "applovin",
+    "title": "Measurement Data Scientist",
+    "location": "Palo Alto, CA",
+    "posted": "2026-08-14T17:27:22-04:00",
+    "url": "https://boards.greenhouse.io/applovin/jobs/4705264006?gh_jid=4705264006",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-14T21:59:23.520481+00:00",
+    "emailed_utc": "2026-08-14T21:59:23.520481+00:00"
+  },
+  {
+    "job_id": "greenhouse:dept:8131128",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "dept",
+    "title": "Data Analyst/BI Engineer",
+    "location": "United States",
+    "posted": "2026-08-14T17:06:31-04:00",
+    "url": "https://job-boards.greenhouse.io/dept/jobs/8131128",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-14T21:59:23.520481+00:00",
+    "emailed_utc": "2026-08-14T21:59:23.520481+00:00"
+  },
+  {
+    "job_id": "greenhouse:altentechnologyusa:5212908007",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "altentechnologyusa",
+    "title": "ADAS Performance Engineer",
+    "location": "Auburn Hills, Michigan, United States",
+    "posted": "2026-08-14T17:36:29-04:00",
+    "url": "https://job-boards.greenhouse.io/altentechnologyusa/jobs/5212908007",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-14T21:59:23.520481+00:00",
+    "emailed_utc": "2026-08-14T21:59:23.520481+00:00"
+  },
+  {
+    "job_id": "greenhouse:asteralabs:4723516005",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "asteralabs",
+    "title": "Sr. Principal Silicon Applications Engineer, AI Infrastructure",
+    "location": "San Jose, California, United States",
+    "posted": "2026-08-14T17:07:50-04:00",
+    "url": "https://job-boards.greenhouse.io/asteralabs/jobs/4723516005",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-14T21:59:23.520481+00:00",
+    "emailed_utc": "2026-08-14T21:59:23.520481+00:00"
+  },
+  {
+    "job_id": "greenhouse:hut8:5390328008",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "hut8",
+    "title": "Associate, Project Engineer",
+    "location": "Corpus Christi, TX",
+    "posted": "2026-08-14T17:44:50-04:00",
+    "url": "https://job-boards.greenhouse.io/hut8/jobs/5390328008",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-14T21:59:23.520481+00:00",
+    "emailed_utc": "2026-08-14T21:59:23.520481+00:00"
   }
 ]
