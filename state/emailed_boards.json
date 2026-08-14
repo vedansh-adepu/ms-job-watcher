@@ -124538,5 +124538,57 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-14T01:32:41.110234+00:00",
     "emailed_utc": "2026-08-14T01:32:41.110234+00:00"
+  },
+  {
+    "job_id": "greenhouse:spacex:8702120002",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "SpaceX",
+    "title": "Environmental Engineer, Compliance/Air Programs ",
+    "location": "Bastrop, TX",
+    "posted": "2026-08-13T20:20:37-04:00",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8702120002?gh_jid=8702120002",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-14T02:03:02.824863+00:00",
+    "emailed_utc": "2026-08-14T02:03:02.824863+00:00"
+  },
+  {
+    "job_id": "greenhouse:spacex:8700149002",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "SpaceX",
+    "title": "Sr. Environmental Health & Safety Engineer (Raptor/Starship)",
+    "location": "Hawthorne, CA",
+    "posted": "2026-08-13T19:41:43-04:00",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8700149002?gh_jid=8700149002",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-14T02:03:02.824863+00:00",
+    "emailed_utc": "2026-08-14T02:03:02.824863+00:00"
+  },
+  {
+    "job_id": "smartrecruiters:ServiceNow:744000143409759",
+    "pipeline": "boards",
+    "platform": "smartrecruiters",
+    "company": "ServiceNow",
+    "title": "Principal Software Engineer - Multi-Cloud Control Plane - Kubernetes",
+    "location": "San Diego, California, us",
+    "posted": "2026-08-14T00:54:22.281Z",
+    "url": "https://jobs.smartrecruiters.com/ServiceNow",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-14T02:03:02.824863+00:00",
+    "emailed_utc": "2026-08-14T02:03:02.824863+00:00"
+  },
+  {
+    "job_id": "smartrecruiters:ServiceNow:744000143409629",
+    "pipeline": "boards",
+    "platform": "smartrecruiters",
+    "company": "ServiceNow",
+    "title": "Principal Software Engineer - Multi-Cloud - Control Plane - Kubernetes",
+    "location": "Santa Clara, California, us",
+    "posted": "2026-08-14T00:51:30.715Z",
+    "url": "https://jobs.smartrecruiters.com/ServiceNow",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-14T02:03:02.824863+00:00",
+    "emailed_utc": "2026-08-14T02:03:02.824863+00:00"
   }
 ]
