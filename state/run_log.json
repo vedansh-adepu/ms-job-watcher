@@ -40131,22 +40131,15 @@
     "cursor": null
   },
   {
-    "ts": "2026-08-14T13:32Z",
+    "ts": "2026-08-14T13:35Z",
     "mode": "boards",
     "per_source": {
-      "greenhouse": {
-        "fetched": 14931,
-        "title_ok": 2101,
-        "loc_ok": 796,
-        "new": 0,
-        "emailed": 0
-      },
-      "lever": {
-        "fetched": 45567,
-        "title_ok": 5850,
-        "loc_ok": 1873,
-        "new": 1,
-        "emailed": 1
+      "workday": {
+        "fetched": 9814,
+        "title_ok": 820,
+        "loc_ok": 61,
+        "new": 4,
+        "emailed": 4
       }
     },
     "duration_s": 64.0,

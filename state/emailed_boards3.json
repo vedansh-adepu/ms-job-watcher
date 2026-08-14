@@ -337127,5 +337127,57 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-14T13:02:58.850909+00:00",
     "emailed_utc": "2026-08-14T13:02:58.850909+00:00"
+  },
+  {
+    "job_id": "workday:campingworld:jobs:req:07740",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Campingworld",
+    "title": "AI Platform Engineer",
+    "location": "Lincolnshire, IL",
+    "posted": "Posted 3 Days Ago",
+    "url": "https://campingworld.wd5.myworkdayjobs.com/en-US/jobs/job/Lincolnshire-IL/AI-Platform-Engineer_26_07740-1",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-14T13:35:04.956748+00:00",
+    "emailed_utc": "2026-08-14T13:35:04.956748+00:00"
+  },
+  {
+    "job_id": "workday:campbellsoup:externalcareers_globalsite:req:Req-67274",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Campbellsoup",
+    "title": "Lead Engineer, Physical Security Technology & Modern Endpoint Platforms",
+    "location": "USA - NJ - Camden",
+    "posted": "Posted Yesterday",
+    "url": "https://campbellsoup.wd5.myworkdayjobs.com/en-US/externalcareers_globalsite/job/USA---NJ---Camden/Lead-Engineer--Physical-Security-Technology---Modern-Endpoint-Platforms_Req-67274",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-14T13:35:04.956748+00:00",
+    "emailed_utc": "2026-08-14T13:35:04.956748+00:00"
+  },
+  {
+    "job_id": "workday:campbellsoup:externalcareers_globalsite:req:Req-67272",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Campbellsoup",
+    "title": "Cloud Engineer",
+    "location": "USA - NJ - Camden",
+    "posted": "Posted 3 Days Ago",
+    "url": "https://campbellsoup.wd5.myworkdayjobs.com/en-US/externalcareers_globalsite/job/USA---NJ---Camden/Cloud-Engineer_Req-67272",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-14T13:35:04.956748+00:00",
+    "emailed_utc": "2026-08-14T13:35:04.956748+00:00"
+  },
+  {
+    "job_id": "workday:campingworld:jobs:req:07790",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Campingworld",
+    "title": "Senior Developer - Good Sam AI",
+    "location": "Lincolnshire, IL",
+    "posted": "Posted 2 Days Ago",
+    "url": "https://campingworld.wd5.myworkdayjobs.com/en-US/jobs/job/Lincolnshire-IL/Senior-Developer---Good-Sam-AI_26_07790-1",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-14T13:35:04.956748+00:00",
+    "emailed_utc": "2026-08-14T13:35:04.956748+00:00"
   }
 ]
