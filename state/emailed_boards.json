@@ -128360,5 +128360,83 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-14T19:32:55.653858+00:00",
     "emailed_utc": "2026-08-14T19:32:55.653858+00:00"
+  },
+  {
+    "job_id": "greenhouse:pinterest:8103612",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Pinterest",
+    "title": "Administrative Business Partner I - Core Engineering",
+    "location": "San Francisco, CA, US; Palo Alto, CA, US",
+    "posted": "2026-08-14T15:02:08-04:00",
+    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8103612",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-14T20:02:29.075164+00:00",
+    "emailed_utc": "2026-08-14T20:02:29.075164+00:00"
+  },
+  {
+    "job_id": "greenhouse:rdccareers:7855439003",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "rdccareers",
+    "title": "Software Eng, Sr Staff",
+    "location": "Austin, Texas, United States",
+    "posted": "2026-08-14T14:33:03-04:00",
+    "url": "https://boards.greenhouse.io/rdccareers/jobs/7855439003?gh_jid=7855439003",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-14T20:02:29.075164+00:00",
+    "emailed_utc": "2026-08-14T20:02:29.075164+00:00"
+  },
+  {
+    "job_id": "greenhouse:reddit:7964461",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Reddit",
+    "title": "Senior Software Engineer, Ads Creative Effectiveness",
+    "location": "Remote - United States",
+    "posted": "2026-08-14T15:40:39-04:00",
+    "url": "https://job-boards.greenhouse.io/reddit/jobs/7964461",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-14T20:02:29.075164+00:00",
+    "emailed_utc": "2026-08-14T20:02:29.075164+00:00"
+  },
+  {
+    "job_id": "workday:ngc:Northrop_Grumman_External_Site:req:R10245857",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Northrop Grumman",
+    "title": "Staff Engineer Electronics - RF Antenna Cosite (Melbourne FL)",
+    "location": "United States-Florida-Melbourne",
+    "posted": "Posted Today",
+    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Staff-Engineer-Electronics---RF-Antenna-Cosite--Melbourne-FL-_R10245857",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-14T20:02:29.075164+00:00",
+    "emailed_utc": "2026-08-14T20:02:29.075164+00:00"
+  },
+  {
+    "job_id": "workday:oshkoshcorporation:Oshkosh:req:R49202",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Oshkosh",
+    "title": "Weld Engineer",
+    "location": "Oshkosh, Wisconsin, United States",
+    "posted": "Posted Today",
+    "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Oshkosh-Wisconsin-United-States/Weld-Engineer_R49202",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-14T20:02:29.075164+00:00",
+    "emailed_utc": "2026-08-14T20:02:29.075164+00:00"
+  },
+  {
+    "job_id": "workday:oshkoshcorporation:Oshkosh:req:R49202",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Oshkosh",
+    "title": "Weld Engineer",
+    "location": "Oshkosh, Wisconsin, United States",
+    "posted": "Posted Today",
+    "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Oshkosh-Wisconsin-United-States/Weld-Engineer_R49202",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-14T20:02:29.075164+00:00",
+    "emailed_utc": "2026-08-14T20:02:29.075164+00:00"
   }
 ]
