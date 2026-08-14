@@ -14766,5 +14766,57 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-14T14:51:42.622679+00:00",
     "emailed_utc": "2026-08-14T14:51:42.622679+00:00"
+  },
+  {
+    "job_id": "nvidia:893397023894",
+    "pipeline": "main",
+    "platform": "nvidia",
+    "company": "NVIDIA",
+    "title": "Software Engineer, Infrastructure - DGX Cloud",
+    "location": "Santa Clara, CA, US",
+    "posted": "2026-08-14 00:00 UTC",
+    "url": "https://nvidia.eightfold.ai/careers/job/893397023894",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-14T15:51:33.554727+00:00",
+    "emailed_utc": "2026-08-14T15:51:33.554727+00:00"
+  },
+  {
+    "job_id": "nvidia:893397023893",
+    "pipeline": "main",
+    "platform": "nvidia",
+    "company": "NVIDIA",
+    "title": "Senior Software Engineer, Machine Learning Safety",
+    "location": "Santa Clara, CA, US",
+    "posted": "2026-08-14 00:00 UTC",
+    "url": "https://nvidia.eightfold.ai/careers/job/893397023893",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-14T15:51:33.554727+00:00",
+    "emailed_utc": "2026-08-14T15:51:33.554727+00:00"
+  },
+  {
+    "job_id": "nvidia:893397023899",
+    "pipeline": "main",
+    "platform": "nvidia",
+    "company": "NVIDIA",
+    "title": "Senior Agentic AI Software Engineer",
+    "location": "Santa Clara, CA, US",
+    "posted": "2026-08-14 00:00 UTC",
+    "url": "https://nvidia.eightfold.ai/careers/job/893397023899",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-14T15:51:33.554727+00:00",
+    "emailed_utc": "2026-08-14T15:51:33.554727+00:00"
+  },
+  {
+    "job_id": "nvidia:893397023917",
+    "pipeline": "main",
+    "platform": "nvidia",
+    "company": "NVIDIA",
+    "title": "Senior Software Engineer, Full-Stack",
+    "location": "Santa Clara, CA, US",
+    "posted": "2026-08-14 00:00 UTC",
+    "url": "https://nvidia.eightfold.ai/careers/job/893397023917",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-14T15:51:33.554727+00:00",
+    "emailed_utc": "2026-08-14T15:51:33.554727+00:00"
   }
 ]
