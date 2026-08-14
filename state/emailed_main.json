@@ -14740,5 +14740,31 @@
     "bucket": "yes",
     "first_seen_utc": "2026-08-14T14:41:43.443337+00:00",
     "emailed_utc": "2026-08-14T14:41:43.443337+00:00"
+  },
+  {
+    "job_id": "amazon:4cf8ea25-8b98-46e8-adb1-b0f058002984",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, Agentic AI",
+    "location": "US, NJ, Jersey City",
+    "posted": "August 14, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10502322/software-development-engineer-agentic-ai",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-14T14:51:42.622679+00:00",
+    "emailed_utc": "2026-08-14T14:51:42.622679+00:00"
+  },
+  {
+    "job_id": "amazon:7b1bec28-d5d3-4c98-80a4-bf70ce5258f6",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Manager, AgentCore Memory",
+    "location": "US, NJ, Jersey City",
+    "posted": "August 14, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10502321/software-development-manager-agentcore-memory",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-14T14:51:42.622679+00:00",
+    "emailed_utc": "2026-08-14T14:51:42.622679+00:00"
   }
 ]
