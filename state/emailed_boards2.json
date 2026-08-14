@@ -57224,5 +57224,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-14T01:31:50.627772+00:00",
     "emailed_utc": "2026-08-14T01:31:50.627772+00:00"
+  },
+  {
+    "job_id": "greenhouse:peregrinetechnologies:4724148005",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "peregrinetechnologies",
+    "title": "Senior Software Engineer, Platform",
+    "location": "Washington, DC",
+    "posted": "2026-08-13T21:48:21-04:00",
+    "url": "https://job-boards.greenhouse.io/peregrinetechnologies/jobs/4724148005",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-14T02:01:54.866574+00:00",
+    "emailed_utc": "2026-08-14T02:01:54.866574+00:00"
+  },
+  {
+    "job_id": "greenhouse:pointdigitalfinance:8706963002",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "pointdigitalfinance",
+    "title": "Lead SDET",
+    "location": "United States",
+    "posted": "2026-08-13T20:30:50-04:00",
+    "url": "https://point.com/hiring?gh_jid=8706963002",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-14T02:01:54.866574+00:00",
+    "emailed_utc": "2026-08-14T02:01:54.866574+00:00"
   }
 ]
