@@ -124590,5 +124590,44 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-14T02:03:02.824863+00:00",
     "emailed_utc": "2026-08-14T02:03:02.824863+00:00"
+  },
+  {
+    "job_id": "greenhouse:xpengmotors:8710019002",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "xpengmotors",
+    "title": "Senior Machine Learning Engineer - LLM Quantization & Deployment",
+    "location": "Santa Clara, CA",
+    "posted": "2026-08-13T19:50:44-04:00",
+    "url": "https://job-boards.greenhouse.io/xpengmotors/jobs/8710019002",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-14T02:32:33.902958+00:00",
+    "emailed_utc": "2026-08-14T02:32:33.902958+00:00"
+  },
+  {
+    "job_id": "greenhouse:xpengmotors:8710020002",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "xpengmotors",
+    "title": "Staff Machine Learning Engineer - LLM Quantization & Deployment",
+    "location": "Santa Clara, CA",
+    "posted": "2026-08-13T19:55:17-04:00",
+    "url": "https://job-boards.greenhouse.io/xpengmotors/jobs/8710020002",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-14T02:32:33.902958+00:00",
+    "emailed_utc": "2026-08-14T02:32:33.902958+00:00"
+  },
+  {
+    "job_id": "ashby:snowflake:b93dd7ef-bb2b-4cc5-aef6-19576a7157fb",
+    "pipeline": "boards",
+    "platform": "ashby",
+    "company": "Snowflake",
+    "title": "Solution Engineer, Enterprise Acquisition",
+    "location": "US-NY-New York",
+    "posted": "",
+    "url": "https://jobs.ashbyhq.com/snowflake/b93dd7ef-bb2b-4cc5-aef6-19576a7157fb",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-14T02:32:33.902958+00:00",
+    "emailed_utc": "2026-08-14T02:32:33.902958+00:00"
   }
 ]
