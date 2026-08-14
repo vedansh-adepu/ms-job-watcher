@@ -40163,43 +40163,16 @@
     "cursor": null
   },
   {
-    "ts": "2026-08-14T16:02Z",
+    "ts": "2026-08-14T16:04Z",
     "mode": "boards",
     "per_source": {
-      "greenhouse": {
-        "fetched": 1871,
-        "title_ok": 613,
-        "loc_ok": 322,
-        "new": 0,
-        "emailed": 0
-      },
-      "smartrecruiters": {
-        "fetched": 171,
-        "title_ok": 42,
-        "loc_ok": 38,
-        "new": 0,
-        "emailed": 0
-      },
-      "lever": {
-        "fetched": 567,
-        "title_ok": 243,
-        "loc_ok": 177,
-        "new": 1,
-        "emailed": 1
-      },
-      "ashby": {
-        "fetched": 4944,
-        "title_ok": 1737,
-        "loc_ok": 390,
-        "new": 0,
-        "emailed": 0
-      },
       "workday": {
-        "fetched": 2500,
-        "title_ok": 606,
-        "loc_ok": 210,
+        "fetched": 7622,
+        "title_ok": 656,
+        "loc_ok": 201,
         "new": 1,
-        "emailed": 21
+        "emailed": 20,
+        "errors": 1
       }
     },
     "duration_s": 78.5,
