@@ -125279,5 +125279,18 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-14T12:03:19.602337+00:00",
     "emailed_utc": "2026-08-14T12:03:19.602337+00:00"
+  },
+  {
+    "job_id": "workday:nvidia:NVIDIAExternalCareerSite:req:JR2023252",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "NVIDIA",
+    "title": "Software Engineer, Deep Learning Libraries - New College Graduate 2026",
+    "location": "US, CA, Santa Clara",
+    "posted": "Posted Today",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--Deep-Learning-Libraries---New-College-Graduate-2026_JR2023252",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-14T12:32:54.415915+00:00",
+    "emailed_utc": "2026-08-14T12:32:54.415915+00:00"
   }
 ]
