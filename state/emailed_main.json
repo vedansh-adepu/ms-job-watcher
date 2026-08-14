@@ -15117,5 +15117,18 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-14T22:01:45.222364+00:00",
     "emailed_utc": "2026-08-14T22:01:45.222364+00:00"
+  },
+  {
+    "job_id": "amazon:1deb40f4-f086-47b3-a4d9-4f3c1fe24d8d",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Applied Scientist, Amazon Customer Service",
+    "location": "US, CA, Santa Clara",
+    "posted": "August 14, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10502934/applied-scientist-amazon-customer-service",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-14T23:11:39.629213+00:00",
+    "emailed_utc": "2026-08-14T23:11:39.629213+00:00"
   }
 ]
