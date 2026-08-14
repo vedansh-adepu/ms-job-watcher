@@ -40114,36 +40114,16 @@
     "cursor": null
   },
   {
-    "ts": "2026-08-14T20:02Z",
+    "ts": "2026-08-14T20:10Z",
     "mode": "boards",
     "per_source": {
-      "greenhouse": {
-        "fetched": 5149,
-        "title_ok": 1610,
-        "loc_ok": 745,
-        "new": 3,
-        "emailed": 3
-      },
-      "lever": {
-        "fetched": 1020,
-        "title_ok": 226,
-        "loc_ok": 108,
-        "new": 0,
-        "emailed": 0
-      },
-      "smartrecruiters": {
-        "fetched": 729,
-        "title_ok": 156,
-        "loc_ok": 27,
-        "new": 0,
-        "emailed": 0
-      },
       "workday": {
-        "fetched": 7000,
-        "title_ok": 1909,
-        "loc_ok": 640,
-        "new": 2,
-        "emailed": 3
+        "fetched": 7527,
+        "title_ok": 416,
+        "loc_ok": 107,
+        "new": 6,
+        "emailed": 36,
+        "errors": 2
       }
     },
     "duration_s": 79.3,
