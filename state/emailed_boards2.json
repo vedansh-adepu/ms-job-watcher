@@ -57120,5 +57120,70 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-14T00:01:43.795237+00:00",
     "emailed_utc": "2026-08-14T00:01:43.795237+00:00"
+  },
+  {
+    "job_id": "greenhouse:waymo:8127006",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "waymo",
+    "title": "Perception Machine Learning Engineer - Continuous Learning",
+    "location": "Mountain View, CA, USA; San Francisco, CA, USA",
+    "posted": "2026-08-13T18:58:13-04:00",
+    "url": "https://careers.withwaymo.com/jobs?gh_jid=8127006",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-14T00:32:46.172165+00:00",
+    "emailed_utc": "2026-08-14T00:32:46.172165+00:00"
+  },
+  {
+    "job_id": "lever:espace:2c6f6a13-0133-4d6d-ae35-c6d2a848d618",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "espace",
+    "title": "Mission Systems Engineer",
+    "location": "Saratoga, CA",
+    "posted": "2026-08-13 23:44 UTC",
+    "url": "https://jobs.lever.co/espace/2c6f6a13-0133-4d6d-ae35-c6d2a848d618",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-14T00:32:46.172165+00:00",
+    "emailed_utc": "2026-08-14T00:32:46.172165+00:00"
+  },
+  {
+    "job_id": "lever:espace:2b9dad10-b491-470e-8949-71ebccabc986",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "espace",
+    "title": "Senior GNC Engineer",
+    "location": "Saratoga, CA",
+    "posted": "2026-08-13 23:37 UTC",
+    "url": "https://jobs.lever.co/espace/2b9dad10-b491-470e-8949-71ebccabc986",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-14T00:32:46.172165+00:00",
+    "emailed_utc": "2026-08-14T00:32:46.172165+00:00"
+  },
+  {
+    "job_id": "lever:intersect:fea82305-c6ad-423b-94ce-c327018de909",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "intersect",
+    "title": "Power Developer",
+    "location": "United States",
+    "posted": "2026-08-13 22:35 UTC",
+    "url": "https://jobs.lever.co/intersect/fea82305-c6ad-423b-94ce-c327018de909",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-14T00:32:46.172165+00:00",
+    "emailed_utc": "2026-08-14T00:32:46.172165+00:00"
+  },
+  {
+    "job_id": "lever:intersect:09bfba51-3b34-4ea1-adc6-0af8c58f740f",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "intersect",
+    "title": "SCADA Engineer - Control Room",
+    "location": "Austin, TX",
+    "posted": "2026-08-14 00:17 UTC",
+    "url": "https://jobs.lever.co/intersect/09bfba51-3b34-4ea1-adc6-0af8c58f740f",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-14T00:32:46.172165+00:00",
+    "emailed_utc": "2026-08-14T00:32:46.172165+00:00"
   }
 ]
