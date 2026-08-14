@@ -124785,5 +124785,18 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-14T04:02:47.619015+00:00",
     "emailed_utc": "2026-08-14T04:02:47.619015+00:00"
+  },
+  {
+    "job_id": "greenhouse:spacex:8710146002",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "SpaceX",
+    "title": "Full Stack Engineer (Application Software)",
+    "location": "Cape Canaveral, FL",
+    "posted": "2026-08-13T22:24:59-04:00",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8710146002?gh_jid=8710146002",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-14T04:33:08.768132+00:00",
+    "emailed_utc": "2026-08-14T04:33:08.768132+00:00"
   }
 ]
