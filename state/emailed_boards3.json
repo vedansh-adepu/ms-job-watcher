@@ -340013,5 +340013,44 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-14T16:39:49.544247+00:00",
     "emailed_utc": "2026-08-14T16:39:49.544247+00:00"
+  },
+  {
+    "job_id": "workday:cigna:cignacareers:req:26008884",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Cigna",
+    "title": "Senior Software Engineer (C#, .NET & Azure)",
+    "location": "Franklin, TN",
+    "posted": "Posted Yesterday",
+    "url": "https://cigna.wd5.myworkdayjobs.com/en-US/cignacareers/job/Franklin-TN/Senior-Software-Engineer--C---NET---Azure-_26008884",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-14T17:05:49.535595+00:00",
+    "emailed_utc": "2026-08-14T17:05:49.535595+00:00"
+  },
+  {
+    "job_id": "workday:cigna:cignacareers:req:26009522",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Cigna",
+    "title": "Technology Development Program (TECDP) - Infrastructure & Cloud Engineering Track",
+    "location": "Bloomfield, CT",
+    "posted": "Posted Yesterday",
+    "url": "https://cigna.wd5.myworkdayjobs.com/en-US/cignacareers/job/Bloomfield-CT/Technology-Development-Program--TECDP----Infrastructure---Cloud-Engineering-Track_26009522",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-14T17:05:49.535595+00:00",
+    "emailed_utc": "2026-08-14T17:05:49.535595+00:00"
+  },
+  {
+    "job_id": "workday:cigna:cignacareers:req:26007479",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Cigna",
+    "title": "Senior Medical Cost Analytics Advisor (Remote)",
+    "location": "United States Work at Home",
+    "posted": "Posted 2 Days Ago",
+    "url": "https://cigna.wd5.myworkdayjobs.com/en-US/cignacareers/job/United-States-Work-at-Home/Senior-Business-Analytics-Advisor--Payment-Integrity--Remote-_26007479",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-14T17:05:49.535595+00:00",
+    "emailed_utc": "2026-08-14T17:05:49.535595+00:00"
   }
 ]
