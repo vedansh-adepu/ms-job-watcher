@@ -14831,5 +14831,31 @@
     "bucket": "yes",
     "first_seen_utc": "2026-08-14T16:03:18.180023+00:00",
     "emailed_utc": "2026-08-14T16:03:18.180023+00:00"
+  },
+  {
+    "job_id": "amazon:b88941bd-cd67-4ef9-aba5-b663bd352610",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, STRADA",
+    "location": "US, MN, Minneapolis",
+    "posted": "August 14, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10502407/software-development-engineer-strada",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-14T16:11:36.008943+00:00",
+    "emailed_utc": "2026-08-14T16:11:36.008943+00:00"
+  },
+  {
+    "job_id": "amazon:331e4d6f-3d37-4e1b-8440-43e4bcaf2661",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Senior Software Development Engineer, Ads Campaign Management ",
+    "location": "US, NY, New York",
+    "posted": "August 14, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10502405/senior-software-development-engineer-ads-campaign-management",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-14T16:11:36.008943+00:00",
+    "emailed_utc": "2026-08-14T16:11:36.008943+00:00"
   }
 ]
