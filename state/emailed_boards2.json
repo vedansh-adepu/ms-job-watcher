@@ -58888,5 +58888,83 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-14T22:02:27.511130+00:00",
     "emailed_utc": "2026-08-14T22:02:27.511130+00:00"
+  },
+  {
+    "job_id": "greenhouse:trace3:8131230",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "trace3",
+    "title": "Software Engineer (26-362)",
+    "location": "Colorado Springs, CO",
+    "posted": "2026-08-14T17:58:26-04:00",
+    "url": "https://job-boards.greenhouse.io/trace3/jobs/8131230",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-14T22:32:11.824848+00:00",
+    "emailed_utc": "2026-08-14T22:32:11.824848+00:00"
+  },
+  {
+    "job_id": "lever:rgi:029be379-4f2a-430d-84ae-342620914f3b",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "rgi",
+    "title": "Platform Engineer",
+    "location": "Richardson, TX",
+    "posted": "2026-08-14 21:57 UTC",
+    "url": "https://jobs.lever.co/rgi/029be379-4f2a-430d-84ae-342620914f3b",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-14T22:32:11.824848+00:00",
+    "emailed_utc": "2026-08-14T22:32:11.824848+00:00"
+  },
+  {
+    "job_id": "greenhouse:tpgcareers:7798181003",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "tpgcareers",
+    "title": "Engineering, Cybersecurity, Application Security Engineer, Vice President",
+    "location": "Fort Worth, Texas, United States",
+    "posted": "2026-08-14T17:42:15-04:00",
+    "url": "https://job-boards.greenhouse.io/tpgcareers/jobs/7798181003",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-14T22:32:11.824848+00:00",
+    "emailed_utc": "2026-08-14T22:32:11.824848+00:00"
+  },
+  {
+    "job_id": "greenhouse:tpgcareers:7832913003",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "tpgcareers",
+    "title": "Engineering, Cybersecurity, Identity Governance and Administration (IGA), Principal",
+    "location": "Fort Worth, Texas, United States",
+    "posted": "2026-08-14T17:34:46-04:00",
+    "url": "https://job-boards.greenhouse.io/tpgcareers/jobs/7832913003",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-14T22:32:11.824848+00:00",
+    "emailed_utc": "2026-08-14T22:32:11.824848+00:00"
+  },
+  {
+    "job_id": "lever:rgi:1fd27230-4b9b-4803-ae64-6197696271cf",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "rgi",
+    "title": "Layer 7 Engineer",
+    "location": "Richardson, TX",
+    "posted": "2026-08-14 22:02 UTC",
+    "url": "https://jobs.lever.co/rgi/1fd27230-4b9b-4803-ae64-6197696271cf",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-14T22:32:11.824848+00:00",
+    "emailed_utc": "2026-08-14T22:32:11.824848+00:00"
+  },
+  {
+    "job_id": "lever:researchinnovations.com:901de5a8-33d5-4f08-96bc-9e0a7b990bd3",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "researchinnovations.com",
+    "title": "Senior Principal FPGA & Digital Signals Processing Engineer",
+    "location": "Alexandria, VA",
+    "posted": "2026-08-14 22:04 UTC",
+    "url": "https://jobs.lever.co/researchinnovations.com/901de5a8-33d5-4f08-96bc-9e0a7b990bd3",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-14T22:32:11.824848+00:00",
+    "emailed_utc": "2026-08-14T22:32:11.824848+00:00"
   }
 ]
