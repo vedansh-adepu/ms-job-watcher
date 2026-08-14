@@ -124369,5 +124369,70 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-14T00:01:31.480012+00:00",
     "emailed_utc": "2026-08-14T00:01:31.480012+00:00"
+  },
+  {
+    "job_id": "greenhouse:airbnb:8129371",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Airbnb",
+    "title": "Staff Machine Learning Engineer, Traffic Intelligence",
+    "location": "United States",
+    "posted": "2026-08-13T19:22:22-04:00",
+    "url": "https://careers.airbnb.com/positions/8129371?gh_jid=8129371",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-14T00:33:08.439671+00:00",
+    "emailed_utc": "2026-08-14T00:33:08.439671+00:00"
+  },
+  {
+    "job_id": "greenhouse:axon:7867043003",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Axon",
+    "title": "Senior Machine Learning Engineer",
+    "location": "Seattle, Washington, United States",
+    "posted": "2026-08-13T19:17:21-04:00",
+    "url": "https://job-boards.greenhouse.io/axon/jobs/7867043003",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-14T00:33:08.439671+00:00",
+    "emailed_utc": "2026-08-14T00:33:08.439671+00:00"
+  },
+  {
+    "job_id": "workday:bah:BAH_Jobs:req:R0246981",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Booz Allen Hamilton",
+    "title": "Detection Engineer",
+    "location": "Peterson AFB, CO",
+    "posted": "Posted Today",
+    "url": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Peterson-AFB-CO/Detection-Engineer_R0246981",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-14T00:33:08.439671+00:00",
+    "emailed_utc": "2026-08-14T00:33:08.439671+00:00"
+  },
+  {
+    "job_id": "workday:boeing:EXTERNAL_CAREERS:req:JR2026520866",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Boeing",
+    "title": "Experienced Systems Engineer",
+    "location": "USA - Hazelwood, MO",
+    "posted": "Posted Today",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Hazelwood-MO/Experienced-Systems-Engineer_JR2026520866",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-14T00:33:08.439671+00:00",
+    "emailed_utc": "2026-08-14T00:33:08.439671+00:00"
+  },
+  {
+    "job_id": "workday:boeing:EXTERNAL_CAREERS:req:JR2026522093",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Boeing",
+    "title": "Senior Spacecraft Command and Data Handling (C&DH)  Engineer - Millennium Space Systems",
+    "location": "USA - El Segundo, CA",
+    "posted": "Posted Today",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Senior-Spacecraft-Command-and-Data-Handling--C-DH---Engineer---Millennium-Space-Systems_JR2026522093-1",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-14T00:33:08.439671+00:00",
+    "emailed_utc": "2026-08-14T00:33:08.439671+00:00"
   }
 ]
