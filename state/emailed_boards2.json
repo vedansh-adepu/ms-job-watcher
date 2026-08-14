@@ -57679,5 +57679,44 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-14T15:02:17.665591+00:00",
     "emailed_utc": "2026-08-14T15:02:17.665591+00:00"
+  },
+  {
+    "job_id": "greenhouse:woolpert:4361415009",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "woolpert",
+    "title": "Senior Structural Engineer",
+    "location": "Chicago, IL",
+    "posted": "2026-08-14T10:13:11-04:00",
+    "url": "https://job-boards.greenhouse.io/woolpert/jobs/4361415009",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-14T15:32:53.983268+00:00",
+    "emailed_utc": "2026-08-14T15:32:53.983268+00:00"
+  },
+  {
+    "job_id": "lever:inductivehealth:a21e959e-c67e-45d7-ae58-4865b1f6a776",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "inductivehealth",
+    "title": "Software Engineering Lead - Data",
+    "location": "United States",
+    "posted": "2026-08-13 20:59 UTC",
+    "url": "https://jobs.lever.co/inductivehealth/a21e959e-c67e-45d7-ae58-4865b1f6a776",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-14T15:32:53.983268+00:00",
+    "emailed_utc": "2026-08-14T15:32:53.983268+00:00"
+  },
+  {
+    "job_id": "lever:mistplay:e097bc46-7211-4b95-9e83-cb6b2c467d2b",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "mistplay",
+    "title": "Staff Data Scientist I, Rewards Economy",
+    "location": "Los Angeles, CA",
+    "posted": "2026-01-14 13:09 UTC",
+    "url": "https://jobs.lever.co/mistplay/e097bc46-7211-4b95-9e83-cb6b2c467d2b",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-14T15:32:53.983268+00:00",
+    "emailed_utc": "2026-08-14T15:32:53.983268+00:00"
   }
 ]

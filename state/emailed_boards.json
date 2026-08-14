@@ -125708,5 +125708,18 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-14T15:02:39.555671+00:00",
     "emailed_utc": "2026-08-14T15:02:39.555671+00:00"
+  },
+  {
+    "job_id": "workday:target:targetcareers:req:R0000449204",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Target",
+    "title": "Lead Engineer - Network Operating System, Software  Developer",
+    "location": "7000 Target Pkwy N,NCD-0375 Brooklyn Park,MN 55445",
+    "posted": "Posted Today",
+    "url": "https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/7000-Target-Pkwy-NNCD-0375-Brooklyn-ParkMN-55445/Lead-Engineer---Network-Operating-System--Software--Developer_R0000449204",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-14T15:33:09.209933+00:00",
+    "emailed_utc": "2026-08-14T15:33:09.209933+00:00"
   }
 ]
