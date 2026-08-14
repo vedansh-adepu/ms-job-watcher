@@ -14974,5 +14974,31 @@
     "bucket": "yes",
     "first_seen_utc": "2026-08-14T18:11:39.362925+00:00",
     "emailed_utc": "2026-08-14T18:11:39.362925+00:00"
+  },
+  {
+    "job_id": "amazon:3669faab-6a6a-4007-bd78-81f29943aa8f",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer II, IMS Platform",
+    "location": "US, CA, Sunnyvale",
+    "posted": "August 14, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10502598/software-development-engineer-ii-ims-platform",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-14T18:21:35.822826+00:00",
+    "emailed_utc": "2026-08-14T18:21:35.822826+00:00"
+  },
+  {
+    "job_id": "ibm:2decdf7bf86c640b30045d966dd3b8e4114ecb1ab19f6615c28b1e9a7e7cccb1",
+    "pipeline": "main",
+    "platform": "ibm",
+    "company": "IBM",
+    "title": "Associate Data Engineer 2027 \u2013 AI & Analytics",
+    "location": "Hybrid",
+    "posted": "",
+    "url": "https://careers.ibm.com/careers/JobDetail?jobId=128804",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-14T18:21:35.822826+00:00",
+    "emailed_utc": "2026-08-14T18:21:35.822826+00:00"
   }
 ]
