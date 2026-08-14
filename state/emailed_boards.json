@@ -127021,5 +127021,57 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-14T18:02:59.328398+00:00",
     "emailed_utc": "2026-08-14T18:02:59.328398+00:00"
+  },
+  {
+    "job_id": "greenhouse:voyagertechnologiesinc:4364405009",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "voyagertechnologiesinc",
+    "title": "Procurement Engineer",
+    "location": "Pittsburgh, PA",
+    "posted": "2026-08-14T14:28:10-04:00",
+    "url": "https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4364405009",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-14T18:33:15.038254+00:00",
+    "emailed_utc": "2026-08-14T18:33:15.038254+00:00"
+  },
+  {
+    "job_id": "greenhouse:voyagertechnologiesinc:4362647009",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "voyagertechnologiesinc",
+    "title": "RF Communications Engineer",
+    "location": "Pittsburgh, PA",
+    "posted": "2026-08-14T14:29:46-04:00",
+    "url": "https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4362647009",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-14T18:33:15.038254+00:00",
+    "emailed_utc": "2026-08-14T18:33:15.038254+00:00"
+  },
+  {
+    "job_id": "lever:zoox:35437364-ebbe-4fab-abcf-895771b6e697",
+    "pipeline": "boards",
+    "platform": "lever",
+    "company": "zoox",
+    "title": "Senior Manager, Software Tools Development",
+    "location": "Foster City, CA",
+    "posted": "2026-07-27 20:33 UTC",
+    "url": "https://jobs.lever.co/zoox/35437364-ebbe-4fab-abcf-895771b6e697",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-14T18:33:15.038254+00:00",
+    "emailed_utc": "2026-08-14T18:33:15.038254+00:00"
+  },
+  {
+    "job_id": "ashby:snowflake:70fa0e09-f834-42e3-8e77-7133360b417a",
+    "pipeline": "boards",
+    "platform": "ashby",
+    "company": "Snowflake",
+    "title": "Director of Engineering, AI Enterprise",
+    "location": "US-CA-Menlo Park",
+    "posted": "",
+    "url": "https://jobs.ashbyhq.com/snowflake/70fa0e09-f834-42e3-8e77-7133360b417a",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-14T18:33:15.038254+00:00",
+    "emailed_utc": "2026-08-14T18:33:15.038254+00:00"
   }
 ]
