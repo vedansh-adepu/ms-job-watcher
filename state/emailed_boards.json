@@ -124629,5 +124629,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-14T02:32:33.902958+00:00",
     "emailed_utc": "2026-08-14T02:32:33.902958+00:00"
+  },
+  {
+    "job_id": "smartrecruiters:AristaNetworks:744000143409419",
+    "pipeline": "boards",
+    "platform": "smartrecruiters",
+    "company": "Arista Networks",
+    "title": "Electrical New Product Engineering (ENPIE)",
+    "location": "Santa Clara, CA, us",
+    "posted": "2026-08-14T00:47:53.998Z",
+    "url": "https://jobs.smartrecruiters.com/AristaNetworks",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-14T03:03:10.120493+00:00",
+    "emailed_utc": "2026-08-14T03:03:10.120493+00:00"
+  },
+  {
+    "job_id": "smartrecruiters:AristaNetworks:744000143408979",
+    "pipeline": "boards",
+    "platform": "smartrecruiters",
+    "company": "Arista Networks",
+    "title": "Senior Board Power Engineer",
+    "location": "Santa Clara, CA, us",
+    "posted": "2026-08-14T00:33:40.450Z",
+    "url": "https://jobs.smartrecruiters.com/AristaNetworks",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-14T03:03:10.120493+00:00",
+    "emailed_utc": "2026-08-14T03:03:10.120493+00:00"
   }
 ]
