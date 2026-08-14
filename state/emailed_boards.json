@@ -125331,5 +125331,44 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-14T13:32:15.604506+00:00",
     "emailed_utc": "2026-08-14T13:32:15.604506+00:00"
+  },
+  {
+    "job_id": "greenhouse:torcrobotics:8611479002",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Torcrobotics",
+    "title": "Software Engineer II - Fleet Enablement & Insights (Annotation Platform)",
+    "location": "Ann Arbor, MI, Fort Worth, TX, Blacksburg, VA",
+    "posted": "2026-08-14T09:23:32-04:00",
+    "url": "https://job-boards.greenhouse.io/torcrobotics/jobs/8611479002",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-14T13:39:02.033902+00:00",
+    "emailed_utc": "2026-08-14T13:39:02.033902+00:00"
+  },
+  {
+    "job_id": "ashby:langchain:47a3bc2a-2bed-4d61-b1de-b3d7ec211a08",
+    "pipeline": "boards",
+    "platform": "ashby",
+    "company": "LangChain",
+    "title": "Partner Engineer",
+    "location": "San Francisco, CA",
+    "posted": "",
+    "url": "https://jobs.ashbyhq.com/langchain/47a3bc2a-2bed-4d61-b1de-b3d7ec211a08",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-14T13:39:02.033902+00:00",
+    "emailed_utc": "2026-08-14T13:39:02.033902+00:00"
+  },
+  {
+    "job_id": "greenhouse:freedomconsulting:5212186007",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Freedomconsulting",
+    "title": "Cyber Security Project Engineer 755",
+    "location": "Herndon, VA",
+    "posted": "2026-08-14T08:43:02-04:00",
+    "url": "https://job-boards.greenhouse.io/freedomconsulting/jobs/5212186007",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-14T13:39:02.033902+00:00",
+    "emailed_utc": "2026-08-14T13:39:02.033902+00:00"
   }
 ]
