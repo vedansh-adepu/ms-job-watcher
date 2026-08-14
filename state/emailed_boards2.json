@@ -57861,5 +57861,57 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-14T16:33:41.102531+00:00",
     "emailed_utc": "2026-08-14T16:33:41.102531+00:00"
+  },
+  {
+    "job_id": "greenhouse:koalafi:6143343004",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "koalafi",
+    "title": "Financial Data Analyst",
+    "location": "Richmond, VA, Arlington, VA, Remote",
+    "posted": "2026-08-14T11:25:23-04:00",
+    "url": "https://boards.greenhouse.io/koalafi/jobs/6143343004?gh_jid=6143343004",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-14T17:02:45.723568+00:00",
+    "emailed_utc": "2026-08-14T17:02:45.723568+00:00"
+  },
+  {
+    "job_id": "greenhouse:ispottv:4724319005",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "ispottv",
+    "title": "Sr. Software Development Engineer ",
+    "location": "Bellevue, WA",
+    "posted": "2026-08-14T12:34:42-04:00",
+    "url": "https://job-boards.greenhouse.io/ispottv/jobs/4724319005",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-14T17:02:45.723568+00:00",
+    "emailed_utc": "2026-08-14T17:02:45.723568+00:00"
+  },
+  {
+    "job_id": "greenhouse:loenbro:4370495009",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "loenbro",
+    "title": "Project Controls Engineer ",
+    "location": "Cedar Rapids, Iowa, United States",
+    "posted": "2026-08-14T12:11:12-04:00",
+    "url": "https://job-boards.greenhouse.io/loenbro/jobs/4370495009",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-14T17:02:45.723568+00:00",
+    "emailed_utc": "2026-08-14T17:02:45.723568+00:00"
+  },
+  {
+    "job_id": "greenhouse:mavenrobotics:5105558008",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "mavenrobotics",
+    "title": "Robot Field Engineer",
+    "location": "Stockton, CA",
+    "posted": "2026-08-14T12:39:21-04:00",
+    "url": "https://boards.greenhouse.io/mavenrobotics/jobs/5105558008?gh_jid=5105558008",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-14T17:02:45.723568+00:00",
+    "emailed_utc": "2026-08-14T17:02:45.723568+00:00"
   }
 ]
