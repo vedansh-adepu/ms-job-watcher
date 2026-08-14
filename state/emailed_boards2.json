@@ -58966,5 +58966,57 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-14T22:32:11.824848+00:00",
     "emailed_utc": "2026-08-14T22:32:11.824848+00:00"
+  },
+  {
+    "job_id": "greenhouse:codepath:5212924007",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "codepath",
+    "title": "Staff Software Engineer",
+    "location": "Remote, United States, Canada",
+    "posted": "2026-08-14T19:19:47-04:00",
+    "url": "https://job-boards.greenhouse.io/codepath/jobs/5212924007",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-14T23:31:44.543940+00:00",
+    "emailed_utc": "2026-08-14T23:31:44.543940+00:00"
+  },
+  {
+    "job_id": "greenhouse:esri:5209826007",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "esri",
+    "title": "Sr. Product Engineer\u2013 ArcGIS SDK Documentation",
+    "location": "Redlands, CA",
+    "posted": "2026-08-14T18:00:22-04:00",
+    "url": "https://www.esri.com/careers/5209826007?gh_jid=5209826007",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-14T23:31:44.543940+00:00",
+    "emailed_utc": "2026-08-14T23:31:44.543940+00:00"
+  },
+  {
+    "job_id": "greenhouse:esri:5209835007",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "esri",
+    "title": "Sr. Product Engineer\u2013 ArcGIS SDK Documentation",
+    "location": "Remote Eligible, US",
+    "posted": "2026-08-14T18:00:21-04:00",
+    "url": "https://www.esri.com/careers/5209835007?gh_jid=5209835007",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-14T23:31:44.543940+00:00",
+    "emailed_utc": "2026-08-14T23:31:44.543940+00:00"
+  },
+  {
+    "job_id": "greenhouse:fender:8131241",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "fender",
+    "title": "Electrical Engineer II, Mixed-Signal",
+    "location": "Phoenix, AZ",
+    "posted": "2026-08-14T18:04:51-04:00",
+    "url": "https://boards.greenhouse.io/fender/jobs/8131241?gh_jid=8131241",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-14T23:31:44.543940+00:00",
+    "emailed_utc": "2026-08-14T23:31:44.543940+00:00"
   }
 ]
