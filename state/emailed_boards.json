@@ -124655,5 +124655,57 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-14T03:03:10.120493+00:00",
     "emailed_utc": "2026-08-14T03:03:10.120493+00:00"
+  },
+  {
+    "job_id": "greenhouse:gleanwork:4723663005",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Glean",
+    "title": "Senior Data Scientist, Growth",
+    "location": "San Francisco, CA",
+    "posted": "2026-08-13T21:48:17-04:00",
+    "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4723663005",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-14T03:33:12.819516+00:00",
+    "emailed_utc": "2026-08-14T03:33:12.819516+00:00"
+  },
+  {
+    "job_id": "greenhouse:gleanwork:4723427005",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Glean",
+    "title": "Senior Data Scientist, Growth",
+    "location": "Mountain View, CA",
+    "posted": "2026-08-13T21:48:02-04:00",
+    "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4723427005",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-14T03:33:12.819516+00:00",
+    "emailed_utc": "2026-08-14T03:33:12.819516+00:00"
+  },
+  {
+    "job_id": "workday:intel:External:req:JR0286426",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Intel",
+    "title": "SoC Design Verification Engineer",
+    "location": "US, California, Santa Clara",
+    "posted": "Posted Today",
+    "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Santa-Clara/SoC-Design-Verification-Engineer_JR0286426",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-14T03:33:12.819516+00:00",
+    "emailed_utc": "2026-08-14T03:33:12.819516+00:00"
+  },
+  {
+    "job_id": "workday:intel:External:req:JR0286099",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Intel",
+    "title": "CPU Circuit Memory Design Engineer",
+    "location": "US, Texas, Austin",
+    "posted": "Posted Today",
+    "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Texas-Austin/CPU-Circuit-Memory-Design-Engineer_JR0286099",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-14T03:33:12.819516+00:00",
+    "emailed_utc": "2026-08-14T03:33:12.819516+00:00"
   }
 ]
