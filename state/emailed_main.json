@@ -14935,5 +14935,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-14T17:01:39.150960+00:00",
     "emailed_utc": "2026-08-14T17:01:39.150960+00:00"
+  },
+  {
+    "job_id": "amazon:e730f156-60aa-4859-9332-bbedae7c197a",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Dev Engineer, Shield",
+    "location": "US, WA, Seattle",
+    "posted": "August 14, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10502515/software-dev-engineer-shield",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-14T17:31:45.987805+00:00",
+    "emailed_utc": "2026-08-14T17:31:45.987805+00:00"
+  },
+  {
+    "job_id": "ibm:531f10ef5b52a0c9bdc35d190f99da7dfc2de4676c6829cc3bb251496866ea2b",
+    "pipeline": "main",
+    "platform": "ibm",
+    "company": "IBM",
+    "title": "Associate Developer \u2013 Adobe 2027",
+    "location": "United States",
+    "posted": "",
+    "url": "https://careers.ibm.com/careers/JobDetail?jobId=128778",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-14T17:31:45.987805+00:00",
+    "emailed_utc": "2026-08-14T17:31:45.987805+00:00"
   }
 ]
