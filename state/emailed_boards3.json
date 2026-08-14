@@ -325687,5 +325687,57 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-14T05:22:46.028671+00:00",
     "emailed_utc": "2026-08-14T05:22:46.028671+00:00"
+  },
+  {
+    "job_id": "workday:atriumhospitality:atriumhospitality:req:R49589",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Atriumhospitality",
+    "title": "Chief Maintenance Engineer",
+    "location": "Tulsa, OK",
+    "posted": "Posted 3 Days Ago",
+    "url": "https://atriumhospitality.wd5.myworkdayjobs.com/en-US/atriumhospitality/job/Tulsa-OK/Chief-Maintenance-Engineer_R49589",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-14T05:33:31.065475+00:00",
+    "emailed_utc": "2026-08-14T05:33:31.065475+00:00"
+  },
+  {
+    "job_id": "workday:att:attgeneral:req:R-113476",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Att",
+    "title": "Senior Software Engineering - AI & Enterprise Systems",
+    "location": "USA:TX:Plano / W Plano Pkwy - Adm & Dat:2900 W Plano Pkwy",
+    "posted": "Posted Yesterday",
+    "url": "https://att.wd1.myworkdayjobs.com/en-US/attgeneral/job/USATXPlano--W-Plano-Pkwy---Adm--Dat2900-W-Plano-Pkwy/Senior-Software-Engineering---AI---Enterprise-Systems_R-113476",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-14T05:33:31.065475+00:00",
+    "emailed_utc": "2026-08-14T05:33:31.065475+00:00"
+  },
+  {
+    "job_id": "workday:att:attgeneral:req:R-118822",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Att",
+    "title": "Senior Telecom Engineer (Government)",
+    "location": "Washington, District of Columbia",
+    "posted": "Posted 3 Days Ago",
+    "url": "https://att.wd1.myworkdayjobs.com/en-US/attgeneral/job/Washington-District-of-Columbia/Senior-Telecom-Engineer--Government-_R-118822-1",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-14T05:33:31.065475+00:00",
+    "emailed_utc": "2026-08-14T05:33:31.065475+00:00"
+  },
+  {
+    "job_id": "workday:att:attgeneral:req:R-118819",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Att",
+    "title": "Senior Telecom Engineer (Government)",
+    "location": "Washington, District of Columbia",
+    "posted": "Posted 3 Days Ago",
+    "url": "https://att.wd1.myworkdayjobs.com/en-US/attgeneral/job/Washington-District-of-Columbia/Senior-Telecom-Engineer--Government-_R-118819-1",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-14T05:33:31.065475+00:00",
+    "emailed_utc": "2026-08-14T05:33:31.065475+00:00"
   }
 ]
