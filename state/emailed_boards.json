@@ -127073,5 +127073,83 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-14T18:33:15.038254+00:00",
     "emailed_utc": "2026-08-14T18:33:15.038254+00:00"
+  },
+  {
+    "job_id": "ashby:langchain:bdc96ffd-2a95-4d63-bf8f-193574961e00",
+    "pipeline": "boards",
+    "platform": "ashby",
+    "company": "LangChain",
+    "title": "Research Engineer, LangSmith Engine",
+    "location": "New York, NY",
+    "posted": "",
+    "url": "https://jobs.ashbyhq.com/langchain/bdc96ffd-2a95-4d63-bf8f-193574961e00",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-14T19:01:55.457729+00:00",
+    "emailed_utc": "2026-08-14T19:01:55.457729+00:00"
+  },
+  {
+    "job_id": "lever:weride:5cde0d09-ba2d-408d-947e-4a42028cd4f7",
+    "pipeline": "boards",
+    "platform": "lever",
+    "company": "Weride",
+    "title": "New Grads 2027 - Software Engineer - Perception/Computer Vision",
+    "location": "San Jose, CA",
+    "posted": "2026-08-10 20:42 UTC",
+    "url": "https://jobs.lever.co/weride/5cde0d09-ba2d-408d-947e-4a42028cd4f7",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-14T19:01:55.457729+00:00",
+    "emailed_utc": "2026-08-14T19:01:55.457729+00:00"
+  },
+  {
+    "job_id": "lever:weride:5a7cbc83-2381-482e-9d6d-e9c9d59ad63b",
+    "pipeline": "boards",
+    "platform": "lever",
+    "company": "Weride",
+    "title": "New Grads 2027 - Software Engineer, Algorithm",
+    "location": "San Jose, CA",
+    "posted": "2026-08-10 20:44 UTC",
+    "url": "https://jobs.lever.co/weride/5a7cbc83-2381-482e-9d6d-e9c9d59ad63b",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-14T19:01:55.457729+00:00",
+    "emailed_utc": "2026-08-14T19:01:55.457729+00:00"
+  },
+  {
+    "job_id": "ashby:formenergy:f95db00a-3180-4508-a16d-bfa262d9759f",
+    "pipeline": "boards",
+    "platform": "ashby",
+    "company": "Form Energy",
+    "title": "MES Engineer",
+    "location": "Weirton, WV",
+    "posted": "",
+    "url": "https://jobs.ashbyhq.com/formenergy/f95db00a-3180-4508-a16d-bfa262d9759f",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-14T19:01:55.457729+00:00",
+    "emailed_utc": "2026-08-14T19:01:55.457729+00:00"
+  },
+  {
+    "job_id": "greenhouse:attentive:4369486009",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Attentive",
+    "title": "Staff Software Engineer, User Profile",
+    "location": "United States",
+    "posted": "2026-08-14T14:14:11-04:00",
+    "url": "https://job-boards.greenhouse.io/attentive/jobs/4369486009",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-14T19:01:55.457729+00:00",
+    "emailed_utc": "2026-08-14T19:01:55.457729+00:00"
+  },
+  {
+    "job_id": "lever:field-ai:bb127cde-930c-446f-908d-52e2c6f24cc9",
+    "pipeline": "boards",
+    "platform": "lever",
+    "company": "Field Ai",
+    "title": "Perception Engineer \u2014 3D Representation & Navigation",
+    "location": "Irvine, CA",
+    "posted": "2026-08-14 17:55 UTC",
+    "url": "https://jobs.lever.co/field-ai/bb127cde-930c-446f-908d-52e2c6f24cc9",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-14T19:01:55.457729+00:00",
+    "emailed_utc": "2026-08-14T19:01:55.457729+00:00"
   }
 ]
