@@ -14857,5 +14857,57 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-14T16:11:36.008943+00:00",
     "emailed_utc": "2026-08-14T16:11:36.008943+00:00"
+  },
+  {
+    "job_id": "amazon:194f79bd-02c1-4ede-a1e1-5d418c57cc66",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, STRADA",
+    "location": "US, MN, Minneapolis",
+    "posted": "August 14, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10502434/software-development-engineer-strada",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-14T16:21:53.976105+00:00",
+    "emailed_utc": "2026-08-14T16:21:53.976105+00:00"
+  },
+  {
+    "job_id": "amazon:20ceb2db-c53b-4c21-80a4-973853e237f4",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Sr. Manager Software Development, Enterprise Security Products",
+    "location": "US, TX, Austin",
+    "posted": "August 14, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10502431/sr-manager-software-development-enterprise-security-products",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-14T16:21:53.976105+00:00",
+    "emailed_utc": "2026-08-14T16:21:53.976105+00:00"
+  },
+  {
+    "job_id": "amazon:1a9d202d-3a8d-4e8c-b9cb-ed645fe5fd7b",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Sr. Embedded Software Engineer, Leo Autopilot",
+    "location": "US, WA, Redmond",
+    "posted": "August 14, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10502421/sr-embedded-software-engineer-leo-autopilot",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-14T16:21:53.976105+00:00",
+    "emailed_utc": "2026-08-14T16:21:53.976105+00:00"
+  },
+  {
+    "job_id": "amazon:f882e98d-2765-4c6e-a150-c87ec12765b8",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Dev Engineer  - Leo Autopilot, Leo Autopilot",
+    "location": "US, WA, Redmond",
+    "posted": "August 14, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10502427/software-dev-engineer-leo-autopilot-leo-autopilot",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-14T16:21:53.976105+00:00",
+    "emailed_utc": "2026-08-14T16:21:53.976105+00:00"
   }
 ]
