@@ -125370,5 +125370,83 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-14T13:39:02.033902+00:00",
     "emailed_utc": "2026-08-14T13:39:02.033902+00:00"
+  },
+  {
+    "job_id": "greenhouse:affirm:7822286003",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Affirm",
+    "title": "Senior Manager, Quantitative Analytics",
+    "location": "Remote US",
+    "posted": "2026-08-14T09:34:33-04:00",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7822286003",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-14T14:03:05.584099+00:00",
+    "emailed_utc": "2026-08-14T14:03:05.584099+00:00"
+  },
+  {
+    "job_id": "greenhouse:apptronik:6144117004",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "apptronik",
+    "title": "Senior Electrical Engineer - Aggregator",
+    "location": "Austin, TX",
+    "posted": "2026-08-14T09:21:44-04:00",
+    "url": "https://boards.greenhouse.io/apptronik/jobs/6144117004?gh_jid=6144117004",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-14T14:03:05.584099+00:00",
+    "emailed_utc": "2026-08-14T14:03:05.584099+00:00"
+  },
+  {
+    "job_id": "greenhouse:apptronik:6144140004",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "apptronik",
+    "title": "Staff Electrical Engineer - Aggregator",
+    "location": "Austin, TX",
+    "posted": "2026-08-14T09:25:12-04:00",
+    "url": "https://boards.greenhouse.io/apptronik/jobs/6144140004?gh_jid=6144140004",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-14T14:03:05.584099+00:00",
+    "emailed_utc": "2026-08-14T14:03:05.584099+00:00"
+  },
+  {
+    "job_id": "greenhouse:andurilindustries:5208269007",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "andurilindustries",
+    "title": "Systems Engineer, Space",
+    "location": "Chantilly, Virginia, United States; Herndon, Virginia, United States",
+    "posted": "2026-08-14T09:52:43-04:00",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5208269007?gh_jid=5208269007",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-14T14:03:05.584099+00:00",
+    "emailed_utc": "2026-08-14T14:03:05.584099+00:00"
+  },
+  {
+    "job_id": "workday:bah:BAH_Jobs:req:R0246893",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Booz Allen Hamilton",
+    "title": "Appian Developer, Senior",
+    "location": "Maxwell AFB, AL",
+    "posted": "Posted Today",
+    "url": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Maxwell-AFB-AL/Appian-Developer--Senior_R0246893",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-14T14:03:05.584099+00:00",
+    "emailed_utc": "2026-08-14T14:03:05.584099+00:00"
+  },
+  {
+    "job_id": "workday:capitalone:Capital_One:req:R248912",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Capital One",
+    "title": "Lead Software Engineer, Full Stack (Bank Tech)",
+    "location": "McLean, VA",
+    "posted": "Posted Today",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Lead-Software-Engineer--Full-Stack--Bank-Tech-_R248912-1",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-14T14:03:05.584099+00:00",
+    "emailed_utc": "2026-08-14T14:03:05.584099+00:00"
   }
 ]
