@@ -57510,5 +57510,70 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-14T13:32:38.518240+00:00",
     "emailed_utc": "2026-08-14T13:32:38.518240+00:00"
+  },
+  {
+    "job_id": "greenhouse:coreone:8706859002",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "coreone",
+    "title": "Data Scientist",
+    "location": "Sterling, VA",
+    "posted": "2026-08-14T08:37:30-04:00",
+    "url": "https://job-boards.greenhouse.io/coreone/jobs/8706859002",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-14T14:32:18.697728+00:00",
+    "emailed_utc": "2026-08-14T14:32:18.697728+00:00"
+  },
+  {
+    "job_id": "greenhouse:aippublishing:6144177004",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "aippublishing",
+    "title": "Cloud Infrastructure Engineer",
+    "location": "Remote - NY, NJ, CT, MD, VA, PA, MA, RI or Washington, DC",
+    "posted": "2026-08-14T10:23:52-04:00",
+    "url": "https://job-boards.greenhouse.io/aippublishing/jobs/6144177004",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-14T14:32:18.697728+00:00",
+    "emailed_utc": "2026-08-14T14:32:18.697728+00:00"
+  },
+  {
+    "job_id": "greenhouse:dragos:5383386008",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "dragos",
+    "title": "Director, Engineering",
+    "location": "United States",
+    "posted": "2026-08-14T09:15:04-04:00",
+    "url": "https://job-boards.greenhouse.io/dragos/jobs/5383386008",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-14T14:32:18.697728+00:00",
+    "emailed_utc": "2026-08-14T14:32:18.697728+00:00"
+  },
+  {
+    "job_id": "greenhouse:elevatebio:6143531004",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "elevatebio",
+    "title": "Associate I, QC Analytics (Contract, Multiple Positions)",
+    "location": "Waltham, Massachusetts, United States",
+    "posted": "2026-08-14T08:41:50-04:00",
+    "url": "https://elevate.bio/about/jobs/6143531004?gh_jid=6143531004",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-14T14:32:18.697728+00:00",
+    "emailed_utc": "2026-08-14T14:32:18.697728+00:00"
+  },
+  {
+    "job_id": "greenhouse:groma:4009059005",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "groma",
+    "title": "Staff/Principal Full Stack Blockchain Engineer",
+    "location": "Boston, MA",
+    "posted": "2026-08-14T10:15:20-04:00",
+    "url": "https://job-boards.greenhouse.io/groma/jobs/4009059005",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-14T14:32:18.697728+00:00",
+    "emailed_utc": "2026-08-14T14:32:18.697728+00:00"
   }
 ]
