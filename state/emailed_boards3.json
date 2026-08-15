@@ -360384,5 +360384,44 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-15T10:11:29.499029+00:00",
     "emailed_utc": "2026-08-15T10:11:29.499029+00:00"
+  },
+  {
+    "job_id": "workday:ferrovial:ferrovial_career_site:req:JR18758",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Ferrovial",
+    "title": "Data Analytics Manager",
+    "location": "Austin, TX",
+    "posted": "Posted Yesterday",
+    "url": "https://ferrovial.wd3.myworkdayjobs.com/en-US/ferrovial_career_site/job/Austin-TX/Data-Analytics-Manager_JR18758-1",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-15T11:12:08.428265+00:00",
+    "emailed_utc": "2026-08-15T11:12:08.428265+00:00"
+  },
+  {
+    "job_id": "workday:ferrovial:ferrovial_career_site:req:JR16474",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Ferrovial",
+    "title": "Webber - Field Engineer - Heavy Civil",
+    "location": "Pensacola, FL",
+    "posted": "Posted Yesterday",
+    "url": "https://ferrovial.wd3.myworkdayjobs.com/en-US/ferrovial_career_site/job/Pensacola-FL/Webber---Field-Engineer---Heavy-Civil_JR16474",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-15T11:12:08.428265+00:00",
+    "emailed_utc": "2026-08-15T11:12:08.428265+00:00"
+  },
+  {
+    "job_id": "workday:ferrovial:ferrovial_career_site:req:JR18725",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Ferrovial",
+    "title": "Webber - Field Engineer - Heavy Civil",
+    "location": "Sebastian, FL",
+    "posted": "Posted 2 Days Ago",
+    "url": "https://ferrovial.wd3.myworkdayjobs.com/en-US/ferrovial_career_site/job/Sebastian-FL/Webber---Field-Engineer---Heavy-Civil_JR18725",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-15T11:12:08.428265+00:00",
+    "emailed_utc": "2026-08-15T11:12:08.428265+00:00"
   }
 ]
