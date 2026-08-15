@@ -40031,15 +40031,15 @@
     "cursor": 6000
   },
   {
-    "ts": "2026-08-15T16:01Z",
+    "ts": "2026-08-15T16:05Z",
     "mode": "boards",
     "per_source": {
-      "lever": {
-        "fetched": 9513,
-        "title_ok": 756,
-        "loc_ok": 182,
-        "new": 0,
-        "emailed": 0
+      "workday": {
+        "fetched": 7666,
+        "title_ok": 1476,
+        "loc_ok": 777,
+        "new": 20,
+        "emailed": 20
       }
     },
     "duration_s": 9.2,
