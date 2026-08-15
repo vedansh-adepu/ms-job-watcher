@@ -130089,5 +130089,44 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-15T02:31:36.453092+00:00",
     "emailed_utc": "2026-08-15T02:31:36.453092+00:00"
+  },
+  {
+    "job_id": "greenhouse:anthropic:5391782008",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Anthropic",
+    "title": "Manager, Corporate Network Engineering",
+    "location": "San Francisco, CA",
+    "posted": "2026-08-14T20:32:15-04:00",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5391782008",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-15T03:02:58.887714+00:00",
+    "emailed_utc": "2026-08-15T03:02:58.887714+00:00"
+  },
+  {
+    "job_id": "workday:abbott:abbottcareers:req:31159125",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Abbott",
+    "title": "Senior Principal Electrical Engineer",
+    "location": "United States - New Jersey - Princeton",
+    "posted": "Posted Today",
+    "url": "https://abbott.wd5.myworkdayjobs.com/en-US/abbottcareers/job/United-States---New-Jersey---Princeton/Senior-Principal-Engineer--Electrical-_31159125",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-15T03:02:58.887714+00:00",
+    "emailed_utc": "2026-08-15T03:02:58.887714+00:00"
+  },
+  {
+    "job_id": "lever:cscgeneration-2:bd47a148-9869-43d5-be5f-bc9d3e31cb7f",
+    "pipeline": "boards",
+    "platform": "lever",
+    "company": "CSC Generation",
+    "title": "Senior Machine Learning Engineer, Causal & Decision Systems",
+    "location": "Austin, TX",
+    "posted": "2026-08-15 01:51 UTC",
+    "url": "https://jobs.lever.co/cscgeneration-2/bd47a148-9869-43d5-be5f-bc9d3e31cb7f",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-15T03:02:58.887714+00:00",
+    "emailed_utc": "2026-08-15T03:02:58.887714+00:00"
   }
 ]
