@@ -363413,5 +363413,70 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-15T16:10:01.163200+00:00",
     "emailed_utc": "2026-08-15T16:10:01.163200+00:00"
+  },
+  {
+    "job_id": "workday:gevernova:only_confidential_executive_recruiting:req:R5048327",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Gevernova",
+    "title": "Field Engineer",
+    "location": "Charleroi USA",
+    "posted": "Posted Yesterday",
+    "url": "https://gevernova.wd5.myworkdayjobs.com/en-US/only_confidential_executive_recruiting/job/Charleroi-USA/Field-Engineer_R5048327-1",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-15T16:38:36.451771+00:00",
+    "emailed_utc": "2026-08-15T16:38:36.451771+00:00"
+  },
+  {
+    "job_id": "workday:gevernova:only_confidential_executive_recruiting:req:R5050100",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Gevernova",
+    "title": "Engineering Technical Learning Leader",
+    "location": "Wilmington NC USA",
+    "posted": "Posted 2 Days Ago",
+    "url": "https://gevernova.wd5.myworkdayjobs.com/en-US/only_confidential_executive_recruiting/job/Wilmington-NC-USA/Engineering-Technical-Learning-Leader_R5050100",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-15T16:38:36.451771+00:00",
+    "emailed_utc": "2026-08-15T16:38:36.451771+00:00"
+  },
+  {
+    "job_id": "workday:genpt:careers:req:0000025991",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Genpt",
+    "title": "Autotech Training Content Developer",
+    "location": "USA, OH - Remote",
+    "posted": "Posted Yesterday",
+    "url": "https://genpt.wd1.myworkdayjobs.com/en-US/careers/job/USA-OH---Remote/Autotech-Training-Content-Developer_R26_0000025991",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-15T16:38:36.451771+00:00",
+    "emailed_utc": "2026-08-15T16:38:36.451771+00:00"
+  },
+  {
+    "job_id": "workday:gevernova:vernova_externalsite:req:R5048327",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Gevernova",
+    "title": "Field Engineer",
+    "location": "Charleroi USA",
+    "posted": "Posted Yesterday",
+    "url": "https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Charleroi-USA/Field-Engineer_R5048327-2",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-15T16:38:36.451771+00:00",
+    "emailed_utc": "2026-08-15T16:38:36.451771+00:00"
+  },
+  {
+    "job_id": "workday:gevernova:vernova_externalsite:req:R5050100",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Gevernova",
+    "title": "Engineering Technical Learning Leader",
+    "location": "Wilmington NC USA",
+    "posted": "Posted 2 Days Ago",
+    "url": "https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Wilmington-NC-USA/Engineering-Technical-Learning-Leader_R5050100-1",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-15T16:38:36.451771+00:00",
+    "emailed_utc": "2026-08-15T16:38:36.451771+00:00"
   }
 ]
