@@ -59018,5 +59018,70 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-14T23:31:44.543940+00:00",
     "emailed_utc": "2026-08-14T23:31:44.543940+00:00"
+  },
+  {
+    "job_id": "greenhouse:lpc:5212949007",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "lpc",
+    "title": "Building Engineer",
+    "location": "Atlanta, GA",
+    "posted": "2026-08-14T18:35:36-04:00",
+    "url": "https://job-boards.greenhouse.io/lpc/jobs/5212949007",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-15T00:02:01.903161+00:00",
+    "emailed_utc": "2026-08-15T00:02:01.903161+00:00"
+  },
+  {
+    "job_id": "greenhouse:lpc:5212970007",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "lpc",
+    "title": "Building Engineer ",
+    "location": "Las Vegas, NV",
+    "posted": "2026-08-14T18:56:42-04:00",
+    "url": "https://job-boards.greenhouse.io/lpc/jobs/5212970007",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-15T00:02:01.903161+00:00",
+    "emailed_utc": "2026-08-15T00:02:01.903161+00:00"
+  },
+  {
+    "job_id": "greenhouse:rebuildmanufacturing:4724541005",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "rebuildmanufacturing",
+    "title": "Senior Mechanical Engineer",
+    "location": "Rochester, NY",
+    "posted": "2026-08-14T18:32:24-04:00",
+    "url": "https://job-boards.greenhouse.io/rebuildmanufacturing/jobs/4724541005",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-15T00:02:01.903161+00:00",
+    "emailed_utc": "2026-08-15T00:02:01.903161+00:00"
+  },
+  {
+    "job_id": "greenhouse:redapt:5392094008",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "redapt",
+    "title": "Senior Database Engineer",
+    "location": "Las Vegas, Nevada, United States; Seattle, Washington, United States; US - Remote",
+    "posted": "2026-08-14T18:18:13-04:00",
+    "url": "https://job-boards.greenhouse.io/redapt/jobs/5392094008",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-15T00:02:01.903161+00:00",
+    "emailed_utc": "2026-08-15T00:02:01.903161+00:00"
+  },
+  {
+    "job_id": "greenhouse:techholding:4724476005",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "techholding",
+    "title": "Senior SDET - Test Automation & Performance Engineering | Contract | Remote US",
+    "location": "USA, Remote",
+    "posted": "2026-08-14T18:26:21-04:00",
+    "url": "https://job-boards.greenhouse.io/techholding/jobs/4724476005",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-15T00:02:01.903161+00:00",
+    "emailed_utc": "2026-08-15T00:02:01.903161+00:00"
   }
 ]
