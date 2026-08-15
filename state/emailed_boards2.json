@@ -59226,5 +59226,44 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-15T14:02:37.374291+00:00",
     "emailed_utc": "2026-08-15T14:02:37.374291+00:00"
+  },
+  {
+    "job_id": "lever:qualdoc:c4a39d26-7d74-495c-a537-eb1935faa6b4",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "qualdoc",
+    "title": "Power Systems Applications Engineer",
+    "location": "Marietta, OH",
+    "posted": "2026-08-15 14:13 UTC",
+    "url": "https://jobs.lever.co/qualdoc/c4a39d26-7d74-495c-a537-eb1935faa6b4",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-15T15:57:18.909449+00:00",
+    "emailed_utc": "2026-08-15T15:57:18.909449+00:00"
+  },
+  {
+    "job_id": "lever:qualdoc:6139673f-8856-4b7c-996f-83866904bf8b",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "qualdoc",
+    "title": "Electrical Integration Engineer I",
+    "location": "Virginia Beach, VA",
+    "posted": "2026-08-15 14:45 UTC",
+    "url": "https://jobs.lever.co/qualdoc/6139673f-8856-4b7c-996f-83866904bf8b",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-15T15:57:18.909449+00:00",
+    "emailed_utc": "2026-08-15T15:57:18.909449+00:00"
+  },
+  {
+    "job_id": "lever:qualdoc:5d606797-9464-4780-8f1d-f9f6f118e4d7",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "qualdoc",
+    "title": "Mechanical Design Engineer",
+    "location": "Chesterfield, VA",
+    "posted": "2026-08-15 14:36 UTC",
+    "url": "https://jobs.lever.co/qualdoc/5d606797-9464-4780-8f1d-f9f6f118e4d7",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-15T15:57:18.909449+00:00",
+    "emailed_utc": "2026-08-15T15:57:18.909449+00:00"
   }
 ]
