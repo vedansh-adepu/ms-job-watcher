@@ -40031,15 +40031,15 @@
     "cursor": null
   },
   {
-    "ts": "2026-08-15T15:32Z",
+    "ts": "2026-08-15T15:34Z",
     "mode": "boards",
     "per_source": {
-      "greenhouse": {
-        "fetched": 56694,
-        "title_ok": 8595,
-        "loc_ok": 3524,
-        "new": 0,
-        "emailed": 0
+      "workday": {
+        "fetched": 9000,
+        "title_ok": 596,
+        "loc_ok": 291,
+        "new": 18,
+        "emailed": 18
       }
     },
     "duration_s": 26.4,
