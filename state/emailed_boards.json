@@ -129907,5 +129907,44 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-15T01:03:13.589047+00:00",
     "emailed_utc": "2026-08-15T01:03:13.589047+00:00"
+  },
+  {
+    "job_id": "greenhouse:muonspace:5213020007",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "muonspace",
+    "title": "Senior Mechanical Engineer - Spacecraft Components and Systems",
+    "location": "San Jose, CA",
+    "posted": "2026-08-14T20:27:37-04:00",
+    "url": "https://job-boards.greenhouse.io/muonspace/jobs/5213020007",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-15T01:32:37.534765+00:00",
+    "emailed_utc": "2026-08-15T01:32:37.534765+00:00"
+  },
+  {
+    "job_id": "greenhouse:muonspace:5213018007",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "muonspace",
+    "title": "Senior Mechanical Engineer - Spacecraft Instrument Mechanisms",
+    "location": "Mountain View, CA",
+    "posted": "2026-08-14T20:23:48-04:00",
+    "url": "https://job-boards.greenhouse.io/muonspace/jobs/5213018007",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-15T01:32:37.534765+00:00",
+    "emailed_utc": "2026-08-15T01:32:37.534765+00:00"
+  },
+  {
+    "job_id": "lever:lyrahealth:92833b1f-fd88-4db9-a12e-3733764f3e78",
+    "pipeline": "boards",
+    "platform": "lever",
+    "company": "Lyra Health",
+    "title": "Sr. Software Engineer - Internal Efficiency",
+    "location": "United States",
+    "posted": "2026-08-15 01:18 UTC",
+    "url": "https://jobs.lever.co/lyrahealth/92833b1f-fd88-4db9-a12e-3733764f3e78",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-15T01:32:37.534765+00:00",
+    "emailed_utc": "2026-08-15T01:32:37.534765+00:00"
   }
 ]
