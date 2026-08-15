@@ -15351,5 +15351,18 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-15T03:11:43.682320+00:00",
     "emailed_utc": "2026-08-15T03:11:43.682320+00:00"
+  },
+  {
+    "job_id": "amazon:32b498e7-152b-42cb-9297-1050ee1290ba",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, Amazon Security: ASCOT Engineering",
+    "location": "US, VA, Herndon",
+    "posted": "August 15, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10503148/software-development-engineer-amazon-security-ascot-engineering",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-15T18:21:41.485671+00:00",
+    "emailed_utc": "2026-08-15T18:21:41.485671+00:00"
   }
 ]
