@@ -372331,5 +372331,18 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-16T12:02:33.522012+00:00",
     "emailed_utc": "2026-08-16T12:02:33.522012+00:00"
+  },
+  {
+    "job_id": "workday:autostore:autostore:req:JR102503",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Autostore",
+    "title": "System Safety Compliance Engineer",
+    "location": "Atlanta, GA, USA",
+    "posted": "Posted 2 Days Ago",
+    "url": "https://autostore.wd3.myworkdayjobs.com/en-US/autostore/job/Atlanta-GA-USA/System-Safety-Compliance-Engineer_JR102503",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-16T13:03:27.503140+00:00",
+    "emailed_utc": "2026-08-16T13:03:27.503140+00:00"
   }
 ]
