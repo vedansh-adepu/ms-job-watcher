@@ -371174,5 +371174,18 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-16T06:04:19.126744+00:00",
     "emailed_utc": "2026-08-16T06:04:19.126744+00:00"
+  },
+  {
+    "job_id": "workday:alkegen:alkegen:req:R12838",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Alkegen",
+    "title": "Engineering Manager",
+    "location": "Buffalo, NY",
+    "posted": "Posted 2 Days Ago",
+    "url": "https://alkegen.wd5.myworkdayjobs.com/en-US/alkegen/job/Buffalo-NY/Engineering-Manager_R12838-1",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-16T07:26:13.033495+00:00",
+    "emailed_utc": "2026-08-16T07:26:13.033495+00:00"
   }
 ]
