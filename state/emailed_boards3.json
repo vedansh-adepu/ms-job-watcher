@@ -375386,5 +375386,70 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-16T19:06:17.669992+00:00",
     "emailed_utc": "2026-08-16T19:06:17.669992+00:00"
+  },
+  {
+    "job_id": "workday:caci:external:req:330651",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Caci",
+    "title": "Software Engineer",
+    "location": "Ypsilanti, MI, US",
+    "posted": "Posted 2 Days Ago",
+    "url": "https://caci.wd1.myworkdayjobs.com/en-US/external/job/Ypsilanti-MI-US/Software-Engineer_330651",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-16T19:12:45.805827+00:00",
+    "emailed_utc": "2026-08-16T19:12:45.805827+00:00"
+  },
+  {
+    "job_id": "workday:caci:external:req:330642",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Caci",
+    "title": "ServiceNow Software Development Engineer (Data & Implementation)",
+    "location": "Chantilly, VA, US",
+    "posted": "Posted 2 Days Ago",
+    "url": "https://caci.wd1.myworkdayjobs.com/en-US/external/job/Chantilly-VA-US/ServiceNow-Software-Development-Engineer--Data---Implementation-_330642",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-16T19:12:45.805827+00:00",
+    "emailed_utc": "2026-08-16T19:12:45.805827+00:00"
+  },
+  {
+    "job_id": "workday:caci:external:req:330659",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Caci",
+    "title": "System Engineer",
+    "location": "Lisle, IL, US",
+    "posted": "Posted 2 Days Ago",
+    "url": "https://caci.wd1.myworkdayjobs.com/en-US/external/job/Lisle-IL-US/System-Engineer_330659",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-16T19:12:45.805827+00:00",
+    "emailed_utc": "2026-08-16T19:12:45.805827+00:00"
+  },
+  {
+    "job_id": "workday:caci:external:req:330650",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Caci",
+    "title": "Engineering Buyer and Material Handler",
+    "location": "Rochester, NY, US",
+    "posted": "Posted 2 Days Ago",
+    "url": "https://caci.wd1.myworkdayjobs.com/en-US/external/job/Rochester-NY-US/Engineering-Buyer-and-Material-Handler_330650",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-16T19:12:45.805827+00:00",
+    "emailed_utc": "2026-08-16T19:12:45.805827+00:00"
+  },
+  {
+    "job_id": "workday:caci:external:req:330644",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Caci",
+    "title": "Engineer",
+    "location": "Crane, IN, US",
+    "posted": "Posted 2 Days Ago",
+    "url": "https://caci.wd1.myworkdayjobs.com/en-US/external/job/Crane-IN-US/Engineer_330644",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-16T19:12:45.805827+00:00",
+    "emailed_utc": "2026-08-16T19:12:45.805827+00:00"
   }
 ]
