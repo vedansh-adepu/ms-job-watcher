@@ -130791,5 +130791,18 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-16T02:32:35.730159+00:00",
     "emailed_utc": "2026-08-16T02:32:35.730159+00:00"
+  },
+  {
+    "job_id": "workday:capitalone:Capital_One:req:R249128",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Capital One",
+    "title": "Lead Software Engineer, DevOps (Cloud Operations Resilience Engineering)",
+    "location": "Riverwoods, IL",
+    "posted": "Posted Today",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Riverwoods-IL/Lead-Software-Engineer--DevOps--Cloud-Operations-Resilience-Engineering-_R249128-1",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-16T05:03:13.599772+00:00",
+    "emailed_utc": "2026-08-16T05:03:13.599772+00:00"
   }
 ]
