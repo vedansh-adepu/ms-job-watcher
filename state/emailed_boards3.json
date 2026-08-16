@@ -370433,5 +370433,18 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-16T04:29:31.377479+00:00",
     "emailed_utc": "2026-08-16T04:29:31.377479+00:00"
+  },
+  {
+    "job_id": "workday:adient:external:req:R-29101",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Adient",
+    "title": "Controls Engineer",
+    "location": "Eastaboga, AL",
+    "posted": "Posted Yesterday",
+    "url": "https://adient.wd3.myworkdayjobs.com/en-US/external/job/Eastaboga-AL/Controls-Engineer_R-29101",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-16T05:04:23.281952+00:00",
+    "emailed_utc": "2026-08-16T05:04:23.281952+00:00"
   }
 ]
