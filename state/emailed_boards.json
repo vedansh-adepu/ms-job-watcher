@@ -130778,5 +130778,18 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-16T01:57:39.137635+00:00",
     "emailed_utc": "2026-08-16T01:57:39.137635+00:00"
+  },
+  {
+    "job_id": "workday:capitalone:Capital_One:req:R249350",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Capital One",
+    "title": "Lead Software Engineer",
+    "location": "New York, NY",
+    "posted": "Posted Today",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/New-York-NY/Lead-Software-Engineer_R249350",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-16T02:32:35.730159+00:00",
+    "emailed_utc": "2026-08-16T02:32:35.730159+00:00"
   }
 ]
