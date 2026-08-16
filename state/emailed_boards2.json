@@ -59330,5 +59330,57 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-16T03:31:40.968796+00:00",
     "emailed_utc": "2026-08-16T03:31:40.968796+00:00"
+  },
+  {
+    "job_id": "greenhouse:vardaspace:7878913003",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "vardaspace",
+    "title": "Spacecraft Embedded Software Engineer, RTOS",
+    "location": "El Segundo, California, United States",
+    "posted": "2026-08-16T00:51:19-04:00",
+    "url": "https://job-boards.greenhouse.io/vardaspace/jobs/7878913003",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-16T06:02:43.175212+00:00",
+    "emailed_utc": "2026-08-16T06:02:43.175212+00:00"
+  },
+  {
+    "job_id": "greenhouse:vardaspace:7878912003",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "vardaspace",
+    "title": "Senior Spacecraft Embedded Software Engineer, RTOS",
+    "location": "El Segundo, California, United States",
+    "posted": "2026-08-16T00:49:40-04:00",
+    "url": "https://job-boards.greenhouse.io/vardaspace/jobs/7878912003",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-16T06:02:43.175212+00:00",
+    "emailed_utc": "2026-08-16T06:02:43.175212+00:00"
+  },
+  {
+    "job_id": "greenhouse:vardaspace:7878914003",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "vardaspace",
+    "title": "Senior Spacecraft Firmware Engineer, C++",
+    "location": "El Segundo, California, United States",
+    "posted": "2026-08-16T00:52:49-04:00",
+    "url": "https://job-boards.greenhouse.io/vardaspace/jobs/7878914003",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-16T06:02:43.175212+00:00",
+    "emailed_utc": "2026-08-16T06:02:43.175212+00:00"
+  },
+  {
+    "job_id": "greenhouse:vardaspace:7878915003",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "vardaspace",
+    "title": "Spacecraft Firmware Engineer, C++",
+    "location": "El Segundo, California, United States",
+    "posted": "2026-08-16T00:53:38-04:00",
+    "url": "https://job-boards.greenhouse.io/vardaspace/jobs/7878915003",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-16T06:02:43.175212+00:00",
+    "emailed_utc": "2026-08-16T06:02:43.175212+00:00"
   }
 ]
