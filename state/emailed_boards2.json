@@ -59421,5 +59421,18 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-16T17:31:56.085414+00:00",
     "emailed_utc": "2026-08-16T17:31:56.085414+00:00"
+  },
+  {
+    "job_id": "greenhouse:dragos:5387412008",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "dragos",
+    "title": "Backend Engineering Manager",
+    "location": "United States",
+    "posted": "2026-08-16T15:55:20-04:00",
+    "url": "https://job-boards.greenhouse.io/dragos/jobs/5387412008",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-16T21:01:53.688993+00:00",
+    "emailed_utc": "2026-08-16T21:01:53.688993+00:00"
   }
 ]
