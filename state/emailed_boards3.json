@@ -374281,5 +374281,18 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-16T16:02:50.006404+00:00",
     "emailed_utc": "2026-08-16T16:02:50.006404+00:00"
+  },
+  {
+    "job_id": "workday:blackrock:blackrock_professional:req:R260803",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Blackrock",
+    "title": "Senior Data Architect/Data Engineer, Aladdin Engineering - Vice President",
+    "location": "New York, NY",
+    "posted": "Posted 2 Days Ago",
+    "url": "https://blackrock.wd1.myworkdayjobs.com/en-US/blackrock_professional/job/New-York-NY/Senior-Data-Architect-Data-Engineer--Aladdin-Engineering---Vice-President_R260803",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-16T16:11:16.885249+00:00",
+    "emailed_utc": "2026-08-16T16:11:16.885249+00:00"
   }
 ]
