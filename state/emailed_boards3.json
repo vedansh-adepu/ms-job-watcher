@@ -372305,5 +372305,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-16T11:32:56.540171+00:00",
     "emailed_utc": "2026-08-16T11:32:56.540171+00:00"
+  },
+  {
+    "job_id": "workday:astrazeneca:careers:req:R-258190",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Astrazeneca",
+    "title": "Director, US and Global Forecasting and Analytics - Infectious Disease",
+    "location": "US - Wilmington - DE",
+    "posted": "Posted 2 Days Ago",
+    "url": "https://astrazeneca.wd3.myworkdayjobs.com/en-US/careers/job/US---Wilmington---DE/Director--US-and-Global-Forecasting-and-Analytics---Infectious-Disease_R-258190",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-16T12:02:33.522012+00:00",
+    "emailed_utc": "2026-08-16T12:02:33.522012+00:00"
+  },
+  {
+    "job_id": "workday:astrazeneca:careers:req:R-258249",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Astrazeneca",
+    "title": "Senior Cloud Engineering Architect - Evinova",
+    "location": "US - Gaithersburg - MD",
+    "posted": "Posted 2 Days Ago",
+    "url": "https://astrazeneca.wd3.myworkdayjobs.com/en-US/careers/job/US---Gaithersburg---MD/Senior-Cloud-Engineering-Architect---Evinova_R-258249-1",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-16T12:02:33.522012+00:00",
+    "emailed_utc": "2026-08-16T12:02:33.522012+00:00"
   }
 ]
