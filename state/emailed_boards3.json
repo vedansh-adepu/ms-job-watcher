@@ -371551,5 +371551,18 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-16T10:02:38.110398+00:00",
     "emailed_utc": "2026-08-16T10:02:38.110398+00:00"
+  },
+  {
+    "job_id": "workday:apexcapitalcorp:apex_external:req:R857",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Apexcapitalcorp",
+    "title": "Software Engineer",
+    "location": "US TX Fort Worth",
+    "posted": "Posted 2 Days Ago",
+    "url": "https://apexcapitalcorp.wd5.myworkdayjobs.com/en-US/apex_external/job/US-TX-Fort-Worth/Software-Engineer_R857",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-16T10:10:58.508509+00:00",
+    "emailed_utc": "2026-08-16T10:10:58.508509+00:00"
   }
 ]
