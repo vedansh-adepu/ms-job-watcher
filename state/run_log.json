@@ -1,49 +1,5 @@
 [
   {
-    "ts": "2026-08-10T13:32Z",
-    "mode": "boards",
-    "per_source": {
-      "greenhouse": {
-        "fetched": 1880,
-        "title_ok": 628,
-        "loc_ok": 320,
-        "new": 0,
-        "emailed": 0
-      },
-      "lever": {
-        "fetched": 566,
-        "title_ok": 244,
-        "loc_ok": 180,
-        "new": 0,
-        "emailed": 0
-      },
-      "smartrecruiters": {
-        "fetched": 177,
-        "title_ok": 45,
-        "loc_ok": 41,
-        "new": 0,
-        "emailed": 0
-      },
-      "ashby": {
-        "fetched": 4889,
-        "title_ok": 1767,
-        "loc_ok": 402,
-        "new": 1,
-        "emailed": 1,
-        "errors": 1
-      },
-      "workday": {
-        "fetched": 2500,
-        "title_ok": 805,
-        "loc_ok": 269,
-        "new": 0,
-        "emailed": 0
-      }
-    },
-    "duration_s": 70.3,
-    "cursor": 1000
-  },
-  {
     "ts": "2026-08-10T13:38Z",
     "mode": "main",
     "per_source": {
@@ -39946,5 +39902,55 @@
     },
     "duration_s": 469.8,
     "cursor": 840
+  },
+  {
+    "ts": "2026-08-16T21:11Z",
+    "mode": "main",
+    "per_source": {
+      "microsoft": {
+        "fetched": 197,
+        "title_ok": 104,
+        "loc_ok": 104,
+        "new": 0,
+        "emailed": 0
+      },
+      "amazon": {
+        "fetched": 300,
+        "title_ok": 290,
+        "loc_ok": 290,
+        "new": 0,
+        "emailed": 0
+      },
+      "nvidia": {
+        "fetched": 20,
+        "title_ok": 19,
+        "loc_ok": 19,
+        "new": 0,
+        "emailed": 0
+      },
+      "goldman_sachs": {
+        "fetched": 0,
+        "title_ok": 0,
+        "loc_ok": 0,
+        "new": 0,
+        "emailed": 0
+      },
+      "ibm": {
+        "fetched": 32,
+        "title_ok": 28,
+        "loc_ok": 15,
+        "new": 0,
+        "emailed": 0
+      },
+      "oracle": {
+        "fetched": 0,
+        "title_ok": 0,
+        "loc_ok": 0,
+        "new": 0,
+        "emailed": 0
+      }
+    },
+    "duration_s": 11.3,
+    "cursor": null
   }
 ]
