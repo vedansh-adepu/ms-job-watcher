@@ -131415,5 +131415,18 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-17T13:06:29.623194+00:00",
     "emailed_utc": "2026-08-17T13:06:29.623194+00:00"
+  },
+  {
+    "job_id": "workday:gdit:External_Career_Site:req:RQ226071",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "General Dynamics Information Technology (GDIT)",
+    "title": "Data Quality Monitoring Engineer",
+    "location": "USA NE Offutt AFB",
+    "posted": "Posted Today",
+    "url": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-NE-Offutt-AFB/Data-Quality-Monitoring-Engineer_RQ226071-2",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-17T13:33:28.115893+00:00",
+    "emailed_utc": "2026-08-17T13:33:28.115893+00:00"
   }
 ]
