@@ -15975,5 +15975,31 @@
     "bucket": "yes",
     "first_seen_utc": "2026-08-17T22:01:43.478646+00:00",
     "emailed_utc": "2026-08-17T22:01:43.478646+00:00"
+  },
+  {
+    "job_id": "amazon:ec69152c-16e8-47e1-aa4d-3eed499045d2",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Applied Scientist, Console Science",
+    "location": "US, CA, Santa Clara",
+    "posted": "August 17, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10504310/applied-scientist-console-science",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-17T22:51:36.817783+00:00",
+    "emailed_utc": "2026-08-17T22:51:36.817783+00:00"
+  },
+  {
+    "job_id": "nvidia:893397075167",
+    "pipeline": "main",
+    "platform": "nvidia",
+    "company": "NVIDIA",
+    "title": "Senior Software Engineer \u2013 Platform Engineering",
+    "location": "Santa Clara, CA, US",
+    "posted": "2026-08-17 00:00 UTC",
+    "url": "https://nvidia.eightfold.ai/careers/job/893397075167",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-17T22:51:36.817783+00:00",
+    "emailed_utc": "2026-08-17T22:51:36.817783+00:00"
   }
 ]
