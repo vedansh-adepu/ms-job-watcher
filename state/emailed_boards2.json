@@ -61059,5 +61059,44 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-17T21:31:41.465667+00:00",
     "emailed_utc": "2026-08-17T21:31:41.465667+00:00"
+  },
+  {
+    "job_id": "greenhouse:ambiententerprises:5386837008",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "ambiententerprises",
+    "title": "Controls Engineer",
+    "location": "Orange,CA",
+    "posted": "2026-08-17T16:36:03-04:00",
+    "url": "https://job-boards.greenhouse.io/ambiententerprises/jobs/5386837008",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-17T22:01:15.616927+00:00",
+    "emailed_utc": "2026-08-17T22:01:15.616927+00:00"
+  },
+  {
+    "job_id": "greenhouse:blinkhealth:8672708002",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "blinkhealth",
+    "title": "Senior Network Engineer",
+    "location": "New York, NY; Pittsburgh, PA; St. Louis, MO",
+    "posted": "2026-08-17T16:06:22-04:00",
+    "url": "https://job-boards.greenhouse.io/blinkhealth/jobs/8672708002",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-17T22:01:15.616927+00:00",
+    "emailed_utc": "2026-08-17T22:01:15.616927+00:00"
+  },
+  {
+    "job_id": "greenhouse:datavant2:5385055008",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "datavant2",
+    "title": "Director, Software Engineering",
+    "location": "Remote - United States ",
+    "posted": "2026-08-17T16:05:51-04:00",
+    "url": "https://www.datavant.com/about/careers/open-roles/job?gh_jid=5385055008",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-17T22:01:15.616927+00:00",
+    "emailed_utc": "2026-08-17T22:01:15.616927+00:00"
   }
 ]
