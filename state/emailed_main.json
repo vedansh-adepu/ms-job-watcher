@@ -15702,5 +15702,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-17T16:31:25.255608+00:00",
     "emailed_utc": "2026-08-17T16:31:25.255608+00:00"
+  },
+  {
+    "job_id": "amazon:956f07af-a0a2-495b-9ae6-997c5844a5a3",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer II, AWS WorkSpaces",
+    "location": "US, WA, Seattle",
+    "posted": "August 17, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10503842/software-development-engineer-ii-aws-workspaces",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-17T17:01:39.627875+00:00",
+    "emailed_utc": "2026-08-17T17:01:39.627875+00:00"
+  },
+  {
+    "job_id": "amazon:2ffbd09a-8032-469c-a601-ab11345aca3e",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Dev Engineer II-TEST , Agentic Workspaces ",
+    "location": "US, WA, Seattle",
+    "posted": "August 17, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10503841/software-dev-engineer-ii-test-agentic-workspaces",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-17T17:01:39.627875+00:00",
+    "emailed_utc": "2026-08-17T17:01:39.627875+00:00"
   }
 ]
