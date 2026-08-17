@@ -131259,5 +131259,70 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-17T08:03:24.525175+00:00",
     "emailed_utc": "2026-08-17T08:03:24.525175+00:00"
+  },
+  {
+    "job_id": "greenhouse:didi:8131864",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "didi",
+    "title": "Software Engineer, Map Fusion & Planning",
+    "location": "San Jose, CA",
+    "posted": "2026-08-17T03:44:21-04:00",
+    "url": "https://job-boards.greenhouse.io/didi/jobs/8131864",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-17T08:33:26.916546+00:00",
+    "emailed_utc": "2026-08-17T08:33:26.916546+00:00"
+  },
+  {
+    "job_id": "greenhouse:didi:8131865",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "didi",
+    "title": "Software Engineer, Motion Planning ",
+    "location": "San Jose, CA",
+    "posted": "2026-08-17T03:46:50-04:00",
+    "url": "https://job-boards.greenhouse.io/didi/jobs/8131865",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-17T08:33:26.916546+00:00",
+    "emailed_utc": "2026-08-17T08:33:26.916546+00:00"
+  },
+  {
+    "job_id": "greenhouse:didi:8131850",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "didi",
+    "title": "Software Engineer / Sr. Software Engineer, Planning Selection (Autonomy)",
+    "location": "San Jose, CA",
+    "posted": "2026-08-17T02:05:19-04:00",
+    "url": "https://job-boards.greenhouse.io/didi/jobs/8131850",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-17T08:33:26.916546+00:00",
+    "emailed_utc": "2026-08-17T08:33:26.916546+00:00"
+  },
+  {
+    "job_id": "greenhouse:didi:8131891",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "didi",
+    "title": "Sr. / Staff Software Engineer, Infrastructure (Autonomy)",
+    "location": "San Jose, CA",
+    "posted": "2026-08-17T03:28:00-04:00",
+    "url": "https://job-boards.greenhouse.io/didi/jobs/8131891",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-17T08:33:26.916546+00:00",
+    "emailed_utc": "2026-08-17T08:33:26.916546+00:00"
+  },
+  {
+    "job_id": "greenhouse:didi:8131866",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "didi",
+    "title": "Sr. /Staff System Safety Engineer, Autonomy",
+    "location": "San Jose, CA",
+    "posted": "2026-08-17T03:49:47-04:00",
+    "url": "https://job-boards.greenhouse.io/didi/jobs/8131866",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-17T08:33:26.916546+00:00",
+    "emailed_utc": "2026-08-17T08:33:26.916546+00:00"
   }
 ]
