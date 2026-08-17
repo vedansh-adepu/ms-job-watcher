@@ -132351,5 +132351,57 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-17T16:32:42.395025+00:00",
     "emailed_utc": "2026-08-17T16:32:42.395025+00:00"
+  },
+  {
+    "job_id": "lever:steerbridge:7b94ac97-8c86-4775-9805-49f8c8b106cf",
+    "pipeline": "boards",
+    "platform": "lever",
+    "company": "steerbridge",
+    "title": "Data Scientist (Mid-Level)",
+    "location": "Vienna, VA",
+    "posted": "2026-08-17 15:44 UTC",
+    "url": "https://jobs.lever.co/steerbridge/7b94ac97-8c86-4775-9805-49f8c8b106cf",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-17T17:03:27.753320+00:00",
+    "emailed_utc": "2026-08-17T17:03:27.753320+00:00"
+  },
+  {
+    "job_id": "greenhouse:spacex:8721103002",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "SpaceX",
+    "title": "Design Criteria Engineer (Falcon & Dragon)",
+    "location": "Hawthorne, CA",
+    "posted": "2026-08-17T11:44:27-04:00",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8721103002?gh_jid=8721103002",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-17T17:03:27.753320+00:00",
+    "emailed_utc": "2026-08-17T17:03:27.753320+00:00"
+  },
+  {
+    "job_id": "greenhouse:spacex:8716210002",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "SpaceX",
+    "title": "Mechanical Engineer - Battery Pack, Satellites (Starlink)",
+    "location": "Redmond, WA",
+    "posted": "2026-08-17T11:57:37-04:00",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8716210002?gh_jid=8716210002",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-17T17:03:27.753320+00:00",
+    "emailed_utc": "2026-08-17T17:03:27.753320+00:00"
+  },
+  {
+    "job_id": "greenhouse:thenewyorktimes:4722061005",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "The New York Times",
+    "title": "Senior Engineer - Web Platforms",
+    "location": "New York, NY",
+    "posted": "2026-08-17T12:18:42-04:00",
+    "url": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4722061005",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-17T17:03:27.753320+00:00",
+    "emailed_utc": "2026-08-17T17:03:27.753320+00:00"
   }
 ]
