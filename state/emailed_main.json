@@ -15728,5 +15728,44 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-17T17:01:39.627875+00:00",
     "emailed_utc": "2026-08-17T17:01:39.627875+00:00"
+  },
+  {
+    "job_id": "microsoft:1970393556958313",
+    "pipeline": "main",
+    "platform": "microsoft",
+    "company": "Microsoft",
+    "title": "Cloud Network Software Engineer",
+    "location": "Redmond, WA, US",
+    "posted": "2026-08-12 23:09 UTC",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556958313",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-17T17:31:24.676199+00:00",
+    "emailed_utc": "2026-08-17T17:31:24.676199+00:00"
+  },
+  {
+    "job_id": "amazon:2a95241f-d57d-424b-b6ef-d41328805e6a",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Manager, Aurora DSQL",
+    "location": "US, WA, Seattle",
+    "posted": "August 17, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10503913/software-development-manager-aurora-dsql",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-17T17:31:24.676199+00:00",
+    "emailed_utc": "2026-08-17T17:31:24.676199+00:00"
+  },
+  {
+    "job_id": "amazon:93be675c-1d79-414b-a3f0-5368cb16fa24",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Dev Engineer II, ECR - Private",
+    "location": "US, NY, New York",
+    "posted": "August 17, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10503878/software-dev-engineer-ii-ecr-private",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-17T17:31:24.676199+00:00",
+    "emailed_utc": "2026-08-17T17:31:24.676199+00:00"
   }
 ]
