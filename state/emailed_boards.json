@@ -131194,5 +131194,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-17T04:04:53.571902+00:00",
     "emailed_utc": "2026-08-17T04:04:53.571902+00:00"
+  },
+  {
+    "job_id": "workday:gdit:External_Career_Site:req:RQ226439",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "General Dynamics Information Technology (GDIT)",
+    "title": "VDI EUC Engineer",
+    "location": "USA VA Newington",
+    "posted": "Posted Today",
+    "url": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-Newington/VDI-EUC-Engineer_RQ226439",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-17T06:03:11.732875+00:00",
+    "emailed_utc": "2026-08-17T06:03:11.732875+00:00"
+  },
+  {
+    "job_id": "workday:gdit:External_Career_Site:req:RQ226288",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "General Dynamics Information Technology (GDIT)",
+    "title": "Systems Engineer Senior",
+    "location": "USA MD Rockville",
+    "posted": "Posted Today",
+    "url": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-MD-Rockville/Systems-Engineer-Senior_RQ226288",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-17T06:03:11.732875+00:00",
+    "emailed_utc": "2026-08-17T06:03:11.732875+00:00"
   }
 ]
