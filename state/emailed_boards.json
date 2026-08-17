@@ -132403,5 +132403,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-17T17:03:27.753320+00:00",
     "emailed_utc": "2026-08-17T17:03:27.753320+00:00"
+  },
+  {
+    "job_id": "ashby:snowflake:c80ed4e9-d840-47bc-ad8c-64ed1ff97826",
+    "pipeline": "boards",
+    "platform": "ashby",
+    "company": "Snowflake",
+    "title": "GTM Staff Data Scientist",
+    "location": "US-CA-Menlo Park",
+    "posted": "",
+    "url": "https://jobs.ashbyhq.com/snowflake/c80ed4e9-d840-47bc-ad8c-64ed1ff97826",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-17T17:32:34.656777+00:00",
+    "emailed_utc": "2026-08-17T17:32:34.656777+00:00"
+  },
+  {
+    "job_id": "lever:zoox:341859c7-6449-482b-a6ef-1717bd97ea78",
+    "pipeline": "boards",
+    "platform": "lever",
+    "company": "zoox",
+    "title": "Chassis Controls Engineer, Brakes & Steering",
+    "location": "Foster City, CA",
+    "posted": "2026-08-17 17:29 UTC",
+    "url": "https://jobs.lever.co/zoox/341859c7-6449-482b-a6ef-1717bd97ea78",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-17T17:32:34.656777+00:00",
+    "emailed_utc": "2026-08-17T17:32:34.656777+00:00"
   }
 ]
