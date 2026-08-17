@@ -135289,5 +135289,70 @@
     "bucket": "yes",
     "first_seen_utc": "2026-08-17T22:32:41.450514+00:00",
     "emailed_utc": "2026-08-17T22:32:41.450514+00:00"
+  },
+  {
+    "job_id": "ashby:kong:a9162a3b-d834-4ca2-b2ac-9a140b9b5436",
+    "pipeline": "boards",
+    "platform": "ashby",
+    "company": "Kong",
+    "title": "Software Engineer, Core Platform",
+    "location": "San Francisco, California, United States",
+    "posted": "",
+    "url": "https://jobs.ashbyhq.com/kong/a9162a3b-d834-4ca2-b2ac-9a140b9b5436",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-17T23:01:39.384650+00:00",
+    "emailed_utc": "2026-08-17T23:01:39.384650+00:00"
+  },
+  {
+    "job_id": "ashby:kong:be155280-56e2-4433-9848-5339daab7d93",
+    "pipeline": "boards",
+    "platform": "ashby",
+    "company": "Kong",
+    "title": "Staff Software Engineer, Konnect Core Platform",
+    "location": "San Francisco, California, United States",
+    "posted": "",
+    "url": "https://jobs.ashbyhq.com/kong/be155280-56e2-4433-9848-5339daab7d93",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-17T23:01:39.384650+00:00",
+    "emailed_utc": "2026-08-17T23:01:39.384650+00:00"
+  },
+  {
+    "job_id": "greenhouse:scoutai:5393449008",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Scoutai",
+    "title": "Manufacturing Engineer",
+    "location": "Sunnyvale, CA",
+    "posted": "2026-08-17T17:15:23-04:00",
+    "url": "https://job-boards.greenhouse.io/scoutai/jobs/5393449008",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-17T23:01:39.384650+00:00",
+    "emailed_utc": "2026-08-17T23:01:39.384650+00:00"
+  },
+  {
+    "job_id": "greenhouse:scoutmotors:5213358007",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Scoutmotors",
+    "title": "Senior\u00a0Software Engineer (iOS) \u2013\u00a0Digital Products",
+    "location": "Fremont, California, United States",
+    "posted": "2026-08-17T17:19:22-04:00",
+    "url": "https://job-boards.greenhouse.io/scoutmotors/jobs/5213358007",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-17T23:01:39.384650+00:00",
+    "emailed_utc": "2026-08-17T23:01:39.384650+00:00"
+  },
+  {
+    "job_id": "lever:field-ai:9a92c550-5f4c-48c6-b4d4-f44a0a146a15",
+    "pipeline": "boards",
+    "platform": "lever",
+    "company": "Field Ai",
+    "title": "Field Application Engineer (Off-Road Vehicles) - Irvine, CA",
+    "location": "Irvine, CA",
+    "posted": "2026-08-17 22:27 UTC",
+    "url": "https://jobs.lever.co/field-ai/9a92c550-5f4c-48c6-b4d4-f44a0a146a15",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-17T23:01:39.384650+00:00",
+    "emailed_utc": "2026-08-17T23:01:39.384650+00:00"
   }
 ]
