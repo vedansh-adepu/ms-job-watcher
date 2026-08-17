@@ -60682,5 +60682,44 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-17T19:03:24.022846+00:00",
     "emailed_utc": "2026-08-17T19:03:24.022846+00:00"
+  },
+  {
+    "job_id": "greenhouse:vast:4671178006",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "vast",
+    "title": "Manufacturing Engineer - Factory Systems & Rate Production",
+    "location": "Long Beach, California, United States",
+    "posted": "2026-08-17T15:12:17-04:00",
+    "url": "https://boards.greenhouse.io/vast/jobs/4671178006?gh_jid=4671178006",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-17T19:17:22.337195+00:00",
+    "emailed_utc": "2026-08-17T19:17:22.337195+00:00"
+  },
+  {
+    "job_id": "lever:placemakr:03daa48c-d30f-4404-9f50-c0724854617f",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "placemakr",
+    "title": "Chief Engineer",
+    "location": "1100 Liberty Ave, Pittsburgh, PA, 15222",
+    "posted": "2026-08-17 18:19 UTC",
+    "url": "https://jobs.lever.co/placemakr/03daa48c-d30f-4404-9f50-c0724854617f",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-17T19:17:22.337195+00:00",
+    "emailed_utc": "2026-08-17T19:17:22.337195+00:00"
+  },
+  {
+    "job_id": "lever:smarsh:03dc5e59-552c-4348-a3f3-ac62a47f081e",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "smarsh",
+    "title": "Senior Software Engineer, Python + AI Platform",
+    "location": "US - Remote",
+    "posted": "2026-08-17 18:46 UTC",
+    "url": "https://jobs.lever.co/smarsh/03dc5e59-552c-4348-a3f3-ac62a47f081e",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-17T19:17:22.337195+00:00",
+    "emailed_utc": "2026-08-17T19:17:22.337195+00:00"
   }
 ]
