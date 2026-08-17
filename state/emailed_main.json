@@ -16040,5 +16040,18 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-17T23:11:40.867352+00:00",
     "emailed_utc": "2026-08-17T23:11:40.867352+00:00"
+  },
+  {
+    "job_id": "amazon:0c75716d-4bbc-4e38-9e43-1dab3f30776d",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, AWS Global Accelerator",
+    "location": "US, WA, Seattle",
+    "posted": "August 17, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10504387/software-development-engineer-aws-global-accelerator",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-17T23:51:29.403563+00:00",
+    "emailed_utc": "2026-08-17T23:51:29.403563+00:00"
   }
 ]
