@@ -15533,5 +15533,44 @@
     "bucket": "yes",
     "first_seen_utc": "2026-08-17T14:51:48.314964+00:00",
     "emailed_utc": "2026-08-17T14:51:48.314964+00:00"
+  },
+  {
+    "job_id": "amazon:6bcd29bc-39bb-4c2f-a574-d3f0490cd26d",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, Specialist AI Tooling, Specialist Technology Team",
+    "location": "US, TX, Austin",
+    "posted": "August 17, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10503639/software-development-engineer-specialist-ai-tooling-specialist-technology-team",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-17T15:11:45.669975+00:00",
+    "emailed_utc": "2026-08-17T15:11:45.669975+00:00"
+  },
+  {
+    "job_id": "amazon:3be148e8-5055-4126-87b2-9ed97a770d1c",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, Workshop Studio",
+    "location": "US, TX, Austin",
+    "posted": "August 17, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10503637/software-development-engineer-workshop-studio",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-17T15:11:45.669975+00:00",
+    "emailed_utc": "2026-08-17T15:11:45.669975+00:00"
+  },
+  {
+    "job_id": "amazon:820eb500-7bd9-47f9-b45c-a9e2cda61cff",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Senior Inference Engineer, AGI",
+    "location": "US, CA, Sunnyvale",
+    "posted": "August 17, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10503632/senior-inference-engineer-agi",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-17T15:11:45.669975+00:00",
+    "emailed_utc": "2026-08-17T15:11:45.669975+00:00"
   }
 ]
