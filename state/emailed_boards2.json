@@ -59512,5 +59512,57 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-17T12:32:06.854034+00:00",
     "emailed_utc": "2026-08-17T12:32:06.854034+00:00"
+  },
+  {
+    "job_id": "greenhouse:grvty:4371601009",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "grvty",
+    "title": "Data Scientist",
+    "location": "McLean, Virginia, United States",
+    "posted": "2026-08-17T09:08:20-04:00",
+    "url": "https://job-boards.greenhouse.io/grvty/jobs/4371601009",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-17T14:02:42.250079+00:00",
+    "emailed_utc": "2026-08-17T14:02:42.250079+00:00"
+  },
+  {
+    "job_id": "greenhouse:grvty:4371622009",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "grvty",
+    "title": "Software Developer ",
+    "location": "McLean, Virginia, United States",
+    "posted": "2026-08-17T09:19:32-04:00",
+    "url": "https://job-boards.greenhouse.io/grvty/jobs/4371622009",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-17T14:02:42.250079+00:00",
+    "emailed_utc": "2026-08-17T14:02:42.250079+00:00"
+  },
+  {
+    "job_id": "greenhouse:coherehealth:7870427003",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "coherehealth",
+    "title": "Staff Software Engineer - Payment Solutions",
+    "location": "United States",
+    "posted": "2026-08-17T09:42:52-04:00",
+    "url": "https://job-boards.greenhouse.io/coherehealth/jobs/7870427003",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-17T14:02:42.250079+00:00",
+    "emailed_utc": "2026-08-17T14:02:42.250079+00:00"
+  },
+  {
+    "job_id": "greenhouse:elevatebio:6145151004",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "elevatebio",
+    "title": "Associate I-II, QC Analytics (Contract, Multiple Positions)",
+    "location": "Waltham, Massachusetts, United States",
+    "posted": "2026-08-17T09:23:00-04:00",
+    "url": "https://elevate.bio/about/jobs/6145151004?gh_jid=6145151004",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-17T14:02:42.250079+00:00",
+    "emailed_utc": "2026-08-17T14:02:42.250079+00:00"
   }
 ]
