@@ -15637,5 +15637,57 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-17T16:01:30.735185+00:00",
     "emailed_utc": "2026-08-17T16:01:30.735185+00:00"
+  },
+  {
+    "job_id": "amazon:53e4f35f-22b3-422f-b54b-8619b1de8a04",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "SDE, AWS OpenSearch Service, Opensearch",
+    "location": "US, TX, Austin",
+    "posted": "August 17, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10503784/sde-aws-opensearch-service-opensearch",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-17T16:21:40.357806+00:00",
+    "emailed_utc": "2026-08-17T16:21:40.357806+00:00"
+  },
+  {
+    "job_id": "amazon:b6bc7227-1bdc-455e-b11a-848def9cb3ee",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, FinTech Ledger Technology",
+    "location": "US, WA, Bellevue",
+    "posted": "August 17, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10503782/software-development-engineer-fintech-ledger-technology",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-17T16:21:40.357806+00:00",
+    "emailed_utc": "2026-08-17T16:21:40.357806+00:00"
+  },
+  {
+    "job_id": "amazon:0ea8e353-dbc5-4183-a5b5-d04aed590b6b",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Senior PostgreSQL Database Engineer, RDS",
+    "location": "US, FL, Virtual Location - Florida",
+    "posted": "August 17, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10503781/senior-postgresql-database-engineer-rds",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-17T16:21:40.357806+00:00",
+    "emailed_utc": "2026-08-17T16:21:40.357806+00:00"
+  },
+  {
+    "job_id": "amazon:615bf09e-dc97-4c0a-bd40-19a464b7ad43",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Manager, AWS OpenSearch",
+    "location": "US, TX, Austin",
+    "posted": "August 17, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10503780/software-development-manager-aws-opensearch",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-17T16:21:40.357806+00:00",
+    "emailed_utc": "2026-08-17T16:21:40.357806+00:00"
   }
 ]
