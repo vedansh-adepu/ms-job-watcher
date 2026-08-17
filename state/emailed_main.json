@@ -15845,5 +15845,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-17T18:21:41.898528+00:00",
     "emailed_utc": "2026-08-17T18:21:41.898528+00:00"
+  },
+  {
+    "job_id": "amazon:87d823a2-e45f-469f-ae75-a5d3351cafe5",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Dev Engineer, AWS WAF Bot Control and Fraud Prevention",
+    "location": "US, WA, Seattle",
+    "posted": "August 17, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10503999/software-dev-engineer-aws-waf-bot-control-and-fraud-prevention",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-17T18:41:43.452293+00:00",
+    "emailed_utc": "2026-08-17T18:41:43.452293+00:00"
+  },
+  {
+    "job_id": "amazon:7107c4cf-cf56-4e67-b3de-7aa453c7b9a8",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Dev Engineer II, Alexa Shopping-Core",
+    "location": "US, WA, Seattle",
+    "posted": "August 17, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10503989/software-dev-engineer-ii-alexa-shopping-core",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-17T18:41:43.452293+00:00",
+    "emailed_utc": "2026-08-17T18:41:43.452293+00:00"
   }
 ]
