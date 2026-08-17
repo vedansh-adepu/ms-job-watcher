@@ -59473,5 +59473,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-17T07:39:36.156853+00:00",
     "emailed_utc": "2026-08-17T07:39:36.156853+00:00"
+  },
+  {
+    "job_id": "greenhouse:ketryx:5192824008",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "ketryx",
+    "title": "Software Engineer",
+    "location": "Boston, Massachusetts, United States",
+    "posted": "2026-08-17T04:57:05-04:00",
+    "url": "https://job-boards.greenhouse.io/ketryx/jobs/5192824008",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-17T09:32:58.482039+00:00",
+    "emailed_utc": "2026-08-17T09:32:58.482039+00:00"
+  },
+  {
+    "job_id": "greenhouse:metabittechnologyllc:4371565009",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "metabittechnologyllc",
+    "title": "Global Network Engineer",
+    "location": "Hong Kong; New York, New York, United States; Singapore",
+    "posted": "2026-08-17T05:12:38-04:00",
+    "url": "https://job-boards.greenhouse.io/metabittechnologyllc/jobs/4371565009",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-17T09:32:58.482039+00:00",
+    "emailed_utc": "2026-08-17T09:32:58.482039+00:00"
   }
 ]
