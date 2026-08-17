@@ -61267,5 +61267,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-17T22:32:15.537760+00:00",
     "emailed_utc": "2026-08-17T22:32:15.537760+00:00"
+  },
+  {
+    "job_id": "greenhouse:zscaler:5202464007",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "zscaler",
+    "title": "Staff Software Development Engineer",
+    "location": "San Jose, California, USA",
+    "posted": "2026-08-17T18:18:48-04:00",
+    "url": "https://job-boards.greenhouse.io/zscaler/jobs/5202464007",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-17T23:02:36.275774+00:00",
+    "emailed_utc": "2026-08-17T23:02:36.275774+00:00"
+  },
+  {
+    "job_id": "lever:level99:bad65767-b65f-40f8-be2a-ace7098d228f",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "level99",
+    "title": "Design Engineer",
+    "location": "Greater Boston, MA",
+    "posted": "2026-08-17 22:01 UTC",
+    "url": "https://jobs.lever.co/level99/bad65767-b65f-40f8-be2a-ace7098d228f",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-17T23:02:36.275774+00:00",
+    "emailed_utc": "2026-08-17T23:02:36.275774+00:00"
   }
 ]
