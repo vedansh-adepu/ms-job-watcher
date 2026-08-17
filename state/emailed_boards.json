@@ -131220,5 +131220,44 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-17T06:03:11.732875+00:00",
     "emailed_utc": "2026-08-17T06:03:11.732875+00:00"
+  },
+  {
+    "job_id": "workday:amat:External:req:R2625474",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Applied Materials",
+    "title": "Engineering Technician III (T3)",
+    "location": "Santa Clara,CA",
+    "posted": "Posted Today",
+    "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Engineering-Technician-III--T3-_R2625474",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-17T08:03:24.525175+00:00",
+    "emailed_utc": "2026-08-17T08:03:24.525175+00:00"
+  },
+  {
+    "job_id": "workday:amat:External:req:R2625479",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Applied Materials",
+    "title": "Engineering Technician V",
+    "location": "Santa Clara,CA",
+    "posted": "Posted Today",
+    "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Engineering-Technician-V_R2625479-1",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-17T08:03:24.525175+00:00",
+    "emailed_utc": "2026-08-17T08:03:24.525175+00:00"
+  },
+  {
+    "job_id": "workday:amat:External:req:R2625731",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Applied Materials",
+    "title": "Engineering Technician",
+    "location": "Santa Clara,CA",
+    "posted": "Posted Today",
+    "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Engineering-Technician_R2625731",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-17T08:03:24.525175+00:00",
+    "emailed_utc": "2026-08-17T08:03:24.525175+00:00"
   }
 ]
