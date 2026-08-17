@@ -15572,5 +15572,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-17T15:11:45.669975+00:00",
     "emailed_utc": "2026-08-17T15:11:45.669975+00:00"
+  },
+  {
+    "job_id": "amazon:1bb9df8a-a091-4db6-aa84-0e8fdd3b678c",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer II, Amazon Robotics",
+    "location": "US, MA, Boston",
+    "posted": "August 17, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10503677/software-development-engineer-ii-amazon-robotics",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-17T15:31:50.766188+00:00",
+    "emailed_utc": "2026-08-17T15:31:50.766188+00:00"
+  },
+  {
+    "job_id": "amazon:459f9446-5253-47e9-851e-0d933d402f32",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Senior Software Engineer, Billing Data Services",
+    "location": "US, WA, Seattle",
+    "posted": "August 17, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10503697/senior-software-engineer-billing-data-services",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-17T15:31:50.766188+00:00",
+    "emailed_utc": "2026-08-17T15:31:50.766188+00:00"
   }
 ]
