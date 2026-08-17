@@ -131155,5 +131155,44 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-17T03:32:47.463816+00:00",
     "emailed_utc": "2026-08-17T03:32:47.463816+00:00"
+  },
+  {
+    "job_id": "greenhouse:spacex:8716953002",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "SpaceX",
+    "title": "Mechanical Engineer, Cabin Structures (Crew Starship)",
+    "location": "Starbase, TX",
+    "posted": "2026-08-16T22:38:12-04:00",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8716953002?gh_jid=8716953002",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-17T04:04:53.571902+00:00",
+    "emailed_utc": "2026-08-17T04:04:53.571902+00:00"
+  },
+  {
+    "job_id": "greenhouse:spacex:8692371002",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "SpaceX",
+    "title": "Mechanical Engineer, Mechanisms (Crew Starship)",
+    "location": "Starbase, TX",
+    "posted": "2026-08-16T22:39:24-04:00",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8692371002?gh_jid=8692371002",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-17T04:04:53.571902+00:00",
+    "emailed_utc": "2026-08-17T04:04:53.571902+00:00"
+  },
+  {
+    "job_id": "greenhouse:toast:8131117",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Toast",
+    "title": "Staff Software Engineer, Voice AI Platform",
+    "location": "Remote, US",
+    "posted": "2026-08-16T23:54:54-04:00",
+    "url": "https://careers.toasttab.com/jobs?gh_jid=8131117",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-17T04:04:53.571902+00:00",
+    "emailed_utc": "2026-08-17T04:04:53.571902+00:00"
   }
 ]
