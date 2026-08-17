@@ -15598,5 +15598,44 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-17T15:31:50.766188+00:00",
     "emailed_utc": "2026-08-17T15:31:50.766188+00:00"
+  },
+  {
+    "job_id": "amazon:1a51e21e-8309-4f0c-aaaa-f4d5b9222af0",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer II, Assisted Repair and Guided Equipment Solutions",
+    "location": "US, MA, N.reading",
+    "posted": "August 17, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10503745/software-development-engineer-ii-assisted-repair-and-guided-equipment-solutions",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-17T16:01:30.735185+00:00",
+    "emailed_utc": "2026-08-17T16:01:30.735185+00:00"
+  },
+  {
+    "job_id": "amazon:7f35da58-2f1f-4a99-81d4-700875758f8f",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Engineer II, CIA Onboardings",
+    "location": "US, TX, Austin",
+    "posted": "August 17, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10503750/software-engineer-ii-cia-onboardings",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-17T16:01:30.735185+00:00",
+    "emailed_utc": "2026-08-17T16:01:30.735185+00:00"
+  },
+  {
+    "job_id": "amazon:07042586-d2ac-40ff-b48e-17287a9fb0c8",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Senior Software Development Engineer",
+    "location": "US, MA, N.reading",
+    "posted": "August 17, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10503752/senior-software-development-engineer",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-17T16:01:30.735185+00:00",
+    "emailed_utc": "2026-08-17T16:01:30.735185+00:00"
   }
 ]
