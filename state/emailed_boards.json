@@ -131636,5 +131636,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-17T15:02:53.022465+00:00",
     "emailed_utc": "2026-08-17T15:02:53.022465+00:00"
+  },
+  {
+    "job_id": "greenhouse:latitude:8119482",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Latitude",
+    "title": "Senior Software Engineer - High Level OS ",
+    "location": "Pittsburgh, PA, Palo Alto, CA, Detroit, MI",
+    "posted": "2026-08-17T10:12:12-04:00",
+    "url": "https://job-boards.greenhouse.io/latitude/jobs/8119482",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-17T15:31:38.066208+00:00",
+    "emailed_utc": "2026-08-17T15:31:38.066208+00:00"
+  },
+  {
+    "job_id": "greenhouse:torcrobotics:8703219002",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Torcrobotics",
+    "title": "Senior Software Engineer - Autonomy Core Frameworks",
+    "location": "Ann Arbor, MI",
+    "posted": "2026-08-17T10:55:55-04:00",
+    "url": "https://job-boards.greenhouse.io/torcrobotics/jobs/8703219002",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-17T15:31:38.066208+00:00",
+    "emailed_utc": "2026-08-17T15:31:38.066208+00:00"
   }
 ]
