@@ -136901,5 +136901,57 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-18T12:02:36.686087+00:00",
     "emailed_utc": "2026-08-18T12:02:36.686087+00:00"
+  },
+  {
+    "job_id": "greenhouse:andurilindustries:5107130007",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "andurilindustries",
+    "title": "Process Engineer",
+    "location": "Santa Ana, California, United States",
+    "posted": "2026-08-18T08:23:06-04:00",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5107130007?gh_jid=5107130007",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-18T13:03:31.620745+00:00",
+    "emailed_utc": "2026-08-18T13:03:31.620745+00:00"
+  },
+  {
+    "job_id": "workday:analogdevices:External:req:R263425",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Analog Devices",
+    "title": "Equipment Engineering Technician 5 - Photolithography (Nights)",
+    "location": "US, OR, Beaverton",
+    "posted": "Posted Today",
+    "url": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-OR-Beaverton/Equipment-Engineering-Technician-5---Photolithography--Nights-_R263425",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-18T13:03:31.620745+00:00",
+    "emailed_utc": "2026-08-18T13:03:31.620745+00:00"
+  },
+  {
+    "job_id": "workday:analogdevices:External:req:R264661",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Analog Devices",
+    "title": "Engineer, Equipment Engineering",
+    "location": "US, OR, Beaverton",
+    "posted": "Posted Today",
+    "url": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-OR-Beaverton/Engineer--Equipment-Engineering_R264661",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-18T13:03:31.620745+00:00",
+    "emailed_utc": "2026-08-18T13:03:31.620745+00:00"
+  },
+  {
+    "job_id": "workday:caci:External:req:330721",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "CACI International",
+    "title": "Senior Systems Engineer",
+    "location": "Ypsilanti, MI, US",
+    "posted": "Posted Today",
+    "url": "https://caci.wd1.myworkdayjobs.com/en-US/External/job/Ypsilanti-MI-US/Senior-Systems-Engineer_330721",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-18T13:03:31.620745+00:00",
+    "emailed_utc": "2026-08-18T13:03:31.620745+00:00"
   }
 ]
