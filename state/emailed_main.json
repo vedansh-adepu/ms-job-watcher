@@ -16716,5 +16716,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-18T22:11:49.165445+00:00",
     "emailed_utc": "2026-08-18T22:11:49.165445+00:00"
+  },
+  {
+    "job_id": "microsoft:1970393556649771",
+    "pipeline": "main",
+    "platform": "microsoft",
+    "company": "Microsoft",
+    "title": "Software Engineer II",
+    "location": "US",
+    "posted": "2026-08-18 21:23 UTC",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556649771",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-18T22:31:30.813914+00:00",
+    "emailed_utc": "2026-08-18T22:31:30.813914+00:00"
+  },
+  {
+    "job_id": "microsoft:1970393556958162",
+    "pipeline": "main",
+    "platform": "microsoft",
+    "company": "Microsoft",
+    "title": "Software Engineer II",
+    "location": "Redmond, WA, US",
+    "posted": "2026-08-14 19:21 UTC",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556958162",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-18T22:31:30.813914+00:00",
+    "emailed_utc": "2026-08-18T22:31:30.813914+00:00"
   }
 ]
