@@ -16690,5 +16690,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-18T22:02:10.869702+00:00",
     "emailed_utc": "2026-08-18T22:02:10.869702+00:00"
+  },
+  {
+    "job_id": "amazon:2d2dd9e7-7a9b-4fd3-ad1b-235dc74d7e77",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Sr. Applied Scientist, Sponsored Products and Brands Agent",
+    "location": "US, NY, New York",
+    "posted": "August 18, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10506038/sr-applied-scientist-sponsored-products-and-brands-agent",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-18T22:11:49.165445+00:00",
+    "emailed_utc": "2026-08-18T22:11:49.165445+00:00"
+  },
+  {
+    "job_id": "amazon:6f6cb555-93c2-4597-9eae-a0f9adf5f6b2",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Principal Applied Scientist- Agentic RL , Kiro",
+    "location": "US, CA, Santa Clara",
+    "posted": "August 18, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10506035/principal-applied-scientist-agentic-rl-kiro",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-18T22:11:49.165445+00:00",
+    "emailed_utc": "2026-08-18T22:11:49.165445+00:00"
   }
 ]
