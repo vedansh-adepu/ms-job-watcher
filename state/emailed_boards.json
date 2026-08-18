@@ -137122,5 +137122,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-18T13:32:51.318060+00:00",
     "emailed_utc": "2026-08-18T13:32:51.318060+00:00"
+  },
+  {
+    "job_id": "greenhouse:securityscorecard:8138869",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "SecurityScorecard",
+    "title": "GTM Engineer",
+    "location": "Remote (Austin, TX)",
+    "posted": "2026-08-18T09:17:19-04:00",
+    "url": "https://job-boards.greenhouse.io/securityscorecard/jobs/8138869",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-18T14:03:29.439212+00:00",
+    "emailed_utc": "2026-08-18T14:03:29.439212+00:00"
+  },
+  {
+    "job_id": "smartrecruiters:ServiceNow:744000144064119",
+    "pipeline": "boards",
+    "platform": "smartrecruiters",
+    "company": "ServiceNow",
+    "title": "Sr Staff Software Engineer",
+    "location": "Hyderabad, in",
+    "posted": "2026-08-18T12:55:27.029Z",
+    "url": "https://jobs.smartrecruiters.com/ServiceNow",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-18T14:03:29.439212+00:00",
+    "emailed_utc": "2026-08-18T14:03:29.439212+00:00"
   }
 ]
