@@ -16274,5 +16274,18 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-18T12:31:44.665795+00:00",
     "emailed_utc": "2026-08-18T12:31:44.665795+00:00"
+  },
+  {
+    "job_id": "amazon:303af1f7-22ea-4f18-8cd0-c869c1222710",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Engineer, AppSTAR COMPASS",
+    "location": "US, TX, Austin",
+    "posted": "August 18, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10504767/software-engineer-appstar-compass",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-18T12:41:41.169309+00:00",
+    "emailed_utc": "2026-08-18T12:41:41.169309+00:00"
   }
 ]
