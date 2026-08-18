@@ -140671,5 +140671,44 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-18T22:02:56.397295+00:00",
     "emailed_utc": "2026-08-18T22:02:56.397295+00:00"
+  },
+  {
+    "job_id": "ashby:langchain:98fcaa18-d323-49cd-b231-b2d4b905419d",
+    "pipeline": "boards",
+    "platform": "ashby",
+    "company": "LangChain",
+    "title": "Solutions Engineer (Chicago)",
+    "location": "Chicago, IL",
+    "posted": "",
+    "url": "https://jobs.ashbyhq.com/langchain/98fcaa18-d323-49cd-b231-b2d4b905419d",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-18T22:31:46.305603+00:00",
+    "emailed_utc": "2026-08-18T22:31:46.305603+00:00"
+  },
+  {
+    "job_id": "ashby:formenergy:a1f357b2-d102-4863-9042-0efd654f46ff",
+    "pipeline": "boards",
+    "platform": "ashby",
+    "company": "Form Energy",
+    "title": "Senior Systems Engineer",
+    "location": "Berkeley, CA",
+    "posted": "",
+    "url": "https://jobs.ashbyhq.com/formenergy/a1f357b2-d102-4863-9042-0efd654f46ff",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-18T22:31:46.305603+00:00",
+    "emailed_utc": "2026-08-18T22:31:46.305603+00:00"
+  },
+  {
+    "job_id": "lever:dodmg:c2a4b56a-c559-4cbd-af1e-4f0a9d12bf8d",
+    "pipeline": "boards",
+    "platform": "lever",
+    "company": "Dodmg",
+    "title": "Senior Software Engineer - Experiment Control",
+    "location": "Malibu, CA",
+    "posted": "2026-08-18 21:57 UTC",
+    "url": "https://jobs.lever.co/dodmg/c2a4b56a-c559-4cbd-af1e-4f0a9d12bf8d",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-18T22:31:46.305603+00:00",
+    "emailed_utc": "2026-08-18T22:31:46.305603+00:00"
   }
 ]
