@@ -139475,5 +139475,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-18T19:03:36.264246+00:00",
     "emailed_utc": "2026-08-18T19:03:36.264246+00:00"
+  },
+  {
+    "job_id": "lever:zoox:44256995-b7d1-4c4a-b83b-3c55b69dedf7",
+    "pipeline": "boards",
+    "platform": "lever",
+    "company": "zoox",
+    "title": "Data Scientist - Perception Verification and Validation",
+    "location": "Boston, MA",
+    "posted": "2026-08-18 18:33 UTC",
+    "url": "https://jobs.lever.co/zoox/44256995-b7d1-4c4a-b83b-3c55b69dedf7",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-18T19:32:41.356923+00:00",
+    "emailed_utc": "2026-08-18T19:32:41.356923+00:00"
+  },
+  {
+    "job_id": "ashby:1password:d8e8cf3f-c994-43a7-854c-86849b95db41",
+    "pipeline": "boards",
+    "platform": "ashby",
+    "company": "1password",
+    "title": "Developer, Authorization",
+    "location": "Remote (United States | Canada)",
+    "posted": "",
+    "url": "https://jobs.ashbyhq.com/1password/d8e8cf3f-c994-43a7-854c-86849b95db41",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-18T19:32:41.356923+00:00",
+    "emailed_utc": "2026-08-18T19:32:41.356923+00:00"
   }
 ]
