@@ -1,48 +1,5 @@
 [
   {
-    "ts": "2026-08-12T06:03Z",
-    "mode": "boards",
-    "per_source": {
-      "greenhouse": {
-        "fetched": 10558,
-        "title_ok": 3635,
-        "loc_ok": 2187,
-        "new": 1,
-        "emailed": 1
-      },
-      "lever": {
-        "fetched": 594,
-        "title_ok": 47,
-        "loc_ok": 31,
-        "new": 0,
-        "emailed": 0
-      },
-      "ashby": {
-        "fetched": 138,
-        "title_ok": 37,
-        "loc_ok": 0,
-        "new": 0,
-        "emailed": 0
-      },
-      "smartrecruiters": {
-        "fetched": 1270,
-        "title_ok": 272,
-        "loc_ok": 109,
-        "new": 0,
-        "emailed": 0
-      },
-      "workday": {
-        "fetched": 10143,
-        "title_ok": 2457,
-        "loc_ok": 864,
-        "new": 0,
-        "emailed": 0
-      }
-    },
-    "duration_s": 101.3,
-    "cursor": 200
-  },
-  {
     "ts": "2026-08-12T06:11Z",
     "mode": "main",
     "per_source": {
@@ -39363,6 +39320,56 @@
       }
     },
     "duration_s": 11.3,
+    "cursor": null
+  },
+  {
+    "ts": "2026-08-18T15:21Z",
+    "mode": "main",
+    "per_source": {
+      "microsoft": {
+        "fetched": 189,
+        "title_ok": 99,
+        "loc_ok": 99,
+        "new": 0,
+        "emailed": 0
+      },
+      "amazon": {
+        "fetched": 300,
+        "title_ok": 288,
+        "loc_ok": 288,
+        "new": 0,
+        "emailed": 0
+      },
+      "nvidia": {
+        "fetched": 20,
+        "title_ok": 20,
+        "loc_ok": 20,
+        "new": 0,
+        "emailed": 0
+      },
+      "goldman_sachs": {
+        "fetched": 0,
+        "title_ok": 0,
+        "loc_ok": 0,
+        "new": 0,
+        "emailed": 0
+      },
+      "ibm": {
+        "fetched": 30,
+        "title_ok": 26,
+        "loc_ok": 14,
+        "new": 0,
+        "emailed": 0
+      },
+      "oracle": {
+        "fetched": 0,
+        "title_ok": 0,
+        "loc_ok": 0,
+        "new": 0,
+        "emailed": 0
+      }
+    },
+    "duration_s": 13.0,
     "cursor": null
   }
 ]
