@@ -136121,5 +136121,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-18T02:03:12.784960+00:00",
     "emailed_utc": "2026-08-18T02:03:12.784960+00:00"
+  },
+  {
+    "job_id": "workday:intel:External:req:JR0286514",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Intel",
+    "title": "AI Systems Software Engineer - Neuromorphic Computing",
+    "location": "US, Oregon, Hillsboro",
+    "posted": "Posted Today",
+    "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/AI-Systems-Software-Engineer---Neuromorphic-Computing_JR0286514",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-18T02:33:22.961535+00:00",
+    "emailed_utc": "2026-08-18T02:33:22.961535+00:00"
+  },
+  {
+    "job_id": "workday:leidos:External:req:R-00189828",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Leidos",
+    "title": "Transport Network Engineer III",
+    "location": "Shiloh, IL",
+    "posted": "Posted Today",
+    "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Shiloh-IL/Transport-Network-Engineer-III_R-00189828",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-18T02:33:22.961535+00:00",
+    "emailed_utc": "2026-08-18T02:33:22.961535+00:00"
   }
 ]
