@@ -136004,5 +136004,57 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-18T01:03:18.647613+00:00",
     "emailed_utc": "2026-08-18T01:03:18.647613+00:00"
+  },
+  {
+    "job_id": "lever:wadetrim:92f36a04-ae49-42fa-865d-fffa9dcb1cde",
+    "pipeline": "boards",
+    "platform": "lever",
+    "company": "wadetrim",
+    "title": "Construction Professional Engineer - #3002",
+    "location": "Tampa, FL",
+    "posted": "2026-08-17 23:53 UTC",
+    "url": "https://jobs.lever.co/wadetrim/92f36a04-ae49-42fa-865d-fffa9dcb1cde",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-18T01:32:33.903425+00:00",
+    "emailed_utc": "2026-08-18T01:32:33.903425+00:00"
+  },
+  {
+    "job_id": "greenhouse:webflow:8137782",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Webflow",
+    "title": "Director, Analytics Engineering",
+    "location": "U.S. Remote",
+    "posted": "2026-08-17T19:55:48-04:00",
+    "url": "https://job-boards.greenhouse.io/webflow/jobs/8137782",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-18T01:32:33.903425+00:00",
+    "emailed_utc": "2026-08-18T01:32:33.903425+00:00"
+  },
+  {
+    "job_id": "ashby:snowflake:db4f0492-ae21-49b7-a7eb-100be61e92bb",
+    "pipeline": "boards",
+    "platform": "ashby",
+    "company": "Snowflake",
+    "title": "Senior Software Engineer - Observe by Snowflake, Metrics Platform",
+    "location": "US-CA-Menlo Park",
+    "posted": "",
+    "url": "https://jobs.ashbyhq.com/snowflake/db4f0492-ae21-49b7-a7eb-100be61e92bb",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-18T01:32:33.903425+00:00",
+    "emailed_utc": "2026-08-18T01:32:33.903425+00:00"
+  },
+  {
+    "job_id": "ashby:snowflake:dcc149d0-abe1-4dd8-858e-01cad43e61d5",
+    "pipeline": "boards",
+    "platform": "ashby",
+    "company": "Snowflake",
+    "title": "Senior Solution Engineer",
+    "location": "US-GA-Remote",
+    "posted": "",
+    "url": "https://jobs.ashbyhq.com/snowflake/dcc149d0-abe1-4dd8-858e-01cad43e61d5",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-18T01:32:33.903425+00:00",
+    "emailed_utc": "2026-08-18T01:32:33.903425+00:00"
   }
 ]
