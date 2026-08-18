@@ -16495,5 +16495,44 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-18T19:21:50.417875+00:00",
     "emailed_utc": "2026-08-18T19:21:50.417875+00:00"
+  },
+  {
+    "job_id": "amazon:ca3dda80-0790-45d3-9338-002acc6e3f63",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, Conversational Ads Experience",
+    "location": "US, WA, Seattle",
+    "posted": "August 18, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10505756/software-development-engineer-conversational-ads-experience",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-18T19:41:42.688981+00:00",
+    "emailed_utc": "2026-08-18T19:41:42.688981+00:00"
+  },
+  {
+    "job_id": "amazon:f78a84fe-1022-4fa9-acc7-49c6e7819dcd",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Applied Scientist, Amazon Supply Chain",
+    "location": "US, WA, Seattle",
+    "posted": "August 18, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10505776/applied-scientist-amazon-supply-chain",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-18T19:41:42.688981+00:00",
+    "emailed_utc": "2026-08-18T19:41:42.688981+00:00"
+  },
+  {
+    "job_id": "amazon:16c99be5-5b0c-4818-a065-f40a0691254b",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, Sponsored Products and Brands",
+    "location": "US, CA, Palo Alto",
+    "posted": "August 18, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10505759/software-development-engineer-sponsored-products-and-brands",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-18T19:41:42.688981+00:00",
+    "emailed_utc": "2026-08-18T19:41:42.688981+00:00"
   }
 ]
