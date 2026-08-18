@@ -61358,5 +61358,57 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-18T00:32:04.374845+00:00",
     "emailed_utc": "2026-08-18T00:32:04.374845+00:00"
+  },
+  {
+    "job_id": "greenhouse:cooksys:5386869008",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "cooksys",
+    "title": "Entry-Level Software Developer ",
+    "location": "Nashville, TN",
+    "posted": "2026-08-17T20:33:34-04:00",
+    "url": "https://job-boards.greenhouse.io/cooksys/jobs/5386869008",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-18T02:02:11.819600+00:00",
+    "emailed_utc": "2026-08-18T02:02:11.819600+00:00"
+  },
+  {
+    "job_id": "greenhouse:copperhome:5214323007",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "copperhome",
+    "title": "Senior Software Engineer",
+    "location": "Berkeley, California, United States",
+    "posted": "2026-08-17T20:10:05-04:00",
+    "url": "https://copperhome.com/pages/jobs?gh_jid=5214323007",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-18T02:02:11.819600+00:00",
+    "emailed_utc": "2026-08-18T02:02:11.819600+00:00"
+  },
+  {
+    "job_id": "greenhouse:flyzipline:7888589003",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "flyzipline",
+    "title": "Mechanical & Scaling Engineer, Droid ",
+    "location": "South San Francisco, California, USA",
+    "posted": "2026-08-17T20:58:52-04:00",
+    "url": "https://www.zipline.com/open-roles?gh_jid=7888589003",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-18T02:02:11.819600+00:00",
+    "emailed_utc": "2026-08-18T02:02:11.819600+00:00"
+  },
+  {
+    "job_id": "greenhouse:flyzipline:7888349003",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "flyzipline",
+    "title": "Senior/ Staff Mechanical Design Engineer, Motor",
+    "location": "South San Francisco, California, USA",
+    "posted": "2026-08-17T20:26:47-04:00",
+    "url": "https://www.zipline.com/open-roles?gh_jid=7888349003",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-18T02:02:11.819600+00:00",
+    "emailed_utc": "2026-08-18T02:02:11.819600+00:00"
   }
 ]
