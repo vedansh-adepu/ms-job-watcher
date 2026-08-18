@@ -136771,5 +136771,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-18T06:03:12.414598+00:00",
     "emailed_utc": "2026-08-18T06:03:12.414598+00:00"
+  },
+  {
+    "job_id": "greenhouse:elastic:8119454",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Elastic",
+    "title": "Principal Software Engineer - Performance Tuning - Elasticsearch",
+    "location": "United States",
+    "posted": "2026-08-18T06:19:44-04:00",
+    "url": "https://jobs.elastic.co/jobs?gh_jid=8119454&gh_jid=8119454",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-18T10:33:14.773699+00:00",
+    "emailed_utc": "2026-08-18T10:33:14.773699+00:00"
+  },
+  {
+    "job_id": "greenhouse:elastic:8119450",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Elastic",
+    "title": "Senior Software Engineer - Performance Tuning - Elasticsearch",
+    "location": "United States",
+    "posted": "2026-08-18T04:27:53-04:00",
+    "url": "https://jobs.elastic.co/jobs?gh_jid=8119450&gh_jid=8119450",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-18T10:33:14.773699+00:00",
+    "emailed_utc": "2026-08-18T10:33:14.773699+00:00"
   }
 ]
