@@ -61293,5 +61293,57 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-17T23:02:36.275774+00:00",
     "emailed_utc": "2026-08-17T23:02:36.275774+00:00"
+  },
+  {
+    "job_id": "greenhouse:acadiapharmaceuticals:8697957002",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "acadiapharmaceuticals",
+    "title": "Director, R&D AI, Insights & Analytics",
+    "location": "Princeton, New Jersey, United States; San Diego, California, United States; South San Francisco, California, United States",
+    "posted": "2026-08-17T18:28:49-04:00",
+    "url": "https://acadia.com/en-us/careers/job-board/8697957002?gh_jid=8697957002",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-18T00:02:28.689416+00:00",
+    "emailed_utc": "2026-08-18T00:02:28.689416+00:00"
+  },
+  {
+    "job_id": "greenhouse:coinbase:8138031",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "coinbase",
+    "title": "Engineering Manager - Platform (FinHub - Financial Intelligence)",
+    "location": "Remote - USA",
+    "posted": "2026-08-17T18:49:48-04:00",
+    "url": "https://www.coinbase.com/careers/positions/8138031?gh_jid=8138031",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-18T00:02:28.689416+00:00",
+    "emailed_utc": "2026-08-18T00:02:28.689416+00:00"
+  },
+  {
+    "job_id": "greenhouse:coupanginternal:7438945",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "coupanginternal",
+    "title": "Senior Staff Backend Engineer - Cloud Infrastructure",
+    "location": "Seattle, USA",
+    "posted": "2026-08-17T19:11:46-04:00",
+    "url": "https://boards.greenhouse.io/coupanginternal/jobs/7438945?gh_jid=7438945",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-18T00:02:28.689416+00:00",
+    "emailed_utc": "2026-08-18T00:02:28.689416+00:00"
+  },
+  {
+    "job_id": "greenhouse:esri:5200150007",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "esri",
+    "title": "Product Engineer II \u2013 Graph Analysis and Semantic Data Modeling",
+    "location": "Redlands, CA",
+    "posted": "2026-08-17T19:52:52-04:00",
+    "url": "https://www.esri.com/careers/5200150007?gh_jid=5200150007",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-18T00:02:28.689416+00:00",
+    "emailed_utc": "2026-08-18T00:02:28.689416+00:00"
   }
 ]
