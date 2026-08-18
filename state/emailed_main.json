@@ -16417,5 +16417,18 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-18T18:01:29.595219+00:00",
     "emailed_utc": "2026-08-18T18:01:29.595219+00:00"
+  },
+  {
+    "job_id": "amazon:928a60dc-b830-452f-a1cd-9775dd2bb96d",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, Amazon Leo for Government",
+    "location": "US, CA, Northridge",
+    "posted": "August 18, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10505607/software-development-engineer-amazon-leo-for-government",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-18T18:21:46.403621+00:00",
+    "emailed_utc": "2026-08-18T18:21:46.403621+00:00"
   }
 ]
