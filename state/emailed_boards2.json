@@ -61644,5 +61644,44 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-18T14:05:37.400140+00:00",
     "emailed_utc": "2026-08-18T14:05:37.400140+00:00"
+  },
+  {
+    "job_id": "lever:harrisonst:0738797d-e073-4517-ae86-918a817dbc27",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "harrisonst",
+    "title": "Data Engineer",
+    "location": "Chicago,  IL",
+    "posted": "2026-08-18 14:18 UTC",
+    "url": "https://jobs.lever.co/harrisonst/0738797d-e073-4517-ae86-918a817dbc27",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-18T14:32:36.517741+00:00",
+    "emailed_utc": "2026-08-18T14:32:36.517741+00:00"
+  },
+  {
+    "job_id": "lever:agile-defense:c75371eb-f9a0-4b99-bbae-18e42381445a",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "agile-defense",
+    "title": "Linux Systems Engineer",
+    "location": "Oahu, HI",
+    "posted": "2026-08-17 19:26 UTC",
+    "url": "https://jobs.lever.co/agile-defense/c75371eb-f9a0-4b99-bbae-18e42381445a",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-18T14:32:36.517741+00:00",
+    "emailed_utc": "2026-08-18T14:32:36.517741+00:00"
+  },
+  {
+    "job_id": "lever:inflowfed:275140c4-f27d-44fd-ab7e-c28730b7fb3d",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "inflowfed",
+    "title": "Sr Software Engineer (AI/ML)",
+    "location": "Springfield, VA",
+    "posted": "2026-08-18 14:18 UTC",
+    "url": "https://jobs.lever.co/inflowfed/275140c4-f27d-44fd-ab7e-c28730b7fb3d",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-18T14:32:36.517741+00:00",
+    "emailed_utc": "2026-08-18T14:32:36.517741+00:00"
   }
 ]
