@@ -61423,5 +61423,44 @@
     "bucket": "yes",
     "first_seen_utc": "2026-08-18T02:07:02.957918+00:00",
     "emailed_utc": "2026-08-18T02:07:02.957918+00:00"
+  },
+  {
+    "job_id": "lever:bioagilytix:512cf268-0629-4ccd-b3cc-ee4fa17a01bd",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "bioagilytix",
+    "title": "Data Engineer",
+    "location": "Durham, NC",
+    "posted": "2026-08-18 02:09 UTC",
+    "url": "https://jobs.lever.co/bioagilytix/512cf268-0629-4ccd-b3cc-ee4fa17a01bd",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-18T02:32:09.847285+00:00",
+    "emailed_utc": "2026-08-18T02:32:09.847285+00:00"
+  },
+  {
+    "job_id": "lever:mainspringenergy:db09cd8f-e00a-4f22-9bb7-7b178dc063be",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "mainspringenergy",
+    "title": "Senior Electrical Engineer, Electronics Design",
+    "location": "Menlo Park, CA",
+    "posted": "2026-08-14 21:19 UTC",
+    "url": "https://jobs.lever.co/mainspringenergy/db09cd8f-e00a-4f22-9bb7-7b178dc063be",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-18T02:32:09.847285+00:00",
+    "emailed_utc": "2026-08-18T02:32:09.847285+00:00"
+  },
+  {
+    "job_id": "lever:mainspringenergy:06670dfb-8465-40f8-9e9c-51f1a033109d",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "mainspringenergy",
+    "title": "Staff Electrical Engineer, Electronics Design",
+    "location": "Menlo Park, CA",
+    "posted": "2026-08-14 21:22 UTC",
+    "url": "https://jobs.lever.co/mainspringenergy/06670dfb-8465-40f8-9e9c-51f1a033109d",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-18T02:32:09.847285+00:00",
+    "emailed_utc": "2026-08-18T02:32:09.847285+00:00"
   }
 ]
