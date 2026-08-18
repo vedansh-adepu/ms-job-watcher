@@ -16196,5 +16196,18 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-18T05:41:40.166802+00:00",
     "emailed_utc": "2026-08-18T05:41:40.166802+00:00"
+  },
+  {
+    "job_id": "amazon:b0c027c8-cafe-464a-b123-5d2fdbf30c06",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer II, AWS WorkSpaces",
+    "location": "US, WA, Seattle",
+    "posted": "August 18, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10504597/software-development-engineer-ii-aws-workspaces",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-18T06:51:43.952983+00:00",
+    "emailed_utc": "2026-08-18T06:51:43.952983+00:00"
   }
 ]
