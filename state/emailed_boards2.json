@@ -61579,5 +61579,70 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-18T13:31:52.375862+00:00",
     "emailed_utc": "2026-08-18T13:31:52.375862+00:00"
+  },
+  {
+    "job_id": "greenhouse:onenergy:4357663009",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "onenergy",
+    "title": "Senior Systems Engineer - R&D",
+    "location": "Houston, Texas, United States",
+    "posted": "2026-08-18T08:48:59-04:00",
+    "url": "https://job-boards.greenhouse.io/onenergy/jobs/4357663009",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-18T14:05:37.400140+00:00",
+    "emailed_utc": "2026-08-18T14:05:37.400140+00:00"
+  },
+  {
+    "job_id": "greenhouse:relativity:8693679002",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "relativity",
+    "title": "Launch Fluids Engineer I",
+    "location": "Cape Canaveral, Florida, United States",
+    "posted": "2026-08-18T09:16:29-04:00",
+    "url": "https://boards.greenhouse.io/relativity/jobs/8693679002?gh_jid=8693679002",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-18T14:05:37.400140+00:00",
+    "emailed_utc": "2026-08-18T14:05:37.400140+00:00"
+  },
+  {
+    "job_id": "greenhouse:relativity:8697514002",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "relativity",
+    "title": "Staff Launch Fluids Engineer",
+    "location": "Cape Canaveral, Florida, United States",
+    "posted": "2026-08-18T09:16:49-04:00",
+    "url": "https://boards.greenhouse.io/relativity/jobs/8697514002?gh_jid=8697514002",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-18T14:05:37.400140+00:00",
+    "emailed_utc": "2026-08-18T14:05:37.400140+00:00"
+  },
+  {
+    "job_id": "greenhouse:sambanovasystems:6145573004",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "sambanovasystems",
+    "title": "Senior Hardware Design Engineer",
+    "location": "Austin, Texas, United States; San Jose, California, United States",
+    "posted": "2026-08-18T09:16:56-04:00",
+    "url": "https://sambanova.ai/sambanova-available-positions/?gh_jid=6145573004",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-18T14:05:37.400140+00:00",
+    "emailed_utc": "2026-08-18T14:05:37.400140+00:00"
+  },
+  {
+    "job_id": "greenhouse:sambanovasystems:6145614004",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "sambanovasystems",
+    "title": "Senior Principal Hardware Emulation Engineer",
+    "location": "San Jose, California, United States",
+    "posted": "2026-08-18T09:16:11-04:00",
+    "url": "https://sambanova.ai/sambanova-available-positions/?gh_jid=6145614004",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-18T14:05:37.400140+00:00",
+    "emailed_utc": "2026-08-18T14:05:37.400140+00:00"
   }
 ]
