@@ -16300,5 +16300,18 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-18T14:41:41.016095+00:00",
     "emailed_utc": "2026-08-18T14:41:41.016095+00:00"
+  },
+  {
+    "job_id": "amazon:d8bccd76-4959-4919-b51c-010696b8cb2d",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer II, AWS ECS",
+    "location": "US, WA, Seattle",
+    "posted": "August 18, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10504942/software-development-engineer-ii-aws-ecs",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-18T15:01:53.461554+00:00",
+    "emailed_utc": "2026-08-18T15:01:53.461554+00:00"
   }
 ]
