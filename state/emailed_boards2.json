@@ -61540,5 +61540,44 @@
     "bucket": "yes",
     "first_seen_utc": "2026-08-18T13:02:52.780462+00:00",
     "emailed_utc": "2026-08-18T13:02:52.780462+00:00"
+  },
+  {
+    "job_id": "greenhouse:coinbase:8103569",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "coinbase",
+    "title": "Senior Software Engineer, Simple Trade Experience",
+    "location": "Remote - USA",
+    "posted": "2026-08-18T09:17:58-04:00",
+    "url": "https://www.coinbase.com/careers/positions/8103569?gh_jid=8103569",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-18T13:31:52.375862+00:00",
+    "emailed_utc": "2026-08-18T13:31:52.375862+00:00"
+  },
+  {
+    "job_id": "greenhouse:eqtcorporation:5393699008",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "eqtcorporation",
+    "title": "Sr/Expert/Advisor Process Engineer - Midstream Facilities",
+    "location": "Hybrid - Canonsburg, PA",
+    "posted": "2026-08-18T08:28:44-04:00",
+    "url": "https://job-boards.greenhouse.io/eqtcorporation/jobs/5393699008",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-18T13:31:52.375862+00:00",
+    "emailed_utc": "2026-08-18T13:31:52.375862+00:00"
+  },
+  {
+    "job_id": "greenhouse:equipmentsharecom:8130469",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "equipmentsharecom",
+    "title": "Senior Electrical Engineer - Temporary Power Generation & Energy Systems",
+    "location": "Columbia, MO (Headquarters)",
+    "posted": "2026-08-18T08:37:03-04:00",
+    "url": "https://www.equipmentshare.com/careers/openings/?gh_jid=8130469",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-18T13:31:52.375862+00:00",
+    "emailed_utc": "2026-08-18T13:31:52.375862+00:00"
   }
 ]
