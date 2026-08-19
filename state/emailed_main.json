@@ -17158,5 +17158,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-19T19:21:51.004523+00:00",
     "emailed_utc": "2026-08-19T19:21:51.004523+00:00"
+  },
+  {
+    "job_id": "amazon:4b4060c3-3623-47e9-8713-0c79a19ffbc2",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, AWS",
+    "location": "US, WA, Seattle",
+    "posted": "August 19, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10507287/software-development-engineer-aws",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-19T19:31:40.729517+00:00",
+    "emailed_utc": "2026-08-19T19:31:40.729517+00:00"
+  },
+  {
+    "job_id": "amazon:7fe584a2-b31e-4790-9984-0c67e0427bff",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer II, Geospatial",
+    "location": "US, TX, Austin",
+    "posted": "August 19, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10507282/software-development-engineer-ii-geospatial",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-19T19:31:40.729517+00:00",
+    "emailed_utc": "2026-08-19T19:31:40.729517+00:00"
   }
 ]
