@@ -63516,5 +63516,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-19T13:02:45.578823+00:00",
     "emailed_utc": "2026-08-19T13:02:45.578823+00:00"
+  },
+  {
+    "job_id": "greenhouse:onenergy:4374863009",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "onenergy",
+    "title": "Sr. Cybersecurity Engineer, Detection & Response",
+    "location": "Houston, Texas, United States",
+    "posted": "2026-08-19T08:11:56-04:00",
+    "url": "https://job-boards.greenhouse.io/onenergy/jobs/4374863009",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-19T13:31:04.790615+00:00",
+    "emailed_utc": "2026-08-19T13:31:04.790615+00:00"
+  },
+  {
+    "job_id": "greenhouse:pubmatic:5395205008",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "pubmatic",
+    "title": "Solutions Engineer/ Senior Solutions Engineer",
+    "location": "Gurugram, IN",
+    "posted": "2026-08-19T09:11:52-04:00",
+    "url": "https://pubmatic.com/job/?gh_jid=5395205008",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-19T13:31:04.790615+00:00",
+    "emailed_utc": "2026-08-19T13:31:04.790615+00:00"
   }
 ]
