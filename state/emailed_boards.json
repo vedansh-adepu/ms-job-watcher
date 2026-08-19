@@ -144597,5 +144597,44 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-19T16:32:39.991758+00:00",
     "emailed_utc": "2026-08-19T16:32:39.991758+00:00"
+  },
+  {
+    "job_id": "greenhouse:torcrobotics:8651408002",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Torcrobotics",
+    "title": "Software Engineer II - Business Intelligence",
+    "location": "Ann Arbor, MI; Remote (US)",
+    "posted": "2026-08-19T12:49:08-04:00",
+    "url": "https://job-boards.greenhouse.io/torcrobotics/jobs/8651408002",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-19T17:01:47.973043+00:00",
+    "emailed_utc": "2026-08-19T17:01:47.973043+00:00"
+  },
+  {
+    "job_id": "greenhouse:torcrobotics:8719797002",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Torcrobotics",
+    "title": "Test Safety Engineer",
+    "location": "Fort Worth, Texas, Remote - US",
+    "posted": "2026-08-19T11:15:24-04:00",
+    "url": "https://job-boards.greenhouse.io/torcrobotics/jobs/8719797002",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-19T17:01:47.973043+00:00",
+    "emailed_utc": "2026-08-19T17:01:47.973043+00:00"
+  },
+  {
+    "job_id": "greenhouse:lucidmotors:5186080007",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Lucidmotors",
+    "title": "Senior Supplier Industrialization Engineer, Powertrain Batteries ",
+    "location": "Casa Grande, AZ",
+    "posted": "2026-08-19T12:06:15-04:00",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5186080007",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-19T17:01:47.973043+00:00",
+    "emailed_utc": "2026-08-19T17:01:47.973043+00:00"
   }
 ]
