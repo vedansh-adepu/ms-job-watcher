@@ -63334,5 +63334,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-19T00:32:02.550042+00:00",
     "emailed_utc": "2026-08-19T00:32:02.550042+00:00"
+  },
+  {
+    "job_id": "greenhouse:kodiak:4375085009",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "kodiak",
+    "title": "Senior Systems Engineer, Fault Management- Kelly Smith",
+    "location": "Mountain View, CA",
+    "posted": "2026-08-18T20:30:30-04:00",
+    "url": "https://job-boards.greenhouse.io/kodiak/jobs/4375085009",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-19T01:02:28.281701+00:00",
+    "emailed_utc": "2026-08-19T01:02:28.281701+00:00"
+  },
+  {
+    "job_id": "greenhouse:pacificfusion:4375034009",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "pacificfusion",
+    "title": "Senior Manufacturing Engineer",
+    "location": "San Leandro, CA",
+    "posted": "2026-08-18T19:27:51-04:00",
+    "url": "https://job-boards.greenhouse.io/pacificfusion/jobs/4375034009",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-19T01:02:28.281701+00:00",
+    "emailed_utc": "2026-08-19T01:02:28.281701+00:00"
   }
 ]
