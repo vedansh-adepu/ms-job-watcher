@@ -17366,5 +17366,31 @@
     "bucket": "yes",
     "first_seen_utc": "2026-08-19T21:32:08.511800+00:00",
     "emailed_utc": "2026-08-19T21:32:08.511800+00:00"
+  },
+  {
+    "job_id": "nvidia:893397139827",
+    "pipeline": "main",
+    "platform": "nvidia",
+    "company": "NVIDIA",
+    "title": "Senior Software Engineer, Attestation Services - DGX Cloud",
+    "location": "US",
+    "posted": "2026-08-19 00:00 UTC",
+    "url": "https://nvidia.eightfold.ai/careers/job/893397139827",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-19T21:51:39.333980+00:00",
+    "emailed_utc": "2026-08-19T21:51:39.333980+00:00"
+  },
+  {
+    "job_id": "amazon:a8d2587c-7c93-44ac-b63d-cda2f10a0f93",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Manager, Publisher Ad Sever - Infrastructure & Developer Experience",
+    "location": "US, WA, Seattle",
+    "posted": "August 19, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10507442/software-development-manager-publisher-ad-sever-infrastructure-developer-experience",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-19T21:51:39.333980+00:00",
+    "emailed_utc": "2026-08-19T21:51:39.333980+00:00"
   }
 ]
