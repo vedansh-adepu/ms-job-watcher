@@ -17041,5 +17041,44 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-19T18:11:56.754633+00:00",
     "emailed_utc": "2026-08-19T18:11:56.754633+00:00"
+  },
+  {
+    "job_id": "microsoft:1970393556962720",
+    "pipeline": "main",
+    "platform": "microsoft",
+    "company": "Microsoft",
+    "title": "Silicon Debug Engineer",
+    "location": "Hillsboro, OR, US",
+    "posted": "2026-08-19 17:49 UTC",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556962720",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-19T18:33:06.341271+00:00",
+    "emailed_utc": "2026-08-19T18:33:06.341271+00:00"
+  },
+  {
+    "job_id": "amazon:96bb93a6-648b-4198-831c-5281a1ac695a",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Dev Engineer II, AWS Applied AI Solutions",
+    "location": "US, WA, Seattle",
+    "posted": "August 19, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10507206/software-dev-engineer-ii-aws-applied-ai-solutions",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-19T18:33:06.341271+00:00",
+    "emailed_utc": "2026-08-19T18:33:06.341271+00:00"
+  },
+  {
+    "job_id": "amazon:d463d858-f3ee-4e6a-b153-07175837f120",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Senior Satellite RF Test SW Dev Engineer, Amazon Leo",
+    "location": "US, WA, Redmond",
+    "posted": "August 19, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10507202/senior-satellite-rf-test-sw-dev-engineer-amazon-leo",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-19T18:33:06.341271+00:00",
+    "emailed_utc": "2026-08-19T18:33:06.341271+00:00"
   }
 ]
