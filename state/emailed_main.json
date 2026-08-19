@@ -17353,5 +17353,18 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-19T21:21:42.866432+00:00",
     "emailed_utc": "2026-08-19T21:21:42.866432+00:00"
+  },
+  {
+    "job_id": "amazon:9f69f926-caf1-491f-adc5-4c022f46e8cd",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "SDE- Kuiper Network Services",
+    "location": "US, CA, Sunnyvale",
+    "posted": "August 19, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10507424/sde-kuiper-network-services",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-19T21:32:08.511800+00:00",
+    "emailed_utc": "2026-08-19T21:32:08.511800+00:00"
   }
 ]
