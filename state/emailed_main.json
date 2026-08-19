@@ -16781,5 +16781,44 @@
     "bucket": "yes",
     "first_seen_utc": "2026-08-19T01:31:28.092143+00:00",
     "emailed_utc": "2026-08-19T01:31:28.092143+00:00"
+  },
+  {
+    "job_id": "nvidia:893397112877",
+    "pipeline": "main",
+    "platform": "nvidia",
+    "company": "NVIDIA",
+    "title": "System Software Engineer - Trusted Firmware",
+    "location": "Santa Clara, CA, US",
+    "posted": "2026-08-18 00:00 UTC",
+    "url": "https://nvidia.eightfold.ai/careers/job/893397112877",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-19T04:11:49.322171+00:00",
+    "emailed_utc": "2026-08-19T04:11:49.322171+00:00"
+  },
+  {
+    "job_id": "nvidia:893397112875",
+    "pipeline": "main",
+    "platform": "nvidia",
+    "company": "NVIDIA",
+    "title": "Senior Tegra Software Engineer",
+    "location": "Santa Clara, CA, US",
+    "posted": "2026-08-18 00:00 UTC",
+    "url": "https://nvidia.eightfold.ai/careers/job/893397112875",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-19T04:11:49.322171+00:00",
+    "emailed_utc": "2026-08-19T04:11:49.322171+00:00"
+  },
+  {
+    "job_id": "nvidia:893397112878",
+    "pipeline": "main",
+    "platform": "nvidia",
+    "company": "NVIDIA",
+    "title": "Senior Linux Software Engineer - Chip System Software",
+    "location": "Santa Clara, CA, US",
+    "posted": "2026-08-18 00:00 UTC",
+    "url": "https://nvidia.eightfold.ai/careers/job/893397112878",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-19T04:11:49.322171+00:00",
+    "emailed_utc": "2026-08-19T04:11:49.322171+00:00"
   }
 ]
