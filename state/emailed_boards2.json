@@ -64049,5 +64049,57 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-19T16:08:37.389721+00:00",
     "emailed_utc": "2026-08-19T16:08:37.389721+00:00"
+  },
+  {
+    "job_id": "greenhouse:exadelinc:6147095004",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "exadelinc",
+    "title": "Software Engineer (Oracle EDM/EDMCS, APES, ARS)",
+    "location": "Seattle, WA",
+    "posted": "2026-08-19T11:09:27-04:00",
+    "url": "https://job-boards.greenhouse.io/exadelinc/jobs/6147095004",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-19T17:02:18.087761+00:00",
+    "emailed_utc": "2026-08-19T17:02:18.087761+00:00"
+  },
+  {
+    "job_id": "greenhouse:agilityrobotics:6146407004",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "agilityrobotics",
+    "title": "Staff Software Engineer, Hardware Interface",
+    "location": "Hybrid- Fremont, CA",
+    "posted": "2026-08-19T11:45:07-04:00",
+    "url": "https://www.agilityrobotics.com/about/job-post?gh_jid=6146407004",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-19T17:02:18.087761+00:00",
+    "emailed_utc": "2026-08-19T17:02:18.087761+00:00"
+  },
+  {
+    "job_id": "greenhouse:altentechnologyusa:5216204007",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "altentechnologyusa",
+    "title": "Advanced Vehicle Dynamics Engineer",
+    "location": "Auburn Hills, Michigan, United States",
+    "posted": "2026-08-19T12:11:46-04:00",
+    "url": "https://job-boards.greenhouse.io/altentechnologyusa/jobs/5216204007",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-19T17:02:18.087761+00:00",
+    "emailed_utc": "2026-08-19T17:02:18.087761+00:00"
+  },
+  {
+    "job_id": "greenhouse:enchargeai36:4375746009",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "enchargeai36",
+    "title": "Principal Solutions Engineer",
+    "location": "US Remote",
+    "posted": "2026-08-19T12:50:24-04:00",
+    "url": "https://job-boards.greenhouse.io/enchargeai36/jobs/4375746009",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-19T17:02:18.087761+00:00",
+    "emailed_utc": "2026-08-19T17:02:18.087761+00:00"
   }
 ]
