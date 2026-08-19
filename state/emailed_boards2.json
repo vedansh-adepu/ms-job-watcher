@@ -63425,5 +63425,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-19T02:32:35.659862+00:00",
     "emailed_utc": "2026-08-19T02:32:35.659862+00:00"
+  },
+  {
+    "job_id": "greenhouse:mavenrobotics:5366516008",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "mavenrobotics",
+    "title": "Robot Autonomy Engineer",
+    "location": "San Francisco Bay Area, California USA",
+    "posted": "2026-08-19T01:54:15-04:00",
+    "url": "https://boards.greenhouse.io/mavenrobotics/jobs/5366516008?gh_jid=5366516008",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-19T06:02:07.139662+00:00",
+    "emailed_utc": "2026-08-19T06:02:07.139662+00:00"
+  },
+  {
+    "job_id": "greenhouse:picarroinc:5389838008",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "picarroinc",
+    "title": "Optical Engineer",
+    "location": "Santa Clara, CA",
+    "posted": "2026-08-19T01:28:26-04:00",
+    "url": "https://www.picarro.com/company/careers/job-openings/apply?gh_jid=5389838008",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-19T06:02:07.139662+00:00",
+    "emailed_utc": "2026-08-19T06:02:07.139662+00:00"
   }
 ]
