@@ -144259,5 +144259,57 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-19T15:46:06.845446+00:00",
     "emailed_utc": "2026-08-19T15:46:06.845446+00:00"
+  },
+  {
+    "job_id": "greenhouse:spacex:8717350002",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "SpaceX",
+    "title": "Software Engineer, Inference (AI Data Engineering)",
+    "location": "Palo Alto, CA",
+    "posted": "2026-08-19T11:41:33-04:00",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8717350002?gh_jid=8717350002",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-19T16:03:18.607353+00:00",
+    "emailed_utc": "2026-08-19T16:03:18.607353+00:00"
+  },
+  {
+    "job_id": "greenhouse:rocketlab:7866277003",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "rocketlab",
+    "title": "Ground Systems Engineer II - Structures & Mechanisms ",
+    "location": "Wallops Island, VA",
+    "posted": "2026-08-19T10:12:46-04:00",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7866277003",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-19T16:03:18.607353+00:00",
+    "emailed_utc": "2026-08-19T16:03:18.607353+00:00"
+  },
+  {
+    "job_id": "greenhouse:sonyinteractiveentertainmentglobal:6147288004",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "sonyinteractiveentertainmentglobal",
+    "title": "Staff Software Engineer \u2013 Data",
+    "location": "United States, San Mateo, CA",
+    "posted": "2026-08-19T11:06:35-04:00",
+    "url": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6147288004",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-19T16:03:18.607353+00:00",
+    "emailed_utc": "2026-08-19T16:03:18.607353+00:00"
+  },
+  {
+    "job_id": "greenhouse:spacex:8729104002",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "SpaceX",
+    "title": "Sr. Mechanical Engineer (MEP/Construction)",
+    "location": "Bastrop, TX",
+    "posted": "2026-08-19T11:01:02-04:00",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8729104002?gh_jid=8729104002",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-19T16:03:18.607353+00:00",
+    "emailed_utc": "2026-08-19T16:03:18.607353+00:00"
   }
 ]
