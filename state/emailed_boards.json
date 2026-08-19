@@ -147119,5 +147119,57 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-19T21:33:24.406510+00:00",
     "emailed_utc": "2026-08-19T21:33:24.406510+00:00"
+  },
+  {
+    "job_id": "greenhouse:upstart:8142327",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "UpStart",
+    "title": "Software Engineer, Cash Line",
+    "location": "United States | Remote",
+    "posted": "2026-08-19T15:02:10-04:00",
+    "url": "https://careers.upstart.com/jobs?gh_jid=8142327",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-19T21:40:14.586260+00:00",
+    "emailed_utc": "2026-08-19T21:40:14.586260+00:00"
+  },
+  {
+    "job_id": "greenhouse:voyagertechnologiesinc:4375538009",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "voyagertechnologiesinc",
+    "title": "Systems Engineer \u2013 Project Engineer IV",
+    "location": "Folsom, CA, Remote Colorado",
+    "posted": "2026-08-19T17:35:24-04:00",
+    "url": "https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4375538009",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-19T21:40:14.586260+00:00",
+    "emailed_utc": "2026-08-19T21:40:14.586260+00:00"
+  },
+  {
+    "job_id": "lever:waabi:22ac1531-8c88-4a4e-b05e-e8fc4cc2dd4a",
+    "pipeline": "boards",
+    "platform": "lever",
+    "company": "waabi",
+    "title": "Manufacturing Engineer (NPI)",
+    "location": "Pittsburgh, PA",
+    "posted": "2026-08-19 18:26 UTC",
+    "url": "https://jobs.lever.co/waabi/22ac1531-8c88-4a4e-b05e-e8fc4cc2dd4a",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-19T21:40:14.586260+00:00",
+    "emailed_utc": "2026-08-19T21:40:14.586260+00:00"
+  },
+  {
+    "job_id": "ashby:1password:94c8e6d3-f375-4719-ba03-8a26b44f1108",
+    "pipeline": "boards",
+    "platform": "ashby",
+    "company": "1password",
+    "title": "Solutions Engineer, MM",
+    "location": "United States",
+    "posted": "",
+    "url": "https://jobs.ashbyhq.com/1password/94c8e6d3-f375-4719-ba03-8a26b44f1108",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-19T21:40:14.586260+00:00",
+    "emailed_utc": "2026-08-19T21:40:14.586260+00:00"
   }
 ]
