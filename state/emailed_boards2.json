@@ -63451,5 +63451,44 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-19T06:02:07.139662+00:00",
     "emailed_utc": "2026-08-19T06:02:07.139662+00:00"
+  },
+  {
+    "job_id": "lever:bounteous:efa39bac-21db-417e-86d5-0a6f40ef9945",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "bounteous",
+    "title": "CDP Data Engineer",
+    "location": "United States",
+    "posted": "2026-08-19 05:40 UTC",
+    "url": "https://jobs.lever.co/bounteous/efa39bac-21db-417e-86d5-0a6f40ef9945",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-19T06:32:44.571736+00:00",
+    "emailed_utc": "2026-08-19T06:32:44.571736+00:00"
+  },
+  {
+    "job_id": "lever:aeva:bc2e0c03-fb9f-4bb9-ade0-ddfe30fa1a9f",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "aeva",
+    "title": "Senior Opto Mechanical Design Engineer",
+    "location": "Mountain View, CA",
+    "posted": "2026-08-19 05:28 UTC",
+    "url": "https://jobs.lever.co/aeva/bc2e0c03-fb9f-4bb9-ade0-ddfe30fa1a9f",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-19T06:32:44.571736+00:00",
+    "emailed_utc": "2026-08-19T06:32:44.571736+00:00"
+  },
+  {
+    "job_id": "lever:atomcomputing:f035d540-d76d-4afe-9300-61cc179059e5",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "atomcomputing",
+    "title": "Principal Platform Engineer",
+    "location": "Boulder, CO",
+    "posted": "2026-08-19 06:26 UTC",
+    "url": "https://jobs.lever.co/atomcomputing/f035d540-d76d-4afe-9300-61cc179059e5",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-19T06:32:44.571736+00:00",
+    "emailed_utc": "2026-08-19T06:32:44.571736+00:00"
   }
 ]
