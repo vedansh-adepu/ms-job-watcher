@@ -17080,5 +17080,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-19T18:33:06.341271+00:00",
     "emailed_utc": "2026-08-19T18:33:06.341271+00:00"
+  },
+  {
+    "job_id": "microsoft:1970393556962878",
+    "pipeline": "main",
+    "platform": "microsoft",
+    "company": "Microsoft",
+    "title": "Senior Design Engineer",
+    "location": "Mountain View, CA, US",
+    "posted": "2026-08-19 18:10 UTC",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556962878",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-19T18:54:23.961819+00:00",
+    "emailed_utc": "2026-08-19T18:54:23.961819+00:00"
+  },
+  {
+    "job_id": "amazon:4d8446a2-787a-45b5-b930-9fe90406165e",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Manager, Project Leo",
+    "location": "US, WA, Redmond",
+    "posted": "August 19, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10507230/software-development-manager-project-leo",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-19T18:54:23.961819+00:00",
+    "emailed_utc": "2026-08-19T18:54:23.961819+00:00"
   }
 ]
