@@ -142595,5 +142595,18 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-19T04:03:22.424855+00:00",
     "emailed_utc": "2026-08-19T04:03:22.424855+00:00"
+  },
+  {
+    "job_id": "workday:gdit:External_Career_Site:req:RQ226530",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "General Dynamics Information Technology (GDIT)",
+    "title": "Software Engineer - MID",
+    "location": "USA FL MacDill AFB",
+    "posted": "Posted Today",
+    "url": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-FL-MacDill-AFB/Software-Engineer---MID_RQ226530-1",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-19T04:33:26.412992+00:00",
+    "emailed_utc": "2026-08-19T04:33:26.412992+00:00"
   }
 ]
