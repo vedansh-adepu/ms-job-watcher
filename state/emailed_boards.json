@@ -143531,5 +143531,70 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-19T12:33:21.271181+00:00",
     "emailed_utc": "2026-08-19T12:33:21.271181+00:00"
+  },
+  {
+    "job_id": "greenhouse:healthverity:5395219008",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "HealthVerity",
+    "title": "Lead Analytics Consultant, Real World Data Insights (Post-sale)",
+    "location": "Philadelphia, PA",
+    "posted": "2026-08-19T06:59:37-04:00",
+    "url": "https://healthverity.com/careers/jobs/?gh_jid=5395219008",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-19T13:03:40.201155+00:00",
+    "emailed_utc": "2026-08-19T13:03:40.201155+00:00"
+  },
+  {
+    "job_id": "greenhouse:healthverity:5395220008",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "HealthVerity",
+    "title": "Lead Analytics Consultant, Real World Data Insights (Pre-sale)",
+    "location": "Philadelphia, PA",
+    "posted": "2026-08-19T07:00:38-04:00",
+    "url": "https://healthverity.com/careers/jobs/?gh_jid=5395220008",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-19T13:03:40.201155+00:00",
+    "emailed_utc": "2026-08-19T13:03:40.201155+00:00"
+  },
+  {
+    "job_id": "workday:fmr:FidelityCareers:req:2133542",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Fidelity Investments",
+    "title": "Team Lead Portfolio Risk Platform and Analytics",
+    "location": "Jersey City, NJ",
+    "posted": "Posted Today",
+    "url": "https://fmr.wd1.myworkdayjobs.com/en-US/FidelityCareers/job/Jersey-City-NJ/Team-Lead-Portfolio-Risk-Platform-and-Analytics_2133542-1",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-19T13:03:40.201155+00:00",
+    "emailed_utc": "2026-08-19T13:03:40.201155+00:00"
+  },
+  {
+    "job_id": "workday:leidos:External:req:R-00189605",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Leidos",
+    "title": "Field/Base Communications Network Engineer",
+    "location": "San Diego, CA",
+    "posted": "Posted Today",
+    "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/San-Diego-CA/Field-Base-Communications-Network-Engineer_R-00189605-1",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-19T13:03:40.201155+00:00",
+    "emailed_utc": "2026-08-19T13:03:40.201155+00:00"
+  },
+  {
+    "job_id": "workday:leidos:External:req:R-00189962",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Leidos",
+    "title": "Senior Network Engineer",
+    "location": "Lorton, VA",
+    "posted": "Posted Today",
+    "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Lorton-VA/Senior-Network-Engineer_R-00189962-1",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-19T13:03:40.201155+00:00",
+    "emailed_utc": "2026-08-19T13:03:40.201155+00:00"
   }
 ]
