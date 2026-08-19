@@ -147171,5 +147171,70 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-19T21:40:14.586260+00:00",
     "emailed_utc": "2026-08-19T21:40:14.586260+00:00"
+  },
+  {
+    "job_id": "ashby:langchain:9a0ae8b4-af0c-4551-b9cd-284fe67e1935",
+    "pipeline": "boards",
+    "platform": "ashby",
+    "company": "LangChain",
+    "title": "Infrastructure Engineer, Database",
+    "location": "San Francisco, CA",
+    "posted": "",
+    "url": "https://jobs.ashbyhq.com/langchain/9a0ae8b4-af0c-4551-b9cd-284fe67e1935",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-19T22:01:40.313756+00:00",
+    "emailed_utc": "2026-08-19T22:01:40.313756+00:00"
+  },
+  {
+    "job_id": "greenhouse:armada:5394667008",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Armada",
+    "title": "Data Center Structural Engineer",
+    "location": "United States (Remote)",
+    "posted": "2026-08-19T16:37:13-04:00",
+    "url": "https://job-boards.greenhouse.io/armada/jobs/5394667008",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-19T22:01:40.313756+00:00",
+    "emailed_utc": "2026-08-19T22:01:40.313756+00:00"
+  },
+  {
+    "job_id": "greenhouse:lucidmotors:5197938007",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Lucidmotors",
+    "title": "Sr/Staff Perception Machine Learning Engineer   ",
+    "location": "Michigan, United States",
+    "posted": "2026-08-19T16:25:50-04:00",
+    "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5197938007",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-19T22:01:40.313756+00:00",
+    "emailed_utc": "2026-08-19T22:01:40.313756+00:00"
+  },
+  {
+    "job_id": "lever:hermeus:b226d61a-7b51-4c61-8939-e844319e3390",
+    "pipeline": "boards",
+    "platform": "lever",
+    "company": "Hermeus",
+    "title": "Senior Flight Software Engineer",
+    "location": "Atlanta, GA",
+    "posted": "2026-08-19 21:26 UTC",
+    "url": "https://jobs.lever.co/hermeus/b226d61a-7b51-4c61-8939-e844319e3390",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-19T22:01:40.313756+00:00",
+    "emailed_utc": "2026-08-19T22:01:40.313756+00:00"
+  },
+  {
+    "job_id": "lever:field-ai:06a990c8-ee1e-419e-973c-fb5bcc23019e",
+    "pipeline": "boards",
+    "platform": "lever",
+    "company": "Field Ai",
+    "title": "Principal Robotics Engineer",
+    "location": "Irvine, CA",
+    "posted": "2026-08-19 19:56 UTC",
+    "url": "https://jobs.lever.co/field-ai/06a990c8-ee1e-419e-973c-fb5bcc23019e",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-19T22:01:40.313756+00:00",
+    "emailed_utc": "2026-08-19T22:01:40.313756+00:00"
   }
 ]

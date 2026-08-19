@@ -17392,5 +17392,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-19T21:51:39.333980+00:00",
     "emailed_utc": "2026-08-19T21:51:39.333980+00:00"
+  },
+  {
+    "job_id": "microsoft:1970393556960240",
+    "pipeline": "main",
+    "platform": "microsoft",
+    "company": "Microsoft",
+    "title": "Applied Scientist II",
+    "location": "Mountain View, CA, US",
+    "posted": "2026-08-17 23:36 UTC",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556960240",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-19T22:01:48.577699+00:00",
+    "emailed_utc": "2026-08-19T22:01:48.577699+00:00"
+  },
+  {
+    "job_id": "amazon:3eb960f8-dc5f-4dfc-91aa-8158ad494bfa",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Applied Scientist, AWS Security",
+    "location": "US, VA, Arlington",
+    "posted": "August 19, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10507457/applied-scientist-aws-security",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-19T22:01:48.577699+00:00",
+    "emailed_utc": "2026-08-19T22:01:48.577699+00:00"
   }
 ]
