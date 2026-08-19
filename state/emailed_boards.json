@@ -142790,5 +142790,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-19T05:33:11.748689+00:00",
     "emailed_utc": "2026-08-19T05:33:11.748689+00:00"
+  },
+  {
+    "job_id": "greenhouse:anthropic:5366149008",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Anthropic",
+    "title": "Business Systems Analyst, Security Engineering",
+    "location": "San Francisco, CA",
+    "posted": "2026-08-19T00:15:23-04:00",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5366149008",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-19T07:03:31.978367+00:00",
+    "emailed_utc": "2026-08-19T07:03:31.978367+00:00"
+  },
+  {
+    "job_id": "workday:abbott:abbottcareers:req:35000134",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Abbott",
+    "title": "Staff Software Engineer",
+    "location": "United States - California - San Diego",
+    "posted": "Posted Yesterday",
+    "url": "https://abbott.wd5.myworkdayjobs.com/en-US/abbottcareers/job/United-States---California---San-Diego/Staff-Software-Engineer_35000134-2",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-19T07:03:31.978367+00:00",
+    "emailed_utc": "2026-08-19T07:03:31.978367+00:00"
   }
 ]
