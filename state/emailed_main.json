@@ -17301,5 +17301,44 @@
     "bucket": "yes",
     "first_seen_utc": "2026-08-19T20:32:40.011294+00:00",
     "emailed_utc": "2026-08-19T20:32:40.011294+00:00"
+  },
+  {
+    "job_id": "microsoft:1970393556969536",
+    "pipeline": "main",
+    "platform": "microsoft",
+    "company": "Microsoft",
+    "title": "Software Engineer II",
+    "location": "Redmond, WA, US",
+    "posted": "2026-08-19 20:23 UTC",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556969536",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-19T21:11:39.603012+00:00",
+    "emailed_utc": "2026-08-19T21:11:39.603012+00:00"
+  },
+  {
+    "job_id": "amazon:85d260ab-c574-46e6-a2b6-8185397fc67d",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software I&T Engineer , Amazon Leo for Government",
+    "location": "US, CA, Northridge",
+    "posted": "August 19, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10507394/software-i-t-engineer-amazon-leo-for-government",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-19T21:11:39.603012+00:00",
+    "emailed_utc": "2026-08-19T21:11:39.603012+00:00"
+  },
+  {
+    "job_id": "amazon:54999cb5-b0d2-4454-a94f-434f9873810d",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software I&T Engineer , Amazon Leo for Government",
+    "location": "US, CA, Northridge",
+    "posted": "August 19, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10507391/software-i-t-engineer-amazon-leo-for-government",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-19T21:11:39.603012+00:00",
+    "emailed_utc": "2026-08-19T21:11:39.603012+00:00"
   }
 ]
