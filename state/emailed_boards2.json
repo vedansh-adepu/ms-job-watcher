@@ -63490,5 +63490,18 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-19T06:32:44.571736+00:00",
     "emailed_utc": "2026-08-19T06:32:44.571736+00:00"
+  },
+  {
+    "job_id": "greenhouse:pharomanagement:7847464003",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "pharomanagement",
+    "title": "Data Engineer",
+    "location": "New York, United States",
+    "posted": "2026-08-19T07:03:27-04:00",
+    "url": "https://job-boards.greenhouse.io/pharomanagement/jobs/7847464003",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-19T11:31:27.689675+00:00",
+    "emailed_utc": "2026-08-19T11:31:27.689675+00:00"
   }
 ]
