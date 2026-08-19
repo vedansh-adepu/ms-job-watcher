@@ -141880,5 +141880,57 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-19T00:02:41.035348+00:00",
     "emailed_utc": "2026-08-19T00:02:41.035348+00:00"
+  },
+  {
+    "job_id": "greenhouse:rocketlab:7894107003",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "rocketlab",
+    "title": "Mechanical Engineer II",
+    "location": "Pasadena, CA",
+    "posted": "2026-08-18T18:59:35-04:00",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7894107003",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-19T00:33:08.470358+00:00",
+    "emailed_utc": "2026-08-19T00:33:08.470358+00:00"
+  },
+  {
+    "job_id": "greenhouse:rocketlab:7894105003",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "rocketlab",
+    "title": "Senior Mechanical Engineer II",
+    "location": "Pasadena, CA",
+    "posted": "2026-08-18T19:03:44-04:00",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7894105003",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-19T00:33:08.470358+00:00",
+    "emailed_utc": "2026-08-19T00:33:08.470358+00:00"
+  },
+  {
+    "job_id": "greenhouse:spacex:8727431002",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "SpaceX",
+    "title": "Materials Engineer, Polymer Development ",
+    "location": "Hawthorne, CA",
+    "posted": "2026-08-18T18:11:00-04:00",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8727431002?gh_jid=8727431002",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-19T00:33:08.470358+00:00",
+    "emailed_utc": "2026-08-19T00:33:08.470358+00:00"
+  },
+  {
+    "job_id": "greenhouse:spacex:8700050002",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "SpaceX",
+    "title": "Process Safety Engineer (Mechanical)",
+    "location": "Hawthorne, CA",
+    "posted": "2026-08-18T19:50:11-04:00",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8700050002?gh_jid=8700050002",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-19T00:33:08.470358+00:00",
+    "emailed_utc": "2026-08-19T00:33:08.470358+00:00"
   }
 ]
