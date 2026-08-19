@@ -63542,5 +63542,44 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-19T13:32:50.287729+00:00",
     "emailed_utc": "2026-08-19T13:32:50.287729+00:00"
+  },
+  {
+    "job_id": "lever:hatchit:6ba35e9d-29bb-4625-afd1-e229e5abf022",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "hatchit",
+    "title": "Data Engineer",
+    "location": "Washington, DC",
+    "posted": "2026-08-19 13:52 UTC",
+    "url": "https://jobs.lever.co/hatchit/6ba35e9d-29bb-4625-afd1-e229e5abf022",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-19T14:04:44.198046+00:00",
+    "emailed_utc": "2026-08-19T14:04:44.198046+00:00"
+  },
+  {
+    "job_id": "lever:dnagenotek:9f41123b-b663-46ff-abfb-263bfb3110d7",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "dnagenotek",
+    "title": "Process Improvement Engineer I",
+    "location": "Bethlehem, PA",
+    "posted": "2026-08-19 12:57 UTC",
+    "url": "https://jobs.lever.co/dnagenotek/9f41123b-b663-46ff-abfb-263bfb3110d7",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-19T14:04:44.198046+00:00",
+    "emailed_utc": "2026-08-19T14:04:44.198046+00:00"
+  },
+  {
+    "job_id": "lever:extremenetworks:a2e0d718-b0ec-4490-8727-d41157cbb0b9",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "extremenetworks",
+    "title": "SLED Systems Engineer",
+    "location": "Northern California, United States",
+    "posted": "2026-08-19 12:04 UTC",
+    "url": "https://jobs.lever.co/extremenetworks/a2e0d718-b0ec-4490-8727-d41157cbb0b9",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-19T14:04:44.198046+00:00",
+    "emailed_utc": "2026-08-19T14:04:44.198046+00:00"
   }
 ]
