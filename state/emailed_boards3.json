@@ -378883,5 +378883,18 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-20T21:10:43.230254+00:00",
     "emailed_utc": "2026-08-20T21:10:43.230254+00:00"
+  },
+  {
+    "job_id": "workday:fico:external:req:32215",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Fico",
+    "title": "Software Engineering - Senior Engineer",
+    "location": "Reston, VA",
+    "posted": "Posted Today",
+    "url": "https://fico.wd1.myworkdayjobs.com/en-US/external/job/Reston-VA/Software-Engineering---Senior-Engineer_32215",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-20T21:33:55.898799+00:00",
+    "emailed_utc": "2026-08-20T21:33:55.898799+00:00"
   }
 ]
