@@ -17795,5 +17795,44 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-20T21:51:38.403496+00:00",
     "emailed_utc": "2026-08-20T21:51:38.403496+00:00"
+  },
+  {
+    "job_id": "microsoft:1970393556972166",
+    "pipeline": "main",
+    "platform": "microsoft",
+    "company": "Microsoft",
+    "title": "Quantum Software Engineer",
+    "location": "Redmond, WA, US",
+    "posted": "2026-08-19 18:38 UTC",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556972166",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-20T22:21:44.147630+00:00",
+    "emailed_utc": "2026-08-20T22:21:44.147630+00:00"
+  },
+  {
+    "job_id": "nvidia:893397203858",
+    "pipeline": "main",
+    "platform": "nvidia",
+    "company": "NVIDIA",
+    "title": "Senior Software Development Engineer in Test - Datacenter Server OS",
+    "location": "Santa Clara, CA, US",
+    "posted": "2026-08-20 00:00 UTC",
+    "url": "https://nvidia.eightfold.ai/careers/job/893397203858",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-20T22:21:44.147630+00:00",
+    "emailed_utc": "2026-08-20T22:21:44.147630+00:00"
+  },
+  {
+    "job_id": "amazon:0ce8f9f7-1fc9-47e4-a600-51ed466a4ae5",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Senior Software Development Engineer, AWS Resilience, Incident Prevention",
+    "location": "US, WA, Seattle",
+    "posted": "August 20, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10509622/senior-software-development-engineer-aws-resilience-incident-prevention",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-20T22:21:44.147630+00:00",
+    "emailed_utc": "2026-08-20T22:21:44.147630+00:00"
   }
 ]
