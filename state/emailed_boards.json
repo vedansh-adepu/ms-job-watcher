@@ -148939,5 +148939,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-20T12:33:24.072891+00:00",
     "emailed_utc": "2026-08-20T12:33:24.072891+00:00"
+  },
+  {
+    "job_id": "smartrecruiters:Miratech1:744000144511727",
+    "pipeline": "boards",
+    "platform": "smartrecruiters",
+    "company": "Miratech",
+    "title": "Senior Full Stack Developer",
+    "location": "All Cities, in",
+    "posted": "2026-08-20T10:18:43.752Z",
+    "url": "https://jobs.smartrecruiters.com/Miratech1",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-20T13:02:44.014774+00:00",
+    "emailed_utc": "2026-08-20T13:02:44.014774+00:00"
+  },
+  {
+    "job_id": "workday:ngc:Northrop_Grumman_External_Site:req:R10246713",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Northrop Grumman",
+    "title": "Staff Engineer Liaison - NCR Liaison Offer (26-330)",
+    "location": "United States-Virginia-Fort Belvoir",
+    "posted": "Posted Today",
+    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Virginia-Fort-Belvoir/Staff-Engineer-Liaison---NCR-Liaison-Offer--26-330-_R10246713",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-20T13:02:44.014774+00:00",
+    "emailed_utc": "2026-08-20T13:02:44.014774+00:00"
   }
 ]
