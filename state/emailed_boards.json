@@ -148913,5 +148913,31 @@
     "bucket": "yes",
     "first_seen_utc": "2026-08-20T09:32:47.884455+00:00",
     "emailed_utc": "2026-08-20T09:32:47.884455+00:00"
+  },
+  {
+    "job_id": "greenhouse:elastic:7348426",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Elastic",
+    "title": "Principal Software Engineer - Search Infra - Elasticsearch",
+    "location": "United States",
+    "posted": "2026-08-20T07:37:01-04:00",
+    "url": "https://jobs.elastic.co/jobs?gh_jid=7348426&gh_jid=7348426",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-20T12:33:24.072891+00:00",
+    "emailed_utc": "2026-08-20T12:33:24.072891+00:00"
+  },
+  {
+    "job_id": "workday:gdit:External_Career_Site:req:RQ226782",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "General Dynamics Information Technology (GDIT)",
+    "title": "Cybersecurity Systems Engineer/Information Systems Security Engineer (ISSE) - TS/SCI with Polygraph",
+    "location": "USA DC Washington",
+    "posted": "Posted Today",
+    "url": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-DC-Washington/Cybersecurity-Systems-Engineer-Information-Systems-Security-Engineer--ISSE----TS-SCI-with-Polygraph_RQ226782-1",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-20T12:33:24.072891+00:00",
+    "emailed_utc": "2026-08-20T12:33:24.072891+00:00"
   }
 ]
