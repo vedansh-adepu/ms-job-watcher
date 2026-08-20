@@ -148601,5 +148601,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-20T03:02:40.731118+00:00",
     "emailed_utc": "2026-08-20T03:02:40.731118+00:00"
+  },
+  {
+    "job_id": "greenhouse:cresta:5049642008",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "cresta",
+    "title": "Senior Software Engineer, Backend - Platform Team",
+    "location": "Canada (Remote); Toronto, Canada (Hybrid); United States (Remote)",
+    "posted": "2026-08-19T22:49:00-04:00",
+    "url": "https://job-boards.greenhouse.io/cresta/jobs/5049642008",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-20T04:04:11.858629+00:00",
+    "emailed_utc": "2026-08-20T04:04:11.858629+00:00"
+  },
+  {
+    "job_id": "workday:amat:External:req:R2624925",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Applied Materials",
+    "title": "Principal AI Data Scientist \u2013 Scientific AI & Physics-Informed Machine Learning",
+    "location": "Santa Clara,CA",
+    "posted": "Posted Today",
+    "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Principal-AI-Data-Scientist---Scientific-AI---Physics-Informed-Machine-Learning_R2624925",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-20T04:04:11.858629+00:00",
+    "emailed_utc": "2026-08-20T04:04:11.858629+00:00"
   }
 ]
