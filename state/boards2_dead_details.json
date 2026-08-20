@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-08-20T18:32:28.119505+00:00",
+  "updated_utc": "2026-08-20T19:05:28.736837+00:00",
   "dead_details": {
     "lever:livechatinc": {
       "first_seen_utc": "2026-07-01T19:31:29.430568+00:00",
@@ -1579,6 +1579,15 @@
     "lever:quokka": {
       "first_seen_utc": "2026-08-20T01:32:29.368078+00:00",
       "last_seen_utc": "2026-08-20T01:32:29.368078+00:00",
+      "platform": "lever",
+      "company": "",
+      "board_url": "",
+      "last_status": 404,
+      "last_error": "HTTP 404/410 (board not found)"
+    },
+    "lever:petvisor": {
+      "first_seen_utc": "2026-08-20T19:05:13.693284+00:00",
+      "last_seen_utc": "2026-08-20T19:05:13.693284+00:00",
       "platform": "lever",
       "company": "",
       "board_url": "",
