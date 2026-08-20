@@ -148042,5 +148042,57 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-19T23:32:46.147111+00:00",
     "emailed_utc": "2026-08-19T23:32:46.147111+00:00"
+  },
+  {
+    "job_id": "greenhouse:riotgames:7944656",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Riot Games",
+    "title": "Principal Machine Learning Engineer - League of Legends",
+    "location": "Los Angeles, USA",
+    "posted": "2026-08-19T19:10:35-04:00",
+    "url": "https://www.riotgames.com/en/work-with-us/job/7944656?gh_jid=7944656",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-20T00:03:02.451715+00:00",
+    "emailed_utc": "2026-08-20T00:03:02.451715+00:00"
+  },
+  {
+    "job_id": "greenhouse:rocketlab:7784295003",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "rocketlab",
+    "title": "Senior Manufacturing Engineer I",
+    "location": "Pasadena, CA",
+    "posted": "2026-08-19T19:15:37-04:00",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7784295003",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-20T00:03:02.451715+00:00",
+    "emailed_utc": "2026-08-20T00:03:02.451715+00:00"
+  },
+  {
+    "job_id": "smartrecruiters:ServiceNow:744000144418509",
+    "pipeline": "boards",
+    "platform": "smartrecruiters",
+    "company": "ServiceNow",
+    "title": "Staff Software Engineer, Frontend/Fullstack - Moveworks",
+    "location": "Mountain View, CALIFORNIA, us",
+    "posted": "2026-08-19T23:50:46.551Z",
+    "url": "https://jobs.smartrecruiters.com/ServiceNow",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-20T00:03:02.451715+00:00",
+    "emailed_utc": "2026-08-20T00:03:02.451715+00:00"
+  },
+  {
+    "job_id": "smartrecruiters:ServiceNow:744000144418167",
+    "pipeline": "boards",
+    "platform": "smartrecruiters",
+    "company": "ServiceNow",
+    "title": "Staff Machine Learning Engineer",
+    "location": "Santa Clara, California, us",
+    "posted": "2026-08-19T23:48:29.083Z",
+    "url": "https://jobs.smartrecruiters.com/ServiceNow",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-20T00:03:02.451715+00:00",
+    "emailed_utc": "2026-08-20T00:03:02.451715+00:00"
   }
 ]
