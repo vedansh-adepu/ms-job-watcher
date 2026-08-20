@@ -65323,5 +65323,57 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-20T00:32:04.234565+00:00",
     "emailed_utc": "2026-08-20T00:32:04.234565+00:00"
+  },
+  {
+    "job_id": "greenhouse:k2spacecorporation:5396459008",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "k2spacecorporation",
+    "title": "Senior Supplier Development Engineer, Mechanical ",
+    "location": "Los Angeles, CA",
+    "posted": "2026-08-19T20:10:03-04:00",
+    "url": "https://job-boards.greenhouse.io/k2spacecorporation/jobs/5396459008",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-20T01:02:34.202360+00:00",
+    "emailed_utc": "2026-08-20T01:02:34.202360+00:00"
+  },
+  {
+    "job_id": "greenhouse:mesh:5396424008",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "mesh",
+    "title": "Director of Engineering, Onchain",
+    "location": "San Francisco, CA",
+    "posted": "2026-08-19T19:30:01-04:00",
+    "url": "https://job-boards.greenhouse.io/mesh/jobs/5396424008",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-20T01:02:34.202360+00:00",
+    "emailed_utc": "2026-08-20T01:02:34.202360+00:00"
+  },
+  {
+    "job_id": "greenhouse:personalisinc:7909364003",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "personalisinc",
+    "title": "Sr. Software Engineer, Clinical Software",
+    "location": "Fremont, CA",
+    "posted": "2026-08-19T20:43:21-04:00",
+    "url": "https://job-boards.greenhouse.io/personalisinc/jobs/7909364003",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-20T01:02:34.202360+00:00",
+    "emailed_utc": "2026-08-20T01:02:34.202360+00:00"
+  },
+  {
+    "job_id": "greenhouse:roblox:8036724",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "roblox",
+    "title": "Senior Software Engineer, Core UI",
+    "location": "San Mateo, CA, United States",
+    "posted": "2026-08-19T20:11:05-04:00",
+    "url": "https://careers.roblox.com/jobs/8036724?gh_jid=8036724",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-20T01:02:34.202360+00:00",
+    "emailed_utc": "2026-08-20T01:02:34.202360+00:00"
   }
 ]
