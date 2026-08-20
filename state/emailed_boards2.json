@@ -66870,5 +66870,83 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-20T19:32:02.298698+00:00",
     "emailed_utc": "2026-08-20T19:32:02.298698+00:00"
+  },
+  {
+    "job_id": "greenhouse:known:8728988002",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "known",
+    "title": "Data Scientist, Media Consultant",
+    "location": "New York, NY",
+    "posted": "2026-08-20T14:47:04-04:00",
+    "url": "https://job-boards.greenhouse.io/known/jobs/8728988002",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-20T20:02:51.471130+00:00",
+    "emailed_utc": "2026-08-20T20:02:51.471130+00:00"
+  },
+  {
+    "job_id": "greenhouse:shift5:6147440004",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "shift5",
+    "title": "Software Engineer II",
+    "location": "Rosslyn, VA or Remote",
+    "posted": "2026-08-20T15:45:29-04:00",
+    "url": "https://job-boards.greenhouse.io/shift5/jobs/6147440004",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-20T20:02:51.471130+00:00",
+    "emailed_utc": "2026-08-20T20:02:51.471130+00:00"
+  },
+  {
+    "job_id": "greenhouse:jetzero:5397399008",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "jetzero",
+    "title": "Senior Aircraft Integration Engineer ",
+    "location": "Mojave, CA",
+    "posted": "2026-08-20T15:51:04-04:00",
+    "url": "https://job-boards.greenhouse.io/jetzero/jobs/5397399008",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-20T20:02:51.471130+00:00",
+    "emailed_utc": "2026-08-20T20:02:51.471130+00:00"
+  },
+  {
+    "job_id": "greenhouse:la28careers:7735177003",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "la28careers",
+    "title": "Sr. Associate, Energy Design Engineering",
+    "location": "Los Angeles, California, United States",
+    "posted": "2026-08-20T15:46:05-04:00",
+    "url": "https://job-boards.greenhouse.io/la28careers/jobs/7735177003",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-20T20:02:51.471130+00:00",
+    "emailed_utc": "2026-08-20T20:02:51.471130+00:00"
+  },
+  {
+    "job_id": "greenhouse:lucidbots:5397270008",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "lucidbots",
+    "title": "Power Electronics / Electrical Systems Engineer",
+    "location": "Charlotte, NC",
+    "posted": "2026-08-20T15:28:09-04:00",
+    "url": "https://job-boards.greenhouse.io/lucidbots/jobs/5397270008",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-20T20:02:51.471130+00:00",
+    "emailed_utc": "2026-08-20T20:02:51.471130+00:00"
+  },
+  {
+    "job_id": "greenhouse:thealleninstitute:8140098",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "thealleninstitute",
+    "title": "Senior Research Engineer",
+    "location": "Seattle, WA",
+    "posted": "2026-08-20T14:47:01-04:00",
+    "url": "https://job-boards.greenhouse.io/thealleninstitute/jobs/8140098",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-20T20:02:51.471130+00:00",
+    "emailed_utc": "2026-08-20T20:02:51.471130+00:00"
   }
 ]
