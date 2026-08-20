@@ -17730,5 +17730,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-20T20:11:38.471721+00:00",
     "emailed_utc": "2026-08-20T20:11:38.471721+00:00"
+  },
+  {
+    "job_id": "amazon:e5802a98-318b-4c22-8620-444c73d1bd56",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, Automated Vehicle Testing",
+    "location": "US, WA, Redmond",
+    "posted": "August 20, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10509453/software-development-engineer-automated-vehicle-testing",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-20T20:21:39.941602+00:00",
+    "emailed_utc": "2026-08-20T20:21:39.941602+00:00"
+  },
+  {
+    "job_id": "amazon:7719776b-6d82-4179-8d70-d0428595ba49",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Data Scientist, Automated Vehicle Testing",
+    "location": "US, WA, Redmond",
+    "posted": "August 20, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10509454/data-scientist-automated-vehicle-testing",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-20T20:21:39.941602+00:00",
+    "emailed_utc": "2026-08-20T20:21:39.941602+00:00"
   }
 ]
