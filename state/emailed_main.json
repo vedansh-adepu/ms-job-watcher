@@ -17600,5 +17600,57 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-20T17:21:41.409233+00:00",
     "emailed_utc": "2026-08-20T17:21:41.409233+00:00"
+  },
+  {
+    "job_id": "amazon:07c26959-c343-46e0-bb7a-fc5364f1ea8b",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, Support Agent Intelligence and Evaluation",
+    "location": "US, WA, Seattle",
+    "posted": "August 20, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10508294/software-development-engineer-support-agent-intelligence-and-evaluation",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-20T17:31:29.509370+00:00",
+    "emailed_utc": "2026-08-20T17:31:29.509370+00:00"
+  },
+  {
+    "job_id": "amazon:982e4d8d-fb99-4268-b7bf-fc0f3e019ea8",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer III, AWS- IAM Identity",
+    "location": "US, TX, Austin",
+    "posted": "August 20, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10508300/software-development-engineer-iii-aws-iam-identity",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-20T17:31:29.509370+00:00",
+    "emailed_utc": "2026-08-20T17:31:29.509370+00:00"
+  },
+  {
+    "job_id": "amazon:e0e49440-0e61-494d-be86-c924cd977416",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Manager, Route 53",
+    "location": "US, WA, Seattle",
+    "posted": "August 20, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10508293/software-development-manager-route-53",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-20T17:31:29.509370+00:00",
+    "emailed_utc": "2026-08-20T17:31:29.509370+00:00"
+  },
+  {
+    "job_id": "amazon:d6a24880-992d-4ccc-a13e-9cd2de33b9da",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Manager, LMDT- WW, Flex Pricing Team",
+    "location": "US, TX, Austin",
+    "posted": "August 20, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10508316/software-development-manager-lmdt-ww-flex-pricing-team",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-20T17:31:29.509370+00:00",
+    "emailed_utc": "2026-08-20T17:31:29.509370+00:00"
   }
 ]
