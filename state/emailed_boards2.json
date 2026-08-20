@@ -65388,5 +65388,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-20T01:32:45.443437+00:00",
     "emailed_utc": "2026-08-20T01:32:45.443437+00:00"
+  },
+  {
+    "job_id": "greenhouse:barbaricum:5396484008",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "barbaricum",
+    "title": "Software Engineer",
+    "location": "Springfield, VA",
+    "posted": "2026-08-19T21:14:02-04:00",
+    "url": "https://job-boards.greenhouse.io/barbaricum/jobs/5396484008",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-20T02:08:09.768865+00:00",
+    "emailed_utc": "2026-08-20T02:08:09.768865+00:00"
+  },
+  {
+    "job_id": "greenhouse:esri:5195287007",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "esri",
+    "title": "Sr. Data Scientist- AI Model Development",
+    "location": "Redlands, CA",
+    "posted": "2026-08-19T20:50:22-04:00",
+    "url": "https://www.esri.com/careers/5195287007?gh_jid=5195287007",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-20T02:08:09.768865+00:00",
+    "emailed_utc": "2026-08-20T02:08:09.768865+00:00"
   }
 ]
