@@ -17561,5 +17561,18 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-20T13:41:48.260388+00:00",
     "emailed_utc": "2026-08-20T13:41:48.260388+00:00"
+  },
+  {
+    "job_id": "amazon:9459a873-da47-49c3-9af8-7e185d8fe308",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, BigMesh, Traffic Engineering",
+    "location": "US, CA, Sunnyvale",
+    "posted": "August 20, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10508160/software-development-engineer-bigmesh-traffic-engineering",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-20T16:21:44.409491+00:00",
+    "emailed_utc": "2026-08-20T16:21:44.409491+00:00"
   }
 ]
