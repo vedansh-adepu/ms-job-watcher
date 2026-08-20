@@ -65297,5 +65297,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-19T23:32:38.733723+00:00",
     "emailed_utc": "2026-08-19T23:32:38.733723+00:00"
+  },
+  {
+    "job_id": "greenhouse:gomotive:8709999002",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "gomotive",
+    "title": "GTM AI Engineer",
+    "location": "United States - Remote",
+    "posted": "2026-08-19T19:11:57-04:00",
+    "url": "https://job-boards.greenhouse.io/gomotive/jobs/8709999002",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-20T00:32:04.234565+00:00",
+    "emailed_utc": "2026-08-20T00:32:04.234565+00:00"
+  },
+  {
+    "job_id": "greenhouse:chaosindustries:5216900007",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "chaosindustries",
+    "title": "Principal Mechanical Engineer",
+    "location": "El Segundo, California, United States",
+    "posted": "2026-08-19T20:21:07-04:00",
+    "url": "https://job-boards.greenhouse.io/chaosindustries/jobs/5216900007",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-20T00:32:04.234565+00:00",
+    "emailed_utc": "2026-08-20T00:32:04.234565+00:00"
   }
 ]
