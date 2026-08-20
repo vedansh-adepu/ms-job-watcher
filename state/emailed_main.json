@@ -17899,5 +17899,57 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-20T22:51:36.419606+00:00",
     "emailed_utc": "2026-08-20T22:51:36.419606+00:00"
+  },
+  {
+    "job_id": "amazon:ec556b4e-d9f5-4651-bcf5-ed627851f808",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Engineer II, Prime Air",
+    "location": "US, WA, Seattle",
+    "posted": "August 20, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10509680/software-engineer-ii-prime-air",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-20T23:41:39.911280+00:00",
+    "emailed_utc": "2026-08-20T23:41:39.911280+00:00"
+  },
+  {
+    "job_id": "amazon:3fdcdbb5-a144-4ae7-82cd-841b41204710",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, Agentic Workspace",
+    "location": "US, WA, Seattle",
+    "posted": "August 13, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10501325/software-development-engineer-agentic-workspace",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-20T23:41:39.911280+00:00",
+    "emailed_utc": "2026-08-20T23:41:39.911280+00:00"
+  },
+  {
+    "job_id": "microsoft:1970393556971568",
+    "pipeline": "main",
+    "platform": "microsoft",
+    "company": "Microsoft",
+    "title": "Customer Experience Engineer",
+    "location": "Redmond, WA, US",
+    "posted": "2026-08-20 23:07 UTC",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556971568",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-20T23:41:39.911280+00:00",
+    "emailed_utc": "2026-08-20T23:41:39.911280+00:00"
+  },
+  {
+    "job_id": "amazon:a71a51ef-e2fd-4967-992d-2da06bdb5cb6",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "SoC Power Engineer, Annapurna Labs - Cloud Scale Machine Learning",
+    "location": "US, CA, Cupertino",
+    "posted": "August 20, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10509682/soc-power-engineer-annapurna-labs-cloud-scale-machine-learning",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-20T23:41:39.911280+00:00",
+    "emailed_utc": "2026-08-20T23:41:39.911280+00:00"
   }
 ]
