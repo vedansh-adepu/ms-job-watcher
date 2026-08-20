@@ -17834,5 +17834,44 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-20T22:21:44.147630+00:00",
     "emailed_utc": "2026-08-20T22:21:44.147630+00:00"
+  },
+  {
+    "job_id": "amazon:d0bc1152-a164-4c56-9f5e-4cedaf4086d6",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, CloudWatch Application Observability",
+    "location": "US, CA, Santa Clara",
+    "posted": "August 20, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10509638/software-development-engineer-cloudwatch-application-observability",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-20T22:31:45.530895+00:00",
+    "emailed_utc": "2026-08-20T22:31:45.530895+00:00"
+  },
+  {
+    "job_id": "amazon:44b7b8e7-e931-41fa-a75a-3a8d07d6f233",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Dev Eng, Payload Phased Arrays, Amazon Leo, Antenna System Validation, Amazon Leo",
+    "location": "US, WA, Redmond",
+    "posted": "August 20, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10509637/software-dev-eng-payload-phased-arrays-amazon-leo-antenna-system-validation-amazon-leo",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-20T22:31:45.530895+00:00",
+    "emailed_utc": "2026-08-20T22:31:45.530895+00:00"
+  },
+  {
+    "job_id": "amazon:552c13aa-4c47-49ed-aa6f-064dfcb1c1a6",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Sr. Software Dev Engineer, Antenna System Validation, Amazon Leo",
+    "location": "US, WA, Redmond",
+    "posted": "August 20, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10509642/sr-software-dev-engineer-antenna-system-validation-amazon-leo",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-20T22:31:45.530895+00:00",
+    "emailed_utc": "2026-08-20T22:31:45.530895+00:00"
   }
 ]
