@@ -17652,5 +17652,18 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-20T17:31:29.509370+00:00",
     "emailed_utc": "2026-08-20T17:31:29.509370+00:00"
+  },
+  {
+    "job_id": "amazon:5f900f36-88c0-43cf-abd1-4ab014352839",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, ART19",
+    "location": "US, CA, San Francisco",
+    "posted": "August 20, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10508447/software-development-engineer-art19",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-20T17:51:38.092071+00:00",
+    "emailed_utc": "2026-08-20T17:51:38.092071+00:00"
   }
 ]
