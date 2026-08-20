@@ -65531,5 +65531,44 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-20T13:03:31.198738+00:00",
     "emailed_utc": "2026-08-20T13:03:31.198738+00:00"
+  },
+  {
+    "job_id": "greenhouse:connectwise:4724810005",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "connectwise",
+    "title": "Analytics Engineer",
+    "location": "US-Remote",
+    "posted": "2026-08-20T09:47:32-04:00",
+    "url": "https://job-boards.greenhouse.io/connectwise/jobs/4724810005",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-20T14:34:09.915249+00:00",
+    "emailed_utc": "2026-08-20T14:34:09.915249+00:00"
+  },
+  {
+    "job_id": "greenhouse:chaosindustries:5217159007",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "chaosindustries",
+    "title": "Modeling & Simulation Engineer, Missiles",
+    "location": "El Segundo, California, United States",
+    "posted": "2026-08-20T09:11:17-04:00",
+    "url": "https://job-boards.greenhouse.io/chaosindustries/jobs/5217159007",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-20T14:34:09.915249+00:00",
+    "emailed_utc": "2026-08-20T14:34:09.915249+00:00"
+  },
+  {
+    "job_id": "greenhouse:connectwise:4725811005",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "connectwise",
+    "title": "Adaptive Planning Software Administrator",
+    "location": "US-Remote",
+    "posted": "2026-08-20T09:42:18-04:00",
+    "url": "https://job-boards.greenhouse.io/connectwise/jobs/4725811005",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-20T14:34:09.915249+00:00",
+    "emailed_utc": "2026-08-20T14:34:09.915249+00:00"
   }
 ]
