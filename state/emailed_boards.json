@@ -152631,5 +152631,57 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-20T21:03:04.185083+00:00",
     "emailed_utc": "2026-08-20T21:03:04.185083+00:00"
+  },
+  {
+    "job_id": "greenhouse:webflow:8142831",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Webflow",
+    "title": "Staff Software Engineer, Infrastructure",
+    "location": "U.S. Remote",
+    "posted": "2026-08-20T17:22:41-04:00",
+    "url": "https://job-boards.greenhouse.io/webflow/jobs/8142831",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-20T21:32:37.864601+00:00",
+    "emailed_utc": "2026-08-20T21:32:37.864601+00:00"
+  },
+  {
+    "job_id": "lever:zoox:eb2177de-ca5e-43de-9e70-e2b597747f9d",
+    "pipeline": "boards",
+    "platform": "lever",
+    "company": "zoox",
+    "title": "Staff Electrical Architecture System Engineer",
+    "location": "Foster City, CA",
+    "posted": "2026-08-20 19:16 UTC",
+    "url": "https://jobs.lever.co/zoox/eb2177de-ca5e-43de-9e70-e2b597747f9d",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-20T21:32:37.864601+00:00",
+    "emailed_utc": "2026-08-20T21:32:37.864601+00:00"
+  },
+  {
+    "job_id": "ashby:snowflake:e4c75616-b76c-414a-9b59-af7bacb0d0c6",
+    "pipeline": "boards",
+    "platform": "ashby",
+    "company": "Snowflake",
+    "title": "Implementation Engineer, Observe",
+    "location": "US-NY-New York",
+    "posted": "",
+    "url": "https://jobs.ashbyhq.com/snowflake/e4c75616-b76c-414a-9b59-af7bacb0d0c6",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-20T21:32:37.864601+00:00",
+    "emailed_utc": "2026-08-20T21:32:37.864601+00:00"
+  },
+  {
+    "job_id": "ashby:snowflake:4b494244-50fe-4c55-837c-5c347ff5235b",
+    "pipeline": "boards",
+    "platform": "ashby",
+    "company": "Snowflake",
+    "title": "Solution Engineer",
+    "location": "US-GA-Atlanta",
+    "posted": "",
+    "url": "https://jobs.ashbyhq.com/snowflake/4b494244-50fe-4c55-837c-5c347ff5235b",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-20T21:32:37.864601+00:00",
+    "emailed_utc": "2026-08-20T21:32:37.864601+00:00"
   }
 ]
