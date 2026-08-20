@@ -148094,5 +148094,57 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-20T00:03:02.451715+00:00",
     "emailed_utc": "2026-08-20T00:03:02.451715+00:00"
+  },
+  {
+    "job_id": "greenhouse:voyagertechnologiesinc:4371295009",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "voyagertechnologiesinc",
+    "title": "Senior Mechanical Engineer",
+    "location": "Pittsburgh, PA",
+    "posted": "2026-08-19T19:22:43-04:00",
+    "url": "https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4371295009",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-20T00:32:13.071431+00:00",
+    "emailed_utc": "2026-08-20T00:32:13.071431+00:00"
+  },
+  {
+    "job_id": "greenhouse:voyagertechnologiesinc:4364446009",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "voyagertechnologiesinc",
+    "title": "Senior Mechanical Engineer",
+    "location": "Pittsburgh, PA",
+    "posted": "2026-08-19T19:28:00-04:00",
+    "url": "https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4364446009",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-20T00:32:13.071431+00:00",
+    "emailed_utc": "2026-08-20T00:32:13.071431+00:00"
+  },
+  {
+    "job_id": "greenhouse:voyagertechnologiesinc:4370979009",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "voyagertechnologiesinc",
+    "title": "Thermal Engineer II",
+    "location": "Pittsburgh, PA",
+    "posted": "2026-08-19T18:45:58-04:00",
+    "url": "https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4370979009",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-20T00:32:13.071431+00:00",
+    "emailed_utc": "2026-08-20T00:32:13.071431+00:00"
+  },
+  {
+    "job_id": "ashby:snowflake:3df779c8-48f9-4fa0-90e5-b95db80a560d",
+    "pipeline": "boards",
+    "platform": "ashby",
+    "company": "Snowflake",
+    "title": "Staff Network Engineer",
+    "location": "US-CA-Menlo Park",
+    "posted": "",
+    "url": "https://jobs.ashbyhq.com/snowflake/3df779c8-48f9-4fa0-90e5-b95db80a560d",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-20T00:32:13.071431+00:00",
+    "emailed_utc": "2026-08-20T00:32:13.071431+00:00"
   }
 ]
