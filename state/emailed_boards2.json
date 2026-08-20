@@ -65453,5 +65453,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-20T03:02:38.174081+00:00",
     "emailed_utc": "2026-08-20T03:02:38.174081+00:00"
+  },
+  {
+    "job_id": "greenhouse:lynxanalytics:8470862002",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "lynxanalytics",
+    "title": "Senior Data Scientist (US)",
+    "location": "New York, USA; Philadelphia, Pennsylvania, United States; San Francisco, California, United States",
+    "posted": "2026-08-19T23:54:15-04:00",
+    "url": "https://job-boards.greenhouse.io/lynxanalytics/jobs/8470862002",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-20T04:21:50.565864+00:00",
+    "emailed_utc": "2026-08-20T04:21:50.565864+00:00"
+  },
+  {
+    "job_id": "greenhouse:roblox:8142712",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "roblox",
+    "title": "Senior Software Engineer - Marketplace Foundation",
+    "location": "San Mateo, CA, United States",
+    "posted": "2026-08-19T22:49:47-04:00",
+    "url": "https://careers.roblox.com/jobs/8142712?gh_jid=8142712",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-20T04:21:50.565864+00:00",
+    "emailed_utc": "2026-08-20T04:21:50.565864+00:00"
   }
 ]
