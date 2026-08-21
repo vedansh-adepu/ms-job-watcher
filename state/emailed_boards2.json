@@ -68261,5 +68261,83 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-21T15:03:16.739924+00:00",
     "emailed_utc": "2026-08-21T15:03:16.739924+00:00"
+  },
+  {
+    "job_id": "greenhouse:clarityinnovates:5214983007",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "clarityinnovates",
+    "title": "Web Development Software Engineer",
+    "location": "MacDill AFB, FL",
+    "posted": "2026-08-21T10:15:42-04:00",
+    "url": "https://job-boards.greenhouse.io/clarityinnovates/jobs/5214983007",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-21T16:05:55.303970+00:00",
+    "emailed_utc": "2026-08-21T16:05:55.303970+00:00"
+  },
+  {
+    "job_id": "greenhouse:caylent:5973732004",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "caylent",
+    "title": "Forward Deployed Engineer",
+    "location": "USA",
+    "posted": "2026-08-21T11:58:23-04:00",
+    "url": "https://job-boards.greenhouse.io/caylent/jobs/5973732004",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-21T16:05:55.303970+00:00",
+    "emailed_utc": "2026-08-21T16:05:55.303970+00:00"
+  },
+  {
+    "job_id": "greenhouse:dept:8144798",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "dept",
+    "title": "Senior, Data Engineer ",
+    "location": "NY, US, CA, US, IL, US - Remote",
+    "posted": "2026-08-21T10:35:02-04:00",
+    "url": "https://job-boards.greenhouse.io/dept/jobs/8144798",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-21T16:05:55.303970+00:00",
+    "emailed_utc": "2026-08-21T16:05:55.303970+00:00"
+  },
+  {
+    "job_id": "greenhouse:devtechnology:8733687002",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "devtechnology",
+    "title": "Data Visualization Engineer (Qlik)",
+    "location": "Ashburn, VA (Hybrid)",
+    "posted": "2026-08-21T11:01:52-04:00",
+    "url": "https://job-boards.greenhouse.io/devtechnology/jobs/8733687002",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-21T16:05:55.303970+00:00",
+    "emailed_utc": "2026-08-21T16:05:55.303970+00:00"
+  },
+  {
+    "job_id": "greenhouse:dragos:5387512008",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "dragos",
+    "title": "Associate Principal Resident Engineer (Federal)",
+    "location": "Houston, TX",
+    "posted": "2026-08-21T11:59:28-04:00",
+    "url": "https://job-boards.greenhouse.io/dragos/jobs/5387512008",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-21T16:05:55.303970+00:00",
+    "emailed_utc": "2026-08-21T16:05:55.303970+00:00"
+  },
+  {
+    "job_id": "greenhouse:ensco:5397561008",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "ensco",
+    "title": "Systems Engineer - Mission Integration & Capability Delivery",
+    "location": "Albuquerque, New Mexico, United States",
+    "posted": "2026-08-21T11:36:05-04:00",
+    "url": "https://job-boards.greenhouse.io/ensco/jobs/5397561008",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-21T16:05:55.303970+00:00",
+    "emailed_utc": "2026-08-21T16:05:55.303970+00:00"
   }
 ]
