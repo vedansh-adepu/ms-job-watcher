@@ -157428,5 +157428,83 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-21T20:02:49.504367+00:00",
     "emailed_utc": "2026-08-21T20:02:49.504367+00:00"
+  },
+  {
+    "job_id": "greenhouse:twilio:7816159",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "twilio",
+    "title": "Software Engineer L2-Messaging API",
+    "location": "Remote - US",
+    "posted": "2026-08-21T16:01:12-04:00",
+    "url": "https://job-boards.greenhouse.io/twilio/jobs/7816159",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-21T20:33:04.664779+00:00",
+    "emailed_utc": "2026-08-21T20:33:04.664779+00:00"
+  },
+  {
+    "job_id": "greenhouse:rocketlab:7931607003",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "rocketlab",
+    "title": "Senior Electrical Engineer I/II",
+    "location": "Pasadena, CA",
+    "posted": "2026-08-21T16:18:26-04:00",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7931607003",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-21T20:33:04.664779+00:00",
+    "emailed_utc": "2026-08-21T20:33:04.664779+00:00"
+  },
+  {
+    "job_id": "greenhouse:samsungsemiconductor:7904890003",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "samsungsemiconductor",
+    "title": "Staff Engineer, PCIe PHY/Link Analysis",
+    "location": "San Jose, California, United States",
+    "posted": "2026-08-21T14:11:31-04:00",
+    "url": "https://job-boards.greenhouse.io/samsungsemiconductor/jobs/7904890003",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-21T20:33:04.664779+00:00",
+    "emailed_utc": "2026-08-21T20:33:04.664779+00:00"
+  },
+  {
+    "job_id": "greenhouse:spacex:8703042002",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "SpaceX",
+    "title": "EEE Failure Analysis Specialist (Starlink Satellite PCB Engineering)",
+    "location": "Redmond, WA",
+    "posted": "2026-08-21T15:46:50-04:00",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8703042002?gh_jid=8703042002",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-21T20:33:04.664779+00:00",
+    "emailed_utc": "2026-08-21T20:33:04.664779+00:00"
+  },
+  {
+    "job_id": "greenhouse:spacex:8738608002",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "SpaceX",
+    "title": "Sr. Full Stack Engineer, Manufacturing Systems",
+    "location": "Bastrop, TX",
+    "posted": "2026-08-21T15:58:52-04:00",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8738608002?gh_jid=8738608002",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-21T20:33:04.664779+00:00",
+    "emailed_utc": "2026-08-21T20:33:04.664779+00:00"
+  },
+  {
+    "job_id": "greenhouse:tailscale:4725185005",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Tailscale",
+    "title": "Senior Manager, Developer Relations",
+    "location": "Remote (United States)",
+    "posted": "2026-08-21T14:18:46-04:00",
+    "url": "https://job-boards.greenhouse.io/tailscale/jobs/4725185005",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-21T20:33:04.664779+00:00",
+    "emailed_utc": "2026-08-21T20:33:04.664779+00:00"
   }
 ]
