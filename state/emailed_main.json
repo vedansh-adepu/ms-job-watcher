@@ -18081,5 +18081,31 @@
     "bucket": "yes",
     "first_seen_utc": "2026-08-21T16:11:44.430298+00:00",
     "emailed_utc": "2026-08-21T16:11:44.430298+00:00"
+  },
+  {
+    "job_id": "microsoft:1970393556972157",
+    "pipeline": "main",
+    "platform": "microsoft",
+    "company": "Microsoft",
+    "title": "Software Engineering IC2",
+    "location": "Redmond, WA, US",
+    "posted": "2026-08-21 16:54 UTC",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556972157",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-21T17:11:42.684059+00:00",
+    "emailed_utc": "2026-08-21T17:11:42.684059+00:00"
+  },
+  {
+    "job_id": "microsoft:1970393556866179",
+    "pipeline": "main",
+    "platform": "microsoft",
+    "company": "Microsoft",
+    "title": "Solution Engineer - AI Workforce",
+    "location": "US",
+    "posted": "2026-08-21 16:23 UTC",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556866179",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-21T17:11:42.684059+00:00",
+    "emailed_utc": "2026-08-21T17:11:42.684059+00:00"
   }
 ]
