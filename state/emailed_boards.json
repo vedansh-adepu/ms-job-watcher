@@ -158351,5 +158351,44 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-21T23:03:00.468053+00:00",
     "emailed_utc": "2026-08-21T23:03:00.468053+00:00"
+  },
+  {
+    "job_id": "ashby:rula:549e7c14-f803-4ad1-b875-bf522ba2df9d",
+    "pipeline": "boards",
+    "platform": "ashby",
+    "company": "Rula",
+    "title": "Staff Software Engineer (Remote)",
+    "location": "Remote - United States",
+    "posted": "",
+    "url": "https://jobs.ashbyhq.com/rula/549e7c14-f803-4ad1-b875-bf522ba2df9d",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-21T23:32:33.498862+00:00",
+    "emailed_utc": "2026-08-21T23:32:33.498862+00:00"
+  },
+  {
+    "job_id": "ashby:vanta:b5c4b58a-0b6b-40a2-b0de-328e4f943060",
+    "pipeline": "boards",
+    "platform": "ashby",
+    "company": "Vanta",
+    "title": "Senior Software Engineer, Test Core",
+    "location": "Remote U.S.",
+    "posted": "",
+    "url": "https://jobs.ashbyhq.com/vanta/b5c4b58a-0b6b-40a2-b0de-328e4f943060",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-21T23:32:33.498862+00:00",
+    "emailed_utc": "2026-08-21T23:32:33.498862+00:00"
+  },
+  {
+    "job_id": "ashby:snowflake:267d8514-2580-4ade-b5d1-0ea41d11cf62",
+    "pipeline": "boards",
+    "platform": "ashby",
+    "company": "Snowflake",
+    "title": "Developer Advocate - AI & Developer Experiences",
+    "location": "US-CA-Menlo Park",
+    "posted": "",
+    "url": "https://jobs.ashbyhq.com/snowflake/267d8514-2580-4ade-b5d1-0ea41d11cf62",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-21T23:32:33.498862+00:00",
+    "emailed_utc": "2026-08-21T23:32:33.498862+00:00"
   }
 ]
