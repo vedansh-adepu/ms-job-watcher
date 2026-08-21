@@ -157545,5 +157545,57 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-21T21:02:33.426792+00:00",
     "emailed_utc": "2026-08-21T21:02:33.426792+00:00"
+  },
+  {
+    "job_id": "greenhouse:oklo:6150355004",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Oklo",
+    "title": "Software Engineer (Applied AI/ML)",
+    "location": "Santa Clara, CA or Remote",
+    "posted": "2026-08-21T15:23:10-04:00",
+    "url": "https://job-boards.greenhouse.io/oklo/jobs/6150355004",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-21T21:31:34.174540+00:00",
+    "emailed_utc": "2026-08-21T21:31:34.174540+00:00"
+  },
+  {
+    "job_id": "greenhouse:neuralink:7386953003",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Neuralink",
+    "title": "Quality Systems Engineer",
+    "location": "Austin, Texas, United States",
+    "posted": "2026-08-21T16:50:50-04:00",
+    "url": "https://boards.greenhouse.io/neuralink/jobs/7386953003?gh_jid=7386953003",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-21T21:31:34.174540+00:00",
+    "emailed_utc": "2026-08-21T21:31:34.174540+00:00"
+  },
+  {
+    "job_id": "greenhouse:torcrobotics:8645763002",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Torcrobotics",
+    "title": "Engineering Manager - Release & Configuration Management",
+    "location": "Remote, U.S, Ann Arbor, MI, Fort Worth, TX, Blacksburg, VA",
+    "posted": "2026-08-21T15:21:06-04:00",
+    "url": "https://job-boards.greenhouse.io/torcrobotics/jobs/8645763002",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-21T21:31:34.174540+00:00",
+    "emailed_utc": "2026-08-21T21:31:34.174540+00:00"
+  },
+  {
+    "job_id": "greenhouse:torcrobotics:8596552002",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Torcrobotics",
+    "title": "Senior Motion Planning Engineer - Trajectory Optimization",
+    "location": "Remote - U.S, Ann Arbor, MI, Fort Worth, TX, Blacksburg, VA ",
+    "posted": "2026-08-21T15:08:34-04:00",
+    "url": "https://job-boards.greenhouse.io/torcrobotics/jobs/8596552002",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-21T21:31:34.174540+00:00",
+    "emailed_utc": "2026-08-21T21:31:34.174540+00:00"
   }
 ]
