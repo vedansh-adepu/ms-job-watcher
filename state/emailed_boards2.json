@@ -68014,5 +68014,44 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-21T12:31:51.903232+00:00",
     "emailed_utc": "2026-08-21T12:31:51.903232+00:00"
+  },
+  {
+    "job_id": "lever:bluesight:371dd108-f884-48cb-8791-43643bdb5cf4",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "bluesight",
+    "title": "Data Analyst",
+    "location": "United States - Remote",
+    "posted": "2026-08-21 12:35 UTC",
+    "url": "https://jobs.lever.co/bluesight/371dd108-f884-48cb-8791-43643bdb5cf4",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-21T13:02:28.105799+00:00",
+    "emailed_utc": "2026-08-21T13:02:28.105799+00:00"
+  },
+  {
+    "job_id": "lever:cogentanalytics:73325d1f-9388-4ec1-ab03-d385e449bfbc",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "cogentanalytics",
+    "title": "Professional Engineer - Water Resources",
+    "location": "Easton, PA",
+    "posted": "2026-08-21 12:23 UTC",
+    "url": "https://jobs.lever.co/cogentanalytics/73325d1f-9388-4ec1-ab03-d385e449bfbc",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-21T13:02:28.105799+00:00",
+    "emailed_utc": "2026-08-21T13:02:28.105799+00:00"
+  },
+  {
+    "job_id": "lever:cogentanalytics:f312ba8c-add3-4f4f-aa1a-81c379503dcd",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "cogentanalytics",
+    "title": "Senior Civil Engineer - Water Resources",
+    "location": "Easton, PA",
+    "posted": "2026-08-21 12:24 UTC",
+    "url": "https://jobs.lever.co/cogentanalytics/f312ba8c-add3-4f4f-aa1a-81c379503dcd",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-21T13:02:28.105799+00:00",
+    "emailed_utc": "2026-08-21T13:02:28.105799+00:00"
   }
 ]
