@@ -398435,5 +398435,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-21T12:03:51.362670+00:00",
     "emailed_utc": "2026-08-21T12:03:51.362670+00:00"
+  },
+  {
+    "job_id": "workday:aah:external:req:R251098",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Aah",
+    "title": "Software Engineer Associate",
+    "location": "Milwaukee, WI - 3031 W Montana St",
+    "posted": "Posted Yesterday",
+    "url": "https://aah.wd5.myworkdayjobs.com/en-US/external/job/Milwaukee-WI---3031-W-Montana-St/Software-Engineer-Associate_R251098",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-21T13:08:49.886240+00:00",
+    "emailed_utc": "2026-08-21T13:08:49.886240+00:00"
+  },
+  {
+    "job_id": "workday:2020companies:external_careers:req:110786",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "2020Companies",
+    "title": "Microsoft Fabric Sr. Data Engineer",
+    "location": "Southlake, TX",
+    "posted": "Posted 4 Days Ago",
+    "url": "https://2020companies.wd1.myworkdayjobs.com/en-US/external_careers/job/Southlake-TX/Microsoft-Fabric-Sr-Data-Engineer_REQ_110786",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-21T13:08:49.886240+00:00",
+    "emailed_utc": "2026-08-21T13:08:49.886240+00:00"
   }
 ]
