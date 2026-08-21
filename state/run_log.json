@@ -1,48 +1,5 @@
 [
   {
-    "ts": "2026-08-15T01:50Z",
-    "mode": "boards",
-    "per_source": {
-      "greenhouse": {
-        "fetched": 8444,
-        "title_ok": 2833,
-        "loc_ok": 1892,
-        "new": 5,
-        "emailed": 5
-      },
-      "smartrecruiters": {
-        "fetched": 1444,
-        "title_ok": 296,
-        "loc_ok": 163,
-        "new": 2,
-        "emailed": 2
-      },
-      "lever": {
-        "fetched": 244,
-        "title_ok": 104,
-        "loc_ok": 62,
-        "new": 0,
-        "emailed": 0
-      },
-      "ashby": {
-        "fetched": 131,
-        "title_ok": 53,
-        "loc_ok": 21,
-        "new": 0,
-        "emailed": 0
-      },
-      "workday": {
-        "fetched": 6500,
-        "title_ok": 1501,
-        "loc_ok": 83,
-        "new": 0,
-        "emailed": 0
-      }
-    },
-    "duration_s": 12.1,
-    "cursor": null
-  },
-  {
     "ts": "2026-08-15T01:51Z",
     "mode": "main",
     "per_source": {
@@ -40564,5 +40521,55 @@
     },
     "duration_s": 267.7,
     "cursor": 2300
+  },
+  {
+    "ts": "2026-08-21T11:41Z",
+    "mode": "main",
+    "per_source": {
+      "microsoft": {
+        "fetched": 208,
+        "title_ok": 116,
+        "loc_ok": 116,
+        "new": 0,
+        "emailed": 0
+      },
+      "amazon": {
+        "fetched": 300,
+        "title_ok": 288,
+        "loc_ok": 288,
+        "new": 0,
+        "emailed": 0
+      },
+      "nvidia": {
+        "fetched": 20,
+        "title_ok": 19,
+        "loc_ok": 19,
+        "new": 0,
+        "emailed": 0
+      },
+      "goldman_sachs": {
+        "fetched": 0,
+        "title_ok": 0,
+        "loc_ok": 0,
+        "new": 0,
+        "emailed": 0
+      },
+      "ibm": {
+        "fetched": 35,
+        "title_ok": 30,
+        "loc_ok": 15,
+        "new": 0,
+        "emailed": 0
+      },
+      "oracle": {
+        "fetched": 0,
+        "title_ok": 0,
+        "loc_ok": 0,
+        "new": 0,
+        "emailed": 0
+      }
+    },
+    "duration_s": 11.1,
+    "cursor": null
   }
 ]
