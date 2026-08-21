@@ -153879,5 +153879,44 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-21T06:33:14.295988+00:00",
     "emailed_utc": "2026-08-21T06:33:14.295988+00:00"
+  },
+  {
+    "job_id": "greenhouse:harbingermotors:5205318007",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "harbingermotors",
+    "title": "Sr. Test Systems Engineer, Powertrain",
+    "location": "Garden Grove, CA",
+    "posted": "2026-08-21T00:26:17-04:00",
+    "url": "https://job-boards.greenhouse.io/harbingermotors/jobs/5205318007",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-21T07:03:25.985317+00:00",
+    "emailed_utc": "2026-08-21T07:03:25.985317+00:00"
+  },
+  {
+    "job_id": "workday:gdit:External_Career_Site:req:RQ226622",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "General Dynamics Information Technology (GDIT)",
+    "title": "Backend API Developer",
+    "location": "USA VA Arlington",
+    "posted": "Posted Today",
+    "url": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-Arlington/Backend-API-Developer_RQ226622-1",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-21T07:03:25.985317+00:00",
+    "emailed_utc": "2026-08-21T07:03:25.985317+00:00"
+  },
+  {
+    "job_id": "workday:gdit:External_Career_Site:req:RQ226621",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "General Dynamics Information Technology (GDIT)",
+    "title": "Visualization Engineer",
+    "location": "USA VA Arlington",
+    "posted": "Posted Today",
+    "url": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-Arlington/Visualization-Engineer_RQ226621-1",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-21T07:03:25.985317+00:00",
+    "emailed_utc": "2026-08-21T07:03:25.985317+00:00"
   }
 ]
