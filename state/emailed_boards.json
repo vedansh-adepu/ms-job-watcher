@@ -153710,5 +153710,44 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-21T01:57:34.003133+00:00",
     "emailed_utc": "2026-08-21T01:57:34.003133+00:00"
+  },
+  {
+    "job_id": "greenhouse:spacex:8731959002",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "SpaceX",
+    "title": "Full Stack Software Engineer - Simulation & Flight Systems",
+    "location": "Hawthorne, CA",
+    "posted": "2026-08-20T21:08:51-04:00",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8731959002?gh_jid=8731959002",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-21T02:03:06.876567+00:00",
+    "emailed_utc": "2026-08-21T02:03:06.876567+00:00"
+  },
+  {
+    "job_id": "greenhouse:spacex:8735368002",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "SpaceX",
+    "title": "Software Engineer - Simulation & Flight Systems",
+    "location": "Hawthorne, CA",
+    "posted": "2026-08-20T21:07:25-04:00",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8735368002?gh_jid=8735368002",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-21T02:03:06.876567+00:00",
+    "emailed_utc": "2026-08-21T02:03:06.876567+00:00"
+  },
+  {
+    "job_id": "greenhouse:trueanomalyinc:5217822007",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "trueanomalyinc",
+    "title": "Engineering Manager, Propulsion Development and Test",
+    "location": "Denver, CO",
+    "posted": "2026-08-20T19:44:17-04:00",
+    "url": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5217822007",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-21T02:03:06.876567+00:00",
+    "emailed_utc": "2026-08-21T02:03:06.876567+00:00"
   }
 ]
