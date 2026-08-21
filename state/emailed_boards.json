@@ -153762,5 +153762,70 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-21T02:32:30.304712+00:00",
     "emailed_utc": "2026-08-21T02:32:30.304712+00:00"
+  },
+  {
+    "job_id": "workday:gdit:External_Career_Site:req:RQ226774",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "General Dynamics Information Technology (GDIT)",
+    "title": "Data Engineer | Active Secret clearance",
+    "location": "USA VA Home Office (VAHOME)",
+    "posted": "Posted Today",
+    "url": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-Home-Office-VAHOME/Data-Engineer---Active-Secret-clearance_RQ226774-1",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-21T04:04:10.479281+00:00",
+    "emailed_utc": "2026-08-21T04:04:10.479281+00:00"
+  },
+  {
+    "job_id": "workday:gdit:External_Career_Site:req:RQ226747",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "General Dynamics Information Technology (GDIT)",
+    "title": "Data Scientist-Mid",
+    "location": "USA FL MacDill AFB",
+    "posted": "Posted Today",
+    "url": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-FL-MacDill-AFB/Data-Scientist-Mid_RQ226747-1",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-21T04:04:10.479281+00:00",
+    "emailed_utc": "2026-08-21T04:04:10.479281+00:00"
+  },
+  {
+    "job_id": "workday:gdit:External_Career_Site:req:RQ226748",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "General Dynamics Information Technology (GDIT)",
+    "title": "Full Stack Engineer-Mid",
+    "location": "USA FL MacDill AFB",
+    "posted": "Posted Today",
+    "url": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-FL-MacDill-AFB/Full-Stack-Engineer-Mid_RQ226748-1",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-21T04:04:10.479281+00:00",
+    "emailed_utc": "2026-08-21T04:04:10.479281+00:00"
+  },
+  {
+    "job_id": "workday:jll:jllcareers:req:REQ530604",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "JLL",
+    "title": "Chief Building Engineer",
+    "location": "El Segundo, CA",
+    "posted": "Posted Today",
+    "url": "https://jll.wd1.myworkdayjobs.com/en-US/jllcareers/job/El-Segundo-CA/Chief-Building-Engineer_REQ530604",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-21T04:04:10.479281+00:00",
+    "emailed_utc": "2026-08-21T04:04:10.479281+00:00"
+  },
+  {
+    "job_id": "workday:jll:jllcareers:req:REQ530602",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "JLL",
+    "title": "Chief Building Engineer",
+    "location": "Seal Beach, CA",
+    "posted": "Posted Today",
+    "url": "https://jll.wd1.myworkdayjobs.com/en-US/jllcareers/job/Seal-Beach-CA/Chief-Building-Engineer_REQ530602",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-21T04:04:10.479281+00:00",
+    "emailed_utc": "2026-08-21T04:04:10.479281+00:00"
   }
 ]
