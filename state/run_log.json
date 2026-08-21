@@ -40479,13 +40479,49 @@
     "cursor": null
   },
   {
-    "ts": "2026-08-21T03:58Z",
+    "ts": "2026-08-21T04:00Z",
+    "mode": "boards",
+    "per_source": {
+      "greenhouse": {
+        "fetched": 4643,
+        "title_ok": 1276,
+        "loc_ok": 545,
+        "new": 0,
+        "emailed": 0
+      },
+      "lever": {
+        "fetched": 617,
+        "title_ok": 122,
+        "loc_ok": 85,
+        "new": 0,
+        "emailed": 0
+      },
+      "ashby": {
+        "fetched": 1,
+        "title_ok": 1,
+        "loc_ok": 0,
+        "new": 0,
+        "emailed": 0
+      },
+      "workday": {
+        "fetched": 9585,
+        "title_ok": 2364,
+        "loc_ok": 960,
+        "new": 2,
+        "emailed": 2
+      }
+    },
+    "duration_s": 11.8,
+    "cursor": null
+  },
+  {
+    "ts": "2026-08-21T04:01Z",
     "mode": "main",
     "per_source": {
       "microsoft": {
-        "fetched": 211,
-        "title_ok": 116,
-        "loc_ok": 116,
+        "fetched": 210,
+        "title_ok": 117,
+        "loc_ok": 117,
         "new": 0,
         "emailed": 0
       },
@@ -40525,7 +40561,7 @@
         "emailed": 0
       }
     },
-    "duration_s": 11.8,
+    "duration_s": 12.4,
     "cursor": null
   },
   {
