@@ -67780,5 +67780,44 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-21T00:32:45.468258+00:00",
     "emailed_utc": "2026-08-21T00:32:45.468258+00:00"
+  },
+  {
+    "job_id": "greenhouse:acryldata:5218180007",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "acryldata",
+    "title": " Software Engineer - Backend Platform",
+    "location": "Palo Alto, California, United States",
+    "posted": "2026-08-20T20:08:32-04:00",
+    "url": "https://job-boards.greenhouse.io/acryldata/jobs/5218180007",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-21T01:32:25.902517+00:00",
+    "emailed_utc": "2026-08-21T01:32:25.902517+00:00"
+  },
+  {
+    "job_id": "greenhouse:astspacemobile:4726315005",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "astspacemobile",
+    "title": "Service Engineer - Service Enablement",
+    "location": "Lanham, Maryland, United States",
+    "posted": "2026-08-20T20:19:36-04:00",
+    "url": "https://ast-science.com/company/careers/?gh_jid=4726315005",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-21T01:32:25.902517+00:00",
+    "emailed_utc": "2026-08-21T01:32:25.902517+00:00"
+  },
+  {
+    "job_id": "greenhouse:generalmatter:5381354008",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "generalmatter",
+    "title": "Design Criteria Engineer",
+    "location": "Los Angeles, CA",
+    "posted": "2026-08-20T20:31:12-04:00",
+    "url": "https://job-boards.greenhouse.io/generalmatter/jobs/5381354008",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-21T01:32:25.902517+00:00",
+    "emailed_utc": "2026-08-21T01:32:25.902517+00:00"
   }
 ]
