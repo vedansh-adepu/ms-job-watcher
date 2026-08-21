@@ -398682,5 +398682,18 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-21T14:04:52.761474+00:00",
     "emailed_utc": "2026-08-21T14:04:52.761474+00:00"
+  },
+  {
+    "job_id": "workday:adventisthealthcare:adventisthealthcarecareers:req:R-043090",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Adventisthealthcare",
+    "title": "Biomedical Engineering Technician, Day Shift, Biomedical Engineering",
+    "location": "Silver Spring, MD",
+    "posted": "",
+    "url": "https://adventisthealthcare.wd1.myworkdayjobs.com/en-US/adventisthealthcarecareers/job/Silver-Spring-MD/Biomedical-Engineering-Technician--Day-Shift--Biomedical-Engineering_R-043090",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-21T15:05:04.739823+00:00",
+    "emailed_utc": "2026-08-21T15:05:04.739823+00:00"
   }
 ]
