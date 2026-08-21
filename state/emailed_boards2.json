@@ -67715,5 +67715,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-20T23:31:54.620584+00:00",
     "emailed_utc": "2026-08-20T23:31:54.620584+00:00"
+  },
+  {
+    "job_id": "greenhouse:lpc:5218129007",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "lpc",
+    "title": "Building Engineer",
+    "location": "Kissimmee, FL",
+    "posted": "2026-08-20T18:42:41-04:00",
+    "url": "https://job-boards.greenhouse.io/lpc/jobs/5218129007",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-21T00:02:10.712557+00:00",
+    "emailed_utc": "2026-08-21T00:02:10.712557+00:00"
+  },
+  {
+    "job_id": "greenhouse:nebius:4817418101",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "nebius",
+    "title": "Sr. Solution Engineer (GPU Infrastructure)",
+    "location": "Remote - United States",
+    "posted": "2026-08-20T18:25:36-04:00",
+    "url": "https://careers.nebius.com/?gh_jid=4817418101",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-21T00:02:10.712557+00:00",
+    "emailed_utc": "2026-08-21T00:02:10.712557+00:00"
   }
 ]
