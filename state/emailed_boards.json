@@ -157506,5 +157506,44 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-21T20:33:04.664779+00:00",
     "emailed_utc": "2026-08-21T20:33:04.664779+00:00"
+  },
+  {
+    "job_id": "greenhouse:voyagertechnologiesinc:4375167009",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "voyagertechnologiesinc",
+    "title": "Senior Robotics Software Engineer",
+    "location": "Pittsburgh, PA",
+    "posted": "2026-08-21T16:36:40-04:00",
+    "url": "https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4375167009",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-21T21:02:33.426792+00:00",
+    "emailed_utc": "2026-08-21T21:02:33.426792+00:00"
+  },
+  {
+    "job_id": "greenhouse:zoro:4707247006",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Zoro",
+    "title": "Sr. Platform Software Engineer",
+    "location": "Chicago, Illinois, United States",
+    "posted": "2026-08-21T16:13:08-04:00",
+    "url": "https://www.zoro.com/careers/jobs?gh_jid=4707247006",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-21T21:02:33.426792+00:00",
+    "emailed_utc": "2026-08-21T21:02:33.426792+00:00"
+  },
+  {
+    "job_id": "lever:zoox:6e661ebe-548b-4532-a243-a310fbf60223",
+    "pipeline": "boards",
+    "platform": "lever",
+    "company": "zoox",
+    "title": "Staff/Senior Staff Software Engineer - Full Stack",
+    "location": "Foster City, CA",
+    "posted": "2026-08-21 20:42 UTC",
+    "url": "https://jobs.lever.co/zoox/6e661ebe-548b-4532-a243-a310fbf60223",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-21T21:02:33.426792+00:00",
+    "emailed_utc": "2026-08-21T21:02:33.426792+00:00"
   }
 ]
