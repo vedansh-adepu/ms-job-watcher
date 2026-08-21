@@ -18055,5 +18055,18 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-21T15:11:45.725808+00:00",
     "emailed_utc": "2026-08-21T15:11:45.725808+00:00"
+  },
+  {
+    "job_id": "amazon:0d89a281-68a9-4863-862d-52df22e7c8fd",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, Amazon Security",
+    "location": "US, CA, San Luis Obispo",
+    "posted": "August 21, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10510084/software-development-engineer-amazon-security",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-21T15:21:44.652095+00:00",
+    "emailed_utc": "2026-08-21T15:21:44.652095+00:00"
   }
 ]
