@@ -18276,5 +18276,31 @@
     "bucket": "yes",
     "first_seen_utc": "2026-08-21T22:41:38.700210+00:00",
     "emailed_utc": "2026-08-21T22:41:38.700210+00:00"
+  },
+  {
+    "job_id": "amazon:a1e6e10d-f0f5-46be-b56d-c1e2d5e11646",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, Software Defined Network Controller, Amazon LEO",
+    "location": "US, WA, Redmond",
+    "posted": "August 21, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10510858/software-development-engineer-software-defined-network-controller-amazon-leo",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-21T23:01:44.168702+00:00",
+    "emailed_utc": "2026-08-21T23:01:44.168702+00:00"
+  },
+  {
+    "job_id": "amazon:bf837c7f-ff22-4add-869a-55d49e545902",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Senior Software Dev Engineer, Software Defined Network Controller, Amazon LEO",
+    "location": "US, WA, Redmond",
+    "posted": "August 21, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10510857/senior-software-dev-engineer-software-defined-network-controller-amazon-leo",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-21T23:01:44.168702+00:00",
+    "emailed_utc": "2026-08-21T23:01:44.168702+00:00"
   }
 ]
