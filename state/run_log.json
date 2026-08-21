@@ -3,22 +3,6 @@
     "ts": "2026-08-14T16:04Z",
     "mode": "boards",
     "per_source": {
-      "workday": {
-        "fetched": 7622,
-        "title_ok": 656,
-        "loc_ok": 201,
-        "new": 1,
-        "emailed": 20,
-        "errors": 1
-      }
-    },
-    "duration_s": 78.5,
-    "cursor": 1000
-  },
-  {
-    "ts": "2026-08-14T16:04Z",
-    "mode": "boards",
-    "per_source": {
       "ashby": {
         "fetched": 1944,
         "title_ok": 681,
@@ -40521,5 +40505,20 @@
     },
     "duration_s": 14.3,
     "cursor": null
+  },
+  {
+    "ts": "2026-08-21T02:23Z",
+    "mode": "boards",
+    "per_source": {
+      "workday": {
+        "fetched": 7523,
+        "title_ok": 424,
+        "loc_ok": 113,
+        "new": 11,
+        "emailed": 103
+      }
+    },
+    "duration_s": 449.1,
+    "cursor": 1880
   }
 ]
