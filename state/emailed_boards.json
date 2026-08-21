@@ -154295,5 +154295,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-21T11:33:09.096746+00:00",
     "emailed_utc": "2026-08-21T11:33:09.096746+00:00"
+  },
+  {
+    "job_id": "workday:ngc:Northrop_Grumman_External_Site:req:R10246988",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Northrop Grumman",
+    "title": "2026 Associate RF Engineer/RF Engineer - Dulles VA",
+    "location": "United States-Virginia-Dulles",
+    "posted": "Posted Today",
+    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/XMLNAME-2026-Associate-RF-Engineer-RF-Engineer---Dulles-VA_R10246988",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-21T12:32:53.154620+00:00",
+    "emailed_utc": "2026-08-21T12:32:53.154620+00:00"
+  },
+  {
+    "job_id": "workday:ngc:Northrop_Grumman_External_Site:req:R10246474",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Northrop Grumman",
+    "title": "Logistics Engineer / Principal Logistics Engineer",
+    "location": "United States-Virginia-Chantilly",
+    "posted": "Posted Today",
+    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Virginia-Chantilly/Logistics-Engineer---Principal-Logistics-Engineer_R10246474",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-21T12:32:53.154620+00:00",
+    "emailed_utc": "2026-08-21T12:32:53.154620+00:00"
   }
 ]
