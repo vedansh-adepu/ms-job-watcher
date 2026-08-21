@@ -153827,5 +153827,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-21T04:04:10.479281+00:00",
     "emailed_utc": "2026-08-21T04:04:10.479281+00:00"
+  },
+  {
+    "job_id": "workday:ngc:Northrop_Grumman_External_Site:req:R10246973",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Northrop Grumman",
+    "title": "Radar Modeling Simulation Analysis Systems Engineer",
+    "location": "United States-Maryland-Baltimore",
+    "posted": "Posted Today",
+    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Maryland-Baltimore/Radar-Modeling-Simulation-Analysis-Systems-Engineer_R10246973",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-21T04:32:37.124326+00:00",
+    "emailed_utc": "2026-08-21T04:32:37.124326+00:00"
+  },
+  {
+    "job_id": "workday:nvidia:NVIDIAExternalCareerSite:req:JR2018514",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "NVIDIA",
+    "title": "Senior Data Center Cooling Systems Engineer",
+    "location": "US, CA, Santa Clara",
+    "posted": "Posted Today",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Data-Center-Cooling-Systems-Engineer_JR2018514",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-21T04:32:37.124326+00:00",
+    "emailed_utc": "2026-08-21T04:32:37.124326+00:00"
   }
 ]
