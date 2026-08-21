@@ -18016,5 +18016,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-21T07:01:43.138192+00:00",
     "emailed_utc": "2026-08-21T07:01:43.138192+00:00"
+  },
+  {
+    "job_id": "amazon:b20c85f1-90df-4c68-8b66-357bb749b592",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, PXTCS (People Experience and Technology Central Science)",
+    "location": "US, WA, Bellevue",
+    "posted": "August 21, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10510025/software-development-engineer-pxtcs-people-experience-and-technology-central-science",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-21T14:21:43.320589+00:00",
+    "emailed_utc": "2026-08-21T14:21:43.320589+00:00"
+  },
+  {
+    "job_id": "amazon:f0638092-5752-45fe-8c80-469c378d48ee",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Sr. Software Development Engineer, US Amazon Dedicated Cloud Security",
+    "location": "US, VA, Herndon",
+    "posted": "August 21, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10510026/sr-software-development-engineer-us-amazon-dedicated-cloud-security",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-21T14:21:43.320589+00:00",
+    "emailed_utc": "2026-08-21T14:21:43.320589+00:00"
   }
 ]
