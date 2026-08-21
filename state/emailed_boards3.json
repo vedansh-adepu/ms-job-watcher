@@ -409251,5 +409251,83 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-21T22:02:41.253137+00:00",
     "emailed_utc": "2026-08-21T22:02:41.253137+00:00"
+  },
+  {
+    "job_id": "workday:atriumhospitality:atriumhospitality:req:R49729",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Atriumhospitality",
+    "title": "Data Warehouse Developer",
+    "location": "Alpharetta, GA",
+    "posted": "Posted Yesterday",
+    "url": "https://atriumhospitality.wd5.myworkdayjobs.com/en-US/atriumhospitality/job/Alpharetta-GA/Data-Warehouse-Developer_R49729",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-21T22:11:18.297902+00:00",
+    "emailed_utc": "2026-08-21T22:11:18.297902+00:00"
+  },
+  {
+    "job_id": "workday:atriumhospitality:atriumhospitality:req:R49718",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Atriumhospitality",
+    "title": "Chief Maintenance Engineer",
+    "location": "Branson, MO",
+    "posted": "Posted 4 Days Ago",
+    "url": "https://atriumhospitality.wd5.myworkdayjobs.com/en-US/atriumhospitality/job/Branson-MO/Chief-Maintenance-Engineer_R49718",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-21T22:11:18.297902+00:00",
+    "emailed_utc": "2026-08-21T22:11:18.297902+00:00"
+  },
+  {
+    "job_id": "workday:att:attgeneral:req:R-120199",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Att",
+    "title": "Sr Specialist Software Engineering",
+    "location": "USA:TX:Plano / W Plano Pkwy - Adm & Dat:2900 W Plano Pkwy",
+    "posted": "Posted Today",
+    "url": "https://att.wd1.myworkdayjobs.com/en-US/attgeneral/job/USATXPlano--W-Plano-Pkwy---Adm--Dat2900-W-Plano-Pkwy/Sr-Specialist-Software-Engineering_R-120199",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-21T22:11:18.297902+00:00",
+    "emailed_utc": "2026-08-21T22:11:18.297902+00:00"
+  },
+  {
+    "job_id": "workday:att:attgeneral:req:R-119492",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Att",
+    "title": "Principal System Engineer - Oracle EPM Cloud Specialist",
+    "location": "USA:GA:Alpharetta / 300 North Point Pkwy - Dat (owned):300 North Point Pkwy",
+    "posted": "Posted 3 Days Ago",
+    "url": "https://att.wd1.myworkdayjobs.com/en-US/attgeneral/job/USAGAAlpharetta--300-North-Point-Pkwy---Dat-owned300-North-Point-Pkwy/Principal-System-Engineer---Oracle-EPM-Cloud-Specialist_R-119492-1",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-21T22:11:18.297902+00:00",
+    "emailed_utc": "2026-08-21T22:11:18.297902+00:00"
+  },
+  {
+    "job_id": "workday:att:attgeneral:req:R-119493",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Att",
+    "title": "Principal System Engineering - Workday",
+    "location": "USA:TX:Plano / W Plano Pkwy - Adm:3400 W Plano Pkwy",
+    "posted": "Posted 3 Days Ago",
+    "url": "https://att.wd1.myworkdayjobs.com/en-US/attgeneral/job/USATXPlano--W-Plano-Pkwy---Adm3400-W-Plano-Pkwy/Principal-System-Engineering---Workday_R-119493-1",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-21T22:11:18.297902+00:00",
+    "emailed_utc": "2026-08-21T22:11:18.297902+00:00"
+  },
+  {
+    "job_id": "workday:att:attgeneral:req:R-119494",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Att",
+    "title": "Principal Software Architect",
+    "location": "USA:TX:Plano / W Plano Pkwy - Adm:3400 W Plano Pkwy",
+    "posted": "Posted 3 Days Ago",
+    "url": "https://att.wd1.myworkdayjobs.com/en-US/attgeneral/job/USATXPlano--W-Plano-Pkwy---Adm3400-W-Plano-Pkwy/Principal-Software-Architect_R-119494",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-21T22:11:18.297902+00:00",
+    "emailed_utc": "2026-08-21T22:11:18.297902+00:00"
   }
 ]
