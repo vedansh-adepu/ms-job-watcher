@@ -407379,5 +407379,44 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-21T20:03:38.268076+00:00",
     "emailed_utc": "2026-08-21T20:03:38.268076+00:00"
+  },
+  {
+    "job_id": "workday:aptiv:aptiv_careers:req:J000702028",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Aptiv",
+    "title": "Software Engineer",
+    "location": "Agoura Hills, CA - USA",
+    "posted": "Posted 4 Days Ago",
+    "url": "https://aptiv.wd5.myworkdayjobs.com/en-US/aptiv_careers/job/Agoura-Hills-CA---USA/Software-Engineer_J000702028",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-21T20:34:08.293550+00:00",
+    "emailed_utc": "2026-08-21T20:34:08.293550+00:00"
+  },
+  {
+    "job_id": "workday:arcticwolf:external:req:924",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Arcticwolf",
+    "title": "Principal AI Developer",
+    "location": "Remote, United States",
+    "posted": "Posted Today",
+    "url": "https://arcticwolf.wd1.myworkdayjobs.com/en-US/external/job/Remote-United-States/Principal-AI-Developer_R26_924",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-21T20:34:08.293550+00:00",
+    "emailed_utc": "2026-08-21T20:34:08.293550+00:00"
+  },
+  {
+    "job_id": "workday:aptiv:aptiv_careers:req:J000701765",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Aptiv",
+    "title": "Mechanical Product Engineer",
+    "location": "Warren, OH - USA",
+    "posted": "Posted 2 Days Ago",
+    "url": "https://aptiv.wd5.myworkdayjobs.com/en-US/aptiv_careers/job/Warren-OH---USA/Mechanical-Product-Engineer_J000701765",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-21T20:34:08.293550+00:00",
+    "emailed_utc": "2026-08-21T20:34:08.293550+00:00"
   }
 ]
