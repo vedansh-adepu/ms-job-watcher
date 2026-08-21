@@ -40492,13 +40492,13 @@
     "cursor": null
   },
   {
-    "ts": "2026-08-21T18:51Z",
+    "ts": "2026-08-21T18:53Z",
     "mode": "main",
     "per_source": {
       "microsoft": {
         "fetched": 210,
-        "title_ok": 116,
-        "loc_ok": 116,
+        "title_ok": 117,
+        "loc_ok": 117,
         "new": 0,
         "emailed": 0
       },
@@ -40538,7 +40538,7 @@
         "emailed": 0
       }
     },
-    "duration_s": 15.7,
+    "duration_s": 13.5,
     "cursor": null
   },
   {
