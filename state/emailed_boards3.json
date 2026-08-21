@@ -396147,5 +396147,57 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-21T11:03:10.528830+00:00",
     "emailed_utc": "2026-08-21T11:03:10.528830+00:00"
+  },
+  {
+    "job_id": "workday:insperity:nsp:req:JR103101",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Insperity",
+    "title": "Data Quality Engineer",
+    "location": "Kingwood, TX",
+    "posted": "Posted 4 Days Ago",
+    "url": "https://insperity.wd12.myworkdayjobs.com/en-US/nsp/job/Kingwood-TX/Data-Quality-Engineer_JR103101",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-21T11:36:00.140366+00:00",
+    "emailed_utc": "2026-08-21T11:36:00.140366+00:00"
+  },
+  {
+    "job_id": "workday:inmar:inmarcareers:req:JY2627566",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Inmar",
+    "title": "Manager, Application Engineer, Cyber Security",
+    "location": "Headquarters, Winston Salem, NC",
+    "posted": "Posted 4 Days Ago",
+    "url": "https://inmar.wd1.myworkdayjobs.com/en-US/inmarcareers/job/Headquarters-Winston-Salem-NC/Manager--Application-Engineer--Cyber-Security_JY2627566",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-21T11:36:00.140366+00:00",
+    "emailed_utc": "2026-08-21T11:36:00.140366+00:00"
+  },
+  {
+    "job_id": "workday:integer:external:req:R36302",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Integer",
+    "title": "Manufacturing Engineer II",
+    "location": "Alden Plant Alden, NY",
+    "posted": "Posted 3 Days Ago",
+    "url": "https://integer.wd1.myworkdayjobs.com/en-US/external/job/Alden-Plant-Alden-NY/Manufacturing-Engineer-II_R36302",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-21T11:36:00.140366+00:00",
+    "emailed_utc": "2026-08-21T11:36:00.140366+00:00"
+  },
+  {
+    "job_id": "workday:integer:external:req:R35967",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Integer",
+    "title": "Process Development Engineer II",
+    "location": "Alden Plant Alden, NY",
+    "posted": "Posted 4 Days Ago",
+    "url": "https://integer.wd1.myworkdayjobs.com/en-US/external/job/Alden-Plant-Alden-NY/Process-Development-Engineer-II_R35967",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-21T11:36:00.140366+00:00",
+    "emailed_utc": "2026-08-21T11:36:00.140366+00:00"
   }
 ]
