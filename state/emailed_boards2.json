@@ -69704,5 +69704,70 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-21T23:01:45.296457+00:00",
     "emailed_utc": "2026-08-21T23:01:45.296457+00:00"
+  },
+  {
+    "job_id": "greenhouse:ispottv:4726715005",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "ispottv",
+    "title": "Manager, Engineering",
+    "location": "Bellevue, WA",
+    "posted": "2026-08-21T18:51:20-04:00",
+    "url": "https://job-boards.greenhouse.io/ispottv/jobs/4726715005",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-21T23:32:13.230526+00:00",
+    "emailed_utc": "2026-08-21T23:32:13.230526+00:00"
+  },
+  {
+    "job_id": "greenhouse:netdocuments:5398761008",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "netdocuments",
+    "title": "Staff Software Engineer - OCR / Text Extraction",
+    "location": "Remote - US",
+    "posted": "2026-08-21T19:06:15-04:00",
+    "url": "https://job-boards.greenhouse.io/netdocuments/jobs/5398761008",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-21T23:32:13.230526+00:00",
+    "emailed_utc": "2026-08-21T23:32:13.230526+00:00"
+  },
+  {
+    "job_id": "greenhouse:queracomputinginc:5398735008",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "queracomputinginc",
+    "title": "Photonics Engineer",
+    "location": "Boston, MA, USA",
+    "posted": "2026-08-21T18:26:06-04:00",
+    "url": "https://job-boards.greenhouse.io/queracomputinginc/jobs/5398735008",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-21T23:32:13.230526+00:00",
+    "emailed_utc": "2026-08-21T23:32:13.230526+00:00"
+  },
+  {
+    "job_id": "greenhouse:roblox:8140565",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "roblox",
+    "title": "Senior Fullstack Software Engineer, Profiles",
+    "location": "San Mateo, CA, United States",
+    "posted": "2026-08-21T18:28:56-04:00",
+    "url": "https://careers.roblox.com/jobs/8140565?gh_jid=8140565",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-21T23:32:13.230526+00:00",
+    "emailed_utc": "2026-08-21T23:32:13.230526+00:00"
+  },
+  {
+    "job_id": "greenhouse:taketwo:8148645",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "taketwo",
+    "title": "Engineering Manager",
+    "location": "Massachusetts, USA",
+    "posted": "2026-08-21T18:21:18-04:00",
+    "url": "https://job-boards.greenhouse.io/taketwo/jobs/8148645",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-21T23:32:13.230526+00:00",
+    "emailed_utc": "2026-08-21T23:32:13.230526+00:00"
   }
 ]
