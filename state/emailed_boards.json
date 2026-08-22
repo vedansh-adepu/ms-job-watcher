@@ -159014,5 +159014,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-22T06:03:17.508366+00:00",
     "emailed_utc": "2026-08-22T06:03:17.508366+00:00"
+  },
+  {
+    "job_id": "workday:ngc:Northrop_Grumman_External_Site:req:R10247178",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Northrop Grumman",
+    "title": "Resource Control Team Software Engineer (Level 1 or 2) - AHT",
+    "location": "United States-California-Manhattan Beach",
+    "posted": "Posted Yesterday",
+    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Manhattan-Beach/Resource-Control-Team-Software-Engineer--Level-1-or-2----AHT_R10247178",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-22T09:02:56.206428+00:00",
+    "emailed_utc": "2026-08-22T09:02:56.206428+00:00"
+  },
+  {
+    "job_id": "workday:ngc:Northrop_Grumman_External_Site:req:R10247180",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Northrop Grumman",
+    "title": "Software System Engineer (Level 1 or 2) - AHT",
+    "location": "United States-California-Manhattan Beach",
+    "posted": "Posted Yesterday",
+    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Manhattan-Beach/Software-System-Engineer--Level-1-or-2----AHT_R10247180",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-22T09:02:56.206428+00:00",
+    "emailed_utc": "2026-08-22T09:02:56.206428+00:00"
   }
 ]
