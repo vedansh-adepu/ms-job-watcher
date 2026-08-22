@@ -158455,5 +158455,70 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-22T00:01:40.609947+00:00",
     "emailed_utc": "2026-08-22T00:01:40.609947+00:00"
+  },
+  {
+    "job_id": "greenhouse:affirm:7918497003",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Affirm",
+    "title": "Manager, Software Engineering (App Experiences)",
+    "location": "Remote US",
+    "posted": "2026-08-21T17:41:46-04:00",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7918497003",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-22T00:33:08.704451+00:00",
+    "emailed_utc": "2026-08-22T00:33:08.704451+00:00"
+  },
+  {
+    "job_id": "workday:amat:External:req:R2626859",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Applied Materials",
+    "title": "Software Engineer I - New College Grad (Bachelors - Kalispell, MT)",
+    "location": "Kalispell,MT",
+    "posted": "Posted Today",
+    "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/KalispellMT/Software-Engineer-I---New-College-Grad--Bachelors---Kalispell--MT-_R2626859",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-22T00:33:08.704451+00:00",
+    "emailed_utc": "2026-08-22T00:33:08.704451+00:00"
+  },
+  {
+    "job_id": "workday:amat:External:req:R2626413",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Applied Materials",
+    "title": "Engineering Technician III - (T3)",
+    "location": "Santa Clara,CA",
+    "posted": "Posted Today",
+    "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Engineering-Technician-III----T3-_R2626413",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-22T00:33:08.704451+00:00",
+    "emailed_utc": "2026-08-22T00:33:08.704451+00:00"
+  },
+  {
+    "job_id": "greenhouse:databricks:8739484002",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Databricks",
+    "title": "Sr. Forward Deployed Engineer",
+    "location": "United States",
+    "posted": "2026-08-21T20:23:39-04:00",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8739484002",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-22T00:33:08.704451+00:00",
+    "emailed_utc": "2026-08-22T00:33:08.704451+00:00"
+  },
+  {
+    "job_id": "workday:boeing:EXTERNAL_CAREERS:req:JR2026520485",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Boeing",
+    "title": "Mid-Level Wiring Design and Installation Engineer\u00a0",
+    "location": "USA - North Charleston, SC",
+    "posted": "Posted Today",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---North-Charleston-SC/Mid-Level-Wiring-Design-and-Installation-Engineer-_JR2026520485",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-22T00:33:08.704451+00:00",
+    "emailed_utc": "2026-08-22T00:33:08.704451+00:00"
   }
 ]
