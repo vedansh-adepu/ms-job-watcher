@@ -69886,5 +69886,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-22T01:02:04.109606+00:00",
     "emailed_utc": "2026-08-22T01:02:04.109606+00:00"
+  },
+  {
+    "job_id": "greenhouse:lottebiologicsusallc:5398793008",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "lottebiologicsusallc",
+    "title": "Senior Process Engineer, Tech Transfer & Manufacturing Readiness",
+    "location": "Syracuse, NY",
+    "posted": "2026-08-21T19:36:34-04:00",
+    "url": "https://job-boards.greenhouse.io/lottebiologicsusallc/jobs/5398793008",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-22T01:31:53.474197+00:00",
+    "emailed_utc": "2026-08-22T01:31:53.474197+00:00"
+  },
+  {
+    "job_id": "greenhouse:panthalassa:6150361004",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "panthalassa",
+    "title": "Corporate Network Engineer",
+    "location": "Portland, OR",
+    "posted": "2026-08-21T19:54:26-04:00",
+    "url": "https://job-boards.greenhouse.io/panthalassa/jobs/6150361004",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-22T01:31:53.474197+00:00",
+    "emailed_utc": "2026-08-22T01:31:53.474197+00:00"
   }
 ]
