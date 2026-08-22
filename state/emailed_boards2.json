@@ -69769,5 +69769,70 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-21T23:32:13.230526+00:00",
     "emailed_utc": "2026-08-21T23:32:13.230526+00:00"
+  },
+  {
+    "job_id": "greenhouse:vardaspace:7933355003",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "vardaspace",
+    "title": "Spacecraft Flight Software Engineer, C++",
+    "location": "El Segundo, California, United States",
+    "posted": "2026-08-21T18:42:07-04:00",
+    "url": "https://job-boards.greenhouse.io/vardaspace/jobs/7933355003",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-22T00:03:17.023128+00:00",
+    "emailed_utc": "2026-08-22T00:03:17.023128+00:00"
+  },
+  {
+    "job_id": "greenhouse:valaratomics:4377372009",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "valaratomics",
+    "title": "Staff Instrumentation & Controls Engineer - Hardware",
+    "location": "Orangeville, Utah, United States",
+    "posted": "2026-08-21T19:06:30-04:00",
+    "url": "https://job-boards.greenhouse.io/valaratomics/jobs/4377372009",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-22T00:03:17.023128+00:00",
+    "emailed_utc": "2026-08-22T00:03:17.023128+00:00"
+  },
+  {
+    "job_id": "greenhouse:vardaspace:7933358003",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "vardaspace",
+    "title": "Senior Spacecraft Embedded Linux Engineer, C++",
+    "location": "El Segundo, California, United States",
+    "posted": "2026-08-21T18:45:03-04:00",
+    "url": "https://job-boards.greenhouse.io/vardaspace/jobs/7933358003",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-22T00:03:17.023128+00:00",
+    "emailed_utc": "2026-08-22T00:03:17.023128+00:00"
+  },
+  {
+    "job_id": "greenhouse:vardaspace:7933356003",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "vardaspace",
+    "title": "Senior Spacecraft Flight Software Engineer, C++",
+    "location": "El Segundo, California, United States",
+    "posted": "2026-08-21T18:42:58-04:00",
+    "url": "https://job-boards.greenhouse.io/vardaspace/jobs/7933356003",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-22T00:03:17.023128+00:00",
+    "emailed_utc": "2026-08-22T00:03:17.023128+00:00"
+  },
+  {
+    "job_id": "greenhouse:vardaspace:7933357003",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "vardaspace",
+    "title": "Spacecraft Embedded Linux Engineer, C++",
+    "location": "El Segundo, California, United States",
+    "posted": "2026-08-21T18:44:05-04:00",
+    "url": "https://job-boards.greenhouse.io/vardaspace/jobs/7933357003",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-22T00:03:17.023128+00:00",
+    "emailed_utc": "2026-08-22T00:03:17.023128+00:00"
   }
 ]
