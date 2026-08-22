@@ -414074,5 +414074,83 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-22T00:37:29.092117+00:00",
     "emailed_utc": "2026-08-22T00:37:29.092117+00:00"
+  },
+  {
+    "job_id": "workday:bdx:external_career_site_usa:req:R-552362",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Bdx",
+    "title": "Engineer III - Software Developer Engineer in Test (SDET)",
+    "location": "USA MD - Sparks - 7 Loveton Circle",
+    "posted": "Posted 2 Days Ago",
+    "url": "https://bdx.wd1.myworkdayjobs.com/en-US/external_career_site_usa/job/USA-MD---Sparks---7-Loveton-Circle/Engineer-III---Software-Developer-Engineer-in-Test--SDET-_R-552362-1",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-22T01:33:42.225147+00:00",
+    "emailed_utc": "2026-08-22T01:33:42.225147+00:00"
+  },
+  {
+    "job_id": "workday:bdx:external_career_site_usa:req:R-552152",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Bdx",
+    "title": "Field Service Engineer  (Wilmington, NC)",
+    "location": "USA - South Carolina - FIELD",
+    "posted": "Posted Yesterday",
+    "url": "https://bdx.wd1.myworkdayjobs.com/en-US/external_career_site_usa/job/USA---South-Carolina---FIELD/Field-Service-Engineer---Wilmington--NC-_R-552152",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-22T01:33:42.225147+00:00",
+    "emailed_utc": "2026-08-22T01:33:42.225147+00:00"
+  },
+  {
+    "job_id": "workday:bdx:external_career_site_usa:req:R-552259",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Bdx",
+    "title": "Field Service Engineer 1 (Field Based/Houston, TX / Shift: 12pm to 9:00pm)",
+    "location": "USA - Texas - Houston",
+    "posted": "Posted 2 Days Ago",
+    "url": "https://bdx.wd1.myworkdayjobs.com/en-US/external_career_site_usa/job/USA---Texas---Houston/Field-Service-Engineer-1--Field-Based-Houston--TX-_R-552259",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-22T01:33:42.225147+00:00",
+    "emailed_utc": "2026-08-22T01:33:42.225147+00:00"
+  },
+  {
+    "job_id": "workday:bdx:external_career_site_usa:req:R-552246",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Bdx",
+    "title": "Sr. Staff Embedded Firmware/FPGA Systems Engineer",
+    "location": "USA CA - Milpitas 155",
+    "posted": "Posted 2 Days Ago",
+    "url": "https://bdx.wd1.myworkdayjobs.com/en-US/external_career_site_usa/job/USA-CA---Milpitas-155/Sr-Staff-Embedded-Firmware-FPGA-Systems-Engineer_R-552246-1",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-22T01:33:42.225147+00:00",
+    "emailed_utc": "2026-08-22T01:33:42.225147+00:00"
+  },
+  {
+    "job_id": "workday:bdx:external_career_site_usa:req:R-545085",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Bdx",
+    "title": "Field Service Engineer \u2013 Chicago, Illinois and surrounding suburbs",
+    "location": "USA CA - San Diego Bldg A&B",
+    "posted": "Posted 3 Days Ago",
+    "url": "https://bdx.wd1.myworkdayjobs.com/en-US/external_career_site_usa/job/USA-CA---San-Diego-Bldg-AB/Field-Service-Engineer---Chicago--Illinois-and-surrounding-suburbs_R-545085",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-22T01:33:42.225147+00:00",
+    "emailed_utc": "2026-08-22T01:33:42.225147+00:00"
+  },
+  {
+    "job_id": "workday:beigene:beigene:req:R36434",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Beigene",
+    "title": "Director, Corporate Affairs Strategy, Analytics & Insights",
+    "location": "Remote (US)",
+    "posted": "Posted 3 Days Ago",
+    "url": "https://beigene.wd5.myworkdayjobs.com/en-US/beigene/job/Remote-US/Director--Corporate-Affairs-Strategy--Analytics---Insights_R36434",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-22T01:33:42.225147+00:00",
+    "emailed_utc": "2026-08-22T01:33:42.225147+00:00"
   }
 ]
