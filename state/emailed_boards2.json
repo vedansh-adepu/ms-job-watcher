@@ -69938,5 +69938,44 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-22T02:02:47.212862+00:00",
     "emailed_utc": "2026-08-22T02:02:47.212862+00:00"
+  },
+  {
+    "job_id": "greenhouse:picarroinc:5399154008",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "picarroinc",
+    "title": "Software Engineering Manager - Cloud Software, Data Platform & AI-Agentic Product Engineering",
+    "location": "Santa Clara, CA",
+    "posted": "2026-08-22T03:26:27-04:00",
+    "url": "https://www.picarro.com/company/careers/job-openings/apply?gh_jid=5399154008",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-22T08:01:59.344460+00:00",
+    "emailed_utc": "2026-08-22T08:01:59.344460+00:00"
+  },
+  {
+    "job_id": "greenhouse:picarroinc:5399152008",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "picarroinc",
+    "title": "Senior Mobile Software Engineer",
+    "location": "Santa Clara, CA",
+    "posted": "2026-08-22T03:13:52-04:00",
+    "url": "https://www.picarro.com/company/careers/job-openings/apply?gh_jid=5399152008",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-22T08:01:59.344460+00:00",
+    "emailed_utc": "2026-08-22T08:01:59.344460+00:00"
+  },
+  {
+    "job_id": "greenhouse:picarroinc:5399150008",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "picarroinc",
+    "title": "Senior Software Engineer - Cloud Data Platform",
+    "location": "Santa Clara, CA",
+    "posted": "2026-08-22T03:04:05-04:00",
+    "url": "https://www.picarro.com/company/careers/job-openings/apply?gh_jid=5399150008",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-22T08:01:59.344460+00:00",
+    "emailed_utc": "2026-08-22T08:01:59.344460+00:00"
   }
 ]
