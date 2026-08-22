@@ -426281,5 +426281,18 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-22T05:02:45.340126+00:00",
     "emailed_utc": "2026-08-22T05:02:45.340126+00:00"
+  },
+  {
+    "job_id": "workday:campbellsoup:externalcareers_globalsite:req:Req-67269",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Campbellsoup",
+    "title": "Platform Engineer - Security",
+    "location": "USA - NJ - Camden",
+    "posted": "Posted Today",
+    "url": "https://campbellsoup.wd5.myworkdayjobs.com/en-US/externalcareers_globalsite/job/USA---NJ---Camden/Platform-Engineer---Security_Req-67269",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-22T05:35:14.563846+00:00",
+    "emailed_utc": "2026-08-22T05:35:14.563846+00:00"
   }
 ]
