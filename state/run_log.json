@@ -40476,43 +40476,15 @@
     "cursor": null
   },
   {
-    "ts": "2026-08-22T18:33Z",
+    "ts": "2026-08-22T18:40Z",
     "mode": "boards",
     "per_source": {
-      "greenhouse": {
-        "fetched": 10776,
-        "title_ok": 3724,
-        "loc_ok": 2231,
-        "new": 1,
-        "emailed": 1
-      },
-      "lever": {
-        "fetched": 592,
-        "title_ok": 49,
-        "loc_ok": 33,
-        "new": 0,
-        "emailed": 0
-      },
-      "ashby": {
-        "fetched": 133,
-        "title_ok": 37,
-        "loc_ok": 0,
-        "new": 0,
-        "emailed": 0
-      },
-      "smartrecruiters": {
-        "fetched": 1284,
-        "title_ok": 270,
-        "loc_ok": 111,
-        "new": 0,
-        "emailed": 0
-      },
       "workday": {
-        "fetched": 9625,
-        "title_ok": 2274,
-        "loc_ok": 840,
-        "new": 0,
-        "emailed": 0,
+        "fetched": 7648,
+        "title_ok": 768,
+        "loc_ok": 231,
+        "new": 3,
+        "emailed": 80,
         "errors": 1
       }
     },
