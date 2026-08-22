@@ -69834,5 +69834,57 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-22T00:03:17.023128+00:00",
     "emailed_utc": "2026-08-22T00:03:17.023128+00:00"
+  },
+  {
+    "job_id": "greenhouse:amperesand:4379637009",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "amperesand",
+    "title": "Senior Packaging Engineer",
+    "location": "Reno, Nevada, United States; San Francisco, California, United States; South Bay Office",
+    "posted": "2026-08-21T20:20:13-04:00",
+    "url": "https://job-boards.greenhouse.io/amperesand/jobs/4379637009",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-22T01:02:04.109606+00:00",
+    "emailed_utc": "2026-08-22T01:02:04.109606+00:00"
+  },
+  {
+    "job_id": "greenhouse:asteralabs:4724132005",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "asteralabs",
+    "title": "Firmware/Software Tech Lead ",
+    "location": "San Jose, California, United States",
+    "posted": "2026-08-21T19:33:15-04:00",
+    "url": "https://job-boards.greenhouse.io/asteralabs/jobs/4724132005",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-22T01:02:04.109606+00:00",
+    "emailed_utc": "2026-08-22T01:02:04.109606+00:00"
+  },
+  {
+    "job_id": "greenhouse:asteralabs:4726749005",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "asteralabs",
+    "title": "Technical Lead Package Platform Engineer ",
+    "location": "San Jose, California, United States",
+    "posted": "2026-08-21T20:33:27-04:00",
+    "url": "https://job-boards.greenhouse.io/asteralabs/jobs/4726749005",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-22T01:02:04.109606+00:00",
+    "emailed_utc": "2026-08-22T01:02:04.109606+00:00"
+  },
+  {
+    "job_id": "greenhouse:five9:6150849004",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "five9",
+    "title": "Security Engineer",
+    "location": "United States (Remote)",
+    "posted": "2026-08-21T20:55:13-04:00",
+    "url": "https://www.five9.com/about/careers/job-detail?gh_jid=6150849004",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-22T01:02:04.109606+00:00",
+    "emailed_utc": "2026-08-22T01:02:04.109606+00:00"
   }
 ]
