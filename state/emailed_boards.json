@@ -158520,5 +158520,70 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-22T00:33:08.704451+00:00",
     "emailed_utc": "2026-08-22T00:33:08.704451+00:00"
+  },
+  {
+    "job_id": "greenhouse:figma:6150563004",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Figma",
+    "title": "Director, People Partners - Product, Design & Engineering",
+    "location": "San Francisco, CA",
+    "posted": "2026-08-21T18:09:25-04:00",
+    "url": "https://boards.greenhouse.io/figma/jobs/6150563004?gh_jid=6150563004",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-22T01:03:28.212709+00:00",
+    "emailed_utc": "2026-08-22T01:03:28.212709+00:00"
+  },
+  {
+    "job_id": "workday:disney:disneycareer:req:10157758",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Disney",
+    "title": "Principal Product Software Engineer",
+    "location": "Glendale, CA, USA",
+    "posted": "Posted Today",
+    "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Glendale-CA-USA/Principal-Product-Software-Engineer_10157758",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-22T01:03:28.212709+00:00",
+    "emailed_utc": "2026-08-22T01:03:28.212709+00:00"
+  },
+  {
+    "job_id": "workday:intel:External:req:JR0286517",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Intel",
+    "title": "Silicon Packaging Design Engineer",
+    "location": "US, Arizona, Phoenix",
+    "posted": "Posted Today",
+    "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/Silicon-Packaging-Design-Engineer_JR0286517",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-22T01:03:28.212709+00:00",
+    "emailed_utc": "2026-08-22T01:03:28.212709+00:00"
+  },
+  {
+    "job_id": "workday:intel:External:req:JR0286288",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Intel",
+    "title": "Thin Films Module Development Engineer",
+    "location": "US, Oregon, Hillsboro",
+    "posted": "Posted Today",
+    "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Thin-Films-Module-Development-Engineer_JR0286288",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-22T01:03:28.212709+00:00",
+    "emailed_utc": "2026-08-22T01:03:28.212709+00:00"
+  },
+  {
+    "job_id": "workday:jll:jllcareers:req:REQ530880",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "JLL",
+    "title": "Healthcare Assistant Chief Engineer",
+    "location": "Chicago, IL",
+    "posted": "Posted Today",
+    "url": "https://jll.wd1.myworkdayjobs.com/en-US/jllcareers/job/Chicago-IL/Healthcare-Assistant-Chief-Engineer_REQ530880-1",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-22T01:03:28.212709+00:00",
+    "emailed_utc": "2026-08-22T01:03:28.212709+00:00"
   }
 ]
