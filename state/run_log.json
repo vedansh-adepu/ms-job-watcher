@@ -40501,7 +40501,22 @@
         "emailed": 65
       }
     },
-    "duration_s": 253.0,
+    "duration_s": 14.3,
+    "cursor": null
+  },
+  {
+    "ts": "2026-08-22T16:11Z",
+    "mode": "boards",
+    "per_source": {
+      "workday": {
+        "fetched": 5321,
+        "title_ok": 414,
+        "loc_ok": 289,
+        "new": 7,
+        "emailed": 65
+      }
+    },
+    "duration_s": 255.6,
     "cursor": 1260
   },
   {
