@@ -426697,5 +426697,18 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-22T06:05:32.461699+00:00",
     "emailed_utc": "2026-08-22T06:05:32.461699+00:00"
+  },
+  {
+    "job_id": "workday:cars:cars:req:JR11286",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Cars",
+    "title": "Senior Analytics Platform Engineer",
+    "location": "Chicago, IL",
+    "posted": "Posted 4 Days Ago",
+    "url": "https://cars.wd12.myworkdayjobs.com/en-US/cars/job/Chicago-IL/Analytics-Engineer--Data-Platform_JR11286",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-22T06:31:56.247995+00:00",
+    "emailed_utc": "2026-08-22T06:31:56.247995+00:00"
   }
 ]
