@@ -435654,5 +435654,57 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-22T14:02:56.104645+00:00",
     "emailed_utc": "2026-08-22T14:02:56.104645+00:00"
+  },
+  {
+    "job_id": "workday:dentsuaegis:dan_global:req:R1128928",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Dentsuaegis",
+    "title": "Data Engineer (Adobe Experience Platform)",
+    "location": "USA - Remote - Maryland",
+    "posted": "Posted 2 Days Ago",
+    "url": "https://dentsuaegis.wd3.myworkdayjobs.com/en-US/dan_global/job/USA---Remote---Maryland/Data-Engineer--Adobe-Experience-Platform-_R1128928",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-22T15:04:34.744116+00:00",
+    "emailed_utc": "2026-08-22T15:04:34.744116+00:00"
+  },
+  {
+    "job_id": "workday:dentsuaegis:dan_global:req:R1129760",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Dentsuaegis",
+    "title": "Senior Analyst, Analytics",
+    "location": "USA - Remote - Georgia",
+    "posted": "Posted Yesterday",
+    "url": "https://dentsuaegis.wd3.myworkdayjobs.com/en-US/dan_global/job/USA---Remote---Georgia/Senior-Analyst--Analytics_R1129760-1",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-22T15:04:34.744116+00:00",
+    "emailed_utc": "2026-08-22T15:04:34.744116+00:00"
+  },
+  {
+    "job_id": "workday:dentsuaegis:dan_global:req:R1129762",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Dentsuaegis",
+    "title": "Lead Analyst, Retail Pricing Analytics",
+    "location": "USA - Remote - Georgia",
+    "posted": "Posted 2 Days Ago",
+    "url": "https://dentsuaegis.wd3.myworkdayjobs.com/en-US/dan_global/job/USA---Remote---Georgia/Lead-Analyst--Retail-Pricing-Analytics_R1129762",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-22T15:04:34.744116+00:00",
+    "emailed_utc": "2026-08-22T15:04:34.744116+00:00"
+  },
+  {
+    "job_id": "workday:denverhealth:dhha-main:req:R17981",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Denverhealth",
+    "title": "Senior Director, Business Analytics & Decision Support",
+    "location": "Administrative Offices - 601 Broadway, Denver, CO 80203",
+    "posted": "Posted 3 Days Ago",
+    "url": "https://denverhealth.wd1.myworkdayjobs.com/en-US/dhha-main/job/Administrative-Offices---601-Broadway-Denver-CO-80203/Senior-Director--Business-Analytics---Decision-Support_R17981",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-22T15:04:34.744116+00:00",
+    "emailed_utc": "2026-08-22T15:04:34.744116+00:00"
   }
 ]
