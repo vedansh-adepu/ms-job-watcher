@@ -69912,5 +69912,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-22T01:31:53.474197+00:00",
     "emailed_utc": "2026-08-22T01:31:53.474197+00:00"
+  },
+  {
+    "job_id": "lever:ableserve:fad316cd-e5cd-455d-9fb6-c872e8d8f8c9",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "ableserve",
+    "title": "Part-time Engineer",
+    "location": "Carlsbad, CA",
+    "posted": "2026-08-22 00:42 UTC",
+    "url": "https://jobs.lever.co/ableserve/fad316cd-e5cd-455d-9fb6-c872e8d8f8c9",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-22T02:02:47.212862+00:00",
+    "emailed_utc": "2026-08-22T02:02:47.212862+00:00"
+  },
+  {
+    "job_id": "lever:atomcomputing:3006329c-120d-40c6-8435-3190bee2d5ee",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "atomcomputing",
+    "title": "Senior Systems Engineer",
+    "location": "Boulder, CO",
+    "posted": "2026-08-22 00:09 UTC",
+    "url": "https://jobs.lever.co/atomcomputing/3006329c-120d-40c6-8435-3190bee2d5ee",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-22T02:02:47.212862+00:00",
+    "emailed_utc": "2026-08-22T02:02:47.212862+00:00"
   }
 ]
