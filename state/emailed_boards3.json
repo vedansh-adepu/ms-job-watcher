@@ -446444,5 +446444,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-23T19:20:31.923972+00:00",
     "emailed_utc": "2026-08-23T19:20:31.923972+00:00"
+  },
+  {
+    "job_id": "workday:ingrammicro:ingrammicro:req:R-117185",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Ingrammicro",
+    "title": "Facilities Maintenance Engineer- Warehouse",
+    "location": "Plainfield, IN, United States of America",
+    "posted": "Posted 2 Days Ago",
+    "url": "https://ingrammicro.wd5.myworkdayjobs.com/en-US/ingrammicro/job/Plainfield-IN-United-States-of-America/Facilities-Maintenance-Engineer--Warehouse_R-117185",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-23T19:32:51.908604+00:00",
+    "emailed_utc": "2026-08-23T19:32:51.908604+00:00"
+  },
+  {
+    "job_id": "workday:infobip:infobipcareers:req:JR104885",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Infobip",
+    "title": "Solution Engineer-1",
+    "location": "Jersey City (USA)",
+    "posted": "Posted 2 Days Ago",
+    "url": "https://infobip.wd3.myworkdayjobs.com/en-US/infobipcareers/job/Jersey-City-USA/Solution-Engineer-1_JR104885",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-23T19:32:51.908604+00:00",
+    "emailed_utc": "2026-08-23T19:32:51.908604+00:00"
   }
 ]
