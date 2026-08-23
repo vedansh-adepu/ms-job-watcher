@@ -444858,5 +444858,57 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-23T14:34:05.698450+00:00",
     "emailed_utc": "2026-08-23T14:34:05.698450+00:00"
+  },
+  {
+    "job_id": "workday:hdsupply:external:req:R26004582",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Hdsupply",
+    "title": "Application Engineer",
+    "location": "Atlanta-GA-US",
+    "posted": "Posted 2 Days Ago",
+    "url": "https://hdsupply.wd1.myworkdayjobs.com/en-US/external/job/Atlanta-GA-US/Application-Engineer_R26004582-1",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-23T15:33:32.606746+00:00",
+    "emailed_utc": "2026-08-23T15:33:32.606746+00:00"
+  },
+  {
+    "job_id": "workday:hdsupply:external:req:R26004583",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Hdsupply",
+    "title": "Sr Analyst - Decision Analytics | Customer Experience",
+    "location": "Atlanta-GA-US",
+    "posted": "Posted 2 Days Ago",
+    "url": "https://hdsupply.wd1.myworkdayjobs.com/en-US/external/job/Atlanta-GA-US/Sr-Analyst---Decision-Analytics---Customer-Experience_R26004583",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-23T15:33:32.606746+00:00",
+    "emailed_utc": "2026-08-23T15:33:32.606746+00:00"
+  },
+  {
+    "job_id": "workday:hdsupply:external:req:R26004582",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Hdsupply",
+    "title": "Application Engineer",
+    "location": "Atlanta-GA-US",
+    "posted": "Posted 2 Days Ago",
+    "url": "https://hdsupply.wd1.myworkdayjobs.com/en-US/external/job/Atlanta-GA-US/Application-Engineer_R26004582-1",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-23T15:33:32.606746+00:00",
+    "emailed_utc": "2026-08-23T15:33:32.606746+00:00"
+  },
+  {
+    "job_id": "workday:hdsupply:external:req:R26004582",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Hdsupply",
+    "title": "Application Engineer",
+    "location": "Atlanta-GA-US",
+    "posted": "Posted 2 Days Ago",
+    "url": "https://hdsupply.wd1.myworkdayjobs.com/en-US/external/job/Atlanta-GA-US/Application-Engineer_R26004582-1",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-23T15:33:32.606746+00:00",
+    "emailed_utc": "2026-08-23T15:33:32.606746+00:00"
   }
 ]
