@@ -440932,5 +440932,57 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-23T07:36:29.460537+00:00",
     "emailed_utc": "2026-08-23T07:36:29.460537+00:00"
+  },
+  {
+    "job_id": "workday:fmr:fidelitycareers:req:2129233",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Fmr",
+    "title": "Director, Software Engineering",
+    "location": "Westlake, TX",
+    "posted": "Posted 2 Days Ago",
+    "url": "https://fmr.wd1.myworkdayjobs.com/en-US/fidelitycareers/job/Westlake-TX/Director--Software-Engineering_2129233-1",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-23T08:02:35.042574+00:00",
+    "emailed_utc": "2026-08-23T08:02:35.042574+00:00"
+  },
+  {
+    "job_id": "workday:fmr:fidelitycareers:req:2133289",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Fmr",
+    "title": "Data Center Engineer",
+    "location": "Morrisville, NC",
+    "posted": "Posted 2 Days Ago",
+    "url": "https://fmr.wd1.myworkdayjobs.com/en-US/fidelitycareers/job/Morrisville-NC/Data-Center-Engineer_2133289",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-23T08:02:35.042574+00:00",
+    "emailed_utc": "2026-08-23T08:02:35.042574+00:00"
+  },
+  {
+    "job_id": "workday:fmr:fidelitycareers:req:2124379",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Fmr",
+    "title": "Senior Manager, Fraud Detection and Analytics",
+    "location": "Covington, KY",
+    "posted": "Posted 2 Days Ago",
+    "url": "https://fmr.wd1.myworkdayjobs.com/en-US/fidelitycareers/job/Covington-KY/Senior-Manager--Advanced-Data-Analytics-and-Insights_2124379",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-23T08:02:35.042574+00:00",
+    "emailed_utc": "2026-08-23T08:02:35.042574+00:00"
+  },
+  {
+    "job_id": "workday:fmr:fidelitycareers:req:2128974",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Fmr",
+    "title": "Senior Manager, Data Analytics and Insights",
+    "location": "Covington, KY",
+    "posted": "Posted 2 Days Ago",
+    "url": "https://fmr.wd1.myworkdayjobs.com/en-US/fidelitycareers/job/Covington-KY/Senior-Manager--Data-Analytics-and-Insights_2128974-1",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-23T08:02:35.042574+00:00",
+    "emailed_utc": "2026-08-23T08:02:35.042574+00:00"
   }
 ]
