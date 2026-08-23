@@ -444910,5 +444910,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-23T15:33:32.606746+00:00",
     "emailed_utc": "2026-08-23T15:33:32.606746+00:00"
+  },
+  {
+    "job_id": "workday:hexcel:hexcelcareers:req:R020468",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Hexcel",
+    "title": "Manufacturing Engineer III",
+    "location": "USA - WA - Kent",
+    "posted": "Posted 2 Days Ago",
+    "url": "https://hexcel.wd5.myworkdayjobs.com/en-US/hexcelcareers/job/USA---WA---Kent/Manufacturing-Engineer-III_R020468",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-23T16:10:56.678303+00:00",
+    "emailed_utc": "2026-08-23T16:10:56.678303+00:00"
+  },
+  {
+    "job_id": "workday:heinz:kraftheinz_careers:req:R-105970",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Heinz",
+    "title": "Project Engineer",
+    "location": "Davenport, IA",
+    "posted": "Posted 2 Days Ago",
+    "url": "https://heinz.wd1.myworkdayjobs.com/en-US/kraftheinz_careers/job/Davenport-IA/Project-Engineer_R-105970-1",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-23T16:10:56.678303+00:00",
+    "emailed_utc": "2026-08-23T16:10:56.678303+00:00"
   }
 ]
