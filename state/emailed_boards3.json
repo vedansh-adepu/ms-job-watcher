@@ -446600,5 +446600,18 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-23T20:33:17.698867+00:00",
     "emailed_utc": "2026-08-23T20:33:17.698867+00:00"
+  },
+  {
+    "job_id": "workday:aah:external:req:R237416",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Aah",
+    "title": "Research Postdoctoral Fellow - Biomedical Engineering",
+    "location": "Atrium Health Wake Forest Baptist - Medical Center Blvd, Winston Salem, NC",
+    "posted": "Posted 2 Days Ago",
+    "url": "https://aah.wd5.myworkdayjobs.com/en-US/external/job/Atrium-Health-Wake-Forest-Baptist---Medical-Center-Blvd-Winston-Salem-NC/Research-Postdoctoral-Fellow--Biomedical-Engineering_R237416",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-23T21:38:19.604188+00:00",
+    "emailed_utc": "2026-08-23T21:38:19.604188+00:00"
   }
 ]
