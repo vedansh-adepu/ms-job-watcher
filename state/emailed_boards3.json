@@ -445339,5 +445339,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-23T16:32:59.326336+00:00",
     "emailed_utc": "2026-08-23T16:32:59.326336+00:00"
+  },
+  {
+    "job_id": "workday:hp:exteu-ac-careersite:req:3167276",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Hp",
+    "title": "Software and Engineering Graduate Roles - HP Solutions (HPS)",
+    "location": "Fort Collins, Colorado, United States of America",
+    "posted": "Posted 2 Days Ago",
+    "url": "https://hp.wd5.myworkdayjobs.com/en-US/exteu-ac-careersite/job/Fort-Collins-Colorado-United-States-of-America/Software-and-Engineering-Graduate-Roles---HP-Solutions--HPS-_3167276",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-23T17:06:56.511616+00:00",
+    "emailed_utc": "2026-08-23T17:06:56.511616+00:00"
+  },
+  {
+    "job_id": "workday:hp:externalcareersite:req:3167276",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Hp",
+    "title": "Software and Engineering Graduate Roles - HP Solutions (HPS)",
+    "location": "Fort Collins, Colorado, United States of America",
+    "posted": "Posted 2 Days Ago",
+    "url": "https://hp.wd5.myworkdayjobs.com/en-US/externalcareersite/job/Fort-Collins-Colorado-United-States-of-America/Software-and-Engineering-Graduate-Roles---HP-Solutions--HPS-_3167276-1",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-23T17:06:56.511616+00:00",
+    "emailed_utc": "2026-08-23T17:06:56.511616+00:00"
   }
 ]
