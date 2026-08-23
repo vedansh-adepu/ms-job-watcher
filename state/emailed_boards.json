@@ -159339,5 +159339,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-22T21:33:14.412116+00:00",
     "emailed_utc": "2026-08-22T21:33:14.412116+00:00"
+  },
+  {
+    "job_id": "workday:fifththird:53careers:req:R71852",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Fifth Third Bank",
+    "title": "Senior Director, Platform Engineering - Commercial Credit Servicing",
+    "location": "Cincinnati, OH",
+    "posted": "Posted Today",
+    "url": "https://fifththird.wd5.myworkdayjobs.com/en-US/53careers/job/Cincinnati-OH/Senior-Director--Platform-Engineering---Commercial-Credit-Servicing_R71852",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-23T05:03:26.433663+00:00",
+    "emailed_utc": "2026-08-23T05:03:26.433663+00:00"
+  },
+  {
+    "job_id": "workday:gdit:External_Career_Site:req:RQ226867",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "General Dynamics Information Technology (GDIT)",
+    "title": "ICAM Systems Engineer & Manager",
+    "location": "USA FL MacDill AFB",
+    "posted": "Posted Today",
+    "url": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-FL-MacDill-AFB/ICAM-Systems-Engineer---Manager_RQ226867-1",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-23T05:03:26.433663+00:00",
+    "emailed_utc": "2026-08-23T05:03:26.433663+00:00"
   }
 ]
