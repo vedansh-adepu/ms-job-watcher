@@ -443883,5 +443883,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-23T13:08:17.056322+00:00",
     "emailed_utc": "2026-08-23T13:08:17.056322+00:00"
+  },
+  {
+    "job_id": "workday:guidehouse:external:req:43790",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Guidehouse",
+    "title": "Data Scientist",
+    "location": "US - VA, Arlington",
+    "posted": "Posted 2 Days Ago",
+    "url": "https://guidehouse.wd1.myworkdayjobs.com/en-US/external/job/US---VA-Arlington/Data-Scientist_43790",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-23T13:34:41.570875+00:00",
+    "emailed_utc": "2026-08-23T13:34:41.570875+00:00"
+  },
+  {
+    "job_id": "workday:guidehouse:external:req:43713",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Guidehouse",
+    "title": "Sr Microsoft Dynamics and Power Platform Developer",
+    "location": "US - Remote (Any location)",
+    "posted": "Posted 2 Days Ago",
+    "url": "https://guidehouse.wd1.myworkdayjobs.com/en-US/external/job/US---Remote-Any-location/Sr-Microsoft-Dynamics-and-Power-Platform-Developer_43713-1",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-23T13:34:41.570875+00:00",
+    "emailed_utc": "2026-08-23T13:34:41.570875+00:00"
   }
 ]
