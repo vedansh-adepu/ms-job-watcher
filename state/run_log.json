@@ -40545,7 +40545,23 @@
     "cursor": 6000
   },
   {
-    "ts": "2026-08-23T02:21Z",
+    "ts": "2026-08-23T02:30Z",
+    "mode": "boards",
+    "per_source": {
+      "workday": {
+        "fetched": 6261,
+        "title_ok": 0,
+        "loc_ok": 0,
+        "new": 0,
+        "emailed": 0,
+        "errors": 2
+      }
+    },
+    "duration_s": 12.1,
+    "cursor": null
+  },
+  {
+    "ts": "2026-08-23T02:31Z",
     "mode": "main",
     "per_source": {
       "microsoft": {
@@ -40591,7 +40607,7 @@
         "emailed": 0
       }
     },
-    "duration_s": 12.1,
+    "duration_s": 12.4,
     "cursor": null
   },
   {
