@@ -71368,5 +71368,57 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-24T19:33:22.723999+00:00",
     "emailed_utc": "2026-08-24T19:33:22.723999+00:00"
+  },
+  {
+    "job_id": "greenhouse:northpointtechnology:8743153002",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "northpointtechnology",
+    "title": "Software Engineer - Full Stack (Top Secret Clearance Required)",
+    "location": "Herndon, Virginia, United States",
+    "posted": "2026-08-24T15:57:52-04:00",
+    "url": "https://job-boards.greenhouse.io/northpointtechnology/jobs/8743153002",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-24T20:02:09.308146+00:00",
+    "emailed_utc": "2026-08-24T20:02:09.308146+00:00"
+  },
+  {
+    "job_id": "greenhouse:lilasciences:4359836009",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "lilasciences",
+    "title": "Maintenance Engineering Technician II",
+    "location": "Cambridge, MA USA",
+    "posted": "2026-08-24T15:45:58-04:00",
+    "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4359836009",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-24T20:02:09.308146+00:00",
+    "emailed_utc": "2026-08-24T20:02:09.308146+00:00"
+  },
+  {
+    "job_id": "greenhouse:radar:8154967",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "radar",
+    "title": "Senior Systems Engineer",
+    "location": "San Diego, CA; Sunnyvale, CA; Seattle, WA; or New York, NY",
+    "posted": "2026-08-24T15:45:30-04:00",
+    "url": "https://job-boards.greenhouse.io/radar/jobs/8154967",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-24T20:02:09.308146+00:00",
+    "emailed_utc": "2026-08-24T20:02:09.308146+00:00"
+  },
+  {
+    "job_id": "greenhouse:supplyhouse:6142100004",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "supplyhouse",
+    "title": "Principal Data Architect",
+    "location": "Remote, Remote, United States",
+    "posted": "2026-08-24T15:38:47-04:00",
+    "url": "https://boards.greenhouse.io/supplyhouse/jobs/6142100004?gh_jid=6142100004",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-24T20:02:09.308146+00:00",
+    "emailed_utc": "2026-08-24T20:02:09.308146+00:00"
   }
 ]
