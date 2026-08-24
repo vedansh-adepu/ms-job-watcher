@@ -70094,5 +70094,44 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-24T13:02:14.426722+00:00",
     "emailed_utc": "2026-08-24T13:02:14.426722+00:00"
+  },
+  {
+    "job_id": "greenhouse:tracelinkinc:5217396007",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "tracelinkinc",
+    "title": "Software Engineer I",
+    "location": "US - MA - Wilmington",
+    "posted": "2026-08-24T08:45:30-04:00",
+    "url": "https://www.tracelink.com/about/culture-and-careers/jobs?gh_jid=5217396007",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-24T13:33:10.326020+00:00",
+    "emailed_utc": "2026-08-24T13:33:10.326020+00:00"
+  },
+  {
+    "job_id": "greenhouse:tracelinkinc:5210789007",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "tracelinkinc",
+    "title": "Software Engineer, Senior",
+    "location": "US - MA - Wilmington",
+    "posted": "2026-08-24T08:44:53-04:00",
+    "url": "https://www.tracelink.com/about/culture-and-careers/jobs?gh_jid=5210789007",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-24T13:33:10.326020+00:00",
+    "emailed_utc": "2026-08-24T13:33:10.326020+00:00"
+  },
+  {
+    "job_id": "lever:cti-md:7cfdffb6-fd8a-440d-ae52-53a8df2d373b",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "cti-md",
+    "title": "Information Systems Security Engineer (ISSE) - FULLY CLEARED with  POLYGRAPH REQUIRED",
+    "location": "Annapolis Junction, MD",
+    "posted": "2026-08-24 12:39 UTC",
+    "url": "https://jobs.lever.co/cti-md/7cfdffb6-fd8a-440d-ae52-53a8df2d373b",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-24T13:33:10.326020+00:00",
+    "emailed_utc": "2026-08-24T13:33:10.326020+00:00"
   }
 ]
