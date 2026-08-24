@@ -71173,5 +71173,44 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-24T18:37:11.210582+00:00",
     "emailed_utc": "2026-08-24T18:37:11.210582+00:00"
+  },
+  {
+    "job_id": "greenhouse:world4822stri986des:5393501008",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "world4822stri986des",
+    "title": "HR Product Engineer",
+    "location": "United States",
+    "posted": "2026-08-24T13:56:54-04:00",
+    "url": "https://job-boards.greenhouse.io/world4822stri986des/jobs/5393501008",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-24T19:05:14.790734+00:00",
+    "emailed_utc": "2026-08-24T19:05:14.790734+00:00"
+  },
+  {
+    "job_id": "lever:boston-materials:dad39a49-1b6a-4758-a0f6-d25abd9c01d6",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "boston-materials",
+    "title": "Principal Engineer, Advanced Manufacturing",
+    "location": "Billerica, MA",
+    "posted": "2026-08-24 18:54 UTC",
+    "url": "https://jobs.lever.co/boston-materials/dad39a49-1b6a-4758-a0f6-d25abd9c01d6",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-24T19:05:14.790734+00:00",
+    "emailed_utc": "2026-08-24T19:05:14.790734+00:00"
+  },
+  {
+    "job_id": "lever:nexuse-group:3bee38c6-4cd2-4105-9090-0f223ea52cb8",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "nexuse-group",
+    "title": "Electrical Engineer",
+    "location": "Oak Brook, IL",
+    "posted": "2026-08-24 17:42 UTC",
+    "url": "https://jobs.lever.co/nexuse-group/3bee38c6-4cd2-4105-9090-0f223ea52cb8",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-24T19:05:14.790734+00:00",
+    "emailed_utc": "2026-08-24T19:05:14.790734+00:00"
   }
 ]
