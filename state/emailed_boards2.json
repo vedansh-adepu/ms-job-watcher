@@ -70588,5 +70588,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-24T15:03:56.453432+00:00",
     "emailed_utc": "2026-08-24T15:03:56.453432+00:00"
+  },
+  {
+    "job_id": "lever:redhorsecorp:55b6a7fe-858c-455b-bafe-9c64967baed3",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "redhorsecorp",
+    "title": "Graph Data Engineer",
+    "location": "Arlington, VA",
+    "posted": "2026-08-24 14:49 UTC",
+    "url": "https://jobs.lever.co/redhorsecorp/55b6a7fe-858c-455b-bafe-9c64967baed3",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-24T15:33:09.423543+00:00",
+    "emailed_utc": "2026-08-24T15:33:09.423543+00:00"
+  },
+  {
+    "job_id": "lever:redhorsecorp:7e25f5b6-1f91-47ef-8fd1-24663fa7a77b",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "redhorsecorp",
+    "title": "Junior Graph Data Engineer",
+    "location": "Arlington, VA",
+    "posted": "2026-08-24 14:37 UTC",
+    "url": "https://jobs.lever.co/redhorsecorp/7e25f5b6-1f91-47ef-8fd1-24663fa7a77b",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-24T15:33:09.423543+00:00",
+    "emailed_utc": "2026-08-24T15:33:09.423543+00:00"
   }
 ]
