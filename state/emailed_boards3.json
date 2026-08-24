@@ -447367,5 +447367,57 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-24T03:03:49.018649+00:00",
     "emailed_utc": "2026-08-24T03:03:49.018649+00:00"
+  },
+  {
+    "job_id": "workday:amat:external:req:R2626859",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Amat",
+    "title": "Software Engineer I - New College Grad (Bachelors - Kalispell, MT)",
+    "location": "Kalispell,MT",
+    "posted": "Posted 2 Days Ago",
+    "url": "https://amat.wd1.myworkdayjobs.com/en-US/external/job/KalispellMT/Software-Engineer-I---New-College-Grad--Bachelors---Kalispell--MT-_R2626859",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-24T03:36:55.812466+00:00",
+    "emailed_utc": "2026-08-24T03:36:55.812466+00:00"
+  },
+  {
+    "job_id": "workday:amat:external:req:R2619146",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Amat",
+    "title": "Supplier Engineer IV",
+    "location": "Santa Clara,CA",
+    "posted": "Posted 2 Days Ago",
+    "url": "https://amat.wd1.myworkdayjobs.com/en-US/external/job/Santa-ClaraCA/Plasma-Spray-Coating-Supplier-Engineer-IV----E3-_R2619146",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-24T03:36:55.812466+00:00",
+    "emailed_utc": "2026-08-24T03:36:55.812466+00:00"
+  },
+  {
+    "job_id": "workday:amat:external:req:R2626413",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Amat",
+    "title": "Engineering Technician III - (T3)",
+    "location": "Santa Clara,CA",
+    "posted": "Posted 2 Days Ago",
+    "url": "https://amat.wd1.myworkdayjobs.com/en-US/external/job/Santa-ClaraCA/Engineering-Technician-III----T3-_R2626413",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-24T03:36:55.812466+00:00",
+    "emailed_utc": "2026-08-24T03:36:55.812466+00:00"
+  },
+  {
+    "job_id": "workday:amat:external:req:R2626617",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Amat",
+    "title": "Build Manufacturing Engineer",
+    "location": "Austin,TX",
+    "posted": "Posted 2 Days Ago",
+    "url": "https://amat.wd1.myworkdayjobs.com/en-US/external/job/AustinTX/Build-Manufacturing-Engineer_R2626617",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-24T03:36:55.812466+00:00",
+    "emailed_utc": "2026-08-24T03:36:55.812466+00:00"
   }
 ]
