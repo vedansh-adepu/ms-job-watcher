@@ -447289,5 +447289,44 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-24T00:08:38.203138+00:00",
     "emailed_utc": "2026-08-24T00:08:38.203138+00:00"
+  },
+  {
+    "job_id": "workday:ag:airbus:req:JR10435626",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Ag",
+    "title": "Manufacturing Engineer II (Contract)",
+    "location": "Mobile Area, AL",
+    "posted": "Posted 2 Days Ago",
+    "url": "https://ag.wd3.myworkdayjobs.com/en-US/airbus/job/Mobile-Area-AL/Manufacturing-Engineer-II--Contract-_JR10435626",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-24T00:34:47.367253+00:00",
+    "emailed_utc": "2026-08-24T00:34:47.367253+00:00"
+  },
+  {
+    "job_id": "workday:ag:airbus:req:JR10436413",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Ag",
+    "title": "MRB / Liaison Engineer II- A220",
+    "location": "Mobile Area, AL",
+    "posted": "Posted 2 Days Ago",
+    "url": "https://ag.wd3.myworkdayjobs.com/en-US/airbus/job/Mobile-Area-AL/MRB---Liaison-Engineer-II--A220_JR10436413",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-24T00:34:47.367253+00:00",
+    "emailed_utc": "2026-08-24T00:34:47.367253+00:00"
+  },
+  {
+    "job_id": "workday:ag:airbus:req:JR10436243",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Ag",
+    "title": "Principal MRB/Liaison Engineer - MAP A220",
+    "location": "Mobile Area, AL",
+    "posted": "Posted 2 Days Ago",
+    "url": "https://ag.wd3.myworkdayjobs.com/en-US/airbus/job/Mobile-Area-AL/Principal-MRB-Liaison-Engineer---MAP-A220_JR10436243",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-24T00:34:47.367253+00:00",
+    "emailed_utc": "2026-08-24T00:34:47.367253+00:00"
   }
 ]
