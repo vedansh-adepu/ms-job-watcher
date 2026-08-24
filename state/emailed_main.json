@@ -18666,5 +18666,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-24T20:45:06.182387+00:00",
     "emailed_utc": "2026-08-24T20:45:06.182387+00:00"
+  },
+  {
+    "job_id": "amazon:8350b72b-16ce-4f46-be6e-051c932e900f",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "SDE II, Same Day Delivery",
+    "location": "US, WA, Bellevue",
+    "posted": "August 21, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10510041/sde-ii-same-day-delivery",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-24T21:11:48.244165+00:00",
+    "emailed_utc": "2026-08-24T21:11:48.244165+00:00"
+  },
+  {
+    "job_id": "amazon:d923dc6c-b4f9-4c11-a989-bc61a1fd0eb9",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Sr. SDE, AWS Healthcare AI, Amazon Connect Health",
+    "location": "US, WA, Seattle",
+    "posted": "August 24, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10512917/sr-sde-aws-healthcare-ai-amazon-connect-health",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-24T21:11:48.244165+00:00",
+    "emailed_utc": "2026-08-24T21:11:48.244165+00:00"
   }
 ]
