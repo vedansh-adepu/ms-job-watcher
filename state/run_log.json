@@ -1,55 +1,5 @@
 [
   {
-    "ts": "2026-08-18T06:11Z",
-    "mode": "main",
-    "per_source": {
-      "microsoft": {
-        "fetched": 194,
-        "title_ok": 104,
-        "loc_ok": 104,
-        "new": 0,
-        "emailed": 0
-      },
-      "amazon": {
-        "fetched": 300,
-        "title_ok": 288,
-        "loc_ok": 288,
-        "new": 0,
-        "emailed": 0
-      },
-      "nvidia": {
-        "fetched": 30,
-        "title_ok": 29,
-        "loc_ok": 29,
-        "new": 0,
-        "emailed": 0
-      },
-      "goldman_sachs": {
-        "fetched": 0,
-        "title_ok": 0,
-        "loc_ok": 0,
-        "new": 0,
-        "emailed": 0
-      },
-      "ibm": {
-        "fetched": 30,
-        "title_ok": 26,
-        "loc_ok": 14,
-        "new": 0,
-        "emailed": 0
-      },
-      "oracle": {
-        "fetched": 0,
-        "title_ok": 0,
-        "loc_ok": 0,
-        "new": 0,
-        "emailed": 0
-      }
-    },
-    "duration_s": 11.7,
-    "cursor": null
-  },
-  {
     "ts": "2026-08-18T06:21Z",
     "mode": "main",
     "per_source": {
@@ -39855,6 +39805,58 @@
       }
     },
     "duration_s": 11.0,
+    "cursor": null
+  },
+  {
+    "ts": "2026-08-24T15:21Z",
+    "mode": "main",
+    "per_source": {
+      "microsoft": {
+        "fetched": 0,
+        "title_ok": 0,
+        "loc_ok": 0,
+        "new": 0,
+        "emailed": 0,
+        "error": "Microsoft fetch: HTTPError: 429 Client Error: TOO MANY REQUESTS for url: https://apply.careers.microsoft.com/api/pcsx/search?domain=microsoft.com&query=&location=United+States%2C+Multiple+Locations%2C+Multiple+Locations&start=0&sort_by=timestamp&filter_include_remote=1&filter_seniority=Entry&filter_seniority=Mid-Level"
+      },
+      "amazon": {
+        "fetched": 300,
+        "title_ok": 287,
+        "loc_ok": 287,
+        "new": 0,
+        "emailed": 0
+      },
+      "nvidia": {
+        "fetched": 0,
+        "title_ok": 0,
+        "loc_ok": 0,
+        "new": 0,
+        "emailed": 0,
+        "error": "NVIDIA fetch: HTTPError: 429 Client Error: TOO MANY REQUESTS for url: https://nvidia.eightfold.ai/api/pcsx/search?domain=nvidia.com&query=&location=united+states&start=0&sort_by=timestamp&filter_include_remote=1&filter_job_category=engineering&filter_job_type=regular+employee&filter_time_type=full+time&filter_hiring_title=Software+Engineer&filter_hiring_title=Machine+Learning+Engineer&filter_hiring_title=Artificial+Intelligence&filter_hiring_title=machine+learning&filter_hiring_title=software+development+engineer&filter_hiring_title=data"
+      },
+      "goldman_sachs": {
+        "fetched": 0,
+        "title_ok": 0,
+        "loc_ok": 0,
+        "new": 0,
+        "emailed": 0
+      },
+      "ibm": {
+        "fetched": 35,
+        "title_ok": 30,
+        "loc_ok": 15,
+        "new": 0,
+        "emailed": 0
+      },
+      "oracle": {
+        "fetched": 0,
+        "title_ok": 0,
+        "loc_ok": 0,
+        "new": 0,
+        "emailed": 0
+      }
+    },
+    "duration_s": 12.2,
     "cursor": null
   }
 ]
