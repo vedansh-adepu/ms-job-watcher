@@ -160275,5 +160275,83 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-24T15:55:39.382101+00:00",
     "emailed_utc": "2026-08-24T15:55:39.382101+00:00"
+  },
+  {
+    "job_id": "lever:steerbridge:441af865-7343-48e4-88d2-4c45c2b67276",
+    "pipeline": "boards",
+    "platform": "lever",
+    "company": "steerbridge",
+    "title": "Data Analyst",
+    "location": "Vienna, VA",
+    "posted": "2026-08-24 15:49 UTC",
+    "url": "https://jobs.lever.co/steerbridge/441af865-7343-48e4-88d2-4c45c2b67276",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-24T16:03:46.595793+00:00",
+    "emailed_utc": "2026-08-24T16:03:46.595793+00:00"
+  },
+  {
+    "job_id": "greenhouse:rocketlab:7932125003",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "rocketlab",
+    "title": "Senior IT Systems Engineer I",
+    "location": "Albuquerque, NM",
+    "posted": "2026-08-24T11:17:40-04:00",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7932125003",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-24T16:03:46.595793+00:00",
+    "emailed_utc": "2026-08-24T16:03:46.595793+00:00"
+  },
+  {
+    "job_id": "smartrecruiters:ServiceNow:744000145302723",
+    "pipeline": "boards",
+    "platform": "smartrecruiters",
+    "company": "ServiceNow",
+    "title": "Senior Staff Software Engineer - Agent Development",
+    "location": "Santa Clara, CALIFORNIA, us",
+    "posted": "2026-08-24T15:07:03.603Z",
+    "url": "https://jobs.smartrecruiters.com/ServiceNow",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-24T16:03:46.595793+00:00",
+    "emailed_utc": "2026-08-24T16:03:46.595793+00:00"
+  },
+  {
+    "job_id": "greenhouse:spacex:8742411002",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "SpaceX",
+    "title": "AMS Verification Engineer (RFIC Engineering)",
+    "location": "Irvine, CA",
+    "posted": "2026-08-24T11:57:32-04:00",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8742411002?gh_jid=8742411002",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-24T16:03:46.595793+00:00",
+    "emailed_utc": "2026-08-24T16:03:46.595793+00:00"
+  },
+  {
+    "job_id": "greenhouse:spacex:8742211002",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "SpaceX",
+    "title": "AMS Verification Engineer (RFIC Engineering)",
+    "location": "Redmond, WA",
+    "posted": "2026-08-24T11:49:34-04:00",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8742211002?gh_jid=8742211002",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-24T16:03:46.595793+00:00",
+    "emailed_utc": "2026-08-24T16:03:46.595793+00:00"
+  },
+  {
+    "job_id": "lever:steerbridge:b68b517a-56ad-496e-99e1-559210a2ba06",
+    "pipeline": "boards",
+    "platform": "lever",
+    "company": "steerbridge",
+    "title": "Quality Assurance Lead - SDET",
+    "location": "Vienna, VA",
+    "posted": "2026-07-01 16:35 UTC",
+    "url": "https://jobs.lever.co/steerbridge/b68b517a-56ad-496e-99e1-559210a2ba06",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-24T16:03:46.595793+00:00",
+    "emailed_utc": "2026-08-24T16:03:46.595793+00:00"
   }
 ]
