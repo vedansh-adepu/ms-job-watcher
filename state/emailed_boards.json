@@ -161172,5 +161172,57 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-24T18:59:50.016269+00:00",
     "emailed_utc": "2026-08-24T18:59:50.016269+00:00"
+  },
+  {
+    "job_id": "greenhouse:verkada:5205276007",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "verkada",
+    "title": "Enterprise Solutions Engineer, Bay Area CORP",
+    "location": "San Mateo, CA United States",
+    "posted": "2026-08-24T14:51:48-04:00",
+    "url": "https://job-boards.greenhouse.io/verkada/jobs/5205276007",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-24T19:02:51.062145+00:00",
+    "emailed_utc": "2026-08-24T19:02:51.062145+00:00"
+  },
+  {
+    "job_id": "greenhouse:voyagertechnologiesinc:4341922009",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "voyagertechnologiesinc",
+    "title": "Senior Propulsion Engineer",
+    "location": "Mojave, CA",
+    "posted": "2026-08-24T13:51:28-04:00",
+    "url": "https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4341922009",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-24T19:02:51.062145+00:00",
+    "emailed_utc": "2026-08-24T19:02:51.062145+00:00"
+  },
+  {
+    "job_id": "greenhouse:voyagertechnologiesinc:4371374009",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "voyagertechnologiesinc",
+    "title": "Senior Systems Engineer ",
+    "location": "Webster, TX; Middleburg Heights, OH",
+    "posted": "2026-08-24T14:57:27-04:00",
+    "url": "https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4371374009",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-24T19:02:51.062145+00:00",
+    "emailed_utc": "2026-08-24T19:02:51.062145+00:00"
+  },
+  {
+    "job_id": "ashby:snowflake:21ed6b75-331d-472d-a36c-48520377d3d3",
+    "pipeline": "boards",
+    "platform": "ashby",
+    "company": "Snowflake",
+    "title": "Engineering Manager - Cost Intelligence",
+    "location": "US-WA-Bellevue",
+    "posted": "",
+    "url": "https://jobs.ashbyhq.com/snowflake/21ed6b75-331d-472d-a36c-48520377d3d3",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-24T19:02:51.062145+00:00",
+    "emailed_utc": "2026-08-24T19:02:51.062145+00:00"
   }
 ]
