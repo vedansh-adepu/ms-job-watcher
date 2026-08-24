@@ -18588,5 +18588,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-24T19:41:50.182835+00:00",
     "emailed_utc": "2026-08-24T19:41:50.182835+00:00"
+  },
+  {
+    "job_id": "amazon:8c91b82e-dd67-43d6-870f-04af73702074",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Dev Engineer II, AWS Networking (MONA)",
+    "location": "US, WA, Seattle",
+    "posted": "August 24, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10512788/software-dev-engineer-ii-aws-networking-mona",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-24T19:51:30.445725+00:00",
+    "emailed_utc": "2026-08-24T19:51:30.445725+00:00"
+  },
+  {
+    "job_id": "amazon:62c192fa-bb3f-4276-86af-52c35b67f8a4",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Sr. Software Development Engineer, AWS Networking: MONA",
+    "location": "US, WA, Seattle",
+    "posted": "August 24, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10512787/sr-software-development-engineer-aws-networking-mona",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-24T19:51:30.445725+00:00",
+    "emailed_utc": "2026-08-24T19:51:30.445725+00:00"
   }
 ]
