@@ -18484,5 +18484,18 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-24T17:12:07.690325+00:00",
     "emailed_utc": "2026-08-24T17:12:07.690325+00:00"
+  },
+  {
+    "job_id": "amazon:d7d99f11-c78e-4577-9b06-c59a1e34700a",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, S3 Glacier",
+    "location": "US, WA, Seattle",
+    "posted": "August 24, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10512552/software-development-engineer-s3-glacier",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-24T17:21:47.550243+00:00",
+    "emailed_utc": "2026-08-24T17:21:47.550243+00:00"
   }
 ]
