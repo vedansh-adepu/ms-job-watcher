@@ -161224,5 +161224,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-24T19:02:51.062145+00:00",
     "emailed_utc": "2026-08-24T19:02:51.062145+00:00"
+  },
+  {
+    "job_id": "greenhouse:torcrobotics:8706363002",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Torcrobotics",
+    "title": "Software Engineer, II - Motion Control",
+    "location": "Blacksburg, VA",
+    "posted": "2026-08-24T14:22:28-04:00",
+    "url": "https://job-boards.greenhouse.io/torcrobotics/jobs/8706363002",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-24T19:32:21.787870+00:00",
+    "emailed_utc": "2026-08-24T19:32:21.787870+00:00"
+  },
+  {
+    "job_id": "greenhouse:glydways:5215430007",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Glydways",
+    "title": "Autonomous Vehicle Engineering Technician",
+    "location": "Atlanta, GA",
+    "posted": "2026-08-24T13:53:59-04:00",
+    "url": "https://job-boards.greenhouse.io/glydways/jobs/5215430007",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-24T19:32:21.787870+00:00",
+    "emailed_utc": "2026-08-24T19:32:21.787870+00:00"
   }
 ]
