@@ -162043,5 +162043,44 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-24T21:44:13.885162+00:00",
     "emailed_utc": "2026-08-24T21:44:13.885162+00:00"
+  },
+  {
+    "job_id": "greenhouse:planetlabs:8133689",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Planetlabs",
+    "title": "Senior Data Visualization Engineer",
+    "location": "San Francisco, CA",
+    "posted": "2026-08-24T15:35:33-04:00",
+    "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8133689",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-24T22:02:29.181574+00:00",
+    "emailed_utc": "2026-08-24T22:02:29.181574+00:00"
+  },
+  {
+    "job_id": "lever:solopulseco:7fcd9f96-9584-4ceb-b6b2-d66a293630fa",
+    "pipeline": "boards",
+    "platform": "lever",
+    "company": "Solopulseco",
+    "title": "Senior Embedded Software Engineer - R&D",
+    "location": "Peachtree Corners, GA",
+    "posted": "2026-08-24 20:26 UTC",
+    "url": "https://jobs.lever.co/solopulseco/7fcd9f96-9584-4ceb-b6b2-d66a293630fa",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-24T22:02:29.181574+00:00",
+    "emailed_utc": "2026-08-24T22:02:29.181574+00:00"
+  },
+  {
+    "job_id": "lever:solopulseco:cb110575-ab75-44ee-98a3-9c21ef69c82d",
+    "pipeline": "boards",
+    "platform": "lever",
+    "company": "Solopulseco",
+    "title": "Senior Software Engineer C++ - R&D",
+    "location": "Peachtree Corners, GA",
+    "posted": "2026-08-24 20:17 UTC",
+    "url": "https://jobs.lever.co/solopulseco/cb110575-ab75-44ee-98a3-9c21ef69c82d",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-24T22:02:29.181574+00:00",
+    "emailed_utc": "2026-08-24T22:02:29.181574+00:00"
   }
 ]
