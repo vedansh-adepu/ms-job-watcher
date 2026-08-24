@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-08-24T20:03:20.699468+00:00",
+  "updated_utc": "2026-08-24T20:34:26.500165+00:00",
   "dead_details": {
     "workday:dowjones:sky_news_australia_careers": {
       "first_seen_utc": "2026-07-27T11:01:10.704279+00:00",
@@ -8,6 +8,15 @@
       "company": "",
       "board_url": "",
       "last_status": 404,
+      "last_error": "HTTP 404/410 (Workday API not found)"
+    },
+    "workday:comcast:comcast_careers": {
+      "first_seen_utc": "2026-08-24T20:32:00.236287+00:00",
+      "last_seen_utc": "2026-08-24T20:32:00.236287+00:00",
+      "platform": "workday",
+      "company": "",
+      "board_url": "",
+      "last_status": 410,
       "last_error": "HTTP 404/410 (Workday API not found)"
     }
   }
