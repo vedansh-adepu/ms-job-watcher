@@ -159768,5 +159768,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-24T14:03:07.964431+00:00",
     "emailed_utc": "2026-08-24T14:03:07.964431+00:00"
+  },
+  {
+    "job_id": "greenhouse:latitude:8153007",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Latitude",
+    "title": "Senior Hardware Engineer,  Radar",
+    "location": "Pittsburgh, PA, Palo Alto, CA, Detroit, MI, Remote",
+    "posted": "2026-08-24T09:33:08-04:00",
+    "url": "https://job-boards.greenhouse.io/latitude/jobs/8153007",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-24T14:31:40.868380+00:00",
+    "emailed_utc": "2026-08-24T14:31:40.868380+00:00"
+  },
+  {
+    "job_id": "greenhouse:latitude:8153009",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Latitude",
+    "title": "Staff Software Engineer (C++) - Radar Sensors ",
+    "location": "Pittsburgh, PA, Palo Alto, CA, Detroit, MI, Remote",
+    "posted": "2026-08-24T09:34:40-04:00",
+    "url": "https://job-boards.greenhouse.io/latitude/jobs/8153009",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-24T14:31:40.868380+00:00",
+    "emailed_utc": "2026-08-24T14:31:40.868380+00:00"
   }
 ]
