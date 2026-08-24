@@ -161094,5 +161094,83 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-24T18:32:40.147023+00:00",
     "emailed_utc": "2026-08-24T18:32:40.147023+00:00"
+  },
+  {
+    "job_id": "greenhouse:sharkninjaoperatingllc:4706654006",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "sharkninjaoperatingllc",
+    "title": "Data Scientist ",
+    "location": "Needham, MA, United States",
+    "posted": "2026-08-24T12:02:51-04:00",
+    "url": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4706654006",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-24T18:59:50.016269+00:00",
+    "emailed_utc": "2026-08-24T18:59:50.016269+00:00"
+  },
+  {
+    "job_id": "greenhouse:spacex:8737619002",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "SpaceX",
+    "title": "Aviation Certification Engineer (Starlink)",
+    "location": "Woodinville, WA",
+    "posted": "2026-08-24T12:12:44-04:00",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8737619002?gh_jid=8737619002",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-24T18:59:50.016269+00:00",
+    "emailed_utc": "2026-08-24T18:59:50.016269+00:00"
+  },
+  {
+    "job_id": "greenhouse:spacex:8737666002",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "SpaceX",
+    "title": "Mechanical Engineer, Aviation Integration (Starlink)",
+    "location": "Woodinville, WA",
+    "posted": "2026-08-24T12:13:14-04:00",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8737666002?gh_jid=8737666002",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-24T18:59:50.016269+00:00",
+    "emailed_utc": "2026-08-24T18:59:50.016269+00:00"
+  },
+  {
+    "job_id": "greenhouse:spacex:8735901002",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "SpaceX",
+    "title": "Mechanical Engineer, Infrastructure",
+    "location": "Starbase, TX",
+    "posted": "2026-08-24T13:29:06-04:00",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8735901002?gh_jid=8735901002",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-24T18:59:50.016269+00:00",
+    "emailed_utc": "2026-08-24T18:59:50.016269+00:00"
+  },
+  {
+    "job_id": "workday:target:targetcareers:req:R0000450763",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Target",
+    "title": "Technical Developer- Footwear",
+    "location": "1000 Nicollet Mall, Minneapolis,MN 55403-2542",
+    "posted": "Posted Today",
+    "url": "https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/1000-Nicollet-Mall-MinneapolisMN-55403-2542/Technical-Developer--Footwear_R0000450763",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-24T18:59:50.016269+00:00",
+    "emailed_utc": "2026-08-24T18:59:50.016269+00:00"
+  },
+  {
+    "job_id": "workday:target:targetcareers:req:R0000450178",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Target",
+    "title": "Associate Technical Developer- Footwear",
+    "location": "1000 Nicollet Mall, Minneapolis,MN 55403-2542",
+    "posted": "Posted Today",
+    "url": "https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/1000-Nicollet-Mall-MinneapolisMN-55403-2542/Associate-Technical-Developer--Footwear_R0000450178",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-24T18:59:50.016269+00:00",
+    "emailed_utc": "2026-08-24T18:59:50.016269+00:00"
   }
 ]
