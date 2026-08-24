@@ -160366,5 +160366,44 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-24T16:32:58.939699+00:00",
     "emailed_utc": "2026-08-24T16:32:58.939699+00:00"
+  },
+  {
+    "job_id": "greenhouse:freedomconsulting:5219891007",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Freedomconsulting",
+    "title": "Senior Java Software Engineer 759",
+    "location": "Annapolis Junction, MD",
+    "posted": "2026-08-24T11:45:38-04:00",
+    "url": "https://job-boards.greenhouse.io/freedomconsulting/jobs/5219891007",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-24T17:01:59.775605+00:00",
+    "emailed_utc": "2026-08-24T17:01:59.775605+00:00"
+  },
+  {
+    "job_id": "greenhouse:planetlabs:8140278",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Planetlabs",
+    "title": "PCB Design Engineer",
+    "location": "San Francisco, CA",
+    "posted": "2026-08-24T10:37:50-04:00",
+    "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8140278",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-24T17:01:59.775605+00:00",
+    "emailed_utc": "2026-08-24T17:01:59.775605+00:00"
+  },
+  {
+    "job_id": "greenhouse:scoutmotors:5218543007",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Scoutmotors",
+    "title": "ADAS System Engineer",
+    "location": "Charlotte, North Carolina, United States; Novi, Michigan, United States",
+    "posted": "2026-08-24T11:06:12-04:00",
+    "url": "https://job-boards.greenhouse.io/scoutmotors/jobs/5218543007",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-24T17:01:59.775605+00:00",
+    "emailed_utc": "2026-08-24T17:01:59.775605+00:00"
   }
 ]
