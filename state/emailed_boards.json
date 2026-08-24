@@ -159430,5 +159430,31 @@
     "bucket": "yes",
     "first_seen_utc": "2026-08-24T03:03:02.349236+00:00",
     "emailed_utc": "2026-08-24T03:03:02.349236+00:00"
+  },
+  {
+    "job_id": "greenhouse:apptronik:6150041004",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "apptronik",
+    "title": "Senior Electrical Engineer - Power",
+    "location": "Austin, TX",
+    "posted": "2026-08-23T22:38:58-04:00",
+    "url": "https://boards.greenhouse.io/apptronik/jobs/6150041004?gh_jid=6150041004",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-24T04:05:26.905519+00:00",
+    "emailed_utc": "2026-08-24T04:05:26.905519+00:00"
+  },
+  {
+    "job_id": "greenhouse:apptronik:6148660004",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "apptronik",
+    "title": "Senior PCBA Design Engineer",
+    "location": "Austin, TX",
+    "posted": "2026-08-23T22:38:37-04:00",
+    "url": "https://boards.greenhouse.io/apptronik/jobs/6148660004?gh_jid=6148660004",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-24T04:05:26.905519+00:00",
+    "emailed_utc": "2026-08-24T04:05:26.905519+00:00"
   }
 ]
