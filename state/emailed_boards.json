@@ -159651,5 +159651,57 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-24T13:14:18.121391+00:00",
     "emailed_utc": "2026-08-24T13:14:18.121391+00:00"
+  },
+  {
+    "job_id": "greenhouse:sonyinteractiveentertainmentglobal:6145057004",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "sonyinteractiveentertainmentglobal",
+    "title": "Audio and UX Software Engineer",
+    "location": "United States, San Mateo, CA",
+    "posted": "2026-08-24T09:06:38-04:00",
+    "url": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6145057004",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-24T13:33:23.338901+00:00",
+    "emailed_utc": "2026-08-24T13:33:23.338901+00:00"
+  },
+  {
+    "job_id": "greenhouse:samsara:8141615",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Samsara",
+    "title": "Solutions Integration Engineer II",
+    "location": "Remote - US",
+    "posted": "2026-08-24T08:31:53-04:00",
+    "url": "https://www.samsara.com/company/careers/roles/8141615?gh_jid=8141615",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-24T13:33:23.338901+00:00",
+    "emailed_utc": "2026-08-24T13:33:23.338901+00:00"
+  },
+  {
+    "job_id": "smartrecruiters:ServiceNow:744000145264389",
+    "pipeline": "boards",
+    "platform": "smartrecruiters",
+    "company": "ServiceNow",
+    "title": "Senior Application Security Engineer",
+    "location": "Petah Tikva, il",
+    "posted": "2026-08-24T12:17:10.154Z",
+    "url": "https://jobs.smartrecruiters.com/ServiceNow",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-24T13:33:23.338901+00:00",
+    "emailed_utc": "2026-08-24T13:33:23.338901+00:00"
+  },
+  {
+    "job_id": "workday:target:targetcareers:req:R0000450288",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Target",
+    "title": "Engineering & Facilities Operation Manager - Food Distribution Center (Thorton, CO)",
+    "location": "15450 Washington St, Thornton,CO 80023-9719",
+    "posted": "Posted Today",
+    "url": "https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/15450-Washington-St-ThorntonCO-80023-9719/Engineering---Facilities-Operation-Manager---Food-Distribution-Center--Thorton--CO-_R0000450288-1",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-24T13:33:23.338901+00:00",
+    "emailed_utc": "2026-08-24T13:33:23.338901+00:00"
   }
 ]
