@@ -447926,5 +447926,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-24T14:36:23.650632+00:00",
     "emailed_utc": "2026-08-24T14:36:23.650632+00:00"
+  },
+  {
+    "job_id": "workday:cardinalhealth:ext:req:20185701",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Cardinalhealth",
+    "title": "Principal Engineer - Contract MFG",
+    "location": "US-Nationwide-FIELD",
+    "posted": "Posted Today",
+    "url": "https://cardinalhealth.wd1.myworkdayjobs.com/en-US/ext/job/US-Nationwide-FIELD/Principal-Engineer---Contract-MFG_20185701-1",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-24T15:38:07.401964+00:00",
+    "emailed_utc": "2026-08-24T15:38:07.401964+00:00"
+  },
+  {
+    "job_id": "workday:capitalone:capital_one:req:R249943",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Capitalone",
+    "title": "Lead Machine Learning Engineer",
+    "location": "Chicago, IL",
+    "posted": "Posted Today",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/capital_one/job/Chicago-IL/Lead-Machine-Learning-Engineer_R249943-2",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-24T15:38:07.401964+00:00",
+    "emailed_utc": "2026-08-24T15:38:07.401964+00:00"
   }
 ]
