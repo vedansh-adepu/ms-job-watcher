@@ -18458,5 +18458,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-24T16:44:56.251152+00:00",
     "emailed_utc": "2026-08-24T16:44:56.251152+00:00"
+  },
+  {
+    "job_id": "amazon:35b20003-1bb9-4dd7-9f26-51d0d4daeb4c",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, CloudWatch Application Signals",
+    "location": "US, CA, Santa Clara",
+    "posted": "August 24, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10512456/software-development-engineer-cloudwatch-application-signals",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-24T17:12:07.690325+00:00",
+    "emailed_utc": "2026-08-24T17:12:07.690325+00:00"
+  },
+  {
+    "job_id": "amazon:6b33bab2-3301-456c-982f-0b8c221970b9",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Embedded Software Dev Engineer, Amazon Leo Customer Terminal Software",
+    "location": "US, WA, Redmond",
+    "posted": "August 24, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10512532/embedded-software-dev-engineer-amazon-leo-customer-terminal-software",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-24T17:12:07.690325+00:00",
+    "emailed_utc": "2026-08-24T17:12:07.690325+00:00"
   }
 ]
