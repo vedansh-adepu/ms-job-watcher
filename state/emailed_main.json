@@ -18731,5 +18731,70 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-24T22:01:54.338326+00:00",
     "emailed_utc": "2026-08-24T22:01:54.338326+00:00"
+  },
+  {
+    "job_id": "amazon:295db1df-20aa-4e94-8116-91809315dba1",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, Amazon WorkSpaces",
+    "location": "US, WA, Seattle",
+    "posted": "August 24, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10512990/software-development-engineer-amazon-workspaces",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-24T22:22:50.563658+00:00",
+    "emailed_utc": "2026-08-24T22:22:50.563658+00:00"
+  },
+  {
+    "job_id": "amazon:7f4c1732-4953-4277-89b0-89e232fcbcce",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Engineer, Flex Offer Journey ",
+    "location": "US, TX, Austin",
+    "posted": "August 24, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10512986/software-engineer-flex-offer-journey",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-24T22:22:50.563658+00:00",
+    "emailed_utc": "2026-08-24T22:22:50.563658+00:00"
+  },
+  {
+    "job_id": "nvidia:893397305657",
+    "pipeline": "main",
+    "platform": "nvidia",
+    "company": "NVIDIA",
+    "title": "Senior Software Engineer, Fleet Intelligence Agent Systems",
+    "location": "US",
+    "posted": "2026-08-24 00:00 UTC",
+    "url": "https://nvidia.eightfold.ai/careers/job/893397305657",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-24T22:22:50.563658+00:00",
+    "emailed_utc": "2026-08-24T22:22:50.563658+00:00"
+  },
+  {
+    "job_id": "nvidia:893397308065",
+    "pipeline": "main",
+    "platform": "nvidia",
+    "company": "NVIDIA",
+    "title": "Senior Software Engineer, Fleet Intelligence Backend",
+    "location": "Santa Clara, CA, US",
+    "posted": "2026-08-24 00:00 UTC",
+    "url": "https://nvidia.eightfold.ai/careers/job/893397308065",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-24T22:22:50.563658+00:00",
+    "emailed_utc": "2026-08-24T22:22:50.563658+00:00"
+  },
+  {
+    "job_id": "nvidia:893397308072",
+    "pipeline": "main",
+    "platform": "nvidia",
+    "company": "NVIDIA",
+    "title": "Senior Deep Learning Software Engineer, DLSim",
+    "location": "Santa Clara, CA, US",
+    "posted": "2026-08-24 00:00 UTC",
+    "url": "https://nvidia.eightfold.ai/careers/job/893397308072",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-24T22:22:50.563658+00:00",
+    "emailed_utc": "2026-08-24T22:22:50.563658+00:00"
   }
 ]
