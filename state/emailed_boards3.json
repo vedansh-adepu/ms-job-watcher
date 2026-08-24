@@ -447328,5 +447328,44 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-24T00:34:47.367253+00:00",
     "emailed_utc": "2026-08-24T00:34:47.367253+00:00"
+  },
+  {
+    "job_id": "workday:altera:altera:req:R03022",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Altera",
+    "title": "AI Engineer \u2013 Cloud Software & AI Platforms - Contract",
+    "location": "San Jose, California, United States",
+    "posted": "Posted 2 Days Ago",
+    "url": "https://altera.wd1.myworkdayjobs.com/en-US/altera/job/San-Jose-California-United-States/AI-Engineer---Cloud-Software---AI-Platforms---Contract_R03022-1",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-24T03:03:49.018649+00:00",
+    "emailed_utc": "2026-08-24T03:03:49.018649+00:00"
+  },
+  {
+    "job_id": "workday:altera:altera:req:R03005",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Altera",
+    "title": "Product Failure Analysis Engineer",
+    "location": "San Jose, California, United States",
+    "posted": "Posted Yesterday",
+    "url": "https://altera.wd1.myworkdayjobs.com/en-US/altera/job/San-Jose-California-United-States/Product-Failure-Analysis-Engineer_R03005-1",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-24T03:03:49.018649+00:00",
+    "emailed_utc": "2026-08-24T03:03:49.018649+00:00"
+  },
+  {
+    "job_id": "workday:altera:altera:req:R02917",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Altera",
+    "title": "Physical Design Engineer",
+    "location": "San Jose, California, United States",
+    "posted": "Posted 2 Days Ago",
+    "url": "https://altera.wd1.myworkdayjobs.com/en-US/altera/job/San-Jose-California-United-States/Physical-Design-Engineer_R02917",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-24T03:03:49.018649+00:00",
+    "emailed_utc": "2026-08-24T03:03:49.018649+00:00"
   }
 ]
