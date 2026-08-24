@@ -70562,5 +70562,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-24T14:35:03.981087+00:00",
     "emailed_utc": "2026-08-24T14:35:03.981087+00:00"
+  },
+  {
+    "job_id": "greenhouse:klaviyo:7855793003",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "klaviyo",
+    "title": "Software Engineer II, Test Frameworks & Tooling",
+    "location": "Boston, MA",
+    "posted": "2026-08-24T09:50:21-04:00",
+    "url": "https://www.klaviyo.com/careers/jobs/7855793003?gh_jid=7855793003",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-24T15:03:56.453432+00:00",
+    "emailed_utc": "2026-08-24T15:03:56.453432+00:00"
+  },
+  {
+    "job_id": "greenhouse:shinvestmentsllc:4726670005",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "shinvestmentsllc",
+    "title": "Senior Financial Analyst (Tableau & Power BI Developer)",
+    "location": "San Antonio, TX",
+    "posted": "2026-08-24T09:51:21-04:00",
+    "url": "https://senecaholdings.com/jobs/?gh_jid=4726670005",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-24T15:03:56.453432+00:00",
+    "emailed_utc": "2026-08-24T15:03:56.453432+00:00"
   }
 ]
