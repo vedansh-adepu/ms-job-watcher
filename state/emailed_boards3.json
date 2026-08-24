@@ -447900,5 +447900,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-24T12:05:12.661778+00:00",
     "emailed_utc": "2026-08-24T12:05:12.661778+00:00"
+  },
+  {
+    "job_id": "workday:caci:external:req:330887",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Caci",
+    "title": "Software Engineer",
+    "location": "Linthicum, MD, US",
+    "posted": "Posted Today",
+    "url": "https://caci.wd1.myworkdayjobs.com/en-US/external/job/Linthicum-MD-US/Software-Engineer_330887",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-24T14:36:23.650632+00:00",
+    "emailed_utc": "2026-08-24T14:36:23.650632+00:00"
+  },
+  {
+    "job_id": "workday:caci:external:req:330974",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Caci",
+    "title": "RF and Antennas Systems Engineer",
+    "location": "Sterling, VA, US",
+    "posted": "Posted Today",
+    "url": "https://caci.wd1.myworkdayjobs.com/en-US/external/job/Sterling-VA-US/RF-and-Antennas-Systems-Engineer_330974",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-24T14:36:23.650632+00:00",
+    "emailed_utc": "2026-08-24T14:36:23.650632+00:00"
   }
 ]
