@@ -159521,5 +159521,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-24T05:33:01.965916+00:00",
     "emailed_utc": "2026-08-24T05:33:01.965916+00:00"
+  },
+  {
+    "job_id": "workday:boeing:EXTERNAL_CAREERS:req:JR2026519423",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Boeing",
+    "title": "Lead Test and Evaluation Engineer",
+    "location": "USA - El Segundo, CA",
+    "posted": "Posted Today",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Lead-Test-and-Evaluation-Engineer_JR2026519423",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-24T12:33:59.648475+00:00",
+    "emailed_utc": "2026-08-24T12:33:59.648475+00:00"
+  },
+  {
+    "job_id": "workday:caci:External:req:330974",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "CACI International",
+    "title": "RF and Antennas Systems Engineer",
+    "location": "Sterling, VA, US",
+    "posted": "Posted Today",
+    "url": "https://caci.wd1.myworkdayjobs.com/en-US/External/job/Sterling-VA-US/RF-and-Antennas-Systems-Engineer_330974",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-24T12:33:59.648475+00:00",
+    "emailed_utc": "2026-08-24T12:33:59.648475+00:00"
   }
 ]
