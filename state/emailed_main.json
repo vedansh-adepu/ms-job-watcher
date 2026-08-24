@@ -18406,5 +18406,31 @@
     "bucket": "yes",
     "first_seen_utc": "2026-08-24T15:11:49.425838+00:00",
     "emailed_utc": "2026-08-24T15:11:49.425838+00:00"
+  },
+  {
+    "job_id": "amazon:d36a4d88-3b98-46ea-bc16-f28348eed090",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, Amazon WorkSpaces",
+    "location": "US, WA, Seattle",
+    "posted": "August 24, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10512148/software-development-engineer-amazon-workspaces",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-24T15:51:33.617798+00:00",
+    "emailed_utc": "2026-08-24T15:51:33.617798+00:00"
+  },
+  {
+    "job_id": "amazon:e897dcbc-6953-4c2a-a04c-30143bae1a59",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Manager, Proactive Security (Level 6)",
+    "location": "US, VA, Herndon",
+    "posted": "August 24, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10512093/software-development-manager-proactive-security-level-6",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-24T15:51:33.617798+00:00",
+    "emailed_utc": "2026-08-24T15:51:33.617798+00:00"
   }
 ]
