@@ -71420,5 +71420,57 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-24T20:02:09.308146+00:00",
     "emailed_utc": "2026-08-24T20:02:09.308146+00:00"
+  },
+  {
+    "job_id": "greenhouse:waymo:8152556",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "waymo",
+    "title": "Software Engineer",
+    "location": "Mountain View, CA, USA ",
+    "posted": "2026-08-24T15:15:00-04:00",
+    "url": "https://careers.withwaymo.com/jobs?gh_jid=8152556",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-24T20:33:14.433844+00:00",
+    "emailed_utc": "2026-08-24T20:33:14.433844+00:00"
+  },
+  {
+    "job_id": "lever:trevipay:eb705cc0-171b-440a-85ad-db57033e4919",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "trevipay",
+    "title": "Software Engineer II",
+    "location": "Overland Park, KS",
+    "posted": "2026-08-24 19:21 UTC",
+    "url": "https://jobs.lever.co/trevipay/eb705cc0-171b-440a-85ad-db57033e4919",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-24T20:33:14.433844+00:00",
+    "emailed_utc": "2026-08-24T20:33:14.433844+00:00"
+  },
+  {
+    "job_id": "greenhouse:yipitdata:8137955",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "yipitdata",
+    "title": "Senior Software Engineer (Cloud Infrastructure)",
+    "location": "US Remote",
+    "posted": "2026-08-24T16:13:45-04:00",
+    "url": "https://job-boards.greenhouse.io/yipitdata/jobs/8137955",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-24T20:33:14.433844+00:00",
+    "emailed_utc": "2026-08-24T20:33:14.433844+00:00"
+  },
+  {
+    "job_id": "lever:brindleyengineering:28fc7fe9-f319-407d-907c-51fb601fd10c",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "brindleyengineering",
+    "title": "Sr. Instrumentation Engineer",
+    "location": "Lisle, IL",
+    "posted": "2026-08-24 19:42 UTC",
+    "url": "https://jobs.lever.co/brindleyengineering/28fc7fe9-f319-407d-907c-51fb601fd10c",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-24T20:33:14.433844+00:00",
+    "emailed_utc": "2026-08-24T20:33:14.433844+00:00"
   }
 ]
