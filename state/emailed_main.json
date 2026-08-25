@@ -18991,5 +18991,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-25T15:51:53.902205+00:00",
     "emailed_utc": "2026-08-25T15:51:53.902205+00:00"
+  },
+  {
+    "job_id": "amazon:efe4cf6c-f10e-4cbd-85c4-80d7e32ddccb",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, S3",
+    "location": "US, VA, Arlington",
+    "posted": "August 25, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10513862/software-development-engineer-s3",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-25T16:12:12.787415+00:00",
+    "emailed_utc": "2026-08-25T16:12:12.787415+00:00"
+  },
+  {
+    "job_id": "amazon:60ae0726-89a3-4f67-9bd1-ecd36b8faae8",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, S3",
+    "location": "US, VA, Arlington",
+    "posted": "August 25, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10513864/software-development-engineer-s3",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-25T16:12:12.787415+00:00",
+    "emailed_utc": "2026-08-25T16:12:12.787415+00:00"
   }
 ]
