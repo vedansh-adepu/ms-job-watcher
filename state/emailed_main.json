@@ -19030,5 +19030,31 @@
     "bucket": "yes",
     "first_seen_utc": "2026-08-25T16:32:37.452574+00:00",
     "emailed_utc": "2026-08-25T16:32:37.452574+00:00"
+  },
+  {
+    "job_id": "amazon:671a8448-5dbc-43e4-b924-2327dda84ea6",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer II, Amazon Leo Fulfillment Technology",
+    "location": "US, WA, Redmond",
+    "posted": "August 25, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10514163/software-development-engineer-ii-amazon-leo-fulfillment-technology",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-25T16:55:47.042023+00:00",
+    "emailed_utc": "2026-08-25T16:55:47.042023+00:00"
+  },
+  {
+    "job_id": "amazon:d25e9c23-355f-4a35-9995-acda87ccc525",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Senior Applied Scientist - Manipulation RL,  Amazon Robotics - Vulcan Stow",
+    "location": "US, WA, Seattle",
+    "posted": "August 25, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10514036/senior-applied-scientist-manipulation-rl-amazon-robotics-vulcan-stow",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-25T16:55:47.042023+00:00",
+    "emailed_utc": "2026-08-25T16:55:47.042023+00:00"
   }
 ]
