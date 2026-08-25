@@ -1,49 +1,5 @@
 [
   {
-    "ts": "2026-08-19T06:02Z",
-    "mode": "boards",
-    "per_source": {
-      "greenhouse": {
-        "fetched": 1881,
-        "title_ok": 602,
-        "loc_ok": 326,
-        "new": 0,
-        "emailed": 0
-      },
-      "lever": {
-        "fetched": 563,
-        "title_ok": 239,
-        "loc_ok": 174,
-        "new": 0,
-        "emailed": 0
-      },
-      "smartrecruiters": {
-        "fetched": 171,
-        "title_ok": 41,
-        "loc_ok": 37,
-        "new": 0,
-        "emailed": 0
-      },
-      "ashby": {
-        "fetched": 4944,
-        "title_ok": 1723,
-        "loc_ok": 400,
-        "new": 0,
-        "emailed": 0,
-        "errors": 1
-      },
-      "workday": {
-        "fetched": 2500,
-        "title_ok": 525,
-        "loc_ok": 211,
-        "new": 0,
-        "emailed": 0
-      }
-    },
-    "duration_s": 78.9,
-    "cursor": 1000
-  },
-  {
     "ts": "2026-08-19T06:11Z",
     "mode": "main",
     "per_source": {
@@ -39461,6 +39417,56 @@
       }
     },
     "duration_s": 10.3,
+    "cursor": null
+  },
+  {
+    "ts": "2026-08-25T15:24Z",
+    "mode": "main",
+    "per_source": {
+      "microsoft": {
+        "fetched": 209,
+        "title_ok": 115,
+        "loc_ok": 115,
+        "new": 0,
+        "emailed": 0
+      },
+      "amazon": {
+        "fetched": 150,
+        "title_ok": 141,
+        "loc_ok": 141,
+        "new": 0,
+        "emailed": 0
+      },
+      "nvidia": {
+        "fetched": 20,
+        "title_ok": 20,
+        "loc_ok": 20,
+        "new": 0,
+        "emailed": 0
+      },
+      "goldman_sachs": {
+        "fetched": 0,
+        "title_ok": 0,
+        "loc_ok": 0,
+        "new": 0,
+        "emailed": 0
+      },
+      "ibm": {
+        "fetched": 36,
+        "title_ok": 31,
+        "loc_ok": 15,
+        "new": 0,
+        "emailed": 0
+      },
+      "oracle": {
+        "fetched": 0,
+        "title_ok": 0,
+        "loc_ok": 0,
+        "new": 0,
+        "emailed": 0
+      }
+    },
+    "duration_s": 15.4,
     "cursor": null
   }
 ]
