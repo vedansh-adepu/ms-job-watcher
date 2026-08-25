@@ -163200,5 +163200,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-25T11:33:13.048670+00:00",
     "emailed_utc": "2026-08-25T11:33:13.048670+00:00"
+  },
+  {
+    "job_id": "workday:jll:jllcareers:req:REQ527248",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "JLL",
+    "title": "Engineer - Civil & Structural",
+    "location": "Bhubaneswar, OR",
+    "posted": "Posted Today",
+    "url": "https://jll.wd1.myworkdayjobs.com/en-US/jllcareers/job/Bhubaneswar-OR/Engineer---Civil---Structural_REQ527248",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-25T12:03:48.106217+00:00",
+    "emailed_utc": "2026-08-25T12:03:48.106217+00:00"
+  },
+  {
+    "job_id": "workday:jll:jllcareers:req:REQ527247",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "JLL",
+    "title": "Engineer - Safety",
+    "location": "Bhubaneswar, OR",
+    "posted": "Posted Today",
+    "url": "https://jll.wd1.myworkdayjobs.com/en-US/jllcareers/job/Bhubaneswar-OR/Engineer---Safety_REQ527247",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-25T12:03:48.106217+00:00",
+    "emailed_utc": "2026-08-25T12:03:48.106217+00:00"
   }
 ]
