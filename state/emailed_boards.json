@@ -163122,5 +163122,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-25T04:32:47.883076+00:00",
     "emailed_utc": "2026-08-25T04:32:47.883076+00:00"
+  },
+  {
+    "job_id": "workday:ngc:Northrop_Grumman_External_Site:req:R10247384",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Northrop Grumman",
+    "title": "Staff Principal Engineer Electronics",
+    "location": "United States-California-San Diego",
+    "posted": "Posted Yesterday",
+    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/Staff-Principal-Engineer-Electronics_R10247384",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-25T07:08:17.048607+00:00",
+    "emailed_utc": "2026-08-25T07:08:17.048607+00:00"
+  },
+  {
+    "job_id": "workday:ngc:Northrop_Grumman_External_Site:req:R10245222",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Northrop Grumman",
+    "title": "Senior Principal Engineer Electronics",
+    "location": "United States-California-San Diego",
+    "posted": "Posted Yesterday",
+    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/Senior-Principal-Engineer-Electronics_R10245222",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-25T07:08:17.048607+00:00",
+    "emailed_utc": "2026-08-25T07:08:17.048607+00:00"
   }
 ]
