@@ -72096,5 +72096,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-25T09:02:04.704765+00:00",
     "emailed_utc": "2026-08-25T09:02:04.704765+00:00"
+  },
+  {
+    "job_id": "lever:kickmaker:184b348c-e7ed-4ab7-a2ea-9bc2820b62ee",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "kickmaker",
+    "title": "Mechanical Engineer",
+    "location": "San Francisco, CA",
+    "posted": "2025-11-12 16:53 UTC",
+    "url": "https://jobs.lever.co/kickmaker/184b348c-e7ed-4ab7-a2ea-9bc2820b62ee",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-25T09:33:13.304171+00:00",
+    "emailed_utc": "2026-08-25T09:33:13.304171+00:00"
+  },
+  {
+    "job_id": "lever:kickmaker:d7e4359c-ffba-45b4-ac55-802e1d250412",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "kickmaker",
+    "title": "Robotic Engineer",
+    "location": "San Francisco, CA",
+    "posted": "2026-08-25 07:59 UTC",
+    "url": "https://jobs.lever.co/kickmaker/d7e4359c-ffba-45b4-ac55-802e1d250412",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-25T09:33:13.304171+00:00",
+    "emailed_utc": "2026-08-25T09:33:13.304171+00:00"
   }
 ]
