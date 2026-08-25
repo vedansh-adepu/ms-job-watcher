@@ -72252,5 +72252,44 @@
     "bucket": "yes",
     "first_seen_utc": "2026-08-25T13:03:07.443439+00:00",
     "emailed_utc": "2026-08-25T13:03:07.443439+00:00"
+  },
+  {
+    "job_id": "greenhouse:dept:8156272",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "dept",
+    "title": "Associate Director, Delivery (Engineering)",
+    "location": "United States",
+    "posted": "2026-08-25T08:22:03-04:00",
+    "url": "https://job-boards.greenhouse.io/dept/jobs/8156272",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-25T13:36:34.415862+00:00",
+    "emailed_utc": "2026-08-25T13:36:34.415862+00:00"
+  },
+  {
+    "job_id": "greenhouse:dragos:5372226008",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "dragos",
+    "title": "Senior Data Engineer",
+    "location": "United States",
+    "posted": "2026-08-25T08:57:49-04:00",
+    "url": "https://job-boards.greenhouse.io/dragos/jobs/5372226008",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-25T13:36:34.415862+00:00",
+    "emailed_utc": "2026-08-25T13:36:34.415862+00:00"
+  },
+  {
+    "job_id": "greenhouse:ensco:5398157008",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "ensco",
+    "title": "Senior Staff Engineer",
+    "location": "Colorado Springs, Colorado, United States",
+    "posted": "2026-08-25T08:32:25-04:00",
+    "url": "https://job-boards.greenhouse.io/ensco/jobs/5398157008",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-25T13:36:34.415862+00:00",
+    "emailed_utc": "2026-08-25T13:36:34.415862+00:00"
   }
 ]
