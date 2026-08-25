@@ -72213,5 +72213,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-25T12:03:13.326721+00:00",
     "emailed_utc": "2026-08-25T12:03:13.326721+00:00"
+  },
+  {
+    "job_id": "greenhouse:keyfactorinc:6161145004",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "keyfactorinc",
+    "title": "Information Security Engineer",
+    "location": "USA; Remote (Cleveland or Atlanta preferred)",
+    "posted": "2026-08-25T08:16:49-04:00",
+    "url": "https://job-boards.greenhouse.io/keyfactorinc/jobs/6161145004",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-25T12:32:39.188465+00:00",
+    "emailed_utc": "2026-08-25T12:32:39.188465+00:00"
+  },
+  {
+    "job_id": "greenhouse:schimenticonstructioncompany:6161144004",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "schimenticonstructioncompany",
+    "title": "Safety Engineer",
+    "location": "New York, New York, United States",
+    "posted": "2026-08-25T08:15:55-04:00",
+    "url": "https://job-boards.greenhouse.io/schimenticonstructioncompany/jobs/6161144004",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-25T12:32:39.188465+00:00",
+    "emailed_utc": "2026-08-25T12:32:39.188465+00:00"
   }
 ]
