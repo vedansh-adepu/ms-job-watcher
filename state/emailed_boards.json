@@ -162693,5 +162693,57 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-24T23:32:46.094378+00:00",
     "emailed_utc": "2026-08-24T23:32:46.094378+00:00"
+  },
+  {
+    "job_id": "smartrecruiters:SanDisk:744000145370619",
+    "pipeline": "boards",
+    "platform": "smartrecruiters",
+    "company": "SanDisk",
+    "title": "Principal Engineer \u2013 Program Management, Supply Chain Transformation",
+    "location": "Milpitas, CA, us",
+    "posted": "2026-08-24T21:50:59.132Z",
+    "url": "https://jobs.smartrecruiters.com/SanDisk",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-25T00:03:10.968440+00:00",
+    "emailed_utc": "2026-08-25T00:03:10.968440+00:00"
+  },
+  {
+    "job_id": "greenhouse:samsara:8153269",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Samsara",
+    "title": "Staff Software Engineer, Maps Services",
+    "location": "Remote - US",
+    "posted": "2026-08-24T18:37:03-04:00",
+    "url": "https://www.samsara.com/company/careers/roles/8153269?gh_jid=8153269",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-25T00:03:10.968440+00:00",
+    "emailed_utc": "2026-08-25T00:03:10.968440+00:00"
+  },
+  {
+    "job_id": "smartrecruiters:ServiceNow:744000145376219",
+    "pipeline": "boards",
+    "platform": "smartrecruiters",
+    "company": "ServiceNow",
+    "title": "Principal Machine Learning Engineer",
+    "location": "Santa Clara, California, us",
+    "posted": "2026-08-24T23:02:21.106Z",
+    "url": "https://jobs.smartrecruiters.com/ServiceNow",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-25T00:03:10.968440+00:00",
+    "emailed_utc": "2026-08-25T00:03:10.968440+00:00"
+  },
+  {
+    "job_id": "smartrecruiters:ServiceNow:744000145375230",
+    "pipeline": "boards",
+    "platform": "smartrecruiters",
+    "company": "ServiceNow",
+    "title": "Principal Systems Design Engineer",
+    "location": "Mountain View, California, us",
+    "posted": "2026-08-24T22:56:24.390Z",
+    "url": "https://jobs.smartrecruiters.com/ServiceNow",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-25T00:03:10.968440+00:00",
+    "emailed_utc": "2026-08-25T00:03:10.968440+00:00"
   }
 ]
