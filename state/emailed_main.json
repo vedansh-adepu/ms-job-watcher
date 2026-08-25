@@ -18939,5 +18939,18 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-25T05:51:45.774637+00:00",
     "emailed_utc": "2026-08-25T05:51:45.774637+00:00"
+  },
+  {
+    "job_id": "amazon:95357abc-414e-40b3-afa9-08716b7f9708",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, Amazon - Selling Partners",
+    "location": "US, WA, Seattle",
+    "posted": "August 25, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10513797/software-development-engineer-amazon-selling-partners",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-25T15:41:40.199713+00:00",
+    "emailed_utc": "2026-08-25T15:41:40.199713+00:00"
   }
 ]
