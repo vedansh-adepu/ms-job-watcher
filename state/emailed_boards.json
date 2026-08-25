@@ -162797,5 +162797,83 @@
     "bucket": "yes",
     "first_seen_utc": "2026-08-25T01:01:48.742340+00:00",
     "emailed_utc": "2026-08-25T01:01:48.742340+00:00"
+  },
+  {
+    "job_id": "greenhouse:andurilindustries:5200146007",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "andurilindustries",
+    "title": "Design Engineer, DFM / DFA",
+    "location": "Costa Mesa, California, United States",
+    "posted": "2026-08-24T21:04:15-04:00",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5200146007?gh_jid=5200146007",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-25T01:33:11.639498+00:00",
+    "emailed_utc": "2026-08-25T01:33:11.639498+00:00"
+  },
+  {
+    "job_id": "greenhouse:andurilindustries:5220624007",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "andurilindustries",
+    "title": "Senior Design Engineer, DFM / DFA",
+    "location": "Costa Mesa, California, United States",
+    "posted": "2026-08-24T21:04:17-04:00",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5220624007?gh_jid=5220624007",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-25T01:33:11.639498+00:00",
+    "emailed_utc": "2026-08-25T01:33:11.639498+00:00"
+  },
+  {
+    "job_id": "greenhouse:axon:7482507003",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Axon",
+    "title": "Senior Machine Learning Engineer I",
+    "location": "Seattle, Washington, United States",
+    "posted": "2026-08-24T19:26:44-04:00",
+    "url": "https://job-boards.greenhouse.io/axon/jobs/7482507003",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-25T01:33:11.639498+00:00",
+    "emailed_utc": "2026-08-25T01:33:11.639498+00:00"
+  },
+  {
+    "job_id": "workday:abbott:abbottcareers:req:35000131",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Abbott",
+    "title": "Sr. Software Product Owner",
+    "location": "United States > La Jolla : Torrey Pines Science Park",
+    "posted": "Posted Today",
+    "url": "https://abbott.wd5.myworkdayjobs.com/en-US/abbottcareers/job/United-States--La-Jolla--Torrey-Pines-Science-Park/Sr-Software-Product-Owner_35000131-2",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-25T01:33:11.639498+00:00",
+    "emailed_utc": "2026-08-25T01:33:11.639498+00:00"
+  },
+  {
+    "job_id": "greenhouse:boxinc:8147786",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "boxinc",
+    "title": "Senior Software Engineer, ISF",
+    "location": "Redwood City, CA",
+    "posted": "2026-08-24T20:34:44-04:00",
+    "url": "https://job-boards.greenhouse.io/boxinc/jobs/8147786",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-25T01:33:11.639498+00:00",
+    "emailed_utc": "2026-08-25T01:33:11.639498+00:00"
+  },
+  {
+    "job_id": "workday:blueorigin:BlueOrigin:req:R70546",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Blue Origin",
+    "title": "Manufacturing Engineer III",
+    "location": "Huntsville, AL",
+    "posted": "Posted Today",
+    "url": "https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Huntsville-AL/Manufacturing-Engineer-III_R70546",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-25T01:33:11.639498+00:00",
+    "emailed_utc": "2026-08-25T01:33:11.639498+00:00"
   }
 ]
