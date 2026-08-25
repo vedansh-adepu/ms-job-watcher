@@ -72733,5 +72733,83 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-25T16:03:04.460391+00:00",
     "emailed_utc": "2026-08-25T16:03:04.460391+00:00"
+  },
+  {
+    "job_id": "lever:agatesoftware:144f3e0b-140d-42fe-aaaf-fb57b91a9bca",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "agatesoftware",
+    "title": "Software Developer - Hybrid in AZ or MI   [SD2-2026-08]",
+    "location": "Glendale, AZ",
+    "posted": "2026-08-25 15:07 UTC",
+    "url": "https://jobs.lever.co/agatesoftware/144f3e0b-140d-42fe-aaaf-fb57b91a9bca",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-25T16:20:10.376856+00:00",
+    "emailed_utc": "2026-08-25T16:20:10.376856+00:00"
+  },
+  {
+    "job_id": "lever:agile-defense:c459d490-c6a6-4864-8d5e-854966c1c42a",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "agile-defense",
+    "title": "Data Engineer - SOCOM",
+    "location": "Tampa, FL",
+    "posted": "2026-08-25 14:56 UTC",
+    "url": "https://jobs.lever.co/agile-defense/c459d490-c6a6-4864-8d5e-854966c1c42a",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-25T16:20:10.376856+00:00",
+    "emailed_utc": "2026-08-25T16:20:10.376856+00:00"
+  },
+  {
+    "job_id": "lever:make-rain:91bdb036-ae7d-47e4-828b-fb7761665226",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "make-rain",
+    "title": "Software Engineer, Infrastructure",
+    "location": "El Segundo, CA",
+    "posted": "2026-08-25 15:03 UTC",
+    "url": "https://jobs.lever.co/make-rain/91bdb036-ae7d-47e4-828b-fb7761665226",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-25T16:20:10.376856+00:00",
+    "emailed_utc": "2026-08-25T16:20:10.376856+00:00"
+  },
+  {
+    "job_id": "greenhouse:vulcanelements:5187973008",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "vulcanelements",
+    "title": "Sr. Manufacturing Engineer  ",
+    "location": "Research Triangle Park, NC (Hybrid)",
+    "posted": "2026-08-25T11:00:34-04:00",
+    "url": "https://job-boards.greenhouse.io/vulcanelements/jobs/5187973008",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-25T16:20:10.376856+00:00",
+    "emailed_utc": "2026-08-25T16:20:10.376856+00:00"
+  },
+  {
+    "job_id": "greenhouse:waymo:7901943",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "waymo",
+    "title": "Sr. Staff Software Engineer, Fleet Orchestration, TLM",
+    "location": "Mountain View, CA, United States; San Francisco, CA, United States",
+    "posted": "2026-08-25T11:12:27-04:00",
+    "url": "https://careers.withwaymo.com/jobs?gh_jid=7901943",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-25T16:20:10.376856+00:00",
+    "emailed_utc": "2026-08-25T16:20:10.376856+00:00"
+  },
+  {
+    "job_id": "lever:mainspringenergy:727e75bd-fe31-4c14-9d23-e230f4994fc0",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "mainspringenergy",
+    "title": "Embedded Software Manager",
+    "location": "Menlo Park, CA",
+    "posted": "2026-08-11 21:23 UTC",
+    "url": "https://jobs.lever.co/mainspringenergy/727e75bd-fe31-4c14-9d23-e230f4994fc0",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-25T16:20:10.376856+00:00",
+    "emailed_utc": "2026-08-25T16:20:10.376856+00:00"
   }
 ]
