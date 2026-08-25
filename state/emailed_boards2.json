@@ -72148,5 +72148,70 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-25T11:02:59.204164+00:00",
     "emailed_utc": "2026-08-25T11:02:59.204164+00:00"
+  },
+  {
+    "job_id": "greenhouse:barbaricum:5404632008",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "barbaricum",
+    "title": "Pre-Award: MXM- Computer Engineer IV",
+    "location": "Crane, IN",
+    "posted": "2026-08-25T07:43:44-04:00",
+    "url": "https://job-boards.greenhouse.io/barbaricum/jobs/5404632008",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-25T12:03:13.326721+00:00",
+    "emailed_utc": "2026-08-25T12:03:13.326721+00:00"
+  },
+  {
+    "job_id": "greenhouse:barbaricum:5404634008",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "barbaricum",
+    "title": "Pre-Award: MXM- Electrical / Electronics Engineer IV ",
+    "location": "Crane, IN",
+    "posted": "2026-08-25T07:46:02-04:00",
+    "url": "https://job-boards.greenhouse.io/barbaricum/jobs/5404634008",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-25T12:03:13.326721+00:00",
+    "emailed_utc": "2026-08-25T12:03:13.326721+00:00"
+  },
+  {
+    "job_id": "greenhouse:barbaricum:5404643008",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "barbaricum",
+    "title": "Pre-Award: MXM- Model Based Systems Engineer III ",
+    "location": "Crane, IN",
+    "posted": "2026-08-25T07:52:42-04:00",
+    "url": "https://job-boards.greenhouse.io/barbaricum/jobs/5404643008",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-25T12:03:13.326721+00:00",
+    "emailed_utc": "2026-08-25T12:03:13.326721+00:00"
+  },
+  {
+    "job_id": "greenhouse:barbaricum:5404639008",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "barbaricum",
+    "title": "Pre-Award: MXM- Systems Engineer III  ",
+    "location": "Crane, IN",
+    "posted": "2026-08-25T07:50:56-04:00",
+    "url": "https://job-boards.greenhouse.io/barbaricum/jobs/5404639008",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-25T12:03:13.326721+00:00",
+    "emailed_utc": "2026-08-25T12:03:13.326721+00:00"
+  },
+  {
+    "job_id": "greenhouse:clickhouse:6128891004",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "clickhouse",
+    "title": "Incident Response Security Engineer",
+    "location": "United States (remote)",
+    "posted": "2026-08-25T07:42:23-04:00",
+    "url": "https://job-boards.greenhouse.io/clickhouse/jobs/6128891004",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-25T12:03:13.326721+00:00",
+    "emailed_utc": "2026-08-25T12:03:13.326721+00:00"
   }
 ]
