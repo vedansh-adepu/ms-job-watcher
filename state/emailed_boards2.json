@@ -73903,5 +73903,83 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-25T22:32:19.527284+00:00",
     "emailed_utc": "2026-08-25T22:32:19.527284+00:00"
+  },
+  {
+    "job_id": "greenhouse:roblox:8131689",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "roblox",
+    "title": "Software Engineer, Creator Studio",
+    "location": "San Mateo, CA, United States",
+    "posted": "2026-08-25T18:46:29-04:00",
+    "url": "https://careers.roblox.com/jobs/8131689?gh_jid=8131689",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-25T23:04:17.890993+00:00",
+    "emailed_utc": "2026-08-25T23:04:17.890993+00:00"
+  },
+  {
+    "job_id": "greenhouse:sagesure:4707269006",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "sagesure",
+    "title": "Associate Data Scientist",
+    "location": "Jersey City, New Jersey, United States",
+    "posted": "2026-08-25T17:27:34-04:00",
+    "url": "https://www.sagesure.com/careers/current-job-openings/?gh_jid=4707269006",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-25T23:04:17.890993+00:00",
+    "emailed_utc": "2026-08-25T23:04:17.890993+00:00"
+  },
+  {
+    "job_id": "greenhouse:jensenhughes:5394725008",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "jensenhughes",
+    "title": "Mid/Senior Fire Protection Engineer",
+    "location": "Colorado Springs, Colorado, United States",
+    "posted": "2026-08-25T18:09:34-04:00",
+    "url": "https://job-boards.greenhouse.io/jensenhughes/jobs/5394725008",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-25T23:04:17.890993+00:00",
+    "emailed_utc": "2026-08-25T23:04:17.890993+00:00"
+  },
+  {
+    "job_id": "greenhouse:pacificfusion:4381966009",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "pacificfusion",
+    "title": "Senior Mechanical Engineer - Test Infrastructure ",
+    "location": "San Leandro, CA",
+    "posted": "2026-08-25T17:18:31-04:00",
+    "url": "https://job-boards.greenhouse.io/pacificfusion/jobs/4381966009",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-25T23:04:17.890993+00:00",
+    "emailed_utc": "2026-08-25T23:04:17.890993+00:00"
+  },
+  {
+    "job_id": "greenhouse:relativity:8733662002",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "relativity",
+    "title": "Staff Additive Welding Engineer",
+    "location": "Long Beach, California, United States",
+    "posted": "2026-08-25T18:56:04-04:00",
+    "url": "https://boards.greenhouse.io/relativity/jobs/8733662002?gh_jid=8733662002",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-25T23:04:17.890993+00:00",
+    "emailed_utc": "2026-08-25T23:04:17.890993+00:00"
+  },
+  {
+    "job_id": "greenhouse:sagesure:4707236006",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "sagesure",
+    "title": "Staff Software Engineer",
+    "location": "Chicago, Illinois, United States; Jersey City, New Jersey, United States; Mountain View, California, United States",
+    "posted": "2026-08-25T17:51:20-04:00",
+    "url": "https://www.sagesure.com/careers/current-job-openings/?gh_jid=4707236006",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-25T23:04:17.890993+00:00",
+    "emailed_utc": "2026-08-25T23:04:17.890993+00:00"
   }
 ]
