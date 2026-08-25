@@ -162745,5 +162745,44 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-25T00:03:10.968440+00:00",
     "emailed_utc": "2026-08-25T00:03:10.968440+00:00"
+  },
+  {
+    "job_id": "ashby:benchling:3fbb23bd-c06c-49da-8834-4da67200275e",
+    "pipeline": "boards",
+    "platform": "ashby",
+    "company": "Benchling",
+    "title": " Software Engineer, Model Evaluation and Improvement",
+    "location": "San Francisco, CA",
+    "posted": "",
+    "url": "https://jobs.ashbyhq.com/benchling/3fbb23bd-c06c-49da-8834-4da67200275e",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-25T00:32:46.816054+00:00",
+    "emailed_utc": "2026-08-25T00:32:46.816054+00:00"
+  },
+  {
+    "job_id": "greenhouse:xpengmotors:8743596002",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "xpengmotors",
+    "title": "Staff Machine Learning Engineer",
+    "location": "Santa Clara, CA",
+    "posted": "2026-08-24T19:24:37-04:00",
+    "url": "https://job-boards.greenhouse.io/xpengmotors/jobs/8743596002",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-25T00:32:46.816054+00:00",
+    "emailed_utc": "2026-08-25T00:32:46.816054+00:00"
+  },
+  {
+    "job_id": "ashby:replit:9a56d0ac-db44-4dc1-b960-2364557bf4c8",
+    "pipeline": "boards",
+    "platform": "ashby",
+    "company": "Replit",
+    "title": "Forward Deployed Engineer",
+    "location": "Foster City, CA",
+    "posted": "",
+    "url": "https://jobs.ashbyhq.com/replit/9a56d0ac-db44-4dc1-b960-2364557bf4c8",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-25T00:32:46.816054+00:00",
+    "emailed_utc": "2026-08-25T00:32:46.816054+00:00"
   }
 ]
