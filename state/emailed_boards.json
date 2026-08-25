@@ -166216,5 +166216,57 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-25T20:32:58.586470+00:00",
     "emailed_utc": "2026-08-25T20:32:58.586470+00:00"
+  },
+  {
+    "job_id": "ashby:benchling:63d7d126-efaf-4a48-b328-f8d85b640ebf",
+    "pipeline": "boards",
+    "platform": "ashby",
+    "company": "Benchling",
+    "title": "Software Engineer, Platform (Developer Experience)",
+    "location": "San Francisco, CA",
+    "posted": "",
+    "url": "https://jobs.ashbyhq.com/benchling/63d7d126-efaf-4a48-b328-f8d85b640ebf",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-25T21:02:55.385784+00:00",
+    "emailed_utc": "2026-08-25T21:02:55.385784+00:00"
+  },
+  {
+    "job_id": "ashby:benchling:a338cb38-bf43-40dd-9fbf-dc9205b30bb1",
+    "pipeline": "boards",
+    "platform": "ashby",
+    "company": "Benchling",
+    "title": "Software Engineer, Platform (Developer Experience)",
+    "location": "Boston, MA",
+    "posted": "",
+    "url": "https://jobs.ashbyhq.com/benchling/a338cb38-bf43-40dd-9fbf-dc9205b30bb1",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-25T21:02:55.385784+00:00",
+    "emailed_utc": "2026-08-25T21:02:55.385784+00:00"
+  },
+  {
+    "job_id": "greenhouse:voyagertechnologiesinc:4356472009",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "voyagertechnologiesinc",
+    "title": "Manufacturing Engineer - Optics",
+    "location": "San Diego, CA",
+    "posted": "2026-08-25T15:49:00-04:00",
+    "url": "https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4356472009",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-25T21:02:55.385784+00:00",
+    "emailed_utc": "2026-08-25T21:02:55.385784+00:00"
+  },
+  {
+    "job_id": "ashby:snowflake:afaaccae-b713-4432-9c04-cc8b1be52d59",
+    "pipeline": "boards",
+    "platform": "ashby",
+    "company": "Snowflake",
+    "title": "Senior Solutions Engineer, Observe",
+    "location": "US-IL-Remote",
+    "posted": "",
+    "url": "https://jobs.ashbyhq.com/snowflake/afaaccae-b713-4432-9c04-cc8b1be52d59",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-25T21:02:55.385784+00:00",
+    "emailed_utc": "2026-08-25T21:02:55.385784+00:00"
   }
 ]
