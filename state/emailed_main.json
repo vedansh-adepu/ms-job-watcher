@@ -18952,5 +18952,44 @@
     "bucket": "yes",
     "first_seen_utc": "2026-08-25T15:41:40.199713+00:00",
     "emailed_utc": "2026-08-25T15:41:40.199713+00:00"
+  },
+  {
+    "job_id": "amazon:686e3752-0f97-4be3-81c3-3843fc824b7d",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, Conversational Ads Experience",
+    "location": "US, WA, Seattle",
+    "posted": "August 25, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10513808/software-development-engineer-conversational-ads-experience",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-25T15:51:53.902205+00:00",
+    "emailed_utc": "2026-08-25T15:51:53.902205+00:00"
+  },
+  {
+    "job_id": "amazon:0e15aa1e-bb61-41a5-8488-4a68fa93b7df",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Dev Engineer II, AWS Networking Reasoning Team",
+    "location": "US, WA, Seattle",
+    "posted": "August 25, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10513814/software-dev-engineer-ii-aws-networking-reasoning-team",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-25T15:51:53.902205+00:00",
+    "emailed_utc": "2026-08-25T15:51:53.902205+00:00"
+  },
+  {
+    "job_id": "amazon:ae5feb0e-7e4f-417f-8a65-bcc7dc05562f",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Manager, ASBX",
+    "location": "US, WA, Seattle",
+    "posted": "August 25, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10513662/software-development-manager-asbx",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-25T15:51:53.902205+00:00",
+    "emailed_utc": "2026-08-25T15:51:53.902205+00:00"
   }
 ]
