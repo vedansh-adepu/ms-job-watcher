@@ -167087,5 +167087,70 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-25T22:33:07.912156+00:00",
     "emailed_utc": "2026-08-25T22:33:07.912156+00:00"
+  },
+  {
+    "job_id": "greenhouse:ripple:8125912",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Ripple",
+    "title": "Senior Software Engineer, Payments",
+    "location": "San Francisco, CA, United States",
+    "posted": "2026-08-25T18:14:10-04:00",
+    "url": "https://ripple.com/careers/all-jobs/job/8125912?gh_jid=8125912",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-25T23:03:10.578537+00:00",
+    "emailed_utc": "2026-08-25T23:03:10.578537+00:00"
+  },
+  {
+    "job_id": "greenhouse:skhynixamerica:5406257008",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "skhynixamerica",
+    "title": "Field Application Engineer, NAND/SSD",
+    "location": "San Jose, CA",
+    "posted": "2026-08-25T18:06:20-04:00",
+    "url": "https://job-boards.greenhouse.io/skhynixamerica/jobs/5406257008",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-25T23:03:10.578537+00:00",
+    "emailed_utc": "2026-08-25T23:03:10.578537+00:00"
+  },
+  {
+    "job_id": "greenhouse:smartsheet:8157847",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Smartsheet",
+    "title": "Principal Security Engineer",
+    "location": "Bellevue, WA, USA",
+    "posted": "2026-08-25T17:54:10-04:00",
+    "url": "https://job-boards.greenhouse.io/smartsheet/jobs/8157847",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-25T23:03:10.578537+00:00",
+    "emailed_utc": "2026-08-25T23:03:10.578537+00:00"
+  },
+  {
+    "job_id": "smartrecruiters:ServiceNow:744000145605980",
+    "pipeline": "boards",
+    "platform": "smartrecruiters",
+    "company": "ServiceNow",
+    "title": "Senior ML Research Engineer/Scientist",
+    "location": "Hyderabad, in",
+    "posted": "2026-08-25T21:49:38.844Z",
+    "url": "https://jobs.smartrecruiters.com/ServiceNow",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-25T23:03:10.578537+00:00",
+    "emailed_utc": "2026-08-25T23:03:10.578537+00:00"
+  },
+  {
+    "job_id": "workday:target:targetcareers:req:R0000450578",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Target",
+    "title": "Senior Production Engineer - Northeast",
+    "location": "301 STRANDER BLVD,Ste 107 TUKWILA,WA 98188-2971",
+    "posted": "Posted Today",
+    "url": "https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/301-STRANDER-BLVDSte-107-TUKWILAWA-98188-2971/Senior-Production-Engineer---Northeast_R0000450578-1",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-25T23:03:10.578537+00:00",
+    "emailed_utc": "2026-08-25T23:03:10.578537+00:00"
   }
 ]
