@@ -73396,5 +73396,18 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-25T19:18:12.590003+00:00",
     "emailed_utc": "2026-08-25T19:18:12.590003+00:00"
+  },
+  {
+    "job_id": "lever:redhorsecorp:31c72285-ba1f-43f6-8a94-22477be01ca4",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "redhorsecorp",
+    "title": "Full Stack Developer",
+    "location": "Reston, VA",
+    "posted": "2026-08-25 15:29 UTC",
+    "url": "https://jobs.lever.co/redhorsecorp/31c72285-ba1f-43f6-8a94-22477be01ca4",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-25T19:33:00.530328+00:00",
+    "emailed_utc": "2026-08-25T19:33:00.530328+00:00"
   }
 ]
