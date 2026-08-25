@@ -19277,5 +19277,44 @@
     "bucket": "yes",
     "first_seen_utc": "2026-08-25T22:31:52.545359+00:00",
     "emailed_utc": "2026-08-25T22:31:52.545359+00:00"
+  },
+  {
+    "job_id": "microsoft:1970393556971567",
+    "pipeline": "main",
+    "platform": "microsoft",
+    "company": "Microsoft",
+    "title": "Software Engineer II - CTJ - Poly",
+    "location": "Redmond, WA, US",
+    "posted": "2026-08-17 16:09 UTC",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556971567",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-25T22:51:47.909662+00:00",
+    "emailed_utc": "2026-08-25T22:51:47.909662+00:00"
+  },
+  {
+    "job_id": "amazon:b0113c4a-0946-49c2-9d33-aa69d9d8e803",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Front End Engineer, AWS Agentic AI Automated Reasoning (AR)",
+    "location": "US, WA, Seattle",
+    "posted": "August 25, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10515062/front-end-engineer-aws-agentic-ai-automated-reasoning-ar",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-25T22:51:47.909662+00:00",
+    "emailed_utc": "2026-08-25T22:51:47.909662+00:00"
+  },
+  {
+    "job_id": "amazon:8571ac70-52f9-41c5-930b-2359fe0f844d",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Sr. Front End Engineer, AWS Agentic AI Automated Reasoning (AR)",
+    "location": "US, WA, Seattle",
+    "posted": "August 25, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10515061/sr-front-end-engineer-aws-agentic-ai-automated-reasoning-ar",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-25T22:51:47.909662+00:00",
+    "emailed_utc": "2026-08-25T22:51:47.909662+00:00"
   }
 ]
