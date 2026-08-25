@@ -19199,5 +19199,18 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-25T20:34:42.390983+00:00",
     "emailed_utc": "2026-08-25T20:34:42.390983+00:00"
+  },
+  {
+    "job_id": "amazon:a232cf01-2842-4c21-a303-a99d755d65b3",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Engineer, XR , Fauna",
+    "location": "US, NY, New York",
+    "posted": "August 25, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10514583/software-engineer-xr-fauna",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-25T20:41:59.775327+00:00",
+    "emailed_utc": "2026-08-25T20:41:59.775327+00:00"
   }
 ]
