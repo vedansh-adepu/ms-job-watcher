@@ -164955,5 +164955,57 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-25T18:33:42.551293+00:00",
     "emailed_utc": "2026-08-25T18:33:42.551293+00:00"
+  },
+  {
+    "job_id": "ashby:coderabbit:19f92fdd-cbe1-4109-ab20-d15f4106dd60",
+    "pipeline": "boards",
+    "platform": "ashby",
+    "company": "CodeRabbit",
+    "title": "Success Analytics Engineer",
+    "location": "Boston, MA",
+    "posted": "",
+    "url": "https://jobs.ashbyhq.com/coderabbit/19f92fdd-cbe1-4109-ab20-d15f4106dd60",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-25T18:56:26.202974+00:00",
+    "emailed_utc": "2026-08-25T18:56:26.202974+00:00"
+  },
+  {
+    "job_id": "greenhouse:edmentum:6148611004",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Edmentum",
+    "title": "GTM Product Analyst",
+    "location": "United States",
+    "posted": "2026-08-25T13:01:45-04:00",
+    "url": "https://job-boards.greenhouse.io/edmentum/jobs/6148611004",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-25T18:56:26.202974+00:00",
+    "emailed_utc": "2026-08-25T18:56:26.202974+00:00"
+  },
+  {
+    "job_id": "greenhouse:planetlabs:8155646",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Planetlabs",
+    "title": "Senior Software Engineer, GMS App Team",
+    "location": "United States, Remote",
+    "posted": "2026-08-25T13:26:38-04:00",
+    "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8155646",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-25T18:56:26.202974+00:00",
+    "emailed_utc": "2026-08-25T18:56:26.202974+00:00"
+  },
+  {
+    "job_id": "greenhouse:torcrobotics:8728723002",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Torcrobotics",
+    "title": "ML Engineer, I - MLOps Framework",
+    "location": "Remote - US",
+    "posted": "2026-08-25T14:45:45-04:00",
+    "url": "https://job-boards.greenhouse.io/torcrobotics/jobs/8728723002",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-25T18:56:26.202974+00:00",
+    "emailed_utc": "2026-08-25T18:56:26.202974+00:00"
   }
 ]
