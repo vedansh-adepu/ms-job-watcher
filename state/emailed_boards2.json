@@ -72044,5 +72044,18 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-25T03:32:17.298048+00:00",
     "emailed_utc": "2026-08-25T03:32:17.298048+00:00"
+  },
+  {
+    "job_id": "lever:healthcare:5b1f873b-c8a9-4a93-b738-330ebe3163bf",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "healthcare",
+    "title": "AI Engineer",
+    "location": "Remote, US",
+    "posted": "2026-08-25 02:11 UTC",
+    "url": "https://jobs.lever.co/healthcare/5b1f873b-c8a9-4a93-b738-330ebe3163bf",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-25T04:03:00.175367+00:00",
+    "emailed_utc": "2026-08-25T04:03:00.175367+00:00"
   }
 ]
