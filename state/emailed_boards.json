@@ -168036,5 +168036,18 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-26T02:02:46.748052+00:00",
     "emailed_utc": "2026-08-26T02:02:46.748052+00:00"
+  },
+  {
+    "job_id": "workday:capitalone:Capital_One:req:R999094",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Capital One",
+    "title": "Lead Software Engineer, Back End",
+    "location": "McLean, VA",
+    "posted": "Posted Today",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Lead-Software-Engineer--Back-End_R999094-2",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-26T03:03:13.933084+00:00",
+    "emailed_utc": "2026-08-26T03:03:13.933084+00:00"
   }
 ]
