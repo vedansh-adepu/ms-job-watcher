@@ -168101,5 +168101,57 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-26T04:06:08.492108+00:00",
     "emailed_utc": "2026-08-26T04:06:08.492108+00:00"
+  },
+  {
+    "job_id": "greenhouse:spacex:8748882002",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "SpaceX",
+    "title": "Avionics System Engineer, HITL (Starfall)",
+    "location": "Hawthorne, CA",
+    "posted": "2026-08-25T22:39:29-04:00",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8748882002?gh_jid=8748882002",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-26T04:33:02.977420+00:00",
+    "emailed_utc": "2026-08-26T04:33:02.977420+00:00"
+  },
+  {
+    "job_id": "greenhouse:spacex:8748856002",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "SpaceX",
+    "title": "Optical Engineer (Starfall)",
+    "location": "Hawthorne, CA",
+    "posted": "2026-08-25T22:02:20-04:00",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8748856002?gh_jid=8748856002",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-26T04:33:02.977420+00:00",
+    "emailed_utc": "2026-08-26T04:33:02.977420+00:00"
+  },
+  {
+    "job_id": "greenhouse:spacex:8748880002",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "SpaceX",
+    "title": "Principal Optical Engineer (Starfall)",
+    "location": "Hawthorne, CA",
+    "posted": "2026-08-25T22:40:48-04:00",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8748880002?gh_jid=8748880002",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-26T04:33:02.977420+00:00",
+    "emailed_utc": "2026-08-26T04:33:02.977420+00:00"
+  },
+  {
+    "job_id": "greenhouse:spacex:8748858002",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "SpaceX",
+    "title": "Sr. Optical Engineer (Starfall)",
+    "location": "Hawthorne, CA",
+    "posted": "2026-08-25T22:01:49-04:00",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8748858002?gh_jid=8748858002",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-26T04:33:02.977420+00:00",
+    "emailed_utc": "2026-08-26T04:33:02.977420+00:00"
   }
 ]
