@@ -168517,5 +168517,44 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-26T13:02:41.091323+00:00",
     "emailed_utc": "2026-08-26T13:02:41.091323+00:00"
+  },
+  {
+    "job_id": "greenhouse:accenturefederalservices:4708512006",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Accenture Federal Services",
+    "title": "Lead Developer - PowerPlatform",
+    "location": "Washington, DC",
+    "posted": "2026-08-26T09:25:08-04:00",
+    "url": "https://boards.greenhouse.io/accenturefederalservices/jobs/4708512006?gh_jid=4708512006",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-26T13:33:27.472333+00:00",
+    "emailed_utc": "2026-08-26T13:33:27.472333+00:00"
+  },
+  {
+    "job_id": "workday:capitalone:Capital_One:req:R999174",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Capital One",
+    "title": "Lead Software Engineer, Full Stack",
+    "location": "McLean, VA",
+    "posted": "Posted Today",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Lead-Software-Engineer--Full-Stack_R999174-1",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-26T13:33:27.472333+00:00",
+    "emailed_utc": "2026-08-26T13:33:27.472333+00:00"
+  },
+  {
+    "job_id": "workday:citi:2:req:26975264",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Citigroup",
+    "title": "Quantitative Developer (VP)",
+    "location": "New York New York United States",
+    "posted": "Posted Today",
+    "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/New-York-New-York-United-States/Quantitative-Analyst---C13---NEW-YORK_26975264",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-26T13:33:27.472333+00:00",
+    "emailed_utc": "2026-08-26T13:33:27.472333+00:00"
   }
 ]
