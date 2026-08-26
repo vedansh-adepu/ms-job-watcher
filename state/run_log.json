@@ -1,55 +1,5 @@
 [
   {
-    "ts": "2026-08-20T03:21Z",
-    "mode": "main",
-    "per_source": {
-      "microsoft": {
-        "fetched": 206,
-        "title_ok": 111,
-        "loc_ok": 111,
-        "new": 0,
-        "emailed": 0
-      },
-      "amazon": {
-        "fetched": 200,
-        "title_ok": 193,
-        "loc_ok": 193,
-        "new": 0,
-        "emailed": 0
-      },
-      "nvidia": {
-        "fetched": 30,
-        "title_ok": 29,
-        "loc_ok": 29,
-        "new": 0,
-        "emailed": 0
-      },
-      "goldman_sachs": {
-        "fetched": 0,
-        "title_ok": 0,
-        "loc_ok": 0,
-        "new": 0,
-        "emailed": 0
-      },
-      "ibm": {
-        "fetched": 35,
-        "title_ok": 30,
-        "loc_ok": 15,
-        "new": 0,
-        "emailed": 0
-      },
-      "oracle": {
-        "fetched": 0,
-        "title_ok": 0,
-        "loc_ok": 0,
-        "new": 0,
-        "emailed": 0
-      }
-    },
-    "duration_s": 15.8,
-    "cursor": null
-  },
-  {
     "ts": "2026-08-20T03:31Z",
     "mode": "boards",
     "per_source": {
@@ -39540,5 +39490,48 @@
     },
     "duration_s": 15.3,
     "cursor": null
+  },
+  {
+    "ts": "2026-08-26T12:33Z",
+    "mode": "boards",
+    "per_source": {
+      "greenhouse": {
+        "fetched": 8623,
+        "title_ok": 2888,
+        "loc_ok": 1935,
+        "new": 0,
+        "emailed": 0
+      },
+      "smartrecruiters": {
+        "fetched": 1465,
+        "title_ok": 292,
+        "loc_ok": 164,
+        "new": 0,
+        "emailed": 0
+      },
+      "lever": {
+        "fetched": 240,
+        "title_ok": 107,
+        "loc_ok": 67,
+        "new": 0,
+        "emailed": 0
+      },
+      "ashby": {
+        "fetched": 118,
+        "title_ok": 44,
+        "loc_ok": 19,
+        "new": 0,
+        "emailed": 0
+      },
+      "workday": {
+        "fetched": 6500,
+        "title_ok": 1369,
+        "loc_ok": 101,
+        "new": 0,
+        "emailed": 0
+      }
+    },
+    "duration_s": 88.5,
+    "cursor": 800
   }
 ]
