@@ -19914,5 +19914,18 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-26T22:02:02.960056+00:00",
     "emailed_utc": "2026-08-26T22:02:02.960056+00:00"
+  },
+  {
+    "job_id": "amazon:1c8f71ed-41d3-4238-8cee-5f8ce8674e25",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer - AWS Cryptography",
+    "location": "US, WA, Seattle",
+    "posted": "August 26, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10516264/software-development-engineer-aws-cryptography",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-26T22:11:54.114609+00:00",
+    "emailed_utc": "2026-08-26T22:11:54.114609+00:00"
   }
 ]
