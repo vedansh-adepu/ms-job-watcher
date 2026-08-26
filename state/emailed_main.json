@@ -19667,5 +19667,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-26T18:22:04.459319+00:00",
     "emailed_utc": "2026-08-26T18:22:04.459319+00:00"
+  },
+  {
+    "job_id": "amazon:e97621f0-de69-4da1-91c7-725bf1304d0e",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Senior Software Engineer, Luna Omni",
+    "location": "US, WA, Seattle",
+    "posted": "August 26, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10516058/senior-software-engineer-luna-omni",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-26T18:31:19.385632+00:00",
+    "emailed_utc": "2026-08-26T18:31:19.385632+00:00"
+  },
+  {
+    "job_id": "amazon:c975d484-96ac-4a01-96a6-7b65487fe63a",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Senior Software Development Engineer, S3 Storage Cells",
+    "location": "US, WA, Seattle",
+    "posted": "August 26, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10516064/senior-software-development-engineer-s3-storage-cells",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-26T18:31:19.385632+00:00",
+    "emailed_utc": "2026-08-26T18:31:19.385632+00:00"
   }
 ]
