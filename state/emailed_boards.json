@@ -168374,5 +168374,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-26T06:33:39.018263+00:00",
     "emailed_utc": "2026-08-26T06:33:39.018263+00:00"
+  },
+  {
+    "job_id": "workday:ngc:Northrop_Grumman_External_Site:req:R10247430",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Northrop Grumman",
+    "title": "Tool Engineering Manager 3",
+    "location": "United States-Utah-Clearfield",
+    "posted": "Posted Today",
+    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Utah-Clearfield/Tool-Engineering-Manager-3_R10247430",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-26T07:03:03.289389+00:00",
+    "emailed_utc": "2026-08-26T07:03:03.289389+00:00"
+  },
+  {
+    "job_id": "workday:ngc:Northrop_Grumman_External_Site:req:R10247044",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Northrop Grumman",
+    "title": "Principal Engineer Facilities",
+    "location": "United States-Arizona-Gilbert",
+    "posted": "Posted Yesterday",
+    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Arizona-Gilbert/Principal-Engineer-Facilities_R10247044",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-26T07:03:03.289389+00:00",
+    "emailed_utc": "2026-08-26T07:03:03.289389+00:00"
   }
 ]
