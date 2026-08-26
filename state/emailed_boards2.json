@@ -74462,5 +74462,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-26T14:32:23.611728+00:00",
     "emailed_utc": "2026-08-26T14:32:23.611728+00:00"
+  },
+  {
+    "job_id": "greenhouse:northpointtechnology:8750643002",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "northpointtechnology",
+    "title": "Software Engineer - Full Stack (Top Secret Clearance Required)",
+    "location": "Littleton, Colorado, United States",
+    "posted": "2026-08-26T10:38:16-04:00",
+    "url": "https://job-boards.greenhouse.io/northpointtechnology/jobs/8750643002",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-26T15:03:05.728441+00:00",
+    "emailed_utc": "2026-08-26T15:03:05.728441+00:00"
+  },
+  {
+    "job_id": "greenhouse:mettel:4708513006",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "mettel",
+    "title": "Senior Software Engineer - Data Platform",
+    "location": "New York, New York, United States",
+    "posted": "2026-08-26T10:37:10-04:00",
+    "url": "https://job-boards.greenhouse.io/mettel/jobs/4708513006",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-26T15:03:05.728441+00:00",
+    "emailed_utc": "2026-08-26T15:03:05.728441+00:00"
   }
 ]
