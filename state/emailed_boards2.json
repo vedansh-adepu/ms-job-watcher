@@ -74488,5 +74488,83 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-26T15:03:05.728441+00:00",
     "emailed_utc": "2026-08-26T15:03:05.728441+00:00"
+  },
+  {
+    "job_id": "greenhouse:yipitdatajobs:8159625",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "yipitdatajobs",
+    "title": "Product Security Engineer",
+    "location": "US Remote",
+    "posted": "2026-08-26T11:59:40-04:00",
+    "url": "https://job-boards.greenhouse.io/yipitdatajobs/jobs/8159625",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-26T16:03:09.430541+00:00",
+    "emailed_utc": "2026-08-26T16:03:09.430541+00:00"
+  },
+  {
+    "job_id": "greenhouse:yipitdata:8135138",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "yipitdata",
+    "title": "Product Security Engineer",
+    "location": "US Remote",
+    "posted": "2026-08-26T11:59:38-04:00",
+    "url": "https://job-boards.greenhouse.io/yipitdata/jobs/8135138",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-26T16:03:09.430541+00:00",
+    "emailed_utc": "2026-08-26T16:03:09.430541+00:00"
+  },
+  {
+    "job_id": "greenhouse:zscaler:5216926007",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "zscaler",
+    "title": "Sr. Software Development Engineer (Controlplane)",
+    "location": "San Jose, California, USA",
+    "posted": "2026-08-26T11:02:51-04:00",
+    "url": "https://job-boards.greenhouse.io/zscaler/jobs/5216926007",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-26T16:03:09.430541+00:00",
+    "emailed_utc": "2026-08-26T16:03:09.430541+00:00"
+  },
+  {
+    "job_id": "lever:ans:545c6e65-7d13-44a0-a874-f2520131f86e",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "ans",
+    "title": "Entry- Level Geotechnical Engineer",
+    "location": "Austin, TX",
+    "posted": "2026-08-26 15:55 UTC",
+    "url": "https://jobs.lever.co/ans/545c6e65-7d13-44a0-a874-f2520131f86e",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-26T16:03:09.430541+00:00",
+    "emailed_utc": "2026-08-26T16:03:09.430541+00:00"
+  },
+  {
+    "job_id": "lever:stackhawk:1ceb4a60-1aa2-4cb4-b508-a51d95a4c9ac",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "stackhawk",
+    "title": "Senior Software Engineer, Agentic Systems",
+    "location": "Denver, CO",
+    "posted": "2026-08-26 15:58 UTC",
+    "url": "https://jobs.lever.co/stackhawk/1ceb4a60-1aa2-4cb4-b508-a51d95a4c9ac",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-26T16:03:09.430541+00:00",
+    "emailed_utc": "2026-08-26T16:03:09.430541+00:00"
+  },
+  {
+    "job_id": "lever:thinkahead:3595a68c-61a7-4d0c-91d4-914fa9803cbd",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "thinkahead",
+    "title": "Principal Technical Consultant - AI/Cloud Platform Engineering",
+    "location": "United States",
+    "posted": "2026-08-25 18:05 UTC",
+    "url": "https://jobs.lever.co/thinkahead/3595a68c-61a7-4d0c-91d4-914fa9803cbd",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-26T16:03:09.430541+00:00",
+    "emailed_utc": "2026-08-26T16:03:09.430541+00:00"
   }
 ]
