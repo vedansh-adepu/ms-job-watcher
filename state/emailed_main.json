@@ -19524,5 +19524,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-26T15:52:43.837921+00:00",
     "emailed_utc": "2026-08-26T15:52:43.837921+00:00"
+  },
+  {
+    "job_id": "amazon:d2cd2d09-3046-4560-94e3-359715a7b216",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, WW Deals and Promotions",
+    "location": "US, WA, Seattle",
+    "posted": "August 26, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10515707/software-development-engineer-ww-deals-and-promotions",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-26T16:01:58.294081+00:00",
+    "emailed_utc": "2026-08-26T16:01:58.294081+00:00"
+  },
+  {
+    "job_id": "amazon:f0156ebd-6fb9-4a35-bffc-7e9cd1638590",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Sr Software Engineer, WW Deals and Promotions",
+    "location": "US, WA, Seattle",
+    "posted": "August 26, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10515705/sr-software-engineer-ww-deals-and-promotions",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-26T16:01:58.294081+00:00",
+    "emailed_utc": "2026-08-26T16:01:58.294081+00:00"
   }
 ]
