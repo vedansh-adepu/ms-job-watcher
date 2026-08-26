@@ -168725,5 +168725,70 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-26T15:04:02.488373+00:00",
     "emailed_utc": "2026-08-26T15:04:02.488373+00:00"
+  },
+  {
+    "job_id": "greenhouse:upstart:8026826",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "UpStart",
+    "title": "Software Engineer II, Developer Platform",
+    "location": "United States | Remote",
+    "posted": "2026-08-26T11:34:46-04:00",
+    "url": "https://careers.upstart.com/jobs?gh_jid=8026826",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-26T16:02:41.584405+00:00",
+    "emailed_utc": "2026-08-26T16:02:41.584405+00:00"
+  },
+  {
+    "job_id": "greenhouse:xometry:5222322007",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "xometry",
+    "title": "Senior Software Engineer",
+    "location": "Waltham, MA",
+    "posted": "2026-08-26T09:05:49-04:00",
+    "url": "https://job-boards.greenhouse.io/xometry/jobs/5222322007",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-26T16:02:41.584405+00:00",
+    "emailed_utc": "2026-08-26T16:02:41.584405+00:00"
+  },
+  {
+    "job_id": "greenhouse:xometry:5222323007",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "xometry",
+    "title": "Senior Software Engineer",
+    "location": "North Bethesda, MD",
+    "posted": "2026-08-26T09:05:57-04:00",
+    "url": "https://job-boards.greenhouse.io/xometry/jobs/5222323007",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-26T16:02:41.584405+00:00",
+    "emailed_utc": "2026-08-26T16:02:41.584405+00:00"
+  },
+  {
+    "job_id": "ashby:snowflake:83f7f33a-9c74-459a-a324-b2dea2e709dd",
+    "pipeline": "boards",
+    "platform": "ashby",
+    "company": "Snowflake",
+    "title": "Senior Software Engineer - Observe by Snowflake, Workflow",
+    "location": "US-CA-Menlo Park",
+    "posted": "",
+    "url": "https://jobs.ashbyhq.com/snowflake/83f7f33a-9c74-459a-a324-b2dea2e709dd",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-26T16:02:41.584405+00:00",
+    "emailed_utc": "2026-08-26T16:02:41.584405+00:00"
+  },
+  {
+    "job_id": "ashby:snowflake:4acd9663-eeba-41d1-8bd9-6ee6a94e1bf4",
+    "pipeline": "boards",
+    "platform": "ashby",
+    "company": "Snowflake",
+    "title": "Staff Frontend Software Engineer, AI Product: Observe by Snowflake",
+    "location": "US-CA-Menlo Park",
+    "posted": "",
+    "url": "https://jobs.ashbyhq.com/snowflake/4acd9663-eeba-41d1-8bd9-6ee6a94e1bf4",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-26T16:02:41.584405+00:00",
+    "emailed_utc": "2026-08-26T16:02:41.584405+00:00"
   }
 ]
