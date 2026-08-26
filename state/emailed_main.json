@@ -19472,5 +19472,57 @@
     "bucket": "yes",
     "first_seen_utc": "2026-08-26T10:11:48.789669+00:00",
     "emailed_utc": "2026-08-26T10:11:48.789669+00:00"
+  },
+  {
+    "job_id": "amazon:460e7481-1a62-40b2-9d6d-84f45fc759c4",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, GNC Software, Amazon Leo",
+    "location": "US, WA, Redmond",
+    "posted": "August 26, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10515667/software-development-engineer-gnc-software-amazon-leo",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-26T15:52:43.837921+00:00",
+    "emailed_utc": "2026-08-26T15:52:43.837921+00:00"
+  },
+  {
+    "job_id": "amazon:826106b6-0a85-4b9d-9194-81cff2260cb9",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, Amazon Selection Monitoring",
+    "location": "US, WA, Seattle",
+    "posted": "August 26, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10515630/software-development-engineer-amazon-selection-monitoring",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-26T15:52:43.837921+00:00",
+    "emailed_utc": "2026-08-26T15:52:43.837921+00:00"
+  },
+  {
+    "job_id": "amazon:08a71840-f31c-4bdc-8bdf-12eaeebe3cd8",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, AWS Border Network Engineering (L5)",
+    "location": "US, WA, Seattle",
+    "posted": "August 26, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10515636/software-development-engineer-aws-border-network-engineering-l5",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-26T15:52:43.837921+00:00",
+    "emailed_utc": "2026-08-26T15:52:43.837921+00:00"
+  },
+  {
+    "job_id": "nvidia:893397358875",
+    "pipeline": "main",
+    "platform": "nvidia",
+    "company": "NVIDIA",
+    "title": "Senior Software Engineer, NIM Tools",
+    "location": "Santa Clara, CA, US",
+    "posted": "2026-08-26 00:00 UTC",
+    "url": "https://nvidia.eightfold.ai/careers/job/893397358875",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-26T15:52:43.837921+00:00",
+    "emailed_utc": "2026-08-26T15:52:43.837921+00:00"
   }
 ]

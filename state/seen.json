@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-08-26T15:02:43.799668+00:00",
+  "updated_utc": "2026-08-26T15:52:43.856600+00:00",
   "seen_ids": [
     "amazon:0001a63d-f66e-4a08-9c9e-812ade17341b",
     "amazon:001cbd36-6cf2-46fb-8274-52473cbe7706",
@@ -155,6 +155,7 @@
     "amazon:085e1ca3-b5bd-4298-b241-72c1d1d5558a",
     "amazon:086dd717-e67e-41f1-80de-b1416678af48",
     "amazon:0888f0bb-8105-4809-b760-16040543508d",
+    "amazon:08a71840-f31c-4bdc-8bdf-12eaeebe3cd8",
     "amazon:08b33638-2b9a-4720-b9f3-a8d4a163f55f",
     "amazon:08b35581-dc6c-4476-b163-a35205922488",
     "amazon:08bf078d-365e-46ae-bdb0-7d266a4f4acb",
@@ -1200,6 +1201,7 @@
     "amazon:45d8373e-ae28-4ff8-a476-cd93a00697a3",
     "amazon:45dc1ac9-b4ae-4b8b-90ac-de6dc90e53f3",
     "amazon:45e0297e-0ecb-4762-bde8-6ad018ae4360",
+    "amazon:460e7481-1a62-40b2-9d6d-84f45fc759c4",
     "amazon:46169f8c-0e2c-43b9-8a0b-f3c31ed94506",
     "amazon:461c23b3-a82f-43f3-bf6b-5e3b1036a5f4",
     "amazon:461c5636-9a92-4bab-9f9a-617fc9de0130",
@@ -2266,6 +2268,7 @@
     "amazon:820eb500-7bd9-47f9-b45c-a9e2cda61cff",
     "amazon:821e0dd4-6beb-48f6-b96e-244db8b5630d",
     "amazon:825231cf-7668-416a-bf6b-77c72f1c5fcb",
+    "amazon:826106b6-0a85-4b9d-9194-81cff2260cb9",
     "amazon:8266f91a-4cac-43d8-8717-5b92776f26f2",
     "amazon:826dec91-500b-49e6-82df-73bba3fe2181",
     "amazon:82785475-7541-4c37-952d-300da86d58f5",
@@ -8882,6 +8885,7 @@
     "nvidia:893397341367",
     "nvidia:893397341391",
     "nvidia:893397341399",
+    "nvidia:893397358875",
     "oracle:334471",
     "oracle:334693",
     "oracle:335271",
