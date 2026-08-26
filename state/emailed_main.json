@@ -19615,5 +19615,31 @@
     "bucket": "yes",
     "first_seen_utc": "2026-08-26T17:02:03.455001+00:00",
     "emailed_utc": "2026-08-26T17:02:03.455001+00:00"
+  },
+  {
+    "job_id": "amazon:04fd529b-d0df-4bb2-8d86-5442d50ba3e9",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Sr. Software Engineer- AI/ML, AWS Neuron Distributed Training",
+    "location": "US, CA, Cupertino",
+    "posted": "August 26, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10515931/sr-software-engineer-ai-ml-aws-neuron-distributed-training",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-26T17:11:54.842601+00:00",
+    "emailed_utc": "2026-08-26T17:11:54.842601+00:00"
+  },
+  {
+    "job_id": "amazon:842d4497-ba65-4ba7-bf97-e141a41ec3c3",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Manager, DynamoDB Storage Engine",
+    "location": "US, WA, Seattle",
+    "posted": "August 26, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10515921/software-development-manager-dynamodb-storage-engine",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-26T17:11:54.842601+00:00",
+    "emailed_utc": "2026-08-26T17:11:54.842601+00:00"
   }
 ]
