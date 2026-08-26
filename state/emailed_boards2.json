@@ -74293,5 +74293,57 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-26T11:31:59.547617+00:00",
     "emailed_utc": "2026-08-26T11:31:59.547617+00:00"
+  },
+  {
+    "job_id": "greenhouse:premiertruckrental:5395316008",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "premiertruckrental",
+    "title": " Manager of Data Engineering & Architecture ",
+    "location": "Fort Wayne, IN",
+    "posted": "2026-08-26T09:12:59-04:00",
+    "url": "https://rentptr.com/jobs/?gh_jid=5395316008",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-26T13:32:18.034777+00:00",
+    "emailed_utc": "2026-08-26T13:32:18.034777+00:00"
+  },
+  {
+    "job_id": "greenhouse:scoutspace:4754222008",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "scoutspace",
+    "title": "Optomechanical Engineer",
+    "location": "Reston, VA - Remote",
+    "posted": "2026-08-26T09:20:50-04:00",
+    "url": "https://job-boards.greenhouse.io/scoutspace/jobs/4754222008",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-26T13:32:18.034777+00:00",
+    "emailed_utc": "2026-08-26T13:32:18.034777+00:00"
+  },
+  {
+    "job_id": "greenhouse:simtrabps:5098842007",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "simtrabps",
+    "title": "Senior Critical Utilities Engineer",
+    "location": "Bloomington, Indiana, United States",
+    "posted": "2026-08-26T09:15:56-04:00",
+    "url": "https://job-boards.greenhouse.io/simtrabps/jobs/5098842007",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-26T13:32:18.034777+00:00",
+    "emailed_utc": "2026-08-26T13:32:18.034777+00:00"
+  },
+  {
+    "job_id": "greenhouse:smxtech:7974697003",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "smxtech",
+    "title": "Junior Developer (5547)",
+    "location": "United States",
+    "posted": "2026-08-26T09:18:17-04:00",
+    "url": "https://www.smxtech.com/careers/?gh_jid=7974697003",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-26T13:32:18.034777+00:00",
+    "emailed_utc": "2026-08-26T13:32:18.034777+00:00"
   }
 ]
