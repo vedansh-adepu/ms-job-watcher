@@ -75749,5 +75749,44 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-26T21:02:34.430099+00:00",
     "emailed_utc": "2026-08-26T21:02:34.430099+00:00"
+  },
+  {
+    "job_id": "lever:jetsupport:154759ba-a379-4862-b54b-aa3396873e4c",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "jetsupport",
+    "title": "Contract AI Data Engineer",
+    "location": "Chicago, IL",
+    "posted": "2026-08-26 21:02 UTC",
+    "url": "https://jobs.lever.co/jetsupport/154759ba-a379-4862-b54b-aa3396873e4c",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-26T21:16:26.770366+00:00",
+    "emailed_utc": "2026-08-26T21:16:26.770366+00:00"
+  },
+  {
+    "job_id": "greenhouse:wundermanthompson:8733837002",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "wundermanthompson",
+    "title": "Group Director,Analytics-1PD Data & Loyalty",
+    "location": "Detroit, Michigan, United States; New York, New York, United States",
+    "posted": "2026-08-26T16:58:48-04:00",
+    "url": "https://www.vml.com/careers/job/8733837002?gh_jid=8733837002",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-26T21:16:26.770366+00:00",
+    "emailed_utc": "2026-08-26T21:16:26.770366+00:00"
+  },
+  {
+    "job_id": "lever:solestial:38a7ca6c-0509-4195-8c9a-9ba5da22dfec",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "solestial",
+    "title": "Process Engineer - Solar Cell Module Manufacturing & Integration",
+    "location": "1121 West Warner Rd; Tempe, AZ 85284",
+    "posted": "2026-08-21 16:13 UTC",
+    "url": "https://jobs.lever.co/solestial/38a7ca6c-0509-4195-8c9a-9ba5da22dfec",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-26T21:16:26.770366+00:00",
+    "emailed_utc": "2026-08-26T21:16:26.770366+00:00"
   }
 ]
