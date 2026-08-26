@@ -172248,5 +172248,57 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-26T21:32:46.529241+00:00",
     "emailed_utc": "2026-08-26T21:32:46.529241+00:00"
+  },
+  {
+    "job_id": "ashby:langchain:47ad420c-9302-4a4f-a35f-7dd29e1d9d28",
+    "pipeline": "boards",
+    "platform": "ashby",
+    "company": "LangChain",
+    "title": "AI Engineer, Enablement ",
+    "location": "New York, NY",
+    "posted": "",
+    "url": "https://jobs.ashbyhq.com/langchain/47ad420c-9302-4a4f-a35f-7dd29e1d9d28",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-26T22:01:44.179079+00:00",
+    "emailed_utc": "2026-08-26T22:01:44.179079+00:00"
+  },
+  {
+    "job_id": "greenhouse:diligentcorporation:6146359004",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Diligentcorporation",
+    "title": "Senior Manager Platform Engineering",
+    "location": "New York, New York, United States; Washington, District of Columbia, United States",
+    "posted": "2026-08-26T16:19:03-04:00",
+    "url": "https://job-boards.greenhouse.io/diligentcorporation/jobs/6146359004",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-26T22:01:44.179079+00:00",
+    "emailed_utc": "2026-08-26T22:01:44.179079+00:00"
+  },
+  {
+    "job_id": "greenhouse:freedomconsulting:5222925007",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Freedomconsulting",
+    "title": "System Engineer Skill Level 2 763",
+    "location": "Annapolis Junction, MD",
+    "posted": "2026-08-26T15:50:18-04:00",
+    "url": "https://job-boards.greenhouse.io/freedomconsulting/jobs/5222925007",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-26T22:01:44.179079+00:00",
+    "emailed_utc": "2026-08-26T22:01:44.179079+00:00"
+  },
+  {
+    "job_id": "greenhouse:freeformfuturecorp:7978655003",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Freeformfuturecorp",
+    "title": "Senior Embedded Software Engineer (Manufacturing Systems)",
+    "location": "Los Angeles, CA (On-site)",
+    "posted": "2026-08-26T15:47:56-04:00",
+    "url": "https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7978655003",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-26T22:01:44.179079+00:00",
+    "emailed_utc": "2026-08-26T22:01:44.179079+00:00"
   }
 ]
