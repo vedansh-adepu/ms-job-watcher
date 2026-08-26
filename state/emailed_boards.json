@@ -170506,5 +170506,44 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-26T18:35:27.363566+00:00",
     "emailed_utc": "2026-08-26T18:35:27.363566+00:00"
+  },
+  {
+    "job_id": "ashby:formenergy:51e4abde-0020-44ad-8b9d-6760bcaa004c",
+    "pipeline": "boards",
+    "platform": "ashby",
+    "company": "Form Energy",
+    "title": "Senior Software Engineer, Power Plant Software",
+    "location": "Berkeley, CA",
+    "posted": "",
+    "url": "https://jobs.ashbyhq.com/formenergy/51e4abde-0020-44ad-8b9d-6760bcaa004c",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-26T19:02:09.726965+00:00",
+    "emailed_utc": "2026-08-26T19:02:09.726965+00:00"
+  },
+  {
+    "job_id": "greenhouse:scoutmotors:5221068007",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Scoutmotors",
+    "title": "Engineer, Bumper Systems",
+    "location": "Charlotte, North Carolina, United States",
+    "posted": "2026-08-26T13:49:05-04:00",
+    "url": "https://job-boards.greenhouse.io/scoutmotors/jobs/5221068007",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-26T19:02:09.726965+00:00",
+    "emailed_utc": "2026-08-26T19:02:09.726965+00:00"
+  },
+  {
+    "job_id": "lever:shieldai:ee614940-c594-41da-8432-8a677e21520d",
+    "pipeline": "boards",
+    "platform": "lever",
+    "company": "Shieldai",
+    "title": "Senior Staff Customer Sustainment Engineer (R5502)",
+    "location": "United States",
+    "posted": "2026-08-18 05:05 UTC",
+    "url": "https://jobs.lever.co/shieldai/ee614940-c594-41da-8432-8a677e21520d",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-26T19:02:09.726965+00:00",
+    "emailed_utc": "2026-08-26T19:02:09.726965+00:00"
   }
 ]
