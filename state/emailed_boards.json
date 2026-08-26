@@ -167685,5 +167685,57 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-26T00:33:21.168422+00:00",
     "emailed_utc": "2026-08-26T00:33:21.168422+00:00"
+  },
+  {
+    "job_id": "greenhouse:harbingermotors:5222066007",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "harbingermotors",
+    "title": "Fastener Engineer",
+    "location": "Garden Grove, CA",
+    "posted": "2026-08-25T19:31:15-04:00",
+    "url": "https://job-boards.greenhouse.io/harbingermotors/jobs/5222066007",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-26T01:03:38.444476+00:00",
+    "emailed_utc": "2026-08-26T01:03:38.444476+00:00"
+  },
+  {
+    "job_id": "workday:disney:disneycareer:req:10158481",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Disney",
+    "title": "Business Analytics & Intelligence Manager",
+    "location": "Glendale, CA, USA",
+    "posted": "Posted Today",
+    "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Glendale-CA-USA/Business-Analytics---Intelligence-Manager_10158481-2",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-26T01:03:38.444476+00:00",
+    "emailed_utc": "2026-08-26T01:03:38.444476+00:00"
+  },
+  {
+    "job_id": "workday:jll:jllcareers:req:REQ531543",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "JLL",
+    "title": "Chief Engineer",
+    "location": "Tempe, AZ",
+    "posted": "Posted Today",
+    "url": "https://jll.wd1.myworkdayjobs.com/en-US/jllcareers/job/Tempe-AZ/Chief-Engineer_REQ531543",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-26T01:03:38.444476+00:00",
+    "emailed_utc": "2026-08-26T01:03:38.444476+00:00"
+  },
+  {
+    "job_id": "workday:jll:jllcareers:req:REQ531541",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "JLL",
+    "title": "Operating Engineer",
+    "location": "Phoenix, AZ",
+    "posted": "Posted Today",
+    "url": "https://jll.wd1.myworkdayjobs.com/en-US/jllcareers/job/Phoenix-AZ/Operating-Engineer_REQ531541",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-26T01:03:38.444476+00:00",
+    "emailed_utc": "2026-08-26T01:03:38.444476+00:00"
   }
 ]
