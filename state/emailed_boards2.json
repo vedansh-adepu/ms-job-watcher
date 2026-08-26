@@ -74189,5 +74189,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-26T02:02:05.597262+00:00",
     "emailed_utc": "2026-08-26T02:02:05.597262+00:00"
+  },
+  {
+    "job_id": "greenhouse:bluerivertech:8158060",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "bluerivertech",
+    "title": "Principal Robotics Software Engineer",
+    "location": "Remote-US",
+    "posted": "2026-08-25T21:45:19-04:00",
+    "url": "https://www.bluerivertechnology.com/job/?gh_jid=8158060",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-26T02:14:50.360530+00:00",
+    "emailed_utc": "2026-08-26T02:14:50.360530+00:00"
+  },
+  {
+    "job_id": "greenhouse:everlane:7977736003",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "everlane",
+    "title": "Director of Data Science & Analytics ",
+    "location": "Los Angeles, CA",
+    "posted": "2026-08-25T20:34:46-04:00",
+    "url": "https://job-boards.greenhouse.io/everlane/jobs/7977736003",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-26T02:14:50.360530+00:00",
+    "emailed_utc": "2026-08-26T02:14:50.360530+00:00"
   }
 ]
