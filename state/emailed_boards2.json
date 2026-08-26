@@ -75385,5 +75385,70 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-26T19:02:33.096298+00:00",
     "emailed_utc": "2026-08-26T19:02:33.096298+00:00"
+  },
+  {
+    "job_id": "greenhouse:zenput:6163921004",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "zenput",
+    "title": "Senior Engineering Manager",
+    "location": "Atlanta, Georgia, United States; Boston, Massachusetts, United States; Louisville, Kentucky, United States",
+    "posted": "2026-08-26T13:47:35-04:00",
+    "url": "https://www.crunchtime.com/open-positions?gh_jid=6163921004",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-26T19:32:50.532148+00:00",
+    "emailed_utc": "2026-08-26T19:32:50.532148+00:00"
+  },
+  {
+    "job_id": "lever:allegiantair:a32a623d-0a67-42c5-859d-38956b103d31",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "allegiantair",
+    "title": "Predictive Analytics Developer",
+    "location": "Las Vegas, NV",
+    "posted": "2026-08-25 23:12 UTC",
+    "url": "https://jobs.lever.co/allegiantair/a32a623d-0a67-42c5-859d-38956b103d31",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-26T19:32:50.532148+00:00",
+    "emailed_utc": "2026-08-26T19:32:50.532148+00:00"
+  },
+  {
+    "job_id": "lever:cfsenergy:fd3bb880-f5d2-4822-b19c-c209cf5e1adb",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "cfsenergy",
+    "title": "Senior Manufacturing Engineer - Third Shift",
+    "location": "Devens, MA",
+    "posted": "2026-08-26 18:20 UTC",
+    "url": "https://jobs.lever.co/cfsenergy/fd3bb880-f5d2-4822-b19c-c209cf5e1adb",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-26T19:32:50.532148+00:00",
+    "emailed_utc": "2026-08-26T19:32:50.532148+00:00"
+  },
+  {
+    "job_id": "lever:coatesgroup:4c16e06c-ea3d-49e6-8ece-4ea33e286aa6",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "coatesgroup",
+    "title": "Tech Lead, Data Engineering",
+    "location": "Chicago, IL",
+    "posted": "2026-08-26 18:55 UTC",
+    "url": "https://jobs.lever.co/coatesgroup/4c16e06c-ea3d-49e6-8ece-4ea33e286aa6",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-26T19:32:50.532148+00:00",
+    "emailed_utc": "2026-08-26T19:32:50.532148+00:00"
+  },
+  {
+    "job_id": "lever:loftorbital:aefd45c9-fdc6-4136-851d-c6676276e0e2",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "loftorbital",
+    "title": "Lead Manufacturing Engineer",
+    "location": "Golden, CO",
+    "posted": "2026-08-26 18:07 UTC",
+    "url": "https://jobs.lever.co/loftorbital/aefd45c9-fdc6-4136-851d-c6676276e0e2",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-26T19:32:50.532148+00:00",
+    "emailed_utc": "2026-08-26T19:32:50.532148+00:00"
   }
 ]
