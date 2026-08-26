@@ -168673,5 +168673,57 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-26T14:33:08.736025+00:00",
     "emailed_utc": "2026-08-26T14:33:08.736025+00:00"
+  },
+  {
+    "job_id": "greenhouse:singlestore:8159062",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "SingleStore",
+    "title": "Sr. Software Engineer | Aura Platform ",
+    "location": "United States ",
+    "posted": "2026-08-26T08:56:04-04:00",
+    "url": "https://job-boards.greenhouse.io/singlestore/jobs/8159062",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-26T15:04:02.488373+00:00",
+    "emailed_utc": "2026-08-26T15:04:02.488373+00:00"
+  },
+  {
+    "job_id": "lever:spotify:cb45b193-9f92-4e9b-b936-8a738eed5fdc",
+    "pipeline": "boards",
+    "platform": "lever",
+    "company": "spotify",
+    "title": "Staff Machine Learning Engineer - Music Mission",
+    "location": "New York, NY",
+    "posted": "2026-08-13 17:33 UTC",
+    "url": "https://jobs.lever.co/spotify/cb45b193-9f92-4e9b-b936-8a738eed5fdc",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-26T15:04:02.488373+00:00",
+    "emailed_utc": "2026-08-26T15:04:02.488373+00:00"
+  },
+  {
+    "job_id": "greenhouse:thenewyorktimes:4727084005",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "The New York Times",
+    "title": "Senior Analytics Engineer, Data Platform",
+    "location": "New York, NY",
+    "posted": "2026-08-26T09:11:06-04:00",
+    "url": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4727084005",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-26T15:04:02.488373+00:00",
+    "emailed_utc": "2026-08-26T15:04:02.488373+00:00"
+  },
+  {
+    "job_id": "greenhouse:tulip:7978082003",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Tulip",
+    "title": "Revenue Strategy & Data Analytics Lead",
+    "location": "Somerville, MA",
+    "posted": "2026-08-26T09:10:01-04:00",
+    "url": "https://tulip.co/careers/job-posting/?gh_jid=7978082003",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-26T15:04:02.488373+00:00",
+    "emailed_utc": "2026-08-26T15:04:02.488373+00:00"
   }
 ]
