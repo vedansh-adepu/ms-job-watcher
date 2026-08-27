@@ -39628,20 +39628,40 @@
     "ts": "2026-08-27T01:03Z",
     "mode": "boards",
     "per_source": {
-      "greenhouse": {
-        "fetched": 14930,
-        "title_ok": 2114,
-        "loc_ok": 787,
+      "lever": {
+        "fetched": 599,
+        "title_ok": 50,
+        "loc_ok": 34,
         "new": 0,
         "emailed": 0
       },
-      "lever": {
-        "fetched": 45328,
-        "title_ok": 5713,
-        "loc_ok": 1831,
+      "greenhouse": {
+        "fetched": 10954,
+        "title_ok": 3714,
+        "loc_ok": 2208,
         "new": 2,
-        "emailed": 2,
-        "errors": 3
+        "emailed": 2
+      },
+      "ashby": {
+        "fetched": 137,
+        "title_ok": 35,
+        "loc_ok": 0,
+        "new": 0,
+        "emailed": 0
+      },
+      "smartrecruiters": {
+        "fetched": 1284,
+        "title_ok": 262,
+        "loc_ok": 105,
+        "new": 0,
+        "emailed": 0
+      },
+      "workday": {
+        "fetched": 9625,
+        "title_ok": 2302,
+        "loc_ok": 859,
+        "new": 8,
+        "emailed": 8
       }
     },
     "duration_s": 80.5,
