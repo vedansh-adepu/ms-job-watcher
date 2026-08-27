@@ -19953,5 +19953,31 @@
     "bucket": "yes",
     "first_seen_utc": "2026-08-26T23:11:53.708838+00:00",
     "emailed_utc": "2026-08-26T23:11:53.708838+00:00"
+  },
+  {
+    "job_id": "microsoft:1970393556650636",
+    "pipeline": "main",
+    "platform": "microsoft",
+    "company": "Microsoft",
+    "title": "Service Engineer II",
+    "location": "Redmond, WA, US",
+    "posted": "2026-08-26 23:42 UTC",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556650636",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-27T00:11:26.570228+00:00",
+    "emailed_utc": "2026-08-27T00:11:26.570228+00:00"
+  },
+  {
+    "job_id": "microsoft:1970393556833996",
+    "pipeline": "main",
+    "platform": "microsoft",
+    "company": "Microsoft",
+    "title": "Service Engineer",
+    "location": "Redmond, WA, US",
+    "posted": "2026-08-26 23:39 UTC",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556833996",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-27T00:11:26.570228+00:00",
+    "emailed_utc": "2026-08-27T00:11:26.570228+00:00"
   }
 ]
