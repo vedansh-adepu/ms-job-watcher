@@ -76971,5 +76971,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-27T12:33:08.387486+00:00",
     "emailed_utc": "2026-08-27T12:33:08.387486+00:00"
+  },
+  {
+    "job_id": "greenhouse:bozzuto:5406302008",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "bozzuto",
+    "title": "Chief Engineer",
+    "location": "Washington, DC, 20002",
+    "posted": "2026-08-27T09:18:13-04:00",
+    "url": "https://www.bozzuto.com/careers/job-search/5406302008/?gh_jid=5406302008",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-27T13:33:40.361021+00:00",
+    "emailed_utc": "2026-08-27T13:33:40.361021+00:00"
+  },
+  {
+    "job_id": "greenhouse:caddellconstruction:4817203008",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "caddellconstruction",
+    "title": "Project Engineer - Governmental ",
+    "location": "El Paso, Texas, United States",
+    "posted": "2026-08-27T09:30:06-04:00",
+    "url": "https://caddell.com/job-application/?gh_jid=4817203008",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-27T13:33:40.361021+00:00",
+    "emailed_utc": "2026-08-27T13:33:40.361021+00:00"
   }
 ]
