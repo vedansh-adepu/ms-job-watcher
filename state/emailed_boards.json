@@ -173899,5 +173899,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-27T14:03:38.548812+00:00",
     "emailed_utc": "2026-08-27T14:03:38.548812+00:00"
+  },
+  {
+    "job_id": "greenhouse:seesaw:4708763006",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Seesaw",
+    "title": "Software Engineer, Backend",
+    "location": "USA",
+    "posted": "2026-08-27T10:01:35-04:00",
+    "url": "https://job-boards.greenhouse.io/seesaw/jobs/4708763006",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-27T14:09:16.295310+00:00",
+    "emailed_utc": "2026-08-27T14:09:16.295310+00:00"
+  },
+  {
+    "job_id": "greenhouse:rocketlab:7797914003",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "rocketlab",
+    "title": "Lead, Vehicle Integration Engineer",
+    "location": "Middle River, MD",
+    "posted": "2026-08-27T08:40:42-04:00",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7797914003",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-27T14:09:16.295310+00:00",
+    "emailed_utc": "2026-08-27T14:09:16.295310+00:00"
   }
 ]
