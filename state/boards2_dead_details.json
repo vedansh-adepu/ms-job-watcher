@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-08-27T13:33:40.446184+00:00",
+  "updated_utc": "2026-08-27T14:02:55.601878+00:00",
   "dead_details": {
     "lever:livechatinc": {
       "first_seen_utc": "2026-07-01T19:31:29.430568+00:00",
@@ -1732,6 +1732,15 @@
     "greenhouse:adaptivewater": {
       "first_seen_utc": "2026-08-27T13:31:46.441537+00:00",
       "last_seen_utc": "2026-08-27T13:31:46.441537+00:00",
+      "platform": "greenhouse",
+      "company": "",
+      "board_url": "",
+      "last_status": 404,
+      "last_error": "HTTP 404/410 (board not found)"
+    },
+    "greenhouse:pubnub": {
+      "first_seen_utc": "2026-08-27T14:02:26.265232+00:00",
+      "last_seen_utc": "2026-08-27T14:02:26.265232+00:00",
       "platform": "greenhouse",
       "company": "",
       "board_url": "",
