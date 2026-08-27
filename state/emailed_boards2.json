@@ -76854,5 +76854,18 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-27T05:32:02.918923+00:00",
     "emailed_utc": "2026-08-27T05:32:02.918923+00:00"
+  },
+  {
+    "job_id": "greenhouse:picarroinc:5407499008",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "picarroinc",
+    "title": "Data Scientist",
+    "location": "Santa Clara, CA ",
+    "posted": "2026-08-27T01:07:06-04:00",
+    "url": "https://www.picarro.com/company/careers/job-openings/apply?gh_jid=5407499008",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-27T06:02:07.919425+00:00",
+    "emailed_utc": "2026-08-27T06:02:07.919425+00:00"
   }
 ]
