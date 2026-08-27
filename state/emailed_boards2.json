@@ -77452,5 +77452,70 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-27T16:02:58.435789+00:00",
     "emailed_utc": "2026-08-27T16:02:58.435789+00:00"
+  },
+  {
+    "job_id": "greenhouse:agilityrobotics:6164974004",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "agilityrobotics",
+    "title": "Senior Staff Manufacturing Systems Engineer",
+    "location": "Hybrid- Salem, OR",
+    "posted": "2026-08-27T12:45:51-04:00",
+    "url": "https://www.agilityrobotics.com/about/job-post?gh_jid=6164974004",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-27T17:02:58.111905+00:00",
+    "emailed_utc": "2026-08-27T17:02:58.111905+00:00"
+  },
+  {
+    "job_id": "greenhouse:clarityinnovates:5218226007",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "clarityinnovates",
+    "title": "Senior Principal Software Engineer ",
+    "location": "Herndon, VA",
+    "posted": "2026-08-27T12:40:22-04:00",
+    "url": "https://job-boards.greenhouse.io/clarityinnovates/jobs/5218226007",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-27T17:02:58.111905+00:00",
+    "emailed_utc": "2026-08-27T17:02:58.111905+00:00"
+  },
+  {
+    "job_id": "greenhouse:coinbase:7701645",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "coinbase",
+    "title": "Senior Software Engineer, Compute Platform",
+    "location": "Remote - USA",
+    "posted": "2026-08-27T12:15:09-04:00",
+    "url": "https://www.coinbase.com/careers/positions/7701645?gh_jid=7701645",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-27T17:02:58.111905+00:00",
+    "emailed_utc": "2026-08-27T17:02:58.111905+00:00"
+  },
+  {
+    "job_id": "greenhouse:digitalocean98:8162102",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "digitalocean98",
+    "title": "Product Security Engineer, Secure Design",
+    "location": "United States",
+    "posted": "2026-08-27T12:44:41-04:00",
+    "url": "https://www.digitalocean.com/careers/position/apply/?gh_jid=8162102",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-27T17:02:58.111905+00:00",
+    "emailed_utc": "2026-08-27T17:02:58.111905+00:00"
+  },
+  {
+    "job_id": "greenhouse:generalmatter:5381356008",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "generalmatter",
+    "title": "Nuclear Safety Programs Engineer",
+    "location": "Los Angeles, CA",
+    "posted": "2026-08-27T12:56:42-04:00",
+    "url": "https://job-boards.greenhouse.io/generalmatter/jobs/5381356008",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-27T17:02:58.111905+00:00",
+    "emailed_utc": "2026-08-27T17:02:58.111905+00:00"
   }
 ]
