@@ -20382,5 +20382,44 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-27T21:21:56.912640+00:00",
     "emailed_utc": "2026-08-27T21:21:56.912640+00:00"
+  },
+  {
+    "job_id": "amazon:4cef1b6d-ba4b-4231-bc1b-66fa3f6dcf64",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Forward Deployed Engineer, FDE US Government",
+    "location": "US, VA, Arlington",
+    "posted": "August 27, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10517550/forward-deployed-engineer-fde-us-government",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-27T21:34:44.913490+00:00",
+    "emailed_utc": "2026-08-27T21:34:44.913490+00:00"
+  },
+  {
+    "job_id": "amazon:1b32cf3e-a465-418c-a2e6-a9028d958895",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Forward Deployed Engineering Manager, FDE US Government",
+    "location": "US, VA, Arlington",
+    "posted": "August 27, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10517563/forward-deployed-engineering-manager-fde-us-government",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-27T21:34:44.913490+00:00",
+    "emailed_utc": "2026-08-27T21:34:44.913490+00:00"
+  },
+  {
+    "job_id": "amazon:b0a0abd7-6280-42fb-865c-c6112222163c",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "System Development Engineer, Content Systems, Seller External Relations",
+    "location": "US, WA, Seattle",
+    "posted": "August 27, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10517548/system-development-engineer-content-systems-seller-external-relations",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-27T21:34:44.913490+00:00",
+    "emailed_utc": "2026-08-27T21:34:44.913490+00:00"
   }
 ]
