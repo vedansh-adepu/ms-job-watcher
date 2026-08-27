@@ -20421,5 +20421,44 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-27T21:34:44.913490+00:00",
     "emailed_utc": "2026-08-27T21:34:44.913490+00:00"
+  },
+  {
+    "job_id": "amazon:7c35794e-2da1-4339-b8cb-4d1baad9673d",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, Amazon Quick",
+    "location": "US, CA, Santa Clara",
+    "posted": "August 27, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10517569/software-development-engineer-amazon-quick",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-27T21:41:34.747071+00:00",
+    "emailed_utc": "2026-08-27T21:41:34.747071+00:00"
+  },
+  {
+    "job_id": "amazon:a9ced082-1e4b-4468-8db9-58833a01e718",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Sr Forward Deployed Engineer, FDE US Government",
+    "location": "US, VA, Arlington",
+    "posted": "August 27, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10517566/sr-forward-deployed-engineer-fde-us-government",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-27T21:41:34.747071+00:00",
+    "emailed_utc": "2026-08-27T21:41:34.747071+00:00"
+  },
+  {
+    "job_id": "amazon:85d5371d-9d0d-41e8-9c41-3b9b40b7de2f",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Forward Deployed Engineering Manager, FDE US Government",
+    "location": "US, VA, Arlington",
+    "posted": "August 27, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10517564/forward-deployed-engineering-manager-fde-us-government",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-27T21:41:34.747071+00:00",
+    "emailed_utc": "2026-08-27T21:41:34.747071+00:00"
   }
 ]
