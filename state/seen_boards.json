@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-08-27T20:03:02.520928+00:00",
+  "updated_utc": "2026-08-27T20:32:41.770233+00:00",
   "seen_ids": [
     "ashby:1password:03e43d8b-af31-489e-a97c-a7da66df129b",
     "ashby:1password:0e9a990d-5750-44c6-b399-887eae1fba49",
@@ -570,6 +570,7 @@
     "ashby:g2:1fc2ad07-a14a-4a28-b41d-888d7504dfac",
     "ashby:g2:5c4a1e21-15a3-4122-9a9f-8681a7717242",
     "ashby:g2:650472d1-887e-4256-897c-8d5b566ff82b",
+    "ashby:g2:8e8488d1-22b0-49c0-80a9-76b7774a99f4",
     "ashby:g2:9db0bd39-e7fe-4701-993c-6d68110354a8",
     "ashby:g2:9f0311c4-c1b5-436a-93c3-2bd6266659f7",
     "ashby:g2:aad768c3-1cd9-4121-a206-3420e8de39ac",
@@ -1453,6 +1454,7 @@
     "ashby:vanta:aa7512c2-fb94-4238-bb15-f0063307af53",
     "ashby:vanta:ad10bda4-f02d-4682-9dc4-b374fa647c99",
     "ashby:vanta:adb29c9e-1a28-4a79-a6b1-7928a3028fa6",
+    "ashby:vanta:b01ad813-3dd3-4603-ab81-75b14772b43b",
     "ashby:vanta:b5c4b58a-0b6b-40a2-b0de-328e4f943060",
     "ashby:vanta:b6064c79-c142-430f-9dbc-1bed9b2023c9",
     "ashby:vanta:b988bf0d-41f8-4e89-9a63-bad73dc85470",
@@ -21908,6 +21910,7 @@
     "lever:waabi:bfe20894-5899-41b5-8cf7-c9f1469d18b7",
     "lever:waabi:c4309c3b-91a3-4415-b53b-2993937c88ce",
     "lever:waabi:c45156f5-792e-459e-a312-435e66728733",
+    "lever:waabi:c4559ea4-1912-4d77-a32c-1a32849e86a0",
     "lever:waabi:c846ad95-f241-4506-ac85-a8faee9a9624",
     "lever:waabi:ca67aa9c-d647-41d5-a45b-38d94304344a",
     "lever:waabi:d0748dc8-f1c0-4f9b-9cbd-0c8b4e22ca7d",
@@ -61297,6 +61300,7 @@
     "workday:unisys:External:req:REQ571957",
     "workday:unisys:External:req:REQ571992",
     "workday:unisys:External:req:REQ571993",
+    "workday:unisys:External:req:REQ571995",
     "workday:unisys:External:req:REQ572058",
     "workday:unisys:External:req:REQ572091",
     "workday:unisys:External:req:REQ572304",
