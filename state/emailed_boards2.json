@@ -78687,5 +78687,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-27T23:02:31.153952+00:00",
     "emailed_utc": "2026-08-27T23:02:31.153952+00:00"
+  },
+  {
+    "job_id": "greenhouse:maybellquantum:4567153008",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "maybellquantum",
+    "title": "Lead Manufacturing Engineer",
+    "location": "Denver, CO",
+    "posted": "2026-08-27T19:31:34-04:00",
+    "url": "https://job-boards.greenhouse.io/maybellquantum/jobs/4567153008",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-27T23:32:39.301576+00:00",
+    "emailed_utc": "2026-08-27T23:32:39.301576+00:00"
+  },
+  {
+    "job_id": "greenhouse:merceradvisors:5396227008",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "merceradvisors",
+    "title": "Process Engineer",
+    "location": "Remote, USA",
+    "posted": "2026-08-27T18:04:07-04:00",
+    "url": "https://job-boards.greenhouse.io/merceradvisors/jobs/5396227008",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-27T23:32:39.301576+00:00",
+    "emailed_utc": "2026-08-27T23:32:39.301576+00:00"
   }
 ]
