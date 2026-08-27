@@ -20174,5 +20174,44 @@
     "bucket": "yes",
     "first_seen_utc": "2026-08-27T17:22:09.263796+00:00",
     "emailed_utc": "2026-08-27T17:22:09.263796+00:00"
+  },
+  {
+    "job_id": "amazon:85181108-2a30-46e0-897d-e71fac42c69e",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, US ADC Security ",
+    "location": "US, VA, Herndon",
+    "posted": "August 27, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10517095/software-development-engineer-us-adc-security",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-27T17:32:35.689418+00:00",
+    "emailed_utc": "2026-08-27T17:32:35.689418+00:00"
+  },
+  {
+    "job_id": "microsoft:1970393556866767",
+    "pipeline": "main",
+    "platform": "microsoft",
+    "company": "Microsoft",
+    "title": "Solution Engineer - Cloud & AI Software, Dev Tools, and AI",
+    "location": "US",
+    "posted": "2026-08-18 13:39 UTC",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556866767",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-27T17:32:35.689418+00:00",
+    "emailed_utc": "2026-08-27T17:32:35.689418+00:00"
+  },
+  {
+    "job_id": "nvidia:893397399181",
+    "pipeline": "main",
+    "platform": "nvidia",
+    "company": "NVIDIA",
+    "title": "Senior Software Engineer, AV Planner - Autonomous Vehicles",
+    "location": "Santa Clara, CA, US",
+    "posted": "2026-08-27 00:00 UTC",
+    "url": "https://nvidia.eightfold.ai/careers/job/893397399181",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-27T17:32:35.689418+00:00",
+    "emailed_utc": "2026-08-27T17:32:35.689418+00:00"
   }
 ]
