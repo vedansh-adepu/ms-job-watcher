@@ -173613,5 +173613,70 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-27T04:33:27.659764+00:00",
     "emailed_utc": "2026-08-27T04:33:27.659764+00:00"
+  },
+  {
+    "job_id": "smartrecruiters:ServiceNow:744000145885859",
+    "pipeline": "boards",
+    "platform": "smartrecruiters",
+    "company": "ServiceNow",
+    "title": "Senior Staff Data Platform Engineer - Kafka - Apache Iceberg - Apache Spark",
+    "location": "San Diego, CALIFORNIA, us",
+    "posted": "2026-08-27T02:53:19.325Z",
+    "url": "https://jobs.smartrecruiters.com/ServiceNow",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-27T05:33:04.694691+00:00",
+    "emailed_utc": "2026-08-27T05:33:04.694691+00:00"
+  },
+  {
+    "job_id": "greenhouse:theweathercompany:5223357007",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "theweathercompany",
+    "title": "Senior Manager, AI Software Engineering ",
+    "location": "New York, NY",
+    "posted": "2026-08-26T22:48:56-04:00",
+    "url": "https://job-boards.greenhouse.io/theweathercompany/jobs/5223357007",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-27T05:33:04.694691+00:00",
+    "emailed_utc": "2026-08-27T05:33:04.694691+00:00"
+  },
+  {
+    "job_id": "greenhouse:theweathercompany:5212270007",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "theweathercompany",
+    "title": "Senior Manager, AI Software Engineering ",
+    "location": "Atlanta, GA",
+    "posted": "2026-08-26T22:48:53-04:00",
+    "url": "https://job-boards.greenhouse.io/theweathercompany/jobs/5212270007",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-27T05:33:04.694691+00:00",
+    "emailed_utc": "2026-08-27T05:33:04.694691+00:00"
+  },
+  {
+    "job_id": "greenhouse:theweathercompany:5212268007",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "theweathercompany",
+    "title": "Sr. Software Engineer",
+    "location": "Atlanta, GA",
+    "posted": "2026-08-26T22:57:38-04:00",
+    "url": "https://job-boards.greenhouse.io/theweathercompany/jobs/5212268007",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-27T05:33:04.694691+00:00",
+    "emailed_utc": "2026-08-27T05:33:04.694691+00:00"
+  },
+  {
+    "job_id": "workday:target:targetcareers:req:R0000441560",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Target",
+    "title": "Lead Full-Stack Engineer -- Advanced AI",
+    "location": "7000 Target Pkwy N,NCD-0375 Brooklyn Park,MN 55445",
+    "posted": "Posted Today",
+    "url": "https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/7000-Target-Pkwy-NNCD-0375-Brooklyn-ParkMN-55445/Lead-Full-Stack-Engineer----Advanced-AI_R0000441560",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-27T05:33:04.694691+00:00",
+    "emailed_utc": "2026-08-27T05:33:04.694691+00:00"
   }
 ]
