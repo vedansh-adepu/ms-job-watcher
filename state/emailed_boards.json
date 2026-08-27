@@ -177747,5 +177747,70 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-27T23:02:55.768611+00:00",
     "emailed_utc": "2026-08-27T23:02:55.768611+00:00"
+  },
+  {
+    "job_id": "ashby:snowflake:a51a1e30-94ec-4550-b39f-90ef328dfa87",
+    "pipeline": "boards",
+    "platform": "ashby",
+    "company": "Snowflake",
+    "title": "Software Engineer, Full Stack - Marketplace",
+    "location": "US-CA-Menlo Park",
+    "posted": "",
+    "url": "https://jobs.ashbyhq.com/snowflake/a51a1e30-94ec-4550-b39f-90ef328dfa87",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-27T23:32:47.298031+00:00",
+    "emailed_utc": "2026-08-27T23:32:47.298031+00:00"
+  },
+  {
+    "job_id": "lever:waabi:1bee72f9-6b1e-4042-8723-d0bd387c56c6",
+    "pipeline": "boards",
+    "platform": "lever",
+    "company": "waabi",
+    "title": "Staff Systems Engineer - Operational Readiness and Field Safety",
+    "location": "Remote US",
+    "posted": "2026-08-27 20:19 UTC",
+    "url": "https://jobs.lever.co/waabi/1bee72f9-6b1e-4042-8723-d0bd387c56c6",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-27T23:32:47.298031+00:00",
+    "emailed_utc": "2026-08-27T23:32:47.298031+00:00"
+  },
+  {
+    "job_id": "ashby:dave:68040c59-7a0c-4d33-bc07-ccdfa32b8eea",
+    "pipeline": "boards",
+    "platform": "ashby",
+    "company": "Dave",
+    "title": "Staff AI Acceleration Engineer",
+    "location": "United States",
+    "posted": "",
+    "url": "https://jobs.ashbyhq.com/dave/68040c59-7a0c-4d33-bc07-ccdfa32b8eea",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-27T23:32:47.298031+00:00",
+    "emailed_utc": "2026-08-27T23:32:47.298031+00:00"
+  },
+  {
+    "job_id": "ashby:render:d326d138-568f-49b7-a560-da42a0742886",
+    "pipeline": "boards",
+    "platform": "ashby",
+    "company": "Render",
+    "title": "Engineering Manager, Object Storage",
+    "location": "Remote: United States",
+    "posted": "",
+    "url": "https://jobs.ashbyhq.com/render/d326d138-568f-49b7-a560-da42a0742886",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-27T23:32:47.298031+00:00",
+    "emailed_utc": "2026-08-27T23:32:47.298031+00:00"
+  },
+  {
+    "job_id": "ashby:render:e1f2d6a2-b9e2-4f16-b863-3ca228c83e75",
+    "pipeline": "boards",
+    "platform": "ashby",
+    "company": "Render",
+    "title": "Engineering Manager, Postgres",
+    "location": "Remote: United States",
+    "posted": "",
+    "url": "https://jobs.ashbyhq.com/render/e1f2d6a2-b9e2-4f16-b863-3ca228c83e75",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-27T23:32:47.298031+00:00",
+    "emailed_utc": "2026-08-27T23:32:47.298031+00:00"
   }
 ]
