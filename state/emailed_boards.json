@@ -173574,5 +173574,44 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-27T04:03:18.613645+00:00",
     "emailed_utc": "2026-08-27T04:03:18.613645+00:00"
+  },
+  {
+    "job_id": "workday:jll:jllcareers:req:REQ531111",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "JLL",
+    "title": "Chief Engineer",
+    "location": "Miami, FL",
+    "posted": "Posted Today",
+    "url": "https://jll.wd1.myworkdayjobs.com/en-US/jllcareers/job/Miami-FL/Chief-Engineer_REQ531111",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-27T04:33:27.659764+00:00",
+    "emailed_utc": "2026-08-27T04:33:27.659764+00:00"
+  },
+  {
+    "job_id": "workday:jll:jllcareers:req:REQ531821",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "JLL",
+    "title": "Critical Environment Operating Engineer",
+    "location": "New York, NY",
+    "posted": "Posted Today",
+    "url": "https://jll.wd1.myworkdayjobs.com/en-US/jllcareers/job/New-York-NY/Critical-Environment-Operating-Engineer_REQ531821",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-27T04:33:27.659764+00:00",
+    "emailed_utc": "2026-08-27T04:33:27.659764+00:00"
+  },
+  {
+    "job_id": "workday:jll:jllcareers:req:REQ531820",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "JLL",
+    "title": "Critical Environment Operating Engineer",
+    "location": "New York, NY",
+    "posted": "Posted Today",
+    "url": "https://jll.wd1.myworkdayjobs.com/en-US/jllcareers/job/New-York-NY/Critical-Environment-Operating-Engineer_REQ531820",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-27T04:33:27.659764+00:00",
+    "emailed_utc": "2026-08-27T04:33:27.659764+00:00"
   }
 ]
