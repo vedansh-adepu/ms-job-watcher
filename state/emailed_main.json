@@ -20538,5 +20538,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-27T23:21:37.742033+00:00",
     "emailed_utc": "2026-08-27T23:21:37.742033+00:00"
+  },
+  {
+    "job_id": "amazon:1e15d96b-494f-478a-96ac-519c9d62f4d5",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer II, Ring Quick Action Service",
+    "location": "US, CA, Hawthorne",
+    "posted": "August 27, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10517663/software-development-engineer-ii-ring-quick-action-service",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-27T23:31:54.254778+00:00",
+    "emailed_utc": "2026-08-27T23:31:54.254778+00:00"
+  },
+  {
+    "job_id": "amazon:ba65b1b3-ff70-43ba-a771-c3967fdf0a9d",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, RBKS Platform Ops",
+    "location": "US, CA, Hawthorne",
+    "posted": "August 27, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10517668/software-development-engineer-rbks-platform-ops",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-27T23:31:54.254778+00:00",
+    "emailed_utc": "2026-08-27T23:31:54.254778+00:00"
   }
 ]
