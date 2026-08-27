@@ -76880,5 +76880,44 @@
     "bucket": "yes",
     "first_seen_utc": "2026-08-27T07:01:59.517565+00:00",
     "emailed_utc": "2026-08-27T07:01:59.517565+00:00"
+  },
+  {
+    "job_id": "greenhouse:chaosindustries:5223433007",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "chaosindustries",
+    "title": "Senior Systems Engineer, Algorithm Development",
+    "location": "El Segundo, California, United States",
+    "posted": "2026-08-27T02:51:01-04:00",
+    "url": "https://job-boards.greenhouse.io/chaosindustries/jobs/5223433007",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-27T07:32:08.350474+00:00",
+    "emailed_utc": "2026-08-27T07:32:08.350474+00:00"
+  },
+  {
+    "job_id": "greenhouse:chaosindustries:5223432007",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "chaosindustries",
+    "title": "Systems Development Engineer",
+    "location": "El Segundo, California, United States",
+    "posted": "2026-08-27T02:50:12-04:00",
+    "url": "https://job-boards.greenhouse.io/chaosindustries/jobs/5223432007",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-27T07:32:08.350474+00:00",
+    "emailed_utc": "2026-08-27T07:32:08.350474+00:00"
+  },
+  {
+    "job_id": "greenhouse:chaosindustries:5223424007",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "chaosindustries",
+    "title": "Systems Engineer, Integration & Test",
+    "location": "El Segundo, California, United States",
+    "posted": "2026-08-27T01:44:53-04:00",
+    "url": "https://job-boards.greenhouse.io/chaosindustries/jobs/5223424007",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-27T07:32:08.350474+00:00",
+    "emailed_utc": "2026-08-27T07:32:08.350474+00:00"
   }
 ]
