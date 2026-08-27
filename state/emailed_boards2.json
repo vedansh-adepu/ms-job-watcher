@@ -76828,5 +76828,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-27T04:32:41.814380+00:00",
     "emailed_utc": "2026-08-27T04:32:41.814380+00:00"
+  },
+  {
+    "job_id": "greenhouse:highmetric:6166144004",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "highmetric",
+    "title": "AI Platform Engineer-Anthropic-US West",
+    "location": "USA - Remote",
+    "posted": "2026-08-26T23:40:38-04:00",
+    "url": "https://www.newrocket.com/careers/job?gh_jid=6166144004&gh_jid=6166144004",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-27T05:32:02.918923+00:00",
+    "emailed_utc": "2026-08-27T05:32:02.918923+00:00"
+  },
+  {
+    "job_id": "greenhouse:chaosindustries:5223416007",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "chaosindustries",
+    "title": "Systems Engineer, Integration & Test",
+    "location": "El Segundo, California, United States",
+    "posted": "2026-08-27T01:30:30-04:00",
+    "url": "https://job-boards.greenhouse.io/chaosindustries/jobs/5223416007",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-27T05:32:02.918923+00:00",
+    "emailed_utc": "2026-08-27T05:32:02.918923+00:00"
   }
 ]
