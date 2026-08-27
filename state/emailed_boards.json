@@ -173535,5 +173535,44 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-27T03:02:46.887113+00:00",
     "emailed_utc": "2026-08-27T03:02:46.887113+00:00"
+  },
+  {
+    "job_id": "greenhouse:aloyoga:6166035004",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "aloyoga",
+    "title": "Software Engineers",
+    "location": "Beverly Hills, California, United States",
+    "posted": "2026-08-26T21:04:27-04:00",
+    "url": "https://boards.greenhouse.io/aloyoga/jobs/6166035004?gh_jid=6166035004",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-27T04:03:18.613645+00:00",
+    "emailed_utc": "2026-08-27T04:03:18.613645+00:00"
+  },
+  {
+    "job_id": "greenhouse:andurilindustries:5223378007",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "andurilindustries",
+    "title": "Electrical Engineer, Weapon Systems ",
+    "location": "Costa Mesa, California, United States",
+    "posted": "2026-08-26T23:58:12-04:00",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5223378007?gh_jid=5223378007",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-27T04:03:18.613645+00:00",
+    "emailed_utc": "2026-08-27T04:03:18.613645+00:00"
+  },
+  {
+    "job_id": "greenhouse:andurilindustries:5223377007",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "andurilindustries",
+    "title": "Senior Electrical Engineer (Sensor Systems)",
+    "location": "Costa Mesa, California, United States",
+    "posted": "2026-08-26T23:56:33-04:00",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5223377007?gh_jid=5223377007",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-27T04:03:18.613645+00:00",
+    "emailed_utc": "2026-08-27T04:03:18.613645+00:00"
   }
 ]
