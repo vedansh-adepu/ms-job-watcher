@@ -77374,5 +77374,83 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-27T15:33:01.085633+00:00",
     "emailed_utc": "2026-08-27T15:33:01.085633+00:00"
+  },
+  {
+    "job_id": "lever:arrivelogistics:ed5b4a1d-619e-4b35-9c56-ece700a5282d",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "arrivelogistics",
+    "title": "Software Engineer",
+    "location": "Chicago, IL",
+    "posted": "2026-08-27 15:16 UTC",
+    "url": "https://jobs.lever.co/arrivelogistics/ed5b4a1d-619e-4b35-9c56-ece700a5282d",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-27T16:02:58.435789+00:00",
+    "emailed_utc": "2026-08-27T16:02:58.435789+00:00"
+  },
+  {
+    "job_id": "lever:deltasands:78ed860f-7c69-4888-9a05-e8c9006be291",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "deltasands",
+    "title": "Junior Software Engineer",
+    "location": "Colorado Springs, CO",
+    "posted": "2026-08-26 18:50 UTC",
+    "url": "https://jobs.lever.co/deltasands/78ed860f-7c69-4888-9a05-e8c9006be291",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-27T16:02:58.435789+00:00",
+    "emailed_utc": "2026-08-27T16:02:58.435789+00:00"
+  },
+  {
+    "job_id": "lever:deltasands:a6b8b420-f887-4042-8e2a-6a4ee5fa1405",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "deltasands",
+    "title": "Software Engineer",
+    "location": "Colorado Springs, CO",
+    "posted": "2026-08-26 19:32 UTC",
+    "url": "https://jobs.lever.co/deltasands/a6b8b420-f887-4042-8e2a-6a4ee5fa1405",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-27T16:02:58.435789+00:00",
+    "emailed_utc": "2026-08-27T16:02:58.435789+00:00"
+  },
+  {
+    "job_id": "lever:hatchit:ef9f679b-9359-4f72-9704-7c662c05f5f8",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "hatchit",
+    "title": "Data Engineer (DEA)",
+    "location": "Arlington, VA",
+    "posted": "2026-08-27 15:43 UTC",
+    "url": "https://jobs.lever.co/hatchit/ef9f679b-9359-4f72-9704-7c662c05f5f8",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-27T16:02:58.435789+00:00",
+    "emailed_utc": "2026-08-27T16:02:58.435789+00:00"
+  },
+  {
+    "job_id": "lever:ableserve:57c33bf2-94e1-4f3a-b559-5b0125f10664",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "ableserve",
+    "title": "Building Engineer",
+    "location": "Atlanta, GA",
+    "posted": "2026-08-27 14:37 UTC",
+    "url": "https://jobs.lever.co/ableserve/57c33bf2-94e1-4f3a-b559-5b0125f10664",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-27T16:02:58.435789+00:00",
+    "emailed_utc": "2026-08-27T16:02:58.435789+00:00"
+  },
+  {
+    "job_id": "lever:ableserve:79c5063d-c2f6-4104-a26f-71c30c5ba6f1",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "ableserve",
+    "title": "Chief Engineer",
+    "location": "Atlanta, GA",
+    "posted": "2026-08-27 15:18 UTC",
+    "url": "https://jobs.lever.co/ableserve/79c5063d-c2f6-4104-a26f-71c30c5ba6f1",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-27T16:02:58.435789+00:00",
+    "emailed_utc": "2026-08-27T16:02:58.435789+00:00"
   }
 ]
