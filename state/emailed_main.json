@@ -20343,5 +20343,31 @@
     "bucket": "yes",
     "first_seen_utc": "2026-08-27T20:54:52.012644+00:00",
     "emailed_utc": "2026-08-27T20:54:52.012644+00:00"
+  },
+  {
+    "job_id": "amazon:d346c2ee-95c5-4e78-a306-685ffe001825",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer , Amazon Leo",
+    "location": "US, WA, Redmond",
+    "posted": "August 27, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10517531/software-development-engineer-amazon-leo",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-27T21:12:00.164010+00:00",
+    "emailed_utc": "2026-08-27T21:12:00.164010+00:00"
+  },
+  {
+    "job_id": "amazon:c49855f9-f9b8-4085-b438-196c34bf78eb",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Forward Deployed Engineering Manager, AWS Forward Deployed Engineering ",
+    "location": "US, NY, New York",
+    "posted": "August 27, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10517532/forward-deployed-engineering-manager-aws-forward-deployed-engineering",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-27T21:12:00.164010+00:00",
+    "emailed_utc": "2026-08-27T21:12:00.164010+00:00"
   }
 ]
