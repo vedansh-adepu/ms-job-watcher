@@ -76373,5 +76373,57 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-27T01:03:07.086883+00:00",
     "emailed_utc": "2026-08-27T01:03:07.086883+00:00"
+  },
+  {
+    "job_id": "greenhouse:altentechnologyusa:5223310007",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "altentechnologyusa",
+    "title": "Interior Systems Engineer, Center Consoles",
+    "location": "Long Beach, California, United States",
+    "posted": "2026-08-26T20:39:05-04:00",
+    "url": "https://job-boards.greenhouse.io/altentechnologyusa/jobs/5223310007",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-27T01:32:49.629260+00:00",
+    "emailed_utc": "2026-08-27T01:32:49.629260+00:00"
+  },
+  {
+    "job_id": "greenhouse:altentechnologyusa:5223325007",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "altentechnologyusa",
+    "title": " Staff Electrical Hardware Engineer",
+    "location": "Palo Alto, California, United States",
+    "posted": "2026-08-26T21:05:44-04:00",
+    "url": "https://job-boards.greenhouse.io/altentechnologyusa/jobs/5223325007",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-27T01:32:49.629260+00:00",
+    "emailed_utc": "2026-08-27T01:32:49.629260+00:00"
+  },
+  {
+    "job_id": "greenhouse:coinbase:8160557",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "coinbase",
+    "title": "Staff Software Engineer, Compute Platform (Routing)",
+    "location": "Remote - USA",
+    "posted": "2026-08-26T20:36:40-04:00",
+    "url": "https://www.coinbase.com/careers/positions/8160557?gh_jid=8160557",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-27T01:32:49.629260+00:00",
+    "emailed_utc": "2026-08-27T01:32:49.629260+00:00"
+  },
+  {
+    "job_id": "greenhouse:highmetric:6166097004",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "highmetric",
+    "title": "Senior/Lead Forward Deployed AI Engineer-Anthropic-US West",
+    "location": "USA - Remote",
+    "posted": "2026-08-26T21:28:09-04:00",
+    "url": "https://www.newrocket.com/careers/job?gh_jid=6166097004&gh_jid=6166097004",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-27T01:32:49.629260+00:00",
+    "emailed_utc": "2026-08-27T01:32:49.629260+00:00"
   }
 ]
