@@ -76295,5 +76295,57 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-27T00:02:49.718303+00:00",
     "emailed_utc": "2026-08-27T00:02:49.718303+00:00"
+  },
+  {
+    "job_id": "greenhouse:mgproperties:5223280007",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "mgproperties",
+    "title": "Senior Data & Analytics Engineer",
+    "location": "San Diego, CA",
+    "posted": "2026-08-26T19:38:34-04:00",
+    "url": "https://job-boards.greenhouse.io/mgproperties/jobs/5223280007",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-27T00:32:19.624558+00:00",
+    "emailed_utc": "2026-08-27T00:32:19.624558+00:00"
+  },
+  {
+    "job_id": "greenhouse:northpointtechnology:8753338002",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "northpointtechnology",
+    "title": "UI/UX Engineer (Top Secret/SCI with agreement to obtain CI Poly Clearance Required)",
+    "location": "Alexandria, Virginia, United States; Chantilly, Virginia, United States; Englewood, Colorado, United States; Gaithersburg, Maryland, United States; St. Louis, Missouri, United States; Tucson, Arizona, United States",
+    "posted": "2026-08-26T19:44:52-04:00",
+    "url": "https://job-boards.greenhouse.io/northpointtechnology/jobs/8753338002",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-27T00:32:19.624558+00:00",
+    "emailed_utc": "2026-08-27T00:32:19.624558+00:00"
+  },
+  {
+    "job_id": "greenhouse:pairteam:8642973002",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "pairteam",
+    "title": "Sr. Platform Engineer (Infra Pod)",
+    "location": "Remote (United States)",
+    "posted": "2026-08-26T19:38:47-04:00",
+    "url": "https://job-boards.greenhouse.io/pairteam/jobs/8642973002",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-27T00:32:19.624558+00:00",
+    "emailed_utc": "2026-08-27T00:32:19.624558+00:00"
+  },
+  {
+    "job_id": "greenhouse:roblox:8160843",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "roblox",
+    "title": "Senior Software Engineer, Core Engine",
+    "location": "San Mateo, CA, United States",
+    "posted": "2026-08-26T20:05:46-04:00",
+    "url": "https://careers.roblox.com/jobs/8160843?gh_jid=8160843",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-27T00:32:19.624558+00:00",
+    "emailed_utc": "2026-08-27T00:32:19.624558+00:00"
   }
 ]
