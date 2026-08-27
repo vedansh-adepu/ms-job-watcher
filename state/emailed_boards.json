@@ -174913,5 +174913,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-27T17:03:23.165054+00:00",
     "emailed_utc": "2026-08-27T17:03:23.165054+00:00"
+  },
+  {
+    "job_id": "greenhouse:upstart:8161883",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "UpStart",
+    "title": "Senior Software Engineer - Machine Learning Platform",
+    "location": "United States | Remote",
+    "posted": "2026-08-27T12:22:50-04:00",
+    "url": "https://careers.upstart.com/jobs?gh_jid=8161883",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-27T17:32:54.954604+00:00",
+    "emailed_utc": "2026-08-27T17:32:54.954604+00:00"
+  },
+  {
+    "job_id": "ashby:snowflake:68b45abb-f1d6-46b2-a30e-c551076e7e7e",
+    "pipeline": "boards",
+    "platform": "ashby",
+    "company": "Snowflake",
+    "title": "Staff Software Engineer - Snowhouse ",
+    "location": "US-CA-Menlo Park",
+    "posted": "",
+    "url": "https://jobs.ashbyhq.com/snowflake/68b45abb-f1d6-46b2-a30e-c551076e7e7e",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-27T17:32:54.954604+00:00",
+    "emailed_utc": "2026-08-27T17:32:54.954604+00:00"
   }
 ]
