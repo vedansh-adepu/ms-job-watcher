@@ -79779,5 +79779,70 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-28T18:32:22.351733+00:00",
     "emailed_utc": "2026-08-28T18:32:22.351733+00:00"
+  },
+  {
+    "job_id": "greenhouse:uberfreight:5409634008",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "uberfreight",
+    "title": "Senior Identity & Access Management Engineer",
+    "location": "San Francisco, CA 94158, United States",
+    "posted": "2026-08-28T14:36:12-04:00",
+    "url": "https://job-boards.greenhouse.io/uberfreight/jobs/5409634008",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-28T19:03:09.501431+00:00",
+    "emailed_utc": "2026-08-28T19:03:09.501431+00:00"
+  },
+  {
+    "job_id": "greenhouse:uberfreight:5387585008",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "uberfreight",
+    "title": "Senior Identity & Access Management Engineer",
+    "location": "Frisco, TX 75034, United States",
+    "posted": "2026-08-28T14:36:07-04:00",
+    "url": "https://job-boards.greenhouse.io/uberfreight/jobs/5387585008",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-28T19:03:09.501431+00:00",
+    "emailed_utc": "2026-08-28T19:03:09.501431+00:00"
+  },
+  {
+    "job_id": "greenhouse:uberfreight:5409630008",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "uberfreight",
+    "title": "Senior Identity & Access Management Engineer",
+    "location": "Chicago, IL 60607, United States",
+    "posted": "2026-08-28T14:36:10-04:00",
+    "url": "https://job-boards.greenhouse.io/uberfreight/jobs/5409630008",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-28T19:03:09.501431+00:00",
+    "emailed_utc": "2026-08-28T19:03:09.501431+00:00"
+  },
+  {
+    "job_id": "lever:brillio-2:4178fcfe-88f6-4800-a629-035ed3447099",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "brillio-2",
+    "title": "Engineering Manager - R01570421",
+    "location": "New York, New York, United States",
+    "posted": "2026-08-28 17:03 UTC",
+    "url": "https://jobs.lever.co/brillio-2/4178fcfe-88f6-4800-a629-035ed3447099",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-28T19:03:09.501431+00:00",
+    "emailed_utc": "2026-08-28T19:03:09.501431+00:00"
+  },
+  {
+    "job_id": "lever:delfidiagnostics:3c56c4e9-e28e-4288-aace-b644a13753a1",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "delfidiagnostics",
+    "title": "Sr. Data Scientist, Assay Development",
+    "location": "Palo Alto, CA",
+    "posted": "2026-08-28 18:58 UTC",
+    "url": "https://jobs.lever.co/delfidiagnostics/3c56c4e9-e28e-4288-aace-b644a13753a1",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-28T19:03:09.501431+00:00",
+    "emailed_utc": "2026-08-28T19:03:09.501431+00:00"
   }
 ]
