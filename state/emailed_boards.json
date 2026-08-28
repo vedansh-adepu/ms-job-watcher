@@ -178514,5 +178514,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-28T02:31:51.453767+00:00",
     "emailed_utc": "2026-08-28T02:31:51.453767+00:00"
+  },
+  {
+    "job_id": "workday:amat:External:req:R2627417",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Applied Materials",
+    "title": "Supplier Engineer IV",
+    "location": "Santa Clara,CA",
+    "posted": "Posted Today",
+    "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Supplier-Engineer-IV_R2627417",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-28T03:03:19.568068+00:00",
+    "emailed_utc": "2026-08-28T03:03:19.568068+00:00"
+  },
+  {
+    "job_id": "workday:capitalone:Capital_One:req:R999194",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Capital One",
+    "title": "Lead Software Engineer, Full Stack",
+    "location": "Chicago, IL",
+    "posted": "Posted Today",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Chicago-IL/Lead-Software-Engineer--Full-Stack_R999194-1",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-28T03:03:19.568068+00:00",
+    "emailed_utc": "2026-08-28T03:03:19.568068+00:00"
   }
 ]
