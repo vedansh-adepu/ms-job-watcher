@@ -78804,5 +78804,57 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-28T00:38:00.487413+00:00",
     "emailed_utc": "2026-08-28T00:38:00.487413+00:00"
+  },
+  {
+    "job_id": "greenhouse:relativity:8616909002",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "relativity",
+    "title": "Senior Hardware Engineer, Power Electronics",
+    "location": "Long Beach, California, United States",
+    "posted": "2026-08-27T20:09:48-04:00",
+    "url": "https://boards.greenhouse.io/relativity/jobs/8616909002?gh_jid=8616909002",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-28T01:02:20.812729+00:00",
+    "emailed_utc": "2026-08-28T01:02:20.812729+00:00"
+  },
+  {
+    "job_id": "greenhouse:relativity:8659987002",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "relativity",
+    "title": "Staff Avionics Manufacturing Engineer",
+    "location": "Long Beach, California, United States",
+    "posted": "2026-08-27T19:36:13-04:00",
+    "url": "https://boards.greenhouse.io/relativity/jobs/8659987002?gh_jid=8659987002",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-28T01:02:20.812729+00:00",
+    "emailed_utc": "2026-08-28T01:02:20.812729+00:00"
+  },
+  {
+    "job_id": "greenhouse:skylighthq:4728617005",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "skylighthq",
+    "title": "Senior Forward Deployed Engineer (CDC)",
+    "location": "United States",
+    "posted": "2026-08-27T20:17:52-04:00",
+    "url": "https://job-boards.greenhouse.io/skylighthq/jobs/4728617005",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-28T01:02:20.812729+00:00",
+    "emailed_utc": "2026-08-28T01:02:20.812729+00:00"
+  },
+  {
+    "job_id": "greenhouse:smaamerica:5167992007",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "smaamerica",
+    "title": "Service Engineer (Needville, TX)",
+    "location": "Needville, TX",
+    "posted": "2026-08-27T19:39:33-04:00",
+    "url": "https://job-boards.greenhouse.io/smaamerica/jobs/5167992007",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-28T01:02:20.812729+00:00",
+    "emailed_utc": "2026-08-28T01:02:20.812729+00:00"
   }
 ]
