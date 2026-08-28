@@ -80377,5 +80377,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-28T22:32:51.728845+00:00",
     "emailed_utc": "2026-08-28T22:32:51.728845+00:00"
+  },
+  {
+    "job_id": "greenhouse:try-picnic:8584383002",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "try-picnic",
+    "title": "Senior Frontend Engineer",
+    "location": "New York, NY",
+    "posted": "2026-08-28T17:41:01-04:00",
+    "url": "https://job-boards.greenhouse.io/try-picnic/jobs/8584383002",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-28T22:41:25.891635+00:00",
+    "emailed_utc": "2026-08-28T22:41:25.891635+00:00"
+  },
+  {
+    "job_id": "lever:goodleap:0141a21f-3c8a-499b-98d7-0350ec407296",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "goodleap",
+    "title": "Senior Security Engineer, Product Security",
+    "location": "Remote, US",
+    "posted": "2026-08-28 21:56 UTC",
+    "url": "https://jobs.lever.co/goodleap/0141a21f-3c8a-499b-98d7-0350ec407296",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-28T22:41:25.891635+00:00",
+    "emailed_utc": "2026-08-28T22:41:25.891635+00:00"
   }
 ]
