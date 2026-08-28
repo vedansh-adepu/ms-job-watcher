@@ -179398,5 +179398,70 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-28T15:20:44.997174+00:00",
     "emailed_utc": "2026-08-28T15:20:44.997174+00:00"
+  },
+  {
+    "job_id": "workday:motorolasolutions:Careers:req:R67582",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Motorola",
+    "title": "Software Engineer",
+    "location": "Schaumburg, IL",
+    "posted": "Posted Today",
+    "url": "https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Schaumburg-IL/Software-Engineer_R67582",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-28T15:32:54.837706+00:00",
+    "emailed_utc": "2026-08-28T15:32:54.837706+00:00"
+  },
+  {
+    "job_id": "workday:nordstrom:nordstrom_careers:req:R-870537",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Nordstrom",
+    "title": "Senior Engineer 2, Merchandising (Hybrid - Seattle, WA)",
+    "location": "Seattle, WA",
+    "posted": "Posted Today",
+    "url": "https://nordstrom.wd501.myworkdayjobs.com/en-US/nordstrom_careers/job/Seattle-WA/Senior-Engineer-2--Merchandising--Hybrid---Seattle--WA-_R-870537",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-28T15:32:54.837706+00:00",
+    "emailed_utc": "2026-08-28T15:32:54.837706+00:00"
+  },
+  {
+    "job_id": "workday:ngc:Northrop_Grumman_External_Site:req:R10247763",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Northrop Grumman",
+    "title": "Systems Engineering Manager - level 3",
+    "location": "United States-Arizona-Chandler",
+    "posted": "Posted Today",
+    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Arizona-Chandler/Systems-Engineering-Manager---level-3_R10247763",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-28T15:32:54.837706+00:00",
+    "emailed_utc": "2026-08-28T15:32:54.837706+00:00"
+  },
+  {
+    "job_id": "workday:ngc:Northrop_Grumman_External_Site:req:R10248300",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Northrop Grumman",
+    "title": "Software Engineer / Principal Software Engineer (AHT)",
+    "location": "United States-Maryland-Hollywood",
+    "posted": "Posted Today",
+    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Maryland-Hollywood/Software-Engineer---Principal-Software-Engineer--AHT-_R10248300",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-28T15:32:54.837706+00:00",
+    "emailed_utc": "2026-08-28T15:32:54.837706+00:00"
+  },
+  {
+    "job_id": "workday:ngc:Northrop_Grumman_External_Site:req:R10248299",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Northrop Grumman",
+    "title": "2026 Associate Energetics Manufacturing Engineer - Elkton MD",
+    "location": "United States-Maryland-Elkton",
+    "posted": "Posted Today",
+    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Maryland-Elkton/XMLNAME-2026-Associate-Energetics-Manufacturing-Engineer---Elkton-MD_R10248299",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-28T15:32:54.837706+00:00",
+    "emailed_utc": "2026-08-28T15:32:54.837706+00:00"
   }
 ]
