@@ -79103,5 +79103,70 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-28T14:33:29.465533+00:00",
     "emailed_utc": "2026-08-28T14:33:29.465533+00:00"
+  },
+  {
+    "job_id": "greenhouse:vardaspace:7980397003",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "vardaspace",
+    "title": "Space Mission Software Engineer",
+    "location": "El Segundo, California, United States",
+    "posted": "2026-08-28T10:47:42-04:00",
+    "url": "https://job-boards.greenhouse.io/vardaspace/jobs/7980397003",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-28T15:03:34.032320+00:00",
+    "emailed_utc": "2026-08-28T15:03:34.032320+00:00"
+  },
+  {
+    "job_id": "lever:padsplit:a037c79a-6664-4fbb-842c-800c34cb1b68",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "padsplit",
+    "title": "Data Engineer (Fully Remote)",
+    "location": "Atlanta, GA",
+    "posted": "2026-08-28 13:45 UTC",
+    "url": "https://jobs.lever.co/padsplit/a037c79a-6664-4fbb-842c-800c34cb1b68",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-28T15:03:34.032320+00:00",
+    "emailed_utc": "2026-08-28T15:03:34.032320+00:00"
+  },
+  {
+    "job_id": "greenhouse:vardaspace:7980398003",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "vardaspace",
+    "title": "Senior Ground Systems Software Engineer, Space",
+    "location": "El Segundo, California, United States",
+    "posted": "2026-08-28T10:49:35-04:00",
+    "url": "https://job-boards.greenhouse.io/vardaspace/jobs/7980398003",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-28T15:03:34.032320+00:00",
+    "emailed_utc": "2026-08-28T15:03:34.032320+00:00"
+  },
+  {
+    "job_id": "greenhouse:vardaspace:7980396003",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "vardaspace",
+    "title": "Senior Space Mission Software Engineer",
+    "location": "El Segundo, California, United States",
+    "posted": "2026-08-28T10:45:28-04:00",
+    "url": "https://job-boards.greenhouse.io/vardaspace/jobs/7980396003",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-28T15:03:34.032320+00:00",
+    "emailed_utc": "2026-08-28T15:03:34.032320+00:00"
+  },
+  {
+    "job_id": "lever:isee:fcd3c618-db6c-4ed2-9412-de0477b8a2e5",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "isee",
+    "title": "Vehicle Integration Engineer - Autonomous Vehicles",
+    "location": "Dallas, TX",
+    "posted": "2025-04-02 21:48 UTC",
+    "url": "https://jobs.lever.co/isee/fcd3c618-db6c-4ed2-9412-de0477b8a2e5",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-28T15:03:34.032320+00:00",
+    "emailed_utc": "2026-08-28T15:03:34.032320+00:00"
   }
 ]
