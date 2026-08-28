@@ -178826,5 +178826,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-28T13:03:05.593920+00:00",
     "emailed_utc": "2026-08-28T13:03:05.593920+00:00"
+  },
+  {
+    "job_id": "greenhouse:spacex:8755393002",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "SpaceX",
+    "title": "Embedded Software Engineer, OS/Platform Software (Starlink)   ",
+    "location": "Redmond, WA",
+    "posted": "2026-08-28T09:00:24-04:00",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8755393002?gh_jid=8755393002",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-28T13:33:19.501398+00:00",
+    "emailed_utc": "2026-08-28T13:33:19.501398+00:00"
+  },
+  {
+    "job_id": "greenhouse:spacex:8758596002",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "SpaceX",
+    "title": "Software Engineer, Embedded Software (Starlink)",
+    "location": "Redmond, WA",
+    "posted": "2026-08-28T08:55:42-04:00",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8758596002?gh_jid=8758596002",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-28T13:33:19.501398+00:00",
+    "emailed_utc": "2026-08-28T13:33:19.501398+00:00"
   }
 ]
