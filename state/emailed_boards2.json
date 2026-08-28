@@ -78960,5 +78960,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-28T07:02:05.804022+00:00",
     "emailed_utc": "2026-08-28T07:02:05.804022+00:00"
+  },
+  {
+    "job_id": "greenhouse:valaratomics:4377500009",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "valaratomics",
+    "title": "Lead Electrical Engineer",
+    "location": "Torrance, California, United States",
+    "posted": "2026-08-28T01:40:19-04:00",
+    "url": "https://job-boards.greenhouse.io/valaratomics/jobs/4377500009",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-28T07:32:40.548022+00:00",
+    "emailed_utc": "2026-08-28T07:32:40.548022+00:00"
+  },
+  {
+    "job_id": "lever:qualdoc:ff57b09d-4985-4d0a-870c-7b93c8dca056",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "qualdoc",
+    "title": "Aircraft Certification Engineer",
+    "location": "Newport News, VA",
+    "posted": "2026-08-28 05:34 UTC",
+    "url": "https://jobs.lever.co/qualdoc/ff57b09d-4985-4d0a-870c-7b93c8dca056",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-28T07:32:40.548022+00:00",
+    "emailed_utc": "2026-08-28T07:32:40.548022+00:00"
   }
 ]
