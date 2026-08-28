@@ -178748,5 +178748,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-28T09:33:31.732327+00:00",
     "emailed_utc": "2026-08-28T09:33:31.732327+00:00"
+  },
+  {
+    "job_id": "smartrecruiters:Miratech1:744000146144319",
+    "pipeline": "boards",
+    "platform": "smartrecruiters",
+    "company": "Miratech",
+    "title": "Senior Full Stack Developer",
+    "location": "All Cities, in",
+    "posted": "2026-08-28T09:04:33.786Z",
+    "url": "https://jobs.smartrecruiters.com/Miratech1",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-28T10:03:12.495390+00:00",
+    "emailed_utc": "2026-08-28T10:03:12.495390+00:00"
+  },
+  {
+    "job_id": "workday:nvidia:NVIDIAExternalCareerSite:req:JR2022574",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "NVIDIA",
+    "title": "Senior Compute System Software Engineer",
+    "location": "US, CA, Santa Clara",
+    "posted": "Posted Today",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Compute-System-Software-Engineer_JR2022574",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-28T10:03:12.495390+00:00",
+    "emailed_utc": "2026-08-28T10:03:12.495390+00:00"
   }
 ]
