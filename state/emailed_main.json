@@ -20785,5 +20785,31 @@
     "bucket": "yes",
     "first_seen_utc": "2026-08-28T19:23:28.015624+00:00",
     "emailed_utc": "2026-08-28T19:23:28.015624+00:00"
+  },
+  {
+    "job_id": "amazon:dbae5711-45e8-438c-9f5a-7c185a6eb4d6",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, Creative Asset Library, CreativeX",
+    "location": "US, WA, Seattle",
+    "posted": "August 28, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10519943/software-development-engineer-creative-asset-library-creativex",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-28T19:31:57.309584+00:00",
+    "emailed_utc": "2026-08-28T19:31:57.309584+00:00"
+  },
+  {
+    "job_id": "amazon:27dc6e42-97e0-4359-b884-5c80b104f296",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Senior Software Eng, Amazon Robotics Manipulation",
+    "location": "US, WA, Seattle",
+    "posted": "August 28, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10519945/senior-software-eng-amazon-robotics-manipulation",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-28T19:31:57.309584+00:00",
+    "emailed_utc": "2026-08-28T19:31:57.309584+00:00"
   }
 ]
