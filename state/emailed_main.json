@@ -20811,5 +20811,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-28T19:31:57.309584+00:00",
     "emailed_utc": "2026-08-28T19:31:57.309584+00:00"
+  },
+  {
+    "job_id": "amazon:e55a68f3-9cae-4d37-9c0a-3afb834d78bc",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, AWS Route 53 Global Resolver, AWS Route 53 Global Resolver",
+    "location": "US, VA, Herndon",
+    "posted": "August 28, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10520075/software-development-engineer-aws-route-53-global-resolver-aws-route-53-global-resolver",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-28T19:41:53.317036+00:00",
+    "emailed_utc": "2026-08-28T19:41:53.317036+00:00"
+  },
+  {
+    "job_id": "amazon:084dc524-712e-4b8b-a3c4-80ed6eba0bcb",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, Route 53",
+    "location": "US, VA, Herndon",
+    "posted": "August 28, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10520050/software-development-engineer-route-53",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-28T19:41:53.317036+00:00",
+    "emailed_utc": "2026-08-28T19:41:53.317036+00:00"
   }
 ]
