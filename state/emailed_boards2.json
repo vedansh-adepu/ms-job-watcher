@@ -79376,5 +79376,57 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-28T16:35:21.030105+00:00",
     "emailed_utc": "2026-08-28T16:35:21.030105+00:00"
+  },
+  {
+    "job_id": "greenhouse:trace3:8164535",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "trace3",
+    "title": "Algorithm Software Engineer",
+    "location": "Huntsville, AL",
+    "posted": "2026-08-28T12:27:46-04:00",
+    "url": "https://job-boards.greenhouse.io/trace3/jobs/8164535",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-28T17:03:06.310104+00:00",
+    "emailed_utc": "2026-08-28T17:03:06.310104+00:00"
+  },
+  {
+    "job_id": "greenhouse:waymo:8128596",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "waymo",
+    "title": "Diagnostics Engineer",
+    "location": "Mountain View, CA, USA ",
+    "posted": "2026-08-28T12:10:07-04:00",
+    "url": "https://careers.withwaymo.com/jobs?gh_jid=8128596",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-28T17:03:06.310104+00:00",
+    "emailed_utc": "2026-08-28T17:03:06.310104+00:00"
+  },
+  {
+    "job_id": "greenhouse:zscaler:5223333007",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "zscaler",
+    "title": "Senior Principal Software Engineer",
+    "location": "Bellevue, Washington, USA; Remote - USA; San Jose, California, USA",
+    "posted": "2026-08-28T11:58:30-04:00",
+    "url": "https://job-boards.greenhouse.io/zscaler/jobs/5223333007",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-28T17:03:06.310104+00:00",
+    "emailed_utc": "2026-08-28T17:03:06.310104+00:00"
+  },
+  {
+    "job_id": "lever:agile-defense:857da9ba-80c8-4155-b659-a28390fa524a",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "agile-defense",
+    "title": "Network Design Engineer Lead",
+    "location": "McLean, VA",
+    "posted": "2026-08-28 15:36 UTC",
+    "url": "https://jobs.lever.co/agile-defense/857da9ba-80c8-4155-b659-a28390fa524a",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-28T17:03:06.310104+00:00",
+    "emailed_utc": "2026-08-28T17:03:06.310104+00:00"
   }
 ]
