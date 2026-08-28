@@ -20616,5 +20616,18 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-28T02:01:57.570921+00:00",
     "emailed_utc": "2026-08-28T02:01:57.570921+00:00"
+  },
+  {
+    "job_id": "amazon:32cc4a2a-e69d-4893-83b2-36b7f9048bcb",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Applied Scientist II, WWOS Tech",
+    "location": "US, WA, Seattle",
+    "posted": "August 28, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10517856/applied-scientist-ii-wwos-tech",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-28T07:31:55.011247+00:00",
+    "emailed_utc": "2026-08-28T07:31:55.011247+00:00"
   }
 ]
