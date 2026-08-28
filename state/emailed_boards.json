@@ -179606,5 +179606,57 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-28T16:32:48.231678+00:00",
     "emailed_utc": "2026-08-28T16:32:48.231678+00:00"
+  },
+  {
+    "job_id": "greenhouse:logicgate:4727022005",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Logicgate",
+    "title": "Test Engineer (SDET)",
+    "location": "Remote - United States",
+    "posted": "2026-08-28T11:06:33-04:00",
+    "url": "https://job-boards.greenhouse.io/logicgate/jobs/4727022005",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-28T17:01:21.621632+00:00",
+    "emailed_utc": "2026-08-28T17:01:21.621632+00:00"
+  },
+  {
+    "job_id": "lever:hermeus:4b1f62d7-4a70-4d79-b83d-f8a6cae6ccaa",
+    "pipeline": "boards",
+    "platform": "lever",
+    "company": "Hermeus",
+    "title": "Autonomy Software Engineer",
+    "location": "Los Angeles, CA",
+    "posted": "2026-08-28 15:55 UTC",
+    "url": "https://jobs.lever.co/hermeus/4b1f62d7-4a70-4d79-b83d-f8a6cae6ccaa",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-28T17:01:21.621632+00:00",
+    "emailed_utc": "2026-08-28T17:01:21.621632+00:00"
+  },
+  {
+    "job_id": "greenhouse:meriton:5409279008",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Meriton",
+    "title": "Senior Exchange Engineer",
+    "location": "Irving, TX; Phoenix, AZ; Tampa, FL",
+    "posted": "2026-08-28T10:55:27-04:00",
+    "url": "https://job-boards.greenhouse.io/meriton/jobs/5409279008",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-28T17:01:21.621632+00:00",
+    "emailed_utc": "2026-08-28T17:01:21.621632+00:00"
+  },
+  {
+    "job_id": "lever:hermeus:57b7c954-2e19-4875-823a-278d84be3018",
+    "pipeline": "boards",
+    "platform": "lever",
+    "company": "Hermeus",
+    "title": "Senior Autonomy Software Engineer",
+    "location": "Los Angeles, CA",
+    "posted": "2026-08-28 15:57 UTC",
+    "url": "https://jobs.lever.co/hermeus/57b7c954-2e19-4875-823a-278d84be3018",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-28T17:01:21.621632+00:00",
+    "emailed_utc": "2026-08-28T17:01:21.621632+00:00"
   }
 ]
