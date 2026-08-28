@@ -178189,5 +178189,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-28T00:26:43.368177+00:00",
     "emailed_utc": "2026-08-28T00:26:43.368177+00:00"
+  },
+  {
+    "job_id": "workday:disney:disneycareer:req:10154338",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Disney",
+    "title": "Associate Production Engineer",
+    "location": "Los Angeles, CA, USA",
+    "posted": "Posted Today",
+    "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Los-Angeles-CA-USA/Associate-Production-Engineer_10154338",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-28T00:33:32.924440+00:00",
+    "emailed_utc": "2026-08-28T00:33:32.924440+00:00"
+  },
+  {
+    "job_id": "workday:leidos:External:req:R-00190832",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Leidos",
+    "title": "Chemical/Mechanical Engineer",
+    "location": "Wharton, NJ",
+    "posted": "Posted Today",
+    "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Wharton-NJ/Chemical-Mechanical-Engineer_R-00190832",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-28T00:33:32.924440+00:00",
+    "emailed_utc": "2026-08-28T00:33:32.924440+00:00"
   }
 ]
