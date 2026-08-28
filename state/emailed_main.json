@@ -20746,5 +20746,31 @@
     "bucket": "yes",
     "first_seen_utc": "2026-08-28T19:01:55.659642+00:00",
     "emailed_utc": "2026-08-28T19:01:55.659642+00:00"
+  },
+  {
+    "job_id": "amazon:c9c1bec6-51cb-48ac-963a-ddda8bfb4220",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "SDE, AWS OpenSearch Service, Opensearch",
+    "location": "US, TX, Austin",
+    "posted": "August 28, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10519714/sde-aws-opensearch-service-opensearch",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-28T19:11:43.546243+00:00",
+    "emailed_utc": "2026-08-28T19:11:43.546243+00:00"
+  },
+  {
+    "job_id": "amazon:01c60340-29e0-4e3c-8d4d-ea0fee8d5fe8",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Systems Development Engineer II, AWS Edge Connectivity Services",
+    "location": "US, VA, Arlington",
+    "posted": "August 28, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10519884/systems-development-engineer-ii-aws-edge-connectivity-services",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-28T19:11:43.546243+00:00",
+    "emailed_utc": "2026-08-28T19:11:43.546243+00:00"
   }
 ]
