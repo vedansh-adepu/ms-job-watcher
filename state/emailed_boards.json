@@ -179463,5 +179463,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-28T15:32:54.837706+00:00",
     "emailed_utc": "2026-08-28T15:32:54.837706+00:00"
+  },
+  {
+    "job_id": "greenhouse:spacex:8752547002",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "SpaceX",
+    "title": "New Graduate Engineer, Manufacturing (Starshield)",
+    "location": "Hawthorne, CA",
+    "posted": "2026-08-28T11:47:02-04:00",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8752547002?gh_jid=8752547002",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-28T16:03:15.353223+00:00",
+    "emailed_utc": "2026-08-28T16:03:15.353223+00:00"
+  },
+  {
+    "job_id": "greenhouse:tenableinc:5409252008",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Tenable",
+    "title": "Senior Research Engineer",
+    "location": "US - Hybrid - Massachusetts - Boston, US - Headquarters - Maryland - Columbia",
+    "posted": "2026-08-28T10:20:31-04:00",
+    "url": "https://job-boards.greenhouse.io/tenableinc/jobs/5409252008",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-28T16:03:15.353223+00:00",
+    "emailed_utc": "2026-08-28T16:03:15.353223+00:00"
   }
 ]
