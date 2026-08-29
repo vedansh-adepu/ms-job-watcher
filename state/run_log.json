@@ -1,20 +1,5 @@
 [
   {
-    "ts": "2026-08-22T15:04Z",
-    "mode": "boards",
-    "per_source": {
-      "workday": {
-        "fetched": 8098,
-        "title_ok": 83,
-        "loc_ok": 10,
-        "new": 4,
-        "emailed": 4
-      }
-    },
-    "duration_s": 177.7,
-    "cursor": 1220
-  },
-  {
     "ts": "2026-08-22T15:11Z",
     "mode": "main",
     "per_source": {
@@ -41917,5 +41902,56 @@
     },
     "duration_s": 63.2,
     "cursor": 1000
+  },
+  {
+    "ts": "2026-08-29T04:11Z",
+    "mode": "main",
+    "per_source": {
+      "microsoft": {
+        "fetched": 235,
+        "title_ok": 125,
+        "loc_ok": 125,
+        "new": 0,
+        "emailed": 0
+      },
+      "amazon": {
+        "fetched": 300,
+        "title_ok": 282,
+        "loc_ok": 282,
+        "new": 0,
+        "emailed": 0
+      },
+      "nvidia": {
+        "fetched": 0,
+        "title_ok": 0,
+        "loc_ok": 0,
+        "new": 0,
+        "emailed": 0,
+        "error": "NVIDIA fetch: HTTPError: 429 Client Error: TOO MANY REQUESTS for url: https://nvidia.eightfold.ai/api/pcsx/search?domain=nvidia.com&query=&location=united+states&start=0&sort_by=timestamp&filter_include_remote=1&filter_job_category=engineering&filter_job_type=regular+employee&filter_time_type=full+time&filter_hiring_title=Software+Engineer&filter_hiring_title=Machine+Learning+Engineer&filter_hiring_title=Artificial+Intelligence&filter_hiring_title=machine+learning&filter_hiring_title=software+development+engineer&filter_hiring_title=data"
+      },
+      "goldman_sachs": {
+        "fetched": 0,
+        "title_ok": 0,
+        "loc_ok": 0,
+        "new": 0,
+        "emailed": 0
+      },
+      "ibm": {
+        "fetched": 38,
+        "title_ok": 31,
+        "loc_ok": 13,
+        "new": 0,
+        "emailed": 0
+      },
+      "oracle": {
+        "fetched": 0,
+        "title_ok": 0,
+        "loc_ok": 0,
+        "new": 0,
+        "emailed": 0
+      }
+    },
+    "duration_s": 14.6,
+    "cursor": null
   }
 ]
