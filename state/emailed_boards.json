@@ -182583,5 +182583,44 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-29T01:45:18.584021+00:00",
     "emailed_utc": "2026-08-29T01:45:18.584021+00:00"
+  },
+  {
+    "job_id": "greenhouse:andurilindustries:5220217007",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "andurilindustries",
+    "title": "Lead Quality Systems Engineer - Maritime",
+    "location": "Quincy, Massachusetts, United States",
+    "posted": "2026-08-28T20:21:36-04:00",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5220217007?gh_jid=5220217007",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-29T02:03:13.387772+00:00",
+    "emailed_utc": "2026-08-29T02:03:13.387772+00:00"
+  },
+  {
+    "job_id": "workday:blueorigin:BlueOrigin:req:R68147",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Blue Origin",
+    "title": "Manufacturing Engineer",
+    "location": "Huntsville, AL",
+    "posted": "Posted Today",
+    "url": "https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Huntsville-AL/Manufacturing-Engineer_R68147-1",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-29T02:03:13.387772+00:00",
+    "emailed_utc": "2026-08-29T02:03:13.387772+00:00"
+  },
+  {
+    "job_id": "workday:citi:2:req:26987262",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Citigroup",
+    "title": "Equity Research Senior Associate, U.S. Multi-Industry and Engineering & Construction",
+    "location": "New York New York United States",
+    "posted": "Posted Today",
+    "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/New-York-New-York-United-States/Equity-Research-Associate--Transportation---Shipping_26987262",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-29T02:03:13.387772+00:00",
+    "emailed_utc": "2026-08-29T02:03:13.387772+00:00"
   }
 ]
