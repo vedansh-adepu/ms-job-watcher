@@ -80624,5 +80624,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-29T01:31:41.001107+00:00",
     "emailed_utc": "2026-08-29T01:31:41.001107+00:00"
+  },
+  {
+    "job_id": "greenhouse:lightfeatheriollc:5409827008",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "lightfeatheriollc",
+    "title": "ServiceNow Platform Engineer",
+    "location": "Washington, DC ",
+    "posted": "2026-08-28T20:24:54-04:00",
+    "url": "https://job-boards.greenhouse.io/lightfeatheriollc/jobs/5409827008",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-29T02:02:24.323531+00:00",
+    "emailed_utc": "2026-08-29T02:02:24.323531+00:00"
+  },
+  {
+    "job_id": "greenhouse:lightfeatheriollc:5409826008",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "lightfeatheriollc",
+    "title": "ServiceNow CMDB Engineer",
+    "location": "Washington, DC ",
+    "posted": "2026-08-28T20:25:26-04:00",
+    "url": "https://job-boards.greenhouse.io/lightfeatheriollc/jobs/5409826008",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-29T02:02:24.323531+00:00",
+    "emailed_utc": "2026-08-29T02:02:24.323531+00:00"
   }
 ]
