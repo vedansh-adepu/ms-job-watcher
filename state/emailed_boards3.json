@@ -453568,5 +453568,18 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-29T09:13:10.276010+00:00",
     "emailed_utc": "2026-08-29T09:13:10.276010+00:00"
+  },
+  {
+    "job_id": "workday:equifax:external:req:J00178640",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Equifax",
+    "title": "Senior HR Business Partner, Global Data & Analytics",
+    "location": "USA - Georgia - Alpharetta - 30005",
+    "posted": "Posted 3 Days Ago",
+    "url": "https://equifax.wd5.myworkdayjobs.com/en-US/external/job/USA---Georgia---Alpharetta---30005/Senior-HR-Business-Partner--Global-Data---Analytics_J00178640",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-29T09:33:31.777136+00:00",
+    "emailed_utc": "2026-08-29T09:33:31.777136+00:00"
   }
 ]
