@@ -80546,5 +80546,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-28T23:32:11.999610+00:00",
     "emailed_utc": "2026-08-28T23:32:11.999610+00:00"
+  },
+  {
+    "job_id": "greenhouse:roblox:8060254",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "roblox",
+    "title": "Software Engineer, Economy Platform",
+    "location": "San Mateo, CA, United States",
+    "posted": "2026-08-28T18:57:08-04:00",
+    "url": "https://careers.roblox.com/jobs/8060254?gh_jid=8060254",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-29T00:02:30.413550+00:00",
+    "emailed_utc": "2026-08-29T00:02:30.413550+00:00"
+  },
+  {
+    "job_id": "greenhouse:relativity:8733881002",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "relativity",
+    "title": "Senior Embedded Software Engineer, Linux",
+    "location": "Long Beach, California, United States",
+    "posted": "2026-08-28T19:31:55-04:00",
+    "url": "https://boards.greenhouse.io/relativity/jobs/8733881002?gh_jid=8733881002",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-29T00:02:30.413550+00:00",
+    "emailed_utc": "2026-08-29T00:02:30.413550+00:00"
   }
 ]
