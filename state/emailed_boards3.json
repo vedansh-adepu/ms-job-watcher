@@ -453555,5 +453555,18 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-25T03:03:48.601910+00:00",
     "emailed_utc": "2026-08-25T03:03:48.601910+00:00"
+  },
+  {
+    "job_id": "workday:entegris:entegriscareers:req:REQ-13877",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Entegris",
+    "title": "Engineer II, Mechanical Engineering",
+    "location": "San Luis Obispo, CA",
+    "posted": "Posted 4 Days Ago",
+    "url": "https://entegris.wd1.myworkdayjobs.com/en-US/entegriscareers/job/San-Luis-Obispo-CA/Engineer-II--Mechanical-Engineering_REQ-13877",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-29T09:13:10.276010+00:00",
+    "emailed_utc": "2026-08-29T09:13:10.276010+00:00"
   }
 ]
