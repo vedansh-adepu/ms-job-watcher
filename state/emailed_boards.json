@@ -182869,5 +182869,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-29T05:33:33.136057+00:00",
     "emailed_utc": "2026-08-29T05:33:33.136057+00:00"
+  },
+  {
+    "job_id": "greenhouse:anthropic:5409055008",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Anthropic",
+    "title": "Director, Finance Systems - Revenue Systems Engineering",
+    "location": "San Francisco, CA | Seattle, WA",
+    "posted": "2026-08-29T02:34:37-04:00",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5409055008",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-29T08:03:12.761989+00:00",
+    "emailed_utc": "2026-08-29T08:03:12.761989+00:00"
+  },
+  {
+    "job_id": "workday:abbott:abbottcareers:req:31159449",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Abbott",
+    "title": "Senior Mechanical R&D Engineer",
+    "location": "United States - Texas - Plano",
+    "posted": "Posted Today",
+    "url": "https://abbott.wd5.myworkdayjobs.com/en-US/abbottcareers/job/United-States---Texas---Plano/Senior-Mechanical-R-D-Engineer_31159449-2",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-29T08:03:12.761989+00:00",
+    "emailed_utc": "2026-08-29T08:03:12.761989+00:00"
   }
 ]
