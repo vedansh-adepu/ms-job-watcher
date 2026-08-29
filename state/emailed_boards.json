@@ -182895,5 +182895,18 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-29T08:03:12.761989+00:00",
     "emailed_utc": "2026-08-29T08:03:12.761989+00:00"
+  },
+  {
+    "job_id": "workday:nordstrom:nordstrom_careers:req:R-870648",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Nordstrom",
+    "title": "Sr. Engineer, Exchange & Microsoft 365 Platforms (Hybrid - Seattle, WA)",
+    "location": "Seattle, WA",
+    "posted": "Posted Today",
+    "url": "https://nordstrom.wd501.myworkdayjobs.com/en-US/nordstrom_careers/job/Seattle-WA/Sr-Engineer--Exchange---Microsoft-365-Platforms--Hybrid---Seattle--WA-_R-870648",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-29T09:02:55.489306+00:00",
+    "emailed_utc": "2026-08-29T09:02:55.489306+00:00"
   }
 ]
