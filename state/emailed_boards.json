@@ -182622,5 +182622,44 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-29T02:03:13.387772+00:00",
     "emailed_utc": "2026-08-29T02:03:13.387772+00:00"
+  },
+  {
+    "job_id": "workday:disney:disneycareer:req:10158818",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Disney",
+    "title": "Analyst, Licensing Analytics",
+    "location": "Glendale, CA, USA",
+    "posted": "Posted Today",
+    "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Glendale-CA-USA/Analyst--Licensing-Analytics_10158818-2",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-29T02:33:19.910226+00:00",
+    "emailed_utc": "2026-08-29T02:33:19.910226+00:00"
+  },
+  {
+    "job_id": "workday:disney:disneycareer:req:10158799",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Disney",
+    "title": "Analyst, Licensing Analytics",
+    "location": "Glendale, CA, USA",
+    "posted": "Posted Today",
+    "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Glendale-CA-USA/Analyst--Licensing-Analytics_10158799",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-29T02:33:19.910226+00:00",
+    "emailed_utc": "2026-08-29T02:33:19.910226+00:00"
+  },
+  {
+    "job_id": "workday:disney:disneycareer:req:10158821",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Disney",
+    "title": "Analyst, Licensing Analytics",
+    "location": "Glendale, CA, USA",
+    "posted": "Posted Today",
+    "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Glendale-CA-USA/Analyst--Licensing-Analytics_10158821",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-29T02:33:19.910226+00:00",
+    "emailed_utc": "2026-08-29T02:33:19.910226+00:00"
   }
 ]
