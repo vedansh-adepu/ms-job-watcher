@@ -470884,5 +470884,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-29T22:05:06.723621+00:00",
     "emailed_utc": "2026-08-29T22:05:06.723621+00:00"
+  },
+  {
+    "job_id": "workday:hexcel:hexcelcareers:req:R020517",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Hexcel",
+    "title": "Process Engineer II",
+    "location": "USA - AZ - Casa Grande",
+    "posted": "Posted 5 Days Ago",
+    "url": "https://hexcel.wd5.myworkdayjobs.com/en-US/hexcelcareers/job/USA---AZ---Casa-Grande/Process-Engineer-II_R020517",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-29T23:03:13.583009+00:00",
+    "emailed_utc": "2026-08-29T23:03:13.583009+00:00"
+  },
+  {
+    "job_id": "workday:heinz:kraftheinz_careers:req:R-106111",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Heinz",
+    "title": "Sr. Project Engineer",
+    "location": "Champaign, IL",
+    "posted": "Posted 2 Days Ago",
+    "url": "https://heinz.wd1.myworkdayjobs.com/en-US/kraftheinz_careers/job/Champaign-IL/Sr-Project-Engineer_R-106111",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-29T23:03:13.583009+00:00",
+    "emailed_utc": "2026-08-29T23:03:13.583009+00:00"
   }
 ]
