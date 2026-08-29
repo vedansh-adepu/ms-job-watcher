@@ -182856,5 +182856,18 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-29T04:31:59.583821+00:00",
     "emailed_utc": "2026-08-29T04:31:59.583821+00:00"
+  },
+  {
+    "job_id": "workday:gdit:External_Career_Site:req:RQ226904",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "General Dynamics Information Technology (GDIT)",
+    "title": "Engineering Technician II",
+    "location": "USA RI Newport",
+    "posted": "Posted Today",
+    "url": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-RI-Newport/Engineering-Technician-II_RQ226904-1",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-29T05:33:33.136057+00:00",
+    "emailed_utc": "2026-08-29T05:33:33.136057+00:00"
   }
 ]
