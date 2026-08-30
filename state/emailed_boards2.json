@@ -80741,5 +80741,57 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-30T22:02:23.358693+00:00",
     "emailed_utc": "2026-08-30T22:02:23.358693+00:00"
+  },
+  {
+    "job_id": "greenhouse:lusternational:5389856008",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "lusternational",
+    "title": "Field Engineer",
+    "location": "New Jersey, USA; New York, USA; Washington, District of Columbia, United States",
+    "posted": "2026-08-30T18:14:34-04:00",
+    "url": "https://job-boards.greenhouse.io/lusternational/jobs/5389856008",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-30T23:53:05.456927+00:00",
+    "emailed_utc": "2026-08-30T23:53:05.456927+00:00"
+  },
+  {
+    "job_id": "greenhouse:lusternational:5389854008",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "lusternational",
+    "title": "Field Engineer",
+    "location": "California, USA",
+    "posted": "2026-08-30T18:14:34-04:00",
+    "url": "https://job-boards.greenhouse.io/lusternational/jobs/5389854008",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-30T23:53:05.456927+00:00",
+    "emailed_utc": "2026-08-30T23:53:05.456927+00:00"
+  },
+  {
+    "job_id": "greenhouse:lusternational:5389899008",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "lusternational",
+    "title": "Office Engineer",
+    "location": "California, USA",
+    "posted": "2026-08-30T18:14:34-04:00",
+    "url": "https://job-boards.greenhouse.io/lusternational/jobs/5389899008",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-30T23:53:05.456927+00:00",
+    "emailed_utc": "2026-08-30T23:53:05.456927+00:00"
+  },
+  {
+    "job_id": "greenhouse:lusternational:5389901008",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "lusternational",
+    "title": "Office Engineer",
+    "location": "Maryland, USA; New Jersey, USA; New York, USA; Washington, District of Columbia, United States",
+    "posted": "2026-08-30T18:14:34-04:00",
+    "url": "https://job-boards.greenhouse.io/lusternational/jobs/5389901008",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-30T23:53:05.456927+00:00",
+    "emailed_utc": "2026-08-30T23:53:05.456927+00:00"
   }
 ]
