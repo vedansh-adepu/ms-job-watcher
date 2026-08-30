@@ -490462,5 +490462,70 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-30T12:33:03.571888+00:00",
     "emailed_utc": "2026-08-30T12:33:03.571888+00:00"
+  },
+  {
+    "job_id": "workday:aptiv:aptiv_careers:req:9962",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Aptiv",
+    "title": "College Permanent Hire - Embedded Software Engineer for Professional Services",
+    "location": "USA San Diego, CA - WR",
+    "posted": "Posted 4 Days Ago",
+    "url": "https://aptiv.wd5.myworkdayjobs.com/en-US/aptiv_careers/job/USA-San-Diego-CA---WR/College-Permanent-Hire---Embedded-Software-Engineer-for-Professional-Services_9962",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-30T13:03:50.531313+00:00",
+    "emailed_utc": "2026-08-30T13:03:50.531313+00:00"
+  },
+  {
+    "job_id": "workday:aptiv:aptiv_careers:req:J000702202",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Aptiv",
+    "title": "Senior Mechanical Engineer",
+    "location": "Troy, MI - USA",
+    "posted": "Posted 3 Days Ago",
+    "url": "https://aptiv.wd5.myworkdayjobs.com/en-US/aptiv_careers/job/Troy-MI---USA/Senior-Mechanical-Engineer_J000702202",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-30T13:03:50.531313+00:00",
+    "emailed_utc": "2026-08-30T13:03:50.531313+00:00"
+  },
+  {
+    "job_id": "workday:aptiv:aptiv_careers:req:J000702692",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Aptiv",
+    "title": "Embedded Engineering Manager - Robotics & Drones",
+    "location": "Troy, MI - USA",
+    "posted": "Posted 4 Days Ago",
+    "url": "https://aptiv.wd5.myworkdayjobs.com/en-US/aptiv_careers/job/Troy-MI---USA/Embedded-Engineering-Manager---Robotics---Drones_J000702692",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-30T13:03:50.531313+00:00",
+    "emailed_utc": "2026-08-30T13:03:50.531313+00:00"
+  },
+  {
+    "job_id": "workday:aptiv:aptiv_careers:req:J000702694",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Aptiv",
+    "title": "Software Architect \u2013 Robotics & Drones",
+    "location": "Troy, MI - USA",
+    "posted": "Posted 4 Days Ago",
+    "url": "https://aptiv.wd5.myworkdayjobs.com/en-US/aptiv_careers/job/Troy-MI---USA/Software-Architect---Robotics---Drones_J000702694",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-30T13:03:50.531313+00:00",
+    "emailed_utc": "2026-08-30T13:03:50.531313+00:00"
+  },
+  {
+    "job_id": "workday:aresmgmt:external:req:R8299",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Aresmgmt",
+    "title": "Staff Engineer, Network Engineering\u00a0",
+    "location": "Los Angeles, CA - Century City",
+    "posted": "",
+    "url": "https://aresmgmt.wd1.myworkdayjobs.com/en-US/external/job/Los-Angeles-CA---Century-City/Staff-Engineer--Network-Engineering-_R8299",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-30T13:03:50.531313+00:00",
+    "emailed_utc": "2026-08-30T13:03:50.531313+00:00"
   }
 ]
