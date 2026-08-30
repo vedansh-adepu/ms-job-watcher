@@ -41849,48 +41849,34 @@
     "cursor": null
   },
   {
-    "ts": "2026-08-30T23:27Z",
-    "mode": "main",
+    "ts": "2026-08-30T23:30Z",
+    "mode": "boards",
     "per_source": {
-      "microsoft": {
-        "fetched": 220,
-        "title_ok": 117,
-        "loc_ok": 117,
+      "greenhouse": {
+        "fetched": 4752,
+        "title_ok": 1358,
+        "loc_ok": 569,
+        "new": 1,
+        "emailed": 1
+      },
+      "lever": {
+        "fetched": 617,
+        "title_ok": 128,
+        "loc_ok": 84,
         "new": 0,
         "emailed": 0
       },
-      "amazon": {
-        "fetched": 300,
-        "title_ok": 282,
-        "loc_ok": 282,
-        "new": 0,
-        "emailed": 0
-      },
-      "nvidia": {
-        "fetched": 20,
-        "title_ok": 19,
-        "loc_ok": 19,
-        "new": 0,
-        "emailed": 0
-      },
-      "goldman_sachs": {
-        "fetched": 0,
-        "title_ok": 0,
+      "ashby": {
+        "fetched": 1,
+        "title_ok": 1,
         "loc_ok": 0,
         "new": 0,
         "emailed": 0
       },
-      "ibm": {
-        "fetched": 37,
-        "title_ok": 30,
-        "loc_ok": 13,
-        "new": 0,
-        "emailed": 0
-      },
-      "oracle": {
-        "fetched": 0,
-        "title_ok": 0,
-        "loc_ok": 0,
+      "workday": {
+        "fetched": 9593,
+        "title_ok": 2138,
+        "loc_ok": 783,
         "new": 0,
         "emailed": 0
       }
