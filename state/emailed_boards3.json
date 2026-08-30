@@ -478632,5 +478632,18 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-30T06:05:16.830302+00:00",
     "emailed_utc": "2026-08-30T06:05:16.830302+00:00"
+  },
+  {
+    "job_id": "workday:acrt:careerbuilder:req:R8934",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Acrt",
+    "title": "Civil Project Engineer",
+    "location": "Stow, OH",
+    "posted": "Posted 5 Days Ago",
+    "url": "https://acrt.wd1.myworkdayjobs.com/en-US/careerbuilder/job/Stow-OH/Civil-Project-Engineer_R8934-4",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-30T06:33:12.651254+00:00",
+    "emailed_utc": "2026-08-30T06:33:12.651254+00:00"
   }
 ]
