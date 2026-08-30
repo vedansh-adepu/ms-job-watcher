@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-08-30T03:04:31.461095+00:00",
+  "updated_utc": "2026-08-30T03:33:33.693390+00:00",
   "seen_ids": [
     "workday:2020companies:external_careers:req:106802",
     "workday:2020companies:external_careers:req:107205",
@@ -15454,6 +15454,7 @@
     "workday:intel:external:req:JR0282731",
     "workday:intel:external:req:JR0282763",
     "workday:intel:external:req:JR0283358",
+    "workday:intel:external:req:JR0283603",
     "workday:intel:external:req:JR0283627",
     "workday:intel:external:req:JR0283718",
     "workday:intel:external:req:JR0283729",
@@ -15629,6 +15630,7 @@
     "workday:intel:external:req:JR0285968",
     "workday:intel:external:req:JR0285971",
     "workday:intel:external:req:JR0286043",
+    "workday:intel:external:req:JR0286046",
     "workday:intel:external:req:JR0286054",
     "workday:intel:external:req:JR0286055",
     "workday:intel:external:req:JR0286058",
@@ -15690,11 +15692,23 @@
     "workday:intel:external:req:JR0286517",
     "workday:intel:external:req:JR0286520",
     "workday:intel:external:req:JR0286521",
+    "workday:intel:external:req:JR0286522",
     "workday:intel:external:req:JR0286524",
     "workday:intel:external:req:JR0286529",
     "workday:intel:external:req:JR0286534",
+    "workday:intel:external:req:JR0286550",
+    "workday:intel:external:req:JR0286552",
     "workday:intel:external:req:JR0286568",
     "workday:intel:external:req:JR0286575",
+    "workday:intel:external:req:JR0286599",
+    "workday:intel:external:req:JR0286648",
+    "workday:intel:external:req:JR0286649",
+    "workday:intel:external:req:JR0286650",
+    "workday:intel:external:req:JR0286667",
+    "workday:intel:external:req:JR0286668",
+    "workday:intel:external:req:JR0286671",
+    "workday:intel:external:req:JR0286687",
+    "workday:intel:external:req:JR0286742",
     "workday:intelliatx:intelliatxcareers:req:R1119",
     "workday:interface:interface:req:R4030",
     "workday:interface:interface:req:R4125",
@@ -15729,6 +15743,7 @@
     "workday:invenergyllc:invenergycareers:req:R11146",
     "workday:invenergyllc:invenergycareers:req:R11147",
     "workday:invenergyllc:invenergycareers:req:R11282",
+    "workday:invenergyllc:invenergycareers:req:R11307",
     "workday:invenergyllc:invenergyllc:req:R10028",
     "workday:invenergyllc:invenergyllc:req:R10306",
     "workday:invenergyllc:invenergyllc:req:R10378",
@@ -15757,6 +15772,7 @@
     "workday:invenergyllc:invenergyllc:req:R11093",
     "workday:invenergyllc:invenergyllc:req:R11146",
     "workday:invenergyllc:invenergyllc:req:R11147",
-    "workday:invenergyllc:invenergyllc:req:R11282"
+    "workday:invenergyllc:invenergyllc:req:R11282",
+    "workday:invenergyllc:invenergyllc:req:R11307"
   ]
 }
