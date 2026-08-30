@@ -183168,5 +183168,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-30T13:03:03.897610+00:00",
     "emailed_utc": "2026-08-30T13:03:03.897610+00:00"
+  },
+  {
+    "job_id": "greenhouse:accenturefederalservices:4707769006",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Accenture Federal Services",
+    "title": "Customer Analytics Specialist",
+    "location": "Washington, DC",
+    "posted": "2026-08-30T12:27:29-04:00",
+    "url": "https://boards.greenhouse.io/accenturefederalservices/jobs/4707769006?gh_jid=4707769006",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-30T17:03:18.857465+00:00",
+    "emailed_utc": "2026-08-30T17:03:18.857465+00:00"
+  },
+  {
+    "job_id": "workday:abbott:abbottcareers:req:31159354",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Abbott",
+    "title": "Senior Packaging Engineer",
+    "location": "United States - Illinois - Buffalo Grove",
+    "posted": "Posted Today",
+    "url": "https://abbott.wd5.myworkdayjobs.com/en-US/abbottcareers/job/United-States---Illinois---Buffalo-Grove/Senior-Packaging-Engineer_31159354-1",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-30T17:03:18.857465+00:00",
+    "emailed_utc": "2026-08-30T17:03:18.857465+00:00"
   }
 ]
