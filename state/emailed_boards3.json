@@ -484716,5 +484716,18 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-30T08:34:10.401320+00:00",
     "emailed_utc": "2026-08-30T08:34:10.401320+00:00"
+  },
+  {
+    "job_id": "workday:alcoa:careers:req:Req-38757",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Alcoa",
+    "title": "Power Engineer",
+    "location": "United States, IN, Newburgh",
+    "posted": "Posted 5 Days Ago",
+    "url": "https://alcoa.wd5.myworkdayjobs.com/en-US/careers/job/United-States-IN-Newburgh/Power-Engineer_Req-38757",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-30T09:03:49.785493+00:00",
+    "emailed_utc": "2026-08-30T09:03:49.785493+00:00"
   }
 ]
