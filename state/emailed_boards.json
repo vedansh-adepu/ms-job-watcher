@@ -183012,5 +183012,57 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-30T01:32:34.175976+00:00",
     "emailed_utc": "2026-08-30T01:32:34.175976+00:00"
+  },
+  {
+    "job_id": "workday:gdit:External_Career_Site:req:RQ227372",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "General Dynamics Information Technology (GDIT)",
+    "title": "HPC Engineering Team Lead",
+    "location": "USA MD Rockville",
+    "posted": "Posted Today",
+    "url": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-MD-Rockville/HPC-Engineering-Team-Lead_RQ227372-1",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-30T04:03:10.719627+00:00",
+    "emailed_utc": "2026-08-30T04:03:10.719627+00:00"
+  },
+  {
+    "job_id": "workday:gdit:External_Career_Site:req:RQ227322",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "General Dynamics Information Technology (GDIT)",
+    "title": "ICAM Identity Provider (IdP) Engineer \u2013 Enterprise Authentication Services",
+    "location": "USA MD Fort Meade",
+    "posted": "Posted Today",
+    "url": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-MD-Fort-Meade/ICAM-Identity-Provider--IdP--Engineer---Enterprise-Authentication-Services_RQ227322",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-30T04:03:10.719627+00:00",
+    "emailed_utc": "2026-08-30T04:03:10.719627+00:00"
+  },
+  {
+    "job_id": "workday:gdit:External_Career_Site:req:RQ227057",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "General Dynamics Information Technology (GDIT)",
+    "title": "Sr SOFTWARE ENGINEER",
+    "location": "USA FL MacDill AFB",
+    "posted": "Posted Today",
+    "url": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-FL-MacDill-AFB/Sr-SOFTWARE-ENGINEER_RQ227057-1",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-30T04:03:10.719627+00:00",
+    "emailed_utc": "2026-08-30T04:03:10.719627+00:00"
+  },
+  {
+    "job_id": "workday:gdit:External_Career_Site:req:RQ227278",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "General Dynamics Information Technology (GDIT)",
+    "title": "System Engineer Sr Principal",
+    "location": "USA MD Fort Meade",
+    "posted": "Posted Today",
+    "url": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-MD-Fort-Meade/System-Engineer-Sr-Principal_RQ227278-1",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-30T04:03:10.719627+00:00",
+    "emailed_utc": "2026-08-30T04:03:10.719627+00:00"
   }
 ]
