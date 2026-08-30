@@ -490618,5 +490618,57 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-30T14:02:53.882378+00:00",
     "emailed_utc": "2026-08-30T14:02:53.882378+00:00"
+  },
+  {
+    "job_id": "workday:asurion:usextprivate:req:ASU0021103",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Asurion",
+    "title": "Senior Analyst, Digital Analytics",
+    "location": "US-Headquarters",
+    "posted": "Posted 3 Days Ago",
+    "url": "https://asurion.wd5.myworkdayjobs.com/en-US/usextprivate/job/US-Headquarters/Senior-Analyst--Digital-Analytics_ASU0021103-2",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-30T14:32:54.830961+00:00",
+    "emailed_utc": "2026-08-30T14:32:54.830961+00:00"
+  },
+  {
+    "job_id": "workday:asurion:asurioncareers_us:req:ASU0021172",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Asurion",
+    "title": "Sr. Data Analyst, Finance Analytics",
+    "location": "US-Headquarters",
+    "posted": "Posted 2 Days Ago",
+    "url": "https://asurion.wd5.myworkdayjobs.com/en-US/asurioncareers_us/job/US-Headquarters/Sr-Data-Analyst--Finance-Analytics_ASU0021172",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-30T14:32:54.830961+00:00",
+    "emailed_utc": "2026-08-30T14:32:54.830961+00:00"
+  },
+  {
+    "job_id": "workday:astrazeneca:careers:req:R-259057",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Astrazeneca",
+    "title": "Global Analytics & Insights Associate Director - Oncology",
+    "location": "US - Gaithersburg - MD",
+    "posted": "Posted 2 Days Ago",
+    "url": "https://astrazeneca.wd3.myworkdayjobs.com/en-US/careers/job/US---Gaithersburg---MD/Global-Analytics---Insights-Associate-Director---Oncology_R-259057",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-30T14:32:54.830961+00:00",
+    "emailed_utc": "2026-08-30T14:32:54.830961+00:00"
+  },
+  {
+    "job_id": "workday:astrazeneca:careers:req:R-258760",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Astrazeneca",
+    "title": "PET Formulation Senior Process Engineer",
+    "location": "US - Mt. Vernon - IN",
+    "posted": "Posted 6 Days Ago",
+    "url": "https://astrazeneca.wd3.myworkdayjobs.com/en-US/careers/job/US---Mt-Vernon---IN/PET-Formulation-Senior-Process-Engineer_R-258760",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-30T14:32:54.830961+00:00",
+    "emailed_utc": "2026-08-30T14:32:54.830961+00:00"
   }
 ]
