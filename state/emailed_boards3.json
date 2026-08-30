@@ -478606,5 +478606,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-30T05:40:01.952427+00:00",
     "emailed_utc": "2026-08-30T05:40:01.952427+00:00"
+  },
+  {
+    "job_id": "workday:ace:careers:req:JR202638846",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Ace",
+    "title": "Associate Data Engineer",
+    "location": "Costa Mesa, CA",
+    "posted": "Posted Yesterday",
+    "url": "https://ace.wd5.myworkdayjobs.com/en-US/careers/job/Costa-Mesa-CA/Associate-Data-Engineer_JR202638846",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-30T06:00:44.667283+00:00",
+    "emailed_utc": "2026-08-30T06:00:44.667283+00:00"
+  },
+  {
+    "job_id": "workday:accelentertainment:accelentertainment_careers:req:R-101210",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Accelentertainment",
+    "title": "Senior Data Analyst - Gaming Analytics",
+    "location": "Burr Ridge, IL",
+    "posted": "Posted 2 Days Ago",
+    "url": "https://accelentertainment.wd12.myworkdayjobs.com/en-US/accelentertainment_careers/job/Burr-Ridge-IL/Senior-Data-Analyst_R-101210",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-30T06:00:44.667283+00:00",
+    "emailed_utc": "2026-08-30T06:00:44.667283+00:00"
   }
 ]
