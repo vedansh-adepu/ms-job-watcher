@@ -81118,5 +81118,83 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-31T16:02:22.221240+00:00",
     "emailed_utc": "2026-08-31T16:02:22.221240+00:00"
+  },
+  {
+    "job_id": "greenhouse:northpointtechnology:8765657002",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "northpointtechnology",
+    "title": "Software Engineer - Full Stack (Top Secret Clearance Required)",
+    "location": "Littleton, Colorado, United States",
+    "posted": "2026-08-31T12:13:19-04:00",
+    "url": "https://job-boards.greenhouse.io/northpointtechnology/jobs/8765657002",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-31T16:33:59.199477+00:00",
+    "emailed_utc": "2026-08-31T16:33:59.199477+00:00"
+  },
+  {
+    "job_id": "greenhouse:mammothbrands:8167118",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "mammothbrands",
+    "title": "Senior Manager, Retail Analytics - Walmart",
+    "location": "New York, NY",
+    "posted": "2026-08-31T11:32:26-04:00",
+    "url": "https://job-boards.greenhouse.io/mammothbrands/jobs/8167118",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-31T16:33:59.199477+00:00",
+    "emailed_utc": "2026-08-31T16:33:59.199477+00:00"
+  },
+  {
+    "job_id": "greenhouse:mammothbrands:8167317",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "mammothbrands",
+    "title": "Senior Manager, Retail Analytics - Walmart",
+    "location": "Bentonville, AR",
+    "posted": "2026-08-31T11:35:45-04:00",
+    "url": "https://job-boards.greenhouse.io/mammothbrands/jobs/8167317",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-31T16:33:59.199477+00:00",
+    "emailed_utc": "2026-08-31T16:33:59.199477+00:00"
+  },
+  {
+    "job_id": "greenhouse:thrivemarket:4388663009",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "thrivemarket",
+    "title": "Senior Data Analyst",
+    "location": "Playa Vista, CA or Remote ",
+    "posted": "2026-08-31T12:17:24-04:00",
+    "url": "https://thrivemarketjobs.com/job_posting.html?id=4388663009&gh_jid=4388663009",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-31T16:33:59.199477+00:00",
+    "emailed_utc": "2026-08-31T16:33:59.199477+00:00"
+  },
+  {
+    "job_id": "greenhouse:thrivemarket:4388680009",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "thrivemarket",
+    "title": "Senior Data Analyst, Product",
+    "location": "Playa Vista, CA or Remote ",
+    "posted": "2026-08-31T12:23:47-04:00",
+    "url": "https://thrivemarketjobs.com/job_posting.html?id=4388680009&gh_jid=4388680009",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-31T16:33:59.199477+00:00",
+    "emailed_utc": "2026-08-31T16:33:59.199477+00:00"
+  },
+  {
+    "job_id": "greenhouse:thrivemarket:4388670009",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "thrivemarket",
+    "title": "Senior Data Engineer",
+    "location": "Playa Vista, CA or Remote ",
+    "posted": "2026-08-31T12:19:07-04:00",
+    "url": "https://thrivemarketjobs.com/job_posting.html?id=4388670009&gh_jid=4388670009",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-31T16:33:59.199477+00:00",
+    "emailed_utc": "2026-08-31T16:33:59.199477+00:00"
   }
 ]
