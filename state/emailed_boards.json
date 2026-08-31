@@ -183480,5 +183480,70 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-31T13:44:12.206701+00:00",
     "emailed_utc": "2026-08-31T13:44:12.206701+00:00"
+  },
+  {
+    "job_id": "greenhouse:gitlab:8761409002",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "GitLab",
+    "title": "Staff Security Engineer, IAM",
+    "location": "Remote, Canada; Remote, United States",
+    "posted": "2026-08-31T09:32:09-04:00",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8761409002",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-31T14:03:53.380493+00:00",
+    "emailed_utc": "2026-08-31T14:03:53.380493+00:00"
+  },
+  {
+    "job_id": "workday:gdit:External_Career_Site:req:RQ227166",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "General Dynamics Information Technology (GDIT)",
+    "title": "Network Engineer",
+    "location": "USA NC Raleigh",
+    "posted": "Posted Today",
+    "url": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-NC-Raleigh/Network-Engineer_RQ227166",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-31T14:03:53.380493+00:00",
+    "emailed_utc": "2026-08-31T14:03:53.380493+00:00"
+  },
+  {
+    "job_id": "workday:globalfoundries:External:req:JR-2602877",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Global Foundries",
+    "title": "DMTS Design Engineering",
+    "location": "USA - Texas - Austin",
+    "posted": "Posted Today",
+    "url": "https://globalfoundries.wd1.myworkdayjobs.com/en-US/External/job/USA---Texas---Austin/DMTS-Design-Engineering_JR-2602877-1",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-31T14:03:53.380493+00:00",
+    "emailed_utc": "2026-08-31T14:03:53.380493+00:00"
+  },
+  {
+    "job_id": "workday:fmr:FidelityCareers:req:2131580",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Fidelity Investments",
+    "title": "Senior Software Engineer",
+    "location": "Covington, KY",
+    "posted": "Posted Today",
+    "url": "https://fmr.wd1.myworkdayjobs.com/en-US/FidelityCareers/job/Covington-KY/Senior-Software-Engineer_2131580-1",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-31T14:03:53.380493+00:00",
+    "emailed_utc": "2026-08-31T14:03:53.380493+00:00"
+  },
+  {
+    "job_id": "workday:fmr:FidelityCareers:req:2131991",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Fidelity Investments",
+    "title": "Manager, Advanced Data Analytics and Insights",
+    "location": "Durham, NC",
+    "posted": "Posted Today",
+    "url": "https://fmr.wd1.myworkdayjobs.com/en-US/FidelityCareers/job/Durham-NC/Manager--Advanced-Data-Analytics-and-Insights_2131991",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-31T14:03:53.380493+00:00",
+    "emailed_utc": "2026-08-31T14:03:53.380493+00:00"
   }
 ]
