@@ -21058,5 +21058,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-31T01:11:59.492745+00:00",
     "emailed_utc": "2026-08-31T01:11:59.492745+00:00"
+  },
+  {
+    "job_id": "amazon:93a5428a-36ca-4e26-99b9-985c44e1dfa5",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "SDEII - Threat Intel Systems, ACTI Engineering",
+    "location": "US, VA, Herndon",
+    "posted": "August 31, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10521868/sdeii-threat-intel-systems-acti-engineering",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-31T14:12:04.400819+00:00",
+    "emailed_utc": "2026-08-31T14:12:04.400819+00:00"
+  },
+  {
+    "job_id": "amazon:f565c66f-622b-4577-a3d9-8917b7b44ef5",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Principal Forward Deployed Engineer, Forward Deployed Engineering",
+    "location": "US, VA, Arlington",
+    "posted": "August 31, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10521876/principal-forward-deployed-engineer-forward-deployed-engineering",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-31T14:12:04.400819+00:00",
+    "emailed_utc": "2026-08-31T14:12:04.400819+00:00"
   }
 ]
