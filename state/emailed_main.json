@@ -21162,5 +21162,18 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-31T17:02:04.042388+00:00",
     "emailed_utc": "2026-08-31T17:02:04.042388+00:00"
+  },
+  {
+    "job_id": "amazon:49e2921f-e6d1-49fe-9c01-04b43d836391",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, Transit Gateway",
+    "location": "US, VA, Arlington",
+    "posted": "August 31, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10522166/software-development-engineer-transit-gateway",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-31T17:22:04.355930+00:00",
+    "emailed_utc": "2026-08-31T17:22:04.355930+00:00"
   }
 ]
