@@ -183610,5 +183610,70 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-31T14:33:24.296399+00:00",
     "emailed_utc": "2026-08-31T14:33:24.296399+00:00"
+  },
+  {
+    "job_id": "greenhouse:spacex:8706480002",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "SpaceX",
+    "title": "Embedded Software Engineer (Starlink)",
+    "location": "Bastrop, TX",
+    "posted": "2026-08-31T11:00:19-04:00",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8706480002?gh_jid=8706480002",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-31T15:03:53.697702+00:00",
+    "emailed_utc": "2026-08-31T15:03:53.697702+00:00"
+  },
+  {
+    "job_id": "greenhouse:sharkninjaoperatingllc:4707300006",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "sharkninjaoperatingllc",
+    "title": "Manager, Engineering - R&D",
+    "location": "Needham, MA, United States",
+    "posted": "2026-08-31T10:20:17-04:00",
+    "url": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4707300006",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-31T15:03:53.697702+00:00",
+    "emailed_utc": "2026-08-31T15:03:53.697702+00:00"
+  },
+  {
+    "job_id": "smartrecruiters:ServiceNow:744000146482829",
+    "pipeline": "boards",
+    "platform": "smartrecruiters",
+    "company": "ServiceNow",
+    "title": "Sr Software Engineer",
+    "location": "Hyderabad, in",
+    "posted": "2026-08-31T14:15:49.113Z",
+    "url": "https://jobs.smartrecruiters.com/ServiceNow",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-31T15:03:53.697702+00:00",
+    "emailed_utc": "2026-08-31T15:03:53.697702+00:00"
+  },
+  {
+    "job_id": "workday:target:targetcareers:req:R0000450612",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Target",
+    "title": "Sr Data Scientist - Advanced AI / AI Factory",
+    "location": "7000 Target Pkwy N,NCD-0375 Brooklyn Park,MN 55445",
+    "posted": "Posted Today",
+    "url": "https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/7000-Target-Pkwy-NNCD-0375-Brooklyn-ParkMN-55445/Sr-Data-Scientist---Advanced-AI---AI-Factory_R0000450612",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-31T15:03:53.697702+00:00",
+    "emailed_utc": "2026-08-31T15:03:53.697702+00:00"
+  },
+  {
+    "job_id": "workday:target:targetcareers:req:R0000450232",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Target",
+    "title": "Lead Engineer - Insider Risk",
+    "location": "7000 Target Pkwy N,NCD-0375 Brooklyn Park,MN 55445",
+    "posted": "Posted Today",
+    "url": "https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/7000-Target-Pkwy-NNCD-0375-Brooklyn-ParkMN-55445/Lead-Engineer---Insider-Risk_R0000450232",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-31T15:03:53.697702+00:00",
+    "emailed_utc": "2026-08-31T15:03:53.697702+00:00"
   }
 ]
