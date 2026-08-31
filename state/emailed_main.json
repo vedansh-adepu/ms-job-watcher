@@ -21214,5 +21214,44 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-31T18:01:48.155276+00:00",
     "emailed_utc": "2026-08-31T18:01:48.155276+00:00"
+  },
+  {
+    "job_id": "amazon:c79f0e4f-e79e-4e55-8787-3f1b3af80a87",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Applied Scientist, Amazon Cryptographic Libraries",
+    "location": "US, WA, Seattle",
+    "posted": "August 31, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10522632/applied-scientist-amazon-cryptographic-libraries",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-31T18:11:58.082233+00:00",
+    "emailed_utc": "2026-08-31T18:11:58.082233+00:00"
+  },
+  {
+    "job_id": "amazon:644c938c-3cc1-445d-964f-721b6c9a805d",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Applied Scientist, Automated Reasoning",
+    "location": "US, CA, Santa Clara",
+    "posted": "August 31, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10522626/applied-scientist-automated-reasoning",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-31T18:11:58.082233+00:00",
+    "emailed_utc": "2026-08-31T18:11:58.082233+00:00"
+  },
+  {
+    "job_id": "amazon:a4a3ac78-6608-464e-80ef-9861f0c40dda",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Sr Applied Scientist, Amazon Cryptographic Libraries",
+    "location": "US, WA, Seattle",
+    "posted": "August 31, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10522631/sr-applied-scientist-amazon-cryptographic-libraries",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-31T18:11:58.082233+00:00",
+    "emailed_utc": "2026-08-31T18:11:58.082233+00:00"
   }
 ]
