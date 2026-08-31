@@ -21123,5 +21123,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-31T16:21:40.109837+00:00",
     "emailed_utc": "2026-08-31T16:21:40.109837+00:00"
+  },
+  {
+    "job_id": "amazon:18262a64-8457-4538-87b0-ac4aa9c7bbae",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer , Leo Commerce, Leo Commerce",
+    "location": "US, WA, Redmond",
+    "posted": "August 31, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10522077/software-development-engineer-leo-commerce-leo-commerce",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-31T16:32:02.672912+00:00",
+    "emailed_utc": "2026-08-31T16:32:02.672912+00:00"
+  },
+  {
+    "job_id": "amazon:34d8581b-b016-4886-b94f-3c6d25897c88",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer , Leo Commerce, Leo Commerce",
+    "location": "US, WA, Redmond",
+    "posted": "August 31, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10522076/software-development-engineer-leo-commerce-leo-commerce",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-31T16:32:02.672912+00:00",
+    "emailed_utc": "2026-08-31T16:32:02.672912+00:00"
   }
 ]
