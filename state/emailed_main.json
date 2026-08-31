@@ -21331,5 +21331,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-31T19:12:03.858985+00:00",
     "emailed_utc": "2026-08-31T19:12:03.858985+00:00"
+  },
+  {
+    "job_id": "amazon:8c36b796-ef18-4b08-937e-012953367568",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Engineer II - AI/ML, AWS Neuron ",
+    "location": "US, WA, Seattle",
+    "posted": "August 31, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10522799/software-engineer-ii-ai-ml-aws-neuron",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-31T19:32:05.713997+00:00",
+    "emailed_utc": "2026-08-31T19:32:05.713997+00:00"
+  },
+  {
+    "job_id": "amazon:20f741ab-cdbf-42e9-8c96-cc7330a259cb",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Sr. Applied Scientist, Prime Video - Personalization and Discovery Science, Prime Video - Personalization and Discovery Science",
+    "location": "US, CA, Sunnyvale",
+    "posted": "August 31, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10522800/sr-applied-scientist-prime-video-personalization-and-discovery-science-prime-video-personalization-and-discovery-science",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-31T19:32:05.713997+00:00",
+    "emailed_utc": "2026-08-31T19:32:05.713997+00:00"
   }
 ]
