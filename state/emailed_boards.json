@@ -183337,5 +183337,44 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-31T06:32:56.509766+00:00",
     "emailed_utc": "2026-08-31T06:32:56.509766+00:00"
+  },
+  {
+    "job_id": "greenhouse:tripactions:8105723",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Navan (TripActions)",
+    "title": "Sr. Software Engineer",
+    "location": "Bengaluru, IN",
+    "posted": "2026-08-31T02:54:10-04:00",
+    "url": "https://navan.com/careers/openings?gh_jid=8105723",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-31T09:03:11.111573+00:00",
+    "emailed_utc": "2026-08-31T09:03:11.111573+00:00"
+  },
+  {
+    "job_id": "workday:ngc:Northrop_Grumman_External_Site:req:R10246292",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Northrop Grumman",
+    "title": "U103 Manufacturing Engineering Assistant",
+    "location": "United States-California-Sunnyvale",
+    "posted": "Posted Today",
+    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Sunnyvale/U103-Manufacturing-Engineering-Assistant_R10246292",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-31T09:03:11.111573+00:00",
+    "emailed_utc": "2026-08-31T09:03:11.111573+00:00"
+  },
+  {
+    "job_id": "workday:pfizer:PfizerCareers:req:4962342",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Pfizer",
+    "title": "Scientist, Process Analytics",
+    "location": "United States - Washington \u2013 Bothell",
+    "posted": "Posted Today",
+    "url": "https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/United-States---Washington--Bothell/Scientist--Process-Analytics_4962342-1",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-31T09:03:11.111573+00:00",
+    "emailed_utc": "2026-08-31T09:03:11.111573+00:00"
   }
 ]
