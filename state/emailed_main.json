@@ -21383,5 +21383,31 @@
     "bucket": "yes",
     "first_seen_utc": "2026-08-31T19:52:07.780662+00:00",
     "emailed_utc": "2026-08-31T19:52:07.780662+00:00"
+  },
+  {
+    "job_id": "amazon:4f271266-8fd9-495b-a42f-fa20a8f15b7d",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Applied Scientist II, Prime Video Personalization and Discovery Science, Prime Video - Personalization and Discovery Science",
+    "location": "US, CA, Sunnyvale",
+    "posted": "August 31, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10522845/applied-scientist-ii-prime-video-personalization-and-discovery-science-prime-video-personalization-and-discovery-science",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-31T20:49:27.342834+00:00",
+    "emailed_utc": "2026-08-31T20:49:27.342834+00:00"
+  },
+  {
+    "job_id": "nvidia:893397487444",
+    "pipeline": "main",
+    "platform": "nvidia",
+    "company": "NVIDIA",
+    "title": "Senior Software Engineer - Distributed Systems Engineer, EDA Infrastructure",
+    "location": "US",
+    "posted": "2026-08-31 00:00 UTC",
+    "url": "https://nvidia.eightfold.ai/careers/job/893397487444",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-31T20:49:27.342834+00:00",
+    "emailed_utc": "2026-08-31T20:49:27.342834+00:00"
   }
 ]
