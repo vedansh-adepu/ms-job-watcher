@@ -41948,22 +41948,16 @@
     "cursor": null
   },
   {
-    "ts": "2026-08-31T06:03Z",
+    "ts": "2026-08-31T06:11Z",
     "mode": "boards",
     "per_source": {
-      "greenhouse": {
-        "fetched": 14928,
-        "title_ok": 2114,
-        "loc_ok": 800,
-        "new": 0,
-        "emailed": 0
-      },
-      "lever": {
-        "fetched": 45241,
-        "title_ok": 5827,
-        "loc_ok": 1823,
-        "new": 0,
-        "emailed": 0
+      "workday": {
+        "fetched": 7462,
+        "title_ok": 413,
+        "loc_ok": 165,
+        "new": 4,
+        "emailed": 44,
+        "errors": 2
       }
     },
     "duration_s": 80.7,
