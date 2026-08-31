@@ -183376,5 +183376,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-31T09:03:11.111573+00:00",
     "emailed_utc": "2026-08-31T09:03:11.111573+00:00"
+  },
+  {
+    "job_id": "smartrecruiters:ServiceNow:744000146426043",
+    "pipeline": "boards",
+    "platform": "smartrecruiters",
+    "company": "ServiceNow",
+    "title": "Research Engineer/Scientist",
+    "location": "Hyderabad, in",
+    "posted": "2026-08-31T09:08:04.205Z",
+    "url": "https://jobs.smartrecruiters.com/ServiceNow",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-31T09:33:15.329035+00:00",
+    "emailed_utc": "2026-08-31T09:33:15.329035+00:00"
+  },
+  {
+    "job_id": "smartrecruiters:ServiceNow:744000146402059",
+    "pipeline": "boards",
+    "platform": "smartrecruiters",
+    "company": "ServiceNow",
+    "title": "Staff Software Engineer",
+    "location": "Hyderabad, in",
+    "posted": "2026-08-31T06:34:58.454Z",
+    "url": "https://jobs.smartrecruiters.com/ServiceNow",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-08-31T09:33:15.329035+00:00",
+    "emailed_utc": "2026-08-31T09:33:15.329035+00:00"
   }
 ]
