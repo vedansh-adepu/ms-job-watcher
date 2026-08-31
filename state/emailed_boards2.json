@@ -80871,5 +80871,18 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-08-31T12:32:36.200209+00:00",
     "emailed_utc": "2026-08-31T12:32:36.200209+00:00"
+  },
+  {
+    "job_id": "greenhouse:metron:5225462007",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "metron",
+    "title": "Mid-Level Software Engineer",
+    "location": "Reston, VA",
+    "posted": "2026-08-31T08:00:00-04:00",
+    "url": "https://job-boards.greenhouse.io/metron/jobs/5225462007",
+    "bucket": "yes",
+    "first_seen_utc": "2026-08-31T13:02:31.790300+00:00",
+    "emailed_utc": "2026-08-31T13:02:31.790300+00:00"
   }
 ]
