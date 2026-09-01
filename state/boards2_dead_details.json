@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-09-01T14:20:31.098995+00:00",
+  "updated_utc": "2026-09-01T18:52:25.366467+00:00",
   "dead_details": {
     "lever:livechatinc": {
       "first_seen_utc": "2026-07-01T19:31:29.430568+00:00",
@@ -1903,6 +1903,69 @@
     "greenhouse:govtechbarbados": {
       "first_seen_utc": "2026-09-01T14:19:59.909921+00:00",
       "last_seen_utc": "2026-09-01T14:19:59.909921+00:00",
+      "platform": "greenhouse",
+      "company": "",
+      "board_url": "",
+      "last_status": 404,
+      "last_error": "HTTP 404/410 (board not found)"
+    },
+    "greenhouse:letsgetchecked": {
+      "first_seen_utc": "2026-09-01T18:51:18.293174+00:00",
+      "last_seen_utc": "2026-09-01T18:51:18.293174+00:00",
+      "platform": "greenhouse",
+      "company": "",
+      "board_url": "",
+      "last_status": 404,
+      "last_error": "HTTP 404/410 (board not found)"
+    },
+    "greenhouse:mammothgrowth": {
+      "first_seen_utc": "2026-09-01T18:51:31.398985+00:00",
+      "last_seen_utc": "2026-09-01T18:51:31.398985+00:00",
+      "platform": "greenhouse",
+      "company": "",
+      "board_url": "",
+      "last_status": 404,
+      "last_error": "HTTP 404/410 (board not found)"
+    },
+    "greenhouse:mqreferrals": {
+      "first_seen_utc": "2026-09-01T18:51:43.934554+00:00",
+      "last_seen_utc": "2026-09-01T18:51:43.934554+00:00",
+      "platform": "greenhouse",
+      "company": "",
+      "board_url": "",
+      "last_status": 404,
+      "last_error": "HTTP 404/410 (board not found)"
+    },
+    "greenhouse:porschewalnutcreek": {
+      "first_seen_utc": "2026-09-01T18:52:00.829444+00:00",
+      "last_seen_utc": "2026-09-01T18:52:00.829444+00:00",
+      "platform": "greenhouse",
+      "company": "",
+      "board_url": "",
+      "last_status": 404,
+      "last_error": "HTTP 404/410 (board not found)"
+    },
+    "greenhouse:sisense": {
+      "first_seen_utc": "2026-09-01T18:52:14.656417+00:00",
+      "last_seen_utc": "2026-09-01T18:52:14.656417+00:00",
+      "platform": "greenhouse",
+      "company": "",
+      "board_url": "",
+      "last_status": 404,
+      "last_error": "HTTP 404/410 (board not found)"
+    },
+    "greenhouse:sixthstreet": {
+      "first_seen_utc": "2026-09-01T18:52:14.720402+00:00",
+      "last_seen_utc": "2026-09-01T18:52:14.720402+00:00",
+      "platform": "greenhouse",
+      "company": "",
+      "board_url": "",
+      "last_status": 404,
+      "last_error": "HTTP 404/410 (board not found)"
+    },
+    "greenhouse:stepmobile": {
+      "first_seen_utc": "2026-09-01T18:52:17.075356+00:00",
+      "last_seen_utc": "2026-09-01T18:52:17.075356+00:00",
       "platform": "greenhouse",
       "company": "",
       "board_url": "",
