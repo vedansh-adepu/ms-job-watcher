@@ -21643,5 +21643,83 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-09-01T08:35:27.271467+00:00",
     "emailed_utc": "2026-09-01T08:35:27.271467+00:00"
+  },
+  {
+    "job_id": "amazon:5b7be60a-9533-43d7-9b50-84551b771066",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer III, Android",
+    "location": "US, NJ, Newark",
+    "posted": "September  1, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10523727/software-development-engineer-iii-android",
+    "bucket": "yes",
+    "first_seen_utc": "2026-09-01T14:08:17.263346+00:00",
+    "emailed_utc": "2026-09-01T14:08:17.263346+00:00"
+  },
+  {
+    "job_id": "amazon:699fc3ec-59f0-4b16-8c48-b7675c2c6c03",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, 3P Measurement Tech ",
+    "location": "US, NY, New York",
+    "posted": "September  1, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10523697/software-development-engineer-3p-measurement-tech",
+    "bucket": "yes",
+    "first_seen_utc": "2026-09-01T14:08:17.263346+00:00",
+    "emailed_utc": "2026-09-01T14:08:17.263346+00:00"
+  },
+  {
+    "job_id": "amazon:3ae0a1e3-91e9-463f-a3e1-cb84dd10ebb7",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Dev Engineer II, Prime Air",
+    "location": "US, WA, Seattle",
+    "posted": "September  1, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10523674/software-dev-engineer-ii-prime-air",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-09-01T14:08:17.263346+00:00",
+    "emailed_utc": "2026-09-01T14:08:17.263346+00:00"
+  },
+  {
+    "job_id": "amazon:08db93c9-9416-49aa-8887-cb03b6c51599",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Dev Engineer II, Prime Air",
+    "location": "US, WA, Seattle",
+    "posted": "September  1, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10523673/software-dev-engineer-ii-prime-air",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-09-01T14:08:17.263346+00:00",
+    "emailed_utc": "2026-09-01T14:08:17.263346+00:00"
+  },
+  {
+    "job_id": "amazon:9271da32-0f22-47cf-95b7-62dff6b18e5f",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Dev Engineer III, AWS Elastic Beanstalk",
+    "location": "US, NJ, Jersey City",
+    "posted": "August 24, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10512194/software-dev-engineer-iii-aws-elastic-beanstalk",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-09-01T14:08:17.263346+00:00",
+    "emailed_utc": "2026-09-01T14:08:17.263346+00:00"
+  },
+  {
+    "job_id": "amazon:c9cf1675-04f3-4ad7-8acd-110a961503d7",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Systems Dev Engineer, Enterprise Engineering, Project Kuiper",
+    "location": "US, WA, Bellevue",
+    "posted": "September  1, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10523701/systems-dev-engineer-enterprise-engineering-project-kuiper",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-09-01T14:08:17.263346+00:00",
+    "emailed_utc": "2026-09-01T14:08:17.263346+00:00"
   }
 ]
