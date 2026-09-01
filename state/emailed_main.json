@@ -21591,5 +21591,57 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-09-01T00:35:43.141824+00:00",
     "emailed_utc": "2026-09-01T00:35:43.141824+00:00"
+  },
+  {
+    "job_id": "amazon:8714bd14-6497-4f55-8f6e-54dab95517cf",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Quantum Research Engineer, Quantum Computing",
+    "location": "US, CA, Pasadena",
+    "posted": "September  1, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10523242/quantum-research-engineer-quantum-computing",
+    "bucket": "yes",
+    "first_seen_utc": "2026-09-01T08:35:27.271467+00:00",
+    "emailed_utc": "2026-09-01T08:35:27.271467+00:00"
+  },
+  {
+    "job_id": "nvidia:893397500140",
+    "pipeline": "main",
+    "platform": "nvidia",
+    "company": "NVIDIA",
+    "title": "Senior Machine Learning Engineer, Accelerated Apache Spark",
+    "location": "Santa Clara, CA, US",
+    "posted": "2026-09-01 00:00 UTC",
+    "url": "https://nvidia.eightfold.ai/careers/job/893397500140",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-09-01T08:35:27.271467+00:00",
+    "emailed_utc": "2026-09-01T08:35:27.271467+00:00"
+  },
+  {
+    "job_id": "nvidia:893397489952",
+    "pipeline": "main",
+    "platform": "nvidia",
+    "company": "NVIDIA",
+    "title": "Senior Software Engineer, Open Harness Engineering",
+    "location": "US",
+    "posted": "2026-09-01 00:00 UTC",
+    "url": "https://nvidia.eightfold.ai/careers/job/893397489952",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-09-01T08:35:27.271467+00:00",
+    "emailed_utc": "2026-09-01T08:35:27.271467+00:00"
+  },
+  {
+    "job_id": "amazon:2e10b298-eed8-440f-a3c9-1ceb25394e39",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Applied Science Manager, Computer Vision, Perception Science, Prime Air Vehicle Software",
+    "location": "US, WA, Seattle",
+    "posted": "September  1, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10523337/applied-science-manager-computer-vision-perception-science-prime-air-vehicle-software",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-09-01T08:35:27.271467+00:00",
+    "emailed_utc": "2026-09-01T08:35:27.271467+00:00"
   }
 ]
