@@ -22371,5 +22371,44 @@
     "bucket": "yes",
     "first_seen_utc": "2026-09-02T11:12:34.028205+00:00",
     "emailed_utc": "2026-09-02T11:12:34.028205+00:00"
+  },
+  {
+    "job_id": "amazon:9f09fbbd-7714-4737-ba07-35d098958774",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Research Software Engineer, Calibration, MQS Center for Quantum Computing",
+    "location": "US, CA, San Francisco",
+    "posted": "September  2, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10525863/research-software-engineer-calibration-mqs-center-for-quantum-computing",
+    "bucket": "yes",
+    "first_seen_utc": "2026-09-02T16:31:46.198091+00:00",
+    "emailed_utc": "2026-09-02T16:31:46.198091+00:00"
+  },
+  {
+    "job_id": "amazon:968e967f-7b00-47c1-a249-3557f5b249da",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Senior Applied Scientist, Sponsored Products and Brands",
+    "location": "US, NY, New York",
+    "posted": "September  2, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10525950/senior-applied-scientist-sponsored-products-and-brands",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-09-02T16:31:46.198091+00:00",
+    "emailed_utc": "2026-09-02T16:31:46.198091+00:00"
+  },
+  {
+    "job_id": "amazon:41cbf6e0-7a7e-4372-9003-a51495695f6e",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Manager, EC2 Control Plane, EC2 S4",
+    "location": "US, VA, Arlington",
+    "posted": "September  2, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10525759/software-development-manager-ec2-control-plane-ec2-s4",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-09-02T16:31:46.198091+00:00",
+    "emailed_utc": "2026-09-02T16:31:46.198091+00:00"
   }
 ]
