@@ -22345,5 +22345,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-09-02T04:23:38.194428+00:00",
     "emailed_utc": "2026-09-02T04:23:38.194428+00:00"
+  },
+  {
+    "job_id": "microsoft:1970393556982731",
+    "pipeline": "main",
+    "platform": "microsoft",
+    "company": "Microsoft",
+    "title": "Software Engineer II - Windows Compatibility",
+    "location": "Redmond, WA, US",
+    "posted": "2026-09-02 06:54 UTC",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556982731",
+    "bucket": "yes",
+    "first_seen_utc": "2026-09-02T11:12:34.028205+00:00",
+    "emailed_utc": "2026-09-02T11:12:34.028205+00:00"
+  },
+  {
+    "job_id": "microsoft:1970393556958208",
+    "pipeline": "main",
+    "platform": "microsoft",
+    "company": "Microsoft",
+    "title": "Software Engineer II",
+    "location": "Redmond, WA, US",
+    "posted": "2026-09-02 06:43 UTC",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556958208",
+    "bucket": "yes",
+    "first_seen_utc": "2026-09-02T11:12:34.028205+00:00",
+    "emailed_utc": "2026-09-02T11:12:34.028205+00:00"
   }
 ]
