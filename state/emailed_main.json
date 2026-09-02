@@ -22267,5 +22267,83 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-09-01T23:17:09.503969+00:00",
     "emailed_utc": "2026-09-01T23:17:09.503969+00:00"
+  },
+  {
+    "job_id": "amazon:9408a845-4ba1-4bd7-bd59-1296a976c6f6",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Applied Scientist, AWS Applied AI Solutions",
+    "location": "US, WA, Seattle",
+    "posted": "September  2, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10525121/applied-scientist-aws-applied-ai-solutions",
+    "bucket": "yes",
+    "first_seen_utc": "2026-09-02T04:23:38.194428+00:00",
+    "emailed_utc": "2026-09-02T04:23:38.194428+00:00"
+  },
+  {
+    "job_id": "amazon:a0c2298f-d60e-4a14-82fb-20998d7498a3",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, Amazon ECS",
+    "location": "US, WA, Seattle",
+    "posted": "September  2, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10525114/software-development-engineer-amazon-ecs",
+    "bucket": "yes",
+    "first_seen_utc": "2026-09-02T04:23:38.194428+00:00",
+    "emailed_utc": "2026-09-02T04:23:38.194428+00:00"
+  },
+  {
+    "job_id": "amazon:3ffccc89-ba67-4ee3-b4dc-d64b4108675f",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, AWS Vulnerability Management",
+    "location": "US, WA, Seattle",
+    "posted": "September  2, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10525157/software-development-engineer-aws-vulnerability-management",
+    "bucket": "yes",
+    "first_seen_utc": "2026-09-02T04:23:38.194428+00:00",
+    "emailed_utc": "2026-09-02T04:23:38.194428+00:00"
+  },
+  {
+    "job_id": "amazon:24520ff2-5391-4d89-be33-3eb8f89242ad",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Manager, Amazon Optics, Amazon Optics",
+    "location": "US, VA, Herndon",
+    "posted": "September  1, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10525085/software-development-manager-amazon-optics-amazon-optics",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-09-02T04:23:38.194428+00:00",
+    "emailed_utc": "2026-09-02T04:23:38.194428+00:00"
+  },
+  {
+    "job_id": "amazon:db3253c4-d645-4924-ae38-db74d9b2095d",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Principal Software Engineer, Distributed Coding Agents, Kiro ",
+    "location": "US, WA, Seattle",
+    "posted": "September  2, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10525110/principal-software-engineer-distributed-coding-agents-kiro",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-09-02T04:23:38.194428+00:00",
+    "emailed_utc": "2026-09-02T04:23:38.194428+00:00"
+  },
+  {
+    "job_id": "amazon:3d798519-0b66-44d4-ae5d-a0017df92102",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Senior Software Development Engineer, AI Acceleration, Amazon Luna",
+    "location": "US, WA, Seattle",
+    "posted": "September  1, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10525077/senior-software-development-engineer-ai-acceleration-amazon-luna",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-09-02T04:23:38.194428+00:00",
+    "emailed_utc": "2026-09-02T04:23:38.194428+00:00"
   }
 ]
