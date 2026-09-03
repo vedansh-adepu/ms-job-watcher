@@ -23398,5 +23398,70 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-09-03T20:58:27.788638+00:00",
     "emailed_utc": "2026-09-03T20:58:27.788638+00:00"
+  },
+  {
+    "job_id": "amazon:04e9ab02-b068-4584-a669-1c932b812990",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, Amazon Quick",
+    "location": "US, CA, Santa Clara",
+    "posted": "September  3, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10529317/software-development-engineer-amazon-quick",
+    "bucket": "yes",
+    "first_seen_utc": "2026-09-03T23:15:51.210193+00:00",
+    "emailed_utc": "2026-09-03T23:15:51.210193+00:00"
+  },
+  {
+    "job_id": "microsoft:1970393556983218",
+    "pipeline": "main",
+    "platform": "microsoft",
+    "company": "Microsoft",
+    "title": "Senior Software Engineer",
+    "location": "Redmond, WA, US",
+    "posted": "2026-09-03 22:22 UTC",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556983218",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-09-03T23:15:51.210193+00:00",
+    "emailed_utc": "2026-09-03T23:15:51.210193+00:00"
+  },
+  {
+    "job_id": "nvidia:893395177095",
+    "pipeline": "main",
+    "platform": "nvidia",
+    "company": "NVIDIA",
+    "title": "Senior Software Engineer - DGX Cloud Production Engineering",
+    "location": "US",
+    "posted": "2026-09-03 00:00 UTC",
+    "url": "https://nvidia.eightfold.ai/careers/job/893395177095",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-09-03T23:15:51.210193+00:00",
+    "emailed_utc": "2026-09-03T23:15:51.210193+00:00"
+  },
+  {
+    "job_id": "amazon:9923ecf2-8cf1-475f-bbfa-ae331924d927",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Manager, ElastiCache",
+    "location": "US, WA, Seattle",
+    "posted": "September  3, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10529309/software-development-manager-elasticache",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-09-03T23:15:51.210193+00:00",
+    "emailed_utc": "2026-09-03T23:15:51.210193+00:00"
+  },
+  {
+    "job_id": "amazon:de447621-5ad1-40b1-9207-56d1bab643ca",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Sr. Software Development Engineer, Agentic AI",
+    "location": "US, NJ, Jersey City",
+    "posted": "September  3, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10529450/sr-software-development-engineer-agentic-ai",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-09-03T23:15:51.210193+00:00",
+    "emailed_utc": "2026-09-03T23:15:51.210193+00:00"
   }
 ]
