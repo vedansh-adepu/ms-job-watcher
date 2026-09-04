@@ -23463,5 +23463,70 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-09-03T23:15:51.210193+00:00",
     "emailed_utc": "2026-09-03T23:15:51.210193+00:00"
+  },
+  {
+    "job_id": "microsoft:1970393556984128",
+    "pipeline": "main",
+    "platform": "microsoft",
+    "company": "Microsoft",
+    "title": "Software Engineer II",
+    "location": "Redmond, WA, US",
+    "posted": "2026-09-03 22:46 UTC",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556984128",
+    "bucket": "yes",
+    "first_seen_utc": "2026-09-04T04:24:20.269398+00:00",
+    "emailed_utc": "2026-09-04T04:24:20.269398+00:00"
+  },
+  {
+    "job_id": "amazon:7f79a1d3-f7e5-4415-a856-b29589650aab",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer II, AWS Vulnerability Management",
+    "location": "US, WA, Seattle",
+    "posted": "September  3, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10529483/software-development-engineer-ii-aws-vulnerability-management",
+    "bucket": "yes",
+    "first_seen_utc": "2026-09-04T04:24:20.269398+00:00",
+    "emailed_utc": "2026-09-04T04:24:20.269398+00:00"
+  },
+  {
+    "job_id": "amazon:f00e23a1-7b2c-4936-b02c-586bca8b38bb",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, Amazon Dedicated Cloud, Early Career - 2026",
+    "location": "US, WA, Seattle",
+    "posted": "September  4, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10529546/software-development-engineer-amazon-dedicated-cloud-early-career-2026",
+    "bucket": "yes",
+    "first_seen_utc": "2026-09-04T04:24:20.269398+00:00",
+    "emailed_utc": "2026-09-04T04:24:20.269398+00:00"
+  },
+  {
+    "job_id": "amazon:640a8dd7-f6cf-41e4-80c4-544f51f20fb6",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, EC2 UltraServer Delivery Team",
+    "location": "US, WA, Seattle",
+    "posted": "September  3, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10529500/software-development-engineer-ec2-ultraserver-delivery-team",
+    "bucket": "yes",
+    "first_seen_utc": "2026-09-04T04:24:20.269398+00:00",
+    "emailed_utc": "2026-09-04T04:24:20.269398+00:00"
+  },
+  {
+    "job_id": "microsoft:1970393556984680",
+    "pipeline": "main",
+    "platform": "microsoft",
+    "company": "Microsoft",
+    "title": "Senior Physical Verification CAD Engineer",
+    "location": "Mountain View, CA, US",
+    "posted": "2026-09-03 23:34 UTC",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556984680",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-09-04T04:24:20.269398+00:00",
+    "emailed_utc": "2026-09-04T04:24:20.269398+00:00"
   }
 ]
