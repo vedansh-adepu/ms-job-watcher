@@ -90608,5 +90608,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-09-05T04:58:17.843893+00:00",
     "emailed_utc": "2026-09-05T04:58:17.843893+00:00"
+  },
+  {
+    "job_id": "lever:uei:eb9aa63d-98f2-404e-bd9d-29a7b0ec265a",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "uei",
+    "title": "Applications Engineer",
+    "location": "Santa Ana, CA - USA",
+    "posted": "2026-09-04 21:55 UTC",
+    "url": "https://jobs.lever.co/uei/eb9aa63d-98f2-404e-bd9d-29a7b0ec265a",
+    "bucket": "yes",
+    "first_seen_utc": "2026-09-05T10:56:41.400045+00:00",
+    "emailed_utc": "2026-09-05T10:56:41.400045+00:00"
+  },
+  {
+    "job_id": "lever:walkerconsultants:646369e2-f9ae-4e58-b0fb-c1ffcb2826df",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "walkerconsultants",
+    "title": "Structural Engineer",
+    "location": "Denver, CO",
+    "posted": "2026-09-03 18:23 UTC",
+    "url": "https://jobs.lever.co/walkerconsultants/646369e2-f9ae-4e58-b0fb-c1ffcb2826df",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-09-05T10:56:41.400045+00:00",
+    "emailed_utc": "2026-09-05T10:56:41.400045+00:00"
   }
 ]
