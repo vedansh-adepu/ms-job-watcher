@@ -90881,5 +90881,57 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-09-05T17:40:15.388248+00:00",
     "emailed_utc": "2026-09-05T17:40:15.388248+00:00"
+  },
+  {
+    "job_id": "lever:anavationllc:3a51f221-e268-4ac9-8758-44282430f60c",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "anavationllc",
+    "title": "Mobile Device RE / Software Engineer\u2013 HYBRID!",
+    "location": "Lorton, VA",
+    "posted": "2026-09-05 14:39 UTC",
+    "url": "https://jobs.lever.co/anavationllc/3a51f221-e268-4ac9-8758-44282430f60c",
+    "bucket": "yes",
+    "first_seen_utc": "2026-09-05T20:45:05.533576+00:00",
+    "emailed_utc": "2026-09-05T20:45:05.533576+00:00"
+  },
+  {
+    "job_id": "greenhouse:vardaspace:7987624003",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "vardaspace",
+    "title": "Spacecraft Embedded Linux Engineer II",
+    "location": "El Segundo, California, United States",
+    "posted": "2026-09-05T10:42:09-04:00",
+    "url": "https://job-boards.greenhouse.io/vardaspace/jobs/7987624003",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-09-05T20:45:05.533576+00:00",
+    "emailed_utc": "2026-09-05T20:45:05.533576+00:00"
+  },
+  {
+    "job_id": "greenhouse:vardaspace:7987625003",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "vardaspace",
+    "title": "Spacecraft Firmware Engineer II",
+    "location": "El Segundo, California, United States",
+    "posted": "2026-09-05T10:43:58-04:00",
+    "url": "https://job-boards.greenhouse.io/vardaspace/jobs/7987625003",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-09-05T20:45:05.533576+00:00",
+    "emailed_utc": "2026-09-05T20:45:05.533576+00:00"
+  },
+  {
+    "job_id": "lever:espace:f8242e12-8eb3-4758-a419-97d904c9125a",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "espace",
+    "title": "Sr. RF Front-End Engineer \u2014 Phased Array Antenna & RF Front-End Electronics",
+    "location": "Saratoga, CA",
+    "posted": "2026-09-05 07:02 UTC",
+    "url": "https://jobs.lever.co/espace/f8242e12-8eb3-4758-a419-97d904c9125a",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-09-05T20:45:05.533576+00:00",
+    "emailed_utc": "2026-09-05T20:45:05.533576+00:00"
   }
 ]
