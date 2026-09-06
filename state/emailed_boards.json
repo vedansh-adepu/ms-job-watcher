@@ -205515,5 +205515,57 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-09-06T20:24:25.912108+00:00",
     "emailed_utc": "2026-09-06T20:24:25.912108+00:00"
+  },
+  {
+    "job_id": "greenhouse:rocketlab:7987630003",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "rocketlab",
+    "title": "Senior Software Engineer II",
+    "location": "Tucson, AZ",
+    "posted": "2026-09-05T18:09:57-04:00",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7987630003",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-09-06T22:55:13.527560+00:00",
+    "emailed_utc": "2026-09-06T22:55:13.527560+00:00"
+  },
+  {
+    "job_id": "greenhouse:rocketlab:7987628003",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "rocketlab",
+    "title": "Senior Software Engineer II ",
+    "location": "Chantilly, VA",
+    "posted": "2026-09-05T18:10:39-04:00",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7987628003",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-09-06T22:55:13.527560+00:00",
+    "emailed_utc": "2026-09-06T22:55:13.527560+00:00"
+  },
+  {
+    "job_id": "smartrecruiters:ServiceNow:744000147650939",
+    "pipeline": "boards",
+    "platform": "smartrecruiters",
+    "company": "ServiceNow",
+    "title": "Staff\u00a0Full-Stack Engineer, Experience Team",
+    "location": "San Diego, CALIFORNIA, us",
+    "posted": "2026-09-05T20:46:15.989Z",
+    "url": "https://jobs.smartrecruiters.com/ServiceNow",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-09-06T22:55:13.527560+00:00",
+    "emailed_utc": "2026-09-06T22:55:13.527560+00:00"
+  },
+  {
+    "job_id": "workday:target:targetcareers:req:R0000451054",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Target",
+    "title": "Lead Machine Learning Engineer - Merchandising AI (ML Ops)",
+    "location": "7000 Target Pkwy N,NCD-0375 Brooklyn Park,MN 55445",
+    "posted": "Posted Today",
+    "url": "https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/7000-Target-Pkwy-NNCD-0375-Brooklyn-ParkMN-55445/Lead-Machine-Learning-Engineer---Merchandising-AI--ML-Ops-_R0000451054",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-09-06T22:55:13.527560+00:00",
+    "emailed_utc": "2026-09-06T22:55:13.527560+00:00"
   }
 ]
