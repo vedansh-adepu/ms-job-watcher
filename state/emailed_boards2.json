@@ -90959,5 +90959,44 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-09-06T05:06:47.383929+00:00",
     "emailed_utc": "2026-09-06T05:06:47.383929+00:00"
+  },
+  {
+    "job_id": "greenhouse:nurix:8784987002",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "nurix",
+    "title": "Associate Director, Chemical Engineering",
+    "location": "Brisbane, California, United States",
+    "posted": "2026-09-06T22:04:46-04:00",
+    "url": "https://job-boards.greenhouse.io/nurix/jobs/8784987002",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-09-07T05:15:29.960893+00:00",
+    "emailed_utc": "2026-09-07T05:15:29.960893+00:00"
+  },
+  {
+    "job_id": "greenhouse:reltio:6016610004",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "reltio",
+    "title": "Senior Cloud Security Engineer",
+    "location": "United States",
+    "posted": "2026-09-07T00:58:04-04:00",
+    "url": "https://job-boards.greenhouse.io/reltio/jobs/6016610004",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-09-07T05:15:29.960893+00:00",
+    "emailed_utc": "2026-09-07T05:15:29.960893+00:00"
+  },
+  {
+    "job_id": "greenhouse:tangotherapeutics:7986609003",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "tangotherapeutics",
+    "title": "Executive Director, Insights & Analytics",
+    "location": "Boston, MA",
+    "posted": "2026-09-06T15:17:43-04:00",
+    "url": "https://job-boards.greenhouse.io/tangotherapeutics/jobs/7986609003",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-09-07T05:15:29.960893+00:00",
+    "emailed_utc": "2026-09-07T05:15:29.960893+00:00"
   }
 ]
