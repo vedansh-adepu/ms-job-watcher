@@ -24373,5 +24373,18 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-09-07T12:22:03.978653+00:00",
     "emailed_utc": "2026-09-07T12:22:03.978653+00:00"
+  },
+  {
+    "job_id": "amazon:ddfe6155-bd5f-4b4e-8107-f4bb0d9376e6",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "SDE-II, Supply Chain",
+    "location": "US, WA, Bellevue",
+    "posted": "September  7, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10531028/sde-ii-supply-chain",
+    "bucket": "yes",
+    "first_seen_utc": "2026-09-07T19:08:32.329136+00:00",
+    "emailed_utc": "2026-09-07T19:08:32.329136+00:00"
   }
 ]
