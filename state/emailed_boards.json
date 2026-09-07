@@ -205567,5 +205567,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-09-06T22:55:13.527560+00:00",
     "emailed_utc": "2026-09-06T22:55:13.527560+00:00"
+  },
+  {
+    "job_id": "lever:field-ai:e22d37a0-6247-4e20-8c63-cb2d84056b85",
+    "pipeline": "boards",
+    "platform": "lever",
+    "company": "Field Ai",
+    "title": "3D/AR/VR Software Engineer",
+    "location": "Boston, MA",
+    "posted": "2026-09-06 20:38 UTC",
+    "url": "https://jobs.lever.co/field-ai/e22d37a0-6247-4e20-8c63-cb2d84056b85",
+    "bucket": "yes",
+    "first_seen_utc": "2026-09-07T12:26:29.380284+00:00",
+    "emailed_utc": "2026-09-07T12:26:29.380284+00:00"
+  },
+  {
+    "job_id": "ashby:factory:563ec0f6-446d-4c62-a603-7753892d756f",
+    "pipeline": "boards",
+    "platform": "ashby",
+    "company": "Factory",
+    "title": "Solutions Engineer,  Mid-Market, SF",
+    "location": "San Francisco, CA",
+    "posted": "",
+    "url": "https://jobs.ashbyhq.com/factory/563ec0f6-446d-4c62-a603-7753892d756f",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-09-07T12:26:29.380284+00:00",
+    "emailed_utc": "2026-09-07T12:26:29.380284+00:00"
   }
 ]
