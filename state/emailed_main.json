@@ -24386,5 +24386,31 @@
     "bucket": "yes",
     "first_seen_utc": "2026-09-07T19:08:32.329136+00:00",
     "emailed_utc": "2026-09-07T19:08:32.329136+00:00"
+  },
+  {
+    "job_id": "nvidia:893397606490",
+    "pipeline": "main",
+    "platform": "nvidia",
+    "company": "NVIDIA",
+    "title": "Senior Software Engineer, Object Storage - DGX Cloud",
+    "location": "US",
+    "posted": "2026-09-07 00:00 UTC",
+    "url": "https://nvidia.eightfold.ai/careers/job/893397606490",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-09-08T04:28:03.007963+00:00",
+    "emailed_utc": "2026-09-08T04:28:03.007963+00:00"
+  },
+  {
+    "job_id": "amazon:16bfcb2c-808a-4a1e-b3f7-3babce838255",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Principal Applied Scientist, CX Science",
+    "location": "US, CA, Santa Clara",
+    "posted": "September  8, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10531329/principal-applied-scientist-cx-science",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-09-08T04:28:03.007963+00:00",
+    "emailed_utc": "2026-09-08T04:28:03.007963+00:00"
   }
 ]
