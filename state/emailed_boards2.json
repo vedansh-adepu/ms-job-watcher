@@ -91024,5 +91024,70 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-09-07T23:46:40.837481+00:00",
     "emailed_utc": "2026-09-07T23:46:40.837481+00:00"
+  },
+  {
+    "job_id": "greenhouse:lodestarspace:4969756101",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "lodestarspace",
+    "title": "Software Engineer I,II,III: Simulations ",
+    "location": "Los Angeles, US",
+    "posted": "2026-09-07T11:11:38-04:00",
+    "url": "https://job-boards.eu.greenhouse.io/lodestarspace/jobs/4969756101",
+    "bucket": "yes",
+    "first_seen_utc": "2026-09-08T05:15:58.132082+00:00",
+    "emailed_utc": "2026-09-08T05:15:58.132082+00:00"
+  },
+  {
+    "job_id": "greenhouse:lodestarspace:4965825101",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "lodestarspace",
+    "title": "Software Engineer I or II: State Estimation & Prediction",
+    "location": "Los Angeles, US",
+    "posted": "2026-09-07T08:35:41-04:00",
+    "url": "https://job-boards.eu.greenhouse.io/lodestarspace/jobs/4965825101",
+    "bucket": "yes",
+    "first_seen_utc": "2026-09-08T05:15:58.132082+00:00",
+    "emailed_utc": "2026-09-08T05:15:58.132082+00:00"
+  },
+  {
+    "job_id": "greenhouse:lodestarspace:4969597101",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "lodestarspace",
+    "title": "Software Engineer I: Perception ",
+    "location": "Los Angeles, US",
+    "posted": "2026-09-07T07:20:16-04:00",
+    "url": "https://job-boards.eu.greenhouse.io/lodestarspace/jobs/4969597101",
+    "bucket": "yes",
+    "first_seen_utc": "2026-09-08T05:15:58.132082+00:00",
+    "emailed_utc": "2026-09-08T05:15:58.132082+00:00"
+  },
+  {
+    "job_id": "greenhouse:northpointtechnology:8785302002",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "northpointtechnology",
+    "title": "Software Engineer - Full Stack (Top Secret/SCI Clearance Required)",
+    "location": "Herndon, Virginia, United States",
+    "posted": "2026-09-07T09:58:06-04:00",
+    "url": "https://job-boards.greenhouse.io/northpointtechnology/jobs/8785302002",
+    "bucket": "yes",
+    "first_seen_utc": "2026-09-08T05:15:58.132082+00:00",
+    "emailed_utc": "2026-09-08T05:15:58.132082+00:00"
+  },
+  {
+    "job_id": "greenhouse:northpointtechnology:8785303002",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "northpointtechnology",
+    "title": "Software Engineer - Full Stack (Top Secret/SCI Clearance Required)",
+    "location": "King of Prussia, Pennsylvania, United States",
+    "posted": "2026-09-07T09:58:43-04:00",
+    "url": "https://job-boards.greenhouse.io/northpointtechnology/jobs/8785303002",
+    "bucket": "yes",
+    "first_seen_utc": "2026-09-08T05:15:58.132082+00:00",
+    "emailed_utc": "2026-09-08T05:15:58.132082+00:00"
   }
 ]
