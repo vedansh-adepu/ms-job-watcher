@@ -25101,5 +25101,57 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-09-09T11:16:03.969497+00:00",
     "emailed_utc": "2026-09-09T11:16:03.969497+00:00"
+  },
+  {
+    "job_id": "amazon:e83cf88d-b84e-4bbf-b7c8-842924f8785a",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, Amazon Security Platform Engineering",
+    "location": "US, CA, San Luis Obispo",
+    "posted": "September  9, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10534042/software-development-engineer-amazon-security-platform-engineering",
+    "bucket": "yes",
+    "first_seen_utc": "2026-09-09T16:34:37.092959+00:00",
+    "emailed_utc": "2026-09-09T16:34:37.092959+00:00"
+  },
+  {
+    "job_id": "amazon:29863997-eae1-430f-8068-161ff0206f00",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer II, ECS Developer Platforms",
+    "location": "US, NJ, Jersey City",
+    "posted": "September  9, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10534326/software-development-engineer-ii-ecs-developer-platforms",
+    "bucket": "yes",
+    "first_seen_utc": "2026-09-09T16:34:37.092959+00:00",
+    "emailed_utc": "2026-09-09T16:34:37.092959+00:00"
+  },
+  {
+    "job_id": "amazon:30156eb0-d7e7-4605-9c5a-040e029301fb",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Manager, AMPS Partnership Engineering",
+    "location": "US, TX, Austin",
+    "posted": "September  9, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10534430/software-development-manager-amps-partnership-engineering",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-09-09T16:34:37.092959+00:00",
+    "emailed_utc": "2026-09-09T16:34:37.092959+00:00"
+  },
+  {
+    "job_id": "amazon:ff668318-4a71-4b6d-b75f-90a9e30b23b2",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Dev Engineer II, ECS - Experience",
+    "location": "US, NJ, Jersey City",
+    "posted": "September  9, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10534451/software-dev-engineer-ii-ecs-experience",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-09-09T16:34:37.092959+00:00",
+    "emailed_utc": "2026-09-09T16:34:37.092959+00:00"
   }
 ]
