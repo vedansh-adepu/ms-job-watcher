@@ -96237,5 +96237,44 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-09-10T21:14:42.936886+00:00",
     "emailed_utc": "2026-09-10T21:14:42.936886+00:00"
+  },
+  {
+    "job_id": "lever:valdeseng:dd54b521-c98e-47e7-873e-48289508448a",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "valdeseng",
+    "title": "Civil Engineer",
+    "location": "Lombard, IL",
+    "posted": "2025-07-22 14:18 UTC",
+    "url": "https://jobs.lever.co/valdeseng/dd54b521-c98e-47e7-873e-48289508448a",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-09-10T23:24:49.426849+00:00",
+    "emailed_utc": "2026-09-10T23:24:49.426849+00:00"
+  },
+  {
+    "job_id": "lever:valdeseng:817779b6-64ee-422f-ab0e-45c3cb78da0f",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "valdeseng",
+    "title": "Structural Engineer",
+    "location": "Lombard, IL",
+    "posted": "2022-02-07 17:33 UTC",
+    "url": "https://jobs.lever.co/valdeseng/817779b6-64ee-422f-ab0e-45c3cb78da0f",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-09-10T23:24:49.426849+00:00",
+    "emailed_utc": "2026-09-10T23:24:49.426849+00:00"
+  },
+  {
+    "job_id": "lever:wpromote:9c823cf2-8a6b-4874-bf91-1ffb0dbf7c01",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "wpromote",
+    "title": "Senior Software Engineer II (Data Pipelines)",
+    "location": "Remote, United States",
+    "posted": "2026-09-10 23:12 UTC",
+    "url": "https://jobs.lever.co/wpromote/9c823cf2-8a6b-4874-bf91-1ffb0dbf7c01",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-09-10T23:24:49.426849+00:00",
+    "emailed_utc": "2026-09-10T23:24:49.426849+00:00"
   }
 ]
