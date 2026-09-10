@@ -25686,5 +25686,31 @@
     "bucket": "yes",
     "first_seen_utc": "2026-09-10T11:11:39.147946+00:00",
     "emailed_utc": "2026-09-10T11:11:39.147946+00:00"
+  },
+  {
+    "job_id": "nvidia:893397640588",
+    "pipeline": "main",
+    "platform": "nvidia",
+    "company": "NVIDIA",
+    "title": "Senior Systems Software Engineer - Infrastructure",
+    "location": "Santa Clara, CA, US",
+    "posted": "2026-09-10 00:00 UTC",
+    "url": "https://nvidia.eightfold.ai/careers/job/893397640588",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-09-10T16:21:25.780245+00:00",
+    "emailed_utc": "2026-09-10T16:21:25.780245+00:00"
+  },
+  {
+    "job_id": "amazon:67938499-d7d2-4473-a06b-1ee085d7bddd",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Senior Software Engineer - AI/ML, AWS Neuron Inference",
+    "location": "US, WA, Seattle",
+    "posted": "September 10, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10536015/senior-software-engineer-ai-ml-aws-neuron-inference",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-09-10T16:21:25.780245+00:00",
+    "emailed_utc": "2026-09-10T16:21:25.780245+00:00"
   }
 ]
