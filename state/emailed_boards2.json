@@ -94820,5 +94820,18 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-09-09T23:32:31.277178+00:00",
     "emailed_utc": "2026-09-09T23:32:31.277178+00:00"
+  },
+  {
+    "job_id": "lever:xcimer:badde656-9f50-4839-a9c4-cefb019acd09",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "xcimer",
+    "title": "Data Engineer",
+    "location": "Denver, CO",
+    "posted": "2026-09-09 20:45 UTC",
+    "url": "https://jobs.lever.co/xcimer/badde656-9f50-4839-a9c4-cefb019acd09",
+    "bucket": "yes",
+    "first_seen_utc": "2026-09-10T05:18:38.761558+00:00",
+    "emailed_utc": "2026-09-10T05:18:38.761558+00:00"
   }
 ]
