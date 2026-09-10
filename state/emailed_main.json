@@ -25608,5 +25608,83 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-09-10T04:34:04.751718+00:00",
     "emailed_utc": "2026-09-10T04:34:04.751718+00:00"
+  },
+  {
+    "job_id": "microsoft:1970393556982925",
+    "pipeline": "main",
+    "platform": "microsoft",
+    "company": "Microsoft",
+    "title": "Software Engineer Intune",
+    "location": "Redmond, WA, US",
+    "posted": "2026-09-09 20:48 UTC",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556982925",
+    "bucket": "yes",
+    "first_seen_utc": "2026-09-10T11:11:39.147946+00:00",
+    "emailed_utc": "2026-09-10T11:11:39.147946+00:00"
+  },
+  {
+    "job_id": "amazon:5688b83f-c83b-4ebe-bc64-da62e9151815",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer II, Post Silicon Validation",
+    "location": "US, TX, Austin",
+    "posted": "September 10, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10535706/software-development-engineer-ii-post-silicon-validation",
+    "bucket": "yes",
+    "first_seen_utc": "2026-09-10T11:11:39.147946+00:00",
+    "emailed_utc": "2026-09-10T11:11:39.147946+00:00"
+  },
+  {
+    "job_id": "amazon:bc3a87da-0a63-4ee1-8cb1-72e7837b4e72",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Machine Learning Engineer, Prime Video ML Platform",
+    "location": "US, WA, Seattle",
+    "posted": "September 10, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10535739/machine-learning-engineer-prime-video-ml-platform",
+    "bucket": "yes",
+    "first_seen_utc": "2026-09-10T11:11:39.147946+00:00",
+    "emailed_utc": "2026-09-10T11:11:39.147946+00:00"
+  },
+  {
+    "job_id": "ibm:6b90b7b1223e368161a8543e7bada4bcfaed87534a11b774a5461de5eaff00fd",
+    "pipeline": "main",
+    "platform": "ibm",
+    "company": "IBM",
+    "title": "Associate Software Engineer",
+    "location": "United States",
+    "posted": "",
+    "url": "https://careers.ibm.com/careers/JobDetail?jobId=131804",
+    "bucket": "yes",
+    "first_seen_utc": "2026-09-10T11:11:39.147946+00:00",
+    "emailed_utc": "2026-09-10T11:11:39.147946+00:00"
+  },
+  {
+    "job_id": "ibm:d38968071f5c7ede6b4e6e2bc152fcf846a0bd28b88afd3b6bc9ff9120e0f668",
+    "pipeline": "main",
+    "platform": "ibm",
+    "company": "IBM",
+    "title": "Associate Software Engineer",
+    "location": "United States",
+    "posted": "",
+    "url": "https://careers.ibm.com/careers/JobDetail?jobId=132165",
+    "bucket": "yes",
+    "first_seen_utc": "2026-09-10T11:11:39.147946+00:00",
+    "emailed_utc": "2026-09-10T11:11:39.147946+00:00"
+  },
+  {
+    "job_id": "ibm:419be605fce598b6fa1485e4ba06a0277648fd9734b7534d8d0cb6ceac113a2e",
+    "pipeline": "main",
+    "platform": "ibm",
+    "company": "IBM",
+    "title": "Associate Software Engineer",
+    "location": "United States",
+    "posted": "",
+    "url": "https://careers.ibm.com/careers/JobDetail?jobId=131797",
+    "bucket": "yes",
+    "first_seen_utc": "2026-09-10T11:11:39.147946+00:00",
+    "emailed_utc": "2026-09-10T11:11:39.147946+00:00"
   }
 ]
