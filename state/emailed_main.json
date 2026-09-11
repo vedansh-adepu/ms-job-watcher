@@ -26037,5 +26037,70 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-09-10T23:08:06.650993+00:00",
     "emailed_utc": "2026-09-10T23:08:06.650993+00:00"
+  },
+  {
+    "job_id": "amazon:003b3e0e-6b38-4347-988d-00df76452c78",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": " Software Development Engineer, AWS OpenSearch",
+    "location": "US, TX, Austin",
+    "posted": "September 10, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10536943/software-development-engineer-aws-opensearch",
+    "bucket": "yes",
+    "first_seen_utc": "2026-09-11T04:31:55.875927+00:00",
+    "emailed_utc": "2026-09-11T04:31:55.875927+00:00"
+  },
+  {
+    "job_id": "amazon:5bd913e5-b1d6-4ccd-bfeb-8614ed371280",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, AWS CloudWatch OpenTelemetry",
+    "location": "US, WA, Seattle",
+    "posted": "September  9, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10534633/software-development-engineer-aws-cloudwatch-opentelemetry",
+    "bucket": "yes",
+    "first_seen_utc": "2026-09-11T04:31:55.875927+00:00",
+    "emailed_utc": "2026-09-11T04:31:55.875927+00:00"
+  },
+  {
+    "job_id": "microsoft:1970393556994428",
+    "pipeline": "main",
+    "platform": "microsoft",
+    "company": "Microsoft",
+    "title": "Software Engineering II and Senior Software Engineer (CoreAI - Post Training)",
+    "location": "US",
+    "posted": "2026-09-10 23:41 UTC",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556994428",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-09-11T04:31:55.875927+00:00",
+    "emailed_utc": "2026-09-11T04:31:55.875927+00:00"
+  },
+  {
+    "job_id": "amazon:9b3586f9-4075-429e-8c8a-936d14ffb66c",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Manager, Leo Security",
+    "location": "US, VA, Arlington",
+    "posted": "September 11, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10537052/software-development-manager-leo-security",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-09-11T04:31:55.875927+00:00",
+    "emailed_utc": "2026-09-11T04:31:55.875927+00:00"
+  },
+  {
+    "job_id": "amazon:1b2c8ea4-0954-4f14-91fd-4b87bc75fa46",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Manager, Supply Chain Optimization Tech",
+    "location": "US, WA, Bellevue",
+    "posted": "September 11, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10537045/software-development-manager-supply-chain-optimization-tech",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-09-11T04:31:55.875927+00:00",
+    "emailed_utc": "2026-09-11T04:31:55.875927+00:00"
   }
 ]
