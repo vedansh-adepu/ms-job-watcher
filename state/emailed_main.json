@@ -26557,5 +26557,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-09-11T23:13:53.371387+00:00",
     "emailed_utc": "2026-09-11T23:13:53.371387+00:00"
+  },
+  {
+    "job_id": "microsoft:1970393556980093",
+    "pipeline": "main",
+    "platform": "microsoft",
+    "company": "Microsoft",
+    "title": "Security Solution Engineer",
+    "location": "US",
+    "posted": "2026-09-09 16:18 UTC",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556980093",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-09-12T04:28:26.862265+00:00",
+    "emailed_utc": "2026-09-12T04:28:26.862265+00:00"
+  },
+  {
+    "job_id": "amazon:61ce44c4-82bb-4aaf-9e1d-9110bc79eff6",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Sr. Software Development Engineer, Inference Team - AWS Neuron",
+    "location": "US, WA, Seattle",
+    "posted": "September 12, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10538171/sr-software-development-engineer-inference-team-aws-neuron",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-09-12T04:28:26.862265+00:00",
+    "emailed_utc": "2026-09-12T04:28:26.862265+00:00"
   }
 ]
