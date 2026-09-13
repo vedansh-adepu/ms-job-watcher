@@ -225626,5 +225626,57 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-09-13T20:48:50.092208+00:00",
     "emailed_utc": "2026-09-13T20:48:50.092208+00:00"
+  },
+  {
+    "job_id": "greenhouse:elastic:8154426",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Elastic",
+    "title": "Software Engineer II - Builder Experience - Platform Engineering Productivity",
+    "location": "United States",
+    "posted": "2026-09-13T10:09:34-04:00",
+    "url": "https://jobs.elastic.co/jobs?gh_jid=8154426&gh_jid=8154426",
+    "bucket": "yes",
+    "first_seen_utc": "2026-09-13T23:09:57.467883+00:00",
+    "emailed_utc": "2026-09-13T23:09:57.467883+00:00"
+  },
+  {
+    "job_id": "workday:gdit:External_Career_Site:req:RQ228236",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "General Dynamics Information Technology (GDIT)",
+    "title": "Network Engineering Technical Lead",
+    "location": "USA VA Falls Church",
+    "posted": "Posted Today",
+    "url": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-Falls-Church/Network-Engineering-Technical-Lead_RQ228236",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-09-13T23:09:57.467883+00:00",
+    "emailed_utc": "2026-09-13T23:09:57.467883+00:00"
+  },
+  {
+    "job_id": "workday:gdit:External_Career_Site:req:RQ228184",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "General Dynamics Information Technology (GDIT)",
+    "title": "Senior Network Engineer",
+    "location": "USA VA Reston",
+    "posted": "Posted Today",
+    "url": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-Reston/Senior-Network-Engineer_RQ228184",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-09-13T23:09:57.467883+00:00",
+    "emailed_utc": "2026-09-13T23:09:57.467883+00:00"
+  },
+  {
+    "job_id": "workday:leidos:External:req:R-00188809",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Leidos",
+    "title": "Senior Information System Security Engineer",
+    "location": "6314 Remote/Teleworker US",
+    "posted": "Posted Today",
+    "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/6314-RemoteTeleworker-US/Senior-Information-System-Security-Engineer_R-00188809-1",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-09-13T23:09:57.467883+00:00",
+    "emailed_utc": "2026-09-13T23:09:57.467883+00:00"
   }
 ]
