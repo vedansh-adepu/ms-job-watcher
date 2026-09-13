@@ -99500,5 +99500,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-09-13T05:24:07.843478+00:00",
     "emailed_utc": "2026-09-13T05:24:07.843478+00:00"
+  },
+  {
+    "job_id": "greenhouse:referralsuseonly:8199626",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "referralsuseonly",
+    "title": "Software Engineer II - Builder Experience - Platform Engineering Productivity",
+    "location": "United States",
+    "posted": "2026-09-13T10:09:35-04:00",
+    "url": "https://job-boards.greenhouse.io/referralsuseonly/jobs/8199626",
+    "bucket": "yes",
+    "first_seen_utc": "2026-09-13T21:10:25.036998+00:00",
+    "emailed_utc": "2026-09-13T21:10:25.036998+00:00"
+  },
+  {
+    "job_id": "greenhouse:sesai:4729526005",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "sesai",
+    "title": "Field Application Engineer \u2013 Battery Energy Storage Systems",
+    "location": "Greater Boston (Woburn, MA) \u2013 On-site/Hybrid",
+    "posted": "2026-09-13T11:22:39-04:00",
+    "url": "https://boards.greenhouse.io/sesai/jobs/4729526005?gh_jid=4729526005",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-09-13T21:10:25.036998+00:00",
+    "emailed_utc": "2026-09-13T21:10:25.036998+00:00"
   }
 ]
