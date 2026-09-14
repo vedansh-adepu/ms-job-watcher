@@ -99539,5 +99539,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-09-13T23:33:45.178670+00:00",
     "emailed_utc": "2026-09-13T23:33:45.178670+00:00"
+  },
+  {
+    "job_id": "greenhouse:asm:4966117101",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "asm",
+    "title": "Engineer II, Field Service",
+    "location": "Ireland > Lucan, Co. Dublin",
+    "posted": "2026-09-13T15:54:12-04:00",
+    "url": "https://www.asm.com/open-vacancies/?gh_jid=4966117101",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-09-14T13:23:01.013948+00:00",
+    "emailed_utc": "2026-09-14T13:23:01.013948+00:00"
+  },
+  {
+    "job_id": "greenhouse:hyliion:6190961004",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "hyliion",
+    "title": "Engineer, Test & Validation",
+    "location": "Cincinnati, Ohio, United States",
+    "posted": "2026-09-14T08:23:23-04:00",
+    "url": "https://job-boards.greenhouse.io/hyliion/jobs/6190961004",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-09-14T13:23:01.013948+00:00",
+    "emailed_utc": "2026-09-14T13:23:01.013948+00:00"
   }
 ]
