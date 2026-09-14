@@ -26635,5 +26635,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-09-13T23:07:12.055473+00:00",
     "emailed_utc": "2026-09-13T23:07:12.055473+00:00"
+  },
+  {
+    "job_id": "amazon:ddcd460f-fa99-450e-adf3-97f405f3ffab",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, AWS Transform",
+    "location": "US, WA, Seattle",
+    "posted": "September 14, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10538318/software-development-engineer-aws-transform",
+    "bucket": "yes",
+    "first_seen_utc": "2026-09-14T04:49:16.921229+00:00",
+    "emailed_utc": "2026-09-14T04:49:16.921229+00:00"
+  },
+  {
+    "job_id": "amazon:60ee0498-7c49-4ee4-9ed1-270db54fc9be",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer , Ads Nova",
+    "location": "US, NY, New York",
+    "posted": "September 14, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10538328/software-development-engineer-ads-nova",
+    "bucket": "yes",
+    "first_seen_utc": "2026-09-14T04:49:16.921229+00:00",
+    "emailed_utc": "2026-09-14T04:49:16.921229+00:00"
   }
 ]
