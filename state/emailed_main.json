@@ -27116,5 +27116,57 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-09-14T23:51:56.883138+00:00",
     "emailed_utc": "2026-09-14T23:51:56.883138+00:00"
+  },
+  {
+    "job_id": "amazon:877b3280-55d5-4da5-89a7-a75f3162e90f",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, AI Studios Engineering",
+    "location": "US, CA, Culver City",
+    "posted": "September 15, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10541530/software-development-engineer-ai-studios-engineering",
+    "bucket": "yes",
+    "first_seen_utc": "2026-09-15T11:38:49.944129+00:00",
+    "emailed_utc": "2026-09-15T11:38:49.944129+00:00"
+  },
+  {
+    "job_id": "amazon:381e8fef-0e44-40a1-a00b-e76330e02364",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, AI Studios Engineering",
+    "location": "US, CA, Culver City",
+    "posted": "September 15, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10541540/software-development-engineer-ai-studios-engineering",
+    "bucket": "yes",
+    "first_seen_utc": "2026-09-15T11:38:49.944129+00:00",
+    "emailed_utc": "2026-09-15T11:38:49.944129+00:00"
+  },
+  {
+    "job_id": "amazon:2378ad4f-67bc-4f8d-89bc-5861b5f1ade8",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, Eva Development Team",
+    "location": "US, WA, Bellevue",
+    "posted": "September 15, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10541281/software-development-engineer-eva-development-team",
+    "bucket": "yes",
+    "first_seen_utc": "2026-09-15T11:38:49.944129+00:00",
+    "emailed_utc": "2026-09-15T11:38:49.944129+00:00"
+  },
+  {
+    "job_id": "amazon:8027ceb9-86f8-4bfb-a255-608632b11d25",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, Eva Development Team",
+    "location": "US, WA, Bellevue",
+    "posted": "September 15, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10541282/software-development-engineer-eva-development-team",
+    "bucket": "yes",
+    "first_seen_utc": "2026-09-15T11:38:49.944129+00:00",
+    "emailed_utc": "2026-09-15T11:38:49.944129+00:00"
   }
 ]
