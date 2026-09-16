@@ -27792,5 +27792,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-09-16T04:44:03.653260+00:00",
     "emailed_utc": "2026-09-16T04:44:03.653260+00:00"
+  },
+  {
+    "job_id": "amazon:1430d8cb-48aa-4638-9a5d-33d58f922399",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer , AWS Kubernetes (K8s), AWS Kubernetes",
+    "location": "US, CA, Santa Clara",
+    "posted": "September 16, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10544200/software-development-engineer-aws-kubernetes-k8s-aws-kubernetes",
+    "bucket": "yes",
+    "first_seen_utc": "2026-09-16T11:25:55.688794+00:00",
+    "emailed_utc": "2026-09-16T11:25:55.688794+00:00"
+  },
+  {
+    "job_id": "amazon:b7368cb5-ffdc-4636-9c4a-c0200cc4da59",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Senior Software Engineer, Graviton Software",
+    "location": "US, TX, Austin",
+    "posted": "September 16, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10544235/senior-software-engineer-graviton-software",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-09-16T11:25:55.688794+00:00",
+    "emailed_utc": "2026-09-16T11:25:55.688794+00:00"
   }
 ]
