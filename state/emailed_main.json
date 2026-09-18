@@ -29326,5 +29326,70 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-09-18T04:36:44.280124+00:00",
     "emailed_utc": "2026-09-18T04:36:44.280124+00:00"
+  },
+  {
+    "job_id": "amazon:1f65f463-a8ee-4393-b19d-13ff0d0da2a1",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Applied Scientist (Speech AI), Content Reasoning, Enrichment and Localization",
+    "location": "US, WA, Seattle",
+    "posted": "September 18, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10553200/applied-scientist-speech-ai-content-reasoning-enrichment-and-localization",
+    "bucket": "yes",
+    "first_seen_utc": "2026-09-18T11:08:12.511641+00:00",
+    "emailed_utc": "2026-09-18T11:08:12.511641+00:00"
+  },
+  {
+    "job_id": "amazon:a0cc8898-8415-4cf7-b945-1e9404bd9c36",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, Prime Video ML Infrastructure",
+    "location": "US, WA, Seattle",
+    "posted": "September 18, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10553195/software-development-engineer-prime-video-ml-infrastructure",
+    "bucket": "yes",
+    "first_seen_utc": "2026-09-18T11:08:12.511641+00:00",
+    "emailed_utc": "2026-09-18T11:08:12.511641+00:00"
+  },
+  {
+    "job_id": "amazon:69c92f55-5215-4751-8d7c-afc277f90e18",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer 2, Prime Video Personalization and Discovery",
+    "location": "US, WA, Seattle",
+    "posted": "September 18, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10553194/software-development-engineer-2-prime-video-personalization-and-discovery",
+    "bucket": "yes",
+    "first_seen_utc": "2026-09-18T11:08:12.511641+00:00",
+    "emailed_utc": "2026-09-18T11:08:12.511641+00:00"
+  },
+  {
+    "job_id": "amazon:fb5d842b-d3f9-430b-bf84-b4cdb60936bf",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, Devices & Services Trust CX Innovations",
+    "location": "US, CA, Sunnyvale",
+    "posted": "September 18, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10553155/software-development-engineer-devices-services-trust-cx-innovations",
+    "bucket": "yes",
+    "first_seen_utc": "2026-09-18T11:08:12.511641+00:00",
+    "emailed_utc": "2026-09-18T11:08:12.511641+00:00"
+  },
+  {
+    "job_id": "amazon:129a27d9-6863-4f42-8552-0e1c169ba14f",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Senior Applied Scientist, Prime Video - Compression Efficiency Research Team",
+    "location": "US, WA, Seattle",
+    "posted": "September 18, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10553202/senior-applied-scientist-prime-video-compression-efficiency-research-team",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-09-18T11:08:12.511641+00:00",
+    "emailed_utc": "2026-09-18T11:08:12.511641+00:00"
   }
 ]
