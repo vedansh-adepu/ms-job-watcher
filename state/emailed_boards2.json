@@ -110732,5 +110732,44 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-09-20T05:26:46.631008+00:00",
     "emailed_utc": "2026-09-20T05:26:46.631008+00:00"
+  },
+  {
+    "job_id": "greenhouse:homelight:8211546",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "homelight",
+    "title": "Data Engineer, San Francisco, CA",
+    "location": "San Francisco, CA",
+    "posted": "2026-09-19T21:16:10-04:00",
+    "url": "https://job-boards.greenhouse.io/homelight/jobs/8211546",
+    "bucket": "yes",
+    "first_seen_utc": "2026-09-20T16:30:52.643902+00:00",
+    "emailed_utc": "2026-09-20T16:30:52.643902+00:00"
+  },
+  {
+    "job_id": "greenhouse:homelight:8211717",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "homelight",
+    "title": "Full Stack Engineer (D2C), San Francisco, CA",
+    "location": "San Francisco, CA",
+    "posted": "2026-09-19T21:19:28-04:00",
+    "url": "https://job-boards.greenhouse.io/homelight/jobs/8211717",
+    "bucket": "yes",
+    "first_seen_utc": "2026-09-20T16:30:52.643902+00:00",
+    "emailed_utc": "2026-09-20T16:30:52.643902+00:00"
+  },
+  {
+    "job_id": "greenhouse:capitalontap:8816700002",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "capitalontap",
+    "title": "Senior Software Engineer",
+    "location": "North Carolina, United States",
+    "posted": "2026-09-20T07:19:30-04:00",
+    "url": "https://job-boards.greenhouse.io/capitalontap/jobs/8816700002",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-09-20T16:30:52.643902+00:00",
+    "emailed_utc": "2026-09-20T16:30:52.643902+00:00"
   }
 ]
