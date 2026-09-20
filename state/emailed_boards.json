@@ -250326,5 +250326,44 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-09-20T11:19:01.767332+00:00",
     "emailed_utc": "2026-09-20T11:19:01.767332+00:00"
+  },
+  {
+    "job_id": "workday:capitalone:Capital_One:req:R1001157",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Capital One",
+    "title": "Capital One Shopping Tech, Staff Full Stack Engineer, Technical Chief of Staff (Remote - Eligible)",
+    "location": "McLean, VA",
+    "posted": "Posted Today",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Capital-One-Shopping-Tech--Staff-Full-Stack-Engineer--Technical-Chief-of-Staff--Remote---Eligible-_R1001157",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-09-20T16:03:57.777794+00:00",
+    "emailed_utc": "2026-09-20T16:03:57.777794+00:00"
+  },
+  {
+    "job_id": "workday:capitalone:Capital_One:req:R1001172",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Capital One",
+    "title": "Full-stack Engineer 4 (Manager, IC)",
+    "location": "New York, NY",
+    "posted": "Posted Yesterday",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/New-York-NY/Full-stack-Engineer-4--Manager--IC-_R1001172-1",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-09-20T16:03:57.777794+00:00",
+    "emailed_utc": "2026-09-20T16:03:57.777794+00:00"
+  },
+  {
+    "job_id": "workday:citi:2:req:26990397",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Citigroup",
+    "title": "Senior Back-end Java Developer - Trading Platforms, VP",
+    "location": "Jersey City New Jersey United States",
+    "posted": "Posted Today",
+    "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Jersey-City-New-Jersey-United-States/Senior-Back-end-Java-Developer---Trading-Platforms--VP_26990397",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-09-20T16:03:57.777794+00:00",
+    "emailed_utc": "2026-09-20T16:03:57.777794+00:00"
   }
 ]
