@@ -250261,5 +250261,70 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-09-20T04:52:03.296322+00:00",
     "emailed_utc": "2026-09-20T04:52:03.296322+00:00"
+  },
+  {
+    "job_id": "greenhouse:efficientcomputer:4236891009",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Efficientcomputer",
+    "title": "Lead RTL Design Engineer",
+    "location": "San Francisco, Bay Area OR Pittsburgh, PA OR Austin, TX",
+    "posted": "2026-09-19T14:35:50-04:00",
+    "url": "https://job-boards.greenhouse.io/efficientcomputer/jobs/4236891009",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-09-20T11:19:01.767332+00:00",
+    "emailed_utc": "2026-09-20T11:19:01.767332+00:00"
+  },
+  {
+    "job_id": "greenhouse:efficientcomputer:4303170009",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Efficientcomputer",
+    "title": "Performance Library Engineer",
+    "location": "San Francisco, Bay Area OR Pittsburgh, PA OR Austin, TX",
+    "posted": "2026-09-19T14:36:23-04:00",
+    "url": "https://job-boards.greenhouse.io/efficientcomputer/jobs/4303170009",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-09-20T11:19:01.767332+00:00",
+    "emailed_utc": "2026-09-20T11:19:01.767332+00:00"
+  },
+  {
+    "job_id": "greenhouse:lucidmotors:5215459007",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Lucidmotors",
+    "title": "Senior Embedded Firmware Engineer - Battery Software",
+    "location": "Newark, CA",
+    "posted": "2026-09-19T02:31:48-04:00",
+    "url": "https://lucidmotors.com/careers/search/5215459007?gh_jid=5215459007",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-09-20T11:19:01.767332+00:00",
+    "emailed_utc": "2026-09-20T11:19:01.767332+00:00"
+  },
+  {
+    "job_id": "greenhouse:lucidmotors:5215456007",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Lucidmotors",
+    "title": "Senior Engineer, Charging Software Testing",
+    "location": "Newark, CA",
+    "posted": "2026-09-19T02:45:18-04:00",
+    "url": "https://lucidmotors.com/careers/search/5215456007?gh_jid=5215456007",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-09-20T11:19:01.767332+00:00",
+    "emailed_utc": "2026-09-20T11:19:01.767332+00:00"
+  },
+  {
+    "job_id": "greenhouse:lucidmotors:5236704007",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Lucidmotors",
+    "title": "Senior Systems Engineer, Vehicle Connectivity and OTA",
+    "location": "Newark, CA",
+    "posted": "2026-09-19T02:22:24-04:00",
+    "url": "https://lucidmotors.com/careers/search/5236704007?gh_jid=5236704007",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-09-20T11:19:01.767332+00:00",
+    "emailed_utc": "2026-09-20T11:19:01.767332+00:00"
   }
 ]
