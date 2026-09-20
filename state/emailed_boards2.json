@@ -110784,5 +110784,44 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-09-20T21:04:44.020517+00:00",
     "emailed_utc": "2026-09-20T21:04:44.020517+00:00"
+  },
+  {
+    "job_id": "greenhouse:woolpert:4408110009",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "woolpert",
+    "title": "Senior Electrical Engineer",
+    "location": "Chicago, IL; Coral Gables, FL; Fairview Heights, IL; New York, NY; Remote - United States; St. Louis, MO",
+    "posted": "2026-09-20T19:19:24-04:00",
+    "url": "https://job-boards.greenhouse.io/woolpert/jobs/4408110009",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-09-20T23:34:08.686985+00:00",
+    "emailed_utc": "2026-09-20T23:34:08.686985+00:00"
+  },
+  {
+    "job_id": "lever:gohighlevel:77236e82-22cc-4e1b-9ed9-438a3b988d05",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "gohighlevel",
+    "title": "Staff Data Scientist - Core Revenue Retention",
+    "location": "United States",
+    "posted": "2026-09-20 07:57 UTC",
+    "url": "https://jobs.lever.co/gohighlevel/77236e82-22cc-4e1b-9ed9-438a3b988d05",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-09-20T23:34:08.686985+00:00",
+    "emailed_utc": "2026-09-20T23:34:08.686985+00:00"
+  },
+  {
+    "job_id": "lever:gohighlevel:b10b07d9-7155-4afe-ba6d-48c32ce04be2",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "gohighlevel",
+    "title": "Staff Data Scientist - Growth & Expansion",
+    "location": "United States",
+    "posted": "2026-09-20 07:46 UTC",
+    "url": "https://jobs.lever.co/gohighlevel/b10b07d9-7155-4afe-ba6d-48c32ce04be2",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-09-20T23:34:08.686985+00:00",
+    "emailed_utc": "2026-09-20T23:34:08.686985+00:00"
   }
 ]
