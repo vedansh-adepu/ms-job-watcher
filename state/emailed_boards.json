@@ -250651,5 +250651,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-09-20T23:15:43.556413+00:00",
     "emailed_utc": "2026-09-20T23:15:43.556413+00:00"
+  },
+  {
+    "job_id": "greenhouse:spacex:8826632002",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "SpaceX",
+    "title": "Software Engineer, Manufacturing ",
+    "location": "Bastrop, TX",
+    "posted": "2026-09-20T19:53:02-04:00",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8826632002?gh_jid=8826632002",
+    "bucket": "yes",
+    "first_seen_utc": "2026-09-21T04:53:12.852578+00:00",
+    "emailed_utc": "2026-09-21T04:53:12.852578+00:00"
+  },
+  {
+    "job_id": "greenhouse:robinhood:8107212",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Robinhood",
+    "title": "Senior Machine Learning Engineer, AI Platform & Agentic Apps",
+    "location": "Menlo Park, CA",
+    "posted": "2026-09-19T20:13:35-04:00",
+    "url": "https://boards.greenhouse.io/robinhood/jobs/8107212?t=gh_src=&gh_jid=8107212",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-09-21T04:53:12.852578+00:00",
+    "emailed_utc": "2026-09-21T04:53:12.852578+00:00"
   }
 ]
