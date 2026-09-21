@@ -29911,5 +29911,44 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-09-21T04:49:34.805267+00:00",
     "emailed_utc": "2026-09-21T04:49:34.805267+00:00"
+  },
+  {
+    "job_id": "nvidia:893397790060",
+    "pipeline": "main",
+    "platform": "nvidia",
+    "company": "NVIDIA",
+    "title": "Senior Software Engineer, Test - Autonomous Vehicles",
+    "location": "Santa Clara, CA, US",
+    "posted": "2026-09-21 00:00 UTC",
+    "url": "https://nvidia.eightfold.ai/careers/job/893397790060",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-09-21T12:42:04.636776+00:00",
+    "emailed_utc": "2026-09-21T12:42:04.636776+00:00"
+  },
+  {
+    "job_id": "nvidia:893397790070",
+    "pipeline": "main",
+    "platform": "nvidia",
+    "company": "NVIDIA",
+    "title": "Senior Machine Learning Engineer, Perception - Autonomous Driving",
+    "location": "Santa Clara, CA, US",
+    "posted": "2026-09-21 00:00 UTC",
+    "url": "https://nvidia.eightfold.ai/careers/job/893397790070",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-09-21T12:42:04.636776+00:00",
+    "emailed_utc": "2026-09-21T12:42:04.636776+00:00"
+  },
+  {
+    "job_id": "nvidia:893397790078",
+    "pipeline": "main",
+    "platform": "nvidia",
+    "company": "NVIDIA",
+    "title": "Senior Synthetic Data Engineer - Autonomous Driving",
+    "location": "Santa Clara, CA, US",
+    "posted": "2026-09-21 00:00 UTC",
+    "url": "https://nvidia.eightfold.ai/careers/job/893397790078",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-09-21T12:42:04.636776+00:00",
+    "emailed_utc": "2026-09-21T12:42:04.636776+00:00"
   }
 ]
