@@ -31354,5 +31354,57 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-09-23T04:40:07.042587+00:00",
     "emailed_utc": "2026-09-23T04:40:07.042587+00:00"
+  },
+  {
+    "job_id": "amazon:3f398ffa-471a-4e60-b464-23efeb11b51a",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Applied Scientist, Prime Video - Content Reasoning, Enrichment & Localization",
+    "location": "US, WA, Seattle",
+    "posted": "September 23, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10557476/applied-scientist-prime-video-content-reasoning-enrichment-localization",
+    "bucket": "yes",
+    "first_seen_utc": "2026-09-23T11:27:26.807582+00:00",
+    "emailed_utc": "2026-09-23T11:27:26.807582+00:00"
+  },
+  {
+    "job_id": "amazon:a724bded-f004-48c2-942d-0e28240ae87e",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Machine Learning Engineer II, Amazon Music - MusicIQ",
+    "location": "US, WA, Seattle",
+    "posted": "September 23, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10557456/machine-learning-engineer-ii-amazon-music-musiciq",
+    "bucket": "yes",
+    "first_seen_utc": "2026-09-23T11:27:26.807582+00:00",
+    "emailed_utc": "2026-09-23T11:27:26.807582+00:00"
+  },
+  {
+    "job_id": "amazon:2b3308b3-538d-4884-86e9-1c94f5c55d48",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Senior Applied Scientist, Real-Time Conversational AI , AGI",
+    "location": "US, CA, Sunnyvale",
+    "posted": "September 23, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10557469/senior-applied-scientist-real-time-conversational-ai-agi",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-09-23T11:27:26.807582+00:00",
+    "emailed_utc": "2026-09-23T11:27:26.807582+00:00"
+  },
+  {
+    "job_id": "amazon:ff1b75d5-2a3d-4607-a852-da2fc2347bcf",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Senior Software Engineer, AWS Applied AI Solutions",
+    "location": "US, WA, Seattle",
+    "posted": "September 23, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10557341/senior-software-engineer-aws-applied-ai-solutions",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-09-23T11:27:26.807582+00:00",
+    "emailed_utc": "2026-09-23T11:27:26.807582+00:00"
   }
 ]
