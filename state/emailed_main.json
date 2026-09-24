@@ -31679,5 +31679,44 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-09-23T21:28:00.307917+00:00",
     "emailed_utc": "2026-09-23T21:28:00.307917+00:00"
+  },
+  {
+    "job_id": "microsoft:1970393557007465",
+    "pipeline": "main",
+    "platform": "microsoft",
+    "company": "Microsoft",
+    "title": "Principal Software Engineer",
+    "location": "Redmond, WA, US",
+    "posted": "2026-09-23 21:56 UTC",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393557007465",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-09-24T04:40:13.594740+00:00",
+    "emailed_utc": "2026-09-24T04:40:13.594740+00:00"
+  },
+  {
+    "job_id": "amazon:341ae2b1-13de-48bf-ac68-fb2848cb8074",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Dev Engineer, Business Data Technologies",
+    "location": "US, MI, Detroit",
+    "posted": "September 23, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10558429/software-dev-engineer-business-data-technologies",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-09-24T04:40:13.594740+00:00",
+    "emailed_utc": "2026-09-24T04:40:13.594740+00:00"
+  },
+  {
+    "job_id": "amazon:c69ddafa-d4a3-4a3c-8365-1f5d68204fb5",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Senior Software Dev Engineer (Security), AWS Security Corporate Response",
+    "location": "US, WA, Seattle",
+    "posted": "September 24, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10558707/senior-software-dev-engineer-security-aws-security-corporate-response",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-09-24T04:40:13.594740+00:00",
+    "emailed_utc": "2026-09-24T04:40:13.594740+00:00"
   }
 ]
