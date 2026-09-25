@@ -32316,5 +32316,83 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-09-25T04:49:59.394100+00:00",
     "emailed_utc": "2026-09-25T04:49:59.394100+00:00"
+  },
+  {
+    "job_id": "amazon:04d827da-6f95-4b23-9fe0-af17377b01bb",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer II, AWS Cross Domain Services (CDS)",
+    "location": "US, VA, Arlington",
+    "posted": "September 25, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10560316/software-development-engineer-ii-aws-cross-domain-services-cds",
+    "bucket": "yes",
+    "first_seen_utc": "2026-09-25T17:06:29.430450+00:00",
+    "emailed_utc": "2026-09-25T17:06:29.430450+00:00"
+  },
+  {
+    "job_id": "amazon:5a54916e-eec9-4a51-bdf8-918d3bc3e47f",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer II, Agentic WorkSpaces Client",
+    "location": "US, WA, Seattle",
+    "posted": "September 25, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10560299/software-development-engineer-ii-agentic-workspaces-client",
+    "bucket": "yes",
+    "first_seen_utc": "2026-09-25T17:06:29.430450+00:00",
+    "emailed_utc": "2026-09-25T17:06:29.430450+00:00"
+  },
+  {
+    "job_id": "amazon:ac2bc4ce-31e1-4973-995f-c9bfb2d83b7a",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Applied Scientist- Physical AI for Manufacturing, OMHS SCS",
+    "location": "US, MA, Boston",
+    "posted": "September 25, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10560448/applied-scientist-physical-ai-for-manufacturing-omhs-scs",
+    "bucket": "yes",
+    "first_seen_utc": "2026-09-25T17:06:29.430450+00:00",
+    "emailed_utc": "2026-09-25T17:06:29.430450+00:00"
+  },
+  {
+    "job_id": "amazon:c3384c01-3214-471a-8b9f-893239e4d90c",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Manager, Classification&Policy Platform",
+    "location": "US, CA, Sunnyvale",
+    "posted": "September 25, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10560531/software-development-manager-classification-policy-platform",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-09-25T17:06:29.430450+00:00",
+    "emailed_utc": "2026-09-25T17:06:29.430450+00:00"
+  },
+  {
+    "job_id": "amazon:914a7b8c-15f7-4ef8-971a-03554e6b5852",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Manager, S3",
+    "location": "US, WA, Seattle",
+    "posted": "September 25, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10560402/software-development-manager-s3",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-09-25T17:06:29.430450+00:00",
+    "emailed_utc": "2026-09-25T17:06:29.430450+00:00"
+  },
+  {
+    "job_id": "amazon:a3d0a1da-5d48-4c67-9131-42b6de15741c",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Principal Engineer, Program Analysis, Automated Reasoning",
+    "location": "US, WA, Seattle",
+    "posted": "September 25, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10560511/principal-engineer-program-analysis-automated-reasoning",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-09-25T17:06:29.430450+00:00",
+    "emailed_utc": "2026-09-25T17:06:29.430450+00:00"
   }
 ]
