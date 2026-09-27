@@ -275741,5 +275741,44 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-09-26T23:38:09.532678+00:00",
     "emailed_utc": "2026-09-26T23:38:09.532678+00:00"
+  },
+  {
+    "job_id": "ashby:snowflake:6e96b818-2350-4601-8bdd-7ddd6c4a5f6d",
+    "pipeline": "boards",
+    "platform": "ashby",
+    "company": "Snowflake",
+    "title": "Software Engineer - Postgres",
+    "location": "US-CA-Menlo Park",
+    "posted": "",
+    "url": "https://jobs.ashbyhq.com/snowflake/6e96b818-2350-4601-8bdd-7ddd6c4a5f6d",
+    "bucket": "yes",
+    "first_seen_utc": "2026-09-27T05:15:57.336380+00:00",
+    "emailed_utc": "2026-09-27T05:15:57.336380+00:00"
+  },
+  {
+    "job_id": "ashby:replit:4df82fb0-0bcb-4034-89ce-09e679b00fe7",
+    "pipeline": "boards",
+    "platform": "ashby",
+    "company": "Replit",
+    "title": " Staff Software Engineer, Agentic Ads ",
+    "location": "Foster City, CA",
+    "posted": "",
+    "url": "https://jobs.ashbyhq.com/replit/4df82fb0-0bcb-4034-89ce-09e679b00fe7",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-09-27T05:15:57.336380+00:00",
+    "emailed_utc": "2026-09-27T05:15:57.336380+00:00"
+  },
+  {
+    "job_id": "ashby:snowflake:b99ba76c-0938-4a41-931b-d1fb2543126c",
+    "pipeline": "boards",
+    "platform": "ashby",
+    "company": "Snowflake",
+    "title": "Staff Software Engineer - Postgres Control Plane",
+    "location": "US-WA-Bellevue",
+    "posted": "",
+    "url": "https://jobs.ashbyhq.com/snowflake/b99ba76c-0938-4a41-931b-d1fb2543126c",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-09-27T05:15:57.336380+00:00",
+    "emailed_utc": "2026-09-27T05:15:57.336380+00:00"
   }
 ]
