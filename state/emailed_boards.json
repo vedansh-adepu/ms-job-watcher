@@ -275806,5 +275806,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-09-27T16:58:24.659723+00:00",
     "emailed_utc": "2026-09-27T16:58:24.659723+00:00"
+  },
+  {
+    "job_id": "workday:gdit:External_Career_Site:req:RQ229272",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "General Dynamics Information Technology (GDIT)",
+    "title": "Network Engineer Sr",
+    "location": "USA AK Joint Base Elmendorf Richardson",
+    "posted": "Posted Today",
+    "url": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-AK-Joint-Base-Elmendorf-Richardson/Network-Engineer-Sr_RQ229272-1",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-09-27T21:21:02.758591+00:00",
+    "emailed_utc": "2026-09-27T21:21:02.758591+00:00"
+  },
+  {
+    "job_id": "workday:gdit:External_Career_Site:req:RQ229194",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "General Dynamics Information Technology (GDIT)",
+    "title": "Army Watercraft Systems Senior Analyst / Engineer \u2013 Secret Clearance Required",
+    "location": "USA VA Newport News",
+    "posted": "Posted Today",
+    "url": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-Newport-News/Army-Watercraft-Systems-Senior-Analyst---Engineer---Secret-Clearance-Required_RQ229194-1",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-09-27T21:21:02.758591+00:00",
+    "emailed_utc": "2026-09-27T21:21:02.758591+00:00"
   }
 ]
