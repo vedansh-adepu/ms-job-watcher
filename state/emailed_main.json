@@ -32667,5 +32667,70 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-09-28T05:16:45.801644+00:00",
     "emailed_utc": "2026-09-28T05:16:45.801644+00:00"
+  },
+  {
+    "job_id": "nvidia:893397883146",
+    "pipeline": "main",
+    "platform": "nvidia",
+    "company": "NVIDIA",
+    "title": "AI Software Engineer, Lightspeed Studios",
+    "location": "CA,US",
+    "posted": "2026-09-28 00:00 UTC",
+    "url": "https://nvidia.eightfold.ai/careers/job/893397883146",
+    "bucket": "yes",
+    "first_seen_utc": "2026-09-28T13:46:16.923030+00:00",
+    "emailed_utc": "2026-09-28T13:46:16.923030+00:00"
+  },
+  {
+    "job_id": "amazon:e4854e45-1021-4e01-b3b1-a1431eee5c5f",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer , DynamoDB Index, Search and Storage",
+    "location": "US, WA, Seattle",
+    "posted": "September 28, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10561388/software-development-engineer-dynamodb-index-search-and-storage",
+    "bucket": "yes",
+    "first_seen_utc": "2026-09-28T13:46:16.923030+00:00",
+    "emailed_utc": "2026-09-28T13:46:16.923030+00:00"
+  },
+  {
+    "job_id": "nvidia:893397883645",
+    "pipeline": "main",
+    "platform": "nvidia",
+    "company": "NVIDIA",
+    "title": "Senior System Software Engineer, NVLink Fusion",
+    "location": "Santa Clara, CA, US",
+    "posted": "2026-09-28 00:00 UTC",
+    "url": "https://nvidia.eightfold.ai/careers/job/893397883645",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-09-28T13:46:16.923030+00:00",
+    "emailed_utc": "2026-09-28T13:46:16.923030+00:00"
+  },
+  {
+    "job_id": "amazon:0c1be52a-030a-45de-a381-2b89456245ae",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Dev Engineer III,  Amazon Interactive Video Service (IVS), Stream Management",
+    "location": "US, WA, Seattle",
+    "posted": "September 28, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10561518/software-dev-engineer-iii-amazon-interactive-video-service-ivs-stream-management",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-09-28T13:46:16.923030+00:00",
+    "emailed_utc": "2026-09-28T13:46:16.923030+00:00"
+  },
+  {
+    "job_id": "amazon:fcf48068-40fb-4fca-a6fa-f9fcadcf77ad",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Sr. Software Development Engineer, AWS Transform",
+    "location": "US, MA, Boston",
+    "posted": "September 28, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10561448/sr-software-development-engineer-aws-transform",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-09-28T13:46:16.923030+00:00",
+    "emailed_utc": "2026-09-28T13:46:16.923030+00:00"
   }
 ]
