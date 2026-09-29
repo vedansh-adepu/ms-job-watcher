@@ -276612,5 +276612,83 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-09-28T21:15:40.728719+00:00",
     "emailed_utc": "2026-09-28T21:15:40.728719+00:00"
+  },
+  {
+    "job_id": "ashby:airwallex:99f589d4-e31a-4f15-bd1d-90e8eeaceffd",
+    "pipeline": "boards",
+    "platform": "ashby",
+    "company": "Airwallex",
+    "title": "Staff Software Engineer, Data Platform",
+    "location": "US - Seattle",
+    "posted": "",
+    "url": "https://jobs.ashbyhq.com/airwallex/99f589d4-e31a-4f15-bd1d-90e8eeaceffd",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-09-29T01:01:53.797163+00:00",
+    "emailed_utc": "2026-09-29T01:01:53.797163+00:00"
+  },
+  {
+    "job_id": "greenhouse:freedomconsulting:5250215007",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Freedomconsulting",
+    "title": "Junior System Engineer 784",
+    "location": "Annapolis Junction, MD",
+    "posted": "2026-09-28T10:12:39-04:00",
+    "url": "https://job-boards.greenhouse.io/freedomconsulting/jobs/5250215007",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-09-29T01:01:53.797163+00:00",
+    "emailed_utc": "2026-09-29T01:01:53.797163+00:00"
+  },
+  {
+    "job_id": "greenhouse:freedomconsulting:5250274007",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Freedomconsulting",
+    "title": "Senior Developer 785",
+    "location": "Annapolis Junction, MD",
+    "posted": "2026-09-28T11:13:02-04:00",
+    "url": "https://job-boards.greenhouse.io/freedomconsulting/jobs/5250274007",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-09-29T01:01:53.797163+00:00",
+    "emailed_utc": "2026-09-29T01:01:53.797163+00:00"
+  },
+  {
+    "job_id": "greenhouse:glydways:5250237007",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Glydways",
+    "title": "Test and Commissioning Engineer",
+    "location": "Atlanta, GA",
+    "posted": "2026-09-28T10:28:24-04:00",
+    "url": "https://job-boards.greenhouse.io/glydways/jobs/5250237007",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-09-29T01:01:53.797163+00:00",
+    "emailed_utc": "2026-09-29T01:01:53.797163+00:00"
+  },
+  {
+    "job_id": "greenhouse:torcrobotics:8821309002",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Torcrobotics",
+    "title": "Quality Control Engineer, HD Mapping",
+    "location": "Remote - US",
+    "posted": "2026-09-28T15:15:38-04:00",
+    "url": "https://job-boards.greenhouse.io/torcrobotics/jobs/8821309002",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-09-29T01:01:53.797163+00:00",
+    "emailed_utc": "2026-09-29T01:01:53.797163+00:00"
+  },
+  {
+    "job_id": "lever:teleo:8c05e240-7b8f-43eb-b1e5-3e0bad8893b3",
+    "pipeline": "boards",
+    "platform": "lever",
+    "company": "Teleo",
+    "title": "Lead Manufacturing Engineer",
+    "location": "Palo Alto, CA",
+    "posted": "2026-09-28 20:25 UTC",
+    "url": "https://jobs.lever.co/teleo/8c05e240-7b8f-43eb-b1e5-3e0bad8893b3",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-09-29T01:01:53.797163+00:00",
+    "emailed_utc": "2026-09-29T01:01:53.797163+00:00"
   }
 ]
