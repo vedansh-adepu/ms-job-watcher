@@ -122523,5 +122523,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-09-29T10:11:04.848924+00:00",
     "emailed_utc": "2026-09-29T10:11:04.848924+00:00"
+  },
+  {
+    "job_id": "lever:viome:248dcfc8-96be-43e2-8b0b-b46255ac6e1b",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "viome",
+    "title": "Full-Stack Software Engineer \u2014 PRO Team",
+    "location": "Bellevue, WA",
+    "posted": "2026-09-28 19:03 UTC",
+    "url": "https://jobs.lever.co/viome/248dcfc8-96be-43e2-8b0b-b46255ac6e1b",
+    "bucket": "yes",
+    "first_seen_utc": "2026-09-29T18:18:48.371298+00:00",
+    "emailed_utc": "2026-09-29T18:18:48.371298+00:00"
+  },
+  {
+    "job_id": "lever:valdeseng:815d578e-f126-4b64-a163-44104c530ee4",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "valdeseng",
+    "title": "Utility Civil Engineer",
+    "location": "Lombard, IL",
+    "posted": "2026-09-17 11:39 UTC",
+    "url": "https://jobs.lever.co/valdeseng/815d578e-f126-4b64-a163-44104c530ee4",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-09-29T18:18:48.371298+00:00",
+    "emailed_utc": "2026-09-29T18:18:48.371298+00:00"
   }
 ]
