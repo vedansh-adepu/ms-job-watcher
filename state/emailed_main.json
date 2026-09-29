@@ -33226,5 +33226,44 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-09-29T00:59:40.802002+00:00",
     "emailed_utc": "2026-09-29T00:59:40.802002+00:00"
+  },
+  {
+    "job_id": "amazon:83c7da53-b1a5-4a8c-a339-fad0a0f57f51",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": " Software Development Engineer, AWS OpenSearch",
+    "location": "US, TX, Austin",
+    "posted": "September 29, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10563049/software-development-engineer-aws-opensearch",
+    "bucket": "yes",
+    "first_seen_utc": "2026-09-29T09:45:15.338618+00:00",
+    "emailed_utc": "2026-09-29T09:45:15.338618+00:00"
+  },
+  {
+    "job_id": "amazon:d72bbb31-d6d6-4295-baf7-6e8c9bee9a4b",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Manager, AWS Network Fabric Engineering, MONA - Management Networks",
+    "location": "US, CA, Santa Clara",
+    "posted": "September 29, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10563250/software-development-manager-aws-network-fabric-engineering-mona-management-networks",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-09-29T09:45:15.338618+00:00",
+    "emailed_utc": "2026-09-29T09:45:15.338618+00:00"
+  },
+  {
+    "job_id": "amazon:f44e4a6e-c43f-4fc8-a259-8bc3c6e721ba",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Dev Engineer II, AWS Healthcare AI",
+    "location": "US, WA, Seattle",
+    "posted": "September 29, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10563054/software-dev-engineer-ii-aws-healthcare-ai",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-09-29T09:45:15.338618+00:00",
+    "emailed_utc": "2026-09-29T09:45:15.338618+00:00"
   }
 ]
