@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-09-29T22:39:06.186647+00:00",
+  "updated_utc": "2026-09-30T06:01:04.353940+00:00",
   "dead_details": {
     "lever:livechatinc": {
       "first_seen_utc": "2026-07-01T19:31:29.430568+00:00",
@@ -2614,6 +2614,60 @@
     "greenhouse:dispatch": {
       "first_seen_utc": "2026-09-29T22:38:33.848440+00:00",
       "last_seen_utc": "2026-09-29T22:38:33.848440+00:00",
+      "platform": "greenhouse",
+      "company": "",
+      "board_url": "",
+      "last_status": 404,
+      "last_error": "HTTP 404/410 (board not found)"
+    },
+    "greenhouse:invoca": {
+      "first_seen_utc": "2026-09-30T06:00:13.154621+00:00",
+      "last_seen_utc": "2026-09-30T06:00:13.154621+00:00",
+      "platform": "greenhouse",
+      "company": "",
+      "board_url": "",
+      "last_status": 404,
+      "last_error": "HTTP 404/410 (board not found)"
+    },
+    "greenhouse:liveviewtechnologiesinc": {
+      "first_seen_utc": "2026-09-30T06:00:21.311724+00:00",
+      "last_seen_utc": "2026-09-30T06:00:21.311724+00:00",
+      "platform": "greenhouse",
+      "company": "",
+      "board_url": "",
+      "last_status": 404,
+      "last_error": "HTTP 404/410 (board not found)"
+    },
+    "greenhouse:neoris": {
+      "first_seen_utc": "2026-09-30T06:00:35.420004+00:00",
+      "last_seen_utc": "2026-09-30T06:00:35.420004+00:00",
+      "platform": "greenhouse",
+      "company": "",
+      "board_url": "",
+      "last_status": 404,
+      "last_error": "HTTP 404/410 (board not found)"
+    },
+    "greenhouse:omicron": {
+      "first_seen_utc": "2026-09-30T06:00:45.440414+00:00",
+      "last_seen_utc": "2026-09-30T06:00:45.440414+00:00",
+      "platform": "greenhouse",
+      "company": "",
+      "board_url": "",
+      "last_status": 404,
+      "last_error": "HTTP 404/410 (board not found)"
+    },
+    "greenhouse:persefoniaiinc": {
+      "first_seen_utc": "2026-09-30T06:00:47.698649+00:00",
+      "last_seen_utc": "2026-09-30T06:00:47.698649+00:00",
+      "platform": "greenhouse",
+      "company": "",
+      "board_url": "",
+      "last_status": 404,
+      "last_error": "HTTP 404/410 (board not found)"
+    },
+    "greenhouse:silvare": {
+      "first_seen_utc": "2026-09-30T06:00:54.680838+00:00",
+      "last_seen_utc": "2026-09-30T06:00:54.680838+00:00",
       "platform": "greenhouse",
       "company": "",
       "board_url": "",
