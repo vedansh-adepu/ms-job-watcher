@@ -124824,5 +124824,57 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-09-30T13:03:59.123210+00:00",
     "emailed_utc": "2026-09-30T13:03:59.123210+00:00"
+  },
+  {
+    "job_id": "lever:wisecode:390e192c-a84b-4e75-918d-fa2e2b4cdde1",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "wisecode",
+    "title": "Software Developer & Data Engineer",
+    "location": "United States",
+    "posted": "2026-09-29 23:46 UTC",
+    "url": "https://jobs.lever.co/wisecode/390e192c-a84b-4e75-918d-fa2e2b4cdde1",
+    "bucket": "yes",
+    "first_seen_utc": "2026-09-30T20:19:22.482238+00:00",
+    "emailed_utc": "2026-09-30T20:19:22.482238+00:00"
+  },
+  {
+    "job_id": "lever:waremalcomb:d11d681a-e24d-4f77-a9cf-3e5093a6a733",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "waremalcomb",
+    "title": "Civil Engineering Manager",
+    "location": "Irvine, CA",
+    "posted": "2023-05-30 15:01 UTC",
+    "url": "https://jobs.lever.co/waremalcomb/d11d681a-e24d-4f77-a9cf-3e5093a6a733",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-09-30T20:19:22.482238+00:00",
+    "emailed_utc": "2026-09-30T20:19:22.482238+00:00"
+  },
+  {
+    "job_id": "lever:xcimer:bb8c7131-6ec7-43ea-94c6-176cafd245c9",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "xcimer",
+    "title": "Mechanical Engineer / Senior Mechanical Engineer, Opto-Mechanics",
+    "location": "Denver, CO",
+    "posted": "2026-09-24 20:38 UTC",
+    "url": "https://jobs.lever.co/xcimer/bb8c7131-6ec7-43ea-94c6-176cafd245c9",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-09-30T20:19:22.482238+00:00",
+    "emailed_utc": "2026-09-30T20:19:22.482238+00:00"
+  },
+  {
+    "job_id": "lever:xcimer:66ed6448-e341-4d73-a7b9-e3d7db22ab8a",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "xcimer",
+    "title": "Senior Opto-Mechanical Engineer, Large Optics Structures",
+    "location": "Denver, CO",
+    "posted": "2026-09-24 20:34 UTC",
+    "url": "https://jobs.lever.co/xcimer/66ed6448-e341-4d73-a7b9-e3d7db22ab8a",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-09-30T20:19:22.482238+00:00",
+    "emailed_utc": "2026-09-30T20:19:22.482238+00:00"
   }
 ]
