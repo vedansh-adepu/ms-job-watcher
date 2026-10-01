@@ -34149,5 +34149,83 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-10-01T00:33:01.481250+00:00",
     "emailed_utc": "2026-10-01T00:33:01.481250+00:00"
+  },
+  {
+    "job_id": "amazon:28993cda-6439-48d6-98c0-2fb8424461fd",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, Agentic AI",
+    "location": "US, NJ, Jersey City",
+    "posted": "October  1, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10566212/software-development-engineer-agentic-ai",
+    "bucket": "yes",
+    "first_seen_utc": "2026-10-01T10:03:15.242162+00:00",
+    "emailed_utc": "2026-10-01T10:03:15.242162+00:00"
+  },
+  {
+    "job_id": "amazon:6efb60f6-7fb8-4b50-8148-20271e68b859",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, Agentic AI",
+    "location": "US, NJ, Jersey City",
+    "posted": "October  1, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10566213/software-development-engineer-agentic-ai",
+    "bucket": "yes",
+    "first_seen_utc": "2026-10-01T10:03:15.242162+00:00",
+    "emailed_utc": "2026-10-01T10:03:15.242162+00:00"
+  },
+  {
+    "job_id": "amazon:2e468f87-c269-4191-a3d8-06671ead484b",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Applied Scientist, International Seller Services",
+    "location": "US, WA, Seattle",
+    "posted": "October  1, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10566354/applied-scientist-international-seller-services",
+    "bucket": "yes",
+    "first_seen_utc": "2026-10-01T10:03:15.242162+00:00",
+    "emailed_utc": "2026-10-01T10:03:15.242162+00:00"
+  },
+  {
+    "job_id": "nvidia:893397953685",
+    "pipeline": "main",
+    "platform": "nvidia",
+    "company": "NVIDIA",
+    "title": "Senior Software Engineer - DGX Cloud",
+    "location": "US",
+    "posted": "2026-10-01 00:00 UTC",
+    "url": "https://nvidia.eightfold.ai/careers/job/893397953685",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-10-01T10:03:15.242162+00:00",
+    "emailed_utc": "2026-10-01T10:03:15.242162+00:00"
+  },
+  {
+    "job_id": "amazon:0c12c5e6-9840-4f07-b081-b2095eb51d11",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Sr Data Scientist, Amazon - Vertical Ads",
+    "location": "US, CA, Palo Alto",
+    "posted": "October  1, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10566181/sr-data-scientist-amazon-vertical-ads",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-10-01T10:03:15.242162+00:00",
+    "emailed_utc": "2026-10-01T10:03:15.242162+00:00"
+  },
+  {
+    "job_id": "amazon:e4833917-0d41-42d6-85fc-53116e34b23d",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Senior Applied Scientist, FBA AI Science & Analytics",
+    "location": "US, WA, Bellevue",
+    "posted": "October  1, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10566286/senior-applied-scientist-fba-ai-science-analytics",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-10-01T10:03:15.242162+00:00",
+    "emailed_utc": "2026-10-01T10:03:15.242162+00:00"
   }
 ]
