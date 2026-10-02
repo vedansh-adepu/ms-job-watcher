@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-10-02T06:14:26.043581+00:00",
+  "updated_utc": "2026-10-02T13:12:19.111209+00:00",
   "dead_details": {
     "lever:livechatinc": {
       "first_seen_utc": "2026-07-01T19:31:29.430568+00:00",
@@ -2776,6 +2776,24 @@
     "greenhouse:downtownmusic": {
       "first_seen_utc": "2026-10-02T06:14:15.672266+00:00",
       "last_seen_utc": "2026-10-02T06:14:15.672266+00:00",
+      "platform": "greenhouse",
+      "company": "",
+      "board_url": "",
+      "last_status": 404,
+      "last_error": "HTTP 404/410 (board not found)"
+    },
+    "greenhouse:koko": {
+      "first_seen_utc": "2026-10-02T13:12:04.531743+00:00",
+      "last_seen_utc": "2026-10-02T13:12:04.531743+00:00",
+      "platform": "greenhouse",
+      "company": "",
+      "board_url": "",
+      "last_status": 404,
+      "last_error": "HTTP 404/410 (board not found)"
+    },
+    "greenhouse:springhealth66": {
+      "first_seen_utc": "2026-10-02T13:12:14.942739+00:00",
+      "last_seen_utc": "2026-10-02T13:12:14.942739+00:00",
       "platform": "greenhouse",
       "company": "",
       "board_url": "",
