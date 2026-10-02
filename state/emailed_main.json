@@ -34695,5 +34695,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-10-02T00:44:12.628947+00:00",
     "emailed_utc": "2026-10-02T00:44:12.628947+00:00"
+  },
+  {
+    "job_id": "amazon:077c6bf6-a5ba-4fde-b0f2-b28eb56da570",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer , Leo Network Services - Network Orchestration",
+    "location": "US, WA, Redmond",
+    "posted": "October  2, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10567585/software-development-engineer-leo-network-services-network-orchestration",
+    "bucket": "yes",
+    "first_seen_utc": "2026-10-02T09:41:09.328742+00:00",
+    "emailed_utc": "2026-10-02T09:41:09.328742+00:00"
+  },
+  {
+    "job_id": "amazon:9a5b0cac-048c-461d-bea1-50bad013d142",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Senior Software Engineer , Amazon Leo - Network Observability",
+    "location": "US, WA, Redmond",
+    "posted": "October  2, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10567584/senior-software-engineer-amazon-leo-network-observability",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-10-02T09:41:09.328742+00:00",
+    "emailed_utc": "2026-10-02T09:41:09.328742+00:00"
   }
 ]
