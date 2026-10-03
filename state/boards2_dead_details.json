@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-10-03T00:45:24.172745+00:00",
+  "updated_utc": "2026-10-03T09:27:11.214275+00:00",
   "dead_details": {
     "lever:livechatinc": {
       "first_seen_utc": "2026-07-01T19:31:29.430568+00:00",
@@ -2813,6 +2813,42 @@
       "first_seen_utc": "2026-10-02T20:09:50.554398+00:00",
       "last_seen_utc": "2026-10-02T20:09:50.554398+00:00",
       "platform": "lever",
+      "company": "",
+      "board_url": "",
+      "last_status": 404,
+      "last_error": "HTTP 404/410 (board not found)"
+    },
+    "greenhouse:actpowerservices": {
+      "first_seen_utc": "2026-10-03T09:26:51.596537+00:00",
+      "last_seen_utc": "2026-10-03T09:26:51.596537+00:00",
+      "platform": "greenhouse",
+      "company": "",
+      "board_url": "",
+      "last_status": 404,
+      "last_error": "HTTP 404/410 (board not found)"
+    },
+    "greenhouse:buzzfeed": {
+      "first_seen_utc": "2026-10-03T09:26:57.538547+00:00",
+      "last_seen_utc": "2026-10-03T09:26:57.538547+00:00",
+      "platform": "greenhouse",
+      "company": "",
+      "board_url": "",
+      "last_status": 404,
+      "last_error": "HTTP 404/410 (board not found)"
+    },
+    "greenhouse:hextechnologies": {
+      "first_seen_utc": "2026-10-03T09:27:07.409628+00:00",
+      "last_seen_utc": "2026-10-03T09:27:07.409628+00:00",
+      "platform": "greenhouse",
+      "company": "",
+      "board_url": "",
+      "last_status": 404,
+      "last_error": "HTTP 404/410 (board not found)"
+    },
+    "greenhouse:hightouch": {
+      "first_seen_utc": "2026-10-03T09:27:07.463945+00:00",
+      "last_seen_utc": "2026-10-03T09:27:07.463945+00:00",
+      "platform": "greenhouse",
       "company": "",
       "board_url": "",
       "last_status": 404,
