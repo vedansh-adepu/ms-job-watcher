@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-10-03T09:27:11.214275+00:00",
+  "updated_utc": "2026-10-03T14:27:06.491233+00:00",
   "dead_details": {
     "lever:livechatinc": {
       "first_seen_utc": "2026-07-01T19:31:29.430568+00:00",
@@ -2848,6 +2848,15 @@
     "greenhouse:hightouch": {
       "first_seen_utc": "2026-10-03T09:27:07.463945+00:00",
       "last_seen_utc": "2026-10-03T09:27:07.463945+00:00",
+      "platform": "greenhouse",
+      "company": "",
+      "board_url": "",
+      "last_status": 404,
+      "last_error": "HTTP 404/410 (board not found)"
+    },
+    "greenhouse:jwplumbingheatingair": {
+      "first_seen_utc": "2026-10-03T14:26:50.775779+00:00",
+      "last_seen_utc": "2026-10-03T14:26:50.775779+00:00",
       "platform": "greenhouse",
       "company": "",
       "board_url": "",
