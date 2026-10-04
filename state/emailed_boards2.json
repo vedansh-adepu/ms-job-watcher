@@ -130661,5 +130661,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-10-03T18:52:10.135362+00:00",
     "emailed_utc": "2026-10-03T18:52:10.135362+00:00"
+  },
+  {
+    "job_id": "greenhouse:sonicwall:8252372",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "sonicwall",
+    "title": "Senior Solutions Engineer - Remote",
+    "location": "Pittsburgh, Pennsylvania, United States",
+    "posted": "2026-10-03T23:50:18-04:00",
+    "url": "https://job-boards.greenhouse.io/sonicwall/jobs/8252372",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-10-04T12:52:21.492640+00:00",
+    "emailed_utc": "2026-10-04T12:52:21.492640+00:00"
+  },
+  {
+    "job_id": "greenhouse:sonicwall:8252371",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "sonicwall",
+    "title": "Senior Solutions Engineer - Remote",
+    "location": "Philadelphia, Pennsylvania, United States",
+    "posted": "2026-10-03T23:50:42-04:00",
+    "url": "https://job-boards.greenhouse.io/sonicwall/jobs/8252371",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-10-04T12:52:21.492640+00:00",
+    "emailed_utc": "2026-10-04T12:52:21.492640+00:00"
   }
 ]
