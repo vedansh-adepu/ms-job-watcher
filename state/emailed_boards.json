@@ -301624,5 +301624,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-10-04T18:41:24.497950+00:00",
     "emailed_utc": "2026-10-04T18:41:24.497950+00:00"
+  },
+  {
+    "job_id": "greenhouse:spacex:8788378002",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "SpaceX",
+    "title": "Power Electronics Engineer, Satellites (Starlink)",
+    "location": "Redmond, WA",
+    "posted": "2026-10-04T17:23:44-04:00",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8788378002?gh_jid=8788378002",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-10-04T23:59:42.026184+00:00",
+    "emailed_utc": "2026-10-04T23:59:42.026184+00:00"
+  },
+  {
+    "job_id": "workday:target:targetcareers:req:R0000475611",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Target",
+    "title": "Product Engineer - Organized Spaces",
+    "location": "1000 Nicollet Mall, Minneapolis,MN 55403-2542",
+    "posted": "Posted Today",
+    "url": "https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/1000-Nicollet-Mall-MinneapolisMN-55403-2542/Product-Engineer---Organized-Spaces_R0000475611-1",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-10-04T23:59:42.026184+00:00",
+    "emailed_utc": "2026-10-04T23:59:42.026184+00:00"
   }
 ]
