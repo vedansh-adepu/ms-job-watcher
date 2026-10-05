@@ -130700,5 +130700,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-10-04T18:50:13.270997+00:00",
     "emailed_utc": "2026-10-04T18:50:13.270997+00:00"
+  },
+  {
+    "job_id": "greenhouse:billcom:6206053004",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "billcom",
+    "title": "Software Engineer II",
+    "location": "United States",
+    "posted": "2026-10-04T16:17:09-04:00",
+    "url": "https://www.bill.com/job?6206053004&gh_jid=6206053004",
+    "bucket": "yes",
+    "first_seen_utc": "2026-10-05T06:15:13.033166+00:00",
+    "emailed_utc": "2026-10-05T06:15:13.033166+00:00"
+  },
+  {
+    "job_id": "greenhouse:engine:8012589003",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "engine",
+    "title": "Staff Application Security Engineer",
+    "location": "Remote - US",
+    "posted": "2026-10-04T18:12:25-04:00",
+    "url": "https://job-boards.greenhouse.io/engine/jobs/8012589003",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-10-05T06:15:13.033166+00:00",
+    "emailed_utc": "2026-10-05T06:15:13.033166+00:00"
   }
 ]
