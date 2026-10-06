@@ -1,56 +1,5 @@
 [
   {
-    "ts": "2026-08-28T02:41Z",
-    "mode": "main",
-    "per_source": {
-      "microsoft": {
-        "fetched": 0,
-        "title_ok": 0,
-        "loc_ok": 0,
-        "new": 0,
-        "emailed": 0,
-        "error": "Microsoft fetch: HTTPError: 429 Client Error: TOO MANY REQUESTS for url: https://apply.careers.microsoft.com/api/pcsx/search?domain=microsoft.com&query=&location=United+States%2C+Multiple+Locations%2C+Multiple+Locations&start=0&sort_by=timestamp&filter_include_remote=1&filter_seniority=Entry&filter_seniority=Mid-Level"
-      },
-      "amazon": {
-        "fetched": 300,
-        "title_ok": 284,
-        "loc_ok": 284,
-        "new": 0,
-        "emailed": 0
-      },
-      "nvidia": {
-        "fetched": 30,
-        "title_ok": 29,
-        "loc_ok": 29,
-        "new": 0,
-        "emailed": 0
-      },
-      "goldman_sachs": {
-        "fetched": 0,
-        "title_ok": 0,
-        "loc_ok": 0,
-        "new": 0,
-        "emailed": 0
-      },
-      "ibm": {
-        "fetched": 38,
-        "title_ok": 31,
-        "loc_ok": 13,
-        "new": 0,
-        "emailed": 0
-      },
-      "oracle": {
-        "fetched": 0,
-        "title_ok": 0,
-        "loc_ok": 0,
-        "new": 0,
-        "emailed": 0
-      }
-    },
-    "duration_s": 11.2,
-    "cursor": null
-  },
-  {
     "ts": "2026-08-28T02:51Z",
     "mode": "main",
     "per_source": {
@@ -35914,5 +35863,41 @@
     },
     "duration_s": 12.3,
     "cursor": null
+  },
+  {
+    "ts": "2026-10-06T15:57Z",
+    "mode": "boards",
+    "per_source": {
+      "lever": {
+        "fetched": 1051,
+        "title_ok": 238,
+        "loc_ok": 114,
+        "new": 0,
+        "emailed": 0
+      },
+      "greenhouse": {
+        "fetched": 5174,
+        "title_ok": 1614,
+        "loc_ok": 693,
+        "new": 35,
+        "emailed": 35
+      },
+      "smartrecruiters": {
+        "fetched": 612,
+        "title_ok": 178,
+        "loc_ok": 13,
+        "new": 1,
+        "emailed": 1
+      },
+      "workday": {
+        "fetched": 7000,
+        "title_ok": 1753,
+        "loc_ok": 589,
+        "new": 101,
+        "emailed": 138
+      }
+    },
+    "duration_s": 79.8,
+    "cursor": 600
   }
 ]
