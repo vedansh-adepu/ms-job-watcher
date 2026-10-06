@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-10-06T16:17:54.467832+00:00",
+  "updated_utc": "2026-10-06T22:49:33.581739+00:00",
   "dead_details": {
     "lever:livechatinc": {
       "first_seen_utc": "2026-07-01T19:31:29.430568+00:00",
@@ -2920,6 +2920,24 @@
     "greenhouse:hubspotjobs": {
       "first_seen_utc": "2026-10-06T16:17:50.701047+00:00",
       "last_seen_utc": "2026-10-06T16:17:50.701047+00:00",
+      "platform": "greenhouse",
+      "company": "",
+      "board_url": "",
+      "last_status": 404,
+      "last_error": "HTTP 404/410 (board not found)"
+    },
+    "greenhouse:openweb": {
+      "first_seen_utc": "2026-10-06T22:49:20.246246+00:00",
+      "last_seen_utc": "2026-10-06T22:49:20.246246+00:00",
+      "platform": "greenhouse",
+      "company": "",
+      "board_url": "",
+      "last_status": 404,
+      "last_error": "HTTP 404/410 (board not found)"
+    },
+    "greenhouse:soeffects": {
+      "first_seen_utc": "2026-10-06T22:49:27.531432+00:00",
+      "last_seen_utc": "2026-10-06T22:49:27.531432+00:00",
       "platform": "greenhouse",
       "company": "",
       "board_url": "",
