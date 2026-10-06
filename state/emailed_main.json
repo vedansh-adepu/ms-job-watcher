@@ -35904,5 +35904,70 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-10-06T06:13:37.220516+00:00",
     "emailed_utc": "2026-10-06T06:13:37.220516+00:00"
+  },
+  {
+    "job_id": "microsoft:1970393557022479",
+    "pipeline": "main",
+    "platform": "microsoft",
+    "company": "Microsoft",
+    "title": "Software Engineer II - MBO",
+    "location": "Redmond, WA, US",
+    "posted": "2026-10-05 22:15 UTC",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393557022479",
+    "bucket": "yes",
+    "first_seen_utc": "2026-10-06T13:17:44.775459+00:00",
+    "emailed_utc": "2026-10-06T13:17:44.775459+00:00"
+  },
+  {
+    "job_id": "amazon:08008ead-2f68-499d-b30a-96ffbf61b2c9",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Engineer, Graviton Software, Annapurna Labs",
+    "location": "US, TX, Austin",
+    "posted": "October  6, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10570125/software-engineer-graviton-software-annapurna-labs",
+    "bucket": "yes",
+    "first_seen_utc": "2026-10-06T13:17:44.775459+00:00",
+    "emailed_utc": "2026-10-06T13:17:44.775459+00:00"
+  },
+  {
+    "job_id": "microsoft:1970393557023158",
+    "pipeline": "main",
+    "platform": "microsoft",
+    "company": "Microsoft",
+    "title": "Datacenter Electrical Engineer",
+    "location": "Redmond, WA, US",
+    "posted": "2026-10-06 12:36 UTC",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393557023158",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-10-06T13:17:44.775459+00:00",
+    "emailed_utc": "2026-10-06T13:17:44.775459+00:00"
+  },
+  {
+    "job_id": "amazon:0efd00c1-326b-4924-a1f7-e9d95cdb33d4",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Director, Software Development - Language Foundations, Amazon SW Builder Experience",
+    "location": "US, WA, Seattle",
+    "posted": "October  6, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10570265/director-software-development-language-foundations-amazon-sw-builder-experience",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-10-06T13:17:44.775459+00:00",
+    "emailed_utc": "2026-10-06T13:17:44.775459+00:00"
+  },
+  {
+    "job_id": "amazon:0d30afdc-c528-4848-8dca-299b3d4fc0b6",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Embedded Software Dev Engineer, Ring",
+    "location": "US, CA, Sunnyvale",
+    "posted": "October  6, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10570289/embedded-software-dev-engineer-ring",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-10-06T13:17:44.775459+00:00",
+    "emailed_utc": "2026-10-06T13:17:44.775459+00:00"
   }
 ]
