@@ -133729,5 +133729,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-10-07T06:30:50.397982+00:00",
     "emailed_utc": "2026-10-07T06:30:50.397982+00:00"
+  },
+  {
+    "job_id": "lever:ttecdigital:1ead35fb-c97b-4bce-badf-8be1850a15bc",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "ttecdigital",
+    "title": "Software Engineering Manager (Hands-On)",
+    "location": "Austin, TX",
+    "posted": "2026-09-01 18:48 UTC",
+    "url": "https://jobs.lever.co/ttecdigital/1ead35fb-c97b-4bce-badf-8be1850a15bc",
+    "bucket": "yes",
+    "first_seen_utc": "2026-10-07T13:57:43.366988+00:00",
+    "emailed_utc": "2026-10-07T13:57:43.366988+00:00"
+  },
+  {
+    "job_id": "lever:uvcyber:0f4f511d-ed2d-4b6e-8ce0-b5278bb1d02d",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "uvcyber",
+    "title": "Senior Microsoft Cloud Security Engineer",
+    "location": "Arlington, VA",
+    "posted": "2026-10-06 22:00 UTC",
+    "url": "https://jobs.lever.co/uvcyber/0f4f511d-ed2d-4b6e-8ce0-b5278bb1d02d",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-10-07T13:57:43.366988+00:00",
+    "emailed_utc": "2026-10-07T13:57:43.366988+00:00"
   }
 ]
