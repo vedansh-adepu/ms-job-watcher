@@ -36736,5 +36736,44 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-10-07T00:39:25.183907+00:00",
     "emailed_utc": "2026-10-07T00:39:25.183907+00:00"
+  },
+  {
+    "job_id": "amazon:cd34a7d5-a2f1-46c1-89ca-a79abc6c4a71",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Applied Scientist III, AGI Responsible AI (RAI)",
+    "location": "US, CA, Sunnyvale",
+    "posted": "October  7, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10571444/applied-scientist-iii-agi-responsible-ai-rai",
+    "bucket": "yes",
+    "first_seen_utc": "2026-10-07T10:11:01.809679+00:00",
+    "emailed_utc": "2026-10-07T10:11:01.809679+00:00"
+  },
+  {
+    "job_id": "amazon:e387f6a5-ffaa-4789-8896-acc7ff4e5d42",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, DynamoDB",
+    "location": "US, WA, Seattle",
+    "posted": "October  7, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10571455/software-development-engineer-dynamodb",
+    "bucket": "yes",
+    "first_seen_utc": "2026-10-07T10:11:01.809679+00:00",
+    "emailed_utc": "2026-10-07T10:11:01.809679+00:00"
+  },
+  {
+    "job_id": "amazon:47d2a261-7989-4a4d-9b0c-9baeb3fcd47e",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer",
+    "location": "US, WA, Bellevue",
+    "posted": "October  7, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10571445/software-development-engineer",
+    "bucket": "yes",
+    "first_seen_utc": "2026-10-07T10:11:01.809679+00:00",
+    "emailed_utc": "2026-10-07T10:11:01.809679+00:00"
   }
 ]
