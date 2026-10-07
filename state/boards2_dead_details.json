@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-10-07T13:57:43.501260+00:00",
+  "updated_utc": "2026-10-07T20:47:51.502891+00:00",
   "dead_details": {
     "lever:livechatinc": {
       "first_seen_utc": "2026-07-01T19:31:29.430568+00:00",
@@ -2957,6 +2957,15 @@
       "first_seen_utc": "2026-10-07T06:30:43.644233+00:00",
       "last_seen_utc": "2026-10-07T06:30:43.644233+00:00",
       "platform": "lever",
+      "company": "",
+      "board_url": "",
+      "last_status": 404,
+      "last_error": "HTTP 404/410 (board not found)"
+    },
+    "greenhouse:delasport": {
+      "first_seen_utc": "2026-10-07T20:47:39.636477+00:00",
+      "last_seen_utc": "2026-10-07T20:47:39.636477+00:00",
+      "platform": "greenhouse",
       "company": "",
       "board_url": "",
       "last_status": 404,
