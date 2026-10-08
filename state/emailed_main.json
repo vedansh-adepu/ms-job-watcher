@@ -37152,5 +37152,57 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-10-08T00:57:40.578311+00:00",
     "emailed_utc": "2026-10-08T00:57:40.578311+00:00"
+  },
+  {
+    "job_id": "amazon:07e001fc-6da5-42e5-8f86-a15462924478",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, Robotics Development and Packaging Innovation",
+    "location": "US, WA, Bellevue",
+    "posted": "October  8, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10572918/software-development-engineer-robotics-development-and-packaging-innovation",
+    "bucket": "yes",
+    "first_seen_utc": "2026-10-08T10:28:19.027665+00:00",
+    "emailed_utc": "2026-10-08T10:28:19.027665+00:00"
+  },
+  {
+    "job_id": "amazon:795672fc-3bbf-493a-8435-c0b3fb233696",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, Fees Tech",
+    "location": "US, WA, Seattle",
+    "posted": "October  8, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10572862/software-development-engineer-fees-tech",
+    "bucket": "yes",
+    "first_seen_utc": "2026-10-08T10:28:19.027665+00:00",
+    "emailed_utc": "2026-10-08T10:28:19.027665+00:00"
+  },
+  {
+    "job_id": "amazon:5c5c2150-a391-48e0-b6d4-d1fd67607682",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Senior Embedded Software Engineer, Machine Learning Accelerator Technology",
+    "location": "US, TX, Austin",
+    "posted": "October  8, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10572926/senior-embedded-software-engineer-machine-learning-accelerator-technology",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-10-08T10:28:19.027665+00:00",
+    "emailed_utc": "2026-10-08T10:28:19.027665+00:00"
+  },
+  {
+    "job_id": "amazon:31cc4893-136d-4a28-85ad-5001def40ddf",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Sr. Physical Design Engineer - Static Timing Analysis, Annapurna Labs, Cloud Scale Machine Learning",
+    "location": "US, CA, Cupertino",
+    "posted": "October  8, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10572924/sr-physical-design-engineer-static-timing-analysis-annapurna-labs-cloud-scale-machine-learning",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-10-08T10:28:19.027665+00:00",
+    "emailed_utc": "2026-10-08T10:28:19.027665+00:00"
   }
 ]
