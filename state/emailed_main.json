@@ -37659,5 +37659,83 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-10-09T01:12:06.410613+00:00",
     "emailed_utc": "2026-10-09T01:12:06.410613+00:00"
+  },
+  {
+    "job_id": "microsoft:1970393557026683",
+    "pipeline": "main",
+    "platform": "microsoft",
+    "company": "Microsoft",
+    "title": "Software Engineer II (Agentic AI)",
+    "location": "Redmond, WA, US",
+    "posted": "2026-10-08 20:53 UTC",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393557026683",
+    "bucket": "yes",
+    "first_seen_utc": "2026-10-09T10:26:29.148695+00:00",
+    "emailed_utc": "2026-10-09T10:26:29.148695+00:00"
+  },
+  {
+    "job_id": "amazon:a5f6eeed-4bb0-4712-a610-6ad8e3536243",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, Ads AI Core Infra",
+    "location": "US, WA, Seattle",
+    "posted": "October  9, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10574268/software-development-engineer-ads-ai-core-infra",
+    "bucket": "yes",
+    "first_seen_utc": "2026-10-09T10:26:29.148695+00:00",
+    "emailed_utc": "2026-10-09T10:26:29.148695+00:00"
+  },
+  {
+    "job_id": "microsoft:1970393557024788",
+    "pipeline": "main",
+    "platform": "microsoft",
+    "company": "Microsoft",
+    "title": "Signal and Power Integrity Engineer",
+    "location": "Raleigh, NC, US",
+    "posted": "2026-10-08 22:46 UTC",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393557024788",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-10-09T10:26:29.148695+00:00",
+    "emailed_utc": "2026-10-09T10:26:29.148695+00:00"
+  },
+  {
+    "job_id": "microsoft:1970393557023253",
+    "pipeline": "main",
+    "platform": "microsoft",
+    "company": "Microsoft",
+    "title": "Critical Environment Electrical Engineer",
+    "location": "Des Moines, IA, US",
+    "posted": "2026-10-08 20:57 UTC",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393557023253",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-10-09T10:26:29.148695+00:00",
+    "emailed_utc": "2026-10-09T10:26:29.148695+00:00"
+  },
+  {
+    "job_id": "nvidia:893398077964",
+    "pipeline": "main",
+    "platform": "nvidia",
+    "company": "NVIDIA",
+    "title": "Senior System Software Engineer, Replay and Simulation",
+    "location": "Santa Clara, CA, US",
+    "posted": "2026-10-08 00:00 UTC",
+    "url": "https://nvidia.eightfold.ai/careers/job/893398077964",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-10-09T10:26:29.148695+00:00",
+    "emailed_utc": "2026-10-09T10:26:29.148695+00:00"
+  },
+  {
+    "job_id": "amazon:d1e4e02b-85a3-47b3-ab4f-2030deeb5189",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Alarm & Accessories - Sr. Embedded SDE , Ring",
+    "location": "US, CA, Sunnyvale",
+    "posted": "October  9, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10574286/alarm-accessories-sr-embedded-sde-ring",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-10-09T10:26:29.148695+00:00",
+    "emailed_utc": "2026-10-09T10:26:29.148695+00:00"
   }
 ]
