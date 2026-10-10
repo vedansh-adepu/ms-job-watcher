@@ -1,41 +1,5 @@
 [
   {
-    "ts": "2026-08-28T10:03Z",
-    "mode": "boards",
-    "per_source": {
-      "greenhouse": {
-        "fetched": 5008,
-        "title_ok": 1584,
-        "loc_ok": 728,
-        "new": 0,
-        "emailed": 0
-      },
-      "lever": {
-        "fetched": 1023,
-        "title_ok": 223,
-        "loc_ok": 107,
-        "new": 0,
-        "emailed": 0
-      },
-      "smartrecruiters": {
-        "fetched": 705,
-        "title_ok": 179,
-        "loc_ok": 23,
-        "new": 1,
-        "emailed": 1
-      },
-      "workday": {
-        "fetched": 7000,
-        "title_ok": 1895,
-        "loc_ok": 693,
-        "new": 1,
-        "emailed": 1
-      }
-    },
-    "duration_s": 81.2,
-    "cursor": 600
-  },
-  {
     "ts": "2026-08-28T10:11Z",
     "mode": "main",
     "per_source": {
@@ -35147,5 +35111,56 @@
     },
     "duration_s": 305.7,
     "cursor": 660
+  },
+  {
+    "ts": "2026-10-10T21:36Z",
+    "mode": "main",
+    "per_source": {
+      "microsoft": {
+        "fetched": 0,
+        "title_ok": 0,
+        "loc_ok": 0,
+        "new": 0,
+        "emailed": 0,
+        "error": "Microsoft fetch: HTTPError: 429 Client Error: Too Many Requests for url: https://apply.careers.microsoft.com/api/pcsx/search?domain=microsoft.com&query=&location=United+States%2C+Multiple+Locations%2C+Multiple+Locations&start=0&sort_by=timestamp&filter_include_remote=1&filter_seniority=Entry&filter_seniority=Mid-Level"
+      },
+      "amazon": {
+        "fetched": 300,
+        "title_ok": 272,
+        "loc_ok": 272,
+        "new": 0,
+        "emailed": 0
+      },
+      "nvidia": {
+        "fetched": 30,
+        "title_ok": 29,
+        "loc_ok": 29,
+        "new": 0,
+        "emailed": 0
+      },
+      "goldman_sachs": {
+        "fetched": 0,
+        "title_ok": 0,
+        "loc_ok": 0,
+        "new": 0,
+        "emailed": 0
+      },
+      "ibm": {
+        "fetched": 26,
+        "title_ok": 19,
+        "loc_ok": 3,
+        "new": 0,
+        "emailed": 0
+      },
+      "oracle": {
+        "fetched": 0,
+        "title_ok": 0,
+        "loc_ok": 0,
+        "new": 0,
+        "emailed": 0
+      }
+    },
+    "duration_s": 8.9,
+    "cursor": null
   }
 ]
