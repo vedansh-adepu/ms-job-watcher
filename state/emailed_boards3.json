@@ -616536,5 +616536,70 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-10-11T00:36:18.040172+00:00",
     "emailed_utc": "2026-10-11T00:36:18.040172+00:00"
+  },
+  {
+    "job_id": "workday:brightli:brightlitalent:req:R-26377",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Brightli",
+    "title": "Senior Director, Revenue Cycle Assurance & Analytics",
+    "location": "Springfield, MO",
+    "posted": "Posted 22 Days Ago",
+    "url": "https://brightli.wd5.myworkdayjobs.com/en-US/brightlitalent/job/Springfield-MO/Senior-Director--Revenue-Cycle-Assurance---Analytics_R-26377",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-10-11T06:40:31.783320+00:00",
+    "emailed_utc": "2026-10-11T06:40:31.783320+00:00"
+  },
+  {
+    "job_id": "workday:bristolmyerssquibb:bms:req:R1606752",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Bristolmyerssquibb",
+    "title": "Scientist/Engineer, Manufacturing Technology",
+    "location": "Devens - MA - US",
+    "posted": "Posted 4 Days Ago",
+    "url": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/en-US/bms/job/Devens---MA---US/Scientist-Engineer--Manufacturing-Technology_R1606752",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-10-11T06:40:31.783320+00:00",
+    "emailed_utc": "2026-10-11T06:40:31.783320+00:00"
+  },
+  {
+    "job_id": "workday:bristolmyerssquibb:bms:req:R1607084",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Bristolmyerssquibb",
+    "title": "Manager, Analytical Engineer",
+    "location": "New Brunswick - NJ - US",
+    "posted": "Posted 5 Days Ago",
+    "url": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/en-US/bms/job/New-Brunswick---NJ---US/Manager--Analytical-Engineer_R1607084",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-10-11T06:40:31.783320+00:00",
+    "emailed_utc": "2026-10-11T06:40:31.783320+00:00"
+  },
+  {
+    "job_id": "workday:bristolmyerssquibb:bms:req:R1603822",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Bristolmyerssquibb",
+    "title": "Associate Director, Commercial AI and Advanced Analytics",
+    "location": "Princeton - NJ - US",
+    "posted": "Posted 9 Days Ago",
+    "url": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/en-US/bms/job/Princeton---NJ---US/Associate-Director--Commercial-AI-and-Advanced-Analytics_R1603822",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-10-11T06:40:31.783320+00:00",
+    "emailed_utc": "2026-10-11T06:40:31.783320+00:00"
+  },
+  {
+    "job_id": "workday:bristolmyerssquibb:bms:req:R1606949",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Bristolmyerssquibb",
+    "title": "Associate Engineer, IT Laboratory Systems",
+    "location": "Summit West - NJ - US",
+    "posted": "Posted 12 Days Ago",
+    "url": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/en-US/bms/job/Summit-West---NJ---US/Associate-Engineer--IT-Laboratory-Systems_R1606949-1",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-10-11T06:40:31.783320+00:00",
+    "emailed_utc": "2026-10-11T06:40:31.783320+00:00"
   }
 ]
