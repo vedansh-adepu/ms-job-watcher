@@ -326337,5 +326337,44 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-10-11T19:35:17.066526+00:00",
     "emailed_utc": "2026-10-11T19:35:17.066526+00:00"
+  },
+  {
+    "job_id": "workday:nvidia:NVIDIAExternalCareerSite:req:JR2027337",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "NVIDIA",
+    "title": "Software Engineer, DL Kernel Libraries - New College Grad 2027",
+    "location": "US, CA, Santa Clara",
+    "posted": "Posted Today",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--DL-Kernel-Libraries---New-College-Grad-2027_JR2027337",
+    "bucket": "yes",
+    "first_seen_utc": "2026-10-12T00:32:47.002299+00:00",
+    "emailed_utc": "2026-10-12T00:32:47.002299+00:00"
+  },
+  {
+    "job_id": "workday:ngc:Northrop_Grumman_External_Site:req:R10255466",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Northrop Grumman",
+    "title": "Mechanical Engineer Level 2 or Level 3",
+    "location": "United States-Arizona-Gilbert",
+    "posted": "Posted Yesterday",
+    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Arizona-Gilbert/Mechanical-Engineer-Level-2-or-Level-3_R10255466",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-10-12T00:32:47.002299+00:00",
+    "emailed_utc": "2026-10-12T00:32:47.002299+00:00"
+  },
+  {
+    "job_id": "workday:ngc:Northrop_Grumman_External_Site:req:R10254746",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Northrop Grumman",
+    "title": "Staff Software Configuration Analyst",
+    "location": "United States-Florida-Melbourne",
+    "posted": "Posted Today",
+    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Staff-Software-Configuration-Analyst_R10254746",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-10-12T00:32:47.002299+00:00",
+    "emailed_utc": "2026-10-12T00:32:47.002299+00:00"
   }
 ]
