@@ -140268,5 +140268,83 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-10-11T13:33:07.655739+00:00",
     "emailed_utc": "2026-10-11T13:33:07.655739+00:00"
+  },
+  {
+    "job_id": "greenhouse:aidashinc:4448309009",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "aidashinc",
+    "title": "Staff Engineer - Backend",
+    "location": "Palo Alto, California, United States",
+    "posted": "2026-10-12T04:00:55-04:00",
+    "url": "https://job-boards.greenhouse.io/aidashinc/jobs/4448309009",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-10-12T11:21:25.659008+00:00",
+    "emailed_utc": "2026-10-12T11:21:25.659008+00:00"
+  },
+  {
+    "job_id": "greenhouse:amperesand:4448305009",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "amperesand",
+    "title": "Senior Applications Engineer",
+    "location": "Reno, Nevada, United States; San Francisco, California, United States",
+    "posted": "2026-10-12T02:56:52-04:00",
+    "url": "https://job-boards.greenhouse.io/amperesand/jobs/4448305009",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-10-12T11:21:25.659008+00:00",
+    "emailed_utc": "2026-10-12T11:21:25.659008+00:00"
+  },
+  {
+    "job_id": "greenhouse:amperesand:4448325009",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "amperesand",
+    "title": "Staff Applications Engineer-Grid Integration",
+    "location": "Reno, Nevada, United States; San Francisco, California, United States",
+    "posted": "2026-10-12T03:23:28-04:00",
+    "url": "https://job-boards.greenhouse.io/amperesand/jobs/4448325009",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-10-12T11:21:25.659008+00:00",
+    "emailed_utc": "2026-10-12T11:21:25.659008+00:00"
+  },
+  {
+    "job_id": "greenhouse:amperesand:4448323009",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "amperesand",
+    "title": "Staff Applications Engineer-Power Systems",
+    "location": "Reno, Nevada, United States; San Francisco, California, United States",
+    "posted": "2026-10-12T03:11:40-04:00",
+    "url": "https://job-boards.greenhouse.io/amperesand/jobs/4448323009",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-10-12T11:21:25.659008+00:00",
+    "emailed_utc": "2026-10-12T11:21:25.659008+00:00"
+  },
+  {
+    "job_id": "greenhouse:coupang:8163774",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "coupang",
+    "title": "Staff Security Engineer (AI GRC)",
+    "location": "Mountain View, USA; Seoul, South Korea",
+    "posted": "2026-10-12T03:12:00-04:00",
+    "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8163774",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-10-12T11:21:25.659008+00:00",
+    "emailed_utc": "2026-10-12T11:21:25.659008+00:00"
+  },
+  {
+    "job_id": "greenhouse:formlabs:8273112",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "formlabs",
+    "title": "Head of Software Product Management ",
+    "location": "Somerville, MA",
+    "posted": "2026-10-11T21:32:48-04:00",
+    "url": "https://careers.formlabs.com/job/8273112/apply/?gh_jid=8273112",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-10-12T11:21:25.659008+00:00",
+    "emailed_utc": "2026-10-12T11:21:25.659008+00:00"
   }
 ]
