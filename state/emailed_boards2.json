@@ -141139,5 +141139,70 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-10-13T02:46:15.446498+00:00",
     "emailed_utc": "2026-10-13T02:46:15.446498+00:00"
+  },
+  {
+    "job_id": "lever:venusaero:73e8b964-23ed-49f5-90d9-b05ea55f0113",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "venusaero",
+    "title": "Embedded Software Engineer",
+    "location": "Houston, TX",
+    "posted": "2026-10-12 15:14 UTC",
+    "url": "https://jobs.lever.co/venusaero/73e8b964-23ed-49f5-90d9-b05ea55f0113",
+    "bucket": "yes",
+    "first_seen_utc": "2026-10-13T11:07:52.093904+00:00",
+    "emailed_utc": "2026-10-13T11:07:52.093904+00:00"
+  },
+  {
+    "job_id": "lever:tryjeeves:840cb1a4-57c4-4139-9ee2-9fd84a340aa8",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "tryjeeves",
+    "title": "Senior AI Engineer",
+    "location": "United States",
+    "posted": "2026-10-12 15:29 UTC",
+    "url": "https://jobs.lever.co/tryjeeves/840cb1a4-57c4-4139-9ee2-9fd84a340aa8",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-10-13T11:07:52.093904+00:00",
+    "emailed_utc": "2026-10-13T11:07:52.093904+00:00"
+  },
+  {
+    "job_id": "lever:valdeseng:5541016b-bfaf-4caa-bec5-f9df9c164df9",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "valdeseng",
+    "title": "Process Engineer- Entry Level",
+    "location": "Lombard, IL",
+    "posted": "2022-02-07 17:27 UTC",
+    "url": "https://jobs.lever.co/valdeseng/5541016b-bfaf-4caa-bec5-f9df9c164df9",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-10-13T11:07:52.093904+00:00",
+    "emailed_utc": "2026-10-13T11:07:52.093904+00:00"
+  },
+  {
+    "job_id": "lever:verygoodsecurity:c9dd48c1-c6f9-47b2-b622-c9259b4a1ef6",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "verygoodsecurity",
+    "title": "Application Security Engineer",
+    "location": "United States",
+    "posted": "2026-10-12 20:26 UTC",
+    "url": "https://jobs.lever.co/verygoodsecurity/c9dd48c1-c6f9-47b2-b622-c9259b4a1ef6",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-10-13T11:07:52.093904+00:00",
+    "emailed_utc": "2026-10-13T11:07:52.093904+00:00"
+  },
+  {
+    "job_id": "lever:walkerconsultants:ce5f1ffe-b740-401c-b3fb-870ca937126f",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "walkerconsultants",
+    "title": "Structural Design Engineer",
+    "location": "Hoffman Estates, IL",
+    "posted": "2025-07-21 15:38 UTC",
+    "url": "https://jobs.lever.co/walkerconsultants/ce5f1ffe-b740-401c-b3fb-870ca937126f",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-10-13T11:07:52.093904+00:00",
+    "emailed_utc": "2026-10-13T11:07:52.093904+00:00"
   }
 ]
