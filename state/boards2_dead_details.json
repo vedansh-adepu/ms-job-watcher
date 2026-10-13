@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-10-12T21:26:15.317199+00:00",
+  "updated_utc": "2026-10-13T02:46:15.591277+00:00",
   "dead_details": {
     "lever:livechatinc": {
       "first_seen_utc": "2026-07-01T19:31:29.430568+00:00",
@@ -3065,6 +3065,24 @@
       "first_seen_utc": "2026-10-12T21:26:11.760679+00:00",
       "last_seen_utc": "2026-10-12T21:26:11.760679+00:00",
       "platform": "greenhouse",
+      "company": "",
+      "board_url": "",
+      "last_status": 404,
+      "last_error": "HTTP 404/410 (board not found)"
+    },
+    "lever:chooose": {
+      "first_seen_utc": "2026-10-13T02:44:52.726607+00:00",
+      "last_seen_utc": "2026-10-13T02:44:52.726607+00:00",
+      "platform": "lever",
+      "company": "",
+      "board_url": "",
+      "last_status": 404,
+      "last_error": "HTTP 404/410 (board not found)"
+    },
+    "lever:fresha": {
+      "first_seen_utc": "2026-10-13T02:45:08.270242+00:00",
+      "last_seen_utc": "2026-10-13T02:45:08.270242+00:00",
+      "platform": "lever",
       "company": "",
       "board_url": "",
       "last_status": 404,
