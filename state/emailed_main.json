@@ -38816,5 +38816,83 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-10-13T06:43:53.040568+00:00",
     "emailed_utc": "2026-10-13T06:43:53.040568+00:00"
+  },
+  {
+    "job_id": "nvidia:893398135729",
+    "pipeline": "main",
+    "platform": "nvidia",
+    "company": "NVIDIA",
+    "title": "System Software Engineer - Performance",
+    "location": "Santa Clara, CA, US",
+    "posted": "2026-10-13 00:00 UTC",
+    "url": "https://nvidia.eightfold.ai/careers/job/893398135729",
+    "bucket": "yes",
+    "first_seen_utc": "2026-10-13T16:56:01.665123+00:00",
+    "emailed_utc": "2026-10-13T16:56:01.665123+00:00"
+  },
+  {
+    "job_id": "amazon:34814bd7-8df0-4312-8fd8-7610ee061961",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer II, Silicon Scan & Fleet Diagnostics, Machine Learning Accelerator Technology Team",
+    "location": "US, TX, Austin",
+    "posted": "October 13, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10577153/software-development-engineer-ii-silicon-scan-fleet-diagnostics-machine-learning-accelerator-technology-team",
+    "bucket": "yes",
+    "first_seen_utc": "2026-10-13T16:56:01.665123+00:00",
+    "emailed_utc": "2026-10-13T16:56:01.665123+00:00"
+  },
+  {
+    "job_id": "amazon:e89ad017-a17e-4425-b9a7-b42fd69302a7",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Engineering Manager, AWS CloudFormation",
+    "location": "US, NY, New York",
+    "posted": "October 13, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10576841/software-engineering-manager-aws-cloudformation",
+    "bucket": "yes",
+    "first_seen_utc": "2026-10-13T16:56:01.665123+00:00",
+    "emailed_utc": "2026-10-13T16:56:01.665123+00:00"
+  },
+  {
+    "job_id": "nvidia:893398135789",
+    "pipeline": "main",
+    "platform": "nvidia",
+    "company": "NVIDIA",
+    "title": "Senior SoC Software Engineer",
+    "location": "Santa Clara, CA, US",
+    "posted": "2026-10-13 00:00 UTC",
+    "url": "https://nvidia.eightfold.ai/careers/job/893398135789",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-10-13T16:56:01.665123+00:00",
+    "emailed_utc": "2026-10-13T16:56:01.665123+00:00"
+  },
+  {
+    "job_id": "amazon:fd795e8a-66a1-4b56-b522-378fb808aa03",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Principal, Senior, Distinguished Engineer, AWS Foundational Data & Storage Services, AWS Foundational Data & Storage Services",
+    "location": "US, WA, Seattle",
+    "posted": "October 13, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10577071/principal-senior-distinguished-engineer-aws-foundational-data-storage-services-aws-foundational-data-storage-services",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-10-13T16:56:01.665123+00:00",
+    "emailed_utc": "2026-10-13T16:56:01.665123+00:00"
+  },
+  {
+    "job_id": "amazon:e2cbfa94-2a9f-462b-828e-f5b4341f4d18",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Dev Engineer II, AWS Applied AI Solutions",
+    "location": "US, WA, Seattle",
+    "posted": "October 13, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10577248/software-dev-engineer-ii-aws-applied-ai-solutions",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-10-13T16:56:01.665123+00:00",
+    "emailed_utc": "2026-10-13T16:56:01.665123+00:00"
   }
 ]
