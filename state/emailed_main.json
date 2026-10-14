@@ -39180,5 +39180,57 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-10-13T22:39:39.189051+00:00",
     "emailed_utc": "2026-10-13T22:39:39.189051+00:00"
+  },
+  {
+    "job_id": "amazon:1c446ab8-fa7b-461d-a1a9-3981203a3594",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, Amazon, APM Twitch",
+    "location": "US, NY, New York",
+    "posted": "October 13, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10578078/software-development-engineer-amazon-apm-twitch",
+    "bucket": "yes",
+    "first_seen_utc": "2026-10-14T04:46:53.308914+00:00",
+    "emailed_utc": "2026-10-14T04:46:53.308914+00:00"
+  },
+  {
+    "job_id": "amazon:48b3ee2e-6106-4d16-991a-9f5868e42b53",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, BigMesh, Traffic Engineering",
+    "location": "US, WA, Seattle",
+    "posted": "October 14, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10578212/software-development-engineer-bigmesh-traffic-engineering",
+    "bucket": "yes",
+    "first_seen_utc": "2026-10-14T04:46:53.308914+00:00",
+    "emailed_utc": "2026-10-14T04:46:53.308914+00:00"
+  },
+  {
+    "job_id": "nvidia:893398154551",
+    "pipeline": "main",
+    "platform": "nvidia",
+    "company": "NVIDIA",
+    "title": "Senior Software Engineer, Cloud Infrastructure",
+    "location": "Santa Clara, CA, US",
+    "posted": "2026-10-13 00:00 UTC",
+    "url": "https://nvidia.eightfold.ai/careers/job/893398154551",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-10-14T04:46:53.308914+00:00",
+    "emailed_utc": "2026-10-14T04:46:53.308914+00:00"
+  },
+  {
+    "job_id": "amazon:1ba78fe2-5326-47e4-81ce-cccd38cf80ae",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Principal Engineer & Senior Principal Network Engineer, AWS Network Services",
+    "location": "US, WA, Seattle",
+    "posted": "October 13, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10578058/principal-engineer-senior-principal-network-engineer-aws-network-services",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-10-14T04:46:53.308914+00:00",
+    "emailed_utc": "2026-10-14T04:46:53.308914+00:00"
   }
 ]
