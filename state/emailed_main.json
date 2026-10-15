@@ -39635,5 +39635,83 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-10-14T21:37:47.398239+00:00",
     "emailed_utc": "2026-10-14T21:37:47.398239+00:00"
+  },
+  {
+    "job_id": "amazon:126458d4-4383-4c00-b777-031d48a44bd0",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer",
+    "location": "US, WA, Seattle",
+    "posted": "October 15, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10579435/software-development-engineer",
+    "bucket": "yes",
+    "first_seen_utc": "2026-10-15T04:29:27.142411+00:00",
+    "emailed_utc": "2026-10-15T04:29:27.142411+00:00"
+  },
+  {
+    "job_id": "amazon:e829744e-dc13-4ad5-a641-c1130c0576b6",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, Customer Experience and Business Trends",
+    "location": "US, WA, Seattle",
+    "posted": "October 15, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10579384/software-development-engineer-customer-experience-and-business-trends",
+    "bucket": "yes",
+    "first_seen_utc": "2026-10-15T04:29:27.142411+00:00",
+    "emailed_utc": "2026-10-15T04:29:27.142411+00:00"
+  },
+  {
+    "job_id": "amazon:0e43d29a-0c58-4736-b1aa-fb92629a928c",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Dev Engineer II - Full stack,  Amazon Interactive Video Service (IVS), Control Plane",
+    "location": "US, WA, Seattle",
+    "posted": "October 14, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10579300/software-dev-engineer-ii-full-stack-amazon-interactive-video-service-ivs-control-plane",
+    "bucket": "yes",
+    "first_seen_utc": "2026-10-15T04:29:27.142411+00:00",
+    "emailed_utc": "2026-10-15T04:29:27.142411+00:00"
+  },
+  {
+    "job_id": "nvidia:893398179179",
+    "pipeline": "main",
+    "platform": "nvidia",
+    "company": "NVIDIA",
+    "title": "Principal System Software Engineer - CUDA Driver",
+    "location": "Santa Clara, CA, US",
+    "posted": "2026-10-14 00:00 UTC",
+    "url": "https://nvidia.eightfold.ai/careers/job/893398179179",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-10-15T04:29:27.142411+00:00",
+    "emailed_utc": "2026-10-15T04:29:27.142411+00:00"
+  },
+  {
+    "job_id": "amazon:08bd6b3d-29ea-4cb1-adfb-8e39144cb42c",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Dev Manager, Amazon EMR",
+    "location": "US, CA, East Palo Alto",
+    "posted": "October 15, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10579396/software-dev-manager-amazon-emr",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-10-15T04:29:27.142411+00:00",
+    "emailed_utc": "2026-10-15T04:29:27.142411+00:00"
+  },
+  {
+    "job_id": "amazon:690a615a-f1f4-49a8-9145-b95bf34b07fc",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Manager, Amazon Neptune",
+    "location": "US, WA, Seattle",
+    "posted": "October 15, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10579387/software-development-manager-amazon-neptune",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-10-15T04:29:27.142411+00:00",
+    "emailed_utc": "2026-10-15T04:29:27.142411+00:00"
   }
 ]
