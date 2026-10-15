@@ -39713,5 +39713,70 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-10-15T04:29:27.142411+00:00",
     "emailed_utc": "2026-10-15T04:29:27.142411+00:00"
+  },
+  {
+    "job_id": "microsoft:1970393557026652",
+    "pipeline": "main",
+    "platform": "microsoft",
+    "company": "Microsoft",
+    "title": "Software Engineer",
+    "location": "Redmond, WA, US",
+    "posted": "2026-10-15 05:43 UTC",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393557026652",
+    "bucket": "yes",
+    "first_seen_utc": "2026-10-15T11:21:27.051214+00:00",
+    "emailed_utc": "2026-10-15T11:21:27.051214+00:00"
+  },
+  {
+    "job_id": "amazon:faeb7857-fb73-4a68-a321-48cd7f3d8aa4",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, AWS Neuron, Annapurna Labs",
+    "location": "US, CA, Cupertino",
+    "posted": "October 15, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10579585/software-development-engineer-aws-neuron-annapurna-labs",
+    "bucket": "yes",
+    "first_seen_utc": "2026-10-15T11:21:27.051214+00:00",
+    "emailed_utc": "2026-10-15T11:21:27.051214+00:00"
+  },
+  {
+    "job_id": "amazon:6877a2fb-89b9-4030-81ea-5457870eb3f9",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer III, Machine Learning Annapurna - System Integration",
+    "location": "US, WA, Seattle",
+    "posted": "October 14, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10579315/software-development-engineer-iii-machine-learning-annapurna-system-integration",
+    "bucket": "yes",
+    "first_seen_utc": "2026-10-15T11:21:27.051214+00:00",
+    "emailed_utc": "2026-10-15T11:21:27.051214+00:00"
+  },
+  {
+    "job_id": "amazon:271d2c47-244e-4f5b-aa73-c5341d382edf",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Manager, Mobile App Foundations",
+    "location": "US, WA, Seattle",
+    "posted": "October  2, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10568011/software-development-manager-mobile-app-foundations",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-10-15T11:21:27.051214+00:00",
+    "emailed_utc": "2026-10-15T11:21:27.051214+00:00"
+  },
+  {
+    "job_id": "amazon:facc04bb-f1da-4740-afe5-0f87534643b0",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Front-End Engineer II, PubTech Publisher Experience",
+    "location": "US, TX, Austin",
+    "posted": "October 14, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10579206/front-end-engineer-ii-pubtech-publisher-experience",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-10-15T11:21:27.051214+00:00",
+    "emailed_utc": "2026-10-15T11:21:27.051214+00:00"
   }
 ]
