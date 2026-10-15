@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-10-15T17:22:59.231368+00:00",
+  "updated_utc": "2026-10-15T21:48:31.161990+00:00",
   "dead_details": {
     "lever:livechatinc": {
       "first_seen_utc": "2026-07-01T19:31:29.430568+00:00",
@@ -3136,6 +3136,33 @@
     "greenhouse:companycam": {
       "first_seen_utc": "2026-10-15T17:22:45.337974+00:00",
       "last_seen_utc": "2026-10-15T17:22:45.337974+00:00",
+      "platform": "greenhouse",
+      "company": "",
+      "board_url": "",
+      "last_status": 404,
+      "last_error": "HTTP 404/410 (board not found)"
+    },
+    "greenhouse:irradianttechnologies": {
+      "first_seen_utc": "2026-10-15T21:48:05.355442+00:00",
+      "last_seen_utc": "2026-10-15T21:48:05.355442+00:00",
+      "platform": "greenhouse",
+      "company": "",
+      "board_url": "",
+      "last_status": 404,
+      "last_error": "HTTP 404/410 (board not found)"
+    },
+    "greenhouse:remotecom": {
+      "first_seen_utc": "2026-10-15T21:48:12.905079+00:00",
+      "last_seen_utc": "2026-10-15T21:48:12.905079+00:00",
+      "platform": "greenhouse",
+      "company": "",
+      "board_url": "",
+      "last_status": 404,
+      "last_error": "HTTP 404/410 (board not found)"
+    },
+    "greenhouse:skinlaundry": {
+      "first_seen_utc": "2026-10-15T21:48:14.576801+00:00",
+      "last_seen_utc": "2026-10-15T21:48:14.576801+00:00",
       "platform": "greenhouse",
       "company": "",
       "board_url": "",
