@@ -638870,5 +638870,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-10-15T21:54:25.497931+00:00",
     "emailed_utc": "2026-10-15T21:54:25.497931+00:00"
+  },
+  {
+    "job_id": "workday:communitybrands:momentive_external_careers:req:R688",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Communitybrands",
+    "title": "Job Title SQL Developer / Data Migration Specialist",
+    "location": "Arlington, VA, US",
+    "posted": "Posted 7 Days Ago",
+    "url": "https://communitybrands.wd1.myworkdayjobs.com/en-US/momentive_external_careers/job/Arlington-VA-US/Job-Title-SQL-Developer---Data-Migration-Specialist_R688",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-10-16T00:01:29.746840+00:00",
+    "emailed_utc": "2026-10-16T00:01:29.746840+00:00"
+  },
+  {
+    "job_id": "workday:comfortsystemsusa:corpcareers:req:JR108145",
+    "pipeline": "boards3",
+    "platform": "workday",
+    "company": "Comfortsystemsusa",
+    "title": "Controls Engineer",
+    "location": "Houston, TX (TAS-Cullen HQ)",
+    "posted": "Posted 13 Days Ago",
+    "url": "https://comfortsystemsusa.wd1.myworkdayjobs.com/en-US/corpcareers/job/Houston-TX-TAS-Cullen-HQ/Controls-Engineer_JR108145-1",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-10-16T00:01:29.746840+00:00",
+    "emailed_utc": "2026-10-16T00:01:29.746840+00:00"
   }
 ]
