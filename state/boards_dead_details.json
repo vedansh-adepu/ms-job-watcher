@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-10-15T21:22:45.648045+00:00",
+  "updated_utc": "2026-10-16T04:27:57.167042+00:00",
   "dead_details": {
     "greenhouse:auth0": {
       "first_seen_utc": "2026-02-16T03:03:47.356270+00:00",
@@ -8761,6 +8761,15 @@
     "greenhouse:paradigm": {
       "first_seen_utc": "2026-10-15T16:57:18.294352+00:00",
       "last_seen_utc": "2026-10-15T16:57:18.294352+00:00",
+      "platform": "greenhouse",
+      "company": "",
+      "board_url": "",
+      "last_status": 404,
+      "last_error": "HTTP 404/410 (board not found)"
+    },
+    "greenhouse:visiersolutionsinc": {
+      "first_seen_utc": "2026-10-16T04:26:50.417870+00:00",
+      "last_seen_utc": "2026-10-16T04:26:50.417870+00:00",
       "platform": "greenhouse",
       "company": "",
       "board_url": "",
