@@ -350010,5 +350010,57 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-10-18T04:27:44.713114+00:00",
     "emailed_utc": "2026-10-18T04:27:44.713114+00:00"
+  },
+  {
+    "job_id": "greenhouse:spacex:8899128002",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "SpaceX",
+    "title": "Application Software Engineer, Flight Software",
+    "location": "Hawthorne, CA",
+    "posted": "2026-10-18T03:26:24-04:00",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8899128002?gh_jid=8899128002",
+    "bucket": "yes",
+    "first_seen_utc": "2026-10-18T11:02:02.600240+00:00",
+    "emailed_utc": "2026-10-18T11:02:02.600240+00:00"
+  },
+  {
+    "job_id": "smartrecruiters:ServiceNow:744000156132859",
+    "pipeline": "boards",
+    "platform": "smartrecruiters",
+    "company": "ServiceNow",
+    "title": "Senior Staff Platform Engineer - Kubernetes - Federal",
+    "location": "Santa Clara, CALIFORNIA, us",
+    "posted": "2026-10-17T15:23:18.910Z",
+    "url": "https://jobs.smartrecruiters.com/ServiceNow",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-10-18T11:02:02.600240+00:00",
+    "emailed_utc": "2026-10-18T11:02:02.600240+00:00"
+  },
+  {
+    "job_id": "smartrecruiters:ServiceNow:744000156132709",
+    "pipeline": "boards",
+    "platform": "smartrecruiters",
+    "company": "ServiceNow",
+    "title": "Senior Staff Platform Engineer - Kubernetes - Federal",
+    "location": "San Diego, CALIFORNIA, us",
+    "posted": "2026-10-17T15:09:01.778Z",
+    "url": "https://jobs.smartrecruiters.com/ServiceNow",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-10-18T11:02:02.600240+00:00",
+    "emailed_utc": "2026-10-18T11:02:02.600240+00:00"
+  },
+  {
+    "job_id": "lever:tutorintelligence:17909bb1-3f32-46b6-89c9-83b68d00a3dd",
+    "pipeline": "boards",
+    "platform": "lever",
+    "company": "tutorintelligence",
+    "title": "Robotics Research Infrastructure Engineer",
+    "location": "Watertown, MA",
+    "posted": "2026-10-08 23:02 UTC",
+    "url": "https://jobs.lever.co/tutorintelligence/17909bb1-3f32-46b6-89c9-83b68d00a3dd",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-10-18T11:02:02.600240+00:00",
+    "emailed_utc": "2026-10-18T11:02:02.600240+00:00"
   }
 ]
