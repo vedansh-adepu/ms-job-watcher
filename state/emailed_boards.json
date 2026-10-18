@@ -350062,5 +350062,44 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-10-18T11:02:02.600240+00:00",
     "emailed_utc": "2026-10-18T11:02:02.600240+00:00"
+  },
+  {
+    "job_id": "greenhouse:anthropic:5456039008",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Anthropic",
+    "title": "Principal Engineer Capacity/Compute",
+    "location": "San Francisco, CA",
+    "posted": "2026-10-18T10:11:38-04:00",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5456039008",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-10-18T23:10:39.977929+00:00",
+    "emailed_utc": "2026-10-18T23:10:39.977929+00:00"
+  },
+  {
+    "job_id": "workday:amat:External:req:R2631466",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Applied Materials",
+    "title": "Customer Engineer - EPIC Center",
+    "location": "Santa Clara,CA",
+    "posted": "Posted Today",
+    "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Customer-Engineer---EPIC-Center_R2631466",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-10-18T23:10:39.977929+00:00",
+    "emailed_utc": "2026-10-18T23:10:39.977929+00:00"
+  },
+  {
+    "job_id": "workday:amat:External:req:R2631464",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Applied Materials",
+    "title": "Field Service Engineer III - Process, Diagnostics, and Control/Metrology",
+    "location": "Austin,TX",
+    "posted": "Posted Today",
+    "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/AustinTX/Field-Service-Engineer-III---Process--Diagnostics--and-Control-Metrology_R2631464",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-10-18T23:10:39.977929+00:00",
+    "emailed_utc": "2026-10-18T23:10:39.977929+00:00"
   }
 ]
