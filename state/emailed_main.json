@@ -40766,5 +40766,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-10-17T10:35:14.872725+00:00",
     "emailed_utc": "2026-10-17T10:35:14.872725+00:00"
+  },
+  {
+    "job_id": "amazon:04dc381b-5042-49aa-9219-a6ec7de7485a",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, International Seller Growth",
+    "location": "US, WA, Seattle",
+    "posted": "October 19, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10582292/software-development-engineer-international-seller-growth",
+    "bucket": "yes",
+    "first_seen_utc": "2026-10-19T13:00:47.448554+00:00",
+    "emailed_utc": "2026-10-19T13:00:47.448554+00:00"
+  },
+  {
+    "job_id": "nvidia:893398196673",
+    "pipeline": "main",
+    "platform": "nvidia",
+    "company": "NVIDIA",
+    "title": "Senior Cloud Software Engineer",
+    "location": "US",
+    "posted": "2026-10-19 00:00 UTC",
+    "url": "https://nvidia.eightfold.ai/careers/job/893398196673",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-10-19T13:00:47.448554+00:00",
+    "emailed_utc": "2026-10-19T13:00:47.448554+00:00"
   }
 ]
