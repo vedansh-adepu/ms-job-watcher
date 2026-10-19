@@ -148744,5 +148744,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-10-18T23:41:04.347379+00:00",
     "emailed_utc": "2026-10-18T23:41:04.347379+00:00"
+  },
+  {
+    "job_id": "greenhouse:nationaldbs1:5456393008",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "nationaldbs1",
+    "title": "Lead Engineer - Mechanical Design Build",
+    "location": "Maryland Heights, MO",
+    "posted": "2026-10-18T19:26:15-04:00",
+    "url": "https://nationaldbs.com/careers/?gh_jid=5456393008",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-10-19T05:21:08.368289+00:00",
+    "emailed_utc": "2026-10-19T05:21:08.368289+00:00"
+  },
+  {
+    "job_id": "greenhouse:nationaldbs1:5456396008",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "nationaldbs1",
+    "title": "Senior Engineer - Mechanical Design",
+    "location": "Maryland Heights, MO",
+    "posted": "2026-10-18T19:34:31-04:00",
+    "url": "https://nationaldbs.com/careers/?gh_jid=5456396008",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-10-19T05:21:08.368289+00:00",
+    "emailed_utc": "2026-10-19T05:21:08.368289+00:00"
   }
 ]
