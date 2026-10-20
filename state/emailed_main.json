@@ -41468,5 +41468,18 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-10-20T08:27:25.907291+00:00",
     "emailed_utc": "2026-10-20T08:27:25.907291+00:00"
+  },
+  {
+    "job_id": "amazon:13ddcd59-7b93-4eab-bfeb-578df48d44a9",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer",
+    "location": "US, WA, Seattle",
+    "posted": "October 20, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10583973/software-development-engineer",
+    "bucket": "yes",
+    "first_seen_utc": "2026-10-20T14:17:27.099255+00:00",
+    "emailed_utc": "2026-10-20T14:17:27.099255+00:00"
   }
 ]
