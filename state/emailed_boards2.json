@@ -150837,5 +150837,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-10-20T12:14:53.899569+00:00",
     "emailed_utc": "2026-10-20T12:14:53.899569+00:00"
+  },
+  {
+    "job_id": "lever:xsolla:c2cf774d-e285-480b-96a3-3f133a243eff",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "xsolla",
+    "title": "Software Engineer",
+    "location": "Remote USA",
+    "posted": "2026-10-20 13:23 UTC",
+    "url": "https://jobs.lever.co/xsolla/c2cf774d-e285-480b-96a3-3f133a243eff",
+    "bucket": "yes",
+    "first_seen_utc": "2026-10-20T17:33:03.359051+00:00",
+    "emailed_utc": "2026-10-20T17:33:03.359051+00:00"
+  },
+  {
+    "job_id": "lever:waremalcomb:fe06c4df-9d5c-4b5a-b4bd-2a099da3c6c9",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "waremalcomb",
+    "title": "Design Engineer, Structural Engineering",
+    "location": "Los Angeles, CA",
+    "posted": "2026-10-19 18:55 UTC",
+    "url": "https://jobs.lever.co/waremalcomb/fe06c4df-9d5c-4b5a-b4bd-2a099da3c6c9",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-10-20T17:33:03.359051+00:00",
+    "emailed_utc": "2026-10-20T17:33:03.359051+00:00"
   }
 ]
