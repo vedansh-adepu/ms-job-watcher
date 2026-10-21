@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-10-21T17:41:32.011487+00:00",
+  "updated_utc": "2026-10-21T22:01:18.539721+00:00",
   "dead_details": {
     "lever:livechatinc": {
       "first_seen_utc": "2026-07-01T19:31:29.430568+00:00",
@@ -3316,6 +3316,15 @@
     "greenhouse:threatlocker": {
       "first_seen_utc": "2026-10-21T05:20:44.471423+00:00",
       "last_seen_utc": "2026-10-21T05:20:44.471423+00:00",
+      "platform": "greenhouse",
+      "company": "",
+      "board_url": "",
+      "last_status": 404,
+      "last_error": "HTTP 404/410 (board not found)"
+    },
+    "greenhouse:coverahealth": {
+      "first_seen_utc": "2026-10-21T22:00:25.992609+00:00",
+      "last_seen_utc": "2026-10-21T22:00:25.992609+00:00",
       "platform": "greenhouse",
       "company": "",
       "board_url": "",
