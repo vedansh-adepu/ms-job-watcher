@@ -41858,5 +41858,83 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-10-20T23:50:40.604700+00:00",
     "emailed_utc": "2026-10-20T23:50:40.604700+00:00"
+  },
+  {
+    "job_id": "microsoft:1970393557043616",
+    "pipeline": "main",
+    "platform": "microsoft",
+    "company": "Microsoft",
+    "title": "Software Engineering IC2",
+    "location": "Redmond, WA, US",
+    "posted": "2026-10-20 21:35 UTC",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393557043616",
+    "bucket": "yes",
+    "first_seen_utc": "2026-10-21T04:36:37.911374+00:00",
+    "emailed_utc": "2026-10-21T04:36:37.911374+00:00"
+  },
+  {
+    "job_id": "microsoft:1970393557038974",
+    "pipeline": "main",
+    "platform": "microsoft",
+    "company": "Microsoft",
+    "title": "Software Engineer",
+    "location": "Cambridge, MA, US",
+    "posted": "2026-10-16 06:10 UTC",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393557038974",
+    "bucket": "yes",
+    "first_seen_utc": "2026-10-21T04:36:37.911374+00:00",
+    "emailed_utc": "2026-10-21T04:36:37.911374+00:00"
+  },
+  {
+    "job_id": "amazon:aa62e362-44cd-4903-aca7-f21a3cd863f3",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Embedded Software Engineer, EC2 Nitro Networking , EC2 Nitro Networking",
+    "location": "US, WA, Seattle",
+    "posted": "October 21, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10584826/embedded-software-engineer-ec2-nitro-networking-ec2-nitro-networking",
+    "bucket": "yes",
+    "first_seen_utc": "2026-10-21T04:36:37.911374+00:00",
+    "emailed_utc": "2026-10-21T04:36:37.911374+00:00"
+  },
+  {
+    "job_id": "amazon:550f47aa-10fd-4a93-9b9f-de6314554629",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer I \u2013 AI/ML Network Infrastructure, Annapurna Labs",
+    "location": "US, CA, Cupertino",
+    "posted": "October 21, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10584797/software-development-engineer-i-ai-ml-network-infrastructure-annapurna-labs",
+    "bucket": "yes",
+    "first_seen_utc": "2026-10-21T04:36:37.911374+00:00",
+    "emailed_utc": "2026-10-21T04:36:37.911374+00:00"
+  },
+  {
+    "job_id": "microsoft:1970393557041673",
+    "pipeline": "main",
+    "platform": "microsoft",
+    "company": "Microsoft",
+    "title": "Performance Insights & Business Analytics Lead",
+    "location": "Redmond, WA, US",
+    "posted": "2026-10-21 00:46 UTC",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393557041673",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-10-21T04:36:37.911374+00:00",
+    "emailed_utc": "2026-10-21T04:36:37.911374+00:00"
+  },
+  {
+    "job_id": "microsoft:1970393557038958",
+    "pipeline": "main",
+    "platform": "microsoft",
+    "company": "Microsoft",
+    "title": "Senior Software Engineer",
+    "location": "Redmond, WA, US",
+    "posted": "2026-10-20 22:28 UTC",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393557038958",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-10-21T04:36:37.911374+00:00",
+    "emailed_utc": "2026-10-21T04:36:37.911374+00:00"
   }
 ]
