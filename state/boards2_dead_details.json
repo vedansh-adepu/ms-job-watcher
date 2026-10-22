@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-10-22T05:23:25.406753+00:00",
+  "updated_utc": "2026-10-22T12:30:29.152743+00:00",
   "dead_details": {
     "lever:livechatinc": {
       "first_seen_utc": "2026-07-01T19:31:29.430568+00:00",
@@ -3353,6 +3353,24 @@
       "first_seen_utc": "2026-10-22T05:23:18.450518+00:00",
       "last_seen_utc": "2026-10-22T05:23:18.450518+00:00",
       "platform": "greenhouse",
+      "company": "",
+      "board_url": "",
+      "last_status": 404,
+      "last_error": "HTTP 404/410 (board not found)"
+    },
+    "greenhouse:transcendtherapeutics": {
+      "first_seen_utc": "2026-10-22T12:27:16.324587+00:00",
+      "last_seen_utc": "2026-10-22T12:27:16.324587+00:00",
+      "platform": "greenhouse",
+      "company": "",
+      "board_url": "",
+      "last_status": 404,
+      "last_error": "HTTP 404/410 (board not found)"
+    },
+    "lever:procept-biorobotics": {
+      "first_seen_utc": "2026-10-22T12:29:22.344315+00:00",
+      "last_seen_utc": "2026-10-22T12:29:22.344315+00:00",
+      "platform": "lever",
       "company": "",
       "board_url": "",
       "last_status": 404,
