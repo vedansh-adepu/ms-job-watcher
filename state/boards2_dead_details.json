@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-10-23T17:28:11.475489+00:00",
+  "updated_utc": "2026-10-23T21:42:25.576248+00:00",
   "dead_details": {
     "lever:livechatinc": {
       "first_seen_utc": "2026-07-01T19:31:29.430568+00:00",
@@ -3406,6 +3406,24 @@
     "greenhouse:zind-erprogram": {
       "first_seen_utc": "2026-10-23T12:07:36.059004+00:00",
       "last_seen_utc": "2026-10-23T12:07:36.059004+00:00",
+      "platform": "greenhouse",
+      "company": "",
+      "board_url": "",
+      "last_status": 404,
+      "last_error": "HTTP 404/410 (board not found)"
+    },
+    "greenhouse:143studiosinc": {
+      "first_seen_utc": "2026-10-23T21:42:11.189410+00:00",
+      "last_seen_utc": "2026-10-23T21:42:11.189410+00:00",
+      "platform": "greenhouse",
+      "company": "",
+      "board_url": "",
+      "last_status": 404,
+      "last_error": "HTTP 404/410 (board not found)"
+    },
+    "greenhouse:gigaenergy": {
+      "first_seen_utc": "2026-10-23T21:42:21.020379+00:00",
+      "last_seen_utc": "2026-10-23T21:42:21.020379+00:00",
       "platform": "greenhouse",
       "company": "",
       "board_url": "",
