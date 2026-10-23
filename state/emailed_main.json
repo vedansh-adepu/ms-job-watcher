@@ -42859,5 +42859,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-10-23T04:40:37.052332+00:00",
     "emailed_utc": "2026-10-23T04:40:37.052332+00:00"
+  },
+  {
+    "job_id": "microsoft:1970393557040468",
+    "pipeline": "main",
+    "platform": "microsoft",
+    "company": "Microsoft",
+    "title": "Software Engineer II - Finance Data & Experiences",
+    "location": "Redmond, WA, US",
+    "posted": "2026-10-23 06:12 UTC",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393557040468",
+    "bucket": "yes",
+    "first_seen_utc": "2026-10-23T11:32:10.558449+00:00",
+    "emailed_utc": "2026-10-23T11:32:10.558449+00:00"
+  },
+  {
+    "job_id": "amazon:5466b3c0-c22c-45e6-98f0-b236bbfa8056",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Principal Engineer, Amazon Software Builder Experience (ASBX)",
+    "location": "US, WA, Seattle",
+    "posted": "October 23, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10587257/principal-engineer-amazon-software-builder-experience-asbx",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-10-23T11:32:10.558449+00:00",
+    "emailed_utc": "2026-10-23T11:32:10.558449+00:00"
   }
 ]
