@@ -43145,5 +43145,83 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-10-23T17:01:05.096583+00:00",
     "emailed_utc": "2026-10-23T17:01:05.096583+00:00"
+  },
+  {
+    "job_id": "amazon:eec9848e-9fd2-4a81-94db-33ad804a8efa",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, AWS Private Pricing ",
+    "location": "US, WA, Seattle",
+    "posted": "October 23, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10587542/software-development-engineer-aws-private-pricing",
+    "bucket": "yes",
+    "first_seen_utc": "2026-10-23T21:21:50.029613+00:00",
+    "emailed_utc": "2026-10-23T21:21:50.029613+00:00"
+  },
+  {
+    "job_id": "amazon:433c8ece-2374-40e3-b8f3-c2614fcba2a4",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer II, AWS DynamoDB",
+    "location": "US, WA, Seattle",
+    "posted": "October 23, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10587867/software-development-engineer-ii-aws-dynamodb",
+    "bucket": "yes",
+    "first_seen_utc": "2026-10-23T21:21:50.029613+00:00",
+    "emailed_utc": "2026-10-23T21:21:50.029613+00:00"
+  },
+  {
+    "job_id": "microsoft:1970393557044316",
+    "pipeline": "main",
+    "platform": "microsoft",
+    "company": "Microsoft",
+    "title": "Senior Hardware Systems Engineer",
+    "location": "Redmond, WA, US",
+    "posted": "2026-10-23 18:09 UTC",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393557044316",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-10-23T21:21:50.029613+00:00",
+    "emailed_utc": "2026-10-23T21:21:50.029613+00:00"
+  },
+  {
+    "job_id": "nvidia:893398313970",
+    "pipeline": "main",
+    "platform": "nvidia",
+    "company": "NVIDIA",
+    "title": "Principal Software Engineer - DGX Cloud",
+    "location": "Santa Clara, CA, US",
+    "posted": "2026-10-23 00:00 UTC",
+    "url": "https://nvidia.eightfold.ai/careers/job/893398313970",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-10-23T21:21:50.029613+00:00",
+    "emailed_utc": "2026-10-23T21:21:50.029613+00:00"
+  },
+  {
+    "job_id": "amazon:df2f26db-a9f1-4b53-a4f0-d6a4c2e24150",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Forward Deployed Engineer (Model Customization and Optimization), AWS Forward Deployed Engineering",
+    "location": "US, WA, Seattle",
+    "posted": "October 23, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10585967/forward-deployed-engineer-model-customization-and-optimization-aws-forward-deployed-engineering",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-10-23T21:21:50.029613+00:00",
+    "emailed_utc": "2026-10-23T21:21:50.029613+00:00"
+  },
+  {
+    "job_id": "amazon:366de358-e563-4ae9-a500-4c978cc3a685",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Sr. Software Dev Engineer, Corporate Development Finance",
+    "location": "US, WA, Seattle",
+    "posted": "October 23, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10587743/sr-software-dev-engineer-corporate-development-finance",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-10-23T21:21:50.029613+00:00",
+    "emailed_utc": "2026-10-23T21:21:50.029613+00:00"
   }
 ]
