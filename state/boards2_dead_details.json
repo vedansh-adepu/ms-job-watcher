@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-10-23T05:24:15.461084+00:00",
+  "updated_utc": "2026-10-23T12:13:29.538154+00:00",
   "dead_details": {
     "lever:livechatinc": {
       "first_seen_utc": "2026-07-01T19:31:29.430568+00:00",
@@ -3388,6 +3388,24 @@
     "greenhouse:slingshotaerospace": {
       "first_seen_utc": "2026-10-23T05:24:10.352391+00:00",
       "last_seen_utc": "2026-10-23T05:24:10.352391+00:00",
+      "platform": "greenhouse",
+      "company": "",
+      "board_url": "",
+      "last_status": 404,
+      "last_error": "HTTP 404/410 (board not found)"
+    },
+    "greenhouse:vaco": {
+      "first_seen_utc": "2026-10-23T12:07:33.322457+00:00",
+      "last_seen_utc": "2026-10-23T12:07:33.322457+00:00",
+      "platform": "greenhouse",
+      "company": "",
+      "board_url": "",
+      "last_status": 404,
+      "last_error": "HTTP 404/410 (board not found)"
+    },
+    "greenhouse:zind-erprogram": {
+      "first_seen_utc": "2026-10-23T12:07:36.059004+00:00",
+      "last_seen_utc": "2026-10-23T12:07:36.059004+00:00",
       "platform": "greenhouse",
       "company": "",
       "board_url": "",
