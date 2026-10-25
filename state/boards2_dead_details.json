@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-10-25T05:20:28.769315+00:00",
+  "updated_utc": "2026-10-25T12:01:36.782893+00:00",
   "dead_details": {
     "lever:livechatinc": {
       "first_seen_utc": "2026-07-01T19:31:29.430568+00:00",
@@ -3442,6 +3442,15 @@
     "greenhouse:bluecrestcapitalmanagement": {
       "first_seen_utc": "2026-10-24T16:15:34.472989+00:00",
       "last_seen_utc": "2026-10-24T16:15:34.472989+00:00",
+      "platform": "greenhouse",
+      "company": "",
+      "board_url": "",
+      "last_status": 404,
+      "last_error": "HTTP 404/410 (board not found)"
+    },
+    "greenhouse:bitcoindepot": {
+      "first_seen_utc": "2026-10-25T12:01:19.902338+00:00",
+      "last_seen_utc": "2026-10-25T12:01:19.902338+00:00",
       "platform": "greenhouse",
       "company": "",
       "board_url": "",
