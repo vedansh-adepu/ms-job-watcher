@@ -43431,5 +43431,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-10-25T23:12:17.654509+00:00",
     "emailed_utc": "2026-10-25T23:12:17.654509+00:00"
+  },
+  {
+    "job_id": "amazon:567a76d7-4c20-4800-b927-20043ce1f4cd",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Applied Scientist II, Advertising Incrementality Measurement",
+    "location": "US, NY, New York",
+    "posted": "October 26, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10588351/applied-scientist-ii-advertising-incrementality-measurement",
+    "bucket": "yes",
+    "first_seen_utc": "2026-10-26T12:51:07.046525+00:00",
+    "emailed_utc": "2026-10-26T12:51:07.046525+00:00"
+  },
+  {
+    "job_id": "amazon:bbd8092b-3911-4b90-9a85-eac86449f089",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Senior Applied Scientist, PV Ads Science",
+    "location": "US, WA, Seattle",
+    "posted": "October 26, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10588417/senior-applied-scientist-pv-ads-science",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-10-26T12:51:07.046525+00:00",
+    "emailed_utc": "2026-10-26T12:51:07.046525+00:00"
   }
 ]
