@@ -373514,5 +373514,70 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-10-26T20:30:48.103216+00:00",
     "emailed_utc": "2026-10-26T20:30:48.103216+00:00"
+  },
+  {
+    "job_id": "greenhouse:verkada:5275655007",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "verkada",
+    "title": "Federal Solutions Engineer, West Coast",
+    "location": "San Mateo, CA United States",
+    "posted": "2026-10-26T17:49:02-04:00",
+    "url": "https://job-boards.greenhouse.io/verkada/jobs/5275655007",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-10-27T00:25:47.853426+00:00",
+    "emailed_utc": "2026-10-27T00:25:47.853426+00:00"
+  },
+  {
+    "job_id": "greenhouse:verkada:5275159007",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "verkada",
+    "title": "IT Engineer",
+    "location": "San Mateo, CA United States",
+    "posted": "2026-10-26T18:16:25-04:00",
+    "url": "https://job-boards.greenhouse.io/verkada/jobs/5275159007",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-10-27T00:25:47.853426+00:00",
+    "emailed_utc": "2026-10-27T00:25:47.853426+00:00"
+  },
+  {
+    "job_id": "greenhouse:voyagertechnologiesinc:4455169009",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "voyagertechnologiesinc",
+    "title": "Payload System Safety Engineer",
+    "location": "Webster, TX",
+    "posted": "2026-10-26T17:46:05-04:00",
+    "url": "https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4455169009",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-10-27T00:25:47.853426+00:00",
+    "emailed_utc": "2026-10-27T00:25:47.853426+00:00"
+  },
+  {
+    "job_id": "ashby:snowflake:95b87897-68dc-47c0-a4c0-2320d36dafac",
+    "pipeline": "boards",
+    "platform": "ashby",
+    "company": "Snowflake",
+    "title": "Senior Software Engineer, Compute Service",
+    "location": "US-CA-Menlo Park",
+    "posted": "",
+    "url": "https://jobs.ashbyhq.com/snowflake/95b87897-68dc-47c0-a4c0-2320d36dafac",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-10-27T00:25:47.853426+00:00",
+    "emailed_utc": "2026-10-27T00:25:47.853426+00:00"
+  },
+  {
+    "job_id": "ashby:vanta:112c82ea-5825-4121-a43f-5e1902bec35c",
+    "pipeline": "boards",
+    "platform": "ashby",
+    "company": "Vanta",
+    "title": "Senior Software Engineer, AI Developer Experience",
+    "location": "Remote U.S.",
+    "posted": "",
+    "url": "https://jobs.ashbyhq.com/vanta/112c82ea-5825-4121-a43f-5e1902bec35c",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-10-27T00:25:47.853426+00:00",
+    "emailed_utc": "2026-10-27T00:25:47.853426+00:00"
   }
 ]
