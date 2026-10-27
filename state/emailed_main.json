@@ -44120,5 +44120,83 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-10-27T00:24:03.034440+00:00",
     "emailed_utc": "2026-10-27T00:24:03.034440+00:00"
+  },
+  {
+    "job_id": "amazon:a4c13210-04bb-4277-97b6-15bd58959021",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, AWS Agentic AI",
+    "location": "US, WA, Bellevue",
+    "posted": "October 27, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10584176/software-development-engineer-aws-agentic-ai",
+    "bucket": "yes",
+    "first_seen_utc": "2026-10-27T08:54:51.672447+00:00",
+    "emailed_utc": "2026-10-27T08:54:51.672447+00:00"
+  },
+  {
+    "job_id": "amazon:6d501e61-4a29-434b-90bc-5c44379c8b7e",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer , AWS Agentic AI Foundations",
+    "location": "US, WA, Bellevue",
+    "posted": "October 27, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10584164/software-development-engineer-aws-agentic-ai-foundations",
+    "bucket": "yes",
+    "first_seen_utc": "2026-10-27T08:54:51.672447+00:00",
+    "emailed_utc": "2026-10-27T08:54:51.672447+00:00"
+  },
+  {
+    "job_id": "nvidia:893398363760",
+    "pipeline": "main",
+    "platform": "nvidia",
+    "company": "NVIDIA",
+    "title": "Network Software Engineer, Automation and Intelligence",
+    "location": "Santa Clara, CA, US",
+    "posted": "2026-10-26 00:00 UTC",
+    "url": "https://nvidia.eightfold.ai/careers/job/893398363760",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-10-27T08:54:51.672447+00:00",
+    "emailed_utc": "2026-10-27T08:54:51.672447+00:00"
+  },
+  {
+    "job_id": "amazon:68ac422e-0746-4d36-ab74-70ab2179c9eb",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Sr. Software Dev Engineer, Amazon Leo Customer Terminal Software",
+    "location": "US, TX, Austin",
+    "posted": "October 27, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10588927/sr-software-dev-engineer-amazon-leo-customer-terminal-software",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-10-27T08:54:51.672447+00:00",
+    "emailed_utc": "2026-10-27T08:54:51.672447+00:00"
+  },
+  {
+    "job_id": "amazon:7314b285-c5d3-467d-b688-cdcd8461671a",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Senior Software Engineer, Project Leo Customer Terminals",
+    "location": "US, TX, Austin",
+    "posted": "October 27, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10588929/senior-software-engineer-project-leo-customer-terminals",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-10-27T08:54:51.672447+00:00",
+    "emailed_utc": "2026-10-27T08:54:51.672447+00:00"
+  },
+  {
+    "job_id": "amazon:0cd6e06d-ace8-4825-86ab-bde445b4fbb8",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Sr. Systems Development Engineer, Trainium Systems",
+    "location": "US, CA, San Diego",
+    "posted": "October 27, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10589569/sr-systems-development-engineer-trainium-systems",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-10-27T08:54:51.672447+00:00",
+    "emailed_utc": "2026-10-27T08:54:51.672447+00:00"
   }
 ]
