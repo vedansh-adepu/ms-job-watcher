@@ -44653,5 +44653,44 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-10-28T05:31:28.118133+00:00",
     "emailed_utc": "2026-10-28T05:31:28.118133+00:00"
+  },
+  {
+    "job_id": "amazon:d4159592-da50-49b3-b3d2-7df8058b25e7",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Applied Scientist, Neuron ARG",
+    "location": "US, WA, Seattle",
+    "posted": "October 28, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10590952/applied-scientist-neuron-arg",
+    "bucket": "yes",
+    "first_seen_utc": "2026-10-28T12:43:06.590950+00:00",
+    "emailed_utc": "2026-10-28T12:43:06.590950+00:00"
+  },
+  {
+    "job_id": "amazon:1e10a817-3e7f-4458-ba3a-149b707a5f39",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, Devices Software & Services",
+    "location": "US, CA, Sunnyvale",
+    "posted": "October 28, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10590870/software-development-engineer-devices-software-services",
+    "bucket": "yes",
+    "first_seen_utc": "2026-10-28T12:43:06.590950+00:00",
+    "emailed_utc": "2026-10-28T12:43:06.590950+00:00"
+  },
+  {
+    "job_id": "nvidia:893398376572",
+    "pipeline": "main",
+    "platform": "nvidia",
+    "company": "NVIDIA",
+    "title": "Senior Software Engineer, Bare Metal Infrastructure \u2013 DGX Cloud",
+    "location": "Santa Clara, CA, US",
+    "posted": "2026-10-28 00:00 UTC",
+    "url": "https://nvidia.eightfold.ai/careers/job/893398376572",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-10-28T12:43:06.590950+00:00",
+    "emailed_utc": "2026-10-28T12:43:06.590950+00:00"
   }
 ]
