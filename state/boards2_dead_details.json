@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-10-29T13:45:44.016956+00:00",
+  "updated_utc": "2026-10-29T20:36:32.942955+00:00",
   "dead_details": {
     "lever:livechatinc": {
       "first_seen_utc": "2026-07-01T19:31:29.430568+00:00",
@@ -3550,6 +3550,15 @@
     "greenhouse:immunefi": {
       "first_seen_utc": "2026-10-29T13:45:40.060679+00:00",
       "last_seen_utc": "2026-10-29T13:45:40.060679+00:00",
+      "platform": "greenhouse",
+      "company": "",
+      "board_url": "",
+      "last_status": 404,
+      "last_error": "HTTP 404/410 (board not found)"
+    },
+    "greenhouse:innovid": {
+      "first_seen_utc": "2026-10-29T20:36:13.700840+00:00",
+      "last_seen_utc": "2026-10-29T20:36:13.700840+00:00",
       "platform": "greenhouse",
       "company": "",
       "board_url": "",
