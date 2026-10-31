@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-10-30T22:40:26.678605+00:00",
+  "updated_utc": "2026-10-31T06:20:42.914861+00:00",
   "dead_details": {
     "lever:livechatinc": {
       "first_seen_utc": "2026-07-01T19:31:29.430568+00:00",
@@ -3622,6 +3622,15 @@
     "greenhouse:sorellalabs": {
       "first_seen_utc": "2026-10-30T22:40:20.999053+00:00",
       "last_seen_utc": "2026-10-30T22:40:20.999053+00:00",
+      "platform": "greenhouse",
+      "company": "",
+      "board_url": "",
+      "last_status": 404,
+      "last_error": "HTTP 404/410 (board not found)"
+    },
+    "greenhouse:valtech": {
+      "first_seen_utc": "2026-10-31T06:18:09.627989+00:00",
+      "last_seen_utc": "2026-10-31T06:18:09.627989+00:00",
       "platform": "greenhouse",
       "company": "",
       "board_url": "",
