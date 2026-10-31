@@ -45992,5 +45992,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-10-31T05:29:28.235444+00:00",
     "emailed_utc": "2026-10-31T05:29:28.235444+00:00"
+  },
+  {
+    "job_id": "amazon:664ae592-5a49-4b4b-bd36-e2d88a0b9939",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, PXT Central Science",
+    "location": "US, WA, Bellevue",
+    "posted": "October 30, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10593778/software-development-engineer-pxt-central-science",
+    "bucket": "yes",
+    "first_seen_utc": "2026-10-31T12:16:43.891693+00:00",
+    "emailed_utc": "2026-10-31T12:16:43.891693+00:00"
+  },
+  {
+    "job_id": "amazon:3cf14c32-afbc-4c5f-971e-17ee2e399f85",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer II, Lightsail",
+    "location": "US, WA, Seattle",
+    "posted": "October 31, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10591799/software-development-engineer-ii-lightsail",
+    "bucket": "yes",
+    "first_seen_utc": "2026-10-31T12:16:43.891693+00:00",
+    "emailed_utc": "2026-10-31T12:16:43.891693+00:00"
   }
 ]
