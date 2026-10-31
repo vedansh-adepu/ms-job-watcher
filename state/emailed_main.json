@@ -45927,5 +45927,70 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-10-30T22:14:34.776562+00:00",
     "emailed_utc": "2026-10-30T22:14:34.776562+00:00"
+  },
+  {
+    "job_id": "amazon:5ff0199f-83f5-4139-be12-3dc4f8b52bf8",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer (Database) Early Career- 2027 (US)",
+    "location": "US, WA, Seattle",
+    "posted": "October 30, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10593902/software-development-engineer-database-early-career-2027-us",
+    "bucket": "yes",
+    "first_seen_utc": "2026-10-31T05:29:28.235444+00:00",
+    "emailed_utc": "2026-10-31T05:29:28.235444+00:00"
+  },
+  {
+    "job_id": "amazon:fd6b49f9-b435-4160-9712-fe0dd8eebb2e",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer",
+    "location": "US, WA, Seattle",
+    "posted": "October 31, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10593929/software-development-engineer",
+    "bucket": "yes",
+    "first_seen_utc": "2026-10-31T05:29:28.235444+00:00",
+    "emailed_utc": "2026-10-31T05:29:28.235444+00:00"
+  },
+  {
+    "job_id": "amazon:2e075e8a-58ae-465a-98ae-4ce603ccbc71",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Applied Scientist II, AWS Quick",
+    "location": "US, CA, Santa Clara",
+    "posted": "October 30, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10593922/applied-scientist-ii-aws-quick",
+    "bucket": "yes",
+    "first_seen_utc": "2026-10-31T05:29:28.235444+00:00",
+    "emailed_utc": "2026-10-31T05:29:28.235444+00:00"
+  },
+  {
+    "job_id": "amazon:6f3453c3-37a8-42d2-b06d-fee62fbf0601",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Applied Scientist II, AWS Quick",
+    "location": "US, NY, New York",
+    "posted": "October 30, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10593923/applied-scientist-ii-aws-quick",
+    "bucket": "yes",
+    "first_seen_utc": "2026-10-31T05:29:28.235444+00:00",
+    "emailed_utc": "2026-10-31T05:29:28.235444+00:00"
+  },
+  {
+    "job_id": "microsoft:1970393557027529",
+    "pipeline": "main",
+    "platform": "microsoft",
+    "company": "Microsoft",
+    "title": "Senior Azure Advanced Cloud Engineer",
+    "location": "Redmond, WA, US",
+    "posted": "2026-10-30 23:13 UTC",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393557027529",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-10-31T05:29:28.235444+00:00",
+    "emailed_utc": "2026-10-31T05:29:28.235444+00:00"
   }
 ]
