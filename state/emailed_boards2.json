@@ -168894,5 +168894,57 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-10-31T19:34:01.488388+00:00",
     "emailed_utc": "2026-10-31T19:34:01.488388+00:00"
+  },
+  {
+    "job_id": "greenhouse:roblox:8338380",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "roblox",
+    "title": "Software Engineering Manager - Engine Networking",
+    "location": "San Mateo, CA, United States",
+    "posted": "2026-10-31T14:36:47-04:00",
+    "url": "https://careers.roblox.com/jobs/8338380?gh_jid=8338380",
+    "bucket": "yes",
+    "first_seen_utc": "2026-11-01T00:27:53.262737+00:00",
+    "emailed_utc": "2026-11-01T00:27:53.262737+00:00"
+  },
+  {
+    "job_id": "greenhouse:k2spacecorporation:5468956008",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "k2spacecorporation",
+    "title": "Manager, Solar Engineering",
+    "location": "Los Angeles, CA",
+    "posted": "2026-10-30T20:27:14-04:00",
+    "url": "https://job-boards.greenhouse.io/k2spacecorporation/jobs/5468956008",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-11-01T00:27:53.262737+00:00",
+    "emailed_utc": "2026-11-01T00:27:53.262737+00:00"
+  },
+  {
+    "job_id": "greenhouse:relativity:8914636002",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "relativity",
+    "title": "Manufacturing Engineer II, Mechanisms",
+    "location": "Long Beach, California, United States",
+    "posted": "2026-10-30T19:01:05-04:00",
+    "url": "https://boards.greenhouse.io/relativity/jobs/8914636002?gh_jid=8914636002",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-11-01T00:27:53.262737+00:00",
+    "emailed_utc": "2026-11-01T00:27:53.262737+00:00"
+  },
+  {
+    "job_id": "greenhouse:relativity:8926145002",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "relativity",
+    "title": "Staff Materials & Process Engineer",
+    "location": "Long Beach, California, United States",
+    "posted": "2026-10-30T20:03:09-04:00",
+    "url": "https://boards.greenhouse.io/relativity/jobs/8926145002?gh_jid=8926145002",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-11-01T00:27:53.262737+00:00",
+    "emailed_utc": "2026-11-01T00:27:53.262737+00:00"
   }
 ]
