@@ -399371,5 +399371,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-11-01T19:40:26.873712+00:00",
     "emailed_utc": "2026-11-01T19:40:26.873712+00:00"
+  },
+  {
+    "job_id": "workday:intel:External:req:JR0288200",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Intel",
+    "title": "GPU Software Development Engineer",
+    "location": "US, California, Folsom",
+    "posted": "Posted Yesterday",
+    "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Folsom/GPU-Software-Development-Engineer_JR0288200-1",
+    "bucket": "yes",
+    "first_seen_utc": "2026-11-02T00:41:05.824563+00:00",
+    "emailed_utc": "2026-11-02T00:41:05.824563+00:00"
+  },
+  {
+    "job_id": "workday:intel:External:req:JR0288191",
+    "pipeline": "boards",
+    "platform": "workday",
+    "company": "Intel",
+    "title": "AI Silicon Performance Modeling and Analysis Engineer",
+    "location": "US, California, Santa Clara",
+    "posted": "Posted Yesterday",
+    "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Santa-Clara/AI-Silicon-Performance-Modeling-and-Analysis-Engineer_JR0288191",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-11-02T00:41:05.824563+00:00",
+    "emailed_utc": "2026-11-02T00:41:05.824563+00:00"
   }
 ]
