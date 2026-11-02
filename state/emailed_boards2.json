@@ -168959,5 +168959,57 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-11-01T22:27:09.783258+00:00",
     "emailed_utc": "2026-11-01T22:27:09.783258+00:00"
+  },
+  {
+    "job_id": "greenhouse:thesiscareers:5281189007",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "thesiscareers",
+    "title": "AI Engineer",
+    "location": "New York, NY",
+    "posted": "2026-11-01T13:42:50-05:00",
+    "url": "https://job-boards.greenhouse.io/thesiscareers/jobs/5281189007",
+    "bucket": "yes",
+    "first_seen_utc": "2026-11-02T06:51:10.958131+00:00",
+    "emailed_utc": "2026-11-02T06:51:10.958131+00:00"
+  },
+  {
+    "job_id": "greenhouse:queracomputinginc:5463190008",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "queracomputinginc",
+    "title": "Scientific Software Lead \u2014 Infrastructure",
+    "location": "Boston, MA, USA",
+    "posted": "2026-11-01T09:49:51-05:00",
+    "url": "https://job-boards.greenhouse.io/queracomputinginc/jobs/5463190008",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-11-02T06:51:10.958131+00:00",
+    "emailed_utc": "2026-11-02T06:51:10.958131+00:00"
+  },
+  {
+    "job_id": "greenhouse:queracomputinginc:5463189008",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "queracomputinginc",
+    "title": "Senior Scientific Software Engineer \u2014 Autoresearch",
+    "location": "Boston, MA, USA",
+    "posted": "2026-11-01T09:54:28-05:00",
+    "url": "https://job-boards.greenhouse.io/queracomputinginc/jobs/5463189008",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-11-02T06:51:10.958131+00:00",
+    "emailed_utc": "2026-11-02T06:51:10.958131+00:00"
+  },
+  {
+    "job_id": "greenhouse:tailorcare2023:4725384006",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "tailorcare2023",
+    "title": "Lead ML/AI Engineer",
+    "location": "United States",
+    "posted": "2026-11-01T14:58:53-05:00",
+    "url": "https://job-boards.greenhouse.io/tailorcare2023/jobs/4725384006",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-11-02T06:51:10.958131+00:00",
+    "emailed_utc": "2026-11-02T06:51:10.958131+00:00"
   }
 ]
