@@ -46772,5 +46772,44 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-11-03T06:39:08.914432+00:00",
     "emailed_utc": "2026-11-03T06:39:08.914432+00:00"
+  },
+  {
+    "job_id": "nvidia:893398530137",
+    "pipeline": "main",
+    "platform": "nvidia",
+    "company": "NVIDIA",
+    "title": "Senior Software Engineer, AI Developer Tools",
+    "location": "US",
+    "posted": "2026-11-03 00:00 UTC",
+    "url": "https://nvidia.eightfold.ai/careers/job/893398530137",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-11-03T17:01:55.797899+00:00",
+    "emailed_utc": "2026-11-03T17:01:55.797899+00:00"
+  },
+  {
+    "job_id": "nvidia:893398512554",
+    "pipeline": "main",
+    "platform": "nvidia",
+    "company": "NVIDIA",
+    "title": "Senior System Software Engineer - Networking",
+    "location": "Austin, TX, US",
+    "posted": "2026-11-03 00:00 UTC",
+    "url": "https://nvidia.eightfold.ai/careers/job/893398512554",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-11-03T17:01:55.797899+00:00",
+    "emailed_utc": "2026-11-03T17:01:55.797899+00:00"
+  },
+  {
+    "job_id": "amazon:8a42fcef-cd05-4e9d-b16c-9f5599aacc61",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Manage, Prime Video Title Promotions and Personalization",
+    "location": "US, WA, Seattle",
+    "posted": "November  3, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10584973/software-development-manage-prime-video-title-promotions-and-personalization",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-11-03T17:01:55.797899+00:00",
+    "emailed_utc": "2026-11-03T17:01:55.797899+00:00"
   }
 ]
