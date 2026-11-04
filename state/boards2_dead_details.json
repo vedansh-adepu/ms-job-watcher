@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-03T19:50:35.213706+00:00",
+  "updated_utc": "2026-11-04T01:44:05.846240+00:00",
   "dead_details": {
     "lever:livechatinc": {
       "first_seen_utc": "2026-07-01T19:31:29.430568+00:00",
@@ -3722,6 +3722,42 @@
       "first_seen_utc": "2026-11-03T19:50:24.192841+00:00",
       "last_seen_utc": "2026-11-03T19:50:24.192841+00:00",
       "platform": "greenhouse",
+      "company": "",
+      "board_url": "",
+      "last_status": 404,
+      "last_error": "HTTP 404/410 (board not found)"
+    },
+    "lever:code2040": {
+      "first_seen_utc": "2026-11-04T01:42:08.502383+00:00",
+      "last_seen_utc": "2026-11-04T01:42:08.502383+00:00",
+      "platform": "lever",
+      "company": "",
+      "board_url": "",
+      "last_status": 404,
+      "last_error": "HTTP 404/410 (board not found)"
+    },
+    "lever:compasslexecon": {
+      "first_seen_utc": "2026-11-04T01:42:09.802507+00:00",
+      "last_seen_utc": "2026-11-04T01:42:09.802507+00:00",
+      "platform": "lever",
+      "company": "",
+      "board_url": "",
+      "last_status": 404,
+      "last_error": "HTTP 404/410 (board not found)"
+    },
+    "lever:copiapower": {
+      "first_seen_utc": "2026-11-04T01:42:11.371444+00:00",
+      "last_seen_utc": "2026-11-04T01:42:11.371444+00:00",
+      "platform": "lever",
+      "company": "",
+      "board_url": "",
+      "last_status": 404,
+      "last_error": "HTTP 404/410 (board not found)"
+    },
+    "lever:docsumo": {
+      "first_seen_utc": "2026-11-04T01:42:17.227612+00:00",
+      "last_seen_utc": "2026-11-04T01:42:17.227612+00:00",
+      "platform": "lever",
       "company": "",
       "board_url": "",
       "last_status": 404,
