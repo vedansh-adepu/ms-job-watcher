@@ -47175,5 +47175,70 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-11-03T23:15:51.089508+00:00",
     "emailed_utc": "2026-11-03T23:15:51.089508+00:00"
+  },
+  {
+    "job_id": "amazon:b134aab9-f6fb-4676-ad5b-2853a51b1579",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Applied Scientist II, Prime Video Personalization and Discovery Science, Prime Video - Personalization and Discovery Science",
+    "location": "US, WA, Seattle",
+    "posted": "November  4, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10595247/applied-scientist-ii-prime-video-personalization-and-discovery-science-prime-video-personalization-and-discovery-science",
+    "bucket": "yes",
+    "first_seen_utc": "2026-11-04T06:06:18.875704+00:00",
+    "emailed_utc": "2026-11-04T06:06:18.875704+00:00"
+  },
+  {
+    "job_id": "amazon:5d275323-8583-4669-9e20-bc7e7f78fecf",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Applied Scientist, Automated Reasoning Group",
+    "location": "US, WA, Seattle",
+    "posted": "October 30, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10593664/applied-scientist-automated-reasoning-group",
+    "bucket": "yes",
+    "first_seen_utc": "2026-11-04T06:06:18.875704+00:00",
+    "emailed_utc": "2026-11-04T06:06:18.875704+00:00"
+  },
+  {
+    "job_id": "amazon:573e3fe0-9221-4ff4-9d94-b09daae38fbd",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer II, Amazon Connect Customer",
+    "location": "US, WA, Seattle",
+    "posted": "November  4, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10595515/software-development-engineer-ii-amazon-connect-customer",
+    "bucket": "yes",
+    "first_seen_utc": "2026-11-04T06:06:18.875704+00:00",
+    "emailed_utc": "2026-11-04T06:06:18.875704+00:00"
+  },
+  {
+    "job_id": "nvidia:893398477319",
+    "pipeline": "main",
+    "platform": "nvidia",
+    "company": "NVIDIA",
+    "title": "Senior System Software Engineer\u2014 Autonomous Driving Context Fusion",
+    "location": "Santa Clara, CA, US",
+    "posted": "2026-11-03 00:00 UTC",
+    "url": "https://nvidia.eightfold.ai/careers/job/893398477319",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-11-04T06:06:18.875704+00:00",
+    "emailed_utc": "2026-11-04T06:06:18.875704+00:00"
+  },
+  {
+    "job_id": "amazon:d169c201-3c10-466b-bff9-cb7101824176",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Senior Forward Deployed Engineer, AWS Forward Deployed Engineering ",
+    "location": "US, VA, Arlington",
+    "posted": "November  3, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10596078/senior-forward-deployed-engineer-aws-forward-deployed-engineering",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-11-04T06:06:18.875704+00:00",
+    "emailed_utc": "2026-11-04T06:06:18.875704+00:00"
   }
 ]
