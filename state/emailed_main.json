@@ -47240,5 +47240,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-11-04T06:06:18.875704+00:00",
     "emailed_utc": "2026-11-04T06:06:18.875704+00:00"
+  },
+  {
+    "job_id": "amazon:da0d5cb7-5d1b-4595-82ab-be9c688f4d38",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer III, Resilience Infrastruction and Solutions: Incident Mitigation",
+    "location": "US, OR, Portland",
+    "posted": "November  4, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10596393/software-development-engineer-iii-resilience-infrastruction-and-solutions-incident-mitigation",
+    "bucket": "yes",
+    "first_seen_utc": "2026-11-04T14:23:13.363480+00:00",
+    "emailed_utc": "2026-11-04T14:23:13.363480+00:00"
+  },
+  {
+    "job_id": "amazon:98b85ab4-a1f0-406a-854e-fd68a6e557eb",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Senior Engineer, SoC HAL",
+    "location": "US, CA, Cupertino",
+    "posted": "November  4, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10596233/senior-engineer-soc-hal",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-11-04T14:23:13.363480+00:00",
+    "emailed_utc": "2026-11-04T14:23:13.363480+00:00"
   }
 ]
