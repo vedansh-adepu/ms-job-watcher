@@ -48124,5 +48124,83 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-11-05T23:35:17.758662+00:00",
     "emailed_utc": "2026-11-05T23:35:17.758662+00:00"
+  },
+  {
+    "job_id": "amazon:05db0ea2-1dc1-4b14-aab9-38816f24b97e",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, SoC HAL",
+    "location": "US, CA, Cupertino",
+    "posted": "November  6, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10598432/software-development-engineer-soc-hal",
+    "bucket": "yes",
+    "first_seen_utc": "2026-11-06T06:31:11.636559+00:00",
+    "emailed_utc": "2026-11-06T06:31:11.636559+00:00"
+  },
+  {
+    "job_id": "amazon:e5b2a720-9bf2-4b1c-88bb-2377947ce73d",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer - III, AWS OpenSearch, New Initiative",
+    "location": "US, CA, Santa Clara",
+    "posted": "November  6, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10598382/software-development-engineer-iii-aws-opensearch-new-initiative",
+    "bucket": "yes",
+    "first_seen_utc": "2026-11-06T06:31:11.636559+00:00",
+    "emailed_utc": "2026-11-06T06:31:11.636559+00:00"
+  },
+  {
+    "job_id": "amazon:4fc923d7-4f7e-4243-92b0-717a0e164b58",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer II, KMS",
+    "location": "US, WA, Seattle",
+    "posted": "November  6, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10598421/software-development-engineer-ii-kms",
+    "bucket": "yes",
+    "first_seen_utc": "2026-11-06T06:31:11.636559+00:00",
+    "emailed_utc": "2026-11-06T06:31:11.636559+00:00"
+  },
+  {
+    "job_id": "microsoft:1970393557050194",
+    "pipeline": "main",
+    "platform": "microsoft",
+    "company": "Microsoft",
+    "title": "Microwave Design and Layout Engineer",
+    "location": "Redmond, WA, US",
+    "posted": "2026-11-06 01:04 UTC",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393557050194",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-11-06T06:31:11.636559+00:00",
+    "emailed_utc": "2026-11-06T06:31:11.636559+00:00"
+  },
+  {
+    "job_id": "microsoft:1970393557053367",
+    "pipeline": "main",
+    "platform": "microsoft",
+    "company": "Microsoft",
+    "title": "Software Engineer II(s) + Senior Software Engineer(s)",
+    "location": "Redmond, WA, US",
+    "posted": "2026-11-05 01:13 UTC",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393557053367",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-11-06T06:31:11.636559+00:00",
+    "emailed_utc": "2026-11-06T06:31:11.636559+00:00"
+  },
+  {
+    "job_id": "amazon:64b1bfcd-0ef1-4ae8-b6e2-cf9359fb296d",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Forward Deployed Engineer (FDE), AWS Forward Deployed Engineering, US Government",
+    "location": "US, CO, Denver",
+    "posted": "November  5, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10597417/forward-deployed-engineer-fde-aws-forward-deployed-engineering-us-government",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-11-06T06:31:11.636559+00:00",
+    "emailed_utc": "2026-11-06T06:31:11.636559+00:00"
   }
 ]
