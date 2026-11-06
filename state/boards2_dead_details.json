@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-05T20:18:24.338528+00:00",
+  "updated_utc": "2026-11-06T01:49:48.708918+00:00",
   "dead_details": {
     "lever:livechatinc": {
       "first_seen_utc": "2026-07-01T19:31:29.430568+00:00",
@@ -3794,6 +3794,24 @@
       "first_seen_utc": "2026-11-05T11:32:29.376131+00:00",
       "last_seen_utc": "2026-11-05T11:32:29.376131+00:00",
       "platform": "lever",
+      "company": "",
+      "board_url": "",
+      "last_status": 404,
+      "last_error": "HTTP 404/410 (board not found)"
+    },
+    "greenhouse:crescendohealth": {
+      "first_seen_utc": "2026-11-06T01:49:40.496455+00:00",
+      "last_seen_utc": "2026-11-06T01:49:40.496455+00:00",
+      "platform": "greenhouse",
+      "company": "",
+      "board_url": "",
+      "last_status": 404,
+      "last_error": "HTTP 404/410 (board not found)"
+    },
+    "greenhouse:gr8tech": {
+      "first_seen_utc": "2026-11-06T01:49:44.524440+00:00",
+      "last_seen_utc": "2026-11-06T01:49:44.524440+00:00",
+      "platform": "greenhouse",
       "company": "",
       "board_url": "",
       "last_status": 404,
