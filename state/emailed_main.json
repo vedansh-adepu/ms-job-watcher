@@ -48644,5 +48644,70 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-11-06T23:03:13.956290+00:00",
     "emailed_utc": "2026-11-06T23:03:13.956290+00:00"
+  },
+  {
+    "job_id": "nvidia:893398606041",
+    "pipeline": "main",
+    "platform": "nvidia",
+    "company": "NVIDIA",
+    "title": "Machine Learning Engineer, Data Curation - Autonomous Vehicles",
+    "location": "Santa Clara, CA, US",
+    "posted": "2026-11-06 00:00 UTC",
+    "url": "https://nvidia.eightfold.ai/careers/job/893398606041",
+    "bucket": "yes",
+    "first_seen_utc": "2026-11-07T05:51:26.927081+00:00",
+    "emailed_utc": "2026-11-07T05:51:26.927081+00:00"
+  },
+  {
+    "job_id": "amazon:9663c54e-f48e-4f8a-b9fe-0070ac35c762",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, Amazon Leo, Embedded Platform",
+    "location": "US, WA, Redmond",
+    "posted": "November  7, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10599299/software-development-engineer-amazon-leo-embedded-platform",
+    "bucket": "yes",
+    "first_seen_utc": "2026-11-07T05:51:26.927081+00:00",
+    "emailed_utc": "2026-11-07T05:51:26.927081+00:00"
+  },
+  {
+    "job_id": "nvidia:893398605758",
+    "pipeline": "main",
+    "platform": "nvidia",
+    "company": "NVIDIA",
+    "title": "Senior System Software Engineer, DGX Cloud AI Infrastructure",
+    "location": "Santa Clara, CA, US",
+    "posted": "2026-11-06 00:00 UTC",
+    "url": "https://nvidia.eightfold.ai/careers/job/893398605758",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-11-07T05:51:26.927081+00:00",
+    "emailed_utc": "2026-11-07T05:51:26.927081+00:00"
+  },
+  {
+    "job_id": "nvidia:893398433227",
+    "pipeline": "main",
+    "platform": "nvidia",
+    "company": "NVIDIA",
+    "title": "Senior Software Engineer, Release Management Platform",
+    "location": "Santa Clara, CA, US",
+    "posted": "2026-11-06 00:00 UTC",
+    "url": "https://nvidia.eightfold.ai/careers/job/893398433227",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-11-07T05:51:26.927081+00:00",
+    "emailed_utc": "2026-11-07T05:51:26.927081+00:00"
+  },
+  {
+    "job_id": "nvidia:893398606039",
+    "pipeline": "main",
+    "platform": "nvidia",
+    "company": "NVIDIA",
+    "title": "Senior Machine Learning Data Pipeline Engineer",
+    "location": "Santa Clara, CA, US",
+    "posted": "2026-11-06 00:00 UTC",
+    "url": "https://nvidia.eightfold.ai/careers/job/893398606039",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-11-07T05:51:26.927081+00:00",
+    "emailed_utc": "2026-11-07T05:51:26.927081+00:00"
   }
 ]
