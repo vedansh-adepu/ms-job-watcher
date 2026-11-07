@@ -1,55 +1,5 @@
 [
   {
-    "ts": "2026-08-30T10:51Z",
-    "mode": "main",
-    "per_source": {
-      "microsoft": {
-        "fetched": 219,
-        "title_ok": 117,
-        "loc_ok": 117,
-        "new": 0,
-        "emailed": 0
-      },
-      "amazon": {
-        "fetched": 300,
-        "title_ok": 282,
-        "loc_ok": 282,
-        "new": 0,
-        "emailed": 0
-      },
-      "nvidia": {
-        "fetched": 20,
-        "title_ok": 19,
-        "loc_ok": 19,
-        "new": 0,
-        "emailed": 0
-      },
-      "goldman_sachs": {
-        "fetched": 0,
-        "title_ok": 0,
-        "loc_ok": 0,
-        "new": 0,
-        "emailed": 0
-      },
-      "ibm": {
-        "fetched": 37,
-        "title_ok": 30,
-        "loc_ok": 13,
-        "new": 0,
-        "emailed": 0
-      },
-      "oracle": {
-        "fetched": 0,
-        "title_ok": 0,
-        "loc_ok": 0,
-        "new": 0,
-        "emailed": 0
-      }
-    },
-    "duration_s": 12.0,
-    "cursor": null
-  },
-  {
     "ts": "2026-08-30T11:03Z",
     "mode": "boards",
     "per_source": {
@@ -32192,5 +32142,48 @@
     },
     "duration_s": 12.7,
     "cursor": null
+  },
+  {
+    "ts": "2026-11-07T05:55Z",
+    "mode": "boards",
+    "per_source": {
+      "greenhouse": {
+        "fetched": 1793,
+        "title_ok": 563,
+        "loc_ok": 366,
+        "new": 10,
+        "emailed": 10
+      },
+      "lever": {
+        "fetched": 634,
+        "title_ok": 268,
+        "loc_ok": 212,
+        "new": 3,
+        "emailed": 3
+      },
+      "smartrecruiters": {
+        "fetched": 142,
+        "title_ok": 26,
+        "loc_ok": 22,
+        "new": 1,
+        "emailed": 1
+      },
+      "ashby": {
+        "fetched": 4706,
+        "title_ok": 1709,
+        "loc_ok": 417,
+        "new": 13,
+        "emailed": 13
+      },
+      "workday": {
+        "fetched": 2500,
+        "title_ok": 543,
+        "loc_ok": 191,
+        "new": 9,
+        "emailed": 29
+      }
+    },
+    "duration_s": 67.0,
+    "cursor": 1000
   }
 ]
