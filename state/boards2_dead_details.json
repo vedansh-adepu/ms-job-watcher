@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-09T01:17:01.928753+00:00",
+  "updated_utc": "2026-11-09T12:10:11.374614+00:00",
   "dead_details": {
     "lever:livechatinc": {
       "first_seen_utc": "2026-07-01T19:31:29.430568+00:00",
@@ -3892,6 +3892,15 @@
     "lever:matrixpartners": {
       "first_seen_utc": "2026-11-09T01:16:01.769270+00:00",
       "last_seen_utc": "2026-11-09T01:16:01.769270+00:00",
+      "platform": "lever",
+      "company": "",
+      "board_url": "",
+      "last_status": 404,
+      "last_error": "HTTP 404/410 (board not found)"
+    },
+    "lever:voxy-engen": {
+      "first_seen_utc": "2026-11-09T12:09:47.389011+00:00",
+      "last_seen_utc": "2026-11-09T12:09:47.389011+00:00",
       "platform": "lever",
       "company": "",
       "board_url": "",
