@@ -178020,5 +178020,70 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-11-08T19:58:37.996729+00:00",
     "emailed_utc": "2026-11-08T19:58:37.996729+00:00"
+  },
+  {
+    "job_id": "greenhouse:vardaspace:8198712003",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "vardaspace",
+    "title": "Senior Avionics Hardware Development Engineer",
+    "location": "El Segundo, California, United States",
+    "posted": "2026-11-07T20:59:27-05:00",
+    "url": "https://job-boards.greenhouse.io/vardaspace/jobs/8198712003",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-11-09T01:17:01.749066+00:00",
+    "emailed_utc": "2026-11-09T01:17:01.749066+00:00"
+  },
+  {
+    "job_id": "greenhouse:vardaspace:8198709003",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "vardaspace",
+    "title": "Senior Systems Engineer, Avionics",
+    "location": "El Segundo, California, United States",
+    "posted": "2026-11-07T20:48:55-05:00",
+    "url": "https://job-boards.greenhouse.io/vardaspace/jobs/8198709003",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-11-09T01:17:01.749066+00:00",
+    "emailed_utc": "2026-11-09T01:17:01.749066+00:00"
+  },
+  {
+    "job_id": "greenhouse:waymo:8363212",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "waymo",
+    "title": "Senior Signal and Power Integrity Engineer",
+    "location": "Mountain View, CA, USA",
+    "posted": "2026-11-07T21:30:50-05:00",
+    "url": "https://careers.withwaymo.com/jobs?gh_jid=8363212",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-11-09T01:17:01.749066+00:00",
+    "emailed_utc": "2026-11-09T01:17:01.749066+00:00"
+  },
+  {
+    "job_id": "greenhouse:waymo:8363213",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "waymo",
+    "title": "Staff Systems Engineer, Driving Behaviors",
+    "location": "Mountain View, CA, USA; San Francisco, CA, USA",
+    "posted": "2026-11-07T21:33:00-05:00",
+    "url": "https://careers.withwaymo.com/jobs?gh_jid=8363213",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-11-09T01:17:01.749066+00:00",
+    "emailed_utc": "2026-11-09T01:17:01.749066+00:00"
+  },
+  {
+    "job_id": "greenhouse:xai:5288098007",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "xai",
+    "title": "Lead Engineer, AI Infrastructure (C++, C)",
+    "location": "Palo Alto, CA; Seattle, WA",
+    "posted": "2026-11-08T01:55:58-05:00",
+    "url": "https://job-boards.greenhouse.io/xai/jobs/5288098007",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-11-09T01:17:01.749066+00:00",
+    "emailed_utc": "2026-11-09T01:17:01.749066+00:00"
   }
 ]
