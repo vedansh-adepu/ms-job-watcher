@@ -49216,5 +49216,83 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-11-10T01:29:55.330507+00:00",
     "emailed_utc": "2026-11-10T01:29:55.330507+00:00"
+  },
+  {
+    "job_id": "amazon:fa4a4f6a-0337-4cf1-892e-c96ee9003fa7",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, Amazon Customer Service ",
+    "location": "US, WA, Seattle",
+    "posted": "November 10, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10600903/software-development-engineer-amazon-customer-service",
+    "bucket": "yes",
+    "first_seen_utc": "2026-11-10T11:02:59.653408+00:00",
+    "emailed_utc": "2026-11-10T11:02:59.653408+00:00"
+  },
+  {
+    "job_id": "amazon:c247135d-5dfa-41af-be81-997ea3866d02",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, Amazon Publisher Monetization - Video Ads, Ads - Video Demand - Fixed",
+    "location": "US, NY, New York",
+    "posted": "November 10, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10600812/software-development-engineer-amazon-publisher-monetization-video-ads-ads-video-demand-fixed",
+    "bucket": "yes",
+    "first_seen_utc": "2026-11-10T11:02:59.653408+00:00",
+    "emailed_utc": "2026-11-10T11:02:59.653408+00:00"
+  },
+  {
+    "job_id": "amazon:32d2b633-f761-42d5-9eef-ae187ab23e7a",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Embedded Software Engineer, Merlin Platform",
+    "location": "US, WA, Redmond",
+    "posted": "November 10, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10600836/embedded-software-engineer-merlin-platform",
+    "bucket": "yes",
+    "first_seen_utc": "2026-11-10T11:02:59.653408+00:00",
+    "emailed_utc": "2026-11-10T11:02:59.653408+00:00"
+  },
+  {
+    "job_id": "amazon:e077637e-a98f-44b3-8bd0-a9664020ffc1",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, ML Symphony, ML-Symphony",
+    "location": "US, CA, Santa Clara",
+    "posted": "November 10, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10600478/software-development-engineer-ml-symphony-ml-symphony",
+    "bucket": "yes",
+    "first_seen_utc": "2026-11-10T11:02:59.653408+00:00",
+    "emailed_utc": "2026-11-10T11:02:59.653408+00:00"
+  },
+  {
+    "job_id": "nvidia:893398640586",
+    "pipeline": "main",
+    "platform": "nvidia",
+    "company": "NVIDIA",
+    "title": "Principal Software Engineer, Cloud Infrastructure",
+    "location": "Santa Clara, CA, US",
+    "posted": "2026-11-09 00:00 UTC",
+    "url": "https://nvidia.eightfold.ai/careers/job/893398640586",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-11-10T11:02:59.653408+00:00",
+    "emailed_utc": "2026-11-10T11:02:59.653408+00:00"
+  },
+  {
+    "job_id": "amazon:0e418d48-6942-4a38-ae83-be1c08cbe437",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Manager III, Security Engineer, AWS Vulnerability Management - Third Party Software and Software Supply Chain",
+    "location": "US, TX, Austin",
+    "posted": "November 10, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10600790/manager-iii-security-engineer-aws-vulnerability-management-third-party-software-and-software-supply-chain",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-11-10T11:02:59.653408+00:00",
+    "emailed_utc": "2026-11-10T11:02:59.653408+00:00"
   }
 ]
