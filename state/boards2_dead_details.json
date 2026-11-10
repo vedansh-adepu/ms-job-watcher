@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-10T07:46:03.018424+00:00",
+  "updated_utc": "2026-11-10T17:22:05.115410+00:00",
   "dead_details": {
     "lever:livechatinc": {
       "first_seen_utc": "2026-07-01T19:31:29.430568+00:00",
@@ -3911,6 +3911,69 @@
       "first_seen_utc": "2026-11-09T22:43:52.901548+00:00",
       "last_seen_utc": "2026-11-09T22:43:52.901548+00:00",
       "platform": "greenhouse",
+      "company": "",
+      "board_url": "",
+      "last_status": 404,
+      "last_error": "HTTP 404/410 (board not found)"
+    },
+    "greenhouse:zam": {
+      "first_seen_utc": "2026-11-10T17:18:54.205830+00:00",
+      "last_seen_utc": "2026-11-10T17:18:54.205830+00:00",
+      "platform": "greenhouse",
+      "company": "",
+      "board_url": "",
+      "last_status": 404,
+      "last_error": "HTTP 404/410 (board not found)"
+    },
+    "lever:analogfolk": {
+      "first_seen_utc": "2026-11-10T17:19:16.896122+00:00",
+      "last_seen_utc": "2026-11-10T17:19:16.896122+00:00",
+      "platform": "lever",
+      "company": "",
+      "board_url": "",
+      "last_status": 404,
+      "last_error": "HTTP 404/410 (board not found)"
+    },
+    "lever:clari": {
+      "first_seen_utc": "2026-11-10T17:19:42.070824+00:00",
+      "last_seen_utc": "2026-11-10T17:19:42.070824+00:00",
+      "platform": "lever",
+      "company": "",
+      "board_url": "",
+      "last_status": 404,
+      "last_error": "HTTP 404/410 (board not found)"
+    },
+    "lever:gearset": {
+      "first_seen_utc": "2026-11-10T17:20:01.467386+00:00",
+      "last_seen_utc": "2026-11-10T17:20:01.467386+00:00",
+      "platform": "lever",
+      "company": "",
+      "board_url": "",
+      "last_status": 404,
+      "last_error": "HTTP 404/410 (board not found)"
+    },
+    "lever:groupbyinc": {
+      "first_seen_utc": "2026-11-10T17:20:06.209892+00:00",
+      "last_seen_utc": "2026-11-10T17:20:06.209892+00:00",
+      "platform": "lever",
+      "company": "",
+      "board_url": "",
+      "last_status": 404,
+      "last_error": "HTTP 404/410 (board not found)"
+    },
+    "lever:plivo": {
+      "first_seen_utc": "2026-11-10T17:21:13.520080+00:00",
+      "last_seen_utc": "2026-11-10T17:21:13.520080+00:00",
+      "platform": "lever",
+      "company": "",
+      "board_url": "",
+      "last_status": 404,
+      "last_error": "HTTP 404/410 (board not found)"
+    },
+    "lever:skello": {
+      "first_seen_utc": "2026-11-10T17:21:31.221185+00:00",
+      "last_seen_utc": "2026-11-10T17:21:31.221185+00:00",
+      "platform": "lever",
       "company": "",
       "board_url": "",
       "last_status": 404,
