@@ -50100,5 +50100,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-11-11T01:13:04.984065+00:00",
     "emailed_utc": "2026-11-11T01:13:04.984065+00:00"
+  },
+  {
+    "job_id": "amazon:d8970edc-b7f9-4162-8100-4d29dd02477b",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Engineer I, Commerce",
+    "location": "US, CA, San Francisco",
+    "posted": "November 11, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10599912/software-engineer-i-commerce",
+    "bucket": "yes",
+    "first_seen_utc": "2026-11-11T10:47:14.235960+00:00",
+    "emailed_utc": "2026-11-11T10:47:14.235960+00:00"
+  },
+  {
+    "job_id": "amazon:dc32f61d-55b3-4fd1-bb1b-bcd7a1ed09c3",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Manager, Amazon Customer Service",
+    "location": "US, WA, Seattle",
+    "posted": "November 11, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10602169/software-development-manager-amazon-customer-service",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-11-11T10:47:14.235960+00:00",
+    "emailed_utc": "2026-11-11T10:47:14.235960+00:00"
   }
 ]
