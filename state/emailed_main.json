@@ -51231,5 +51231,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-11-13T01:47:38.583070+00:00",
     "emailed_utc": "2026-11-13T01:47:38.583070+00:00"
+  },
+  {
+    "job_id": "amazon:1116330d-76fb-4894-8f14-a7c18491317c",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Applied Scientist, Superconducting Digital and Cryogenic Control Electronics,Center for Quantum Computing, Physical Design and Simulation, Enabling Technologies",
+    "location": "US, CA, San Francisco",
+    "posted": "November 13, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10603690/applied-scientist-superconducting-digital-and-cryogenic-control-electronics-center-for-quantum-computing-physical-design-and-simulation-enabling-technologies",
+    "bucket": "yes",
+    "first_seen_utc": "2026-11-13T10:52:37.850829+00:00",
+    "emailed_utc": "2026-11-13T10:52:37.850829+00:00"
+  },
+  {
+    "job_id": "amazon:f35a67c9-22ac-475a-b955-2936f9daf3e1",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Manager, AWS OpenSearch",
+    "location": "US, WA, Bellevue",
+    "posted": "November 13, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10601188/software-development-manager-aws-opensearch",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-11-13T10:52:37.850829+00:00",
+    "emailed_utc": "2026-11-13T10:52:37.850829+00:00"
   }
 ]
