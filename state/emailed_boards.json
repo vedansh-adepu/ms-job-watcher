@@ -443779,5 +443779,70 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-11-15T01:02:06.377980+00:00",
     "emailed_utc": "2026-11-15T01:02:06.377980+00:00"
+  },
+  {
+    "job_id": "greenhouse:cmt:8385978",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Cmt",
+    "title": "Software Engineer I, Cloud",
+    "location": "Cambridge, MA",
+    "posted": "2026-11-13T12:11:24-05:00",
+    "url": "https://job-boards.greenhouse.io/cmt/jobs/8385978",
+    "bucket": "yes",
+    "first_seen_utc": "2026-11-15T10:46:04.349709+00:00",
+    "emailed_utc": "2026-11-15T10:46:04.349709+00:00"
+  },
+  {
+    "job_id": "ashby:factory:b553864f-79f2-4b45-9e66-550c31cf0e1c",
+    "pipeline": "boards",
+    "platform": "ashby",
+    "company": "Factory",
+    "title": "RVP, Solutions Engineering, Enterprise",
+    "location": "San Francisco, CA",
+    "posted": "",
+    "url": "https://jobs.ashbyhq.com/factory/b553864f-79f2-4b45-9e66-550c31cf0e1c",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-11-15T10:46:04.349709+00:00",
+    "emailed_utc": "2026-11-15T10:46:04.349709+00:00"
+  },
+  {
+    "job_id": "ashby:airwallex:664bb020-bdda-4004-8e6e-b7d504123f9b",
+    "pipeline": "boards",
+    "platform": "ashby",
+    "company": "Airwallex",
+    "title": "Senior Software Engineer, Data Platform & AI Enablement",
+    "location": "US - Seattle",
+    "posted": "",
+    "url": "https://jobs.ashbyhq.com/airwallex/664bb020-bdda-4004-8e6e-b7d504123f9b",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-11-15T10:46:04.349709+00:00",
+    "emailed_utc": "2026-11-15T10:46:04.349709+00:00"
+  },
+  {
+    "job_id": "greenhouse:planetlabs:8353172",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Planetlabs",
+    "title": "Manufacturing Engineer",
+    "location": "San Francisco, CA",
+    "posted": "2026-11-13T20:03:57-05:00",
+    "url": "https://job-boards.greenhouse.io/planetlabs/jobs/8353172",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-11-15T10:46:04.349709+00:00",
+    "emailed_utc": "2026-11-15T10:46:04.349709+00:00"
+  },
+  {
+    "job_id": "greenhouse:lucidmotors:5295322007",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Lucidmotors",
+    "title": "Sr. Manager, Engineering & PM",
+    "location": "Phoenix, AZ",
+    "posted": "2026-11-13T19:51:34-05:00",
+    "url": "https://lucidmotors.com/careers/search/5295322007?gh_jid=5295322007",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-11-15T10:46:04.349709+00:00",
+    "emailed_utc": "2026-11-15T10:46:04.349709+00:00"
   }
 ]
