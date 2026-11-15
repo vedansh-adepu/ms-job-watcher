@@ -51933,5 +51933,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-11-15T06:17:23.231879+00:00",
     "emailed_utc": "2026-11-15T06:17:23.231879+00:00"
+  },
+  {
+    "job_id": "amazon:62204bf8-ac24-4fe1-8e95-4af05d4eef63",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, Live and Linear Catalog",
+    "location": "US, WA, Seattle",
+    "posted": "November 15, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10605448/software-development-engineer-live-and-linear-catalog",
+    "bucket": "yes",
+    "first_seen_utc": "2026-11-15T16:18:43.109285+00:00",
+    "emailed_utc": "2026-11-15T16:18:43.109285+00:00"
+  },
+  {
+    "job_id": "amazon:9c5f84fa-82d6-4d98-8b96-b4c03b967651",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Machine Learning Engineer, CreativeFlux, AI Studios ",
+    "location": "US, NY, New York",
+    "posted": "November 15, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10605453/machine-learning-engineer-creativeflux-ai-studios",
+    "bucket": "yes",
+    "first_seen_utc": "2026-11-15T16:18:43.109285+00:00",
+    "emailed_utc": "2026-11-15T16:18:43.109285+00:00"
   }
 ]
