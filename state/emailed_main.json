@@ -51959,5 +51959,31 @@
     "bucket": "yes",
     "first_seen_utc": "2026-11-15T16:18:43.109285+00:00",
     "emailed_utc": "2026-11-15T16:18:43.109285+00:00"
+  },
+  {
+    "job_id": "amazon:f592ffe2-e3d5-4f76-b3a9-e3a5844103cf",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, Agentic AI, Velocity Labs",
+    "location": "US, NY, New York",
+    "posted": "November 15, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10604856/software-development-engineer-agentic-ai-velocity-labs",
+    "bucket": "yes",
+    "first_seen_utc": "2026-11-15T22:46:15.359078+00:00",
+    "emailed_utc": "2026-11-15T22:46:15.359078+00:00"
+  },
+  {
+    "job_id": "amazon:d1ce0bf3-4de3-4aaa-97c5-0201be367796",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Sr. Software Development Engineer, Agentic AI, Velocity Labs",
+    "location": "US, NY, New York",
+    "posted": "November 15, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10604854/sr-software-development-engineer-agentic-ai-velocity-labs",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-11-15T22:46:15.359078+00:00",
+    "emailed_utc": "2026-11-15T22:46:15.359078+00:00"
   }
 ]
