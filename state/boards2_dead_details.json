@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-18T20:55:09.629611+00:00",
+  "updated_utc": "2026-11-19T02:51:49.749662+00:00",
   "dead_details": {
     "lever:livechatinc": {
       "first_seen_utc": "2026-07-01T19:31:29.430568+00:00",
@@ -4208,6 +4208,33 @@
       "first_seen_utc": "2026-11-18T20:55:00.075186+00:00",
       "last_seen_utc": "2026-11-18T20:55:00.075186+00:00",
       "platform": "greenhouse",
+      "company": "",
+      "board_url": "",
+      "last_status": 404,
+      "last_error": "HTTP 404/410 (board not found)"
+    },
+    "lever:confluera": {
+      "first_seen_utc": "2026-11-19T02:50:17.231252+00:00",
+      "last_seen_utc": "2026-11-19T02:50:17.231252+00:00",
+      "platform": "lever",
+      "company": "",
+      "board_url": "",
+      "last_status": 404,
+      "last_error": "HTTP 404/410 (board not found)"
+    },
+    "lever:jupe": {
+      "first_seen_utc": "2026-11-19T02:50:37.293804+00:00",
+      "last_seen_utc": "2026-11-19T02:50:37.293804+00:00",
+      "platform": "lever",
+      "company": "",
+      "board_url": "",
+      "last_status": 404,
+      "last_error": "HTTP 404/410 (board not found)"
+    },
+    "lever:princesspolly": {
+      "first_seen_utc": "2026-11-19T02:50:53.340218+00:00",
+      "last_seen_utc": "2026-11-19T02:50:53.340218+00:00",
+      "platform": "lever",
       "company": "",
       "board_url": "",
       "last_status": 404,
