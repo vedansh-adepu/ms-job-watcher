@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-19T02:51:49.749662+00:00",
+  "updated_utc": "2026-11-19T12:10:20.193762+00:00",
   "dead_details": {
     "lever:livechatinc": {
       "first_seen_utc": "2026-07-01T19:31:29.430568+00:00",
@@ -4234,6 +4234,15 @@
     "lever:princesspolly": {
       "first_seen_utc": "2026-11-19T02:50:53.340218+00:00",
       "last_seen_utc": "2026-11-19T02:50:53.340218+00:00",
+      "platform": "lever",
+      "company": "",
+      "board_url": "",
+      "last_status": 404,
+      "last_error": "HTTP 404/410 (board not found)"
+    },
+    "lever:unify": {
+      "first_seen_utc": "2026-11-19T12:09:47.327970+00:00",
+      "last_seen_utc": "2026-11-19T12:09:47.327970+00:00",
       "platform": "lever",
       "company": "",
       "board_url": "",
