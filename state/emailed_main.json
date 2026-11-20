@@ -54052,5 +54052,44 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-11-20T02:16:08.141668+00:00",
     "emailed_utc": "2026-11-20T02:16:08.141668+00:00"
+  },
+  {
+    "job_id": "amazon:2948342e-011f-478b-a2b2-10ebf40cf5b4",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer II, Amazon Inspector Security Engineering",
+    "location": "US, VA, Herndon",
+    "posted": "November 20, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10610063/software-development-engineer-ii-amazon-inspector-security-engineering",
+    "bucket": "yes",
+    "first_seen_utc": "2026-11-20T11:26:26.250068+00:00",
+    "emailed_utc": "2026-11-20T11:26:26.250068+00:00"
+  },
+  {
+    "job_id": "amazon:e3c61e79-bce8-4087-a842-64f0140df461",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Sr. Embedded Software Dev Engineer, Amazon Leo for Government - Flight Software Team",
+    "location": "US, CA, Northridge",
+    "posted": "November 20, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10610098/sr-embedded-software-dev-engineer-amazon-leo-for-government-flight-software-team",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-11-20T11:26:26.250068+00:00",
+    "emailed_utc": "2026-11-20T11:26:26.250068+00:00"
+  },
+  {
+    "job_id": "amazon:8b1f4973-b32b-4d0a-a7ba-15f3123d0c6c",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": " Sr. Applied Scientist, Foundation Model",
+    "location": "US, MA, Wilmington",
+    "posted": "November 20, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10610081/sr-applied-scientist-foundation-model",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-11-20T11:26:26.250068+00:00",
+    "emailed_utc": "2026-11-20T11:26:26.250068+00:00"
   }
 ]
