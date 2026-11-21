@@ -54494,5 +54494,70 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-11-21T02:09:30.182130+00:00",
     "emailed_utc": "2026-11-21T02:09:30.182130+00:00"
+  },
+  {
+    "job_id": "amazon:edfb4de0-fc88-41a5-a65c-b27e59acde8e",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Embedded Software Engineer, Leo MAC",
+    "location": "US, WA, Redmond",
+    "posted": "November 21, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10610936/embedded-software-engineer-leo-mac",
+    "bucket": "yes",
+    "first_seen_utc": "2026-11-21T10:55:47.941433+00:00",
+    "emailed_utc": "2026-11-21T10:55:47.941433+00:00"
+  },
+  {
+    "job_id": "microsoft:1970393557041631",
+    "pipeline": "main",
+    "platform": "microsoft",
+    "company": "Microsoft",
+    "title": "Senior Firmware Engineer",
+    "location": "Redmond, WA, US",
+    "posted": "2026-11-10 20:01 UTC",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393557041631",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-11-21T10:55:47.941433+00:00",
+    "emailed_utc": "2026-11-21T10:55:47.941433+00:00"
+  },
+  {
+    "job_id": "nvidia:893398854221",
+    "pipeline": "main",
+    "platform": "nvidia",
+    "company": "NVIDIA",
+    "title": "Principal Software Engineer and System Architect",
+    "location": "Santa Clara, CA, US",
+    "posted": "2026-11-20 00:00 UTC",
+    "url": "https://nvidia.eightfold.ai/careers/job/893398854221",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-11-21T10:55:47.941433+00:00",
+    "emailed_utc": "2026-11-21T10:55:47.941433+00:00"
+  },
+  {
+    "job_id": "nvidia:893398854214",
+    "pipeline": "main",
+    "platform": "nvidia",
+    "company": "NVIDIA",
+    "title": "Senior Software Engineer, DSX OS Control Plane",
+    "location": "Santa Clara, CA, US",
+    "posted": "2026-11-20 00:00 UTC",
+    "url": "https://nvidia.eightfold.ai/careers/job/893398854214",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-11-21T10:55:47.941433+00:00",
+    "emailed_utc": "2026-11-21T10:55:47.941433+00:00"
+  },
+  {
+    "job_id": "nvidia:893398854216",
+    "pipeline": "main",
+    "platform": "nvidia",
+    "company": "NVIDIA",
+    "title": "Senior System Software Engineer - AI Factory Automation",
+    "location": "US",
+    "posted": "2026-11-20 00:00 UTC",
+    "url": "https://nvidia.eightfold.ai/careers/job/893398854216",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-11-21T10:55:47.941433+00:00",
+    "emailed_utc": "2026-11-21T10:55:47.941433+00:00"
   }
 ]
