@@ -455713,5 +455713,83 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-11-22T01:15:19.150651+00:00",
     "emailed_utc": "2026-11-22T01:15:19.150651+00:00"
+  },
+  {
+    "job_id": "greenhouse:fourhands:4474216009",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "fourhands",
+    "title": "Product Developer, Dining",
+    "location": "Austin, TX",
+    "posted": "2026-11-20T14:00:23-05:00",
+    "url": "https://job-boards.greenhouse.io/fourhands/jobs/4474216009",
+    "bucket": "yes",
+    "first_seen_utc": "2026-11-22T11:13:41.285536+00:00",
+    "emailed_utc": "2026-11-22T11:13:41.285536+00:00"
+  },
+  {
+    "job_id": "greenhouse:elastic:8407578",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Elastic",
+    "title": "Principal Software Engineer - Search Infra - Elasticsearch",
+    "location": "United States",
+    "posted": "2026-11-20T18:47:33-05:00",
+    "url": "https://jobs.elastic.co/jobs?gh_jid=8407578&gh_jid=8407578",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-11-22T11:13:41.285536+00:00",
+    "emailed_utc": "2026-11-22T11:13:41.285536+00:00"
+  },
+  {
+    "job_id": "greenhouse:elastic:8407503",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Elastic",
+    "title": "Principal Software Engineer - Vector Search - Elasticsearch",
+    "location": "United States",
+    "posted": "2026-11-20T18:09:12-05:00",
+    "url": "https://jobs.elastic.co/jobs?gh_jid=8407503&gh_jid=8407503",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-11-22T11:13:41.285536+00:00",
+    "emailed_utc": "2026-11-22T11:13:41.285536+00:00"
+  },
+  {
+    "job_id": "greenhouse:elastic:8406163",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Elastic",
+    "title": "Senior Software Engineer - Vector Search - Elasticsearch",
+    "location": "United States",
+    "posted": "2026-11-20T12:14:41-05:00",
+    "url": "https://jobs.elastic.co/jobs?gh_jid=8406163&gh_jid=8406163",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-11-22T11:13:41.285536+00:00",
+    "emailed_utc": "2026-11-22T11:13:41.285536+00:00"
+  },
+  {
+    "job_id": "lever:esrtreit:4f82d289-32cf-4310-846e-05df9d2d22f4",
+    "pipeline": "boards",
+    "platform": "lever",
+    "company": "esrtreit",
+    "title": "Network Engineer",
+    "location": "New York, New York, United States",
+    "posted": "2026-11-20 16:24 UTC",
+    "url": "https://jobs.lever.co/esrtreit/4f82d289-32cf-4310-846e-05df9d2d22f4",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-11-22T11:13:41.285536+00:00",
+    "emailed_utc": "2026-11-22T11:13:41.285536+00:00"
+  },
+  {
+    "job_id": "greenhouse:gleanwork:4757440005",
+    "pipeline": "boards",
+    "platform": "greenhouse",
+    "company": "Glean",
+    "title": "Strategic Solutions Engineer, West",
+    "location": "Mountain View, CA; San Francisco Bay Area",
+    "posted": "2026-11-20T16:28:15-05:00",
+    "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4757440005",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-11-22T11:13:41.285536+00:00",
+    "emailed_utc": "2026-11-22T11:13:41.285536+00:00"
   }
 ]
