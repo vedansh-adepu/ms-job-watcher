@@ -196363,5 +196363,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-11-22T12:00:42.969780+00:00",
     "emailed_utc": "2026-11-22T12:00:42.969780+00:00"
+  },
+  {
+    "job_id": "greenhouse:ispottv:4757516005",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "ispottv",
+    "title": "Principal Research Data Scientist",
+    "location": "Bellevue, WA",
+    "posted": "2026-11-22T12:03:58-05:00",
+    "url": "https://job-boards.greenhouse.io/ispottv/jobs/4757516005",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-11-22T19:59:57.776789+00:00",
+    "emailed_utc": "2026-11-22T19:59:57.776789+00:00"
+  },
+  {
+    "job_id": "greenhouse:ooma:5301233007",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "ooma",
+    "title": "Senior Telephony Engineer",
+    "location": "Remote, US",
+    "posted": "2026-11-22T01:28:13-05:00",
+    "url": "https://job-boards.greenhouse.io/ooma/jobs/5301233007",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-11-22T19:59:57.776789+00:00",
+    "emailed_utc": "2026-11-22T19:59:57.776789+00:00"
   }
 ]
