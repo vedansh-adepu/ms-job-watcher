@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-22T01:35:56.731339+00:00",
+  "updated_utc": "2026-11-22T12:00:43.175800+00:00",
   "dead_details": {
     "lever:livechatinc": {
       "first_seen_utc": "2026-07-01T19:31:29.430568+00:00",
@@ -4270,6 +4270,33 @@
     "greenhouse:tula": {
       "first_seen_utc": "2026-11-20T12:12:09.521839+00:00",
       "last_seen_utc": "2026-11-20T12:12:09.521839+00:00",
+      "platform": "greenhouse",
+      "company": "",
+      "board_url": "",
+      "last_status": 404,
+      "last_error": "HTTP 404/410 (board not found)"
+    },
+    "greenhouse:brightsign": {
+      "first_seen_utc": "2026-11-22T12:00:14.161342+00:00",
+      "last_seen_utc": "2026-11-22T12:00:14.161342+00:00",
+      "platform": "greenhouse",
+      "company": "",
+      "board_url": "",
+      "last_status": 404,
+      "last_error": "HTTP 404/410 (board not found)"
+    },
+    "greenhouse:durable": {
+      "first_seen_utc": "2026-11-22T12:00:19.320987+00:00",
+      "last_seen_utc": "2026-11-22T12:00:19.320987+00:00",
+      "platform": "greenhouse",
+      "company": "",
+      "board_url": "",
+      "last_status": 404,
+      "last_error": "HTTP 404/410 (board not found)"
+    },
+    "greenhouse:getscale": {
+      "first_seen_utc": "2026-11-22T12:00:22.931515+00:00",
+      "last_seen_utc": "2026-11-22T12:00:22.931515+00:00",
       "platform": "greenhouse",
       "company": "",
       "board_url": "",
