@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-24T14:18:12.832288+00:00",
+  "updated_utc": "2026-11-25T00:09:36.939470+00:00",
   "dead_details": {
     "lever:livechatinc": {
       "first_seen_utc": "2026-07-01T19:31:29.430568+00:00",
@@ -4388,6 +4388,96 @@
       "first_seen_utc": "2026-11-24T14:18:10.004953+00:00",
       "last_seen_utc": "2026-11-24T14:18:10.004953+00:00",
       "platform": "greenhouse",
+      "company": "",
+      "board_url": "",
+      "last_status": 404,
+      "last_error": "HTTP 404/410 (board not found)"
+    },
+    "lever:autonomous": {
+      "first_seen_utc": "2026-11-25T00:07:35.073185+00:00",
+      "last_seen_utc": "2026-11-25T00:07:35.073185+00:00",
+      "platform": "lever",
+      "company": "",
+      "board_url": "",
+      "last_status": 404,
+      "last_error": "HTTP 404/410 (board not found)"
+    },
+    "lever:betterlifepartners": {
+      "first_seen_utc": "2026-11-25T00:07:48.066253+00:00",
+      "last_seen_utc": "2026-11-25T00:07:48.066253+00:00",
+      "platform": "lever",
+      "company": "",
+      "board_url": "",
+      "last_status": 404,
+      "last_error": "HTTP 404/410 (board not found)"
+    },
+    "lever:ethenalabs": {
+      "first_seen_utc": "2026-11-25T00:08:15.896468+00:00",
+      "last_seen_utc": "2026-11-25T00:08:15.896468+00:00",
+      "platform": "lever",
+      "company": "",
+      "board_url": "",
+      "last_status": 404,
+      "last_error": "HTTP 404/410 (board not found)"
+    },
+    "lever:finfit": {
+      "first_seen_utc": "2026-11-25T00:08:16.857628+00:00",
+      "last_seen_utc": "2026-11-25T00:08:16.857628+00:00",
+      "platform": "lever",
+      "company": "",
+      "board_url": "",
+      "last_status": 404,
+      "last_error": "HTTP 404/410 (board not found)"
+    },
+    "lever:lahaus": {
+      "first_seen_utc": "2026-11-25T00:08:32.308244+00:00",
+      "last_seen_utc": "2026-11-25T00:08:32.308244+00:00",
+      "platform": "lever",
+      "company": "",
+      "board_url": "",
+      "last_status": 404,
+      "last_error": "HTTP 404/410 (board not found)"
+    },
+    "lever:mednow": {
+      "first_seen_utc": "2026-11-25T00:08:37.087791+00:00",
+      "last_seen_utc": "2026-11-25T00:08:37.087791+00:00",
+      "platform": "lever",
+      "company": "",
+      "board_url": "",
+      "last_status": 404,
+      "last_error": "HTTP 404/410 (board not found)"
+    },
+    "lever:mirai-foods": {
+      "first_seen_utc": "2026-11-25T00:08:38.160129+00:00",
+      "last_seen_utc": "2026-11-25T00:08:38.160129+00:00",
+      "platform": "lever",
+      "company": "",
+      "board_url": "",
+      "last_status": 404,
+      "last_error": "HTTP 404/410 (board not found)"
+    },
+    "lever:momenti-inc": {
+      "first_seen_utc": "2026-11-25T00:08:38.650219+00:00",
+      "last_seen_utc": "2026-11-25T00:08:38.650219+00:00",
+      "platform": "lever",
+      "company": "",
+      "board_url": "",
+      "last_status": 404,
+      "last_error": "HTTP 404/410 (board not found)"
+    },
+    "lever:spine-media": {
+      "first_seen_utc": "2026-11-25T00:09:05.272918+00:00",
+      "last_seen_utc": "2026-11-25T00:09:05.272918+00:00",
+      "platform": "lever",
+      "company": "",
+      "board_url": "",
+      "last_status": 404,
+      "last_error": "HTTP 404/410 (board not found)"
+    },
+    "lever:synmax": {
+      "first_seen_utc": "2026-11-25T00:09:08.968415+00:00",
+      "last_seen_utc": "2026-11-25T00:09:08.968415+00:00",
+      "platform": "lever",
       "company": "",
       "board_url": "",
       "last_status": 404,
