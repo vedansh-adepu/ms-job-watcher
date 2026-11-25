@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-25T09:10:50.114063+00:00",
+  "updated_utc": "2026-11-25T19:37:28.584056+00:00",
   "dead_details": {
     "lever:livechatinc": {
       "first_seen_utc": "2026-07-01T19:31:29.430568+00:00",
@@ -4487,6 +4487,51 @@
       "first_seen_utc": "2026-11-25T09:10:36.293948+00:00",
       "last_seen_utc": "2026-11-25T09:10:36.293948+00:00",
       "platform": "lever",
+      "company": "",
+      "board_url": "",
+      "last_status": 404,
+      "last_error": "HTTP 404/410 (board not found)"
+    },
+    "greenhouse:blockrenovation": {
+      "first_seen_utc": "2026-11-25T19:36:57.664377+00:00",
+      "last_seen_utc": "2026-11-25T19:36:57.664377+00:00",
+      "platform": "greenhouse",
+      "company": "",
+      "board_url": "",
+      "last_status": 404,
+      "last_error": "HTTP 404/410 (board not found)"
+    },
+    "greenhouse:buildops": {
+      "first_seen_utc": "2026-11-25T19:36:58.507700+00:00",
+      "last_seen_utc": "2026-11-25T19:36:58.507700+00:00",
+      "platform": "greenhouse",
+      "company": "",
+      "board_url": "",
+      "last_status": 404,
+      "last_error": "HTTP 404/410 (board not found)"
+    },
+    "greenhouse:growe": {
+      "first_seen_utc": "2026-11-25T19:37:08.079210+00:00",
+      "last_seen_utc": "2026-11-25T19:37:08.079210+00:00",
+      "platform": "greenhouse",
+      "company": "",
+      "board_url": "",
+      "last_status": 404,
+      "last_error": "HTTP 404/410 (board not found)"
+    },
+    "greenhouse:growetalentpool": {
+      "first_seen_utc": "2026-11-25T19:37:08.107658+00:00",
+      "last_seen_utc": "2026-11-25T19:37:08.107658+00:00",
+      "platform": "greenhouse",
+      "company": "",
+      "board_url": "",
+      "last_status": 404,
+      "last_error": "HTTP 404/410 (board not found)"
+    },
+    "greenhouse:growetalents": {
+      "first_seen_utc": "2026-11-25T19:37:08.107680+00:00",
+      "last_seen_utc": "2026-11-25T19:37:08.107680+00:00",
+      "platform": "greenhouse",
       "company": "",
       "board_url": "",
       "last_status": 404,
