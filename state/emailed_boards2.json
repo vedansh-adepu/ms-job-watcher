@@ -200601,5 +200601,70 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-11-27T13:09:07.646494+00:00",
     "emailed_utc": "2026-11-27T13:09:07.646494+00:00"
+  },
+  {
+    "job_id": "greenhouse:ionq:6272414004",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "ionq",
+    "title": "Senior QPU Design Engineer",
+    "location": "Bothell, Washington, United States",
+    "posted": "2026-11-27T08:55:31-05:00",
+    "url": "https://ionq.com/job?gh_jid=6272414004",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-11-27T23:46:11.846838+00:00",
+    "emailed_utc": "2026-11-27T23:46:11.846838+00:00"
+  },
+  {
+    "job_id": "greenhouse:klaviyo:8210535003",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "klaviyo",
+    "title": "Lead Security Engineer, Cloud Infrastructure",
+    "location": "Boston, MA",
+    "posted": "2026-11-27T13:33:32-05:00",
+    "url": "https://www.klaviyo.com/careers/jobs/8210535003?gh_jid=8210535003",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-11-27T23:46:11.846838+00:00",
+    "emailed_utc": "2026-11-27T23:46:11.846838+00:00"
+  },
+  {
+    "job_id": "greenhouse:physicsx:4789202101",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "physicsx",
+    "title": "Senior Research Machine Learning Engineer ",
+    "location": "New York, United States",
+    "posted": "2026-11-26T12:37:50-05:00",
+    "url": "https://job-boards.eu.greenhouse.io/physicsx/jobs/4789202101",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-11-27T23:46:11.846838+00:00",
+    "emailed_utc": "2026-11-27T23:46:11.846838+00:00"
+  },
+  {
+    "job_id": "greenhouse:relativity:8964299002",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "relativity",
+    "title": "Senior Avionics Systems Engineer",
+    "location": "Long Beach, California, United States",
+    "posted": "2026-11-27T13:33:43-05:00",
+    "url": "https://boards.greenhouse.io/relativity/jobs/8964299002?gh_jid=8964299002",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-11-27T23:46:11.846838+00:00",
+    "emailed_utc": "2026-11-27T23:46:11.846838+00:00"
+  },
+  {
+    "job_id": "greenhouse:roblox:8283619",
+    "pipeline": "boards2",
+    "platform": "greenhouse",
+    "company": "roblox",
+    "title": "Principal Security Software Engineer - Identity Access Management (IAM)",
+    "location": "San Mateo, CA, United States",
+    "posted": "2026-11-27T14:39:18-05:00",
+    "url": "https://careers.roblox.com/jobs/8283619?gh_jid=8283619",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-11-27T23:46:11.846838+00:00",
+    "emailed_utc": "2026-11-27T23:46:11.846838+00:00"
   }
 ]
