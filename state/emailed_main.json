@@ -55885,5 +55885,31 @@
     "bucket": "yes",
     "first_seen_utc": "2026-11-26T16:47:54.163815+00:00",
     "emailed_utc": "2026-11-26T16:47:54.163815+00:00"
+  },
+  {
+    "job_id": "amazon:4304dadf-8453-4c8b-a7fd-b527930489e3",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Embedded Software Engineer, Amazon Leo Government, ALG Software",
+    "location": "US, WA, Redmond",
+    "posted": "November 26, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10610906/embedded-software-engineer-amazon-leo-government-alg-software",
+    "bucket": "yes",
+    "first_seen_utc": "2026-11-27T01:42:27.619656+00:00",
+    "emailed_utc": "2026-11-27T01:42:27.619656+00:00"
+  },
+  {
+    "job_id": "microsoft:1970393557079338",
+    "pipeline": "main",
+    "platform": "microsoft",
+    "company": "Microsoft",
+    "title": "Software Engineer II and/or Senior Software Engineer - AI Accelerator Networking",
+    "location": "Redmond, WA, US",
+    "posted": "2026-11-25 21:24 UTC",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393557079338",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-11-27T01:42:27.619656+00:00",
+    "emailed_utc": "2026-11-27T01:42:27.619656+00:00"
   }
 ]
