@@ -55924,5 +55924,57 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-11-27T12:03:19.206549+00:00",
     "emailed_utc": "2026-11-27T12:03:19.206549+00:00"
+  },
+  {
+    "job_id": "amazon:48484f96-df22-4223-bcd7-d02cd67441d5",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, Amazon Leo - GNC SW",
+    "location": "US, WA, Redmond",
+    "posted": "November 27, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10615996/software-development-engineer-amazon-leo-gnc-sw",
+    "bucket": "yes",
+    "first_seen_utc": "2026-11-27T21:08:12.596820+00:00",
+    "emailed_utc": "2026-11-27T21:08:12.596820+00:00"
+  },
+  {
+    "job_id": "amazon:26a1d57e-b02e-4340-a667-0786316063e4",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development Engineer, AWS Security: AWS Field Security, AWS Security: AWS Field Security ",
+    "location": "US, VA, Herndon",
+    "posted": "November 27, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10615936/software-development-engineer-aws-security-aws-field-security-aws-security-aws-field-security",
+    "bucket": "yes",
+    "first_seen_utc": "2026-11-27T21:08:12.596820+00:00",
+    "emailed_utc": "2026-11-27T21:08:12.596820+00:00"
+  },
+  {
+    "job_id": "amazon:faabb69f-132a-4683-8a21-608e25ecb760",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Software Development  Engineer, Aurora Control Plane",
+    "location": "US, WA, Seattle",
+    "posted": "November 27, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10608779/software-development-engineer-aurora-control-plane",
+    "bucket": "yes",
+    "first_seen_utc": "2026-11-27T21:08:12.596820+00:00",
+    "emailed_utc": "2026-11-27T21:08:12.596820+00:00"
+  },
+  {
+    "job_id": "amazon:31589d89-52cc-441b-b7c8-5a87eea9f557",
+    "pipeline": "main",
+    "platform": "amazon",
+    "company": "Amazon",
+    "title": "Sr Applied Scientist, Embedded Battery Algorithms, Energy Storage",
+    "location": "US, CA, Irvine",
+    "posted": "November 27, 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10613684/sr-applied-scientist-embedded-battery-algorithms-energy-storage",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-11-27T21:08:12.596820+00:00",
+    "emailed_utc": "2026-11-27T21:08:12.596820+00:00"
   }
 ]
