@@ -462174,5 +462174,57 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-11-28T03:18:23.822116+00:00",
     "emailed_utc": "2026-11-28T03:18:23.822116+00:00"
+  },
+  {
+    "job_id": "ashby:cohere:6aa3cb2b-ee8b-4c92-b505-3a7509f80d7f",
+    "pipeline": "boards",
+    "platform": "ashby",
+    "company": "Cohere",
+    "title": "Software Engineer, Data Infrastructure",
+    "location": "United States",
+    "posted": "",
+    "url": "https://jobs.ashbyhq.com/cohere/6aa3cb2b-ee8b-4c92-b505-3a7509f80d7f",
+    "bucket": "yes",
+    "first_seen_utc": "2026-11-28T15:28:36.337140+00:00",
+    "emailed_utc": "2026-11-28T15:28:36.337140+00:00"
+  },
+  {
+    "job_id": "ashby:cohere:4ef5101e-b083-49cd-808a-54c754d159e5",
+    "pipeline": "boards",
+    "platform": "ashby",
+    "company": "Cohere",
+    "title": "Senior Staff Data Engineer",
+    "location": "United States",
+    "posted": "",
+    "url": "https://jobs.ashbyhq.com/cohere/4ef5101e-b083-49cd-808a-54c754d159e5",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-11-28T15:28:36.337140+00:00",
+    "emailed_utc": "2026-11-28T15:28:36.337140+00:00"
+  },
+  {
+    "job_id": "ashby:cohere:c4192057-43fa-45c9-a40e-6f29131bf11d",
+    "pipeline": "boards",
+    "platform": "ashby",
+    "company": "Cohere",
+    "title": "Staff Software Engineer, Data Infrastructure",
+    "location": "United States",
+    "posted": "",
+    "url": "https://jobs.ashbyhq.com/cohere/c4192057-43fa-45c9-a40e-6f29131bf11d",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-11-28T15:28:36.337140+00:00",
+    "emailed_utc": "2026-11-28T15:28:36.337140+00:00"
+  },
+  {
+    "job_id": "ashby:cohere:41f23dad-9da2-451a-bd1e-a1800437cb64",
+    "pipeline": "boards",
+    "platform": "ashby",
+    "company": "Cohere",
+    "title": "Staff Software Engineer, Inference Infrastructure",
+    "location": "United States",
+    "posted": "",
+    "url": "https://jobs.ashbyhq.com/cohere/41f23dad-9da2-451a-bd1e-a1800437cb64",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-11-28T15:28:36.337140+00:00",
+    "emailed_utc": "2026-11-28T15:28:36.337140+00:00"
   }
 ]
