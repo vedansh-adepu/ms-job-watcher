@@ -200666,5 +200666,31 @@
     "bucket": "maybe",
     "first_seen_utc": "2026-11-27T23:46:11.846838+00:00",
     "emailed_utc": "2026-11-27T23:46:11.846838+00:00"
+  },
+  {
+    "job_id": "lever:kpler:e61ceaf6-c5b2-4eff-a38e-93922cc5d373",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "kpler",
+    "title": "Data Engineer (Natural Gas)",
+    "location": "United States",
+    "posted": "2026-11-27 17:52 UTC",
+    "url": "https://jobs.lever.co/kpler/e61ceaf6-c5b2-4eff-a38e-93922cc5d373",
+    "bucket": "yes",
+    "first_seen_utc": "2026-11-28T08:29:47.027688+00:00",
+    "emailed_utc": "2026-11-28T08:29:47.027688+00:00"
+  },
+  {
+    "job_id": "lever:pointclickcare:4b3d7d51-2a0c-4447-8d74-fc659c63894f",
+    "pipeline": "boards2",
+    "platform": "lever",
+    "company": "pointclickcare",
+    "title": "Principal Software Engineer",
+    "location": "Remote - US",
+    "posted": "2026-11-26 19:32 UTC",
+    "url": "https://jobs.lever.co/pointclickcare/4b3d7d51-2a0c-4447-8d74-fc659c63894f",
+    "bucket": "maybe",
+    "first_seen_utc": "2026-11-28T08:29:47.027688+00:00",
+    "emailed_utc": "2026-11-28T08:29:47.027688+00:00"
   }
 ]
